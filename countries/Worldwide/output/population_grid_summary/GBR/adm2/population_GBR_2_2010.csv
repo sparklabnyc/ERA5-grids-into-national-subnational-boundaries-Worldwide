@@ -1,0 +1,193 @@
+"ID_2","NAME_2","population_2010"
+1,"Barking and Dagenham",1175627
+2,"Bath and North East Somerset",734896
+3,"Bedfordshire",228866
+4,"Berkshire",779775
+5,"Bexley",2034132
+6,"Blackburn with Darwen",1521460
+7,"Bournemouth",443418
+8,"Brent",3880287
+9,"Brighton and Hove",382379
+10,"Bristol",654359
+11,"Bromley",858505
+12,"Buckinghamshire",907598
+13,"Cambridgeshire",705496
+14,"Camden",2518537
+15,"Cheshire",466632
+16,"Cornwall",458381
+17,"Croydon",3214397
+18,"Cumbria",388503
+19,"Darlington",583974
+20,"Derbyshire",1102653
+21,"Derby",617673
+22,"Devon",839895
+23,"Dorset",394683
+24,"Durham",911056
+25,"Ealing",7227852
+26,"East Riding of Yorkshire",446973
+27,"East Sussex",526537
+28,"Enfield",2518537
+29,"Essex",2544986
+30,"Gloucestershire",718582
+31,"Greenwich",4390024
+32,"Hackney",2518537
+33,"Halton",376646
+34,"Hammersmith and Fulham",4874429
+35,"Hampshire",943229
+36,"Haringey",2518537
+37,"Harrow",1361750
+38,"Hartlepool",262613
+39,"Havering",2396166
+40,"Herefordshire",287486
+41,"Hertfordshire",1855153
+42,"Hillingdon",2353422
+43,"Hounslow",3347564
+44,"Isle of Wight",41783
+45,"Islington",2518537
+46,"Kensington and Chelsea",4874429
+47,"Kent",1042266
+48,"Kingston upon Hull",406936
+49,"Kingston upon Thames",3347564
+50,"Lambeth",4874429
+51,"Lancashire",1306009
+52,"Leicestershire",306284
+53,"Leicester",588242
+54,"Lewisham",3214397
+55,"Lincolnshire",588445
+56,"London",2518537
+57,"Luton",417929
+58,"Manchester",2710500
+59,"Medway",356865
+60,"Merseyside",863720
+61,"Merton",2355892
+62,"Middlesbrough",613757
+63,"Milton Keynes",154335
+64,"Newham",4552669
+65,"Norfolk",744676
+66,"North East Lincolnshire",328345
+67,"North Lincolnshire",248066
+68,"North Somerset",188590
+69,"North Yorkshire",358145
+70,"Northamptonshire",842458
+71,"Northumberland",528360
+72,"Nottinghamshire",978034
+73,"Nottingham",546902
+74,"Oxfordshire",623266
+75,"Peterborough",262607
+76,"Plymouth",303523
+77,"Poole",540858
+78,"Portsmouth",604681
+79,"Redbridge",1175627
+80,"Redcar and Cleveland",300041
+81,"Richmond upon Thames",3347564
+82,"Rutland",49787
+83,"Shropshire",514286
+84,"Somerset",442135
+85,"South Gloucestershire",1072351
+86,"South Yorkshire",1352877
+87,"Southampton",506984
+88,"Southend-on-Sea",845416
+89,"Southwark",4874429
+90,"Staffordshire",1554027
+91,"Stockton-on-Tees",599061
+92,"Stoke-on-Trent",555044
+93,"Suffolk",634571
+94,"Surrey",1719985
+95,"Sutton",2355892
+96,"Swindon",378684
+97,"Telford and Wrekin",339772
+98,"Thurrock",3205133
+99,"Torbay",334300
+100,"Tower Hamlets",6908561
+101,"Tyne and Wear",429931
+102,"Waltham Forest",3694164
+103,"Wandsworth",2355892
+104,"Warrington",508514
+105,"Warwickshire",410522
+106,"West Midlands",1069206
+107,"West Sussex",777557
+108,"West Yorkshire",2511679
+109,"Westminster",4874429
+110,"Wiltshire",602928
+111,"Worcestershire",1767287
+112,"York",217635
+113,"Antrim",161756
+114,"Ards",117973
+115,"Armagh",49370
+116,"Ballymena",83751
+117,"Ballymoney",21143
+118,"Banbridge",159909
+119,"Belfast",605491
+120,"Carrickfergus",615062
+121,"Castlereagh",496404
+122,"Coleraine",62930
+123,"Cookstown",73108
+124,"Craigavon",414188
+125,"Derry",11576
+126,"Down",39292
+127,"Dungannon",36178
+128,"Fermanagh",50838
+129,"Larne",33088
+130,"Limavady",36070
+131,"Lisburn",818069
+132,"Magherafelt",38406
+133,"Moyle",6665
+134,"Newry and Mourne",134528
+135,"Newtownabbey",661031
+136,"North Down",457113
+137,"Omagh",46876
+138,"Strabane",85155
+139,"Aberdeenshire",217567
+140,"Aberdeen",233780
+141,"Angus",87234
+142,"Argyll and Bute",42375
+143,"Clackmannanshire",239137
+144,"Dumfries and Galloway",127457
+145,"Dundee",266063
+146,"East Ayrshire",94945
+147,"East Dunbartonshire",1330019
+148,"East Lothian",60469
+149,"East Renfrewshire",1534711
+150,"Edinburgh",168274
+151,"Eilean Siar",10407
+152,"Falkirk",629791
+153,"Fife",567288
+154,"Glasgow",1311073
+155,"Highland",165440
+156,"Inverclyde",210788
+157,"Midlothian",447704
+158,"Moray",93602
+159,"North Ayshire",138313
+160,"North Lanarkshire",853806
+161,"Orkney Islands",5631
+162,"Perthshire and Kinross",123850
+163,"Renfrewshire",884234
+164,"Scottish Borders",120995
+165,"Shetland Islands",5469
+166,"South Ayrshire",84891
+167,"South Lanarkshire",109417
+168,"Stirling",215291
+169,"West Dunbartonshire",673446
+170,"West Lothian",164547
+171,"Anglesey",20669
+172,"Blaenau Gwent",605162
+173,"Bridgend",150286
+174,"Caerphilly",472376
+175,"Cardiff",1049739
+176,"Carmarthenshire",123879
+177,"Ceredigion",62171
+178,"Conwy",17985
+179,"Denbighshire",29624
+180,"Flintshire",167408
+181,"Gwynedd",95489
+182,"Merthyr Tydfil",335432
+183,"Monmouthshire",12831
+184,"Neath Port Talbot",264589
+185,"Newport",111292
+186,"Pembrokeshire",41418
+187,"Powys",231133
+188,"Rhondda, Cynon, Taff",282570
+189,"Swansea",140689
+190,"Torfaen",663591
+191,"Vale of Glamorgan",603556
+192,"Wrexham",7799

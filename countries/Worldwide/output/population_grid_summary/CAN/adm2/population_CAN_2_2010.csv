@@ -1,0 +1,295 @@
+"ID_2","NAME_2","population_2010"
+1,"Division No. 10",94984
+2,"Division No. 11",1164248
+3,"Division No. 12",61988
+4,"Division No. 13",85086
+5,"Division No. 14",29134
+6,"Division No. 15",38758
+7,"Division No. 16",64344
+8,"Division No. 17",67919
+9,"Division No. 18",13654
+10,"Division No. 19",101906
+11,"Division No. 1",79388
+12,"Division No. 2",152399
+13,"Division No. 3",39418
+14,"Division No. 4",10629
+15,"Division No. 5",53826
+16,"Division No. 6",1278983
+17,"Division No. 7",38943
+18,"Division No. 8",179253
+19,"Division No. 9",19566
+20,"Alberni-Clayoquot",27081
+21,"Bulkley-Nechako",38901
+22,"Capital",50000
+23,"Cariboo",61717
+24,"Central Coast",3264
+25,"Central Kootenay",57002
+26,"Central Okanagan",188939
+27,"Columbia-Shuswap",42739
+28,"Comox-Strathcona",44891
+29,"Cowichan Valley",40704
+30,"East Kootenay",56678
+31,"Fraser-Fort George",91570
+32,"Fraser Valley",292371
+33,"Greater Vancouver",2015769
+34,"Kitimat-Stikine",37309
+35,"Kootenay Boundary",31589
+36,"Mount Waddington",7979
+37,"Nanaimo",107904
+38,"North Okanagan",73587
+39,"Northern Rockies",5687
+40,"Okanagan-Similkameen",80997
+41,"Peace River",59701
+42,"Powell River",4523
+43,"Skeena-Queen Charlotte",15983
+44,"Squamish-Lillooet",37652
+45,"Stikine",1015
+46,"Sunshine Coast",2427
+47,"Thompson-Nicola",129356
+48,"Division No. 10",7736
+49,"Division No. 11",658047
+50,"Division No. 12",38301
+51,"Division No. 13",28580
+52,"Division No. 14",26317
+53,"Division No. 15",22780
+54,"Division No. 16",9778
+55,"Division No. 17",21210
+56,"Division No. 18",21524
+57,"Division No. 19",26074
+58,"Division No. 1",13763
+59,"Division No. 20",9978
+60,"Division No. 21",24376
+61,"Division No. 22",38383
+62,"Division No. 23",8037
+63,"Division No. 2",61297
+64,"Division No. 3",44935
+65,"Division No. 4",8700
+66,"Division No. 5",12563
+67,"Division No. 6",9206
+68,"Division No. 7",62448
+69,"Division No. 8",12663
+70,"Division No. 9",28235
+71,"Albert",9089
+72,"Carleton",22260
+73,"Charlotte",12461
+74,"Gloucester",32597
+75,"Kent",32479
+76,"Kings",86673
+77,"Madawaska",43540
+78,"Northumberland",38523
+79,"Queens",11161
+80,"Restigouche",24774
+81,"Saint John",48280
+82,"Sunbury",17400
+83,"Victoria",20764
+84,"Westmorland",158311
+85,"York",110486
+86,"Division No. 10",24452
+87,"Division No. 11",1438
+88,"Division No. 1",60990
+89,"Division No. 2",13075
+90,"Division No. 3",12378
+91,"Division No. 4",16793
+92,"Division No. 5",40907
+93,"Division No. 6",40092
+94,"Division No. 7",26421
+95,"Division No. 8",20868
+96,"Division No. 9",9578
+97,"Fort Smith",32381
+98,"Inuvik",8318
+99,"Annapolis",18152
+100,"Antigonish",17999
+101,"Cape Breton",69937
+102,"Colchester",56119
+103,"Cumberland",28258
+104,"Digby",12480
+105,"Guysborough",4271
+106,"Halifax",333139
+107,"Hants",33665
+108,"Inverness",10939
+109,"Kings",36553
+110,"Lunenburg",44082
+111,"Pictou",43252
+112,"Queens",12155
+113,"Richmond",3710
+114,"Shelburne",9258
+115,"Victoria",3761
+116,"Yarmouth",20866
+117,"Baffin",7032
+118,"Baffin",4
+119,"Keewatin",5351
+120,"Kitikmeot",4586
+121,"Algoma",104932
+122,"Brant",140908
+123,"Bruce",59459
+124,"Chatham-Kent",116968
+125,"Cochrane",81833
+126,"Dufferin",27292
+127,"Durham",833860
+128,"Elgin",12678
+129,"Essex",100573
+130,"Frontenac",83315
+131,"Greater Sudbury",160297
+132,"Grey",49022
+133,"Haldimand-Norfolk",81692
+134,"Haliburton",18464
+135,"Halton",759801
+136,"Hamilton",356865
+137,"Hastings",86296
+138,"Huron",63103
+139,"Kawartha Lakes",73557
+140,"Kenora",58775
+141,"Lake Erie",22850
+142,"Lake Hurron",105750
+143,"Lake Ontario",1725992
+144,"Lake Superior",51471
+145,"Lambton",141198
+146,"Lanark",81279
+147,"Leeds and Grenville",88405
+148,"Lennox and Addington",18996
+149,"Manitoulin",8285
+150,"Middlesex",482211
+151,"Muskoka",59152
+152,"Niagara",502598
+153,"Nipissing",81372
+154,"Northumberland",39144
+155,"Ottawa",1090353
+156,"Oxford",117522
+157,"Parry Sound",41890
+158,"Peel",1274289
+159,"Perth",80576
+160,"Peterborough",131746
+161,"Prescott and Russell",55641
+162,"Prince Edward",76234
+163,"Rainy River",27048
+164,"Renfrew",56533
+165,"Simcoe",413073
+166,"Stormont, Dundas and Glengarry",109333
+167,"Sudbury",19702
+168,"Thunder Bay",98573
+169,"Timiskaming",33035
+170,"Toronto",4489068
+171,"Waterloo",464841
+172,"Wellington",239691
+173,"York",1643922
+174,"Kings",16227
+175,"Prince",22695
+176,"Queens",44195
+177,"Abitibi-Ouest",19440
+178,"Abitibi",25627
+179,"Acton",22528
+180,"Antoine-Labelle",37595
+181,"Argenteuil",27289
+182,"Arthabaska",38251
+183,"Asbestos",58117
+184,"Avignon",22357
+185,"Bécancour",4880
+186,"Beauce-Sartigan",49143
+187,"Beauharnois-Salaberry",1033511
+188,"Bellechasse",33137
+189,"Bonaventure",14405
+190,"Brome-Missisquoi",33528
+191,"Champlain",2722031
+192,"Charlevoix-Est",8054
+193,"Charlevoix",7234
+194,"Coaticook",15408
+195,"Communauté-Urbaine-de-l'Outaouais",1056170
+196,"Communauté-Urbaine-de-Montréal",3169083
+197,"Communauté-Urbaine-de-Québec",348726
+198,"D'Autray",65272
+199,"Desjardins",334134
+200,"Deux-Montagnes",912392
+201,"Drummond",90258
+202,"Francheville",145026
+203,"Joliette",309260
+204,"Kamouraska",12310
+205,"L'Érable",71579
+206,"L'Amiante",42063
+207,"L'Assomption",113920
+208,"L'Île-d'Orléans",267878
+209,"L'Islet",19539
+210,"La Côte-de-Beaupré",15791
+211,"La Côte-de-Gaspé",14799
+212,"La Haute-Côte-Nord",8701
+213,"La Haute-Gaspésie",7916
+214,"La Haute-Yamaska",70418
+215,"La Jacques-Cartier",25870
+216,"La Matapédia",21946
+217,"La Mitis",15114
+218,"La Nouvelle-Beauce",41234
+219,"La Région-Sherbrookoise",195045
+220,"La Rivière-du-Nord",691768
+221,"La Vallée-de-la-Gatineau",20661
+222,"La Vallée-du-Richelieu",895248
+223,"Lac-Saint-Jean-Est",52883
+224,"Lajemmerais",335660
+225,"Laval",1956326
+226,"Le Bas-Richelieu",22649
+227,"Le Centre-de-la-Mauricie",59790
+228,"Le Domaine-du-Roy",31087
+229,"Le Fjord-du-Saguenay",165311
+230,"Le Granit",20111
+231,"Le Haut-Richelieu",332774
+232,"Le Haut-Saint-François",19205
+233,"Le Haut-Saint-Laurent",44028
+234,"Le Haut-Saint-Maurice",15130
+235,"Le Rocher-Percé",11014
+236,"Le Val-Saint-François",20121
+237,"Les Îles-de-la-Madeleine",9775
+238,"Les Basques",11618
+239,"Les Chutes-de-la-Chaudière",80346
+240,"Les Collines-de-l'Outaouais",115030
+241,"Les Etchemins",11259
+242,"Les Jardins-de-Napierville",11716
+243,"Les Laurentides",43732
+244,"Les Maskoutains",141603
+245,"Les Moulins",2428923
+246,"Les Pays-d'en-Haut",105434
+247,"Lotbinière",47392
+248,"Mékinac",7307
+249,"Manicouagan",18096
+250,"Maria-Chapdelaine",25220
+251,"Maskinongé",28750
+252,"Matane",5639
+253,"Matawinie",50380
+254,"Memphrémagog",26030
+255,"Minganie--Basse-Côte-Nord",3587
+256,"Mirabel",25311
+257,"Montcalm",136937
+258,"Montmagny",19876
+259,"Nicolet-Yamaska",27793
+260,"Nord-du-Québec",40947
+261,"Papineau",26730
+262,"Pontiac",44974
+263,"Portneuf",24452
+264,"Rimouski-Neigette",50118
+265,"Rivière-du-Loup",9085
+266,"Robert-Cliche",32891
+267,"Roussillon",618942
+268,"Rouville",85486
+269,"Rouyn-Noranda",40838
+270,"Sept-Rivières--Caniapiscau",11172
+271,"Témiscamingue",17365
+272,"Témiscouata",17306
+273,"Thérèse-De Blainville",493794
+274,"Vallée-de-l'Or",42086
+275,"Vaudreuil-Soulanges",124124
+276,"Division No. 10",20827
+277,"Division No. 11",266858
+278,"Division No. 12",31033
+279,"Division No. 13",22393
+280,"Division No. 14",29308
+281,"Division No. 15",80649
+282,"Division No. 16",38098
+283,"Division No. 17",39631
+284,"Division No. 18",35676
+285,"Division No. 1",30465
+286,"Division No. 2",21052
+287,"Division No. 3",12708
+288,"Division No. 4",10614
+289,"Division No. 5",31346
+290,"Division No. 6",232465
+291,"Division No. 7",47241
+292,"Division No. 8",28404
+293,"Division No. 9",37540
+294,"Yukon",33160

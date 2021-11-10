@@ -1,0 +1,2921 @@
+"","date","ID_1","NAME_1","t2m"
+"1","2011-01-01",1,"Aegean",10.69
+"2","2011-01-01",2,"Athos",8.33
+"3","2011-01-01",3,"Attica",7.01
+"4","2011-01-01",4,"Crete",9.44
+"5","2011-01-01",5,"Epirus and Western Macedonia",-2.78
+"6","2011-01-01",6,"Macedonia and Thrace",-2.15
+"7","2011-01-01",7,"Peloponnese, Western Greece and the Ionian Islands",6.19
+"8","2011-01-01",8,"Thessaly and Central Greece",1.46
+"9","2011-01-02",1,"Aegean",12.25
+"10","2011-01-02",2,"Athos",9.27
+"11","2011-01-02",3,"Attica",9.75
+"12","2011-01-02",4,"Crete",10.54
+"13","2011-01-02",5,"Epirus and Western Macedonia",1.16
+"14","2011-01-02",6,"Macedonia and Thrace",-0.75
+"15","2011-01-02",7,"Peloponnese, Western Greece and the Ionian Islands",8.1
+"16","2011-01-02",8,"Thessaly and Central Greece",4.12
+"17","2011-01-03",1,"Aegean",13.8
+"18","2011-01-03",2,"Athos",11.11
+"19","2011-01-03",3,"Attica",10.47
+"20","2011-01-03",4,"Crete",12
+"21","2011-01-03",5,"Epirus and Western Macedonia",3.15
+"22","2011-01-03",6,"Macedonia and Thrace",4.43
+"23","2011-01-03",7,"Peloponnese, Western Greece and the Ionian Islands",7.98
+"24","2011-01-03",8,"Thessaly and Central Greece",6.95
+"25","2011-01-04",1,"Aegean",11.91
+"26","2011-01-04",2,"Athos",8.05
+"27","2011-01-04",3,"Attica",9.76
+"28","2011-01-04",4,"Crete",10.65
+"29","2011-01-04",5,"Epirus and Western Macedonia",-0.88
+"30","2011-01-04",6,"Macedonia and Thrace",1.48
+"31","2011-01-04",7,"Peloponnese, Western Greece and the Ionian Islands",7.37
+"32","2011-01-04",8,"Thessaly and Central Greece",4.43
+"33","2011-01-05",1,"Aegean",11.06
+"34","2011-01-05",2,"Athos",6.7
+"35","2011-01-05",3,"Attica",7.19
+"36","2011-01-05",4,"Crete",10.69
+"37","2011-01-05",5,"Epirus and Western Macedonia",-1.05
+"38","2011-01-05",6,"Macedonia and Thrace",0.39
+"39","2011-01-05",7,"Peloponnese, Western Greece and the Ionian Islands",6.12
+"40","2011-01-05",8,"Thessaly and Central Greece",2.98
+"41","2011-01-06",1,"Aegean",10.8
+"42","2011-01-06",2,"Athos",7.35
+"43","2011-01-06",3,"Attica",7.03
+"44","2011-01-06",4,"Crete",10.36
+"45","2011-01-06",5,"Epirus and Western Macedonia",-0.95
+"46","2011-01-06",6,"Macedonia and Thrace",1.57
+"47","2011-01-06",7,"Peloponnese, Western Greece and the Ionian Islands",5.73
+"48","2011-01-06",8,"Thessaly and Central Greece",3.39
+"49","2011-01-07",1,"Aegean",10.31
+"50","2011-01-07",2,"Athos",8.75
+"51","2011-01-07",3,"Attica",7.18
+"52","2011-01-07",4,"Crete",9.7
+"53","2011-01-07",5,"Epirus and Western Macedonia",-1.6
+"54","2011-01-07",6,"Macedonia and Thrace",0.1
+"55","2011-01-07",7,"Peloponnese, Western Greece and the Ionian Islands",5.58
+"56","2011-01-07",8,"Thessaly and Central Greece",2.58
+"57","2011-01-08",1,"Aegean",11.08
+"58","2011-01-08",2,"Athos",9.02
+"59","2011-01-08",3,"Attica",7.37
+"60","2011-01-08",4,"Crete",11.27
+"61","2011-01-08",5,"Epirus and Western Macedonia",-0.88
+"62","2011-01-08",6,"Macedonia and Thrace",-0.25
+"63","2011-01-08",7,"Peloponnese, Western Greece and the Ionian Islands",5.86
+"64","2011-01-08",8,"Thessaly and Central Greece",2.9
+"65","2011-01-09",1,"Aegean",12.83
+"66","2011-01-09",2,"Athos",10.09
+"67","2011-01-09",3,"Attica",9.5
+"68","2011-01-09",4,"Crete",10.54
+"69","2011-01-09",5,"Epirus and Western Macedonia",-0.05
+"70","2011-01-09",6,"Macedonia and Thrace",0.98
+"71","2011-01-09",7,"Peloponnese, Western Greece and the Ionian Islands",6.18
+"72","2011-01-09",8,"Thessaly and Central Greece",3.81
+"73","2011-01-10",1,"Aegean",13.67
+"74","2011-01-10",2,"Athos",10.81
+"75","2011-01-10",3,"Attica",7.7
+"76","2011-01-10",4,"Crete",11.89
+"77","2011-01-10",5,"Epirus and Western Macedonia",-1.24
+"78","2011-01-10",6,"Macedonia and Thrace",1.03
+"79","2011-01-10",7,"Peloponnese, Western Greece and the Ionian Islands",6.43
+"80","2011-01-10",8,"Thessaly and Central Greece",3.67
+"81","2011-01-11",1,"Aegean",14.25
+"82","2011-01-11",2,"Athos",11.47
+"83","2011-01-11",3,"Attica",10.53
+"84","2011-01-11",4,"Crete",12.5
+"85","2011-01-11",5,"Epirus and Western Macedonia",1.3
+"86","2011-01-11",6,"Macedonia and Thrace",3.16
+"87","2011-01-11",7,"Peloponnese, Western Greece and the Ionian Islands",9.78
+"88","2011-01-11",8,"Thessaly and Central Greece",7.1
+"89","2011-01-12",1,"Aegean",14.54
+"90","2011-01-12",2,"Athos",11.18
+"91","2011-01-12",3,"Attica",11.99
+"92","2011-01-12",4,"Crete",12.42
+"93","2011-01-12",5,"Epirus and Western Macedonia",4.2
+"94","2011-01-12",6,"Macedonia and Thrace",5.51
+"95","2011-01-12",7,"Peloponnese, Western Greece and the Ionian Islands",10.24
+"96","2011-01-12",8,"Thessaly and Central Greece",8.2
+"97","2011-01-13",1,"Aegean",13.64
+"98","2011-01-13",2,"Athos",12.06
+"99","2011-01-13",3,"Attica",11.12
+"100","2011-01-13",4,"Crete",11.5
+"101","2011-01-13",5,"Epirus and Western Macedonia",3.71
+"102","2011-01-13",6,"Macedonia and Thrace",7.19
+"103","2011-01-13",7,"Peloponnese, Western Greece and the Ionian Islands",8.24
+"104","2011-01-13",8,"Thessaly and Central Greece",8.42
+"105","2011-01-14",1,"Aegean",13.77
+"106","2011-01-14",2,"Athos",11.6
+"107","2011-01-14",3,"Attica",11.1
+"108","2011-01-14",4,"Crete",11.62
+"109","2011-01-14",5,"Epirus and Western Macedonia",0.5
+"110","2011-01-14",6,"Macedonia and Thrace",4.08
+"111","2011-01-14",7,"Peloponnese, Western Greece and the Ionian Islands",8.14
+"112","2011-01-14",8,"Thessaly and Central Greece",6.35
+"113","2011-01-15",1,"Aegean",13.8
+"114","2011-01-15",2,"Athos",12.1
+"115","2011-01-15",3,"Attica",9.33
+"116","2011-01-15",4,"Crete",12.43
+"117","2011-01-15",5,"Epirus and Western Macedonia",1.19
+"118","2011-01-15",6,"Macedonia and Thrace",5.54
+"119","2011-01-15",7,"Peloponnese, Western Greece and the Ionian Islands",6.56
+"120","2011-01-15",8,"Thessaly and Central Greece",5.47
+"121","2011-01-16",1,"Aegean",14.32
+"122","2011-01-16",2,"Athos",12.64
+"123","2011-01-16",3,"Attica",10.86
+"124","2011-01-16",4,"Crete",11.93
+"125","2011-01-16",5,"Epirus and Western Macedonia",5.49
+"126","2011-01-16",6,"Macedonia and Thrace",8.89
+"127","2011-01-16",7,"Peloponnese, Western Greece and the Ionian Islands",9.9
+"128","2011-01-16",8,"Thessaly and Central Greece",9.12
+"129","2011-01-17",1,"Aegean",12.59
+"130","2011-01-17",2,"Athos",11.13
+"131","2011-01-17",3,"Attica",10.8
+"132","2011-01-17",4,"Crete",11.97
+"133","2011-01-17",5,"Epirus and Western Macedonia",-0.08
+"134","2011-01-17",6,"Macedonia and Thrace",4.12
+"135","2011-01-17",7,"Peloponnese, Western Greece and the Ionian Islands",8.51
+"136","2011-01-17",8,"Thessaly and Central Greece",6.33
+"137","2011-01-18",1,"Aegean",12.51
+"138","2011-01-18",2,"Athos",10.45
+"139","2011-01-18",3,"Attica",9.44
+"140","2011-01-18",4,"Crete",12.01
+"141","2011-01-18",5,"Epirus and Western Macedonia",-0.83
+"142","2011-01-18",6,"Macedonia and Thrace",1.35
+"143","2011-01-18",7,"Peloponnese, Western Greece and the Ionian Islands",5.68
+"144","2011-01-18",8,"Thessaly and Central Greece",2.98
+"145","2011-01-19",1,"Aegean",12.72
+"146","2011-01-19",2,"Athos",10.83
+"147","2011-01-19",3,"Attica",8.02
+"148","2011-01-19",4,"Crete",11.31
+"149","2011-01-19",5,"Epirus and Western Macedonia",-0.1
+"150","2011-01-19",6,"Macedonia and Thrace",1.35
+"151","2011-01-19",7,"Peloponnese, Western Greece and the Ionian Islands",4.97
+"152","2011-01-19",8,"Thessaly and Central Greece",3.48
+"153","2011-01-20",1,"Aegean",12.86
+"154","2011-01-20",2,"Athos",10.66
+"155","2011-01-20",3,"Attica",9.56
+"156","2011-01-20",4,"Crete",10.23
+"157","2011-01-20",5,"Epirus and Western Macedonia",1.29
+"158","2011-01-20",6,"Macedonia and Thrace",3.93
+"159","2011-01-20",7,"Peloponnese, Western Greece and the Ionian Islands",5.22
+"160","2011-01-20",8,"Thessaly and Central Greece",3.46
+"161","2011-01-21",1,"Aegean",14.54
+"162","2011-01-21",2,"Athos",11.47
+"163","2011-01-21",3,"Attica",10.35
+"164","2011-01-21",4,"Crete",11.14
+"165","2011-01-21",5,"Epirus and Western Macedonia",3.71
+"166","2011-01-21",6,"Macedonia and Thrace",5.91
+"167","2011-01-21",7,"Peloponnese, Western Greece and the Ionian Islands",7.88
+"168","2011-01-21",8,"Thessaly and Central Greece",6.25
+"169","2011-01-22",1,"Aegean",14.08
+"170","2011-01-22",2,"Athos",11.53
+"171","2011-01-22",3,"Attica",10.86
+"172","2011-01-22",4,"Crete",11.67
+"173","2011-01-22",5,"Epirus and Western Macedonia",4.5
+"174","2011-01-22",6,"Macedonia and Thrace",7.22
+"175","2011-01-22",7,"Peloponnese, Western Greece and the Ionian Islands",8.38
+"176","2011-01-22",8,"Thessaly and Central Greece",7.81
+"177","2011-01-23",1,"Aegean",15.19
+"178","2011-01-23",2,"Athos",13.5
+"179","2011-01-23",3,"Attica",12.35
+"180","2011-01-23",4,"Crete",12.95
+"181","2011-01-23",5,"Epirus and Western Macedonia",2.6
+"182","2011-01-23",6,"Macedonia and Thrace",6.47
+"183","2011-01-23",7,"Peloponnese, Western Greece and the Ionian Islands",9.07
+"184","2011-01-23",8,"Thessaly and Central Greece",7.26
+"185","2011-01-24",1,"Aegean",14.33
+"186","2011-01-24",2,"Athos",10.77
+"187","2011-01-24",3,"Attica",10.34
+"188","2011-01-24",4,"Crete",12.85
+"189","2011-01-24",5,"Epirus and Western Macedonia",0.07
+"190","2011-01-24",6,"Macedonia and Thrace",3.6
+"191","2011-01-24",7,"Peloponnese, Western Greece and the Ionian Islands",7.82
+"192","2011-01-24",8,"Thessaly and Central Greece",4.84
+"193","2011-01-25",1,"Aegean",11.53
+"194","2011-01-25",2,"Athos",6.73
+"195","2011-01-25",3,"Attica",6.67
+"196","2011-01-25",4,"Crete",12.35
+"197","2011-01-25",5,"Epirus and Western Macedonia",-1.57
+"198","2011-01-25",6,"Macedonia and Thrace",0.84
+"199","2011-01-25",7,"Peloponnese, Western Greece and the Ionian Islands",3.63
+"200","2011-01-25",8,"Thessaly and Central Greece",1.83
+"201","2011-01-26",1,"Aegean",8.4
+"202","2011-01-26",2,"Athos",4.97
+"203","2011-01-26",3,"Attica",2.95
+"204","2011-01-26",4,"Crete",8.84
+"205","2011-01-26",5,"Epirus and Western Macedonia",-7.39
+"206","2011-01-26",6,"Macedonia and Thrace",-3.44
+"207","2011-01-26",7,"Peloponnese, Western Greece and the Ionian Islands",1.82
+"208","2011-01-26",8,"Thessaly and Central Greece",-2.21
+"209","2011-01-27",1,"Aegean",9.63
+"210","2011-01-27",2,"Athos",5.56
+"211","2011-01-27",3,"Attica",5.15
+"212","2011-01-27",4,"Crete",8.02
+"213","2011-01-27",5,"Epirus and Western Macedonia",-4.95
+"214","2011-01-27",6,"Macedonia and Thrace",-4.34
+"215","2011-01-27",7,"Peloponnese, Western Greece and the Ionian Islands",2.03
+"216","2011-01-27",8,"Thessaly and Central Greece",-1.72
+"217","2011-01-28",1,"Aegean",11.74
+"218","2011-01-28",2,"Athos",9.3
+"219","2011-01-28",3,"Attica",9.8
+"220","2011-01-28",4,"Crete",11.91
+"221","2011-01-28",5,"Epirus and Western Macedonia",1.09
+"222","2011-01-28",6,"Macedonia and Thrace",1.64
+"223","2011-01-28",7,"Peloponnese, Western Greece and the Ionian Islands",7.5
+"224","2011-01-28",8,"Thessaly and Central Greece",5.29
+"225","2011-01-29",1,"Aegean",11.47
+"226","2011-01-29",2,"Athos",7.4
+"227","2011-01-29",3,"Attica",9.16
+"228","2011-01-29",4,"Crete",12.38
+"229","2011-01-29",5,"Epirus and Western Macedonia",0.43
+"230","2011-01-29",6,"Macedonia and Thrace",2.57
+"231","2011-01-29",7,"Peloponnese, Western Greece and the Ionian Islands",6.76
+"232","2011-01-29",8,"Thessaly and Central Greece",4.74
+"233","2011-01-30",1,"Aegean",9.25
+"234","2011-01-30",2,"Athos",5.66
+"235","2011-01-30",3,"Attica",6.94
+"236","2011-01-30",4,"Crete",9.84
+"237","2011-01-30",5,"Epirus and Western Macedonia",-0.54
+"238","2011-01-30",6,"Macedonia and Thrace",0.02
+"239","2011-01-30",7,"Peloponnese, Western Greece and the Ionian Islands",5.61
+"240","2011-01-30",8,"Thessaly and Central Greece",3.35
+"241","2011-01-31",1,"Aegean",9.21
+"242","2011-01-31",2,"Athos",7.89
+"243","2011-01-31",3,"Attica",7.7
+"244","2011-01-31",4,"Crete",10.11
+"245","2011-01-31",5,"Epirus and Western Macedonia",0.45
+"246","2011-01-31",6,"Macedonia and Thrace",-0.71
+"247","2011-01-31",7,"Peloponnese, Western Greece and the Ionian Islands",6.9
+"248","2011-01-31",8,"Thessaly and Central Greece",3.94
+"249","2011-02-01",1,"Aegean",9.15
+"250","2011-02-01",2,"Athos",6.38
+"251","2011-02-01",3,"Attica",7.82
+"252","2011-02-01",4,"Crete",9.56
+"253","2011-02-01",5,"Epirus and Western Macedonia",-0.9
+"254","2011-02-01",6,"Macedonia and Thrace",-0.51
+"255","2011-02-01",7,"Peloponnese, Western Greece and the Ionian Islands",6.11
+"256","2011-02-01",8,"Thessaly and Central Greece",4.17
+"257","2011-02-02",1,"Aegean",8.39
+"258","2011-02-02",2,"Athos",6.13
+"259","2011-02-02",3,"Attica",5.51
+"260","2011-02-02",4,"Crete",7.94
+"261","2011-02-02",5,"Epirus and Western Macedonia",-2.81
+"262","2011-02-02",6,"Macedonia and Thrace",-2.02
+"263","2011-02-02",7,"Peloponnese, Western Greece and the Ionian Islands",2.2
+"264","2011-02-02",8,"Thessaly and Central Greece",0.49
+"265","2011-02-03",1,"Aegean",11.75
+"266","2011-02-03",2,"Athos",8.52
+"267","2011-02-03",3,"Attica",7.88
+"268","2011-02-03",4,"Crete",10.84
+"269","2011-02-03",5,"Epirus and Western Macedonia",-0.29
+"270","2011-02-03",6,"Macedonia and Thrace",-1.12
+"271","2011-02-03",7,"Peloponnese, Western Greece and the Ionian Islands",4.99
+"272","2011-02-03",8,"Thessaly and Central Greece",3.5
+"273","2011-02-04",1,"Aegean",11.7
+"274","2011-02-04",2,"Athos",7.21
+"275","2011-02-04",3,"Attica",7.98
+"276","2011-02-04",4,"Crete",10.84
+"277","2011-02-04",5,"Epirus and Western Macedonia",-0.72
+"278","2011-02-04",6,"Macedonia and Thrace",-0.29
+"279","2011-02-04",7,"Peloponnese, Western Greece and the Ionian Islands",4.98
+"280","2011-02-04",8,"Thessaly and Central Greece",2.86
+"281","2011-02-05",1,"Aegean",10.43
+"282","2011-02-05",2,"Athos",7.54
+"283","2011-02-05",3,"Attica",7.61
+"284","2011-02-05",4,"Crete",9.9
+"285","2011-02-05",5,"Epirus and Western Macedonia",-2.8
+"286","2011-02-05",6,"Macedonia and Thrace",-0.77
+"287","2011-02-05",7,"Peloponnese, Western Greece and the Ionian Islands",3.4
+"288","2011-02-05",8,"Thessaly and Central Greece",0.67
+"289","2011-02-06",1,"Aegean",12.28
+"290","2011-02-06",2,"Athos",10.27
+"291","2011-02-06",3,"Attica",5.98
+"292","2011-02-06",4,"Crete",10.37
+"293","2011-02-06",5,"Epirus and Western Macedonia",-1.08
+"294","2011-02-06",6,"Macedonia and Thrace",1.55
+"295","2011-02-06",7,"Peloponnese, Western Greece and the Ionian Islands",3.13
+"296","2011-02-06",8,"Thessaly and Central Greece",1.83
+"297","2011-02-07",1,"Aegean",13.44
+"298","2011-02-07",2,"Athos",11.71
+"299","2011-02-07",3,"Attica",7.29
+"300","2011-02-07",4,"Crete",10.18
+"301","2011-02-07",5,"Epirus and Western Macedonia",0.38
+"302","2011-02-07",6,"Macedonia and Thrace",3.09
+"303","2011-02-07",7,"Peloponnese, Western Greece and the Ionian Islands",3.9
+"304","2011-02-07",8,"Thessaly and Central Greece",3.54
+"305","2011-02-08",1,"Aegean",14.22
+"306","2011-02-08",2,"Athos",11.88
+"307","2011-02-08",3,"Attica",9.4
+"308","2011-02-08",4,"Crete",13.25
+"309","2011-02-08",5,"Epirus and Western Macedonia",0.31
+"310","2011-02-08",6,"Macedonia and Thrace",3.29
+"311","2011-02-08",7,"Peloponnese, Western Greece and the Ionian Islands",6.21
+"312","2011-02-08",8,"Thessaly and Central Greece",4.8
+"313","2011-02-09",1,"Aegean",14.23
+"314","2011-02-09",2,"Athos",11.84
+"315","2011-02-09",3,"Attica",8.91
+"316","2011-02-09",4,"Crete",11.03
+"317","2011-02-09",5,"Epirus and Western Macedonia",0.87
+"318","2011-02-09",6,"Macedonia and Thrace",2.76
+"319","2011-02-09",7,"Peloponnese, Western Greece and the Ionian Islands",6.36
+"320","2011-02-09",8,"Thessaly and Central Greece",4.02
+"321","2011-02-10",1,"Aegean",13.43
+"322","2011-02-10",2,"Athos",11.21
+"323","2011-02-10",3,"Attica",8.59
+"324","2011-02-10",4,"Crete",11.7
+"325","2011-02-10",5,"Epirus and Western Macedonia",0.03
+"326","2011-02-10",6,"Macedonia and Thrace",3.51
+"327","2011-02-10",7,"Peloponnese, Western Greece and the Ionian Islands",5.67
+"328","2011-02-10",8,"Thessaly and Central Greece",4.78
+"329","2011-02-11",1,"Aegean",11.59
+"330","2011-02-11",2,"Athos",10.63
+"331","2011-02-11",3,"Attica",7.62
+"332","2011-02-11",4,"Crete",11.33
+"333","2011-02-11",5,"Epirus and Western Macedonia",-1.48
+"334","2011-02-11",6,"Macedonia and Thrace",1.68
+"335","2011-02-11",7,"Peloponnese, Western Greece and the Ionian Islands",6.5
+"336","2011-02-11",8,"Thessaly and Central Greece",2.59
+"337","2011-02-12",1,"Aegean",12.52
+"338","2011-02-12",2,"Athos",10.76
+"339","2011-02-12",3,"Attica",7.81
+"340","2011-02-12",4,"Crete",9.18
+"341","2011-02-12",5,"Epirus and Western Macedonia",1.25
+"342","2011-02-12",6,"Macedonia and Thrace",1.77
+"343","2011-02-12",7,"Peloponnese, Western Greece and the Ionian Islands",6.8
+"344","2011-02-12",8,"Thessaly and Central Greece",3.11
+"345","2011-02-13",1,"Aegean",14.74
+"346","2011-02-13",2,"Athos",12.18
+"347","2011-02-13",3,"Attica",9.53
+"348","2011-02-13",4,"Crete",11.54
+"349","2011-02-13",5,"Epirus and Western Macedonia",1.91
+"350","2011-02-13",6,"Macedonia and Thrace",6.02
+"351","2011-02-13",7,"Peloponnese, Western Greece and the Ionian Islands",7.15
+"352","2011-02-13",8,"Thessaly and Central Greece",5.05
+"353","2011-02-14",1,"Aegean",13.48
+"354","2011-02-14",2,"Athos",9.8
+"355","2011-02-14",3,"Attica",10.14
+"356","2011-02-14",4,"Crete",10.94
+"357","2011-02-14",5,"Epirus and Western Macedonia",4.25
+"358","2011-02-14",6,"Macedonia and Thrace",5.83
+"359","2011-02-14",7,"Peloponnese, Western Greece and the Ionian Islands",6.82
+"360","2011-02-14",8,"Thessaly and Central Greece",7.31
+"361","2011-02-15",1,"Aegean",12.35
+"362","2011-02-15",2,"Athos",9.95
+"363","2011-02-15",3,"Attica",9.66
+"364","2011-02-15",4,"Crete",10.72
+"365","2011-02-15",5,"Epirus and Western Macedonia",1.72
+"366","2011-02-15",6,"Macedonia and Thrace",5.02
+"367","2011-02-15",7,"Peloponnese, Western Greece and the Ionian Islands",6.79
+"368","2011-02-15",8,"Thessaly and Central Greece",5.65
+"369","2011-02-16",1,"Aegean",11.16
+"370","2011-02-16",2,"Athos",6.35
+"371","2011-02-16",3,"Attica",9.66
+"372","2011-02-16",4,"Crete",11.68
+"373","2011-02-16",5,"Epirus and Western Macedonia",3.51
+"374","2011-02-16",6,"Macedonia and Thrace",3.26
+"375","2011-02-16",7,"Peloponnese, Western Greece and the Ionian Islands",8.28
+"376","2011-02-16",8,"Thessaly and Central Greece",6.82
+"377","2011-02-17",1,"Aegean",10.96
+"378","2011-02-17",2,"Athos",7.82
+"379","2011-02-17",3,"Attica",10.5
+"380","2011-02-17",4,"Crete",10.28
+"381","2011-02-17",5,"Epirus and Western Macedonia",5.37
+"382","2011-02-17",6,"Macedonia and Thrace",3.68
+"383","2011-02-17",7,"Peloponnese, Western Greece and the Ionian Islands",9.16
+"384","2011-02-17",8,"Thessaly and Central Greece",7.86
+"385","2011-02-18",1,"Aegean",15.07
+"386","2011-02-18",2,"Athos",11.14
+"387","2011-02-18",3,"Attica",12.58
+"388","2011-02-18",4,"Crete",13.07
+"389","2011-02-18",5,"Epirus and Western Macedonia",5.6
+"390","2011-02-18",6,"Macedonia and Thrace",5.97
+"391","2011-02-18",7,"Peloponnese, Western Greece and the Ionian Islands",9.55
+"392","2011-02-18",8,"Thessaly and Central Greece",7.97
+"393","2011-02-19",1,"Aegean",14.49
+"394","2011-02-19",2,"Athos",11.71
+"395","2011-02-19",3,"Attica",10.37
+"396","2011-02-19",4,"Crete",12.22
+"397","2011-02-19",5,"Epirus and Western Macedonia",4.65
+"398","2011-02-19",6,"Macedonia and Thrace",8.23
+"399","2011-02-19",7,"Peloponnese, Western Greece and the Ionian Islands",7.92
+"400","2011-02-19",8,"Thessaly and Central Greece",7.31
+"401","2011-02-20",1,"Aegean",12.45
+"402","2011-02-20",2,"Athos",9.57
+"403","2011-02-20",3,"Attica",11.19
+"404","2011-02-20",4,"Crete",12.13
+"405","2011-02-20",5,"Epirus and Western Macedonia",3.75
+"406","2011-02-20",6,"Macedonia and Thrace",5.52
+"407","2011-02-20",7,"Peloponnese, Western Greece and the Ionian Islands",8.39
+"408","2011-02-20",8,"Thessaly and Central Greece",6.98
+"409","2011-02-21",1,"Aegean",10.92
+"410","2011-02-21",2,"Athos",7.76
+"411","2011-02-21",3,"Attica",10.04
+"412","2011-02-21",4,"Crete",11.15
+"413","2011-02-21",5,"Epirus and Western Macedonia",4.77
+"414","2011-02-21",6,"Macedonia and Thrace",4.38
+"415","2011-02-21",7,"Peloponnese, Western Greece and the Ionian Islands",8.48
+"416","2011-02-21",8,"Thessaly and Central Greece",7.31
+"417","2011-02-22",1,"Aegean",12.65
+"418","2011-02-22",2,"Athos",8.48
+"419","2011-02-22",3,"Attica",11.27
+"420","2011-02-22",4,"Crete",12.52
+"421","2011-02-22",5,"Epirus and Western Macedonia",3.32
+"422","2011-02-22",6,"Macedonia and Thrace",3.35
+"423","2011-02-22",7,"Peloponnese, Western Greece and the Ionian Islands",9.35
+"424","2011-02-22",8,"Thessaly and Central Greece",7.91
+"425","2011-02-23",1,"Aegean",13.51
+"426","2011-02-23",2,"Athos",8.91
+"427","2011-02-23",3,"Attica",10.65
+"428","2011-02-23",4,"Crete",11.99
+"429","2011-02-23",5,"Epirus and Western Macedonia",2.08
+"430","2011-02-23",6,"Macedonia and Thrace",3.75
+"431","2011-02-23",7,"Peloponnese, Western Greece and the Ionian Islands",7.23
+"432","2011-02-23",8,"Thessaly and Central Greece",7.32
+"433","2011-02-24",1,"Aegean",12.88
+"434","2011-02-24",2,"Athos",8.65
+"435","2011-02-24",3,"Attica",10.91
+"436","2011-02-24",4,"Crete",11.04
+"437","2011-02-24",5,"Epirus and Western Macedonia",3.08
+"438","2011-02-24",6,"Macedonia and Thrace",4.29
+"439","2011-02-24",7,"Peloponnese, Western Greece and the Ionian Islands",8.96
+"440","2011-02-24",8,"Thessaly and Central Greece",7.53
+"441","2011-02-25",1,"Aegean",11.89
+"442","2011-02-25",2,"Athos",7.19
+"443","2011-02-25",3,"Attica",10.83
+"444","2011-02-25",4,"Crete",10.31
+"445","2011-02-25",5,"Epirus and Western Macedonia",1.24
+"446","2011-02-25",6,"Macedonia and Thrace",3.07
+"447","2011-02-25",7,"Peloponnese, Western Greece and the Ionian Islands",8.9
+"448","2011-02-25",8,"Thessaly and Central Greece",6.01
+"449","2011-02-26",1,"Aegean",10.91
+"450","2011-02-26",2,"Athos",6.61
+"451","2011-02-26",3,"Attica",8.92
+"452","2011-02-26",4,"Crete",11.05
+"453","2011-02-26",5,"Epirus and Western Macedonia",0.31
+"454","2011-02-26",6,"Macedonia and Thrace",2.24
+"455","2011-02-26",7,"Peloponnese, Western Greece and the Ionian Islands",6.97
+"456","2011-02-26",8,"Thessaly and Central Greece",4.84
+"457","2011-02-27",1,"Aegean",10
+"458","2011-02-27",2,"Athos",4.36
+"459","2011-02-27",3,"Attica",7.55
+"460","2011-02-27",4,"Crete",10.4
+"461","2011-02-27",5,"Epirus and Western Macedonia",0.38
+"462","2011-02-27",6,"Macedonia and Thrace",0.59
+"463","2011-02-27",7,"Peloponnese, Western Greece and the Ionian Islands",5.57
+"464","2011-02-27",8,"Thessaly and Central Greece",3.55
+"465","2011-02-28",1,"Aegean",10.19
+"466","2011-02-28",2,"Athos",5.04
+"467","2011-02-28",3,"Attica",7.49
+"468","2011-02-28",4,"Crete",10.4
+"469","2011-02-28",5,"Epirus and Western Macedonia",1.07
+"470","2011-02-28",6,"Macedonia and Thrace",1.23
+"471","2011-02-28",7,"Peloponnese, Western Greece and the Ionian Islands",5.1
+"472","2011-02-28",8,"Thessaly and Central Greece",3.61
+"473","2011-03-01",1,"Aegean",10.73
+"474","2011-03-01",2,"Athos",6.42
+"475","2011-03-01",3,"Attica",8.79
+"476","2011-03-01",4,"Crete",10.55
+"477","2011-03-01",5,"Epirus and Western Macedonia",2.93
+"478","2011-03-01",6,"Macedonia and Thrace",3.16
+"479","2011-03-01",7,"Peloponnese, Western Greece and the Ionian Islands",7.43
+"480","2011-03-01",8,"Thessaly and Central Greece",5.3
+"481","2011-03-02",1,"Aegean",10.89
+"482","2011-03-02",2,"Athos",5.05
+"483","2011-03-02",3,"Attica",9.16
+"484","2011-03-02",4,"Crete",11.24
+"485","2011-03-02",5,"Epirus and Western Macedonia",2.74
+"486","2011-03-02",6,"Macedonia and Thrace",1.63
+"487","2011-03-02",7,"Peloponnese, Western Greece and the Ionian Islands",7.26
+"488","2011-03-02",8,"Thessaly and Central Greece",5.56
+"489","2011-03-03",1,"Aegean",12.28
+"490","2011-03-03",2,"Athos",6.53
+"491","2011-03-03",3,"Attica",9.3
+"492","2011-03-03",4,"Crete",11.63
+"493","2011-03-03",5,"Epirus and Western Macedonia",0.56
+"494","2011-03-03",6,"Macedonia and Thrace",1.7
+"495","2011-03-03",7,"Peloponnese, Western Greece and the Ionian Islands",7.51
+"496","2011-03-03",8,"Thessaly and Central Greece",5.08
+"497","2011-03-04",1,"Aegean",12.03
+"498","2011-03-04",2,"Athos",6.95
+"499","2011-03-04",3,"Attica",9.04
+"500","2011-03-04",4,"Crete",12.74
+"501","2011-03-04",5,"Epirus and Western Macedonia",0.54
+"502","2011-03-04",6,"Macedonia and Thrace",2.37
+"503","2011-03-04",7,"Peloponnese, Western Greece and the Ionian Islands",7.59
+"504","2011-03-04",8,"Thessaly and Central Greece",5.1
+"505","2011-03-05",1,"Aegean",11.4
+"506","2011-03-05",2,"Athos",7.73
+"507","2011-03-05",3,"Attica",8.71
+"508","2011-03-05",4,"Crete",12.08
+"509","2011-03-05",5,"Epirus and Western Macedonia",1.47
+"510","2011-03-05",6,"Macedonia and Thrace",4.14
+"511","2011-03-05",7,"Peloponnese, Western Greece and the Ionian Islands",6.35
+"512","2011-03-05",8,"Thessaly and Central Greece",5.15
+"513","2011-03-06",1,"Aegean",12.56
+"514","2011-03-06",2,"Athos",8.18
+"515","2011-03-06",3,"Attica",7.91
+"516","2011-03-06",4,"Crete",11.86
+"517","2011-03-06",5,"Epirus and Western Macedonia",3.53
+"518","2011-03-06",6,"Macedonia and Thrace",4.18
+"519","2011-03-06",7,"Peloponnese, Western Greece and the Ionian Islands",8.46
+"520","2011-03-06",8,"Thessaly and Central Greece",5.32
+"521","2011-03-07",1,"Aegean",11.2
+"522","2011-03-07",2,"Athos",7.72
+"523","2011-03-07",3,"Attica",10.67
+"524","2011-03-07",4,"Crete",11.94
+"525","2011-03-07",5,"Epirus and Western Macedonia",1.97
+"526","2011-03-07",6,"Macedonia and Thrace",3.15
+"527","2011-03-07",7,"Peloponnese, Western Greece and the Ionian Islands",9.67
+"528","2011-03-07",8,"Thessaly and Central Greece",6.59
+"529","2011-03-08",1,"Aegean",8.71
+"530","2011-03-08",2,"Athos",4.6
+"531","2011-03-08",3,"Attica",4.63
+"532","2011-03-08",4,"Crete",9.02
+"533","2011-03-08",5,"Epirus and Western Macedonia",-2.6
+"534","2011-03-08",6,"Macedonia and Thrace",-0.54
+"535","2011-03-08",7,"Peloponnese, Western Greece and the Ionian Islands",2.76
+"536","2011-03-08",8,"Thessaly and Central Greece",0.56
+"537","2011-03-09",1,"Aegean",5.32
+"538","2011-03-09",2,"Athos",3.15
+"539","2011-03-09",3,"Attica",2.83
+"540","2011-03-09",4,"Crete",4.54
+"541","2011-03-09",5,"Epirus and Western Macedonia",-5.87
+"542","2011-03-09",6,"Macedonia and Thrace",-3.04
+"543","2011-03-09",7,"Peloponnese, Western Greece and the Ionian Islands",0.56
+"544","2011-03-09",8,"Thessaly and Central Greece",-1.79
+"545","2011-03-10",1,"Aegean",5.69
+"546","2011-03-10",2,"Athos",4.57
+"547","2011-03-10",3,"Attica",2.22
+"548","2011-03-10",4,"Crete",5.16
+"549","2011-03-10",5,"Epirus and Western Macedonia",-5.01
+"550","2011-03-10",6,"Macedonia and Thrace",-2.28
+"551","2011-03-10",7,"Peloponnese, Western Greece and the Ionian Islands",0.35
+"552","2011-03-10",8,"Thessaly and Central Greece",-2.64
+"553","2011-03-11",1,"Aegean",8.02
+"554","2011-03-11",2,"Athos",7.94
+"555","2011-03-11",3,"Attica",5.22
+"556","2011-03-11",4,"Crete",6.79
+"557","2011-03-11",5,"Epirus and Western Macedonia",-2.11
+"558","2011-03-11",6,"Macedonia and Thrace",0.37
+"559","2011-03-11",7,"Peloponnese, Western Greece and the Ionian Islands",3.21
+"560","2011-03-11",8,"Thessaly and Central Greece",0.61
+"561","2011-03-12",1,"Aegean",11.45
+"562","2011-03-12",2,"Athos",10.3
+"563","2011-03-12",3,"Attica",6.41
+"564","2011-03-12",4,"Crete",8.93
+"565","2011-03-12",5,"Epirus and Western Macedonia",-0.31
+"566","2011-03-12",6,"Macedonia and Thrace",2.67
+"567","2011-03-12",7,"Peloponnese, Western Greece and the Ionian Islands",4.01
+"568","2011-03-12",8,"Thessaly and Central Greece",2.02
+"569","2011-03-13",1,"Aegean",13
+"570","2011-03-13",2,"Athos",11.34
+"571","2011-03-13",3,"Attica",8.83
+"572","2011-03-13",4,"Crete",9.34
+"573","2011-03-13",5,"Epirus and Western Macedonia",2
+"574","2011-03-13",6,"Macedonia and Thrace",4.07
+"575","2011-03-13",7,"Peloponnese, Western Greece and the Ionian Islands",4.78
+"576","2011-03-13",8,"Thessaly and Central Greece",3.38
+"577","2011-03-14",1,"Aegean",13.17
+"578","2011-03-14",2,"Athos",11.02
+"579","2011-03-14",3,"Attica",8.9
+"580","2011-03-14",4,"Crete",9.85
+"581","2011-03-14",5,"Epirus and Western Macedonia",3.79
+"582","2011-03-14",6,"Macedonia and Thrace",4.85
+"583","2011-03-14",7,"Peloponnese, Western Greece and the Ionian Islands",7.18
+"584","2011-03-14",8,"Thessaly and Central Greece",4.82
+"585","2011-03-15",1,"Aegean",13.58
+"586","2011-03-15",2,"Athos",11.44
+"587","2011-03-15",3,"Attica",10.21
+"588","2011-03-15",4,"Crete",10.95
+"589","2011-03-15",5,"Epirus and Western Macedonia",6.1
+"590","2011-03-15",6,"Macedonia and Thrace",6.86
+"591","2011-03-15",7,"Peloponnese, Western Greece and the Ionian Islands",9.25
+"592","2011-03-15",8,"Thessaly and Central Greece",7.69
+"593","2011-03-16",1,"Aegean",14.7
+"594","2011-03-16",2,"Athos",11.65
+"595","2011-03-16",3,"Attica",11.55
+"596","2011-03-16",4,"Crete",12.21
+"597","2011-03-16",5,"Epirus and Western Macedonia",5.31
+"598","2011-03-16",6,"Macedonia and Thrace",7.57
+"599","2011-03-16",7,"Peloponnese, Western Greece and the Ionian Islands",10.06
+"600","2011-03-16",8,"Thessaly and Central Greece",7.89
+"601","2011-03-17",1,"Aegean",14.74
+"602","2011-03-17",2,"Athos",11.94
+"603","2011-03-17",3,"Attica",11.67
+"604","2011-03-17",4,"Crete",12.61
+"605","2011-03-17",5,"Epirus and Western Macedonia",9.92
+"606","2011-03-17",6,"Macedonia and Thrace",9.85
+"607","2011-03-17",7,"Peloponnese, Western Greece and the Ionian Islands",11.11
+"608","2011-03-17",8,"Thessaly and Central Greece",9.86
+"609","2011-03-18",1,"Aegean",15.28
+"610","2011-03-18",2,"Athos",12.32
+"611","2011-03-18",3,"Attica",12.34
+"612","2011-03-18",4,"Crete",14.35
+"613","2011-03-18",5,"Epirus and Western Macedonia",7.8
+"614","2011-03-18",6,"Macedonia and Thrace",10.14
+"615","2011-03-18",7,"Peloponnese, Western Greece and the Ionian Islands",10.07
+"616","2011-03-18",8,"Thessaly and Central Greece",8.58
+"617","2011-03-19",1,"Aegean",14.72
+"618","2011-03-19",2,"Athos",11.84
+"619","2011-03-19",3,"Attica",11.61
+"620","2011-03-19",4,"Crete",12.46
+"621","2011-03-19",5,"Epirus and Western Macedonia",7.13
+"622","2011-03-19",6,"Macedonia and Thrace",9.15
+"623","2011-03-19",7,"Peloponnese, Western Greece and the Ionian Islands",10.4
+"624","2011-03-19",8,"Thessaly and Central Greece",9.15
+"625","2011-03-20",1,"Aegean",13.97
+"626","2011-03-20",2,"Athos",10.46
+"627","2011-03-20",3,"Attica",10.8
+"628","2011-03-20",4,"Crete",11.73
+"629","2011-03-20",5,"Epirus and Western Macedonia",5.88
+"630","2011-03-20",6,"Macedonia and Thrace",8.24
+"631","2011-03-20",7,"Peloponnese, Western Greece and the Ionian Islands",8.37
+"632","2011-03-20",8,"Thessaly and Central Greece",8.71
+"633","2011-03-21",1,"Aegean",12.59
+"634","2011-03-21",2,"Athos",9.27
+"635","2011-03-21",3,"Attica",11.27
+"636","2011-03-21",4,"Crete",11.18
+"637","2011-03-21",5,"Epirus and Western Macedonia",5.76
+"638","2011-03-21",6,"Macedonia and Thrace",6.98
+"639","2011-03-21",7,"Peloponnese, Western Greece and the Ionian Islands",9.55
+"640","2011-03-21",8,"Thessaly and Central Greece",8.28
+"641","2011-03-22",1,"Aegean",11.26
+"642","2011-03-22",2,"Athos",8.53
+"643","2011-03-22",3,"Attica",9.3
+"644","2011-03-22",4,"Crete",11.18
+"645","2011-03-22",5,"Epirus and Western Macedonia",4.27
+"646","2011-03-22",6,"Macedonia and Thrace",5.44
+"647","2011-03-22",7,"Peloponnese, Western Greece and the Ionian Islands",7.53
+"648","2011-03-22",8,"Thessaly and Central Greece",6.12
+"649","2011-03-23",1,"Aegean",10.56
+"650","2011-03-23",2,"Athos",8.17
+"651","2011-03-23",3,"Attica",8.94
+"652","2011-03-23",4,"Crete",9.96
+"653","2011-03-23",5,"Epirus and Western Macedonia",1.58
+"654","2011-03-23",6,"Macedonia and Thrace",4.18
+"655","2011-03-23",7,"Peloponnese, Western Greece and the Ionian Islands",5.77
+"656","2011-03-23",8,"Thessaly and Central Greece",4.75
+"657","2011-03-24",1,"Aegean",11.91
+"658","2011-03-24",2,"Athos",11.51
+"659","2011-03-24",3,"Attica",8.69
+"660","2011-03-24",4,"Crete",9.83
+"661","2011-03-24",5,"Epirus and Western Macedonia",3.83
+"662","2011-03-24",6,"Macedonia and Thrace",8.24
+"663","2011-03-24",7,"Peloponnese, Western Greece and the Ionian Islands",5.75
+"664","2011-03-24",8,"Thessaly and Central Greece",6.11
+"665","2011-03-25",1,"Aegean",13.86
+"666","2011-03-25",2,"Athos",11.84
+"667","2011-03-25",3,"Attica",9.59
+"668","2011-03-25",4,"Crete",11.98
+"669","2011-03-25",5,"Epirus and Western Macedonia",2.95
+"670","2011-03-25",6,"Macedonia and Thrace",7.28
+"671","2011-03-25",7,"Peloponnese, Western Greece and the Ionian Islands",7.11
+"672","2011-03-25",8,"Thessaly and Central Greece",6.08
+"673","2011-03-26",1,"Aegean",14.01
+"674","2011-03-26",2,"Athos",12.2
+"675","2011-03-26",3,"Attica",9.97
+"676","2011-03-26",4,"Crete",10.46
+"677","2011-03-26",5,"Epirus and Western Macedonia",4.67
+"678","2011-03-26",6,"Macedonia and Thrace",7.52
+"679","2011-03-26",7,"Peloponnese, Western Greece and the Ionian Islands",8.13
+"680","2011-03-26",8,"Thessaly and Central Greece",6.54
+"681","2011-03-27",1,"Aegean",14.91
+"682","2011-03-27",2,"Athos",13.38
+"683","2011-03-27",3,"Attica",11.43
+"684","2011-03-27",4,"Crete",11.6
+"685","2011-03-27",5,"Epirus and Western Macedonia",6.75
+"686","2011-03-27",6,"Macedonia and Thrace",10.78
+"687","2011-03-27",7,"Peloponnese, Western Greece and the Ionian Islands",10.11
+"688","2011-03-27",8,"Thessaly and Central Greece",9.09
+"689","2011-03-28",1,"Aegean",14.59
+"690","2011-03-28",2,"Athos",12.6
+"691","2011-03-28",3,"Attica",11.39
+"692","2011-03-28",4,"Crete",11.62
+"693","2011-03-28",5,"Epirus and Western Macedonia",4.92
+"694","2011-03-28",6,"Macedonia and Thrace",7.64
+"695","2011-03-28",7,"Peloponnese, Western Greece and the Ionian Islands",9.42
+"696","2011-03-28",8,"Thessaly and Central Greece",7.87
+"697","2011-03-29",1,"Aegean",15.03
+"698","2011-03-29",2,"Athos",12.49
+"699","2011-03-29",3,"Attica",12.65
+"700","2011-03-29",4,"Crete",12.35
+"701","2011-03-29",5,"Epirus and Western Macedonia",8.52
+"702","2011-03-29",6,"Macedonia and Thrace",9.69
+"703","2011-03-29",7,"Peloponnese, Western Greece and the Ionian Islands",10.48
+"704","2011-03-29",8,"Thessaly and Central Greece",9.89
+"705","2011-03-30",1,"Aegean",15.84
+"706","2011-03-30",2,"Athos",12.35
+"707","2011-03-30",3,"Attica",12.39
+"708","2011-03-30",4,"Crete",14.78
+"709","2011-03-30",5,"Epirus and Western Macedonia",5.49
+"710","2011-03-30",6,"Macedonia and Thrace",8.47
+"711","2011-03-30",7,"Peloponnese, Western Greece and the Ionian Islands",9.84
+"712","2011-03-30",8,"Thessaly and Central Greece",8.16
+"713","2011-03-31",1,"Aegean",15.79
+"714","2011-03-31",2,"Athos",11.37
+"715","2011-03-31",3,"Attica",14.06
+"716","2011-03-31",4,"Crete",16.23
+"717","2011-03-31",5,"Epirus and Western Macedonia",7.11
+"718","2011-03-31",6,"Macedonia and Thrace",10.22
+"719","2011-03-31",7,"Peloponnese, Western Greece and the Ionian Islands",11.27
+"720","2011-03-31",8,"Thessaly and Central Greece",9.87
+"721","2011-04-01",1,"Aegean",15.68
+"722","2011-04-01",2,"Athos",12.35
+"723","2011-04-01",3,"Attica",14.6
+"724","2011-04-01",4,"Crete",15.02
+"725","2011-04-01",5,"Epirus and Western Macedonia",9.49
+"726","2011-04-01",6,"Macedonia and Thrace",11.15
+"727","2011-04-01",7,"Peloponnese, Western Greece and the Ionian Islands",12
+"728","2011-04-01",8,"Thessaly and Central Greece",11.3
+"729","2011-04-02",1,"Aegean",13.98
+"730","2011-04-02",2,"Athos",11.73
+"731","2011-04-02",3,"Attica",12.55
+"732","2011-04-02",4,"Crete",12.72
+"733","2011-04-02",5,"Epirus and Western Macedonia",7
+"734","2011-04-02",6,"Macedonia and Thrace",9.93
+"735","2011-04-02",7,"Peloponnese, Western Greece and the Ionian Islands",10.69
+"736","2011-04-02",8,"Thessaly and Central Greece",9.71
+"737","2011-04-03",1,"Aegean",12.45
+"738","2011-04-03",2,"Athos",11.73
+"739","2011-04-03",3,"Attica",10.75
+"740","2011-04-03",4,"Crete",11.54
+"741","2011-04-03",5,"Epirus and Western Macedonia",6.6
+"742","2011-04-03",6,"Macedonia and Thrace",8.95
+"743","2011-04-03",7,"Peloponnese, Western Greece and the Ionian Islands",8.3
+"744","2011-04-03",8,"Thessaly and Central Greece",7.21
+"745","2011-04-04",1,"Aegean",12.36
+"746","2011-04-04",2,"Athos",10.63
+"747","2011-04-04",3,"Attica",10.51
+"748","2011-04-04",4,"Crete",11.55
+"749","2011-04-04",5,"Epirus and Western Macedonia",5.19
+"750","2011-04-04",6,"Macedonia and Thrace",7.49
+"751","2011-04-04",7,"Peloponnese, Western Greece and the Ionian Islands",9.46
+"752","2011-04-04",8,"Thessaly and Central Greece",8.21
+"753","2011-04-05",1,"Aegean",12.82
+"754","2011-04-05",2,"Athos",11.7
+"755","2011-04-05",3,"Attica",10.68
+"756","2011-04-05",4,"Crete",11.89
+"757","2011-04-05",5,"Epirus and Western Macedonia",5.26
+"758","2011-04-05",6,"Macedonia and Thrace",7.63
+"759","2011-04-05",7,"Peloponnese, Western Greece and the Ionian Islands",9.13
+"760","2011-04-05",8,"Thessaly and Central Greece",7.19
+"761","2011-04-06",1,"Aegean",14.18
+"762","2011-04-06",2,"Athos",12.33
+"763","2011-04-06",3,"Attica",12.9
+"764","2011-04-06",4,"Crete",12.12
+"765","2011-04-06",5,"Epirus and Western Macedonia",8.09
+"766","2011-04-06",6,"Macedonia and Thrace",9.46
+"767","2011-04-06",7,"Peloponnese, Western Greece and the Ionian Islands",11.96
+"768","2011-04-06",8,"Thessaly and Central Greece",11.71
+"769","2011-04-07",1,"Aegean",13.63
+"770","2011-04-07",2,"Athos",12.19
+"771","2011-04-07",3,"Attica",12.62
+"772","2011-04-07",4,"Crete",13.15
+"773","2011-04-07",5,"Epirus and Western Macedonia",7.05
+"774","2011-04-07",6,"Macedonia and Thrace",9.61
+"775","2011-04-07",7,"Peloponnese, Western Greece and the Ionian Islands",10.94
+"776","2011-04-07",8,"Thessaly and Central Greece",10.29
+"777","2011-04-08",1,"Aegean",14.77
+"778","2011-04-08",2,"Athos",13.67
+"779","2011-04-08",3,"Attica",10.7
+"780","2011-04-08",4,"Crete",13.01
+"781","2011-04-08",5,"Epirus and Western Macedonia",6.71
+"782","2011-04-08",6,"Macedonia and Thrace",10.21
+"783","2011-04-08",7,"Peloponnese, Western Greece and the Ionian Islands",8.91
+"784","2011-04-08",8,"Thessaly and Central Greece",7.73
+"785","2011-04-09",1,"Aegean",16.23
+"786","2011-04-09",2,"Athos",15.33
+"787","2011-04-09",3,"Attica",14.79
+"788","2011-04-09",4,"Crete",13.61
+"789","2011-04-09",5,"Epirus and Western Macedonia",9.22
+"790","2011-04-09",6,"Macedonia and Thrace",12.45
+"791","2011-04-09",7,"Peloponnese, Western Greece and the Ionian Islands",12.14
+"792","2011-04-09",8,"Thessaly and Central Greece",12.63
+"793","2011-04-10",1,"Aegean",16.39
+"794","2011-04-10",2,"Athos",15.68
+"795","2011-04-10",3,"Attica",15.93
+"796","2011-04-10",4,"Crete",14.58
+"797","2011-04-10",5,"Epirus and Western Macedonia",8.83
+"798","2011-04-10",6,"Macedonia and Thrace",12.25
+"799","2011-04-10",7,"Peloponnese, Western Greece and the Ionian Islands",12.9
+"800","2011-04-10",8,"Thessaly and Central Greece",13.68
+"801","2011-04-11",1,"Aegean",14.71
+"802","2011-04-11",2,"Athos",13
+"803","2011-04-11",3,"Attica",12.39
+"804","2011-04-11",4,"Crete",12.99
+"805","2011-04-11",5,"Epirus and Western Macedonia",5.97
+"806","2011-04-11",6,"Macedonia and Thrace",8.72
+"807","2011-04-11",7,"Peloponnese, Western Greece and the Ionian Islands",11.04
+"808","2011-04-11",8,"Thessaly and Central Greece",9.95
+"809","2011-04-12",1,"Aegean",11.59
+"810","2011-04-12",2,"Athos",11.43
+"811","2011-04-12",3,"Attica",8.85
+"812","2011-04-12",4,"Crete",12.14
+"813","2011-04-12",5,"Epirus and Western Macedonia",3.64
+"814","2011-04-12",6,"Macedonia and Thrace",4.7
+"815","2011-04-12",7,"Peloponnese, Western Greece and the Ionian Islands",9.06
+"816","2011-04-12",8,"Thessaly and Central Greece",5.78
+"817","2011-04-13",1,"Aegean",14.86
+"818","2011-04-13",2,"Athos",13.34
+"819","2011-04-13",3,"Attica",12.65
+"820","2011-04-13",4,"Crete",11.94
+"821","2011-04-13",5,"Epirus and Western Macedonia",6.44
+"822","2011-04-13",6,"Macedonia and Thrace",9.11
+"823","2011-04-13",7,"Peloponnese, Western Greece and the Ionian Islands",10.68
+"824","2011-04-13",8,"Thessaly and Central Greece",9.36
+"825","2011-04-14",1,"Aegean",16.02
+"826","2011-04-14",2,"Athos",15.47
+"827","2011-04-14",3,"Attica",14.85
+"828","2011-04-14",4,"Crete",13.01
+"829","2011-04-14",5,"Epirus and Western Macedonia",4.94
+"830","2011-04-14",6,"Macedonia and Thrace",9.42
+"831","2011-04-14",7,"Peloponnese, Western Greece and the Ionian Islands",12.02
+"832","2011-04-14",8,"Thessaly and Central Greece",11.21
+"833","2011-04-15",1,"Aegean",13.73
+"834","2011-04-15",2,"Athos",12.67
+"835","2011-04-15",3,"Attica",10.58
+"836","2011-04-15",4,"Crete",11.62
+"837","2011-04-15",5,"Epirus and Western Macedonia",2.16
+"838","2011-04-15",6,"Macedonia and Thrace",5.08
+"839","2011-04-15",7,"Peloponnese, Western Greece and the Ionian Islands",7.5
+"840","2011-04-15",8,"Thessaly and Central Greece",6.13
+"841","2011-04-16",1,"Aegean",14.68
+"842","2011-04-16",2,"Athos",12.33
+"843","2011-04-16",3,"Attica",12.15
+"844","2011-04-16",4,"Crete",12.62
+"845","2011-04-16",5,"Epirus and Western Macedonia",5.14
+"846","2011-04-16",6,"Macedonia and Thrace",6.85
+"847","2011-04-16",7,"Peloponnese, Western Greece and the Ionian Islands",10.5
+"848","2011-04-16",8,"Thessaly and Central Greece",9.41
+"849","2011-04-17",1,"Aegean",14.55
+"850","2011-04-17",2,"Athos",11.29
+"851","2011-04-17",3,"Attica",11.42
+"852","2011-04-17",4,"Crete",13.99
+"853","2011-04-17",5,"Epirus and Western Macedonia",4.18
+"854","2011-04-17",6,"Macedonia and Thrace",8.4
+"855","2011-04-17",7,"Peloponnese, Western Greece and the Ionian Islands",9.66
+"856","2011-04-17",8,"Thessaly and Central Greece",8.04
+"857","2011-04-18",1,"Aegean",14.42
+"858","2011-04-18",2,"Athos",8.91
+"859","2011-04-18",3,"Attica",11.05
+"860","2011-04-18",4,"Crete",14.69
+"861","2011-04-18",5,"Epirus and Western Macedonia",5.44
+"862","2011-04-18",6,"Macedonia and Thrace",8.05
+"863","2011-04-18",7,"Peloponnese, Western Greece and the Ionian Islands",8.39
+"864","2011-04-18",8,"Thessaly and Central Greece",7.09
+"865","2011-04-19",1,"Aegean",11.89
+"866","2011-04-19",2,"Athos",10.39
+"867","2011-04-19",3,"Attica",9.44
+"868","2011-04-19",4,"Crete",11.14
+"869","2011-04-19",5,"Epirus and Western Macedonia",4.35
+"870","2011-04-19",6,"Macedonia and Thrace",7.01
+"871","2011-04-19",7,"Peloponnese, Western Greece and the Ionian Islands",7.76
+"872","2011-04-19",8,"Thessaly and Central Greece",6.79
+"873","2011-04-20",1,"Aegean",12.36
+"874","2011-04-20",2,"Athos",11.78
+"875","2011-04-20",3,"Attica",10.99
+"876","2011-04-20",4,"Crete",10.44
+"877","2011-04-20",5,"Epirus and Western Macedonia",4.83
+"878","2011-04-20",6,"Macedonia and Thrace",8.28
+"879","2011-04-20",7,"Peloponnese, Western Greece and the Ionian Islands",8.28
+"880","2011-04-20",8,"Thessaly and Central Greece",7.69
+"881","2011-04-21",1,"Aegean",12.89
+"882","2011-04-21",2,"Athos",11.53
+"883","2011-04-21",3,"Attica",11.74
+"884","2011-04-21",4,"Crete",12.31
+"885","2011-04-21",5,"Epirus and Western Macedonia",5.48
+"886","2011-04-21",6,"Macedonia and Thrace",7.37
+"887","2011-04-21",7,"Peloponnese, Western Greece and the Ionian Islands",9.19
+"888","2011-04-21",8,"Thessaly and Central Greece",8.08
+"889","2011-04-22",1,"Aegean",13.24
+"890","2011-04-22",2,"Athos",11.32
+"891","2011-04-22",3,"Attica",10.01
+"892","2011-04-22",4,"Crete",12.43
+"893","2011-04-22",5,"Epirus and Western Macedonia",4.94
+"894","2011-04-22",6,"Macedonia and Thrace",7.12
+"895","2011-04-22",7,"Peloponnese, Western Greece and the Ionian Islands",8.32
+"896","2011-04-22",8,"Thessaly and Central Greece",6.5
+"897","2011-04-23",1,"Aegean",12.84
+"898","2011-04-23",2,"Athos",10.63
+"899","2011-04-23",3,"Attica",10.01
+"900","2011-04-23",4,"Crete",11.76
+"901","2011-04-23",5,"Epirus and Western Macedonia",6.41
+"902","2011-04-23",6,"Macedonia and Thrace",7.17
+"903","2011-04-23",7,"Peloponnese, Western Greece and the Ionian Islands",9.49
+"904","2011-04-23",8,"Thessaly and Central Greece",7.28
+"905","2011-04-24",1,"Aegean",13
+"906","2011-04-24",2,"Athos",12.01
+"907","2011-04-24",3,"Attica",10.69
+"908","2011-04-24",4,"Crete",12.53
+"909","2011-04-24",5,"Epirus and Western Macedonia",7.12
+"910","2011-04-24",6,"Macedonia and Thrace",7.97
+"911","2011-04-24",7,"Peloponnese, Western Greece and the Ionian Islands",10.62
+"912","2011-04-24",8,"Thessaly and Central Greece",8.2
+"913","2011-04-25",1,"Aegean",14.13
+"914","2011-04-25",2,"Athos",12.68
+"915","2011-04-25",3,"Attica",10.51
+"916","2011-04-25",4,"Crete",11.15
+"917","2011-04-25",5,"Epirus and Western Macedonia",7.51
+"918","2011-04-25",6,"Macedonia and Thrace",9.06
+"919","2011-04-25",7,"Peloponnese, Western Greece and the Ionian Islands",10.64
+"920","2011-04-25",8,"Thessaly and Central Greece",8.76
+"921","2011-04-26",1,"Aegean",13.81
+"922","2011-04-26",2,"Athos",11.63
+"923","2011-04-26",3,"Attica",12.26
+"924","2011-04-26",4,"Crete",12.26
+"925","2011-04-26",5,"Epirus and Western Macedonia",8.89
+"926","2011-04-26",6,"Macedonia and Thrace",9.58
+"927","2011-04-26",7,"Peloponnese, Western Greece and the Ionian Islands",11.81
+"928","2011-04-26",8,"Thessaly and Central Greece",9.63
+"929","2011-04-27",1,"Aegean",15.13
+"930","2011-04-27",2,"Athos",12.54
+"931","2011-04-27",3,"Attica",11.81
+"932","2011-04-27",4,"Crete",13.91
+"933","2011-04-27",5,"Epirus and Western Macedonia",7.7
+"934","2011-04-27",6,"Macedonia and Thrace",10.24
+"935","2011-04-27",7,"Peloponnese, Western Greece and the Ionian Islands",11.21
+"936","2011-04-27",8,"Thessaly and Central Greece",8.98
+"937","2011-04-28",1,"Aegean",15.43
+"938","2011-04-28",2,"Athos",12.65
+"939","2011-04-28",3,"Attica",13.47
+"940","2011-04-28",4,"Crete",15.06
+"941","2011-04-28",5,"Epirus and Western Macedonia",8.53
+"942","2011-04-28",6,"Macedonia and Thrace",10.53
+"943","2011-04-28",7,"Peloponnese, Western Greece and the Ionian Islands",12.01
+"944","2011-04-28",8,"Thessaly and Central Greece",10.65
+"945","2011-04-29",1,"Aegean",14.83
+"946","2011-04-29",2,"Athos",13.73
+"947","2011-04-29",3,"Attica",12.03
+"948","2011-04-29",4,"Crete",14.28
+"949","2011-04-29",5,"Epirus and Western Macedonia",8.34
+"950","2011-04-29",6,"Macedonia and Thrace",11.25
+"951","2011-04-29",7,"Peloponnese, Western Greece and the Ionian Islands",11.51
+"952","2011-04-29",8,"Thessaly and Central Greece",9.7
+"953","2011-04-30",1,"Aegean",15.15
+"954","2011-04-30",2,"Athos",13.63
+"955","2011-04-30",3,"Attica",13.37
+"956","2011-04-30",4,"Crete",13.2
+"957","2011-04-30",5,"Epirus and Western Macedonia",5.44
+"958","2011-04-30",6,"Macedonia and Thrace",10.12
+"959","2011-04-30",7,"Peloponnese, Western Greece and the Ionian Islands",10.84
+"960","2011-04-30",8,"Thessaly and Central Greece",8.66
+"961","2011-05-01",1,"Aegean",15.85
+"962","2011-05-01",2,"Athos",14.04
+"963","2011-05-01",3,"Attica",14.39
+"964","2011-05-01",4,"Crete",15.31
+"965","2011-05-01",5,"Epirus and Western Macedonia",10.08
+"966","2011-05-01",6,"Macedonia and Thrace",12.29
+"967","2011-05-01",7,"Peloponnese, Western Greece and the Ionian Islands",12.61
+"968","2011-05-01",8,"Thessaly and Central Greece",12.68
+"969","2011-05-02",1,"Aegean",16.82
+"970","2011-05-02",2,"Athos",13.83
+"971","2011-05-02",3,"Attica",14.76
+"972","2011-05-02",4,"Crete",15.67
+"973","2011-05-02",5,"Epirus and Western Macedonia",11.89
+"974","2011-05-02",6,"Macedonia and Thrace",11.54
+"975","2011-05-02",7,"Peloponnese, Western Greece and the Ionian Islands",14.35
+"976","2011-05-02",8,"Thessaly and Central Greece",12.81
+"977","2011-05-03",1,"Aegean",16.55
+"978","2011-05-03",2,"Athos",15.3
+"979","2011-05-03",3,"Attica",15.94
+"980","2011-05-03",4,"Crete",16.15
+"981","2011-05-03",5,"Epirus and Western Macedonia",11.3
+"982","2011-05-03",6,"Macedonia and Thrace",13.38
+"983","2011-05-03",7,"Peloponnese, Western Greece and the Ionian Islands",14.44
+"984","2011-05-03",8,"Thessaly and Central Greece",13.87
+"985","2011-05-04",1,"Aegean",17.54
+"986","2011-05-04",2,"Athos",15.09
+"987","2011-05-04",3,"Attica",16.05
+"988","2011-05-04",4,"Crete",17.27
+"989","2011-05-04",5,"Epirus and Western Macedonia",10.83
+"990","2011-05-04",6,"Macedonia and Thrace",13.94
+"991","2011-05-04",7,"Peloponnese, Western Greece and the Ionian Islands",14.2
+"992","2011-05-04",8,"Thessaly and Central Greece",13.84
+"993","2011-05-05",1,"Aegean",16.59
+"994","2011-05-05",2,"Athos",15.61
+"995","2011-05-05",3,"Attica",15.39
+"996","2011-05-05",4,"Crete",15.81
+"997","2011-05-05",5,"Epirus and Western Macedonia",10.18
+"998","2011-05-05",6,"Macedonia and Thrace",12.56
+"999","2011-05-05",7,"Peloponnese, Western Greece and the Ionian Islands",14.34
+"1000","2011-05-05",8,"Thessaly and Central Greece",13.44
+"1001","2011-05-06",1,"Aegean",15.8
+"1002","2011-05-06",2,"Athos",13.33
+"1003","2011-05-06",3,"Attica",14.48
+"1004","2011-05-06",4,"Crete",15.7
+"1005","2011-05-06",5,"Epirus and Western Macedonia",6.49
+"1006","2011-05-06",6,"Macedonia and Thrace",9.59
+"1007","2011-05-06",7,"Peloponnese, Western Greece and the Ionian Islands",13.5
+"1008","2011-05-06",8,"Thessaly and Central Greece",10.62
+"1009","2011-05-07",1,"Aegean",14.45
+"1010","2011-05-07",2,"Athos",13.15
+"1011","2011-05-07",3,"Attica",11.12
+"1012","2011-05-07",4,"Crete",13.66
+"1013","2011-05-07",5,"Epirus and Western Macedonia",5.18
+"1014","2011-05-07",6,"Macedonia and Thrace",7.87
+"1015","2011-05-07",7,"Peloponnese, Western Greece and the Ionian Islands",10.4
+"1016","2011-05-07",8,"Thessaly and Central Greece",7.16
+"1017","2011-05-08",1,"Aegean",14.86
+"1018","2011-05-08",2,"Athos",13.32
+"1019","2011-05-08",3,"Attica",12.05
+"1020","2011-05-08",4,"Crete",12.36
+"1021","2011-05-08",5,"Epirus and Western Macedonia",6.47
+"1022","2011-05-08",6,"Macedonia and Thrace",9.12
+"1023","2011-05-08",7,"Peloponnese, Western Greece and the Ionian Islands",10.68
+"1024","2011-05-08",8,"Thessaly and Central Greece",8.91
+"1025","2011-05-09",1,"Aegean",15.48
+"1026","2011-05-09",2,"Athos",12.58
+"1027","2011-05-09",3,"Attica",13.24
+"1028","2011-05-09",4,"Crete",14.07
+"1029","2011-05-09",5,"Epirus and Western Macedonia",8.51
+"1030","2011-05-09",6,"Macedonia and Thrace",10.17
+"1031","2011-05-09",7,"Peloponnese, Western Greece and the Ionian Islands",11.7
+"1032","2011-05-09",8,"Thessaly and Central Greece",11.7
+"1033","2011-05-10",1,"Aegean",15.7
+"1034","2011-05-10",2,"Athos",13.98
+"1035","2011-05-10",3,"Attica",13.79
+"1036","2011-05-10",4,"Crete",14.57
+"1037","2011-05-10",5,"Epirus and Western Macedonia",8.39
+"1038","2011-05-10",6,"Macedonia and Thrace",10.61
+"1039","2011-05-10",7,"Peloponnese, Western Greece and the Ionian Islands",12.31
+"1040","2011-05-10",8,"Thessaly and Central Greece",10.73
+"1041","2011-05-11",1,"Aegean",15.4
+"1042","2011-05-11",2,"Athos",15.07
+"1043","2011-05-11",3,"Attica",13.98
+"1044","2011-05-11",4,"Crete",13.87
+"1045","2011-05-11",5,"Epirus and Western Macedonia",7.85
+"1046","2011-05-11",6,"Macedonia and Thrace",11.59
+"1047","2011-05-11",7,"Peloponnese, Western Greece and the Ionian Islands",11.76
+"1048","2011-05-11",8,"Thessaly and Central Greece",10.49
+"1049","2011-05-12",1,"Aegean",15.42
+"1050","2011-05-12",2,"Athos",14.95
+"1051","2011-05-12",3,"Attica",15.03
+"1052","2011-05-12",4,"Crete",14.85
+"1053","2011-05-12",5,"Epirus and Western Macedonia",6.94
+"1054","2011-05-12",6,"Macedonia and Thrace",11.23
+"1055","2011-05-12",7,"Peloponnese, Western Greece and the Ionian Islands",11.93
+"1056","2011-05-12",8,"Thessaly and Central Greece",10.37
+"1057","2011-05-13",1,"Aegean",15
+"1058","2011-05-13",2,"Athos",14.48
+"1059","2011-05-13",3,"Attica",13.15
+"1060","2011-05-13",4,"Crete",13.89
+"1061","2011-05-13",5,"Epirus and Western Macedonia",6.29
+"1062","2011-05-13",6,"Macedonia and Thrace",9.33
+"1063","2011-05-13",7,"Peloponnese, Western Greece and the Ionian Islands",10.17
+"1064","2011-05-13",8,"Thessaly and Central Greece",9.29
+"1065","2011-05-14",1,"Aegean",16.73
+"1066","2011-05-14",2,"Athos",15.54
+"1067","2011-05-14",3,"Attica",14.27
+"1068","2011-05-14",4,"Crete",15.03
+"1069","2011-05-14",5,"Epirus and Western Macedonia",8.77
+"1070","2011-05-14",6,"Macedonia and Thrace",11.52
+"1071","2011-05-14",7,"Peloponnese, Western Greece and the Ionian Islands",12.2
+"1072","2011-05-14",8,"Thessaly and Central Greece",10.92
+"1073","2011-05-15",1,"Aegean",17.13
+"1074","2011-05-15",2,"Athos",15.81
+"1075","2011-05-15",3,"Attica",16.06
+"1076","2011-05-15",4,"Crete",15.24
+"1077","2011-05-15",5,"Epirus and Western Macedonia",10.42
+"1078","2011-05-15",6,"Macedonia and Thrace",13.67
+"1079","2011-05-15",7,"Peloponnese, Western Greece and the Ionian Islands",13.08
+"1080","2011-05-15",8,"Thessaly and Central Greece",12.65
+"1081","2011-05-16",1,"Aegean",17.55
+"1082","2011-05-16",2,"Athos",16.51
+"1083","2011-05-16",3,"Attica",15.55
+"1084","2011-05-16",4,"Crete",15.95
+"1085","2011-05-16",5,"Epirus and Western Macedonia",11.26
+"1086","2011-05-16",6,"Macedonia and Thrace",13.77
+"1087","2011-05-16",7,"Peloponnese, Western Greece and the Ionian Islands",13.63
+"1088","2011-05-16",8,"Thessaly and Central Greece",12.9
+"1089","2011-05-17",1,"Aegean",17.66
+"1090","2011-05-17",2,"Athos",17.33
+"1091","2011-05-17",3,"Attica",16.27
+"1092","2011-05-17",4,"Crete",15.93
+"1093","2011-05-17",5,"Epirus and Western Macedonia",10.19
+"1094","2011-05-17",6,"Macedonia and Thrace",13.7
+"1095","2011-05-17",7,"Peloponnese, Western Greece and the Ionian Islands",13.58
+"1096","2011-05-17",8,"Thessaly and Central Greece",13.24
+"1097","2011-05-18",1,"Aegean",17.38
+"1098","2011-05-18",2,"Athos",17.37
+"1099","2011-05-18",3,"Attica",15.19
+"1100","2011-05-18",4,"Crete",15.06
+"1101","2011-05-18",5,"Epirus and Western Macedonia",8.73
+"1102","2011-05-18",6,"Macedonia and Thrace",12.99
+"1103","2011-05-18",7,"Peloponnese, Western Greece and the Ionian Islands",11.88
+"1104","2011-05-18",8,"Thessaly and Central Greece",12.1
+"1105","2011-05-19",1,"Aegean",17.42
+"1106","2011-05-19",2,"Athos",17.57
+"1107","2011-05-19",3,"Attica",15.33
+"1108","2011-05-19",4,"Crete",14.79
+"1109","2011-05-19",5,"Epirus and Western Macedonia",10.14
+"1110","2011-05-19",6,"Macedonia and Thrace",13.91
+"1111","2011-05-19",7,"Peloponnese, Western Greece and the Ionian Islands",11.58
+"1112","2011-05-19",8,"Thessaly and Central Greece",12.57
+"1113","2011-05-20",1,"Aegean",17.17
+"1114","2011-05-20",2,"Athos",17.42
+"1115","2011-05-20",3,"Attica",15.08
+"1116","2011-05-20",4,"Crete",14.46
+"1117","2011-05-20",5,"Epirus and Western Macedonia",9.12
+"1118","2011-05-20",6,"Macedonia and Thrace",13.06
+"1119","2011-05-20",7,"Peloponnese, Western Greece and the Ionian Islands",12.85
+"1120","2011-05-20",8,"Thessaly and Central Greece",11.53
+"1121","2011-05-21",1,"Aegean",18.42
+"1122","2011-05-21",2,"Athos",18.9
+"1123","2011-05-21",3,"Attica",16.42
+"1124","2011-05-21",4,"Crete",15.56
+"1125","2011-05-21",5,"Epirus and Western Macedonia",10.29
+"1126","2011-05-21",6,"Macedonia and Thrace",14.27
+"1127","2011-05-21",7,"Peloponnese, Western Greece and the Ionian Islands",13.63
+"1128","2011-05-21",8,"Thessaly and Central Greece",12.52
+"1129","2011-05-22",1,"Aegean",18.98
+"1130","2011-05-22",2,"Athos",19.35
+"1131","2011-05-22",3,"Attica",16.85
+"1132","2011-05-22",4,"Crete",16.31
+"1133","2011-05-22",5,"Epirus and Western Macedonia",12.31
+"1134","2011-05-22",6,"Macedonia and Thrace",14.72
+"1135","2011-05-22",7,"Peloponnese, Western Greece and the Ionian Islands",14.88
+"1136","2011-05-22",8,"Thessaly and Central Greece",13.84
+"1137","2011-05-23",1,"Aegean",19.43
+"1138","2011-05-23",2,"Athos",19.61
+"1139","2011-05-23",3,"Attica",18.03
+"1140","2011-05-23",4,"Crete",17.99
+"1141","2011-05-23",5,"Epirus and Western Macedonia",12.42
+"1142","2011-05-23",6,"Macedonia and Thrace",15.08
+"1143","2011-05-23",7,"Peloponnese, Western Greece and the Ionian Islands",15.96
+"1144","2011-05-23",8,"Thessaly and Central Greece",14.16
+"1145","2011-05-24",1,"Aegean",19.25
+"1146","2011-05-24",2,"Athos",20.18
+"1147","2011-05-24",3,"Attica",17.93
+"1148","2011-05-24",4,"Crete",17.77
+"1149","2011-05-24",5,"Epirus and Western Macedonia",13.2
+"1150","2011-05-24",6,"Macedonia and Thrace",15.75
+"1151","2011-05-24",7,"Peloponnese, Western Greece and the Ionian Islands",16.52
+"1152","2011-05-24",8,"Thessaly and Central Greece",14.55
+"1153","2011-05-25",1,"Aegean",19.38
+"1154","2011-05-25",2,"Athos",20.55
+"1155","2011-05-25",3,"Attica",18.28
+"1156","2011-05-25",4,"Crete",18.3
+"1157","2011-05-25",5,"Epirus and Western Macedonia",12.97
+"1158","2011-05-25",6,"Macedonia and Thrace",16.5
+"1159","2011-05-25",7,"Peloponnese, Western Greece and the Ionian Islands",16.82
+"1160","2011-05-25",8,"Thessaly and Central Greece",14.88
+"1161","2011-05-26",1,"Aegean",20
+"1162","2011-05-26",2,"Athos",21.15
+"1163","2011-05-26",3,"Attica",18.53
+"1164","2011-05-26",4,"Crete",18.63
+"1165","2011-05-26",5,"Epirus and Western Macedonia",14.03
+"1166","2011-05-26",6,"Macedonia and Thrace",17.6
+"1167","2011-05-26",7,"Peloponnese, Western Greece and the Ionian Islands",16.7
+"1168","2011-05-26",8,"Thessaly and Central Greece",15.68
+"1169","2011-05-27",1,"Aegean",20.06
+"1170","2011-05-27",2,"Athos",20.06
+"1171","2011-05-27",3,"Attica",18.12
+"1172","2011-05-27",4,"Crete",18.15
+"1173","2011-05-27",5,"Epirus and Western Macedonia",13.91
+"1174","2011-05-27",6,"Macedonia and Thrace",17.21
+"1175","2011-05-27",7,"Peloponnese, Western Greece and the Ionian Islands",16.62
+"1176","2011-05-27",8,"Thessaly and Central Greece",16.18
+"1177","2011-05-28",1,"Aegean",19.18
+"1178","2011-05-28",2,"Athos",20.09
+"1179","2011-05-28",3,"Attica",17.72
+"1180","2011-05-28",4,"Crete",17.08
+"1181","2011-05-28",5,"Epirus and Western Macedonia",11.32
+"1182","2011-05-28",6,"Macedonia and Thrace",16.41
+"1183","2011-05-28",7,"Peloponnese, Western Greece and the Ionian Islands",15
+"1184","2011-05-28",8,"Thessaly and Central Greece",14.01
+"1185","2011-05-29",1,"Aegean",18.85
+"1186","2011-05-29",2,"Athos",19.85
+"1187","2011-05-29",3,"Attica",17.05
+"1188","2011-05-29",4,"Crete",17.09
+"1189","2011-05-29",5,"Epirus and Western Macedonia",12.18
+"1190","2011-05-29",6,"Macedonia and Thrace",15.8
+"1191","2011-05-29",7,"Peloponnese, Western Greece and the Ionian Islands",15.01
+"1192","2011-05-29",8,"Thessaly and Central Greece",14.46
+"1193","2011-05-30",1,"Aegean",19.31
+"1194","2011-05-30",2,"Athos",19.91
+"1195","2011-05-30",3,"Attica",17.57
+"1196","2011-05-30",4,"Crete",17.62
+"1197","2011-05-30",5,"Epirus and Western Macedonia",12.47
+"1198","2011-05-30",6,"Macedonia and Thrace",15.91
+"1199","2011-05-30",7,"Peloponnese, Western Greece and the Ionian Islands",15.6
+"1200","2011-05-30",8,"Thessaly and Central Greece",15.09
+"1201","2011-05-31",1,"Aegean",19.54
+"1202","2011-05-31",2,"Athos",20.19
+"1203","2011-05-31",3,"Attica",18.26
+"1204","2011-05-31",4,"Crete",17.49
+"1205","2011-05-31",5,"Epirus and Western Macedonia",12.72
+"1206","2011-05-31",6,"Macedonia and Thrace",17.06
+"1207","2011-05-31",7,"Peloponnese, Western Greece and the Ionian Islands",15.64
+"1208","2011-05-31",8,"Thessaly and Central Greece",14.73
+"1209","2011-06-01",1,"Aegean",19.57
+"1210","2011-06-01",2,"Athos",19.5
+"1211","2011-06-01",3,"Attica",18.78
+"1212","2011-06-01",4,"Crete",18.05
+"1213","2011-06-01",5,"Epirus and Western Macedonia",11.64
+"1214","2011-06-01",6,"Macedonia and Thrace",15.51
+"1215","2011-06-01",7,"Peloponnese, Western Greece and the Ionian Islands",15.9
+"1216","2011-06-01",8,"Thessaly and Central Greece",14.94
+"1217","2011-06-02",1,"Aegean",20.25
+"1218","2011-06-02",2,"Athos",20.2
+"1219","2011-06-02",3,"Attica",19.82
+"1220","2011-06-02",4,"Crete",18.5
+"1221","2011-06-02",5,"Epirus and Western Macedonia",11.96
+"1222","2011-06-02",6,"Macedonia and Thrace",16.27
+"1223","2011-06-02",7,"Peloponnese, Western Greece and the Ionian Islands",15.89
+"1224","2011-06-02",8,"Thessaly and Central Greece",15.66
+"1225","2011-06-03",1,"Aegean",21.2
+"1226","2011-06-03",2,"Athos",21.61
+"1227","2011-06-03",3,"Attica",20.37
+"1228","2011-06-03",4,"Crete",19.24
+"1229","2011-06-03",5,"Epirus and Western Macedonia",13.05
+"1230","2011-06-03",6,"Macedonia and Thrace",17.47
+"1231","2011-06-03",7,"Peloponnese, Western Greece and the Ionian Islands",16.65
+"1232","2011-06-03",8,"Thessaly and Central Greece",16.41
+"1233","2011-06-04",1,"Aegean",21.29
+"1234","2011-06-04",2,"Athos",21.32
+"1235","2011-06-04",3,"Attica",20.31
+"1236","2011-06-04",4,"Crete",20.35
+"1237","2011-06-04",5,"Epirus and Western Macedonia",13.41
+"1238","2011-06-04",6,"Macedonia and Thrace",17.72
+"1239","2011-06-04",7,"Peloponnese, Western Greece and the Ionian Islands",17.3
+"1240","2011-06-04",8,"Thessaly and Central Greece",16.42
+"1241","2011-06-05",1,"Aegean",21.3
+"1242","2011-06-05",2,"Athos",21.92
+"1243","2011-06-05",3,"Attica",19.97
+"1244","2011-06-05",4,"Crete",20.3
+"1245","2011-06-05",5,"Epirus and Western Macedonia",12.78
+"1246","2011-06-05",6,"Macedonia and Thrace",16.68
+"1247","2011-06-05",7,"Peloponnese, Western Greece and the Ionian Islands",17.68
+"1248","2011-06-05",8,"Thessaly and Central Greece",16.2
+"1249","2011-06-06",1,"Aegean",21.64
+"1250","2011-06-06",2,"Athos",22.38
+"1251","2011-06-06",3,"Attica",20.07
+"1252","2011-06-06",4,"Crete",20.46
+"1253","2011-06-06",5,"Epirus and Western Macedonia",15.38
+"1254","2011-06-06",6,"Macedonia and Thrace",18.29
+"1255","2011-06-06",7,"Peloponnese, Western Greece and the Ionian Islands",19
+"1256","2011-06-06",8,"Thessaly and Central Greece",17.75
+"1257","2011-06-07",1,"Aegean",21.72
+"1258","2011-06-07",2,"Athos",22.47
+"1259","2011-06-07",3,"Attica",20.41
+"1260","2011-06-07",4,"Crete",20.57
+"1261","2011-06-07",5,"Epirus and Western Macedonia",14.85
+"1262","2011-06-07",6,"Macedonia and Thrace",17.9
+"1263","2011-06-07",7,"Peloponnese, Western Greece and the Ionian Islands",18.72
+"1264","2011-06-07",8,"Thessaly and Central Greece",17.55
+"1265","2011-06-08",1,"Aegean",21.77
+"1266","2011-06-08",2,"Athos",22.41
+"1267","2011-06-08",3,"Attica",20.89
+"1268","2011-06-08",4,"Crete",22.42
+"1269","2011-06-08",5,"Epirus and Western Macedonia",15.78
+"1270","2011-06-08",6,"Macedonia and Thrace",18.14
+"1271","2011-06-08",7,"Peloponnese, Western Greece and the Ionian Islands",19.8
+"1272","2011-06-08",8,"Thessaly and Central Greece",18
+"1273","2011-06-09",1,"Aegean",22.99
+"1274","2011-06-09",2,"Athos",22.04
+"1275","2011-06-09",3,"Attica",20.59
+"1276","2011-06-09",4,"Crete",26.01
+"1277","2011-06-09",5,"Epirus and Western Macedonia",15.47
+"1278","2011-06-09",6,"Macedonia and Thrace",18.49
+"1279","2011-06-09",7,"Peloponnese, Western Greece and the Ionian Islands",19.68
+"1280","2011-06-09",8,"Thessaly and Central Greece",17.81
+"1281","2011-06-10",1,"Aegean",23.32
+"1282","2011-06-10",2,"Athos",23.21
+"1283","2011-06-10",3,"Attica",23.61
+"1284","2011-06-10",4,"Crete",22.49
+"1285","2011-06-10",5,"Epirus and Western Macedonia",14.64
+"1286","2011-06-10",6,"Macedonia and Thrace",19.74
+"1287","2011-06-10",7,"Peloponnese, Western Greece and the Ionian Islands",19.6
+"1288","2011-06-10",8,"Thessaly and Central Greece",19.62
+"1289","2011-06-11",1,"Aegean",22.16
+"1290","2011-06-11",2,"Athos",22.88
+"1291","2011-06-11",3,"Attica",21.67
+"1292","2011-06-11",4,"Crete",20.03
+"1293","2011-06-11",5,"Epirus and Western Macedonia",14.15
+"1294","2011-06-11",6,"Macedonia and Thrace",17.88
+"1295","2011-06-11",7,"Peloponnese, Western Greece and the Ionian Islands",18.37
+"1296","2011-06-11",8,"Thessaly and Central Greece",18.1
+"1297","2011-06-12",1,"Aegean",21.56
+"1298","2011-06-12",2,"Athos",22.04
+"1299","2011-06-12",3,"Attica",21.07
+"1300","2011-06-12",4,"Crete",19.97
+"1301","2011-06-12",5,"Epirus and Western Macedonia",14.32
+"1302","2011-06-12",6,"Macedonia and Thrace",18.24
+"1303","2011-06-12",7,"Peloponnese, Western Greece and the Ionian Islands",18
+"1304","2011-06-12",8,"Thessaly and Central Greece",18.18
+"1305","2011-06-13",1,"Aegean",21.06
+"1306","2011-06-13",2,"Athos",21.38
+"1307","2011-06-13",3,"Attica",20.04
+"1308","2011-06-13",4,"Crete",19.56
+"1309","2011-06-13",5,"Epirus and Western Macedonia",12.64
+"1310","2011-06-13",6,"Macedonia and Thrace",17.23
+"1311","2011-06-13",7,"Peloponnese, Western Greece and the Ionian Islands",17.33
+"1312","2011-06-13",8,"Thessaly and Central Greece",16.34
+"1313","2011-06-14",1,"Aegean",21.16
+"1314","2011-06-14",2,"Athos",21.41
+"1315","2011-06-14",3,"Attica",19.57
+"1316","2011-06-14",4,"Crete",18.85
+"1317","2011-06-14",5,"Epirus and Western Macedonia",13.79
+"1318","2011-06-14",6,"Macedonia and Thrace",16.13
+"1319","2011-06-14",7,"Peloponnese, Western Greece and the Ionian Islands",17.55
+"1320","2011-06-14",8,"Thessaly and Central Greece",16.23
+"1321","2011-06-15",1,"Aegean",21.4
+"1322","2011-06-15",2,"Athos",21.83
+"1323","2011-06-15",3,"Attica",20.3
+"1324","2011-06-15",4,"Crete",18.88
+"1325","2011-06-15",5,"Epirus and Western Macedonia",13.38
+"1326","2011-06-15",6,"Macedonia and Thrace",16.8
+"1327","2011-06-15",7,"Peloponnese, Western Greece and the Ionian Islands",17.71
+"1328","2011-06-15",8,"Thessaly and Central Greece",17.04
+"1329","2011-06-16",1,"Aegean",21.59
+"1330","2011-06-16",2,"Athos",22.26
+"1331","2011-06-16",3,"Attica",19.86
+"1332","2011-06-16",4,"Crete",19.25
+"1333","2011-06-16",5,"Epirus and Western Macedonia",11.87
+"1334","2011-06-16",6,"Macedonia and Thrace",16.62
+"1335","2011-06-16",7,"Peloponnese, Western Greece and the Ionian Islands",16.55
+"1336","2011-06-16",8,"Thessaly and Central Greece",15.67
+"1337","2011-06-17",1,"Aegean",21.66
+"1338","2011-06-17",2,"Athos",22.54
+"1339","2011-06-17",3,"Attica",18.99
+"1340","2011-06-17",4,"Crete",19.64
+"1341","2011-06-17",5,"Epirus and Western Macedonia",12.42
+"1342","2011-06-17",6,"Macedonia and Thrace",16.99
+"1343","2011-06-17",7,"Peloponnese, Western Greece and the Ionian Islands",16.38
+"1344","2011-06-17",8,"Thessaly and Central Greece",15.36
+"1345","2011-06-18",1,"Aegean",22.55
+"1346","2011-06-18",2,"Athos",22.49
+"1347","2011-06-18",3,"Attica",20.63
+"1348","2011-06-18",4,"Crete",20.38
+"1349","2011-06-18",5,"Epirus and Western Macedonia",13.29
+"1350","2011-06-18",6,"Macedonia and Thrace",18.19
+"1351","2011-06-18",7,"Peloponnese, Western Greece and the Ionian Islands",17.67
+"1352","2011-06-18",8,"Thessaly and Central Greece",16.85
+"1353","2011-06-19",1,"Aegean",22.75
+"1354","2011-06-19",2,"Athos",22.66
+"1355","2011-06-19",3,"Attica",21.61
+"1356","2011-06-19",4,"Crete",20.57
+"1357","2011-06-19",5,"Epirus and Western Macedonia",14.37
+"1358","2011-06-19",6,"Macedonia and Thrace",18.7
+"1359","2011-06-19",7,"Peloponnese, Western Greece and the Ionian Islands",18.33
+"1360","2011-06-19",8,"Thessaly and Central Greece",18.21
+"1361","2011-06-20",1,"Aegean",22.51
+"1362","2011-06-20",2,"Athos",23.25
+"1363","2011-06-20",3,"Attica",21.85
+"1364","2011-06-20",4,"Crete",21
+"1365","2011-06-20",5,"Epirus and Western Macedonia",15.59
+"1366","2011-06-20",6,"Macedonia and Thrace",19.95
+"1367","2011-06-20",7,"Peloponnese, Western Greece and the Ionian Islands",19.04
+"1368","2011-06-20",8,"Thessaly and Central Greece",19.12
+"1369","2011-06-21",1,"Aegean",23.54
+"1370","2011-06-21",2,"Athos",23.74
+"1371","2011-06-21",3,"Attica",23.29
+"1372","2011-06-21",4,"Crete",20.76
+"1373","2011-06-21",5,"Epirus and Western Macedonia",16.88
+"1374","2011-06-21",6,"Macedonia and Thrace",20.75
+"1375","2011-06-21",7,"Peloponnese, Western Greece and the Ionian Islands",20.17
+"1376","2011-06-21",8,"Thessaly and Central Greece",20.77
+"1377","2011-06-22",1,"Aegean",23.66
+"1378","2011-06-22",2,"Athos",23.28
+"1379","2011-06-22",3,"Attica",22.01
+"1380","2011-06-22",4,"Crete",22.53
+"1381","2011-06-22",5,"Epirus and Western Macedonia",16.91
+"1382","2011-06-22",6,"Macedonia and Thrace",17.36
+"1383","2011-06-22",7,"Peloponnese, Western Greece and the Ionian Islands",20.13
+"1384","2011-06-22",8,"Thessaly and Central Greece",18.23
+"1385","2011-06-23",1,"Aegean",23.08
+"1386","2011-06-23",2,"Athos",23.57
+"1387","2011-06-23",3,"Attica",22.12
+"1388","2011-06-23",4,"Crete",21.3
+"1389","2011-06-23",5,"Epirus and Western Macedonia",16.4
+"1390","2011-06-23",6,"Macedonia and Thrace",18.24
+"1391","2011-06-23",7,"Peloponnese, Western Greece and the Ionian Islands",19.97
+"1392","2011-06-23",8,"Thessaly and Central Greece",17.83
+"1393","2011-06-24",1,"Aegean",23.47
+"1394","2011-06-24",2,"Athos",24.15
+"1395","2011-06-24",3,"Attica",22.38
+"1396","2011-06-24",4,"Crete",22.05
+"1397","2011-06-24",5,"Epirus and Western Macedonia",17.22
+"1398","2011-06-24",6,"Macedonia and Thrace",19.81
+"1399","2011-06-24",7,"Peloponnese, Western Greece and the Ionian Islands",20.28
+"1400","2011-06-24",8,"Thessaly and Central Greece",18.5
+"1401","2011-06-25",1,"Aegean",23.07
+"1402","2011-06-25",2,"Athos",24.38
+"1403","2011-06-25",3,"Attica",22.41
+"1404","2011-06-25",4,"Crete",21.67
+"1405","2011-06-25",5,"Epirus and Western Macedonia",17.73
+"1406","2011-06-25",6,"Macedonia and Thrace",21.15
+"1407","2011-06-25",7,"Peloponnese, Western Greece and the Ionian Islands",21
+"1408","2011-06-25",8,"Thessaly and Central Greece",20.63
+"1409","2011-06-26",1,"Aegean",23.47
+"1410","2011-06-26",2,"Athos",22.53
+"1411","2011-06-26",3,"Attica",23.18
+"1412","2011-06-26",4,"Crete",23.18
+"1413","2011-06-26",5,"Epirus and Western Macedonia",15.4
+"1414","2011-06-26",6,"Macedonia and Thrace",17.63
+"1415","2011-06-26",7,"Peloponnese, Western Greece and the Ionian Islands",21.17
+"1416","2011-06-26",8,"Thessaly and Central Greece",19.97
+"1417","2011-06-27",1,"Aegean",21.47
+"1418","2011-06-27",2,"Athos",21.91
+"1419","2011-06-27",3,"Attica",19.3
+"1420","2011-06-27",4,"Crete",19.82
+"1421","2011-06-27",5,"Epirus and Western Macedonia",13.5
+"1422","2011-06-27",6,"Macedonia and Thrace",16.64
+"1423","2011-06-27",7,"Peloponnese, Western Greece and the Ionian Islands",17.42
+"1424","2011-06-27",8,"Thessaly and Central Greece",15.93
+"1425","2011-06-28",1,"Aegean",20.96
+"1426","2011-06-28",2,"Athos",21.78
+"1427","2011-06-28",3,"Attica",18.91
+"1428","2011-06-28",4,"Crete",19.48
+"1429","2011-06-28",5,"Epirus and Western Macedonia",11.8
+"1430","2011-06-28",6,"Macedonia and Thrace",15.4
+"1431","2011-06-28",7,"Peloponnese, Western Greece and the Ionian Islands",16.5
+"1432","2011-06-28",8,"Thessaly and Central Greece",15.14
+"1433","2011-06-29",1,"Aegean",20.43
+"1434","2011-06-29",2,"Athos",21.82
+"1435","2011-06-29",3,"Attica",19.14
+"1436","2011-06-29",4,"Crete",18.95
+"1437","2011-06-29",5,"Epirus and Western Macedonia",14.27
+"1438","2011-06-29",6,"Macedonia and Thrace",16.97
+"1439","2011-06-29",7,"Peloponnese, Western Greece and the Ionian Islands",17.57
+"1440","2011-06-29",8,"Thessaly and Central Greece",18.07
+"1441","2011-06-30",1,"Aegean",20.27
+"1442","2011-06-30",2,"Athos",21.95
+"1443","2011-06-30",3,"Attica",19.01
+"1444","2011-06-30",4,"Crete",19.88
+"1445","2011-06-30",5,"Epirus and Western Macedonia",13.1
+"1446","2011-06-30",6,"Macedonia and Thrace",16.22
+"1447","2011-06-30",7,"Peloponnese, Western Greece and the Ionian Islands",17.29
+"1448","2011-06-30",8,"Thessaly and Central Greece",16.23
+"1449","2011-07-01",1,"Aegean",21.43
+"1450","2011-07-01",2,"Athos",23.02
+"1451","2011-07-01",3,"Attica",21.63
+"1452","2011-07-01",4,"Crete",20.78
+"1453","2011-07-01",5,"Epirus and Western Macedonia",15.76
+"1454","2011-07-01",6,"Macedonia and Thrace",18.87
+"1455","2011-07-01",7,"Peloponnese, Western Greece and the Ionian Islands",19.01
+"1456","2011-07-01",8,"Thessaly and Central Greece",19.09
+"1457","2011-07-02",1,"Aegean",21.57
+"1458","2011-07-02",2,"Athos",22.31
+"1459","2011-07-02",3,"Attica",22.34
+"1460","2011-07-02",4,"Crete",21.18
+"1461","2011-07-02",5,"Epirus and Western Macedonia",15.72
+"1462","2011-07-02",6,"Macedonia and Thrace",17.67
+"1463","2011-07-02",7,"Peloponnese, Western Greece and the Ionian Islands",19.28
+"1464","2011-07-02",8,"Thessaly and Central Greece",19.85
+"1465","2011-07-03",1,"Aegean",22.06
+"1466","2011-07-03",2,"Athos",22.26
+"1467","2011-07-03",3,"Attica",20.65
+"1468","2011-07-03",4,"Crete",21.54
+"1469","2011-07-03",5,"Epirus and Western Macedonia",14.92
+"1470","2011-07-03",6,"Macedonia and Thrace",18.05
+"1471","2011-07-03",7,"Peloponnese, Western Greece and the Ionian Islands",18.49
+"1472","2011-07-03",8,"Thessaly and Central Greece",18.11
+"1473","2011-07-04",1,"Aegean",22.17
+"1474","2011-07-04",2,"Athos",21.28
+"1475","2011-07-04",3,"Attica",23.28
+"1476","2011-07-04",4,"Crete",20.98
+"1477","2011-07-04",5,"Epirus and Western Macedonia",12.63
+"1478","2011-07-04",6,"Macedonia and Thrace",16.04
+"1479","2011-07-04",7,"Peloponnese, Western Greece and the Ionian Islands",19.3
+"1480","2011-07-04",8,"Thessaly and Central Greece",18.43
+"1481","2011-07-05",1,"Aegean",22.55
+"1482","2011-07-05",2,"Athos",22.67
+"1483","2011-07-05",3,"Attica",21.06
+"1484","2011-07-05",4,"Crete",21.36
+"1485","2011-07-05",5,"Epirus and Western Macedonia",14.34
+"1486","2011-07-05",6,"Macedonia and Thrace",17.98
+"1487","2011-07-05",7,"Peloponnese, Western Greece and the Ionian Islands",18.25
+"1488","2011-07-05",8,"Thessaly and Central Greece",17.76
+"1489","2011-07-06",1,"Aegean",23.03
+"1490","2011-07-06",2,"Athos",23.54
+"1491","2011-07-06",3,"Attica",23.31
+"1492","2011-07-06",4,"Crete",22.5
+"1493","2011-07-06",5,"Epirus and Western Macedonia",16.21
+"1494","2011-07-06",6,"Macedonia and Thrace",19.79
+"1495","2011-07-06",7,"Peloponnese, Western Greece and the Ionian Islands",20.38
+"1496","2011-07-06",8,"Thessaly and Central Greece",20.39
+"1497","2011-07-07",1,"Aegean",23.27
+"1498","2011-07-07",2,"Athos",24.13
+"1499","2011-07-07",3,"Attica",22.84
+"1500","2011-07-07",4,"Crete",23.27
+"1501","2011-07-07",5,"Epirus and Western Macedonia",15.62
+"1502","2011-07-07",6,"Macedonia and Thrace",18.1
+"1503","2011-07-07",7,"Peloponnese, Western Greece and the Ionian Islands",19.56
+"1504","2011-07-07",8,"Thessaly and Central Greece",19.88
+"1505","2011-07-08",1,"Aegean",24.09
+"1506","2011-07-08",2,"Athos",24.03
+"1507","2011-07-08",3,"Attica",22.76
+"1508","2011-07-08",4,"Crete",22.92
+"1509","2011-07-08",5,"Epirus and Western Macedonia",17.27
+"1510","2011-07-08",6,"Macedonia and Thrace",19.02
+"1511","2011-07-08",7,"Peloponnese, Western Greece and the Ionian Islands",20.54
+"1512","2011-07-08",8,"Thessaly and Central Greece",20.27
+"1513","2011-07-09",1,"Aegean",24.48
+"1514","2011-07-09",2,"Athos",25.19
+"1515","2011-07-09",3,"Attica",23.44
+"1516","2011-07-09",4,"Crete",22.44
+"1517","2011-07-09",5,"Epirus and Western Macedonia",18.34
+"1518","2011-07-09",6,"Macedonia and Thrace",20.21
+"1519","2011-07-09",7,"Peloponnese, Western Greece and the Ionian Islands",21.47
+"1520","2011-07-09",8,"Thessaly and Central Greece",20.24
+"1521","2011-07-10",1,"Aegean",24.79
+"1522","2011-07-10",2,"Athos",25.47
+"1523","2011-07-10",3,"Attica",24.37
+"1524","2011-07-10",4,"Crete",23.95
+"1525","2011-07-10",5,"Epirus and Western Macedonia",18.69
+"1526","2011-07-10",6,"Macedonia and Thrace",21.55
+"1527","2011-07-10",7,"Peloponnese, Western Greece and the Ionian Islands",21.9
+"1528","2011-07-10",8,"Thessaly and Central Greece",20.64
+"1529","2011-07-11",1,"Aegean",25.47
+"1530","2011-07-11",2,"Athos",25.97
+"1531","2011-07-11",3,"Attica",24.78
+"1532","2011-07-11",4,"Crete",23.77
+"1533","2011-07-11",5,"Epirus and Western Macedonia",18.8
+"1534","2011-07-11",6,"Macedonia and Thrace",22.94
+"1535","2011-07-11",7,"Peloponnese, Western Greece and the Ionian Islands",22.1
+"1536","2011-07-11",8,"Thessaly and Central Greece",20.96
+"1537","2011-07-12",1,"Aegean",24.93
+"1538","2011-07-12",2,"Athos",25.86
+"1539","2011-07-12",3,"Attica",24.96
+"1540","2011-07-12",4,"Crete",24.47
+"1541","2011-07-12",5,"Epirus and Western Macedonia",19.51
+"1542","2011-07-12",6,"Macedonia and Thrace",22.27
+"1543","2011-07-12",7,"Peloponnese, Western Greece and the Ionian Islands",22.77
+"1544","2011-07-12",8,"Thessaly and Central Greece",21.47
+"1545","2011-07-13",1,"Aegean",25.32
+"1546","2011-07-13",2,"Athos",25.96
+"1547","2011-07-13",3,"Attica",25.62
+"1548","2011-07-13",4,"Crete",23.98
+"1549","2011-07-13",5,"Epirus and Western Macedonia",20.14
+"1550","2011-07-13",6,"Macedonia and Thrace",23.14
+"1551","2011-07-13",7,"Peloponnese, Western Greece and the Ionian Islands",23.61
+"1552","2011-07-13",8,"Thessaly and Central Greece",22.66
+"1553","2011-07-14",1,"Aegean",25.25
+"1554","2011-07-14",2,"Athos",26.16
+"1555","2011-07-14",3,"Attica",25.14
+"1556","2011-07-14",4,"Crete",24.13
+"1557","2011-07-14",5,"Epirus and Western Macedonia",19.4
+"1558","2011-07-14",6,"Macedonia and Thrace",22.21
+"1559","2011-07-14",7,"Peloponnese, Western Greece and the Ionian Islands",23.18
+"1560","2011-07-14",8,"Thessaly and Central Greece",21.55
+"1561","2011-07-15",1,"Aegean",24.8
+"1562","2011-07-15",2,"Athos",26.47
+"1563","2011-07-15",3,"Attica",24.51
+"1564","2011-07-15",4,"Crete",23.76
+"1565","2011-07-15",5,"Epirus and Western Macedonia",19.67
+"1566","2011-07-15",6,"Macedonia and Thrace",22.33
+"1567","2011-07-15",7,"Peloponnese, Western Greece and the Ionian Islands",23.04
+"1568","2011-07-15",8,"Thessaly and Central Greece",21.88
+"1569","2011-07-16",1,"Aegean",25.38
+"1570","2011-07-16",2,"Athos",26.2
+"1571","2011-07-16",3,"Attica",25.17
+"1572","2011-07-16",4,"Crete",23.84
+"1573","2011-07-16",5,"Epirus and Western Macedonia",20.93
+"1574","2011-07-16",6,"Macedonia and Thrace",22.83
+"1575","2011-07-16",7,"Peloponnese, Western Greece and the Ionian Islands",23.57
+"1576","2011-07-16",8,"Thessaly and Central Greece",23.33
+"1577","2011-07-17",1,"Aegean",25.13
+"1578","2011-07-17",2,"Athos",26.09
+"1579","2011-07-17",3,"Attica",25.32
+"1580","2011-07-17",4,"Crete",23.93
+"1581","2011-07-17",5,"Epirus and Western Macedonia",18.65
+"1582","2011-07-17",6,"Macedonia and Thrace",22.58
+"1583","2011-07-17",7,"Peloponnese, Western Greece and the Ionian Islands",22.67
+"1584","2011-07-17",8,"Thessaly and Central Greece",21.97
+"1585","2011-07-18",1,"Aegean",24.83
+"1586","2011-07-18",2,"Athos",26.78
+"1587","2011-07-18",3,"Attica",26.3
+"1588","2011-07-18",4,"Crete",25.56
+"1589","2011-07-18",5,"Epirus and Western Macedonia",17.78
+"1590","2011-07-18",6,"Macedonia and Thrace",21.81
+"1591","2011-07-18",7,"Peloponnese, Western Greece and the Ionian Islands",22.39
+"1592","2011-07-18",8,"Thessaly and Central Greece",21.61
+"1593","2011-07-19",1,"Aegean",25.59
+"1594","2011-07-19",2,"Athos",26.59
+"1595","2011-07-19",3,"Attica",25.81
+"1596","2011-07-19",4,"Crete",23.99
+"1597","2011-07-19",5,"Epirus and Western Macedonia",18.13
+"1598","2011-07-19",6,"Macedonia and Thrace",22.24
+"1599","2011-07-19",7,"Peloponnese, Western Greece and the Ionian Islands",21.73
+"1600","2011-07-19",8,"Thessaly and Central Greece",21.74
+"1601","2011-07-20",1,"Aegean",25.92
+"1602","2011-07-20",2,"Athos",26.61
+"1603","2011-07-20",3,"Attica",25.82
+"1604","2011-07-20",4,"Crete",25.2
+"1605","2011-07-20",5,"Epirus and Western Macedonia",17.64
+"1606","2011-07-20",6,"Macedonia and Thrace",22.86
+"1607","2011-07-20",7,"Peloponnese, Western Greece and the Ionian Islands",22.06
+"1608","2011-07-20",8,"Thessaly and Central Greece",21.51
+"1609","2011-07-21",1,"Aegean",26.57
+"1610","2011-07-21",2,"Athos",27.42
+"1611","2011-07-21",3,"Attica",28.16
+"1612","2011-07-21",4,"Crete",26.74
+"1613","2011-07-21",5,"Epirus and Western Macedonia",18.31
+"1614","2011-07-21",6,"Macedonia and Thrace",23.48
+"1615","2011-07-21",7,"Peloponnese, Western Greece and the Ionian Islands",24.03
+"1616","2011-07-21",8,"Thessaly and Central Greece",23.79
+"1617","2011-07-22",1,"Aegean",24.73
+"1618","2011-07-22",2,"Athos",26.99
+"1619","2011-07-22",3,"Attica",24.4
+"1620","2011-07-22",4,"Crete",22.66
+"1621","2011-07-22",5,"Epirus and Western Macedonia",14.61
+"1622","2011-07-22",6,"Macedonia and Thrace",20.38
+"1623","2011-07-22",7,"Peloponnese, Western Greece and the Ionian Islands",20.84
+"1624","2011-07-22",8,"Thessaly and Central Greece",20.38
+"1625","2011-07-23",1,"Aegean",24.51
+"1626","2011-07-23",2,"Athos",25.65
+"1627","2011-07-23",3,"Attica",24.42
+"1628","2011-07-23",4,"Crete",23.34
+"1629","2011-07-23",5,"Epirus and Western Macedonia",15.54
+"1630","2011-07-23",6,"Macedonia and Thrace",20.27
+"1631","2011-07-23",7,"Peloponnese, Western Greece and the Ionian Islands",20.8
+"1632","2011-07-23",8,"Thessaly and Central Greece",20.6
+"1633","2011-07-24",1,"Aegean",24.94
+"1634","2011-07-24",2,"Athos",25.96
+"1635","2011-07-24",3,"Attica",23.76
+"1636","2011-07-24",4,"Crete",25.39
+"1637","2011-07-24",5,"Epirus and Western Macedonia",17.42
+"1638","2011-07-24",6,"Macedonia and Thrace",21.33
+"1639","2011-07-24",7,"Peloponnese, Western Greece and the Ionian Islands",21.54
+"1640","2011-07-24",8,"Thessaly and Central Greece",21.11
+"1641","2011-07-25",1,"Aegean",24.59
+"1642","2011-07-25",2,"Athos",26.1
+"1643","2011-07-25",3,"Attica",24.49
+"1644","2011-07-25",4,"Crete",23.55
+"1645","2011-07-25",5,"Epirus and Western Macedonia",16.13
+"1646","2011-07-25",6,"Macedonia and Thrace",21.76
+"1647","2011-07-25",7,"Peloponnese, Western Greece and the Ionian Islands",21.18
+"1648","2011-07-25",8,"Thessaly and Central Greece",20.48
+"1649","2011-07-26",1,"Aegean",24.83
+"1650","2011-07-26",2,"Athos",25.84
+"1651","2011-07-26",3,"Attica",24.84
+"1652","2011-07-26",4,"Crete",22.48
+"1653","2011-07-26",5,"Epirus and Western Macedonia",15.68
+"1654","2011-07-26",6,"Macedonia and Thrace",21.29
+"1655","2011-07-26",7,"Peloponnese, Western Greece and the Ionian Islands",20.84
+"1656","2011-07-26",8,"Thessaly and Central Greece",20.44
+"1657","2011-07-27",1,"Aegean",24.89
+"1658","2011-07-27",2,"Athos",26.38
+"1659","2011-07-27",3,"Attica",24.17
+"1660","2011-07-27",4,"Crete",24.1
+"1661","2011-07-27",5,"Epirus and Western Macedonia",14.67
+"1662","2011-07-27",6,"Macedonia and Thrace",21.02
+"1663","2011-07-27",7,"Peloponnese, Western Greece and the Ionian Islands",19.76
+"1664","2011-07-27",8,"Thessaly and Central Greece",19.52
+"1665","2011-07-28",1,"Aegean",25.19
+"1666","2011-07-28",2,"Athos",25.88
+"1667","2011-07-28",3,"Attica",23.13
+"1668","2011-07-28",4,"Crete",23.79
+"1669","2011-07-28",5,"Epirus and Western Macedonia",14.99
+"1670","2011-07-28",6,"Macedonia and Thrace",20.75
+"1671","2011-07-28",7,"Peloponnese, Western Greece and the Ionian Islands",19.65
+"1672","2011-07-28",8,"Thessaly and Central Greece",19.5
+"1673","2011-07-29",1,"Aegean",26.29
+"1674","2011-07-29",2,"Athos",27.02
+"1675","2011-07-29",3,"Attica",24.25
+"1676","2011-07-29",4,"Crete",24.72
+"1677","2011-07-29",5,"Epirus and Western Macedonia",18.79
+"1678","2011-07-29",6,"Macedonia and Thrace",22.56
+"1679","2011-07-29",7,"Peloponnese, Western Greece and the Ionian Islands",21.23
+"1680","2011-07-29",8,"Thessaly and Central Greece",21.87
+"1681","2011-07-30",1,"Aegean",25.48
+"1682","2011-07-30",2,"Athos",27.04
+"1683","2011-07-30",3,"Attica",25.16
+"1684","2011-07-30",4,"Crete",24.41
+"1685","2011-07-30",5,"Epirus and Western Macedonia",16.45
+"1686","2011-07-30",6,"Macedonia and Thrace",22.42
+"1687","2011-07-30",7,"Peloponnese, Western Greece and the Ionian Islands",22.05
+"1688","2011-07-30",8,"Thessaly and Central Greece",21.68
+"1689","2011-07-31",1,"Aegean",25.26
+"1690","2011-07-31",2,"Athos",26.72
+"1691","2011-07-31",3,"Attica",24.07
+"1692","2011-07-31",4,"Crete",23.09
+"1693","2011-07-31",5,"Epirus and Western Macedonia",15.99
+"1694","2011-07-31",6,"Macedonia and Thrace",20.87
+"1695","2011-07-31",7,"Peloponnese, Western Greece and the Ionian Islands",20.26
+"1696","2011-07-31",8,"Thessaly and Central Greece",20.98
+"1697","2011-08-01",1,"Aegean",25.6
+"1698","2011-08-01",2,"Athos",26.21
+"1699","2011-08-01",3,"Attica",23.69
+"1700","2011-08-01",4,"Crete",23.4
+"1701","2011-08-01",5,"Epirus and Western Macedonia",15.75
+"1702","2011-08-01",6,"Macedonia and Thrace",21.76
+"1703","2011-08-01",7,"Peloponnese, Western Greece and the Ionian Islands",19.65
+"1704","2011-08-01",8,"Thessaly and Central Greece",19.71
+"1705","2011-08-02",1,"Aegean",25.76
+"1706","2011-08-02",2,"Athos",26.54
+"1707","2011-08-02",3,"Attica",23.99
+"1708","2011-08-02",4,"Crete",23.76
+"1709","2011-08-02",5,"Epirus and Western Macedonia",15.44
+"1710","2011-08-02",6,"Macedonia and Thrace",20.32
+"1711","2011-08-02",7,"Peloponnese, Western Greece and the Ionian Islands",19.84
+"1712","2011-08-02",8,"Thessaly and Central Greece",20.11
+"1713","2011-08-03",1,"Aegean",25.95
+"1714","2011-08-03",2,"Athos",25.76
+"1715","2011-08-03",3,"Attica",24.19
+"1716","2011-08-03",4,"Crete",24.07
+"1717","2011-08-03",5,"Epirus and Western Macedonia",16.22
+"1718","2011-08-03",6,"Macedonia and Thrace",20.7
+"1719","2011-08-03",7,"Peloponnese, Western Greece and the Ionian Islands",21.65
+"1720","2011-08-03",8,"Thessaly and Central Greece",20.6
+"1721","2011-08-04",1,"Aegean",25.58
+"1722","2011-08-04",2,"Athos",26.46
+"1723","2011-08-04",3,"Attica",23.93
+"1724","2011-08-04",4,"Crete",24.21
+"1725","2011-08-04",5,"Epirus and Western Macedonia",16.13
+"1726","2011-08-04",6,"Macedonia and Thrace",20.12
+"1727","2011-08-04",7,"Peloponnese, Western Greece and the Ionian Islands",21.29
+"1728","2011-08-04",8,"Thessaly and Central Greece",19.38
+"1729","2011-08-05",1,"Aegean",25.49
+"1730","2011-08-05",2,"Athos",25.73
+"1731","2011-08-05",3,"Attica",24.32
+"1732","2011-08-05",4,"Crete",23.7
+"1733","2011-08-05",5,"Epirus and Western Macedonia",17.95
+"1734","2011-08-05",6,"Macedonia and Thrace",21.57
+"1735","2011-08-05",7,"Peloponnese, Western Greece and the Ionian Islands",21.67
+"1736","2011-08-05",8,"Thessaly and Central Greece",21.52
+"1737","2011-08-06",1,"Aegean",25.14
+"1738","2011-08-06",2,"Athos",24.98
+"1739","2011-08-06",3,"Attica",24.9
+"1740","2011-08-06",4,"Crete",24.58
+"1741","2011-08-06",5,"Epirus and Western Macedonia",16.56
+"1742","2011-08-06",6,"Macedonia and Thrace",19.56
+"1743","2011-08-06",7,"Peloponnese, Western Greece and the Ionian Islands",22.21
+"1744","2011-08-06",8,"Thessaly and Central Greece",20.1
+"1745","2011-08-07",1,"Aegean",24.67
+"1746","2011-08-07",2,"Athos",24.64
+"1747","2011-08-07",3,"Attica",23.49
+"1748","2011-08-07",4,"Crete",23.87
+"1749","2011-08-07",5,"Epirus and Western Macedonia",17.61
+"1750","2011-08-07",6,"Macedonia and Thrace",20.84
+"1751","2011-08-07",7,"Peloponnese, Western Greece and the Ionian Islands",21.47
+"1752","2011-08-07",8,"Thessaly and Central Greece",20.45
+"1753","2011-08-08",1,"Aegean",24.75
+"1754","2011-08-08",2,"Athos",25.19
+"1755","2011-08-08",3,"Attica",24.02
+"1756","2011-08-08",4,"Crete",23.62
+"1757","2011-08-08",5,"Epirus and Western Macedonia",18.01
+"1758","2011-08-08",6,"Macedonia and Thrace",20.92
+"1759","2011-08-08",7,"Peloponnese, Western Greece and the Ionian Islands",22.18
+"1760","2011-08-08",8,"Thessaly and Central Greece",21.16
+"1761","2011-08-09",1,"Aegean",24.61
+"1762","2011-08-09",2,"Athos",25.33
+"1763","2011-08-09",3,"Attica",23.88
+"1764","2011-08-09",4,"Crete",22.95
+"1765","2011-08-09",5,"Epirus and Western Macedonia",18.82
+"1766","2011-08-09",6,"Macedonia and Thrace",21.86
+"1767","2011-08-09",7,"Peloponnese, Western Greece and the Ionian Islands",22.39
+"1768","2011-08-09",8,"Thessaly and Central Greece",21.88
+"1769","2011-08-10",1,"Aegean",24.78
+"1770","2011-08-10",2,"Athos",25.47
+"1771","2011-08-10",3,"Attica",24.64
+"1772","2011-08-10",4,"Crete",23.56
+"1773","2011-08-10",5,"Epirus and Western Macedonia",19.16
+"1774","2011-08-10",6,"Macedonia and Thrace",22.99
+"1775","2011-08-10",7,"Peloponnese, Western Greece and the Ionian Islands",22.25
+"1776","2011-08-10",8,"Thessaly and Central Greece",22.3
+"1777","2011-08-11",1,"Aegean",24.54
+"1778","2011-08-11",2,"Athos",21.68
+"1779","2011-08-11",3,"Attica",23.89
+"1780","2011-08-11",4,"Crete",24.09
+"1781","2011-08-11",5,"Epirus and Western Macedonia",15.9
+"1782","2011-08-11",6,"Macedonia and Thrace",18.09
+"1783","2011-08-11",7,"Peloponnese, Western Greece and the Ionian Islands",23.01
+"1784","2011-08-11",8,"Thessaly and Central Greece",19.8
+"1785","2011-08-12",1,"Aegean",22.19
+"1786","2011-08-12",2,"Athos",23.65
+"1787","2011-08-12",3,"Attica",21.73
+"1788","2011-08-12",4,"Crete",22.23
+"1789","2011-08-12",5,"Epirus and Western Macedonia",13.91
+"1790","2011-08-12",6,"Macedonia and Thrace",17.39
+"1791","2011-08-12",7,"Peloponnese, Western Greece and the Ionian Islands",20.18
+"1792","2011-08-12",8,"Thessaly and Central Greece",18.06
+"1793","2011-08-13",1,"Aegean",23.54
+"1794","2011-08-13",2,"Athos",24.3
+"1795","2011-08-13",3,"Attica",21.47
+"1796","2011-08-13",4,"Crete",22.32
+"1797","2011-08-13",5,"Epirus and Western Macedonia",13.83
+"1798","2011-08-13",6,"Macedonia and Thrace",17.41
+"1799","2011-08-13",7,"Peloponnese, Western Greece and the Ionian Islands",19.33
+"1800","2011-08-13",8,"Thessaly and Central Greece",17.69
+"1801","2011-08-14",1,"Aegean",24.25
+"1802","2011-08-14",2,"Athos",24.71
+"1803","2011-08-14",3,"Attica",22.15
+"1804","2011-08-14",4,"Crete",22.73
+"1805","2011-08-14",5,"Epirus and Western Macedonia",15.84
+"1806","2011-08-14",6,"Macedonia and Thrace",18.59
+"1807","2011-08-14",7,"Peloponnese, Western Greece and the Ionian Islands",19.34
+"1808","2011-08-14",8,"Thessaly and Central Greece",18.79
+"1809","2011-08-15",1,"Aegean",24.31
+"1810","2011-08-15",2,"Athos",25
+"1811","2011-08-15",3,"Attica",23.67
+"1812","2011-08-15",4,"Crete",22.69
+"1813","2011-08-15",5,"Epirus and Western Macedonia",16.88
+"1814","2011-08-15",6,"Macedonia and Thrace",19.43
+"1815","2011-08-15",7,"Peloponnese, Western Greece and the Ionian Islands",20.82
+"1816","2011-08-15",8,"Thessaly and Central Greece",20.61
+"1817","2011-08-16",1,"Aegean",24.62
+"1818","2011-08-16",2,"Athos",25.31
+"1819","2011-08-16",3,"Attica",24.5
+"1820","2011-08-16",4,"Crete",22.95
+"1821","2011-08-16",5,"Epirus and Western Macedonia",17.54
+"1822","2011-08-16",6,"Macedonia and Thrace",20.72
+"1823","2011-08-16",7,"Peloponnese, Western Greece and the Ionian Islands",21.06
+"1824","2011-08-16",8,"Thessaly and Central Greece",20.87
+"1825","2011-08-17",1,"Aegean",25.38
+"1826","2011-08-17",2,"Athos",26.52
+"1827","2011-08-17",3,"Attica",24.78
+"1828","2011-08-17",4,"Crete",23.89
+"1829","2011-08-17",5,"Epirus and Western Macedonia",17.96
+"1830","2011-08-17",6,"Macedonia and Thrace",22.17
+"1831","2011-08-17",7,"Peloponnese, Western Greece and the Ionian Islands",21.9
+"1832","2011-08-17",8,"Thessaly and Central Greece",22.04
+"1833","2011-08-18",1,"Aegean",25.66
+"1834","2011-08-18",2,"Athos",26.62
+"1835","2011-08-18",3,"Attica",25.3
+"1836","2011-08-18",4,"Crete",23.91
+"1837","2011-08-18",5,"Epirus and Western Macedonia",18.86
+"1838","2011-08-18",6,"Macedonia and Thrace",22.4
+"1839","2011-08-18",7,"Peloponnese, Western Greece and the Ionian Islands",22.08
+"1840","2011-08-18",8,"Thessaly and Central Greece",21.35
+"1841","2011-08-19",1,"Aegean",25.34
+"1842","2011-08-19",2,"Athos",25.13
+"1843","2011-08-19",3,"Attica",25.28
+"1844","2011-08-19",4,"Crete",25.01
+"1845","2011-08-19",5,"Epirus and Western Macedonia",19.36
+"1846","2011-08-19",6,"Macedonia and Thrace",21.74
+"1847","2011-08-19",7,"Peloponnese, Western Greece and the Ionian Islands",23.11
+"1848","2011-08-19",8,"Thessaly and Central Greece",21.66
+"1849","2011-08-20",1,"Aegean",24.5
+"1850","2011-08-20",2,"Athos",24.81
+"1851","2011-08-20",3,"Attica",23.85
+"1852","2011-08-20",4,"Crete",23.53
+"1853","2011-08-20",5,"Epirus and Western Macedonia",18.85
+"1854","2011-08-20",6,"Macedonia and Thrace",19.91
+"1855","2011-08-20",7,"Peloponnese, Western Greece and the Ionian Islands",22.39
+"1856","2011-08-20",8,"Thessaly and Central Greece",20.39
+"1857","2011-08-21",1,"Aegean",24.43
+"1858","2011-08-21",2,"Athos",25.28
+"1859","2011-08-21",3,"Attica",24.49
+"1860","2011-08-21",4,"Crete",22.37
+"1861","2011-08-21",5,"Epirus and Western Macedonia",19.44
+"1862","2011-08-21",6,"Macedonia and Thrace",22
+"1863","2011-08-21",7,"Peloponnese, Western Greece and the Ionian Islands",22.73
+"1864","2011-08-21",8,"Thessaly and Central Greece",21.74
+"1865","2011-08-22",1,"Aegean",24.92
+"1866","2011-08-22",2,"Athos",25.61
+"1867","2011-08-22",3,"Attica",25.36
+"1868","2011-08-22",4,"Crete",22.8
+"1869","2011-08-22",5,"Epirus and Western Macedonia",19.18
+"1870","2011-08-22",6,"Macedonia and Thrace",22.03
+"1871","2011-08-22",7,"Peloponnese, Western Greece and the Ionian Islands",23.13
+"1872","2011-08-22",8,"Thessaly and Central Greece",21.65
+"1873","2011-08-23",1,"Aegean",24.61
+"1874","2011-08-23",2,"Athos",25.41
+"1875","2011-08-23",3,"Attica",23.58
+"1876","2011-08-23",4,"Crete",23.36
+"1877","2011-08-23",5,"Epirus and Western Macedonia",17.66
+"1878","2011-08-23",6,"Macedonia and Thrace",20.76
+"1879","2011-08-23",7,"Peloponnese, Western Greece and the Ionian Islands",21.18
+"1880","2011-08-23",8,"Thessaly and Central Greece",19.72
+"1881","2011-08-24",1,"Aegean",24.41
+"1882","2011-08-24",2,"Athos",25.35
+"1883","2011-08-24",3,"Attica",23.57
+"1884","2011-08-24",4,"Crete",23.09
+"1885","2011-08-24",5,"Epirus and Western Macedonia",17.4
+"1886","2011-08-24",6,"Macedonia and Thrace",20.91
+"1887","2011-08-24",7,"Peloponnese, Western Greece and the Ionian Islands",21.1
+"1888","2011-08-24",8,"Thessaly and Central Greece",19.42
+"1889","2011-08-25",1,"Aegean",25.55
+"1890","2011-08-25",2,"Athos",26.54
+"1891","2011-08-25",3,"Attica",24.2
+"1892","2011-08-25",4,"Crete",22.93
+"1893","2011-08-25",5,"Epirus and Western Macedonia",18.41
+"1894","2011-08-25",6,"Macedonia and Thrace",22.47
+"1895","2011-08-25",7,"Peloponnese, Western Greece and the Ionian Islands",22.11
+"1896","2011-08-25",8,"Thessaly and Central Greece",20.68
+"1897","2011-08-26",1,"Aegean",24.65
+"1898","2011-08-26",2,"Athos",24.85
+"1899","2011-08-26",3,"Attica",24.51
+"1900","2011-08-26",4,"Crete",23.28
+"1901","2011-08-26",5,"Epirus and Western Macedonia",19.72
+"1902","2011-08-26",6,"Macedonia and Thrace",22.18
+"1903","2011-08-26",7,"Peloponnese, Western Greece and the Ionian Islands",22.76
+"1904","2011-08-26",8,"Thessaly and Central Greece",21.54
+"1905","2011-08-27",1,"Aegean",23.85
+"1906","2011-08-27",2,"Athos",24.22
+"1907","2011-08-27",3,"Attica",22.91
+"1908","2011-08-27",4,"Crete",22.3
+"1909","2011-08-27",5,"Epirus and Western Macedonia",17.69
+"1910","2011-08-27",6,"Macedonia and Thrace",20.49
+"1911","2011-08-27",7,"Peloponnese, Western Greece and the Ionian Islands",21.16
+"1912","2011-08-27",8,"Thessaly and Central Greece",19.91
+"1913","2011-08-28",1,"Aegean",23.51
+"1914","2011-08-28",2,"Athos",23.23
+"1915","2011-08-28",3,"Attica",22.53
+"1916","2011-08-28",4,"Crete",22.4
+"1917","2011-08-28",5,"Epirus and Western Macedonia",17.34
+"1918","2011-08-28",6,"Macedonia and Thrace",19.2
+"1919","2011-08-28",7,"Peloponnese, Western Greece and the Ionian Islands",20.6
+"1920","2011-08-28",8,"Thessaly and Central Greece",18.47
+"1921","2011-08-29",1,"Aegean",23.18
+"1922","2011-08-29",2,"Athos",23.62
+"1923","2011-08-29",3,"Attica",22.48
+"1924","2011-08-29",4,"Crete",22.15
+"1925","2011-08-29",5,"Epirus and Western Macedonia",16.45
+"1926","2011-08-29",6,"Macedonia and Thrace",18.55
+"1927","2011-08-29",7,"Peloponnese, Western Greece and the Ionian Islands",20.27
+"1928","2011-08-29",8,"Thessaly and Central Greece",17.66
+"1929","2011-08-30",1,"Aegean",23.32
+"1930","2011-08-30",2,"Athos",24.18
+"1931","2011-08-30",3,"Attica",20.56
+"1932","2011-08-30",4,"Crete",21.48
+"1933","2011-08-30",5,"Epirus and Western Macedonia",15.4
+"1934","2011-08-30",6,"Macedonia and Thrace",17.83
+"1935","2011-08-30",7,"Peloponnese, Western Greece and the Ionian Islands",19.68
+"1936","2011-08-30",8,"Thessaly and Central Greece",17.39
+"1937","2011-08-31",1,"Aegean",22.73
+"1938","2011-08-31",2,"Athos",23.85
+"1939","2011-08-31",3,"Attica",22.29
+"1940","2011-08-31",4,"Crete",21.74
+"1941","2011-08-31",5,"Epirus and Western Macedonia",16.88
+"1942","2011-08-31",6,"Macedonia and Thrace",18.81
+"1943","2011-08-31",7,"Peloponnese, Western Greece and the Ionian Islands",21.13
+"1944","2011-08-31",8,"Thessaly and Central Greece",19.99
+"1945","2011-09-01",1,"Aegean",23.92
+"1946","2011-09-01",2,"Athos",24.43
+"1947","2011-09-01",3,"Attica",22.87
+"1948","2011-09-01",4,"Crete",23.06
+"1949","2011-09-01",5,"Epirus and Western Macedonia",14.86
+"1950","2011-09-01",6,"Macedonia and Thrace",18.8
+"1951","2011-09-01",7,"Peloponnese, Western Greece and the Ionian Islands",20.37
+"1952","2011-09-01",8,"Thessaly and Central Greece",18.56
+"1953","2011-09-02",1,"Aegean",25
+"1954","2011-09-02",2,"Athos",24.9
+"1955","2011-09-02",3,"Attica",23.24
+"1956","2011-09-02",4,"Crete",23.16
+"1957","2011-09-02",5,"Epirus and Western Macedonia",15.28
+"1958","2011-09-02",6,"Macedonia and Thrace",20.22
+"1959","2011-09-02",7,"Peloponnese, Western Greece and the Ionian Islands",20.11
+"1960","2011-09-02",8,"Thessaly and Central Greece",19.35
+"1961","2011-09-03",1,"Aegean",25.24
+"1962","2011-09-03",2,"Athos",25.08
+"1963","2011-09-03",3,"Attica",23.82
+"1964","2011-09-03",4,"Crete",24.03
+"1965","2011-09-03",5,"Epirus and Western Macedonia",16.21
+"1966","2011-09-03",6,"Macedonia and Thrace",20.1
+"1967","2011-09-03",7,"Peloponnese, Western Greece and the Ionian Islands",21.1
+"1968","2011-09-03",8,"Thessaly and Central Greece",20.71
+"1969","2011-09-04",1,"Aegean",25.02
+"1970","2011-09-04",2,"Athos",25.12
+"1971","2011-09-04",3,"Attica",24.9
+"1972","2011-09-04",4,"Crete",24.59
+"1973","2011-09-04",5,"Epirus and Western Macedonia",17.33
+"1974","2011-09-04",6,"Macedonia and Thrace",20.39
+"1975","2011-09-04",7,"Peloponnese, Western Greece and the Ionian Islands",22.25
+"1976","2011-09-04",8,"Thessaly and Central Greece",20.51
+"1977","2011-09-05",1,"Aegean",24.29
+"1978","2011-09-05",2,"Athos",24.51
+"1979","2011-09-05",3,"Attica",22.35
+"1980","2011-09-05",4,"Crete",22.55
+"1981","2011-09-05",5,"Epirus and Western Macedonia",17.13
+"1982","2011-09-05",6,"Macedonia and Thrace",19.29
+"1983","2011-09-05",7,"Peloponnese, Western Greece and the Ionian Islands",21.49
+"1984","2011-09-05",8,"Thessaly and Central Greece",19.4
+"1985","2011-09-06",1,"Aegean",23.93
+"1986","2011-09-06",2,"Athos",24.42
+"1987","2011-09-06",3,"Attica",22.84
+"1988","2011-09-06",4,"Crete",22.67
+"1989","2011-09-06",5,"Epirus and Western Macedonia",18.18
+"1990","2011-09-06",6,"Macedonia and Thrace",20.1
+"1991","2011-09-06",7,"Peloponnese, Western Greece and the Ionian Islands",21.78
+"1992","2011-09-06",8,"Thessaly and Central Greece",20.8
+"1993","2011-09-07",1,"Aegean",24.23
+"1994","2011-09-07",2,"Athos",24.15
+"1995","2011-09-07",3,"Attica",24.23
+"1996","2011-09-07",4,"Crete",23.63
+"1997","2011-09-07",5,"Epirus and Western Macedonia",17.62
+"1998","2011-09-07",6,"Macedonia and Thrace",20.25
+"1999","2011-09-07",7,"Peloponnese, Western Greece and the Ionian Islands",22.26
+"2000","2011-09-07",8,"Thessaly and Central Greece",20.78
+"2001","2011-09-08",1,"Aegean",23.09
+"2002","2011-09-08",2,"Athos",23.58
+"2003","2011-09-08",3,"Attica",22.23
+"2004","2011-09-08",4,"Crete",22.61
+"2005","2011-09-08",5,"Epirus and Western Macedonia",14.38
+"2006","2011-09-08",6,"Macedonia and Thrace",18.29
+"2007","2011-09-08",7,"Peloponnese, Western Greece and the Ionian Islands",20.09
+"2008","2011-09-08",8,"Thessaly and Central Greece",18
+"2009","2011-09-09",1,"Aegean",23.01
+"2010","2011-09-09",2,"Athos",23.85
+"2011","2011-09-09",3,"Attica",22.47
+"2012","2011-09-09",4,"Crete",21.37
+"2013","2011-09-09",5,"Epirus and Western Macedonia",16.62
+"2014","2011-09-09",6,"Macedonia and Thrace",20.2
+"2015","2011-09-09",7,"Peloponnese, Western Greece and the Ionian Islands",20.4
+"2016","2011-09-09",8,"Thessaly and Central Greece",19.36
+"2017","2011-09-10",1,"Aegean",23.97
+"2018","2011-09-10",2,"Athos",24.91
+"2019","2011-09-10",3,"Attica",22.89
+"2020","2011-09-10",4,"Crete",22.2
+"2021","2011-09-10",5,"Epirus and Western Macedonia",17.01
+"2022","2011-09-10",6,"Macedonia and Thrace",20.57
+"2023","2011-09-10",7,"Peloponnese, Western Greece and the Ionian Islands",20.24
+"2024","2011-09-10",8,"Thessaly and Central Greece",20.96
+"2025","2011-09-11",1,"Aegean",24.5
+"2026","2011-09-11",2,"Athos",24.01
+"2027","2011-09-11",3,"Attica",22.94
+"2028","2011-09-11",4,"Crete",23.68
+"2029","2011-09-11",5,"Epirus and Western Macedonia",17.4
+"2030","2011-09-11",6,"Macedonia and Thrace",18.1
+"2031","2011-09-11",7,"Peloponnese, Western Greece and the Ionian Islands",21.28
+"2032","2011-09-11",8,"Thessaly and Central Greece",19.58
+"2033","2011-09-12",1,"Aegean",24.14
+"2034","2011-09-12",2,"Athos",23.88
+"2035","2011-09-12",3,"Attica",22.95
+"2036","2011-09-12",4,"Crete",22.51
+"2037","2011-09-12",5,"Epirus and Western Macedonia",18.62
+"2038","2011-09-12",6,"Macedonia and Thrace",19.16
+"2039","2011-09-12",7,"Peloponnese, Western Greece and the Ionian Islands",21.83
+"2040","2011-09-12",8,"Thessaly and Central Greece",20.1
+"2041","2011-09-13",1,"Aegean",23.3
+"2042","2011-09-13",2,"Athos",23.98
+"2043","2011-09-13",3,"Attica",22.01
+"2044","2011-09-13",4,"Crete",21.83
+"2045","2011-09-13",5,"Epirus and Western Macedonia",17.72
+"2046","2011-09-13",6,"Macedonia and Thrace",18.63
+"2047","2011-09-13",7,"Peloponnese, Western Greece and the Ionian Islands",21.42
+"2048","2011-09-13",8,"Thessaly and Central Greece",19.86
+"2049","2011-09-14",1,"Aegean",23.66
+"2050","2011-09-14",2,"Athos",24.4
+"2051","2011-09-14",3,"Attica",21.83
+"2052","2011-09-14",4,"Crete",22.17
+"2053","2011-09-14",5,"Epirus and Western Macedonia",17.26
+"2054","2011-09-14",6,"Macedonia and Thrace",18.56
+"2055","2011-09-14",7,"Peloponnese, Western Greece and the Ionian Islands",20.93
+"2056","2011-09-14",8,"Thessaly and Central Greece",18.69
+"2057","2011-09-15",1,"Aegean",24.02
+"2058","2011-09-15",2,"Athos",24.6
+"2059","2011-09-15",3,"Attica",21.23
+"2060","2011-09-15",4,"Crete",22.28
+"2061","2011-09-15",5,"Epirus and Western Macedonia",17.07
+"2062","2011-09-15",6,"Macedonia and Thrace",19.35
+"2063","2011-09-15",7,"Peloponnese, Western Greece and the Ionian Islands",20.09
+"2064","2011-09-15",8,"Thessaly and Central Greece",18.8
+"2065","2011-09-16",1,"Aegean",23.75
+"2066","2011-09-16",2,"Athos",24.17
+"2067","2011-09-16",3,"Attica",22.22
+"2068","2011-09-16",4,"Crete",22.24
+"2069","2011-09-16",5,"Epirus and Western Macedonia",17.26
+"2070","2011-09-16",6,"Macedonia and Thrace",19.84
+"2071","2011-09-16",7,"Peloponnese, Western Greece and the Ionian Islands",20.36
+"2072","2011-09-16",8,"Thessaly and Central Greece",19.82
+"2073","2011-09-17",1,"Aegean",24.04
+"2074","2011-09-17",2,"Athos",25.15
+"2075","2011-09-17",3,"Attica",22.67
+"2076","2011-09-17",4,"Crete",21.32
+"2077","2011-09-17",5,"Epirus and Western Macedonia",17.68
+"2078","2011-09-17",6,"Macedonia and Thrace",20.73
+"2079","2011-09-17",7,"Peloponnese, Western Greece and the Ionian Islands",21.02
+"2080","2011-09-17",8,"Thessaly and Central Greece",19.66
+"2081","2011-09-18",1,"Aegean",24.18
+"2082","2011-09-18",2,"Athos",24.41
+"2083","2011-09-18",3,"Attica",22.4
+"2084","2011-09-18",4,"Crete",21.66
+"2085","2011-09-18",5,"Epirus and Western Macedonia",17.1
+"2086","2011-09-18",6,"Macedonia and Thrace",20.49
+"2087","2011-09-18",7,"Peloponnese, Western Greece and the Ionian Islands",20.48
+"2088","2011-09-18",8,"Thessaly and Central Greece",19.03
+"2089","2011-09-19",1,"Aegean",23.34
+"2090","2011-09-19",2,"Athos",23.01
+"2091","2011-09-19",3,"Attica",20.76
+"2092","2011-09-19",4,"Crete",21.89
+"2093","2011-09-19",5,"Epirus and Western Macedonia",15.94
+"2094","2011-09-19",6,"Macedonia and Thrace",19.08
+"2095","2011-09-19",7,"Peloponnese, Western Greece and the Ionian Islands",19.76
+"2096","2011-09-19",8,"Thessaly and Central Greece",18.27
+"2097","2011-09-20",1,"Aegean",23.27
+"2098","2011-09-20",2,"Athos",22.96
+"2099","2011-09-20",3,"Attica",21.3
+"2100","2011-09-20",4,"Crete",21.59
+"2101","2011-09-20",5,"Epirus and Western Macedonia",16.5
+"2102","2011-09-20",6,"Macedonia and Thrace",18.54
+"2103","2011-09-20",7,"Peloponnese, Western Greece and the Ionian Islands",19.85
+"2104","2011-09-20",8,"Thessaly and Central Greece",19.31
+"2105","2011-09-21",1,"Aegean",24.04
+"2106","2011-09-21",2,"Athos",23.08
+"2107","2011-09-21",3,"Attica",21.29
+"2108","2011-09-21",4,"Crete",23.36
+"2109","2011-09-21",5,"Epirus and Western Macedonia",12.22
+"2110","2011-09-21",6,"Macedonia and Thrace",18.43
+"2111","2011-09-21",7,"Peloponnese, Western Greece and the Ionian Islands",17.21
+"2112","2011-09-21",8,"Thessaly and Central Greece",16.34
+"2113","2011-09-22",1,"Aegean",20.58
+"2114","2011-09-22",2,"Athos",20.47
+"2115","2011-09-22",3,"Attica",19.25
+"2116","2011-09-22",4,"Crete",19.65
+"2117","2011-09-22",5,"Epirus and Western Macedonia",14.07
+"2118","2011-09-22",6,"Macedonia and Thrace",18.19
+"2119","2011-09-22",7,"Peloponnese, Western Greece and the Ionian Islands",16.71
+"2120","2011-09-22",8,"Thessaly and Central Greece",16.01
+"2121","2011-09-23",1,"Aegean",22.21
+"2122","2011-09-23",2,"Athos",22.04
+"2123","2011-09-23",3,"Attica",20.01
+"2124","2011-09-23",4,"Crete",20.44
+"2125","2011-09-23",5,"Epirus and Western Macedonia",12.98
+"2126","2011-09-23",6,"Macedonia and Thrace",16.62
+"2127","2011-09-23",7,"Peloponnese, Western Greece and the Ionian Islands",18.02
+"2128","2011-09-23",8,"Thessaly and Central Greece",15.96
+"2129","2011-09-24",1,"Aegean",22.83
+"2130","2011-09-24",2,"Athos",22.28
+"2131","2011-09-24",3,"Attica",19.23
+"2132","2011-09-24",4,"Crete",20.78
+"2133","2011-09-24",5,"Epirus and Western Macedonia",13.49
+"2134","2011-09-24",6,"Macedonia and Thrace",15.66
+"2135","2011-09-24",7,"Peloponnese, Western Greece and the Ionian Islands",17.7
+"2136","2011-09-24",8,"Thessaly and Central Greece",15.55
+"2137","2011-09-25",1,"Aegean",23.11
+"2138","2011-09-25",2,"Athos",22.25
+"2139","2011-09-25",3,"Attica",19.5
+"2140","2011-09-25",4,"Crete",20.89
+"2141","2011-09-25",5,"Epirus and Western Macedonia",14.16
+"2142","2011-09-25",6,"Macedonia and Thrace",16.09
+"2143","2011-09-25",7,"Peloponnese, Western Greece and the Ionian Islands",17.3
+"2144","2011-09-25",8,"Thessaly and Central Greece",15.85
+"2145","2011-09-26",1,"Aegean",23.21
+"2146","2011-09-26",2,"Athos",21.54
+"2147","2011-09-26",3,"Attica",20.56
+"2148","2011-09-26",4,"Crete",20.31
+"2149","2011-09-26",5,"Epirus and Western Macedonia",13.45
+"2150","2011-09-26",6,"Macedonia and Thrace",17.14
+"2151","2011-09-26",7,"Peloponnese, Western Greece and the Ionian Islands",18.1
+"2152","2011-09-26",8,"Thessaly and Central Greece",16.35
+"2153","2011-09-27",1,"Aegean",21.97
+"2154","2011-09-27",2,"Athos",20.45
+"2155","2011-09-27",3,"Attica",19.82
+"2156","2011-09-27",4,"Crete",20.79
+"2157","2011-09-27",5,"Epirus and Western Macedonia",13.9
+"2158","2011-09-27",6,"Macedonia and Thrace",16.12
+"2159","2011-09-27",7,"Peloponnese, Western Greece and the Ionian Islands",17.68
+"2160","2011-09-27",8,"Thessaly and Central Greece",16.07
+"2161","2011-09-28",1,"Aegean",21.53
+"2162","2011-09-28",2,"Athos",20.22
+"2163","2011-09-28",3,"Attica",20.11
+"2164","2011-09-28",4,"Crete",20.06
+"2165","2011-09-28",5,"Epirus and Western Macedonia",11.98
+"2166","2011-09-28",6,"Macedonia and Thrace",14.42
+"2167","2011-09-28",7,"Peloponnese, Western Greece and the Ionian Islands",16.71
+"2168","2011-09-28",8,"Thessaly and Central Greece",15.1
+"2169","2011-09-29",1,"Aegean",21.84
+"2170","2011-09-29",2,"Athos",21.13
+"2171","2011-09-29",3,"Attica",20.16
+"2172","2011-09-29",4,"Crete",20.24
+"2173","2011-09-29",5,"Epirus and Western Macedonia",10.89
+"2174","2011-09-29",6,"Macedonia and Thrace",14.28
+"2175","2011-09-29",7,"Peloponnese, Western Greece and the Ionian Islands",16.77
+"2176","2011-09-29",8,"Thessaly and Central Greece",14.44
+"2177","2011-09-30",1,"Aegean",22.73
+"2178","2011-09-30",2,"Athos",21.76
+"2179","2011-09-30",3,"Attica",19.2
+"2180","2011-09-30",4,"Crete",20.23
+"2181","2011-09-30",5,"Epirus and Western Macedonia",11.69
+"2182","2011-09-30",6,"Macedonia and Thrace",16.07
+"2183","2011-09-30",7,"Peloponnese, Western Greece and the Ionian Islands",16.06
+"2184","2011-09-30",8,"Thessaly and Central Greece",14.47
+"2185","2011-10-01",1,"Aegean",20.48
+"2186","2011-10-01",2,"Athos",20.11
+"2187","2011-10-01",3,"Attica",19.18
+"2188","2011-10-01",4,"Crete",19.76
+"2189","2011-10-01",5,"Epirus and Western Macedonia",12.24
+"2190","2011-10-01",6,"Macedonia and Thrace",14.99
+"2191","2011-10-01",7,"Peloponnese, Western Greece and the Ionian Islands",16.86
+"2192","2011-10-01",8,"Thessaly and Central Greece",14.81
+"2193","2011-10-02",1,"Aegean",20.6
+"2194","2011-10-02",2,"Athos",20.58
+"2195","2011-10-02",3,"Attica",17.86
+"2196","2011-10-02",4,"Crete",18.52
+"2197","2011-10-02",5,"Epirus and Western Macedonia",11.56
+"2198","2011-10-02",6,"Macedonia and Thrace",14.17
+"2199","2011-10-02",7,"Peloponnese, Western Greece and the Ionian Islands",15.62
+"2200","2011-10-02",8,"Thessaly and Central Greece",13.78
+"2201","2011-10-03",1,"Aegean",21.19
+"2202","2011-10-03",2,"Athos",21.09
+"2203","2011-10-03",3,"Attica",18.35
+"2204","2011-10-03",4,"Crete",17.97
+"2205","2011-10-03",5,"Epirus and Western Macedonia",11.45
+"2206","2011-10-03",6,"Macedonia and Thrace",15.48
+"2207","2011-10-03",7,"Peloponnese, Western Greece and the Ionian Islands",15.81
+"2208","2011-10-03",8,"Thessaly and Central Greece",14.55
+"2209","2011-10-04",1,"Aegean",20.58
+"2210","2011-10-04",2,"Athos",20.32
+"2211","2011-10-04",3,"Attica",17.8
+"2212","2011-10-04",4,"Crete",18.39
+"2213","2011-10-04",5,"Epirus and Western Macedonia",11.34
+"2214","2011-10-04",6,"Macedonia and Thrace",13.55
+"2215","2011-10-04",7,"Peloponnese, Western Greece and the Ionian Islands",16.31
+"2216","2011-10-04",8,"Thessaly and Central Greece",14
+"2217","2011-10-05",1,"Aegean",20.33
+"2218","2011-10-05",2,"Athos",19.6
+"2219","2011-10-05",3,"Attica",16.5
+"2220","2011-10-05",4,"Crete",17.89
+"2221","2011-10-05",5,"Epirus and Western Macedonia",10.49
+"2222","2011-10-05",6,"Macedonia and Thrace",13
+"2223","2011-10-05",7,"Peloponnese, Western Greece and the Ionian Islands",14.88
+"2224","2011-10-05",8,"Thessaly and Central Greece",13.01
+"2225","2011-10-06",1,"Aegean",20.38
+"2226","2011-10-06",2,"Athos",20.61
+"2227","2011-10-06",3,"Attica",16.58
+"2228","2011-10-06",4,"Crete",18.73
+"2229","2011-10-06",5,"Epirus and Western Macedonia",10.37
+"2230","2011-10-06",6,"Macedonia and Thrace",12.77
+"2231","2011-10-06",7,"Peloponnese, Western Greece and the Ionian Islands",14.89
+"2232","2011-10-06",8,"Thessaly and Central Greece",12.83
+"2233","2011-10-07",1,"Aegean",20.53
+"2234","2011-10-07",2,"Athos",20.75
+"2235","2011-10-07",3,"Attica",17.5
+"2236","2011-10-07",4,"Crete",18.91
+"2237","2011-10-07",5,"Epirus and Western Macedonia",11.22
+"2238","2011-10-07",6,"Macedonia and Thrace",13.8
+"2239","2011-10-07",7,"Peloponnese, Western Greece and the Ionian Islands",15.87
+"2240","2011-10-07",8,"Thessaly and Central Greece",14.05
+"2241","2011-10-08",1,"Aegean",21.8
+"2242","2011-10-08",2,"Athos",21.78
+"2243","2011-10-08",3,"Attica",20.08
+"2244","2011-10-08",4,"Crete",19.5
+"2245","2011-10-08",5,"Epirus and Western Macedonia",12.23
+"2246","2011-10-08",6,"Macedonia and Thrace",16.08
+"2247","2011-10-08",7,"Peloponnese, Western Greece and the Ionian Islands",17.23
+"2248","2011-10-08",8,"Thessaly and Central Greece",16.48
+"2249","2011-10-09",1,"Aegean",21.68
+"2250","2011-10-09",2,"Athos",22.71
+"2251","2011-10-09",3,"Attica",20.28
+"2252","2011-10-09",4,"Crete",21.43
+"2253","2011-10-09",5,"Epirus and Western Macedonia",11.45
+"2254","2011-10-09",6,"Macedonia and Thrace",16.16
+"2255","2011-10-09",7,"Peloponnese, Western Greece and the Ionian Islands",16.92
+"2256","2011-10-09",8,"Thessaly and Central Greece",16.38
+"2257","2011-10-10",1,"Aegean",20.1
+"2258","2011-10-10",2,"Athos",15.18
+"2259","2011-10-10",3,"Attica",16.79
+"2260","2011-10-10",4,"Crete",17.96
+"2261","2011-10-10",5,"Epirus and Western Macedonia",6.86
+"2262","2011-10-10",6,"Macedonia and Thrace",9.86
+"2263","2011-10-10",7,"Peloponnese, Western Greece and the Ionian Islands",12.97
+"2264","2011-10-10",8,"Thessaly and Central Greece",10.98
+"2265","2011-10-11",1,"Aegean",17.31
+"2266","2011-10-11",2,"Athos",15.07
+"2267","2011-10-11",3,"Attica",14.51
+"2268","2011-10-11",4,"Crete",15.26
+"2269","2011-10-11",5,"Epirus and Western Macedonia",7.45
+"2270","2011-10-11",6,"Macedonia and Thrace",10.2
+"2271","2011-10-11",7,"Peloponnese, Western Greece and the Ionian Islands",12.26
+"2272","2011-10-11",8,"Thessaly and Central Greece",10.51
+"2273","2011-10-12",1,"Aegean",16.82
+"2274","2011-10-12",2,"Athos",16.76
+"2275","2011-10-12",3,"Attica",15.28
+"2276","2011-10-12",4,"Crete",14.82
+"2277","2011-10-12",5,"Epirus and Western Macedonia",8.09
+"2278","2011-10-12",6,"Macedonia and Thrace",11.27
+"2279","2011-10-12",7,"Peloponnese, Western Greece and the Ionian Islands",12.67
+"2280","2011-10-12",8,"Thessaly and Central Greece",10.93
+"2281","2011-10-13",1,"Aegean",19.08
+"2282","2011-10-13",2,"Athos",19.03
+"2283","2011-10-13",3,"Attica",16.16
+"2284","2011-10-13",4,"Crete",15.96
+"2285","2011-10-13",5,"Epirus and Western Macedonia",9.56
+"2286","2011-10-13",6,"Macedonia and Thrace",13.33
+"2287","2011-10-13",7,"Peloponnese, Western Greece and the Ionian Islands",13.3
+"2288","2011-10-13",8,"Thessaly and Central Greece",12.45
+"2289","2011-10-14",1,"Aegean",20.47
+"2290","2011-10-14",2,"Athos",18.63
+"2291","2011-10-14",3,"Attica",18.14
+"2292","2011-10-14",4,"Crete",17.08
+"2293","2011-10-14",5,"Epirus and Western Macedonia",10.77
+"2294","2011-10-14",6,"Macedonia and Thrace",13.56
+"2295","2011-10-14",7,"Peloponnese, Western Greece and the Ionian Islands",15.17
+"2296","2011-10-14",8,"Thessaly and Central Greece",13.97
+"2297","2011-10-15",1,"Aegean",18.99
+"2298","2011-10-15",2,"Athos",15.53
+"2299","2011-10-15",3,"Attica",16.36
+"2300","2011-10-15",4,"Crete",17.63
+"2301","2011-10-15",5,"Epirus and Western Macedonia",8.51
+"2302","2011-10-15",6,"Macedonia and Thrace",10.5
+"2303","2011-10-15",7,"Peloponnese, Western Greece and the Ionian Islands",14.8
+"2304","2011-10-15",8,"Thessaly and Central Greece",12.45
+"2305","2011-10-16",1,"Aegean",17.37
+"2306","2011-10-16",2,"Athos",13.43
+"2307","2011-10-16",3,"Attica",14.64
+"2308","2011-10-16",4,"Crete",17.6
+"2309","2011-10-16",5,"Epirus and Western Macedonia",6.22
+"2310","2011-10-16",6,"Macedonia and Thrace",8.95
+"2311","2011-10-16",7,"Peloponnese, Western Greece and the Ionian Islands",12.96
+"2312","2011-10-16",8,"Thessaly and Central Greece",10.34
+"2313","2011-10-17",1,"Aegean",14
+"2314","2011-10-17",2,"Athos",10.72
+"2315","2011-10-17",3,"Attica",10.96
+"2316","2011-10-17",4,"Crete",15.45
+"2317","2011-10-17",5,"Epirus and Western Macedonia",2.33
+"2318","2011-10-17",6,"Macedonia and Thrace",4.89
+"2319","2011-10-17",7,"Peloponnese, Western Greece and the Ionian Islands",9.09
+"2320","2011-10-17",8,"Thessaly and Central Greece",7.15
+"2321","2011-10-18",1,"Aegean",12.71
+"2322","2011-10-18",2,"Athos",11.99
+"2323","2011-10-18",3,"Attica",9.99
+"2324","2011-10-18",4,"Crete",12.9
+"2325","2011-10-18",5,"Epirus and Western Macedonia",-0.09
+"2326","2011-10-18",6,"Macedonia and Thrace",5.1
+"2327","2011-10-18",7,"Peloponnese, Western Greece and the Ionian Islands",7.5
+"2328","2011-10-18",8,"Thessaly and Central Greece",4.96
+"2329","2011-10-19",1,"Aegean",14.86
+"2330","2011-10-19",2,"Athos",14.31
+"2331","2011-10-19",3,"Attica",11.61
+"2332","2011-10-19",4,"Crete",12.92
+"2333","2011-10-19",5,"Epirus and Western Macedonia",0.6
+"2334","2011-10-19",6,"Macedonia and Thrace",4.58
+"2335","2011-10-19",7,"Peloponnese, Western Greece and the Ionian Islands",7.39
+"2336","2011-10-19",8,"Thessaly and Central Greece",4.62
+"2337","2011-10-20",1,"Aegean",16.36
+"2338","2011-10-20",2,"Athos",15.15
+"2339","2011-10-20",3,"Attica",12.45
+"2340","2011-10-20",4,"Crete",14.27
+"2341","2011-10-20",5,"Epirus and Western Macedonia",2.02
+"2342","2011-10-20",6,"Macedonia and Thrace",6.14
+"2343","2011-10-20",7,"Peloponnese, Western Greece and the Ionian Islands",8.06
+"2344","2011-10-20",8,"Thessaly and Central Greece",6.53
+"2345","2011-10-21",1,"Aegean",17.25
+"2346","2011-10-21",2,"Athos",15.04
+"2347","2011-10-21",3,"Attica",13.87
+"2348","2011-10-21",4,"Crete",14.34
+"2349","2011-10-21",5,"Epirus and Western Macedonia",3.81
+"2350","2011-10-21",6,"Macedonia and Thrace",6.31
+"2351","2011-10-21",7,"Peloponnese, Western Greece and the Ionian Islands",10.05
+"2352","2011-10-21",8,"Thessaly and Central Greece",8.34
+"2353","2011-10-22",1,"Aegean",17.83
+"2354","2011-10-22",2,"Athos",16.58
+"2355","2011-10-22",3,"Attica",13.59
+"2356","2011-10-22",4,"Crete",14.76
+"2357","2011-10-22",5,"Epirus and Western Macedonia",8.6
+"2358","2011-10-22",6,"Macedonia and Thrace",8.77
+"2359","2011-10-22",7,"Peloponnese, Western Greece and the Ionian Islands",11.73
+"2360","2011-10-22",8,"Thessaly and Central Greece",10.2
+"2361","2011-10-23",1,"Aegean",17.85
+"2362","2011-10-23",2,"Athos",15.49
+"2363","2011-10-23",3,"Attica",14.76
+"2364","2011-10-23",4,"Crete",15.79
+"2365","2011-10-23",5,"Epirus and Western Macedonia",8.66
+"2366","2011-10-23",6,"Macedonia and Thrace",10.89
+"2367","2011-10-23",7,"Peloponnese, Western Greece and the Ionian Islands",12.83
+"2368","2011-10-23",8,"Thessaly and Central Greece",11.36
+"2369","2011-10-24",1,"Aegean",17.88
+"2370","2011-10-24",2,"Athos",15.54
+"2371","2011-10-24",3,"Attica",16.13
+"2372","2011-10-24",4,"Crete",16.15
+"2373","2011-10-24",5,"Epirus and Western Macedonia",9.38
+"2374","2011-10-24",6,"Macedonia and Thrace",11.82
+"2375","2011-10-24",7,"Peloponnese, Western Greece and the Ionian Islands",13.7
+"2376","2011-10-24",8,"Thessaly and Central Greece",11.84
+"2377","2011-10-25",1,"Aegean",17.91
+"2378","2011-10-25",2,"Athos",15.13
+"2379","2011-10-25",3,"Attica",16.14
+"2380","2011-10-25",4,"Crete",16.26
+"2381","2011-10-25",5,"Epirus and Western Macedonia",8.56
+"2382","2011-10-25",6,"Macedonia and Thrace",10.79
+"2383","2011-10-25",7,"Peloponnese, Western Greece and the Ionian Islands",13.81
+"2384","2011-10-25",8,"Thessaly and Central Greece",11.3
+"2385","2011-10-26",1,"Aegean",17.64
+"2386","2011-10-26",2,"Athos",14.57
+"2387","2011-10-26",3,"Attica",16.19
+"2388","2011-10-26",4,"Crete",16.84
+"2389","2011-10-26",5,"Epirus and Western Macedonia",8.67
+"2390","2011-10-26",6,"Macedonia and Thrace",10.28
+"2391","2011-10-26",7,"Peloponnese, Western Greece and the Ionian Islands",13.05
+"2392","2011-10-26",8,"Thessaly and Central Greece",11.82
+"2393","2011-10-27",1,"Aegean",16.8
+"2394","2011-10-27",2,"Athos",12.89
+"2395","2011-10-27",3,"Attica",15.2
+"2396","2011-10-27",4,"Crete",16.3
+"2397","2011-10-27",5,"Epirus and Western Macedonia",8.99
+"2398","2011-10-27",6,"Macedonia and Thrace",10.34
+"2399","2011-10-27",7,"Peloponnese, Western Greece and the Ionian Islands",12.81
+"2400","2011-10-27",8,"Thessaly and Central Greece",11.74
+"2401","2011-10-28",1,"Aegean",16.69
+"2402","2011-10-28",2,"Athos",12.77
+"2403","2011-10-28",3,"Attica",14.04
+"2404","2011-10-28",4,"Crete",16.22
+"2405","2011-10-28",5,"Epirus and Western Macedonia",5.18
+"2406","2011-10-28",6,"Macedonia and Thrace",7.6
+"2407","2011-10-28",7,"Peloponnese, Western Greece and the Ionian Islands",10.96
+"2408","2011-10-28",8,"Thessaly and Central Greece",9.46
+"2409","2011-10-29",1,"Aegean",16.27
+"2410","2011-10-29",2,"Athos",12.8
+"2411","2011-10-29",3,"Attica",13.92
+"2412","2011-10-29",4,"Crete",15.78
+"2413","2011-10-29",5,"Epirus and Western Macedonia",2.63
+"2414","2011-10-29",6,"Macedonia and Thrace",6.05
+"2415","2011-10-29",7,"Peloponnese, Western Greece and the Ionian Islands",9.87
+"2416","2011-10-29",8,"Thessaly and Central Greece",7.22
+"2417","2011-10-30",1,"Aegean",16.01
+"2418","2011-10-30",2,"Athos",12.98
+"2419","2011-10-30",3,"Attica",13.99
+"2420","2011-10-30",4,"Crete",14.9
+"2421","2011-10-30",5,"Epirus and Western Macedonia",3.8
+"2422","2011-10-30",6,"Macedonia and Thrace",6.9
+"2423","2011-10-30",7,"Peloponnese, Western Greece and the Ionian Islands",9.89
+"2424","2011-10-30",8,"Thessaly and Central Greece",8.4
+"2425","2011-10-31",1,"Aegean",15.6
+"2426","2011-10-31",2,"Athos",12.69
+"2427","2011-10-31",3,"Attica",13.16
+"2428","2011-10-31",4,"Crete",14.68
+"2429","2011-10-31",5,"Epirus and Western Macedonia",1.29
+"2430","2011-10-31",6,"Macedonia and Thrace",4.72
+"2431","2011-10-31",7,"Peloponnese, Western Greece and the Ionian Islands",8.76
+"2432","2011-10-31",8,"Thessaly and Central Greece",6.81
+"2433","2011-11-01",1,"Aegean",14.72
+"2434","2011-11-01",2,"Athos",12.69
+"2435","2011-11-01",3,"Attica",10.49
+"2436","2011-11-01",4,"Crete",13.6
+"2437","2011-11-01",5,"Epirus and Western Macedonia",1.79
+"2438","2011-11-01",6,"Macedonia and Thrace",4.04
+"2439","2011-11-01",7,"Peloponnese, Western Greece and the Ionian Islands",8.64
+"2440","2011-11-01",8,"Thessaly and Central Greece",4.37
+"2441","2011-11-02",1,"Aegean",14.89
+"2442","2011-11-02",2,"Athos",13.34
+"2443","2011-11-02",3,"Attica",9.81
+"2444","2011-11-02",4,"Crete",13.91
+"2445","2011-11-02",5,"Epirus and Western Macedonia",2.57
+"2446","2011-11-02",6,"Macedonia and Thrace",4.75
+"2447","2011-11-02",7,"Peloponnese, Western Greece and the Ionian Islands",8.26
+"2448","2011-11-02",8,"Thessaly and Central Greece",5.67
+"2449","2011-11-03",1,"Aegean",14.96
+"2450","2011-11-03",2,"Athos",13.86
+"2451","2011-11-03",3,"Attica",12.52
+"2452","2011-11-03",4,"Crete",14.03
+"2453","2011-11-03",5,"Epirus and Western Macedonia",1.41
+"2454","2011-11-03",6,"Macedonia and Thrace",6.07
+"2455","2011-11-03",7,"Peloponnese, Western Greece and the Ionian Islands",8.81
+"2456","2011-11-03",8,"Thessaly and Central Greece",6.73
+"2457","2011-11-04",1,"Aegean",14.76
+"2458","2011-11-04",2,"Athos",13.61
+"2459","2011-11-04",3,"Attica",11.95
+"2460","2011-11-04",4,"Crete",14.56
+"2461","2011-11-04",5,"Epirus and Western Macedonia",2.93
+"2462","2011-11-04",6,"Macedonia and Thrace",5.67
+"2463","2011-11-04",7,"Peloponnese, Western Greece and the Ionian Islands",8.88
+"2464","2011-11-04",8,"Thessaly and Central Greece",6.3
+"2465","2011-11-05",1,"Aegean",15.7
+"2466","2011-11-05",2,"Athos",13.49
+"2467","2011-11-05",3,"Attica",11.4
+"2468","2011-11-05",4,"Crete",14.19
+"2469","2011-11-05",5,"Epirus and Western Macedonia",2.73
+"2470","2011-11-05",6,"Macedonia and Thrace",4.96
+"2471","2011-11-05",7,"Peloponnese, Western Greece and the Ionian Islands",8.86
+"2472","2011-11-05",8,"Thessaly and Central Greece",6.6
+"2473","2011-11-06",1,"Aegean",15.94
+"2474","2011-11-06",2,"Athos",13.68
+"2475","2011-11-06",3,"Attica",10.18
+"2476","2011-11-06",4,"Crete",13.37
+"2477","2011-11-06",5,"Epirus and Western Macedonia",2.77
+"2478","2011-11-06",6,"Macedonia and Thrace",5.03
+"2479","2011-11-06",7,"Peloponnese, Western Greece and the Ionian Islands",8.32
+"2480","2011-11-06",8,"Thessaly and Central Greece",5.58
+"2481","2011-11-07",1,"Aegean",16.65
+"2482","2011-11-07",2,"Athos",13.72
+"2483","2011-11-07",3,"Attica",12.64
+"2484","2011-11-07",4,"Crete",14.26
+"2485","2011-11-07",5,"Epirus and Western Macedonia",6.23
+"2486","2011-11-07",6,"Macedonia and Thrace",7.23
+"2487","2011-11-07",7,"Peloponnese, Western Greece and the Ionian Islands",11.08
+"2488","2011-11-07",8,"Thessaly and Central Greece",9.86
+"2489","2011-11-08",1,"Aegean",15.91
+"2490","2011-11-08",2,"Athos",12.34
+"2491","2011-11-08",3,"Attica",13.88
+"2492","2011-11-08",4,"Crete",14.76
+"2493","2011-11-08",5,"Epirus and Western Macedonia",8.85
+"2494","2011-11-08",6,"Macedonia and Thrace",8.92
+"2495","2011-11-08",7,"Peloponnese, Western Greece and the Ionian Islands",11.93
+"2496","2011-11-08",8,"Thessaly and Central Greece",11.13
+"2497","2011-11-09",1,"Aegean",15.62
+"2498","2011-11-09",2,"Athos",13.78
+"2499","2011-11-09",3,"Attica",12.65
+"2500","2011-11-09",4,"Crete",15.22
+"2501","2011-11-09",5,"Epirus and Western Macedonia",7.61
+"2502","2011-11-09",6,"Macedonia and Thrace",7.01
+"2503","2011-11-09",7,"Peloponnese, Western Greece and the Ionian Islands",13.68
+"2504","2011-11-09",8,"Thessaly and Central Greece",10.29
+"2505","2011-11-10",1,"Aegean",15.88
+"2506","2011-11-10",2,"Athos",14.72
+"2507","2011-11-10",3,"Attica",13.25
+"2508","2011-11-10",4,"Crete",14.86
+"2509","2011-11-10",5,"Epirus and Western Macedonia",6.47
+"2510","2011-11-10",6,"Macedonia and Thrace",7.99
+"2511","2011-11-10",7,"Peloponnese, Western Greece and the Ionian Islands",11.64
+"2512","2011-11-10",8,"Thessaly and Central Greece",9.53
+"2513","2011-11-11",1,"Aegean",15.91
+"2514","2011-11-11",2,"Athos",12.68
+"2515","2011-11-11",3,"Attica",15.05
+"2516","2011-11-11",4,"Crete",15.35
+"2517","2011-11-11",5,"Epirus and Western Macedonia",9.21
+"2518","2011-11-11",6,"Macedonia and Thrace",9.75
+"2519","2011-11-11",7,"Peloponnese, Western Greece and the Ionian Islands",13.17
+"2520","2011-11-11",8,"Thessaly and Central Greece",12.63
+"2521","2011-11-12",1,"Aegean",13.8
+"2522","2011-11-12",2,"Athos",8.57
+"2523","2011-11-12",3,"Attica",11.98
+"2524","2011-11-12",4,"Crete",15.47
+"2525","2011-11-12",5,"Epirus and Western Macedonia",6.1
+"2526","2011-11-12",6,"Macedonia and Thrace",5.86
+"2527","2011-11-12",7,"Peloponnese, Western Greece and the Ionian Islands",10.86
+"2528","2011-11-12",8,"Thessaly and Central Greece",7.92
+"2529","2011-11-13",1,"Aegean",12.86
+"2530","2011-11-13",2,"Athos",9.02
+"2531","2011-11-13",3,"Attica",10.41
+"2532","2011-11-13",4,"Crete",11.74
+"2533","2011-11-13",5,"Epirus and Western Macedonia",2.21
+"2534","2011-11-13",6,"Macedonia and Thrace",2.42
+"2535","2011-11-13",7,"Peloponnese, Western Greece and the Ionian Islands",7.76
+"2536","2011-11-13",8,"Thessaly and Central Greece",5.95
+"2537","2011-11-14",1,"Aegean",12.87
+"2538","2011-11-14",2,"Athos",9.84
+"2539","2011-11-14",3,"Attica",10.29
+"2540","2011-11-14",4,"Crete",11.54
+"2541","2011-11-14",5,"Epirus and Western Macedonia",1.23
+"2542","2011-11-14",6,"Macedonia and Thrace",4.63
+"2543","2011-11-14",7,"Peloponnese, Western Greece and the Ionian Islands",7.23
+"2544","2011-11-14",8,"Thessaly and Central Greece",6.03
+"2545","2011-11-15",1,"Aegean",12.85
+"2546","2011-11-15",2,"Athos",9.6
+"2547","2011-11-15",3,"Attica",10.85
+"2548","2011-11-15",4,"Crete",11.6
+"2549","2011-11-15",5,"Epirus and Western Macedonia",-0.76
+"2550","2011-11-15",6,"Macedonia and Thrace",2.38
+"2551","2011-11-15",7,"Peloponnese, Western Greece and the Ionian Islands",7.58
+"2552","2011-11-15",8,"Thessaly and Central Greece",5.18
+"2553","2011-11-16",1,"Aegean",12.9
+"2554","2011-11-16",2,"Athos",9.65
+"2555","2011-11-16",3,"Attica",9.86
+"2556","2011-11-16",4,"Crete",11.96
+"2557","2011-11-16",5,"Epirus and Western Macedonia",-2
+"2558","2011-11-16",6,"Macedonia and Thrace",0.65
+"2559","2011-11-16",7,"Peloponnese, Western Greece and the Ionian Islands",5.72
+"2560","2011-11-16",8,"Thessaly and Central Greece",2.95
+"2561","2011-11-17",1,"Aegean",12.61
+"2562","2011-11-17",2,"Athos",10.43
+"2563","2011-11-17",3,"Attica",8.8
+"2564","2011-11-17",4,"Crete",11.85
+"2565","2011-11-17",5,"Epirus and Western Macedonia",-1.59
+"2566","2011-11-17",6,"Macedonia and Thrace",1.27
+"2567","2011-11-17",7,"Peloponnese, Western Greece and the Ionian Islands",6.7
+"2568","2011-11-17",8,"Thessaly and Central Greece",2.24
+"2569","2011-11-18",1,"Aegean",11.62
+"2570","2011-11-18",2,"Athos",9.17
+"2571","2011-11-18",3,"Attica",8.53
+"2572","2011-11-18",4,"Crete",11.5
+"2573","2011-11-18",5,"Epirus and Western Macedonia",-2.4
+"2574","2011-11-18",6,"Macedonia and Thrace",0.38
+"2575","2011-11-18",7,"Peloponnese, Western Greece and the Ionian Islands",6.07
+"2576","2011-11-18",8,"Thessaly and Central Greece",3.22
+"2577","2011-11-19",1,"Aegean",12.07
+"2578","2011-11-19",2,"Athos",9.68
+"2579","2011-11-19",3,"Attica",8.11
+"2580","2011-11-19",4,"Crete",11.3
+"2581","2011-11-19",5,"Epirus and Western Macedonia",-1.55
+"2582","2011-11-19",6,"Macedonia and Thrace",-1.01
+"2583","2011-11-19",7,"Peloponnese, Western Greece and the Ionian Islands",5.48
+"2584","2011-11-19",8,"Thessaly and Central Greece",1.76
+"2585","2011-11-20",1,"Aegean",13.07
+"2586","2011-11-20",2,"Athos",9.97
+"2587","2011-11-20",3,"Attica",7.41
+"2588","2011-11-20",4,"Crete",11.18
+"2589","2011-11-20",5,"Epirus and Western Macedonia",-1.6
+"2590","2011-11-20",6,"Macedonia and Thrace",-1.18
+"2591","2011-11-20",7,"Peloponnese, Western Greece and the Ionian Islands",5.4
+"2592","2011-11-20",8,"Thessaly and Central Greece",2.48
+"2593","2011-11-21",1,"Aegean",13.22
+"2594","2011-11-21",2,"Athos",10.47
+"2595","2011-11-21",3,"Attica",7.93
+"2596","2011-11-21",4,"Crete",11.42
+"2597","2011-11-21",5,"Epirus and Western Macedonia",-1.2
+"2598","2011-11-21",6,"Macedonia and Thrace",-0.59
+"2599","2011-11-21",7,"Peloponnese, Western Greece and the Ionian Islands",6.03
+"2600","2011-11-21",8,"Thessaly and Central Greece",1.81
+"2601","2011-11-22",1,"Aegean",12.54
+"2602","2011-11-22",2,"Athos",10.45
+"2603","2011-11-22",3,"Attica",7.27
+"2604","2011-11-22",4,"Crete",10.11
+"2605","2011-11-22",5,"Epirus and Western Macedonia",-0.71
+"2606","2011-11-22",6,"Macedonia and Thrace",-0.11
+"2607","2011-11-22",7,"Peloponnese, Western Greece and the Ionian Islands",6.65
+"2608","2011-11-22",8,"Thessaly and Central Greece",1.66
+"2609","2011-11-23",1,"Aegean",12.99
+"2610","2011-11-23",2,"Athos",11.08
+"2611","2011-11-23",3,"Attica",9.93
+"2612","2011-11-23",4,"Crete",13.03
+"2613","2011-11-23",5,"Epirus and Western Macedonia",3.82
+"2614","2011-11-23",6,"Macedonia and Thrace",1
+"2615","2011-11-23",7,"Peloponnese, Western Greece and the Ionian Islands",9.52
+"2616","2011-11-23",8,"Thessaly and Central Greece",6.89
+"2617","2011-11-24",1,"Aegean",14
+"2618","2011-11-24",2,"Athos",10.64
+"2619","2011-11-24",3,"Attica",11.51
+"2620","2011-11-24",4,"Crete",13.13
+"2621","2011-11-24",5,"Epirus and Western Macedonia",6.01
+"2622","2011-11-24",6,"Macedonia and Thrace",4.88
+"2623","2011-11-24",7,"Peloponnese, Western Greece and the Ionian Islands",10.12
+"2624","2011-11-24",8,"Thessaly and Central Greece",9.21
+"2625","2011-11-25",1,"Aegean",13.59
+"2626","2011-11-25",2,"Athos",10.45
+"2627","2011-11-25",3,"Attica",12.12
+"2628","2011-11-25",4,"Crete",13.32
+"2629","2011-11-25",5,"Epirus and Western Macedonia",5.31
+"2630","2011-11-25",6,"Macedonia and Thrace",6.22
+"2631","2011-11-25",7,"Peloponnese, Western Greece and the Ionian Islands",9.22
+"2632","2011-11-25",8,"Thessaly and Central Greece",7.92
+"2633","2011-11-26",1,"Aegean",11.64
+"2634","2011-11-26",2,"Athos",8.89
+"2635","2011-11-26",3,"Attica",9.92
+"2636","2011-11-26",4,"Crete",11.36
+"2637","2011-11-26",5,"Epirus and Western Macedonia",3.56
+"2638","2011-11-26",6,"Macedonia and Thrace",5.63
+"2639","2011-11-26",7,"Peloponnese, Western Greece and the Ionian Islands",7.48
+"2640","2011-11-26",8,"Thessaly and Central Greece",6.42
+"2641","2011-11-27",1,"Aegean",11.78
+"2642","2011-11-27",2,"Athos",10.48
+"2643","2011-11-27",3,"Attica",8.93
+"2644","2011-11-27",4,"Crete",11.05
+"2645","2011-11-27",5,"Epirus and Western Macedonia",-0.21
+"2646","2011-11-27",6,"Macedonia and Thrace",1.62
+"2647","2011-11-27",7,"Peloponnese, Western Greece and the Ionian Islands",6.75
+"2648","2011-11-27",8,"Thessaly and Central Greece",3.44
+"2649","2011-11-28",1,"Aegean",11.64
+"2650","2011-11-28",2,"Athos",9.98
+"2651","2011-11-28",3,"Attica",6.84
+"2652","2011-11-28",4,"Crete",10.87
+"2653","2011-11-28",5,"Epirus and Western Macedonia",-0.13
+"2654","2011-11-28",6,"Macedonia and Thrace",-0.27
+"2655","2011-11-28",7,"Peloponnese, Western Greece and the Ionian Islands",5.25
+"2656","2011-11-28",8,"Thessaly and Central Greece",2.31
+"2657","2011-11-29",1,"Aegean",13.65
+"2658","2011-11-29",2,"Athos",12.36
+"2659","2011-11-29",3,"Attica",8.01
+"2660","2011-11-29",4,"Crete",11.05
+"2661","2011-11-29",5,"Epirus and Western Macedonia",0.99
+"2662","2011-11-29",6,"Macedonia and Thrace",3.1
+"2663","2011-11-29",7,"Peloponnese, Western Greece and the Ionian Islands",5.53
+"2664","2011-11-29",8,"Thessaly and Central Greece",5.01
+"2665","2011-11-30",1,"Aegean",13.86
+"2666","2011-11-30",2,"Athos",11.12
+"2667","2011-11-30",3,"Attica",11.25
+"2668","2011-11-30",4,"Crete",12.94
+"2669","2011-11-30",5,"Epirus and Western Macedonia",0.85
+"2670","2011-11-30",6,"Macedonia and Thrace",1.14
+"2671","2011-11-30",7,"Peloponnese, Western Greece and the Ionian Islands",8.46
+"2672","2011-11-30",8,"Thessaly and Central Greece",5.13
+"2673","2011-12-01",1,"Aegean",13.17
+"2674","2011-12-01",2,"Athos",10.21
+"2675","2011-12-01",3,"Attica",7.63
+"2676","2011-12-01",4,"Crete",13.1
+"2677","2011-12-01",5,"Epirus and Western Macedonia",-0.09
+"2678","2011-12-01",6,"Macedonia and Thrace",-0.21
+"2679","2011-12-01",7,"Peloponnese, Western Greece and the Ionian Islands",6.34
+"2680","2011-12-01",8,"Thessaly and Central Greece",3.54
+"2681","2011-12-02",1,"Aegean",13.34
+"2682","2011-12-02",2,"Athos",11.12
+"2683","2011-12-02",3,"Attica",6.98
+"2684","2011-12-02",4,"Crete",10.31
+"2685","2011-12-02",5,"Epirus and Western Macedonia",0.67
+"2686","2011-12-02",6,"Macedonia and Thrace",0.85
+"2687","2011-12-02",7,"Peloponnese, Western Greece and the Ionian Islands",5.9
+"2688","2011-12-02",8,"Thessaly and Central Greece",3.21
+"2689","2011-12-03",1,"Aegean",13.71
+"2690","2011-12-03",2,"Athos",10.48
+"2691","2011-12-03",3,"Attica",10.14
+"2692","2011-12-03",4,"Crete",10.72
+"2693","2011-12-03",5,"Epirus and Western Macedonia",1.53
+"2694","2011-12-03",6,"Macedonia and Thrace",1.07
+"2695","2011-12-03",7,"Peloponnese, Western Greece and the Ionian Islands",6.26
+"2696","2011-12-03",8,"Thessaly and Central Greece",3.91
+"2697","2011-12-04",1,"Aegean",14.18
+"2698","2011-12-04",2,"Athos",11.04
+"2699","2011-12-04",3,"Attica",10.04
+"2700","2011-12-04",4,"Crete",11
+"2701","2011-12-04",5,"Epirus and Western Macedonia",0.96
+"2702","2011-12-04",6,"Macedonia and Thrace",2.44
+"2703","2011-12-04",7,"Peloponnese, Western Greece and the Ionian Islands",6.52
+"2704","2011-12-04",8,"Thessaly and Central Greece",3.88
+"2705","2011-12-05",1,"Aegean",15.36
+"2706","2011-12-05",2,"Athos",12.53
+"2707","2011-12-05",3,"Attica",10.32
+"2708","2011-12-05",4,"Crete",12.28
+"2709","2011-12-05",5,"Epirus and Western Macedonia",5.89
+"2710","2011-12-05",6,"Macedonia and Thrace",3.79
+"2711","2011-12-05",7,"Peloponnese, Western Greece and the Ionian Islands",9.03
+"2712","2011-12-05",8,"Thessaly and Central Greece",6.98
+"2713","2011-12-06",1,"Aegean",16.56
+"2714","2011-12-06",2,"Athos",15.65
+"2715","2011-12-06",3,"Attica",14.71
+"2716","2011-12-06",4,"Crete",13.17
+"2717","2011-12-06",5,"Epirus and Western Macedonia",9.64
+"2718","2011-12-06",6,"Macedonia and Thrace",9.13
+"2719","2011-12-06",7,"Peloponnese, Western Greece and the Ionian Islands",13.02
+"2720","2011-12-06",8,"Thessaly and Central Greece",11.73
+"2721","2011-12-07",1,"Aegean",17.06
+"2722","2011-12-07",2,"Athos",14.63
+"2723","2011-12-07",3,"Attica",14.35
+"2724","2011-12-07",4,"Crete",14.36
+"2725","2011-12-07",5,"Epirus and Western Macedonia",6.24
+"2726","2011-12-07",6,"Macedonia and Thrace",7.34
+"2727","2011-12-07",7,"Peloponnese, Western Greece and the Ionian Islands",12.51
+"2728","2011-12-07",8,"Thessaly and Central Greece",9.63
+"2729","2011-12-08",1,"Aegean",12.46
+"2730","2011-12-08",2,"Athos",10.7
+"2731","2011-12-08",3,"Attica",10.32
+"2732","2011-12-08",4,"Crete",13.32
+"2733","2011-12-08",5,"Epirus and Western Macedonia",-1.71
+"2734","2011-12-08",6,"Macedonia and Thrace",2.07
+"2735","2011-12-08",7,"Peloponnese, Western Greece and the Ionian Islands",7.35
+"2736","2011-12-08",8,"Thessaly and Central Greece",4.26
+"2737","2011-12-09",1,"Aegean",12.8
+"2738","2011-12-09",2,"Athos",9.22
+"2739","2011-12-09",3,"Attica",10.01
+"2740","2011-12-09",4,"Crete",13.32
+"2741","2011-12-09",5,"Epirus and Western Macedonia",0.03
+"2742","2011-12-09",6,"Macedonia and Thrace",2.65
+"2743","2011-12-09",7,"Peloponnese, Western Greece and the Ionian Islands",6.95
+"2744","2011-12-09",8,"Thessaly and Central Greece",4.25
+"2745","2011-12-10",1,"Aegean",11.98
+"2746","2011-12-10",2,"Athos",10.75
+"2747","2011-12-10",3,"Attica",6.83
+"2748","2011-12-10",4,"Crete",9.62
+"2749","2011-12-10",5,"Epirus and Western Macedonia",-1.59
+"2750","2011-12-10",6,"Macedonia and Thrace",-0.03
+"2751","2011-12-10",7,"Peloponnese, Western Greece and the Ionian Islands",5.55
+"2752","2011-12-10",8,"Thessaly and Central Greece",1.09
+"2753","2011-12-11",1,"Aegean",14.81
+"2754","2011-12-11",2,"Athos",11.87
+"2755","2011-12-11",3,"Attica",10.92
+"2756","2011-12-11",4,"Crete",11.22
+"2757","2011-12-11",5,"Epirus and Western Macedonia",4.88
+"2758","2011-12-11",6,"Macedonia and Thrace",4.43
+"2759","2011-12-11",7,"Peloponnese, Western Greece and the Ionian Islands",10.88
+"2760","2011-12-11",8,"Thessaly and Central Greece",6.42
+"2761","2011-12-12",1,"Aegean",15.43
+"2762","2011-12-12",2,"Athos",13.64
+"2763","2011-12-12",3,"Attica",12.83
+"2764","2011-12-12",4,"Crete",12.63
+"2765","2011-12-12",5,"Epirus and Western Macedonia",7.36
+"2766","2011-12-12",6,"Macedonia and Thrace",7.77
+"2767","2011-12-12",7,"Peloponnese, Western Greece and the Ionian Islands",11.34
+"2768","2011-12-12",8,"Thessaly and Central Greece",8.7
+"2769","2011-12-13",1,"Aegean",15.47
+"2770","2011-12-13",2,"Athos",13.42
+"2771","2011-12-13",3,"Attica",11.98
+"2772","2011-12-13",4,"Crete",12.66
+"2773","2011-12-13",5,"Epirus and Western Macedonia",7.13
+"2774","2011-12-13",6,"Macedonia and Thrace",8.56
+"2775","2011-12-13",7,"Peloponnese, Western Greece and the Ionian Islands",10.75
+"2776","2011-12-13",8,"Thessaly and Central Greece",8.2
+"2777","2011-12-14",1,"Aegean",15.27
+"2778","2011-12-14",2,"Athos",12.52
+"2779","2011-12-14",3,"Attica",11.49
+"2780","2011-12-14",4,"Crete",12.02
+"2781","2011-12-14",5,"Epirus and Western Macedonia",4.01
+"2782","2011-12-14",6,"Macedonia and Thrace",6.52
+"2783","2011-12-14",7,"Peloponnese, Western Greece and the Ionian Islands",8.32
+"2784","2011-12-14",8,"Thessaly and Central Greece",6.78
+"2785","2011-12-15",1,"Aegean",14.76
+"2786","2011-12-15",2,"Athos",12.68
+"2787","2011-12-15",3,"Attica",10.43
+"2788","2011-12-15",4,"Crete",11.67
+"2789","2011-12-15",5,"Epirus and Western Macedonia",2.75
+"2790","2011-12-15",6,"Macedonia and Thrace",5.92
+"2791","2011-12-15",7,"Peloponnese, Western Greece and the Ionian Islands",7.49
+"2792","2011-12-15",8,"Thessaly and Central Greece",5.78
+"2793","2011-12-16",1,"Aegean",15.43
+"2794","2011-12-16",2,"Athos",13.46
+"2795","2011-12-16",3,"Attica",12.21
+"2796","2011-12-16",4,"Crete",12.82
+"2797","2011-12-16",5,"Epirus and Western Macedonia",7.4
+"2798","2011-12-16",6,"Macedonia and Thrace",6.43
+"2799","2011-12-16",7,"Peloponnese, Western Greece and the Ionian Islands",11.67
+"2800","2011-12-16",8,"Thessaly and Central Greece",8.76
+"2801","2011-12-17",1,"Aegean",15.54
+"2802","2011-12-17",2,"Athos",14.11
+"2803","2011-12-17",3,"Attica",12.06
+"2804","2011-12-17",4,"Crete",12.9
+"2805","2011-12-17",5,"Epirus and Western Macedonia",8.67
+"2806","2011-12-17",6,"Macedonia and Thrace",7.32
+"2807","2011-12-17",7,"Peloponnese, Western Greece and the Ionian Islands",11.44
+"2808","2011-12-17",8,"Thessaly and Central Greece",9.95
+"2809","2011-12-18",1,"Aegean",16.96
+"2810","2011-12-18",2,"Athos",14.44
+"2811","2011-12-18",3,"Attica",15.09
+"2812","2011-12-18",4,"Crete",15.18
+"2813","2011-12-18",5,"Epirus and Western Macedonia",4.78
+"2814","2011-12-18",6,"Macedonia and Thrace",9.41
+"2815","2011-12-18",7,"Peloponnese, Western Greece and the Ionian Islands",11.74
+"2816","2011-12-18",8,"Thessaly and Central Greece",9.87
+"2817","2011-12-19",1,"Aegean",15.38
+"2818","2011-12-19",2,"Athos",11.63
+"2819","2011-12-19",3,"Attica",12.39
+"2820","2011-12-19",4,"Crete",14.92
+"2821","2011-12-19",5,"Epirus and Western Macedonia",2.12
+"2822","2011-12-19",6,"Macedonia and Thrace",4.2
+"2823","2011-12-19",7,"Peloponnese, Western Greece and the Ionian Islands",9.1
+"2824","2011-12-19",8,"Thessaly and Central Greece",7.09
+"2825","2011-12-20",1,"Aegean",15.31
+"2826","2011-12-20",2,"Athos",11.36
+"2827","2011-12-20",3,"Attica",11.81
+"2828","2011-12-20",4,"Crete",13.96
+"2829","2011-12-20",5,"Epirus and Western Macedonia",3.25
+"2830","2011-12-20",6,"Macedonia and Thrace",5.77
+"2831","2011-12-20",7,"Peloponnese, Western Greece and the Ionian Islands",8.89
+"2832","2011-12-20",8,"Thessaly and Central Greece",6.59
+"2833","2011-12-21",1,"Aegean",13.67
+"2834","2011-12-21",2,"Athos",9.21
+"2835","2011-12-21",3,"Attica",9.21
+"2836","2011-12-21",4,"Crete",11.45
+"2837","2011-12-21",5,"Epirus and Western Macedonia",0.2
+"2838","2011-12-21",6,"Macedonia and Thrace",3.35
+"2839","2011-12-21",7,"Peloponnese, Western Greece and the Ionian Islands",5.56
+"2840","2011-12-21",8,"Thessaly and Central Greece",3.49
+"2841","2011-12-22",1,"Aegean",13.93
+"2842","2011-12-22",2,"Athos",10.87
+"2843","2011-12-22",3,"Attica",12.12
+"2844","2011-12-22",4,"Crete",12.19
+"2845","2011-12-22",5,"Epirus and Western Macedonia",0.12
+"2846","2011-12-22",6,"Macedonia and Thrace",3.19
+"2847","2011-12-22",7,"Peloponnese, Western Greece and the Ionian Islands",8.69
+"2848","2011-12-22",8,"Thessaly and Central Greece",4.76
+"2849","2011-12-23",1,"Aegean",12.51
+"2850","2011-12-23",2,"Athos",8.44
+"2851","2011-12-23",3,"Attica",6.74
+"2852","2011-12-23",4,"Crete",9.4
+"2853","2011-12-23",5,"Epirus and Western Macedonia",-0.74
+"2854","2011-12-23",6,"Macedonia and Thrace",2.33
+"2855","2011-12-23",7,"Peloponnese, Western Greece and the Ionian Islands",6.34
+"2856","2011-12-23",8,"Thessaly and Central Greece",2.92
+"2857","2011-12-24",1,"Aegean",9.27
+"2858","2011-12-24",2,"Athos",6.76
+"2859","2011-12-24",3,"Attica",7.46
+"2860","2011-12-24",4,"Crete",9.22
+"2861","2011-12-24",5,"Epirus and Western Macedonia",-2.01
+"2862","2011-12-24",6,"Macedonia and Thrace",1.62
+"2863","2011-12-24",7,"Peloponnese, Western Greece and the Ionian Islands",5.56
+"2864","2011-12-24",8,"Thessaly and Central Greece",3.82
+"2865","2011-12-25",1,"Aegean",7.77
+"2866","2011-12-25",2,"Athos",5.71
+"2867","2011-12-25",3,"Attica",7
+"2868","2011-12-25",4,"Crete",9.86
+"2869","2011-12-25",5,"Epirus and Western Macedonia",-5.86
+"2870","2011-12-25",6,"Macedonia and Thrace",-3.35
+"2871","2011-12-25",7,"Peloponnese, Western Greece and the Ionian Islands",6.96
+"2872","2011-12-25",8,"Thessaly and Central Greece",2.8
+"2873","2011-12-26",1,"Aegean",8.99
+"2874","2011-12-26",2,"Athos",6.65
+"2875","2011-12-26",3,"Attica",6.97
+"2876","2011-12-26",4,"Crete",8.69
+"2877","2011-12-26",5,"Epirus and Western Macedonia",-1.82
+"2878","2011-12-26",6,"Macedonia and Thrace",-2.08
+"2879","2011-12-26",7,"Peloponnese, Western Greece and the Ionian Islands",5.35
+"2880","2011-12-26",8,"Thessaly and Central Greece",3.24
+"2881","2011-12-27",1,"Aegean",10.26
+"2882","2011-12-27",2,"Athos",7.97
+"2883","2011-12-27",3,"Attica",7.46
+"2884","2011-12-27",4,"Crete",9.98
+"2885","2011-12-27",5,"Epirus and Western Macedonia",-3.12
+"2886","2011-12-27",6,"Macedonia and Thrace",1.11
+"2887","2011-12-27",7,"Peloponnese, Western Greece and the Ionian Islands",4.72
+"2888","2011-12-27",8,"Thessaly and Central Greece",3.13
+"2889","2011-12-28",1,"Aegean",10.96
+"2890","2011-12-28",2,"Athos",8.02
+"2891","2011-12-28",3,"Attica",6.21
+"2892","2011-12-28",4,"Crete",11.27
+"2893","2011-12-28",5,"Epirus and Western Macedonia",-7.26
+"2894","2011-12-28",6,"Macedonia and Thrace",-1.99
+"2895","2011-12-28",7,"Peloponnese, Western Greece and the Ionian Islands",4.73
+"2896","2011-12-28",8,"Thessaly and Central Greece",0.69
+"2897","2011-12-29",1,"Aegean",10.45
+"2898","2011-12-29",2,"Athos",8.33
+"2899","2011-12-29",3,"Attica",5.96
+"2900","2011-12-29",4,"Crete",10.5
+"2901","2011-12-29",5,"Epirus and Western Macedonia",-4.49
+"2902","2011-12-29",6,"Macedonia and Thrace",-2.34
+"2903","2011-12-29",7,"Peloponnese, Western Greece and the Ionian Islands",4.01
+"2904","2011-12-29",8,"Thessaly and Central Greece",0.19
+"2905","2011-12-30",1,"Aegean",10.77
+"2906","2011-12-30",2,"Athos",8.13
+"2907","2011-12-30",3,"Attica",7.51
+"2908","2011-12-30",4,"Crete",10.48
+"2909","2011-12-30",5,"Epirus and Western Macedonia",-2.91
+"2910","2011-12-30",6,"Macedonia and Thrace",-1.75
+"2911","2011-12-30",7,"Peloponnese, Western Greece and the Ionian Islands",6.67
+"2912","2011-12-30",8,"Thessaly and Central Greece",2.01
+"2913","2011-12-31",1,"Aegean",12.58
+"2914","2011-12-31",2,"Athos",8.38
+"2915","2011-12-31",3,"Attica",9.76
+"2916","2011-12-31",4,"Crete",10.89
+"2917","2011-12-31",5,"Epirus and Western Macedonia",0.57
+"2918","2011-12-31",6,"Macedonia and Thrace",1.71
+"2919","2011-12-31",7,"Peloponnese, Western Greece and the Ionian Islands",7.4
+"2920","2011-12-31",8,"Thessaly and Central Greece",4.95

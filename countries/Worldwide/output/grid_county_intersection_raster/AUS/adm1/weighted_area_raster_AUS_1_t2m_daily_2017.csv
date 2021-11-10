@@ -1,0 +1,4016 @@
+"","date","ID_1","NAME_1","t2m"
+"1","2017-01-01",1,"Ashmore and Cartier Islands",28.5
+"2","2017-01-01",2,"Australian Capital Territory",22.1
+"3","2017-01-01",3,"Coral Sea Islands",26.75
+"4","2017-01-01",4,"Jervis Bay Territory",22.67
+"5","2017-01-01",5,"New South Wales",28.08
+"6","2017-01-01",6,"Northern Territory",26.32
+"7","2017-01-01",7,"Queensland",31.44
+"8","2017-01-01",8,"South Australia",24.65
+"9","2017-01-01",9,"Tasmania",15.67
+"10","2017-01-01",10,"Victoria",19.73
+"11","2017-01-01",11,"Western Australia",25.4
+"12","2017-01-02",1,"Ashmore and Cartier Islands",28.75
+"13","2017-01-02",2,"Australian Capital Territory",20.7
+"14","2017-01-02",3,"Coral Sea Islands",26.62
+"15","2017-01-02",4,"Jervis Bay Territory",19.7
+"16","2017-01-02",5,"New South Wales",24.9
+"17","2017-01-02",6,"Northern Territory",27.52
+"18","2017-01-02",7,"Queensland",30.26
+"19","2017-01-02",8,"South Australia",23.49
+"20","2017-01-02",9,"Tasmania",15.7
+"21","2017-01-02",10,"Victoria",18.07
+"22","2017-01-02",11,"Western Australia",27.03
+"23","2017-01-03",1,"Ashmore and Cartier Islands",28.63
+"24","2017-01-03",2,"Australian Capital Territory",19.54
+"25","2017-01-03",3,"Coral Sea Islands",26.9
+"26","2017-01-03",4,"Jervis Bay Territory",20.44
+"27","2017-01-03",5,"New South Wales",25.6
+"28","2017-01-03",6,"Northern Territory",28.57
+"29","2017-01-03",7,"Queensland",29.59
+"30","2017-01-03",8,"South Australia",26.09
+"31","2017-01-03",9,"Tasmania",16.09
+"32","2017-01-03",10,"Victoria",20.26
+"33","2017-01-03",11,"Western Australia",28.99
+"34","2017-01-04",1,"Ashmore and Cartier Islands",29.19
+"35","2017-01-04",2,"Australian Capital Territory",18.66
+"36","2017-01-04",3,"Coral Sea Islands",26.55
+"37","2017-01-04",4,"Jervis Bay Territory",20.67
+"38","2017-01-04",5,"New South Wales",27.02
+"39","2017-01-04",6,"Northern Territory",29.68
+"40","2017-01-04",7,"Queensland",28.75
+"41","2017-01-04",8,"South Australia",29.93
+"42","2017-01-04",9,"Tasmania",17.24
+"43","2017-01-04",10,"Victoria",24.78
+"44","2017-01-04",11,"Western Australia",30.61
+"45","2017-01-05",1,"Ashmore and Cartier Islands",28.95
+"46","2017-01-05",2,"Australian Capital Territory",20.49
+"47","2017-01-05",3,"Coral Sea Islands",26.31
+"48","2017-01-05",4,"Jervis Bay Territory",22.03
+"49","2017-01-05",5,"New South Wales",28.06
+"50","2017-01-05",6,"Northern Territory",29.97
+"51","2017-01-05",7,"Queensland",28.63
+"52","2017-01-05",8,"South Australia",31.65
+"53","2017-01-05",9,"Tasmania",19.59
+"54","2017-01-05",10,"Victoria",26.76
+"55","2017-01-05",11,"Western Australia",30.57
+"56","2017-01-06",1,"Ashmore and Cartier Islands",28.9
+"57","2017-01-06",2,"Australian Capital Territory",21.73
+"58","2017-01-06",3,"Coral Sea Islands",26.03
+"59","2017-01-06",4,"Jervis Bay Territory",21.95
+"60","2017-01-06",5,"New South Wales",28.9
+"61","2017-01-06",6,"Northern Territory",30.56
+"62","2017-01-06",7,"Queensland",28.19
+"63","2017-01-06",8,"South Australia",34.42
+"64","2017-01-06",9,"Tasmania",20.3
+"65","2017-01-06",10,"Victoria",29.14
+"66","2017-01-06",11,"Western Australia",27.29
+"67","2017-01-07",1,"Ashmore and Cartier Islands",27.82
+"68","2017-01-07",2,"Australian Capital Territory",22.12
+"69","2017-01-07",3,"Coral Sea Islands",26.18
+"70","2017-01-07",4,"Jervis Bay Territory",22.86
+"71","2017-01-07",5,"New South Wales",29.08
+"72","2017-01-07",6,"Northern Territory",29.89
+"73","2017-01-07",7,"Queensland",28.18
+"74","2017-01-07",8,"South Australia",34.59
+"75","2017-01-07",9,"Tasmania",22.81
+"76","2017-01-07",10,"Victoria",31.35
+"77","2017-01-07",11,"Western Australia",24.88
+"78","2017-01-08",1,"Ashmore and Cartier Islands",28.67
+"79","2017-01-08",2,"Australian Capital Territory",24.61
+"80","2017-01-08",3,"Coral Sea Islands",26.71
+"81","2017-01-08",4,"Jervis Bay Territory",23.93
+"82","2017-01-08",5,"New South Wales",30.42
+"83","2017-01-08",6,"Northern Territory",30.34
+"84","2017-01-08",7,"Queensland",28.7
+"85","2017-01-08",8,"South Australia",28.04
+"86","2017-01-08",9,"Tasmania",22.11
+"87","2017-01-08",10,"Victoria",27.58
+"88","2017-01-08",11,"Western Australia",25.39
+"89","2017-01-09",1,"Ashmore and Cartier Islands",28.28
+"90","2017-01-09",2,"Australian Capital Territory",26.5
+"91","2017-01-09",3,"Coral Sea Islands",26.89
+"92","2017-01-09",4,"Jervis Bay Territory",23.13
+"93","2017-01-09",5,"New South Wales",30.98
+"94","2017-01-09",6,"Northern Territory",30.3
+"95","2017-01-09",7,"Queensland",29.45
+"96","2017-01-09",8,"South Australia",27.92
+"97","2017-01-09",9,"Tasmania",18.64
+"98","2017-01-09",10,"Victoria",21.12
+"99","2017-01-09",11,"Western Australia",25.99
+"100","2017-01-10",1,"Ashmore and Cartier Islands",28.84
+"101","2017-01-10",2,"Australian Capital Territory",25.09
+"102","2017-01-10",3,"Coral Sea Islands",26.83
+"103","2017-01-10",4,"Jervis Bay Territory",24.58
+"104","2017-01-10",5,"New South Wales",30.47
+"105","2017-01-10",6,"Northern Territory",29.06
+"106","2017-01-10",7,"Queensland",30.65
+"107","2017-01-10",8,"South Australia",28.73
+"108","2017-01-10",9,"Tasmania",17.53
+"109","2017-01-10",10,"Victoria",23.21
+"110","2017-01-10",11,"Western Australia",27.08
+"111","2017-01-11",1,"Ashmore and Cartier Islands",28.79
+"112","2017-01-11",2,"Australian Capital Territory",26.69
+"113","2017-01-11",3,"Coral Sea Islands",26.57
+"114","2017-01-11",4,"Jervis Bay Territory",27.19
+"115","2017-01-11",5,"New South Wales",31.23
+"116","2017-01-11",6,"Northern Territory",28.75
+"117","2017-01-11",7,"Queensland",30.61
+"118","2017-01-11",8,"South Australia",27.78
+"119","2017-01-11",9,"Tasmania",15.98
+"120","2017-01-11",10,"Victoria",21.06
+"121","2017-01-11",11,"Western Australia",27.74
+"122","2017-01-12",1,"Ashmore and Cartier Islands",28.78
+"123","2017-01-12",2,"Australian Capital Territory",23.48
+"124","2017-01-12",3,"Coral Sea Islands",27.66
+"125","2017-01-12",4,"Jervis Bay Territory",22.06
+"126","2017-01-12",5,"New South Wales",30.24
+"127","2017-01-12",6,"Northern Territory",29.42
+"128","2017-01-12",7,"Queensland",31.69
+"129","2017-01-12",8,"South Australia",29.79
+"130","2017-01-12",9,"Tasmania",15.91
+"131","2017-01-12",10,"Victoria",22.5
+"132","2017-01-12",11,"Western Australia",26.37
+"133","2017-01-13",1,"Ashmore and Cartier Islands",28.68
+"134","2017-01-13",2,"Australian Capital Territory",24.48
+"135","2017-01-13",3,"Coral Sea Islands",26.75
+"136","2017-01-13",4,"Jervis Bay Territory",24.65
+"137","2017-01-13",5,"New South Wales",34.88
+"138","2017-01-13",6,"Northern Territory",29.2
+"139","2017-01-13",7,"Queensland",31.73
+"140","2017-01-13",8,"South Australia",28.03
+"141","2017-01-13",9,"Tasmania",16.4
+"142","2017-01-13",10,"Victoria",24.15
+"143","2017-01-13",11,"Western Australia",23.9
+"144","2017-01-14",1,"Ashmore and Cartier Islands",27.29
+"145","2017-01-14",2,"Australian Capital Territory",21.94
+"146","2017-01-14",3,"Coral Sea Islands",27.22
+"147","2017-01-14",4,"Jervis Bay Territory",22.72
+"148","2017-01-14",5,"New South Wales",26.61
+"149","2017-01-14",6,"Northern Territory",26.67
+"150","2017-01-14",7,"Queensland",29.76
+"151","2017-01-14",8,"South Australia",21.49
+"152","2017-01-14",9,"Tasmania",15.02
+"153","2017-01-14",10,"Victoria",18.2
+"154","2017-01-14",11,"Western Australia",24.59
+"155","2017-01-15",1,"Ashmore and Cartier Islands",28.34
+"156","2017-01-15",2,"Australian Capital Territory",21.21
+"157","2017-01-15",3,"Coral Sea Islands",27.06
+"158","2017-01-15",4,"Jervis Bay Territory",20.47
+"159","2017-01-15",5,"New South Wales",25.31
+"160","2017-01-15",6,"Northern Territory",26.98
+"161","2017-01-15",7,"Queensland",28.07
+"162","2017-01-15",8,"South Australia",24.59
+"163","2017-01-15",9,"Tasmania",13.91
+"164","2017-01-15",10,"Victoria",18.8
+"165","2017-01-15",11,"Western Australia",26.59
+"166","2017-01-16",1,"Ashmore and Cartier Islands",27.06
+"167","2017-01-16",2,"Australian Capital Territory",22.51
+"168","2017-01-16",3,"Coral Sea Islands",26.74
+"169","2017-01-16",4,"Jervis Bay Territory",23.74
+"170","2017-01-16",5,"New South Wales",28.61
+"171","2017-01-16",6,"Northern Territory",27.72
+"172","2017-01-16",7,"Queensland",28.87
+"173","2017-01-16",8,"South Australia",31.34
+"174","2017-01-16",9,"Tasmania",16.45
+"175","2017-01-16",10,"Victoria",24.62
+"176","2017-01-16",11,"Western Australia",28.14
+"177","2017-01-17",1,"Ashmore and Cartier Islands",26.97
+"178","2017-01-17",2,"Australian Capital Territory",29.16
+"179","2017-01-17",3,"Coral Sea Islands",26.35
+"180","2017-01-17",4,"Jervis Bay Territory",25.65
+"181","2017-01-17",5,"New South Wales",34.24
+"182","2017-01-17",6,"Northern Territory",28.06
+"183","2017-01-17",7,"Queensland",29.17
+"184","2017-01-17",8,"South Australia",35.27
+"185","2017-01-17",9,"Tasmania",19.39
+"186","2017-01-17",10,"Victoria",31.87
+"187","2017-01-17",11,"Western Australia",24.94
+"188","2017-01-18",1,"Ashmore and Cartier Islands",27.26
+"189","2017-01-18",2,"Australian Capital Territory",29.32
+"190","2017-01-18",3,"Coral Sea Islands",27.2
+"191","2017-01-18",4,"Jervis Bay Territory",25.16
+"192","2017-01-18",5,"New South Wales",32.48
+"193","2017-01-18",6,"Northern Territory",27.92
+"194","2017-01-18",7,"Queensland",30.32
+"195","2017-01-18",8,"South Australia",29.9
+"196","2017-01-18",9,"Tasmania",14.27
+"197","2017-01-18",10,"Victoria",19.67
+"198","2017-01-18",11,"Western Australia",23.86
+"199","2017-01-19",1,"Ashmore and Cartier Islands",26.46
+"200","2017-01-19",2,"Australian Capital Territory",16.64
+"201","2017-01-19",3,"Coral Sea Islands",26.5
+"202","2017-01-19",4,"Jervis Bay Territory",19.89
+"203","2017-01-19",5,"New South Wales",27.35
+"204","2017-01-19",6,"Northern Territory",28.44
+"205","2017-01-19",7,"Queensland",31.28
+"206","2017-01-19",8,"South Australia",32.05
+"207","2017-01-19",9,"Tasmania",14.56
+"208","2017-01-19",10,"Victoria",21.3
+"209","2017-01-19",11,"Western Australia",24.84
+"210","2017-01-20",1,"Ashmore and Cartier Islands",27.35
+"211","2017-01-20",2,"Australian Capital Territory",18.32
+"212","2017-01-20",3,"Coral Sea Islands",26.5
+"213","2017-01-20",4,"Jervis Bay Territory",22.02
+"214","2017-01-20",5,"New South Wales",26.21
+"215","2017-01-20",6,"Northern Territory",28.86
+"216","2017-01-20",7,"Queensland",31.24
+"217","2017-01-20",8,"South Australia",25.2
+"218","2017-01-20",9,"Tasmania",12.43
+"219","2017-01-20",10,"Victoria",18.28
+"220","2017-01-20",11,"Western Australia",24.53
+"221","2017-01-21",1,"Ashmore and Cartier Islands",26.83
+"222","2017-01-21",2,"Australian Capital Territory",20.51
+"223","2017-01-21",3,"Coral Sea Islands",27.17
+"224","2017-01-21",4,"Jervis Bay Territory",20.18
+"225","2017-01-21",5,"New South Wales",23.28
+"226","2017-01-21",6,"Northern Territory",28.87
+"227","2017-01-21",7,"Queensland",30.15
+"228","2017-01-21",8,"South Australia",24.12
+"229","2017-01-21",9,"Tasmania",14.8
+"230","2017-01-21",10,"Victoria",18.78
+"231","2017-01-21",11,"Western Australia",26.11
+"232","2017-01-22",1,"Ashmore and Cartier Islands",26.91
+"233","2017-01-22",2,"Australian Capital Territory",20.18
+"234","2017-01-22",3,"Coral Sea Islands",27.47
+"235","2017-01-22",4,"Jervis Bay Territory",20.7
+"236","2017-01-22",5,"New South Wales",27.4
+"237","2017-01-22",6,"Northern Territory",28.94
+"238","2017-01-22",7,"Queensland",29.56
+"239","2017-01-22",8,"South Australia",29.64
+"240","2017-01-22",9,"Tasmania",18.53
+"241","2017-01-22",10,"Victoria",24.55
+"242","2017-01-22",11,"Western Australia",26.99
+"243","2017-01-23",1,"Ashmore and Cartier Islands",27.55
+"244","2017-01-23",2,"Australian Capital Territory",24.87
+"245","2017-01-23",3,"Coral Sea Islands",27.34
+"246","2017-01-23",4,"Jervis Bay Territory",23.39
+"247","2017-01-23",5,"New South Wales",31.27
+"248","2017-01-23",6,"Northern Territory",27.51
+"249","2017-01-23",7,"Queensland",29.45
+"250","2017-01-23",8,"South Australia",31.29
+"251","2017-01-23",9,"Tasmania",21.3
+"252","2017-01-23",10,"Victoria",30.88
+"253","2017-01-23",11,"Western Australia",25.76
+"254","2017-01-24",1,"Ashmore and Cartier Islands",28.45
+"255","2017-01-24",2,"Australian Capital Territory",26.43
+"256","2017-01-24",3,"Coral Sea Islands",27.19
+"257","2017-01-24",4,"Jervis Bay Territory",27.98
+"258","2017-01-24",5,"New South Wales",29.05
+"259","2017-01-24",6,"Northern Territory",27.04
+"260","2017-01-24",7,"Queensland",30.5
+"261","2017-01-24",8,"South Australia",23.09
+"262","2017-01-24",9,"Tasmania",15.21
+"263","2017-01-24",10,"Victoria",21
+"264","2017-01-24",11,"Western Australia",24.63
+"265","2017-01-25",1,"Ashmore and Cartier Islands",27.61
+"266","2017-01-25",2,"Australian Capital Territory",15.78
+"267","2017-01-25",3,"Coral Sea Islands",27.33
+"268","2017-01-25",4,"Jervis Bay Territory",19.81
+"269","2017-01-25",5,"New South Wales",26.06
+"270","2017-01-25",6,"Northern Territory",26.82
+"271","2017-01-25",7,"Queensland",31.04
+"272","2017-01-25",8,"South Australia",23.95
+"273","2017-01-25",9,"Tasmania",16.35
+"274","2017-01-25",10,"Victoria",19.98
+"275","2017-01-25",11,"Western Australia",26.72
+"276","2017-01-26",1,"Ashmore and Cartier Islands",28.14
+"277","2017-01-26",2,"Australian Capital Territory",20.74
+"278","2017-01-26",3,"Coral Sea Islands",26.94
+"279","2017-01-26",4,"Jervis Bay Territory",20.92
+"280","2017-01-26",5,"New South Wales",26.39
+"281","2017-01-26",6,"Northern Territory",27.79
+"282","2017-01-26",7,"Queensland",30.62
+"283","2017-01-26",8,"South Australia",25.04
+"284","2017-01-26",9,"Tasmania",16.79
+"285","2017-01-26",10,"Victoria",20.13
+"286","2017-01-26",11,"Western Australia",27.96
+"287","2017-01-27",1,"Ashmore and Cartier Islands",26.99
+"288","2017-01-27",2,"Australian Capital Territory",21.64
+"289","2017-01-27",3,"Coral Sea Islands",27.27
+"290","2017-01-27",4,"Jervis Bay Territory",20.57
+"291","2017-01-27",5,"New South Wales",27.62
+"292","2017-01-27",6,"Northern Territory",29.49
+"293","2017-01-27",7,"Queensland",30.94
+"294","2017-01-27",8,"South Australia",28.37
+"295","2017-01-27",9,"Tasmania",17.94
+"296","2017-01-27",10,"Victoria",22.38
+"297","2017-01-27",11,"Western Australia",29.2
+"298","2017-01-28",1,"Ashmore and Cartier Islands",26.41
+"299","2017-01-28",2,"Australian Capital Territory",24.75
+"300","2017-01-28",3,"Coral Sea Islands",27.15
+"301","2017-01-28",4,"Jervis Bay Territory",23.91
+"302","2017-01-28",5,"New South Wales",30.91
+"303","2017-01-28",6,"Northern Territory",30.58
+"304","2017-01-28",7,"Queensland",30.83
+"305","2017-01-28",8,"South Australia",32.02
+"306","2017-01-28",9,"Tasmania",17.6
+"307","2017-01-28",10,"Victoria",27.18
+"308","2017-01-28",11,"Western Australia",28.94
+"309","2017-01-29",1,"Ashmore and Cartier Islands",27.8
+"310","2017-01-29",2,"Australian Capital Territory",25.25
+"311","2017-01-29",3,"Coral Sea Islands",27.36
+"312","2017-01-29",4,"Jervis Bay Territory",21.9
+"313","2017-01-29",5,"New South Wales",32.61
+"314","2017-01-29",6,"Northern Territory",31.67
+"315","2017-01-29",7,"Queensland",31.55
+"316","2017-01-29",8,"South Australia",33.71
+"317","2017-01-29",9,"Tasmania",17.19
+"318","2017-01-29",10,"Victoria",26.48
+"319","2017-01-29",11,"Western Australia",29.09
+"320","2017-01-30",1,"Ashmore and Cartier Islands",27.69
+"321","2017-01-30",2,"Australian Capital Territory",28.13
+"322","2017-01-30",3,"Coral Sea Islands",26.76
+"323","2017-01-30",4,"Jervis Bay Territory",25.54
+"324","2017-01-30",5,"New South Wales",34.1
+"325","2017-01-30",6,"Northern Territory",31.02
+"326","2017-01-30",7,"Queensland",30.74
+"327","2017-01-30",8,"South Australia",33.26
+"328","2017-01-30",9,"Tasmania",15.57
+"329","2017-01-30",10,"Victoria",29.36
+"330","2017-01-30",11,"Western Australia",27.24
+"331","2017-01-31",1,"Ashmore and Cartier Islands",26.28
+"332","2017-01-31",2,"Australian Capital Territory",27.27
+"333","2017-01-31",3,"Coral Sea Islands",27.04
+"334","2017-01-31",4,"Jervis Bay Territory",21.74
+"335","2017-01-31",5,"New South Wales",31.77
+"336","2017-01-31",6,"Northern Territory",30.67
+"337","2017-01-31",7,"Queensland",30.7
+"338","2017-01-31",8,"South Australia",28.12
+"339","2017-01-31",9,"Tasmania",14.85
+"340","2017-01-31",10,"Victoria",19.64
+"341","2017-01-31",11,"Western Australia",25.47
+"342","2017-02-01",1,"Ashmore and Cartier Islands",26.83
+"343","2017-02-01",2,"Australian Capital Territory",17.22
+"344","2017-02-01",3,"Coral Sea Islands",27.8
+"345","2017-02-01",4,"Jervis Bay Territory",19.99
+"346","2017-02-01",5,"New South Wales",29.14
+"347","2017-02-01",6,"Northern Territory",30.61
+"348","2017-02-01",7,"Queensland",31.03
+"349","2017-02-01",8,"South Australia",28.22
+"350","2017-02-01",9,"Tasmania",13.94
+"351","2017-02-01",10,"Victoria",19.08
+"352","2017-02-01",11,"Western Australia",26.82
+"353","2017-02-02",1,"Ashmore and Cartier Islands",27.17
+"354","2017-02-02",2,"Australian Capital Territory",19.6
+"355","2017-02-02",3,"Coral Sea Islands",27.41
+"356","2017-02-02",4,"Jervis Bay Territory",20.13
+"357","2017-02-02",5,"New South Wales",27.28
+"358","2017-02-02",6,"Northern Territory",28.87
+"359","2017-02-02",7,"Queensland",31.39
+"360","2017-02-02",8,"South Australia",25.47
+"361","2017-02-02",9,"Tasmania",14.67
+"362","2017-02-02",10,"Victoria",19.95
+"363","2017-02-02",11,"Western Australia",25.96
+"364","2017-02-03",1,"Ashmore and Cartier Islands",26.48
+"365","2017-02-03",2,"Australian Capital Territory",20.62
+"366","2017-02-03",3,"Coral Sea Islands",27.27
+"367","2017-02-03",4,"Jervis Bay Territory",23.25
+"368","2017-02-03",5,"New South Wales",27.14
+"369","2017-02-03",6,"Northern Territory",28.18
+"370","2017-02-03",7,"Queensland",31.54
+"371","2017-02-03",8,"South Australia",25.66
+"372","2017-02-03",9,"Tasmania",15.03
+"373","2017-02-03",10,"Victoria",21.46
+"374","2017-02-03",11,"Western Australia",27.32
+"375","2017-02-04",1,"Ashmore and Cartier Islands",26.53
+"376","2017-02-04",2,"Australian Capital Territory",22.57
+"377","2017-02-04",3,"Coral Sea Islands",27.13
+"378","2017-02-04",4,"Jervis Bay Territory",24.31
+"379","2017-02-04",5,"New South Wales",31.28
+"380","2017-02-04",6,"Northern Territory",29.22
+"381","2017-02-04",7,"Queensland",30.82
+"382","2017-02-04",8,"South Australia",30.86
+"383","2017-02-04",9,"Tasmania",17.79
+"384","2017-02-04",10,"Victoria",27.76
+"385","2017-02-04",11,"Western Australia",28.03
+"386","2017-02-05",1,"Ashmore and Cartier Islands",27.01
+"387","2017-02-05",2,"Australian Capital Territory",25.94
+"388","2017-02-05",3,"Coral Sea Islands",27.35
+"389","2017-02-05",4,"Jervis Bay Territory",28.47
+"390","2017-02-05",5,"New South Wales",32.78
+"391","2017-02-05",6,"Northern Territory",29.5
+"392","2017-02-05",7,"Queensland",30.77
+"393","2017-02-05",8,"South Australia",31.17
+"394","2017-02-05",9,"Tasmania",16.88
+"395","2017-02-05",10,"Victoria",24.47
+"396","2017-02-05",11,"Western Australia",25.71
+"397","2017-02-06",1,"Ashmore and Cartier Islands",26.88
+"398","2017-02-06",2,"Australian Capital Territory",24.27
+"399","2017-02-06",3,"Coral Sea Islands",27.88
+"400","2017-02-06",4,"Jervis Bay Territory",24.62
+"401","2017-02-06",5,"New South Wales",31.25
+"402","2017-02-06",6,"Northern Territory",28.51
+"403","2017-02-06",7,"Queensland",30.39
+"404","2017-02-06",8,"South Australia",26.72
+"405","2017-02-06",9,"Tasmania",13.64
+"406","2017-02-06",10,"Victoria",16.69
+"407","2017-02-06",11,"Western Australia",24.67
+"408","2017-02-07",1,"Ashmore and Cartier Islands",27.09
+"409","2017-02-07",2,"Australian Capital Territory",17.21
+"410","2017-02-07",3,"Coral Sea Islands",27.71
+"411","2017-02-07",4,"Jervis Bay Territory",22.77
+"412","2017-02-07",5,"New South Wales",28.63
+"413","2017-02-07",6,"Northern Territory",27.7
+"414","2017-02-07",7,"Queensland",31.34
+"415","2017-02-07",8,"South Australia",26.93
+"416","2017-02-07",9,"Tasmania",15.22
+"417","2017-02-07",10,"Victoria",19.35
+"418","2017-02-07",11,"Western Australia",25.63
+"419","2017-02-08",1,"Ashmore and Cartier Islands",27.74
+"420","2017-02-08",2,"Australian Capital Territory",17.78
+"421","2017-02-08",3,"Coral Sea Islands",27.58
+"422","2017-02-08",4,"Jervis Bay Territory",22.63
+"423","2017-02-08",5,"New South Wales",30.22
+"424","2017-02-08",6,"Northern Territory",28.55
+"425","2017-02-08",7,"Queensland",31.35
+"426","2017-02-08",8,"South Australia",36.14
+"427","2017-02-08",9,"Tasmania",17.91
+"428","2017-02-08",10,"Victoria",27.59
+"429","2017-02-08",11,"Western Australia",24.61
+"430","2017-02-09",1,"Ashmore and Cartier Islands",26.84
+"431","2017-02-09",2,"Australian Capital Territory",24.19
+"432","2017-02-09",3,"Coral Sea Islands",27.33
+"433","2017-02-09",4,"Jervis Bay Territory",24.81
+"434","2017-02-09",5,"New South Wales",31.84
+"435","2017-02-09",6,"Northern Territory",29.3
+"436","2017-02-09",7,"Queensland",31.14
+"437","2017-02-09",8,"South Australia",36.3
+"438","2017-02-09",9,"Tasmania",17.94
+"439","2017-02-09",10,"Victoria",31.78
+"440","2017-02-09",11,"Western Australia",23.3
+"441","2017-02-10",1,"Ashmore and Cartier Islands",26.77
+"442","2017-02-10",2,"Australian Capital Territory",28.71
+"443","2017-02-10",3,"Coral Sea Islands",27.04
+"444","2017-02-10",4,"Jervis Bay Territory",24.65
+"445","2017-02-10",5,"New South Wales",34.8
+"446","2017-02-10",6,"Northern Territory",29.29
+"447","2017-02-10",7,"Queensland",31.43
+"448","2017-02-10",8,"South Australia",34.6
+"449","2017-02-10",9,"Tasmania",16.55
+"450","2017-02-10",10,"Victoria",27.9
+"451","2017-02-10",11,"Western Australia",24.86
+"452","2017-02-11",1,"Ashmore and Cartier Islands",27.26
+"453","2017-02-11",2,"Australian Capital Territory",30.39
+"454","2017-02-11",3,"Coral Sea Islands",27.09
+"455","2017-02-11",4,"Jervis Bay Territory",25.64
+"456","2017-02-11",5,"New South Wales",37.55
+"457","2017-02-11",6,"Northern Territory",29.84
+"458","2017-02-11",7,"Queensland",31.97
+"459","2017-02-11",8,"South Australia",33.72
+"460","2017-02-11",9,"Tasmania",15.94
+"461","2017-02-11",10,"Victoria",26.3
+"462","2017-02-11",11,"Western Australia",25.64
+"463","2017-02-12",1,"Ashmore and Cartier Islands",27.78
+"464","2017-02-12",2,"Australian Capital Territory",24.67
+"465","2017-02-12",3,"Coral Sea Islands",26.98
+"466","2017-02-12",4,"Jervis Bay Territory",23.04
+"467","2017-02-12",5,"New South Wales",31.82
+"468","2017-02-12",6,"Northern Territory",29.64
+"469","2017-02-12",7,"Queensland",33.39
+"470","2017-02-12",8,"South Australia",26.09
+"471","2017-02-12",9,"Tasmania",12
+"472","2017-02-12",10,"Victoria",15.54
+"473","2017-02-12",11,"Western Australia",24.9
+"474","2017-02-13",1,"Ashmore and Cartier Islands",27.99
+"475","2017-02-13",2,"Australian Capital Territory",16.47
+"476","2017-02-13",3,"Coral Sea Islands",28.12
+"477","2017-02-13",4,"Jervis Bay Territory",20.49
+"478","2017-02-13",5,"New South Wales",21.16
+"479","2017-02-13",6,"Northern Territory",28.76
+"480","2017-02-13",7,"Queensland",30.78
+"481","2017-02-13",8,"South Australia",21.22
+"482","2017-02-13",9,"Tasmania",12.4
+"483","2017-02-13",10,"Victoria",16.81
+"484","2017-02-13",11,"Western Australia",24.69
+"485","2017-02-14",1,"Ashmore and Cartier Islands",28.59
+"486","2017-02-14",2,"Australian Capital Territory",18.03
+"487","2017-02-14",3,"Coral Sea Islands",28.42
+"488","2017-02-14",4,"Jervis Bay Territory",19.38
+"489","2017-02-14",5,"New South Wales",23.25
+"490","2017-02-14",6,"Northern Territory",28.27
+"491","2017-02-14",7,"Queensland",28.89
+"492","2017-02-14",8,"South Australia",24.76
+"493","2017-02-14",9,"Tasmania",13.43
+"494","2017-02-14",10,"Victoria",17.35
+"495","2017-02-14",11,"Western Australia",27.16
+"496","2017-02-15",1,"Ashmore and Cartier Islands",27.72
+"497","2017-02-15",2,"Australian Capital Territory",17.98
+"498","2017-02-15",3,"Coral Sea Islands",27.64
+"499","2017-02-15",4,"Jervis Bay Territory",20.41
+"500","2017-02-15",5,"New South Wales",25.49
+"501","2017-02-15",6,"Northern Territory",28.73
+"502","2017-02-15",7,"Queensland",29.52
+"503","2017-02-15",8,"South Australia",29.87
+"504","2017-02-15",9,"Tasmania",15.21
+"505","2017-02-15",10,"Victoria",23.2
+"506","2017-02-15",11,"Western Australia",27.38
+"507","2017-02-16",1,"Ashmore and Cartier Islands",28.16
+"508","2017-02-16",2,"Australian Capital Territory",24.56
+"509","2017-02-16",3,"Coral Sea Islands",26.64
+"510","2017-02-16",4,"Jervis Bay Territory",24.72
+"511","2017-02-16",5,"New South Wales",29.57
+"512","2017-02-16",6,"Northern Territory",30.06
+"513","2017-02-16",7,"Queensland",29.78
+"514","2017-02-16",8,"South Australia",28.02
+"515","2017-02-16",9,"Tasmania",14.79
+"516","2017-02-16",10,"Victoria",22.11
+"517","2017-02-16",11,"Western Australia",26.54
+"518","2017-02-17",1,"Ashmore and Cartier Islands",27.69
+"519","2017-02-17",2,"Australian Capital Territory",25.68
+"520","2017-02-17",3,"Coral Sea Islands",26.88
+"521","2017-02-17",4,"Jervis Bay Territory",25.61
+"522","2017-02-17",5,"New South Wales",30.11
+"523","2017-02-17",6,"Northern Territory",30.56
+"524","2017-02-17",7,"Queensland",30.01
+"525","2017-02-17",8,"South Australia",25.05
+"526","2017-02-17",9,"Tasmania",14.51
+"527","2017-02-17",10,"Victoria",19.78
+"528","2017-02-17",11,"Western Australia",26.39
+"529","2017-02-18",1,"Ashmore and Cartier Islands",28.1
+"530","2017-02-18",2,"Australian Capital Territory",17.09
+"531","2017-02-18",3,"Coral Sea Islands",27.04
+"532","2017-02-18",4,"Jervis Bay Territory",21.63
+"533","2017-02-18",5,"New South Wales",24.49
+"534","2017-02-18",6,"Northern Territory",27.9
+"535","2017-02-18",7,"Queensland",29.67
+"536","2017-02-18",8,"South Australia",21.04
+"537","2017-02-18",9,"Tasmania",12.5
+"538","2017-02-18",10,"Victoria",15.82
+"539","2017-02-18",11,"Western Australia",26.01
+"540","2017-02-19",1,"Ashmore and Cartier Islands",27.84
+"541","2017-02-19",2,"Australian Capital Territory",15.13
+"542","2017-02-19",3,"Coral Sea Islands",26.56
+"543","2017-02-19",4,"Jervis Bay Territory",19.02
+"544","2017-02-19",5,"New South Wales",20.35
+"545","2017-02-19",6,"Northern Territory",25.67
+"546","2017-02-19",7,"Queensland",26.04
+"547","2017-02-19",8,"South Australia",18.91
+"548","2017-02-19",9,"Tasmania",11.42
+"549","2017-02-19",10,"Victoria",14.7
+"550","2017-02-19",11,"Western Australia",25.18
+"551","2017-02-20",1,"Ashmore and Cartier Islands",27.79
+"552","2017-02-20",2,"Australian Capital Territory",12.09
+"553","2017-02-20",3,"Coral Sea Islands",26.98
+"554","2017-02-20",4,"Jervis Bay Territory",19.41
+"555","2017-02-20",5,"New South Wales",19.13
+"556","2017-02-20",6,"Northern Territory",25.31
+"557","2017-02-20",7,"Queensland",25.97
+"558","2017-02-20",8,"South Australia",20.75
+"559","2017-02-20",9,"Tasmania",12.68
+"560","2017-02-20",10,"Victoria",14.87
+"561","2017-02-20",11,"Western Australia",26.62
+"562","2017-02-21",1,"Ashmore and Cartier Islands",27.79
+"563","2017-02-21",2,"Australian Capital Territory",15.48
+"564","2017-02-21",3,"Coral Sea Islands",27.52
+"565","2017-02-21",4,"Jervis Bay Territory",22.02
+"566","2017-02-21",5,"New South Wales",22.73
+"567","2017-02-21",6,"Northern Territory",27
+"568","2017-02-21",7,"Queensland",27.19
+"569","2017-02-21",8,"South Australia",26.19
+"570","2017-02-21",9,"Tasmania",14.26
+"571","2017-02-21",10,"Victoria",18.36
+"572","2017-02-21",11,"Western Australia",26.42
+"573","2017-02-22",1,"Ashmore and Cartier Islands",28.03
+"574","2017-02-22",2,"Australian Capital Territory",20.6
+"575","2017-02-22",3,"Coral Sea Islands",27.49
+"576","2017-02-22",4,"Jervis Bay Territory",23.5
+"577","2017-02-22",5,"New South Wales",28.14
+"578","2017-02-22",6,"Northern Territory",28.66
+"579","2017-02-22",7,"Queensland",28.07
+"580","2017-02-22",8,"South Australia",26.62
+"581","2017-02-22",9,"Tasmania",17.65
+"582","2017-02-22",10,"Victoria",25.55
+"583","2017-02-22",11,"Western Australia",23.56
+"584","2017-02-23",1,"Ashmore and Cartier Islands",28.04
+"585","2017-02-23",2,"Australian Capital Territory",25.05
+"586","2017-02-23",3,"Coral Sea Islands",27.09
+"587","2017-02-23",4,"Jervis Bay Territory",24.07
+"588","2017-02-23",5,"New South Wales",27.71
+"589","2017-02-23",6,"Northern Territory",28.85
+"590","2017-02-23",7,"Queensland",28.52
+"591","2017-02-23",8,"South Australia",23.23
+"592","2017-02-23",9,"Tasmania",18.2
+"593","2017-02-23",10,"Victoria",21.37
+"594","2017-02-23",11,"Western Australia",25.13
+"595","2017-02-24",1,"Ashmore and Cartier Islands",28.26
+"596","2017-02-24",2,"Australian Capital Territory",21.84
+"597","2017-02-24",3,"Coral Sea Islands",27.31
+"598","2017-02-24",4,"Jervis Bay Territory",21.12
+"599","2017-02-24",5,"New South Wales",27
+"600","2017-02-24",6,"Northern Territory",28.11
+"601","2017-02-24",7,"Queensland",29.68
+"602","2017-02-24",8,"South Australia",23.27
+"603","2017-02-24",9,"Tasmania",14.86
+"604","2017-02-24",10,"Victoria",18.66
+"605","2017-02-24",11,"Western Australia",26.87
+"606","2017-02-25",1,"Ashmore and Cartier Islands",28.32
+"607","2017-02-25",2,"Australian Capital Territory",14.31
+"608","2017-02-25",3,"Coral Sea Islands",26.62
+"609","2017-02-25",4,"Jervis Bay Territory",19.55
+"610","2017-02-25",5,"New South Wales",24.44
+"611","2017-02-25",6,"Northern Territory",28.38
+"612","2017-02-25",7,"Queensland",29.8
+"613","2017-02-25",8,"South Australia",23.38
+"614","2017-02-25",9,"Tasmania",13.63
+"615","2017-02-25",10,"Victoria",17.5
+"616","2017-02-25",11,"Western Australia",27.36
+"617","2017-02-26",1,"Ashmore and Cartier Islands",28.06
+"618","2017-02-26",2,"Australian Capital Territory",16.91
+"619","2017-02-26",3,"Coral Sea Islands",26.78
+"620","2017-02-26",4,"Jervis Bay Territory",20.31
+"621","2017-02-26",5,"New South Wales",24.59
+"622","2017-02-26",6,"Northern Territory",29.1
+"623","2017-02-26",7,"Queensland",28.98
+"624","2017-02-26",8,"South Australia",25.11
+"625","2017-02-26",9,"Tasmania",16.71
+"626","2017-02-26",10,"Victoria",21.83
+"627","2017-02-26",11,"Western Australia",28.32
+"628","2017-02-27",1,"Ashmore and Cartier Islands",27.98
+"629","2017-02-27",2,"Australian Capital Territory",16.97
+"630","2017-02-27",3,"Coral Sea Islands",27.07
+"631","2017-02-27",4,"Jervis Bay Territory",21.94
+"632","2017-02-27",5,"New South Wales",25.32
+"633","2017-02-27",6,"Northern Territory",29.33
+"634","2017-02-27",7,"Queensland",28.32
+"635","2017-02-27",8,"South Australia",29.06
+"636","2017-02-27",9,"Tasmania",18.4
+"637","2017-02-27",10,"Victoria",25.93
+"638","2017-02-27",11,"Western Australia",27.94
+"639","2017-02-28",1,"Ashmore and Cartier Islands",28.67
+"640","2017-02-28",2,"Australian Capital Territory",19.14
+"641","2017-02-28",3,"Coral Sea Islands",27.34
+"642","2017-02-28",4,"Jervis Bay Territory",22.1
+"643","2017-02-28",5,"New South Wales",25.34
+"644","2017-02-28",6,"Northern Territory",29.97
+"645","2017-02-28",7,"Queensland",28.66
+"646","2017-02-28",8,"South Australia",31.06
+"647","2017-02-28",9,"Tasmania",21.03
+"648","2017-02-28",10,"Victoria",27.07
+"649","2017-02-28",11,"Western Australia",27.97
+"650","2017-03-01",1,"Ashmore and Cartier Islands",29.07
+"651","2017-03-01",2,"Australian Capital Territory",20.68
+"652","2017-03-01",3,"Coral Sea Islands",26.65
+"653","2017-03-01",4,"Jervis Bay Territory",21.49
+"654","2017-03-01",5,"New South Wales",26.29
+"655","2017-03-01",6,"Northern Territory",30.48
+"656","2017-03-01",7,"Queensland",29.61
+"657","2017-03-01",8,"South Australia",31.48
+"658","2017-03-01",9,"Tasmania",21.99
+"659","2017-03-01",10,"Victoria",27.74
+"660","2017-03-01",11,"Western Australia",28.68
+"661","2017-03-02",1,"Ashmore and Cartier Islands",28.94
+"662","2017-03-02",2,"Australian Capital Territory",20.96
+"663","2017-03-02",3,"Coral Sea Islands",26.7
+"664","2017-03-02",4,"Jervis Bay Territory",21.53
+"665","2017-03-02",5,"New South Wales",27.46
+"666","2017-03-02",6,"Northern Territory",31.18
+"667","2017-03-02",7,"Queensland",30.37
+"668","2017-03-02",8,"South Australia",30.14
+"669","2017-03-02",9,"Tasmania",20.21
+"670","2017-03-02",10,"Victoria",26.25
+"671","2017-03-02",11,"Western Australia",29.45
+"672","2017-03-03",1,"Ashmore and Cartier Islands",29.02
+"673","2017-03-03",2,"Australian Capital Territory",19.48
+"674","2017-03-03",3,"Coral Sea Islands",27.42
+"675","2017-03-03",4,"Jervis Bay Territory",21.55
+"676","2017-03-03",5,"New South Wales",26.92
+"677","2017-03-03",6,"Northern Territory",31.14
+"678","2017-03-03",7,"Queensland",30.12
+"679","2017-03-03",8,"South Australia",28.81
+"680","2017-03-03",9,"Tasmania",16.78
+"681","2017-03-03",10,"Victoria",22.72
+"682","2017-03-03",11,"Western Australia",29.27
+"683","2017-03-04",1,"Ashmore and Cartier Islands",29.45
+"684","2017-03-04",2,"Australian Capital Territory",15.13
+"685","2017-03-04",3,"Coral Sea Islands",27.78
+"686","2017-03-04",4,"Jervis Bay Territory",21.33
+"687","2017-03-04",5,"New South Wales",25.46
+"688","2017-03-04",6,"Northern Territory",31.1
+"689","2017-03-04",7,"Queensland",27.71
+"690","2017-03-04",8,"South Australia",29.13
+"691","2017-03-04",9,"Tasmania",18.1
+"692","2017-03-04",10,"Victoria",24.65
+"693","2017-03-04",11,"Western Australia",29
+"694","2017-03-05",1,"Ashmore and Cartier Islands",29.37
+"695","2017-03-05",2,"Australian Capital Territory",18.13
+"696","2017-03-05",3,"Coral Sea Islands",27.35
+"697","2017-03-05",4,"Jervis Bay Territory",21.73
+"698","2017-03-05",5,"New South Wales",24.79
+"699","2017-03-05",6,"Northern Territory",29.99
+"700","2017-03-05",7,"Queensland",28.81
+"701","2017-03-05",8,"South Australia",26.44
+"702","2017-03-05",9,"Tasmania",16.76
+"703","2017-03-05",10,"Victoria",22.65
+"704","2017-03-05",11,"Western Australia",28.76
+"705","2017-03-06",1,"Ashmore and Cartier Islands",29.34
+"706","2017-03-06",2,"Australian Capital Territory",17.01
+"707","2017-03-06",3,"Coral Sea Islands",28.08
+"708","2017-03-06",4,"Jervis Bay Territory",20.57
+"709","2017-03-06",5,"New South Wales",25.31
+"710","2017-03-06",6,"Northern Territory",28.14
+"711","2017-03-06",7,"Queensland",29.83
+"712","2017-03-06",8,"South Australia",24.28
+"713","2017-03-06",9,"Tasmania",16.32
+"714","2017-03-06",10,"Victoria",21.06
+"715","2017-03-06",11,"Western Australia",28.38
+"716","2017-03-07",1,"Ashmore and Cartier Islands",28.05
+"717","2017-03-07",2,"Australian Capital Territory",16.03
+"718","2017-03-07",3,"Coral Sea Islands",27.76
+"719","2017-03-07",4,"Jervis Bay Territory",19.75
+"720","2017-03-07",5,"New South Wales",24.3
+"721","2017-03-07",6,"Northern Territory",27.74
+"722","2017-03-07",7,"Queensland",30.43
+"723","2017-03-07",8,"South Australia",24.75
+"724","2017-03-07",9,"Tasmania",15.45
+"725","2017-03-07",10,"Victoria",21.97
+"726","2017-03-07",11,"Western Australia",27.23
+"727","2017-03-08",1,"Ashmore and Cartier Islands",28.83
+"728","2017-03-08",2,"Australian Capital Territory",13.76
+"729","2017-03-08",3,"Coral Sea Islands",27.39
+"730","2017-03-08",4,"Jervis Bay Territory",19.84
+"731","2017-03-08",5,"New South Wales",22.57
+"732","2017-03-08",6,"Northern Territory",27.54
+"733","2017-03-08",7,"Queensland",27.52
+"734","2017-03-08",8,"South Australia",26.41
+"735","2017-03-08",9,"Tasmania",16.65
+"736","2017-03-08",10,"Victoria",23.46
+"737","2017-03-08",11,"Western Australia",26.18
+"738","2017-03-09",1,"Ashmore and Cartier Islands",27.88
+"739","2017-03-09",2,"Australian Capital Territory",15.57
+"740","2017-03-09",3,"Coral Sea Islands",26.52
+"741","2017-03-09",4,"Jervis Bay Territory",20.58
+"742","2017-03-09",5,"New South Wales",22.91
+"743","2017-03-09",6,"Northern Territory",27.81
+"744","2017-03-09",7,"Queensland",27.07
+"745","2017-03-09",8,"South Australia",28.55
+"746","2017-03-09",9,"Tasmania",18.65
+"747","2017-03-09",10,"Victoria",24.75
+"748","2017-03-09",11,"Western Australia",26.01
+"749","2017-03-10",1,"Ashmore and Cartier Islands",26.79
+"750","2017-03-10",2,"Australian Capital Territory",18.65
+"751","2017-03-10",3,"Coral Sea Islands",26.28
+"752","2017-03-10",4,"Jervis Bay Territory",20.92
+"753","2017-03-10",5,"New South Wales",24.11
+"754","2017-03-10",6,"Northern Territory",29.71
+"755","2017-03-10",7,"Queensland",28.21
+"756","2017-03-10",8,"South Australia",29.6
+"757","2017-03-10",9,"Tasmania",19.39
+"758","2017-03-10",10,"Victoria",23.76
+"759","2017-03-10",11,"Western Australia",25.96
+"760","2017-03-11",1,"Ashmore and Cartier Islands",28.24
+"761","2017-03-11",2,"Australian Capital Territory",20.25
+"762","2017-03-11",3,"Coral Sea Islands",26.81
+"763","2017-03-11",4,"Jervis Bay Territory",20.55
+"764","2017-03-11",5,"New South Wales",26.72
+"765","2017-03-11",6,"Northern Territory",29.93
+"766","2017-03-11",7,"Queensland",28.57
+"767","2017-03-11",8,"South Australia",29.74
+"768","2017-03-11",9,"Tasmania",17.33
+"769","2017-03-11",10,"Victoria",25.01
+"770","2017-03-11",11,"Western Australia",24.67
+"771","2017-03-12",1,"Ashmore and Cartier Islands",27.22
+"772","2017-03-12",2,"Australian Capital Territory",21.59
+"773","2017-03-12",3,"Coral Sea Islands",27.1
+"774","2017-03-12",4,"Jervis Bay Territory",21.01
+"775","2017-03-12",5,"New South Wales",27.38
+"776","2017-03-12",6,"Northern Territory",30.03
+"777","2017-03-12",7,"Queensland",29.27
+"778","2017-03-12",8,"South Australia",22.95
+"779","2017-03-12",9,"Tasmania",16.03
+"780","2017-03-12",10,"Victoria",22.16
+"781","2017-03-12",11,"Western Australia",24.8
+"782","2017-03-13",1,"Ashmore and Cartier Islands",27.11
+"783","2017-03-13",2,"Australian Capital Territory",19.63
+"784","2017-03-13",3,"Coral Sea Islands",27.47
+"785","2017-03-13",4,"Jervis Bay Territory",23.09
+"786","2017-03-13",5,"New South Wales",22.08
+"787","2017-03-13",6,"Northern Territory",28.68
+"788","2017-03-13",7,"Queensland",27.99
+"789","2017-03-13",8,"South Australia",21.66
+"790","2017-03-13",9,"Tasmania",18.72
+"791","2017-03-13",10,"Victoria",21.78
+"792","2017-03-13",11,"Western Australia",24.94
+"793","2017-03-14",1,"Ashmore and Cartier Islands",28.7
+"794","2017-03-14",2,"Australian Capital Territory",18.89
+"795","2017-03-14",3,"Coral Sea Islands",27.64
+"796","2017-03-14",4,"Jervis Bay Territory",21.25
+"797","2017-03-14",5,"New South Wales",22.67
+"798","2017-03-14",6,"Northern Territory",28.91
+"799","2017-03-14",7,"Queensland",28.35
+"800","2017-03-14",8,"South Australia",26.39
+"801","2017-03-14",9,"Tasmania",21.06
+"802","2017-03-14",10,"Victoria",25.96
+"803","2017-03-14",11,"Western Australia",26.38
+"804","2017-03-15",1,"Ashmore and Cartier Islands",27.03
+"805","2017-03-15",2,"Australian Capital Territory",18.79
+"806","2017-03-15",3,"Coral Sea Islands",27.38
+"807","2017-03-15",4,"Jervis Bay Territory",22.16
+"808","2017-03-15",5,"New South Wales",24.75
+"809","2017-03-15",6,"Northern Territory",30.16
+"810","2017-03-15",7,"Queensland",28.57
+"811","2017-03-15",8,"South Australia",29.8
+"812","2017-03-15",9,"Tasmania",22.08
+"813","2017-03-15",10,"Victoria",26.73
+"814","2017-03-15",11,"Western Australia",25.53
+"815","2017-03-16",1,"Ashmore and Cartier Islands",27.35
+"816","2017-03-16",2,"Australian Capital Territory",18.81
+"817","2017-03-16",3,"Coral Sea Islands",26.8
+"818","2017-03-16",4,"Jervis Bay Territory",22.53
+"819","2017-03-16",5,"New South Wales",25.81
+"820","2017-03-16",6,"Northern Territory",30.26
+"821","2017-03-16",7,"Queensland",28.88
+"822","2017-03-16",8,"South Australia",23
+"823","2017-03-16",9,"Tasmania",18.03
+"824","2017-03-16",10,"Victoria",22.19
+"825","2017-03-16",11,"Western Australia",24.62
+"826","2017-03-17",1,"Ashmore and Cartier Islands",29.03
+"827","2017-03-17",2,"Australian Capital Territory",17.87
+"828","2017-03-17",3,"Coral Sea Islands",27.79
+"829","2017-03-17",4,"Jervis Bay Territory",20.8
+"830","2017-03-17",5,"New South Wales",24.1
+"831","2017-03-17",6,"Northern Territory",29.85
+"832","2017-03-17",7,"Queensland",30
+"833","2017-03-17",8,"South Australia",22.67
+"834","2017-03-17",9,"Tasmania",14.51
+"835","2017-03-17",10,"Victoria",18.5
+"836","2017-03-17",11,"Western Australia",27.09
+"837","2017-03-18",1,"Ashmore and Cartier Islands",27.14
+"838","2017-03-18",2,"Australian Capital Territory",17.06
+"839","2017-03-18",3,"Coral Sea Islands",27.5
+"840","2017-03-18",4,"Jervis Bay Territory",21.86
+"841","2017-03-18",5,"New South Wales",23.5
+"842","2017-03-18",6,"Northern Territory",30.81
+"843","2017-03-18",7,"Queensland",29.66
+"844","2017-03-18",8,"South Australia",28.6
+"845","2017-03-18",9,"Tasmania",17.35
+"846","2017-03-18",10,"Victoria",23.57
+"847","2017-03-18",11,"Western Australia",27.99
+"848","2017-03-19",1,"Ashmore and Cartier Islands",26.76
+"849","2017-03-19",2,"Australian Capital Territory",19.67
+"850","2017-03-19",3,"Coral Sea Islands",27.33
+"851","2017-03-19",4,"Jervis Bay Territory",22.44
+"852","2017-03-19",5,"New South Wales",24.98
+"853","2017-03-19",6,"Northern Territory",30.24
+"854","2017-03-19",7,"Queensland",27.87
+"855","2017-03-19",8,"South Australia",30.2
+"856","2017-03-19",9,"Tasmania",21.07
+"857","2017-03-19",10,"Victoria",26.7
+"858","2017-03-19",11,"Western Australia",25.29
+"859","2017-03-20",1,"Ashmore and Cartier Islands",27.92
+"860","2017-03-20",2,"Australian Capital Territory",22.31
+"861","2017-03-20",3,"Coral Sea Islands",27.03
+"862","2017-03-20",4,"Jervis Bay Territory",23.48
+"863","2017-03-20",5,"New South Wales",24.39
+"864","2017-03-20",6,"Northern Territory",29.23
+"865","2017-03-20",7,"Queensland",27.7
+"866","2017-03-20",8,"South Australia",27.64
+"867","2017-03-20",9,"Tasmania",17.59
+"868","2017-03-20",10,"Victoria",25.07
+"869","2017-03-20",11,"Western Australia",22.83
+"870","2017-03-21",1,"Ashmore and Cartier Islands",27.31
+"871","2017-03-21",2,"Australian Capital Territory",17.86
+"872","2017-03-21",3,"Coral Sea Islands",27.29
+"873","2017-03-21",4,"Jervis Bay Territory",23.21
+"874","2017-03-21",5,"New South Wales",25.05
+"875","2017-03-21",6,"Northern Territory",29.7
+"876","2017-03-21",7,"Queensland",28.16
+"877","2017-03-21",8,"South Australia",24.58
+"878","2017-03-21",9,"Tasmania",16.98
+"879","2017-03-21",10,"Victoria",21.53
+"880","2017-03-21",11,"Western Australia",24.33
+"881","2017-03-22",1,"Ashmore and Cartier Islands",26.51
+"882","2017-03-22",2,"Australian Capital Territory",20.96
+"883","2017-03-22",3,"Coral Sea Islands",26.82
+"884","2017-03-22",4,"Jervis Bay Territory",24.33
+"885","2017-03-22",5,"New South Wales",25.74
+"886","2017-03-22",6,"Northern Territory",30.34
+"887","2017-03-22",7,"Queensland",28.19
+"888","2017-03-22",8,"South Australia",24.37
+"889","2017-03-22",9,"Tasmania",14.86
+"890","2017-03-22",10,"Victoria",19.56
+"891","2017-03-22",11,"Western Australia",24.65
+"892","2017-03-23",1,"Ashmore and Cartier Islands",28.41
+"893","2017-03-23",2,"Australian Capital Territory",16.39
+"894","2017-03-23",3,"Coral Sea Islands",27.16
+"895","2017-03-23",4,"Jervis Bay Territory",20.51
+"896","2017-03-23",5,"New South Wales",24.55
+"897","2017-03-23",6,"Northern Territory",30.73
+"898","2017-03-23",7,"Queensland",28.48
+"899","2017-03-23",8,"South Australia",25.87
+"900","2017-03-23",9,"Tasmania",14.76
+"901","2017-03-23",10,"Victoria",19.66
+"902","2017-03-23",11,"Western Australia",24.66
+"903","2017-03-24",1,"Ashmore and Cartier Islands",28.69
+"904","2017-03-24",2,"Australian Capital Territory",16.06
+"905","2017-03-24",3,"Coral Sea Islands",27.25
+"906","2017-03-24",4,"Jervis Bay Territory",19.98
+"907","2017-03-24",5,"New South Wales",24.38
+"908","2017-03-24",6,"Northern Territory",30.84
+"909","2017-03-24",7,"Queensland",29.04
+"910","2017-03-24",8,"South Australia",29.21
+"911","2017-03-24",9,"Tasmania",14.13
+"912","2017-03-24",10,"Victoria",20.15
+"913","2017-03-24",11,"Western Australia",24.59
+"914","2017-03-25",1,"Ashmore and Cartier Islands",27.27
+"915","2017-03-25",2,"Australian Capital Territory",15.82
+"916","2017-03-25",3,"Coral Sea Islands",27.58
+"917","2017-03-25",4,"Jervis Bay Territory",21.11
+"918","2017-03-25",5,"New South Wales",25.61
+"919","2017-03-25",6,"Northern Territory",30.96
+"920","2017-03-25",7,"Queensland",29.5
+"921","2017-03-25",8,"South Australia",29.88
+"922","2017-03-25",9,"Tasmania",14.51
+"923","2017-03-25",10,"Victoria",22.73
+"924","2017-03-25",11,"Western Australia",24.99
+"925","2017-03-26",1,"Ashmore and Cartier Islands",26.37
+"926","2017-03-26",2,"Australian Capital Territory",20.53
+"927","2017-03-26",3,"Coral Sea Islands",27.49
+"928","2017-03-26",4,"Jervis Bay Territory",20.4
+"929","2017-03-26",5,"New South Wales",27.23
+"930","2017-03-26",6,"Northern Territory",31.16
+"931","2017-03-26",7,"Queensland",29.56
+"932","2017-03-26",8,"South Australia",32.78
+"933","2017-03-26",9,"Tasmania",17.59
+"934","2017-03-26",10,"Victoria",22.24
+"935","2017-03-26",11,"Western Australia",25.81
+"936","2017-03-27",1,"Ashmore and Cartier Islands",27.57
+"937","2017-03-27",2,"Australian Capital Territory",21.19
+"938","2017-03-27",3,"Coral Sea Islands",27.28
+"939","2017-03-27",4,"Jervis Bay Territory",22.76
+"940","2017-03-27",5,"New South Wales",28.6
+"941","2017-03-27",6,"Northern Territory",31.23
+"942","2017-03-27",7,"Queensland",30.3
+"943","2017-03-27",8,"South Australia",27.02
+"944","2017-03-27",9,"Tasmania",20
+"945","2017-03-27",10,"Victoria",26.13
+"946","2017-03-27",11,"Western Australia",23.05
+"947","2017-03-28",1,"Ashmore and Cartier Islands",26.65
+"948","2017-03-28",2,"Australian Capital Territory",18.74
+"949","2017-03-28",3,"Coral Sea Islands",27.3
+"950","2017-03-28",4,"Jervis Bay Territory",20.94
+"951","2017-03-28",5,"New South Wales",23.42
+"952","2017-03-28",6,"Northern Territory",30.76
+"953","2017-03-28",7,"Queensland",29.94
+"954","2017-03-28",8,"South Australia",22.67
+"955","2017-03-28",9,"Tasmania",15.49
+"956","2017-03-28",10,"Victoria",17.73
+"957","2017-03-28",11,"Western Australia",23.78
+"958","2017-03-29",1,"Ashmore and Cartier Islands",27.44
+"959","2017-03-29",2,"Australian Capital Territory",19.47
+"960","2017-03-29",3,"Coral Sea Islands",27.41
+"961","2017-03-29",4,"Jervis Bay Territory",23.27
+"962","2017-03-29",5,"New South Wales",26.37
+"963","2017-03-29",6,"Northern Territory",31.25
+"964","2017-03-29",7,"Queensland",29.63
+"965","2017-03-29",8,"South Australia",24.34
+"966","2017-03-29",9,"Tasmania",16.74
+"967","2017-03-29",10,"Victoria",20.61
+"968","2017-03-29",11,"Western Australia",23.67
+"969","2017-03-30",1,"Ashmore and Cartier Islands",28.64
+"970","2017-03-30",2,"Australian Capital Territory",17.96
+"971","2017-03-30",3,"Coral Sea Islands",27.9
+"972","2017-03-30",4,"Jervis Bay Territory",18.98
+"973","2017-03-30",5,"New South Wales",18.74
+"974","2017-03-30",6,"Northern Territory",27.41
+"975","2017-03-30",7,"Queensland",27.37
+"976","2017-03-30",8,"South Australia",17.11
+"977","2017-03-30",9,"Tasmania",11.5
+"978","2017-03-30",10,"Victoria",13.45
+"979","2017-03-30",11,"Western Australia",21.82
+"980","2017-03-31",1,"Ashmore and Cartier Islands",28.93
+"981","2017-03-31",2,"Australian Capital Territory",11.61
+"982","2017-03-31",3,"Coral Sea Islands",27.64
+"983","2017-03-31",4,"Jervis Bay Territory",17.47
+"984","2017-03-31",5,"New South Wales",16.68
+"985","2017-03-31",6,"Northern Territory",24.18
+"986","2017-03-31",7,"Queensland",22.65
+"987","2017-03-31",8,"South Australia",17.74
+"988","2017-03-31",9,"Tasmania",11.48
+"989","2017-03-31",10,"Victoria",13.33
+"990","2017-03-31",11,"Western Australia",22.87
+"991","2017-04-01",1,"Ashmore and Cartier Islands",28.85
+"992","2017-04-01",2,"Australian Capital Territory",13.59
+"993","2017-04-01",3,"Coral Sea Islands",26.35
+"994","2017-04-01",4,"Jervis Bay Territory",19.24
+"995","2017-04-01",5,"New South Wales",18.07
+"996","2017-04-01",6,"Northern Territory",24.1
+"997","2017-04-01",7,"Queensland",23.67
+"998","2017-04-01",8,"South Australia",18.63
+"999","2017-04-01",9,"Tasmania",10.72
+"1000","2017-04-01",10,"Victoria",14.78
+"1001","2017-04-01",11,"Western Australia",23.13
+"1002","2017-04-02",1,"Ashmore and Cartier Islands",29.07
+"1003","2017-04-02",2,"Australian Capital Territory",12.77
+"1004","2017-04-02",3,"Coral Sea Islands",25.9
+"1005","2017-04-02",4,"Jervis Bay Territory",18.47
+"1006","2017-04-02",5,"New South Wales",18.68
+"1007","2017-04-02",6,"Northern Territory",23.81
+"1008","2017-04-02",7,"Queensland",24.64
+"1009","2017-04-02",8,"South Australia",18.77
+"1010","2017-04-02",9,"Tasmania",11.02
+"1011","2017-04-02",10,"Victoria",14.8
+"1012","2017-04-02",11,"Western Australia",22.51
+"1013","2017-04-03",1,"Ashmore and Cartier Islands",29.38
+"1014","2017-04-03",2,"Australian Capital Territory",12.39
+"1015","2017-04-03",3,"Coral Sea Islands",26.31
+"1016","2017-04-03",4,"Jervis Bay Territory",17.05
+"1017","2017-04-03",5,"New South Wales",19.12
+"1018","2017-04-03",6,"Northern Territory",24.05
+"1019","2017-04-03",7,"Queensland",25.33
+"1020","2017-04-03",8,"South Australia",18.93
+"1021","2017-04-03",9,"Tasmania",11.63
+"1022","2017-04-03",10,"Victoria",16.2
+"1023","2017-04-03",11,"Western Australia",23.09
+"1024","2017-04-04",1,"Ashmore and Cartier Islands",28.88
+"1025","2017-04-04",2,"Australian Capital Territory",13.24
+"1026","2017-04-04",3,"Coral Sea Islands",26.16
+"1027","2017-04-04",4,"Jervis Bay Territory",18.49
+"1028","2017-04-04",5,"New South Wales",19.35
+"1029","2017-04-04",6,"Northern Territory",24.8
+"1030","2017-04-04",7,"Queensland",25.43
+"1031","2017-04-04",8,"South Australia",21.26
+"1032","2017-04-04",9,"Tasmania",13.61
+"1033","2017-04-04",10,"Victoria",18.79
+"1034","2017-04-04",11,"Western Australia",22.73
+"1035","2017-04-05",1,"Ashmore and Cartier Islands",28.68
+"1036","2017-04-05",2,"Australian Capital Territory",13.69
+"1037","2017-04-05",3,"Coral Sea Islands",25.8
+"1038","2017-04-05",4,"Jervis Bay Territory",19.64
+"1039","2017-04-05",5,"New South Wales",19.7
+"1040","2017-04-05",6,"Northern Territory",26.24
+"1041","2017-04-05",7,"Queensland",24.89
+"1042","2017-04-05",8,"South Australia",22.09
+"1043","2017-04-05",9,"Tasmania",14.9
+"1044","2017-04-05",10,"Victoria",19.64
+"1045","2017-04-05",11,"Western Australia",22.28
+"1046","2017-04-06",1,"Ashmore and Cartier Islands",28.07
+"1047","2017-04-06",2,"Australian Capital Territory",13.33
+"1048","2017-04-06",3,"Coral Sea Islands",26.16
+"1049","2017-04-06",4,"Jervis Bay Territory",19.37
+"1050","2017-04-06",5,"New South Wales",19.14
+"1051","2017-04-06",6,"Northern Territory",26.79
+"1052","2017-04-06",7,"Queensland",25.35
+"1053","2017-04-06",8,"South Australia",23.34
+"1054","2017-04-06",9,"Tasmania",17.11
+"1055","2017-04-06",10,"Victoria",20.48
+"1056","2017-04-06",11,"Western Australia",23.34
+"1057","2017-04-07",1,"Ashmore and Cartier Islands",28.4
+"1058","2017-04-07",2,"Australian Capital Territory",14.5
+"1059","2017-04-07",3,"Coral Sea Islands",25.86
+"1060","2017-04-07",4,"Jervis Bay Territory",20.1
+"1061","2017-04-07",5,"New South Wales",20.55
+"1062","2017-04-07",6,"Northern Territory",28.17
+"1063","2017-04-07",7,"Queensland",25.51
+"1064","2017-04-07",8,"South Australia",25.42
+"1065","2017-04-07",9,"Tasmania",17.04
+"1066","2017-04-07",10,"Victoria",21.38
+"1067","2017-04-07",11,"Western Australia",23.13
+"1068","2017-04-08",1,"Ashmore and Cartier Islands",28.52
+"1069","2017-04-08",2,"Australian Capital Territory",14.18
+"1070","2017-04-08",3,"Coral Sea Islands",26.1
+"1071","2017-04-08",4,"Jervis Bay Territory",20.16
+"1072","2017-04-08",5,"New South Wales",22.06
+"1073","2017-04-08",6,"Northern Territory",28.89
+"1074","2017-04-08",7,"Queensland",25.83
+"1075","2017-04-08",8,"South Australia",24.78
+"1076","2017-04-08",9,"Tasmania",16.97
+"1077","2017-04-08",10,"Victoria",22.4
+"1078","2017-04-08",11,"Western Australia",22.21
+"1079","2017-04-09",1,"Ashmore and Cartier Islands",29.02
+"1080","2017-04-09",2,"Australian Capital Territory",12.3
+"1081","2017-04-09",3,"Coral Sea Islands",25.82
+"1082","2017-04-09",4,"Jervis Bay Territory",21.25
+"1083","2017-04-09",5,"New South Wales",20.75
+"1084","2017-04-09",6,"Northern Territory",27.3
+"1085","2017-04-09",7,"Queensland",26.29
+"1086","2017-04-09",8,"South Australia",18.3
+"1087","2017-04-09",9,"Tasmania",12.98
+"1088","2017-04-09",10,"Victoria",12.42
+"1089","2017-04-09",11,"Western Australia",21.89
+"1090","2017-04-10",1,"Ashmore and Cartier Islands",29
+"1091","2017-04-10",2,"Australian Capital Territory",7.93
+"1092","2017-04-10",3,"Coral Sea Islands",26.03
+"1093","2017-04-10",4,"Jervis Bay Territory",14.82
+"1094","2017-04-10",5,"New South Wales",14.25
+"1095","2017-04-10",6,"Northern Territory",23.62
+"1096","2017-04-10",7,"Queensland",23.31
+"1097","2017-04-10",8,"South Australia",16.39
+"1098","2017-04-10",9,"Tasmania",11.81
+"1099","2017-04-10",10,"Victoria",12.73
+"1100","2017-04-10",11,"Western Australia",21.56
+"1101","2017-04-11",1,"Ashmore and Cartier Islands",28.73
+"1102","2017-04-11",2,"Australian Capital Territory",13.19
+"1103","2017-04-11",3,"Coral Sea Islands",26.35
+"1104","2017-04-11",4,"Jervis Bay Territory",18.83
+"1105","2017-04-11",5,"New South Wales",16.49
+"1106","2017-04-11",6,"Northern Territory",21.25
+"1107","2017-04-11",7,"Queensland",21.77
+"1108","2017-04-11",8,"South Australia",17.14
+"1109","2017-04-11",9,"Tasmania",12.35
+"1110","2017-04-11",10,"Victoria",14.96
+"1111","2017-04-11",11,"Western Australia",21.8
+"1112","2017-04-12",1,"Ashmore and Cartier Islands",28.69
+"1113","2017-04-12",2,"Australian Capital Territory",13.83
+"1114","2017-04-12",3,"Coral Sea Islands",25.65
+"1115","2017-04-12",4,"Jervis Bay Territory",18.63
+"1116","2017-04-12",5,"New South Wales",19.53
+"1117","2017-04-12",6,"Northern Territory",22.28
+"1118","2017-04-12",7,"Queensland",23.69
+"1119","2017-04-12",8,"South Australia",19.4
+"1120","2017-04-12",9,"Tasmania",12.88
+"1121","2017-04-12",10,"Victoria",15.91
+"1122","2017-04-12",11,"Western Australia",22.12
+"1123","2017-04-13",1,"Ashmore and Cartier Islands",28.31
+"1124","2017-04-13",2,"Australian Capital Territory",13.92
+"1125","2017-04-13",3,"Coral Sea Islands",25.93
+"1126","2017-04-13",4,"Jervis Bay Territory",17.52
+"1127","2017-04-13",5,"New South Wales",20.41
+"1128","2017-04-13",6,"Northern Territory",24.07
+"1129","2017-04-13",7,"Queensland",24.91
+"1130","2017-04-13",8,"South Australia",21.56
+"1131","2017-04-13",9,"Tasmania",13.63
+"1132","2017-04-13",10,"Victoria",17.76
+"1133","2017-04-13",11,"Western Australia",22.37
+"1134","2017-04-14",1,"Ashmore and Cartier Islands",28.37
+"1135","2017-04-14",2,"Australian Capital Territory",14.56
+"1136","2017-04-14",3,"Coral Sea Islands",25.64
+"1137","2017-04-14",4,"Jervis Bay Territory",18.37
+"1138","2017-04-14",5,"New South Wales",20.78
+"1139","2017-04-14",6,"Northern Territory",25.46
+"1140","2017-04-14",7,"Queensland",25.23
+"1141","2017-04-14",8,"South Australia",21.66
+"1142","2017-04-14",9,"Tasmania",11.68
+"1143","2017-04-14",10,"Victoria",16.16
+"1144","2017-04-14",11,"Western Australia",22.58
+"1145","2017-04-15",1,"Ashmore and Cartier Islands",28.41
+"1146","2017-04-15",2,"Australian Capital Territory",13.08
+"1147","2017-04-15",3,"Coral Sea Islands",25.62
+"1148","2017-04-15",4,"Jervis Bay Territory",18.03
+"1149","2017-04-15",5,"New South Wales",20.49
+"1150","2017-04-15",6,"Northern Territory",26.09
+"1151","2017-04-15",7,"Queensland",25.52
+"1152","2017-04-15",8,"South Australia",22.01
+"1153","2017-04-15",9,"Tasmania",10.99
+"1154","2017-04-15",10,"Victoria",14.7
+"1155","2017-04-15",11,"Western Australia",22.79
+"1156","2017-04-16",1,"Ashmore and Cartier Islands",28.12
+"1157","2017-04-16",2,"Australian Capital Territory",13.41
+"1158","2017-04-16",3,"Coral Sea Islands",25.51
+"1159","2017-04-16",4,"Jervis Bay Territory",18.9
+"1160","2017-04-16",5,"New South Wales",21.68
+"1161","2017-04-16",6,"Northern Territory",26.96
+"1162","2017-04-16",7,"Queensland",25.65
+"1163","2017-04-16",8,"South Australia",23.01
+"1164","2017-04-16",9,"Tasmania",12.94
+"1165","2017-04-16",10,"Victoria",15.93
+"1166","2017-04-16",11,"Western Australia",22.14
+"1167","2017-04-17",1,"Ashmore and Cartier Islands",28.32
+"1168","2017-04-17",2,"Australian Capital Territory",13.95
+"1169","2017-04-17",3,"Coral Sea Islands",25.85
+"1170","2017-04-17",4,"Jervis Bay Territory",18.87
+"1171","2017-04-17",5,"New South Wales",21.74
+"1172","2017-04-17",6,"Northern Territory",27.41
+"1173","2017-04-17",7,"Queensland",25.84
+"1174","2017-04-17",8,"South Australia",23.7
+"1175","2017-04-17",9,"Tasmania",12.43
+"1176","2017-04-17",10,"Victoria",16.79
+"1177","2017-04-17",11,"Western Australia",21.3
+"1178","2017-04-18",1,"Ashmore and Cartier Islands",27.87
+"1179","2017-04-18",2,"Australian Capital Territory",15.7
+"1180","2017-04-18",3,"Coral Sea Islands",25.35
+"1181","2017-04-18",4,"Jervis Bay Territory",19.13
+"1182","2017-04-18",5,"New South Wales",21.81
+"1183","2017-04-18",6,"Northern Territory",27.48
+"1184","2017-04-18",7,"Queensland",25.81
+"1185","2017-04-18",8,"South Australia",24
+"1186","2017-04-18",9,"Tasmania",14.21
+"1187","2017-04-18",10,"Victoria",18.15
+"1188","2017-04-18",11,"Western Australia",21.45
+"1189","2017-04-19",1,"Ashmore and Cartier Islands",27.58
+"1190","2017-04-19",2,"Australian Capital Territory",15.26
+"1191","2017-04-19",3,"Coral Sea Islands",26.03
+"1192","2017-04-19",4,"Jervis Bay Territory",20.09
+"1193","2017-04-19",5,"New South Wales",21.58
+"1194","2017-04-19",6,"Northern Territory",27.39
+"1195","2017-04-19",7,"Queensland",25.63
+"1196","2017-04-19",8,"South Australia",23.65
+"1197","2017-04-19",9,"Tasmania",15.17
+"1198","2017-04-19",10,"Victoria",20.08
+"1199","2017-04-19",11,"Western Australia",21.34
+"1200","2017-04-20",1,"Ashmore and Cartier Islands",28.17
+"1201","2017-04-20",2,"Australian Capital Territory",15.14
+"1202","2017-04-20",3,"Coral Sea Islands",25.69
+"1203","2017-04-20",4,"Jervis Bay Territory",20.3
+"1204","2017-04-20",5,"New South Wales",20.97
+"1205","2017-04-20",6,"Northern Territory",27.37
+"1206","2017-04-20",7,"Queensland",24.97
+"1207","2017-04-20",8,"South Australia",21.33
+"1208","2017-04-20",9,"Tasmania",16.88
+"1209","2017-04-20",10,"Victoria",20.07
+"1210","2017-04-20",11,"Western Australia",21.68
+"1211","2017-04-21",1,"Ashmore and Cartier Islands",28.61
+"1212","2017-04-21",2,"Australian Capital Territory",14.57
+"1213","2017-04-21",3,"Coral Sea Islands",25.34
+"1214","2017-04-21",4,"Jervis Bay Territory",20.15
+"1215","2017-04-21",5,"New South Wales",19.6
+"1216","2017-04-21",6,"Northern Territory",27.35
+"1217","2017-04-21",7,"Queensland",24.67
+"1218","2017-04-21",8,"South Australia",20.72
+"1219","2017-04-21",9,"Tasmania",16.84
+"1220","2017-04-21",10,"Victoria",16.65
+"1221","2017-04-21",11,"Western Australia",21.98
+"1222","2017-04-22",1,"Ashmore and Cartier Islands",28.52
+"1223","2017-04-22",2,"Australian Capital Territory",13.85
+"1224","2017-04-22",3,"Coral Sea Islands",25.23
+"1225","2017-04-22",4,"Jervis Bay Territory",20.26
+"1226","2017-04-22",5,"New South Wales",19.32
+"1227","2017-04-22",6,"Northern Territory",27.12
+"1228","2017-04-22",7,"Queensland",24.54
+"1229","2017-04-22",8,"South Australia",19.82
+"1230","2017-04-22",9,"Tasmania",15.63
+"1231","2017-04-22",10,"Victoria",17.01
+"1232","2017-04-22",11,"Western Australia",22.05
+"1233","2017-04-23",1,"Ashmore and Cartier Islands",28.16
+"1234","2017-04-23",2,"Australian Capital Territory",14.89
+"1235","2017-04-23",3,"Coral Sea Islands",25.21
+"1236","2017-04-23",4,"Jervis Bay Territory",20.05
+"1237","2017-04-23",5,"New South Wales",20.12
+"1238","2017-04-23",6,"Northern Territory",27.26
+"1239","2017-04-23",7,"Queensland",24.7
+"1240","2017-04-23",8,"South Australia",20.86
+"1241","2017-04-23",9,"Tasmania",13.56
+"1242","2017-04-23",10,"Victoria",17.65
+"1243","2017-04-23",11,"Western Australia",21.88
+"1244","2017-04-24",1,"Ashmore and Cartier Islands",28.69
+"1245","2017-04-24",2,"Australian Capital Territory",13.77
+"1246","2017-04-24",3,"Coral Sea Islands",25.51
+"1247","2017-04-24",4,"Jervis Bay Territory",19.26
+"1248","2017-04-24",5,"New South Wales",20.87
+"1249","2017-04-24",6,"Northern Territory",28.15
+"1250","2017-04-24",7,"Queensland",25.38
+"1251","2017-04-24",8,"South Australia",20.38
+"1252","2017-04-24",9,"Tasmania",13.6
+"1253","2017-04-24",10,"Victoria",17.61
+"1254","2017-04-24",11,"Western Australia",20.82
+"1255","2017-04-25",1,"Ashmore and Cartier Islands",28.62
+"1256","2017-04-25",2,"Australian Capital Territory",13.44
+"1257","2017-04-25",3,"Coral Sea Islands",25.05
+"1258","2017-04-25",4,"Jervis Bay Territory",20.66
+"1259","2017-04-25",5,"New South Wales",19.47
+"1260","2017-04-25",6,"Northern Territory",26.43
+"1261","2017-04-25",7,"Queensland",25.64
+"1262","2017-04-25",8,"South Australia",17.88
+"1263","2017-04-25",9,"Tasmania",12.79
+"1264","2017-04-25",10,"Victoria",16.08
+"1265","2017-04-25",11,"Western Australia",20.3
+"1266","2017-04-26",1,"Ashmore and Cartier Islands",29.06
+"1267","2017-04-26",2,"Australian Capital Territory",10.39
+"1268","2017-04-26",3,"Coral Sea Islands",25.18
+"1269","2017-04-26",4,"Jervis Bay Territory",18.88
+"1270","2017-04-26",5,"New South Wales",15.43
+"1271","2017-04-26",6,"Northern Territory",24.05
+"1272","2017-04-26",7,"Queensland",23.58
+"1273","2017-04-26",8,"South Australia",15.27
+"1274","2017-04-26",9,"Tasmania",8.27
+"1275","2017-04-26",10,"Victoria",10.75
+"1276","2017-04-26",11,"Western Australia",19.4
+"1277","2017-04-27",1,"Ashmore and Cartier Islands",29.2
+"1278","2017-04-27",2,"Australian Capital Territory",7.72
+"1279","2017-04-27",3,"Coral Sea Islands",25.34
+"1280","2017-04-27",4,"Jervis Bay Territory",14.58
+"1281","2017-04-27",5,"New South Wales",11.52
+"1282","2017-04-27",6,"Northern Territory",20.93
+"1283","2017-04-27",7,"Queensland",19.29
+"1284","2017-04-27",8,"South Australia",14.15
+"1285","2017-04-27",9,"Tasmania",7.68
+"1286","2017-04-27",10,"Victoria",10.54
+"1287","2017-04-27",11,"Western Australia",19.04
+"1288","2017-04-28",1,"Ashmore and Cartier Islands",29.93
+"1289","2017-04-28",2,"Australian Capital Territory",9.06
+"1290","2017-04-28",3,"Coral Sea Islands",23.65
+"1291","2017-04-28",4,"Jervis Bay Territory",16.09
+"1292","2017-04-28",5,"New South Wales",13.47
+"1293","2017-04-28",6,"Northern Territory",18.93
+"1294","2017-04-28",7,"Queensland",17.32
+"1295","2017-04-28",8,"South Australia",15.01
+"1296","2017-04-28",9,"Tasmania",12.55
+"1297","2017-04-28",10,"Victoria",13.74
+"1298","2017-04-28",11,"Western Australia",18.4
+"1299","2017-04-29",1,"Ashmore and Cartier Islands",28.44
+"1300","2017-04-29",2,"Australian Capital Territory",10.81
+"1301","2017-04-29",3,"Coral Sea Islands",23.72
+"1302","2017-04-29",4,"Jervis Bay Territory",16.86
+"1303","2017-04-29",5,"New South Wales",15.38
+"1304","2017-04-29",6,"Northern Territory",19.2
+"1305","2017-04-29",7,"Queensland",18.99
+"1306","2017-04-29",8,"South Australia",15.84
+"1307","2017-04-29",9,"Tasmania",13.06
+"1308","2017-04-29",10,"Victoria",14.61
+"1309","2017-04-29",11,"Western Australia",18.06
+"1310","2017-04-30",1,"Ashmore and Cartier Islands",27.67
+"1311","2017-04-30",2,"Australian Capital Territory",11.98
+"1312","2017-04-30",3,"Coral Sea Islands",24.7
+"1313","2017-04-30",4,"Jervis Bay Territory",18.1
+"1314","2017-04-30",5,"New South Wales",16.37
+"1315","2017-04-30",6,"Northern Territory",20.29
+"1316","2017-04-30",7,"Queensland",21.15
+"1317","2017-04-30",8,"South Australia",16.07
+"1318","2017-04-30",9,"Tasmania",11.52
+"1319","2017-04-30",10,"Victoria",14.14
+"1320","2017-04-30",11,"Western Australia",18.71
+"1321","2017-05-01",1,"Ashmore and Cartier Islands",26.78
+"1322","2017-05-01",2,"Australian Capital Territory",11.68
+"1323","2017-05-01",3,"Coral Sea Islands",24.75
+"1324","2017-05-01",4,"Jervis Bay Territory",18.41
+"1325","2017-05-01",5,"New South Wales",17.09
+"1326","2017-05-01",6,"Northern Territory",22.5
+"1327","2017-05-01",7,"Queensland",22.91
+"1328","2017-05-01",8,"South Australia",17.43
+"1329","2017-05-01",9,"Tasmania",13.77
+"1330","2017-05-01",10,"Victoria",14.55
+"1331","2017-05-01",11,"Western Australia",18.79
+"1332","2017-05-02",1,"Ashmore and Cartier Islands",26.21
+"1333","2017-05-02",2,"Australian Capital Territory",10.66
+"1334","2017-05-02",3,"Coral Sea Islands",24.78
+"1335","2017-05-02",4,"Jervis Bay Territory",17.93
+"1336","2017-05-02",5,"New South Wales",16.93
+"1337","2017-05-02",6,"Northern Territory",22.65
+"1338","2017-05-02",7,"Queensland",23.44
+"1339","2017-05-02",8,"South Australia",15.63
+"1340","2017-05-02",9,"Tasmania",7.95
+"1341","2017-05-02",10,"Victoria",11.57
+"1342","2017-05-02",11,"Western Australia",17.84
+"1343","2017-05-03",1,"Ashmore and Cartier Islands",28.58
+"1344","2017-05-03",2,"Australian Capital Territory",8.29
+"1345","2017-05-03",3,"Coral Sea Islands",24.67
+"1346","2017-05-03",4,"Jervis Bay Territory",15.22
+"1347","2017-05-03",5,"New South Wales",14.03
+"1348","2017-05-03",6,"Northern Territory",21.13
+"1349","2017-05-03",7,"Queensland",22.69
+"1350","2017-05-03",8,"South Australia",14.85
+"1351","2017-05-03",9,"Tasmania",9.08
+"1352","2017-05-03",10,"Victoria",10.89
+"1353","2017-05-03",11,"Western Australia",18.18
+"1354","2017-05-04",1,"Ashmore and Cartier Islands",28.22
+"1355","2017-05-04",2,"Australian Capital Territory",8.62
+"1356","2017-05-04",3,"Coral Sea Islands",25.12
+"1357","2017-05-04",4,"Jervis Bay Territory",16.98
+"1358","2017-05-04",5,"New South Wales",15.15
+"1359","2017-05-04",6,"Northern Territory",20.68
+"1360","2017-05-04",7,"Queensland",22.38
+"1361","2017-05-04",8,"South Australia",14.53
+"1362","2017-05-04",9,"Tasmania",10.66
+"1363","2017-05-04",10,"Victoria",11.79
+"1364","2017-05-04",11,"Western Australia",19.22
+"1365","2017-05-05",1,"Ashmore and Cartier Islands",28.39
+"1366","2017-05-05",2,"Australian Capital Territory",10.18
+"1367","2017-05-05",3,"Coral Sea Islands",25.31
+"1368","2017-05-05",4,"Jervis Bay Territory",17.77
+"1369","2017-05-05",5,"New South Wales",17.14
+"1370","2017-05-05",6,"Northern Territory",22.56
+"1371","2017-05-05",7,"Queensland",23.69
+"1372","2017-05-05",8,"South Australia",16.22
+"1373","2017-05-05",9,"Tasmania",10.33
+"1374","2017-05-05",10,"Victoria",12.91
+"1375","2017-05-05",11,"Western Australia",19.61
+"1376","2017-05-06",1,"Ashmore and Cartier Islands",28.53
+"1377","2017-05-06",2,"Australian Capital Territory",10.91
+"1378","2017-05-06",3,"Coral Sea Islands",24.54
+"1379","2017-05-06",4,"Jervis Bay Territory",18.11
+"1380","2017-05-06",5,"New South Wales",18.2
+"1381","2017-05-06",6,"Northern Territory",25.06
+"1382","2017-05-06",7,"Queensland",23.61
+"1383","2017-05-06",8,"South Australia",18.94
+"1384","2017-05-06",9,"Tasmania",13.4
+"1385","2017-05-06",10,"Victoria",14.57
+"1386","2017-05-06",11,"Western Australia",19.06
+"1387","2017-05-07",1,"Ashmore and Cartier Islands",28.35
+"1388","2017-05-07",2,"Australian Capital Territory",9.14
+"1389","2017-05-07",3,"Coral Sea Islands",24.85
+"1390","2017-05-07",4,"Jervis Bay Territory",16.44
+"1391","2017-05-07",5,"New South Wales",14.73
+"1392","2017-05-07",6,"Northern Territory",24.53
+"1393","2017-05-07",7,"Queensland",23.45
+"1394","2017-05-07",8,"South Australia",16.02
+"1395","2017-05-07",9,"Tasmania",8.4
+"1396","2017-05-07",10,"Victoria",10.77
+"1397","2017-05-07",11,"Western Australia",19.94
+"1398","2017-05-08",1,"Ashmore and Cartier Islands",28.01
+"1399","2017-05-08",2,"Australian Capital Territory",7.02
+"1400","2017-05-08",3,"Coral Sea Islands",24.92
+"1401","2017-05-08",4,"Jervis Bay Territory",15.34
+"1402","2017-05-08",5,"New South Wales",12.92
+"1403","2017-05-08",6,"Northern Territory",23.2
+"1404","2017-05-08",7,"Queensland",21.79
+"1405","2017-05-08",8,"South Australia",14.63
+"1406","2017-05-08",9,"Tasmania",10.94
+"1407","2017-05-08",10,"Victoria",11.32
+"1408","2017-05-08",11,"Western Australia",20.46
+"1409","2017-05-09",1,"Ashmore and Cartier Islands",28.29
+"1410","2017-05-09",2,"Australian Capital Territory",9.41
+"1411","2017-05-09",3,"Coral Sea Islands",25.12
+"1412","2017-05-09",4,"Jervis Bay Territory",16.19
+"1413","2017-05-09",5,"New South Wales",14
+"1414","2017-05-09",6,"Northern Territory",21.09
+"1415","2017-05-09",7,"Queensland",20.84
+"1416","2017-05-09",8,"South Australia",14.46
+"1417","2017-05-09",9,"Tasmania",9.95
+"1418","2017-05-09",10,"Victoria",11.91
+"1419","2017-05-09",11,"Western Australia",19.91
+"1420","2017-05-10",1,"Ashmore and Cartier Islands",28.8
+"1421","2017-05-10",2,"Australian Capital Territory",9.6
+"1422","2017-05-10",3,"Coral Sea Islands",24.74
+"1423","2017-05-10",4,"Jervis Bay Territory",16.64
+"1424","2017-05-10",5,"New South Wales",14.88
+"1425","2017-05-10",6,"Northern Territory",20.28
+"1426","2017-05-10",7,"Queensland",20.18
+"1427","2017-05-10",8,"South Australia",15.35
+"1428","2017-05-10",9,"Tasmania",9.3
+"1429","2017-05-10",10,"Victoria",11.98
+"1430","2017-05-10",11,"Western Australia",19.21
+"1431","2017-05-11",1,"Ashmore and Cartier Islands",28.03
+"1432","2017-05-11",2,"Australian Capital Territory",10.46
+"1433","2017-05-11",3,"Coral Sea Islands",23.64
+"1434","2017-05-11",4,"Jervis Bay Territory",16.19
+"1435","2017-05-11",5,"New South Wales",15.06
+"1436","2017-05-11",6,"Northern Territory",20.28
+"1437","2017-05-11",7,"Queensland",20.62
+"1438","2017-05-11",8,"South Australia",15.87
+"1439","2017-05-11",9,"Tasmania",10.49
+"1440","2017-05-11",10,"Victoria",11.9
+"1441","2017-05-11",11,"Western Australia",18.42
+"1442","2017-05-12",1,"Ashmore and Cartier Islands",27.76
+"1443","2017-05-12",2,"Australian Capital Territory",9.53
+"1444","2017-05-12",3,"Coral Sea Islands",24.4
+"1445","2017-05-12",4,"Jervis Bay Territory",15.45
+"1446","2017-05-12",5,"New South Wales",15.06
+"1447","2017-05-12",6,"Northern Territory",21.54
+"1448","2017-05-12",7,"Queensland",20.83
+"1449","2017-05-12",8,"South Australia",16.56
+"1450","2017-05-12",9,"Tasmania",8.86
+"1451","2017-05-12",10,"Victoria",12.53
+"1452","2017-05-12",11,"Western Australia",17.57
+"1453","2017-05-13",1,"Ashmore and Cartier Islands",27.32
+"1454","2017-05-13",2,"Australian Capital Territory",10.37
+"1455","2017-05-13",3,"Coral Sea Islands",24.4
+"1456","2017-05-13",4,"Jervis Bay Territory",17.23
+"1457","2017-05-13",5,"New South Wales",16.49
+"1458","2017-05-13",6,"Northern Territory",22.47
+"1459","2017-05-13",7,"Queensland",21.76
+"1460","2017-05-13",8,"South Australia",17.57
+"1461","2017-05-13",9,"Tasmania",10.39
+"1462","2017-05-13",10,"Victoria",12.07
+"1463","2017-05-13",11,"Western Australia",16.77
+"1464","2017-05-14",1,"Ashmore and Cartier Islands",27.57
+"1465","2017-05-14",2,"Australian Capital Territory",9.76
+"1466","2017-05-14",3,"Coral Sea Islands",24.81
+"1467","2017-05-14",4,"Jervis Bay Territory",15.78
+"1468","2017-05-14",5,"New South Wales",15.8
+"1469","2017-05-14",6,"Northern Territory",22.37
+"1470","2017-05-14",7,"Queensland",22.12
+"1471","2017-05-14",8,"South Australia",17.13
+"1472","2017-05-14",9,"Tasmania",8.89
+"1473","2017-05-14",10,"Victoria",11.63
+"1474","2017-05-14",11,"Western Australia",18.14
+"1475","2017-05-15",1,"Ashmore and Cartier Islands",27.75
+"1476","2017-05-15",2,"Australian Capital Territory",9.59
+"1477","2017-05-15",3,"Coral Sea Islands",24.51
+"1478","2017-05-15",4,"Jervis Bay Territory",16.46
+"1479","2017-05-15",5,"New South Wales",14.71
+"1480","2017-05-15",6,"Northern Territory",22.66
+"1481","2017-05-15",7,"Queensland",21.01
+"1482","2017-05-15",8,"South Australia",17.16
+"1483","2017-05-15",9,"Tasmania",8.87
+"1484","2017-05-15",10,"Victoria",11.69
+"1485","2017-05-15",11,"Western Australia",19.35
+"1486","2017-05-16",1,"Ashmore and Cartier Islands",27.43
+"1487","2017-05-16",2,"Australian Capital Territory",9.1
+"1488","2017-05-16",3,"Coral Sea Islands",24.51
+"1489","2017-05-16",4,"Jervis Bay Territory",15.79
+"1490","2017-05-16",5,"New South Wales",14.46
+"1491","2017-05-16",6,"Northern Territory",23.47
+"1492","2017-05-16",7,"Queensland",21.31
+"1493","2017-05-16",8,"South Australia",19.45
+"1494","2017-05-16",9,"Tasmania",9.18
+"1495","2017-05-16",10,"Victoria",11.61
+"1496","2017-05-16",11,"Western Australia",18.12
+"1497","2017-05-17",1,"Ashmore and Cartier Islands",27.09
+"1498","2017-05-17",2,"Australian Capital Territory",8.56
+"1499","2017-05-17",3,"Coral Sea Islands",24.6
+"1500","2017-05-17",4,"Jervis Bay Territory",15.4
+"1501","2017-05-17",5,"New South Wales",15.92
+"1502","2017-05-17",6,"Northern Territory",23.63
+"1503","2017-05-17",7,"Queensland",22.49
+"1504","2017-05-17",8,"South Australia",17.29
+"1505","2017-05-17",9,"Tasmania",8.39
+"1506","2017-05-17",10,"Victoria",12.16
+"1507","2017-05-17",11,"Western Australia",16.66
+"1508","2017-05-18",1,"Ashmore and Cartier Islands",26.77
+"1509","2017-05-18",2,"Australian Capital Territory",10.88
+"1510","2017-05-18",3,"Coral Sea Islands",24.93
+"1511","2017-05-18",4,"Jervis Bay Territory",17.51
+"1512","2017-05-18",5,"New South Wales",16.94
+"1513","2017-05-18",6,"Northern Territory",22.2
+"1514","2017-05-18",7,"Queensland",21.91
+"1515","2017-05-18",8,"South Australia",15.44
+"1516","2017-05-18",9,"Tasmania",11.43
+"1517","2017-05-18",10,"Victoria",14.24
+"1518","2017-05-18",11,"Western Australia",15.96
+"1519","2017-05-19",1,"Ashmore and Cartier Islands",27.39
+"1520","2017-05-19",2,"Australian Capital Territory",10.07
+"1521","2017-05-19",3,"Coral Sea Islands",25.12
+"1522","2017-05-19",4,"Jervis Bay Territory",18.94
+"1523","2017-05-19",5,"New South Wales",15.19
+"1524","2017-05-19",6,"Northern Territory",21.18
+"1525","2017-05-19",7,"Queensland",20.21
+"1526","2017-05-19",8,"South Australia",14.9
+"1527","2017-05-19",9,"Tasmania",11.05
+"1528","2017-05-19",10,"Victoria",13.35
+"1529","2017-05-19",11,"Western Australia",16.49
+"1530","2017-05-20",1,"Ashmore and Cartier Islands",26.98
+"1531","2017-05-20",2,"Australian Capital Territory",11.5
+"1532","2017-05-20",3,"Coral Sea Islands",24.78
+"1533","2017-05-20",4,"Jervis Bay Territory",17.66
+"1534","2017-05-20",5,"New South Wales",15.83
+"1535","2017-05-20",6,"Northern Territory",21.73
+"1536","2017-05-20",7,"Queensland",20.73
+"1537","2017-05-20",8,"South Australia",16.26
+"1538","2017-05-20",9,"Tasmania",11.92
+"1539","2017-05-20",10,"Victoria",13.31
+"1540","2017-05-20",11,"Western Australia",16.66
+"1541","2017-05-21",1,"Ashmore and Cartier Islands",27.29
+"1542","2017-05-21",2,"Australian Capital Territory",9.75
+"1543","2017-05-21",3,"Coral Sea Islands",24.74
+"1544","2017-05-21",4,"Jervis Bay Territory",17.66
+"1545","2017-05-21",5,"New South Wales",16.11
+"1546","2017-05-21",6,"Northern Territory",23.06
+"1547","2017-05-21",7,"Queensland",21.76
+"1548","2017-05-21",8,"South Australia",17.73
+"1549","2017-05-21",9,"Tasmania",11.43
+"1550","2017-05-21",10,"Victoria",13.97
+"1551","2017-05-21",11,"Western Australia",17.51
+"1552","2017-05-22",1,"Ashmore and Cartier Islands",27.51
+"1553","2017-05-22",2,"Australian Capital Territory",10.24
+"1554","2017-05-22",3,"Coral Sea Islands",24.99
+"1555","2017-05-22",4,"Jervis Bay Territory",14.74
+"1556","2017-05-22",5,"New South Wales",16.4
+"1557","2017-05-22",6,"Northern Territory",24.66
+"1558","2017-05-22",7,"Queensland",22.62
+"1559","2017-05-22",8,"South Australia",18.83
+"1560","2017-05-22",9,"Tasmania",13.11
+"1561","2017-05-22",10,"Victoria",14.75
+"1562","2017-05-22",11,"Western Australia",16.25
+"1563","2017-05-23",1,"Ashmore and Cartier Islands",27.82
+"1564","2017-05-23",2,"Australian Capital Territory",11.07
+"1565","2017-05-23",3,"Coral Sea Islands",24.78
+"1566","2017-05-23",4,"Jervis Bay Territory",17.48
+"1567","2017-05-23",5,"New South Wales",17.08
+"1568","2017-05-23",6,"Northern Territory",24.58
+"1569","2017-05-23",7,"Queensland",23.27
+"1570","2017-05-23",8,"South Australia",16.34
+"1571","2017-05-23",9,"Tasmania",13.07
+"1572","2017-05-23",10,"Victoria",13.84
+"1573","2017-05-23",11,"Western Australia",15.83
+"1574","2017-05-24",1,"Ashmore and Cartier Islands",28.11
+"1575","2017-05-24",2,"Australian Capital Territory",10.45
+"1576","2017-05-24",3,"Coral Sea Islands",24.49
+"1577","2017-05-24",4,"Jervis Bay Territory",17.1
+"1578","2017-05-24",5,"New South Wales",16.01
+"1579","2017-05-24",6,"Northern Territory",23.22
+"1580","2017-05-24",7,"Queensland",22.3
+"1581","2017-05-24",8,"South Australia",15.34
+"1582","2017-05-24",9,"Tasmania",10.47
+"1583","2017-05-24",10,"Victoria",12.96
+"1584","2017-05-24",11,"Western Australia",17.35
+"1585","2017-05-25",1,"Ashmore and Cartier Islands",28.05
+"1586","2017-05-25",2,"Australian Capital Territory",6.83
+"1587","2017-05-25",3,"Coral Sea Islands",23.94
+"1588","2017-05-25",4,"Jervis Bay Territory",15.19
+"1589","2017-05-25",5,"New South Wales",13.67
+"1590","2017-05-25",6,"Northern Territory",22.53
+"1591","2017-05-25",7,"Queensland",20.8
+"1592","2017-05-25",8,"South Australia",16.07
+"1593","2017-05-25",9,"Tasmania",10.36
+"1594","2017-05-25",10,"Victoria",12.68
+"1595","2017-05-25",11,"Western Australia",17.63
+"1596","2017-05-26",1,"Ashmore and Cartier Islands",27.96
+"1597","2017-05-26",2,"Australian Capital Territory",9.03
+"1598","2017-05-26",3,"Coral Sea Islands",24.21
+"1599","2017-05-26",4,"Jervis Bay Territory",15.8
+"1600","2017-05-26",5,"New South Wales",13.6
+"1601","2017-05-26",6,"Northern Territory",22.1
+"1602","2017-05-26",7,"Queensland",19.7
+"1603","2017-05-26",8,"South Australia",15.95
+"1604","2017-05-26",9,"Tasmania",9.33
+"1605","2017-05-26",10,"Victoria",12.34
+"1606","2017-05-26",11,"Western Australia",17.67
+"1607","2017-05-27",1,"Ashmore and Cartier Islands",28.07
+"1608","2017-05-27",2,"Australian Capital Territory",8.02
+"1609","2017-05-27",3,"Coral Sea Islands",24.23
+"1610","2017-05-27",4,"Jervis Bay Territory",15.9
+"1611","2017-05-27",5,"New South Wales",14.69
+"1612","2017-05-27",6,"Northern Territory",22.82
+"1613","2017-05-27",7,"Queensland",20.64
+"1614","2017-05-27",8,"South Australia",16.74
+"1615","2017-05-27",9,"Tasmania",11.42
+"1616","2017-05-27",10,"Victoria",13.48
+"1617","2017-05-27",11,"Western Australia",17.29
+"1618","2017-05-28",1,"Ashmore and Cartier Islands",28.29
+"1619","2017-05-28",2,"Australian Capital Territory",9.37
+"1620","2017-05-28",3,"Coral Sea Islands",24.01
+"1621","2017-05-28",4,"Jervis Bay Territory",17.13
+"1622","2017-05-28",5,"New South Wales",14.93
+"1623","2017-05-28",6,"Northern Territory",21.94
+"1624","2017-05-28",7,"Queensland",20.97
+"1625","2017-05-28",8,"South Australia",13.67
+"1626","2017-05-28",9,"Tasmania",9.09
+"1627","2017-05-28",10,"Victoria",10.38
+"1628","2017-05-28",11,"Western Australia",16.31
+"1629","2017-05-29",1,"Ashmore and Cartier Islands",28.44
+"1630","2017-05-29",2,"Australian Capital Territory",5.22
+"1631","2017-05-29",3,"Coral Sea Islands",24.4
+"1632","2017-05-29",4,"Jervis Bay Territory",13
+"1633","2017-05-29",5,"New South Wales",11.13
+"1634","2017-05-29",6,"Northern Territory",20.76
+"1635","2017-05-29",7,"Queensland",18.96
+"1636","2017-05-29",8,"South Australia",13.46
+"1637","2017-05-29",9,"Tasmania",7.29
+"1638","2017-05-29",10,"Victoria",8.75
+"1639","2017-05-29",11,"Western Australia",15.71
+"1640","2017-05-30",1,"Ashmore and Cartier Islands",28.26
+"1641","2017-05-30",2,"Australian Capital Territory",5.45
+"1642","2017-05-30",3,"Coral Sea Islands",24.8
+"1643","2017-05-30",4,"Jervis Bay Territory",13
+"1644","2017-05-30",5,"New South Wales",11.01
+"1645","2017-05-30",6,"Northern Territory",18.96
+"1646","2017-05-30",7,"Queensland",18.16
+"1647","2017-05-30",8,"South Australia",13.4
+"1648","2017-05-30",9,"Tasmania",7.27
+"1649","2017-05-30",10,"Victoria",9.69
+"1650","2017-05-30",11,"Western Australia",15.99
+"1651","2017-05-31",1,"Ashmore and Cartier Islands",28.69
+"1652","2017-05-31",2,"Australian Capital Territory",5.07
+"1653","2017-05-31",3,"Coral Sea Islands",24.65
+"1654","2017-05-31",4,"Jervis Bay Territory",12.43
+"1655","2017-05-31",5,"New South Wales",9.44
+"1656","2017-05-31",6,"Northern Territory",18.06
+"1657","2017-05-31",7,"Queensland",17.55
+"1658","2017-05-31",8,"South Australia",11.87
+"1659","2017-05-31",9,"Tasmania",6.84
+"1660","2017-05-31",10,"Victoria",7.85
+"1661","2017-05-31",11,"Western Australia",16.98
+"1662","2017-06-01",1,"Ashmore and Cartier Islands",27.63
+"1663","2017-06-01",2,"Australian Capital Territory",4.89
+"1664","2017-06-01",3,"Coral Sea Islands",23.43
+"1665","2017-06-01",4,"Jervis Bay Territory",13.98
+"1666","2017-06-01",5,"New South Wales",9.27
+"1667","2017-06-01",6,"Northern Territory",16.28
+"1668","2017-06-01",7,"Queensland",15.47
+"1669","2017-06-01",8,"South Australia",10.86
+"1670","2017-06-01",9,"Tasmania",9.02
+"1671","2017-06-01",10,"Victoria",8.91
+"1672","2017-06-01",11,"Western Australia",17.05
+"1673","2017-06-02",1,"Ashmore and Cartier Islands",27.79
+"1674","2017-06-02",2,"Australian Capital Territory",5.95
+"1675","2017-06-02",3,"Coral Sea Islands",23.5
+"1676","2017-06-02",4,"Jervis Bay Territory",14.57
+"1677","2017-06-02",5,"New South Wales",9.64
+"1678","2017-06-02",6,"Northern Territory",15.88
+"1679","2017-06-02",7,"Queensland",15.98
+"1680","2017-06-02",8,"South Australia",10.55
+"1681","2017-06-02",9,"Tasmania",10
+"1682","2017-06-02",10,"Victoria",8.75
+"1683","2017-06-02",11,"Western Australia",15.71
+"1684","2017-06-03",1,"Ashmore and Cartier Islands",27.94
+"1685","2017-06-03",2,"Australian Capital Territory",6.1
+"1686","2017-06-03",3,"Coral Sea Islands",23.32
+"1687","2017-06-03",4,"Jervis Bay Territory",15.2
+"1688","2017-06-03",5,"New South Wales",10.38
+"1689","2017-06-03",6,"Northern Territory",16.92
+"1690","2017-06-03",7,"Queensland",17.07
+"1691","2017-06-03",8,"South Australia",10.99
+"1692","2017-06-03",9,"Tasmania",10.23
+"1693","2017-06-03",10,"Victoria",9.18
+"1694","2017-06-03",11,"Western Australia",14.48
+"1695","2017-06-04",1,"Ashmore and Cartier Islands",27.71
+"1696","2017-06-04",2,"Australian Capital Territory",5.42
+"1697","2017-06-04",3,"Coral Sea Islands",23.17
+"1698","2017-06-04",4,"Jervis Bay Territory",14.63
+"1699","2017-06-04",5,"New South Wales",10.98
+"1700","2017-06-04",6,"Northern Territory",18.86
+"1701","2017-06-04",7,"Queensland",17.11
+"1702","2017-06-04",8,"South Australia",10.88
+"1703","2017-06-04",9,"Tasmania",9.3
+"1704","2017-06-04",10,"Victoria",8.19
+"1705","2017-06-04",11,"Western Australia",14.53
+"1706","2017-06-05",1,"Ashmore and Cartier Islands",27.44
+"1707","2017-06-05",2,"Australian Capital Territory",4.57
+"1708","2017-06-05",3,"Coral Sea Islands",23.14
+"1709","2017-06-05",4,"Jervis Bay Territory",14.13
+"1710","2017-06-05",5,"New South Wales",10.05
+"1711","2017-06-05",6,"Northern Territory",17.96
+"1712","2017-06-05",7,"Queensland",17.06
+"1713","2017-06-05",8,"South Australia",11.59
+"1714","2017-06-05",9,"Tasmania",10.09
+"1715","2017-06-05",10,"Victoria",9.68
+"1716","2017-06-05",11,"Western Australia",14.54
+"1717","2017-06-06",1,"Ashmore and Cartier Islands",27.25
+"1718","2017-06-06",2,"Australian Capital Territory",6.37
+"1719","2017-06-06",3,"Coral Sea Islands",22.92
+"1720","2017-06-06",4,"Jervis Bay Territory",13.45
+"1721","2017-06-06",5,"New South Wales",10.82
+"1722","2017-06-06",6,"Northern Territory",16.71
+"1723","2017-06-06",7,"Queensland",16.56
+"1724","2017-06-06",8,"South Australia",11.63
+"1725","2017-06-06",9,"Tasmania",7.3
+"1726","2017-06-06",10,"Victoria",9.67
+"1727","2017-06-06",11,"Western Australia",14.19
+"1728","2017-06-07",1,"Ashmore and Cartier Islands",27.68
+"1729","2017-06-07",2,"Australian Capital Territory",6.25
+"1730","2017-06-07",3,"Coral Sea Islands",22.47
+"1731","2017-06-07",4,"Jervis Bay Territory",14.36
+"1732","2017-06-07",5,"New South Wales",9.19
+"1733","2017-06-07",6,"Northern Territory",16.45
+"1734","2017-06-07",7,"Queensland",15.2
+"1735","2017-06-07",8,"South Australia",11.45
+"1736","2017-06-07",9,"Tasmania",6.53
+"1737","2017-06-07",10,"Victoria",9.08
+"1738","2017-06-07",11,"Western Australia",13.46
+"1739","2017-06-08",1,"Ashmore and Cartier Islands",26.74
+"1740","2017-06-08",2,"Australian Capital Territory",9.72
+"1741","2017-06-08",3,"Coral Sea Islands",21.25
+"1742","2017-06-08",4,"Jervis Bay Territory",15.12
+"1743","2017-06-08",5,"New South Wales",10.62
+"1744","2017-06-08",6,"Northern Territory",15.22
+"1745","2017-06-08",7,"Queensland",14.16
+"1746","2017-06-08",8,"South Australia",10.96
+"1747","2017-06-08",9,"Tasmania",8.1
+"1748","2017-06-08",10,"Victoria",7.98
+"1749","2017-06-08",11,"Western Australia",13.63
+"1750","2017-06-09",1,"Ashmore and Cartier Islands",26.77
+"1751","2017-06-09",2,"Australian Capital Territory",6.75
+"1752","2017-06-09",3,"Coral Sea Islands",22.04
+"1753","2017-06-09",4,"Jervis Bay Territory",14.77
+"1754","2017-06-09",5,"New South Wales",11.07
+"1755","2017-06-09",6,"Northern Territory",14.82
+"1756","2017-06-09",7,"Queensland",15.15
+"1757","2017-06-09",8,"South Australia",11.15
+"1758","2017-06-09",9,"Tasmania",8.58
+"1759","2017-06-09",10,"Victoria",9.76
+"1760","2017-06-09",11,"Western Australia",13.03
+"1761","2017-06-10",1,"Ashmore and Cartier Islands",26.49
+"1762","2017-06-10",2,"Australian Capital Territory",8.45
+"1763","2017-06-10",3,"Coral Sea Islands",22.82
+"1764","2017-06-10",4,"Jervis Bay Territory",15.45
+"1765","2017-06-10",5,"New South Wales",12.28
+"1766","2017-06-10",6,"Northern Territory",14.64
+"1767","2017-06-10",7,"Queensland",15.06
+"1768","2017-06-10",8,"South Australia",11.02
+"1769","2017-06-10",9,"Tasmania",8.22
+"1770","2017-06-10",10,"Victoria",9.14
+"1771","2017-06-10",11,"Western Australia",12.66
+"1772","2017-06-11",1,"Ashmore and Cartier Islands",26.65
+"1773","2017-06-11",2,"Australian Capital Territory",8.06
+"1774","2017-06-11",3,"Coral Sea Islands",23.96
+"1775","2017-06-11",4,"Jervis Bay Territory",14.43
+"1776","2017-06-11",5,"New South Wales",13.45
+"1777","2017-06-11",6,"Northern Territory",14.54
+"1778","2017-06-11",7,"Queensland",15.29
+"1779","2017-06-11",8,"South Australia",11
+"1780","2017-06-11",9,"Tasmania",10.31
+"1781","2017-06-11",10,"Victoria",8.89
+"1782","2017-06-11",11,"Western Australia",12.81
+"1783","2017-06-12",1,"Ashmore and Cartier Islands",26.45
+"1784","2017-06-12",2,"Australian Capital Territory",7.25
+"1785","2017-06-12",3,"Coral Sea Islands",23.22
+"1786","2017-06-12",4,"Jervis Bay Territory",15.57
+"1787","2017-06-12",5,"New South Wales",12.57
+"1788","2017-06-12",6,"Northern Territory",15.33
+"1789","2017-06-12",7,"Queensland",16.07
+"1790","2017-06-12",8,"South Australia",11.9
+"1791","2017-06-12",9,"Tasmania",9.79
+"1792","2017-06-12",10,"Victoria",9.69
+"1793","2017-06-12",11,"Western Australia",13.48
+"1794","2017-06-13",1,"Ashmore and Cartier Islands",26.06
+"1795","2017-06-13",2,"Australian Capital Territory",7.01
+"1796","2017-06-13",3,"Coral Sea Islands",22.91
+"1797","2017-06-13",4,"Jervis Bay Territory",15.2
+"1798","2017-06-13",5,"New South Wales",11.92
+"1799","2017-06-13",6,"Northern Territory",16.16
+"1800","2017-06-13",7,"Queensland",16.55
+"1801","2017-06-13",8,"South Australia",12.16
+"1802","2017-06-13",9,"Tasmania",9.29
+"1803","2017-06-13",10,"Victoria",9.78
+"1804","2017-06-13",11,"Western Australia",14.37
+"1805","2017-06-14",1,"Ashmore and Cartier Islands",26.14
+"1806","2017-06-14",2,"Australian Capital Territory",6.6
+"1807","2017-06-14",3,"Coral Sea Islands",22.85
+"1808","2017-06-14",4,"Jervis Bay Territory",14.66
+"1809","2017-06-14",5,"New South Wales",13.24
+"1810","2017-06-14",6,"Northern Territory",16.86
+"1811","2017-06-14",7,"Queensland",17.47
+"1812","2017-06-14",8,"South Australia",12.49
+"1813","2017-06-14",9,"Tasmania",9.83
+"1814","2017-06-14",10,"Victoria",9.84
+"1815","2017-06-14",11,"Western Australia",16.1
+"1816","2017-06-15",1,"Ashmore and Cartier Islands",26.08
+"1817","2017-06-15",2,"Australian Capital Territory",4.7
+"1818","2017-06-15",3,"Coral Sea Islands",22.97
+"1819","2017-06-15",4,"Jervis Bay Territory",14.37
+"1820","2017-06-15",5,"New South Wales",12.98
+"1821","2017-06-15",6,"Northern Territory",17.73
+"1822","2017-06-15",7,"Queensland",18.81
+"1823","2017-06-15",8,"South Australia",13.77
+"1824","2017-06-15",9,"Tasmania",11.31
+"1825","2017-06-15",10,"Victoria",10.17
+"1826","2017-06-15",11,"Western Australia",16.47
+"1827","2017-06-16",1,"Ashmore and Cartier Islands",26.34
+"1828","2017-06-16",2,"Australian Capital Territory",5.28
+"1829","2017-06-16",3,"Coral Sea Islands",23.73
+"1830","2017-06-16",4,"Jervis Bay Territory",15.49
+"1831","2017-06-16",5,"New South Wales",12.13
+"1832","2017-06-16",6,"Northern Territory",18.64
+"1833","2017-06-16",7,"Queensland",19.75
+"1834","2017-06-16",8,"South Australia",14.8
+"1835","2017-06-16",9,"Tasmania",9.76
+"1836","2017-06-16",10,"Victoria",9.84
+"1837","2017-06-16",11,"Western Australia",15.28
+"1838","2017-06-17",1,"Ashmore and Cartier Islands",26.21
+"1839","2017-06-17",2,"Australian Capital Territory",7.51
+"1840","2017-06-17",3,"Coral Sea Islands",24.01
+"1841","2017-06-17",4,"Jervis Bay Territory",16
+"1842","2017-06-17",5,"New South Wales",13.2
+"1843","2017-06-17",6,"Northern Territory",19.51
+"1844","2017-06-17",7,"Queensland",20.08
+"1845","2017-06-17",8,"South Australia",13.18
+"1846","2017-06-17",9,"Tasmania",9.38
+"1847","2017-06-17",10,"Victoria",9.5
+"1848","2017-06-17",11,"Western Australia",14.63
+"1849","2017-06-18",1,"Ashmore and Cartier Islands",27.12
+"1850","2017-06-18",2,"Australian Capital Territory",8
+"1851","2017-06-18",3,"Coral Sea Islands",23.72
+"1852","2017-06-18",4,"Jervis Bay Territory",15.08
+"1853","2017-06-18",5,"New South Wales",11.79
+"1854","2017-06-18",6,"Northern Territory",18.82
+"1855","2017-06-18",7,"Queensland",19.32
+"1856","2017-06-18",8,"South Australia",12.65
+"1857","2017-06-18",9,"Tasmania",9.16
+"1858","2017-06-18",10,"Victoria",9.91
+"1859","2017-06-18",11,"Western Australia",14.89
+"1860","2017-06-19",1,"Ashmore and Cartier Islands",27
+"1861","2017-06-19",2,"Australian Capital Territory",7.01
+"1862","2017-06-19",3,"Coral Sea Islands",23.28
+"1863","2017-06-19",4,"Jervis Bay Territory",15.42
+"1864","2017-06-19",5,"New South Wales",11.91
+"1865","2017-06-19",6,"Northern Territory",18.38
+"1866","2017-06-19",7,"Queensland",17.99
+"1867","2017-06-19",8,"South Australia",12.59
+"1868","2017-06-19",9,"Tasmania",9.96
+"1869","2017-06-19",10,"Victoria",10.28
+"1870","2017-06-19",11,"Western Australia",14.54
+"1871","2017-06-20",1,"Ashmore and Cartier Islands",26.98
+"1872","2017-06-20",2,"Australian Capital Territory",5.78
+"1873","2017-06-20",3,"Coral Sea Islands",23.24
+"1874","2017-06-20",4,"Jervis Bay Territory",13.94
+"1875","2017-06-20",5,"New South Wales",11.74
+"1876","2017-06-20",6,"Northern Territory",18.49
+"1877","2017-06-20",7,"Queensland",18.09
+"1878","2017-06-20",8,"South Australia",12.76
+"1879","2017-06-20",9,"Tasmania",11.49
+"1880","2017-06-20",10,"Victoria",9.45
+"1881","2017-06-20",11,"Western Australia",14.03
+"1882","2017-06-21",1,"Ashmore and Cartier Islands",26.46
+"1883","2017-06-21",2,"Australian Capital Territory",5.31
+"1884","2017-06-21",3,"Coral Sea Islands",23.31
+"1885","2017-06-21",4,"Jervis Bay Territory",15.95
+"1886","2017-06-21",5,"New South Wales",10.36
+"1887","2017-06-21",6,"Northern Territory",18.67
+"1888","2017-06-21",7,"Queensland",18.24
+"1889","2017-06-21",8,"South Australia",12.88
+"1890","2017-06-21",9,"Tasmania",6.93
+"1891","2017-06-21",10,"Victoria",9.05
+"1892","2017-06-21",11,"Western Australia",15.52
+"1893","2017-06-22",1,"Ashmore and Cartier Islands",26.69
+"1894","2017-06-22",2,"Australian Capital Territory",4.79
+"1895","2017-06-22",3,"Coral Sea Islands",22.9
+"1896","2017-06-22",4,"Jervis Bay Territory",14.29
+"1897","2017-06-22",5,"New South Wales",10.53
+"1898","2017-06-22",6,"Northern Territory",19.36
+"1899","2017-06-22",7,"Queensland",18.25
+"1900","2017-06-22",8,"South Australia",13.73
+"1901","2017-06-22",9,"Tasmania",4.94
+"1902","2017-06-22",10,"Victoria",8.97
+"1903","2017-06-22",11,"Western Australia",16.15
+"1904","2017-06-23",1,"Ashmore and Cartier Islands",26.37
+"1905","2017-06-23",2,"Australian Capital Territory",5.42
+"1906","2017-06-23",3,"Coral Sea Islands",22.69
+"1907","2017-06-23",4,"Jervis Bay Territory",13.32
+"1908","2017-06-23",5,"New South Wales",11.88
+"1909","2017-06-23",6,"Northern Territory",19.94
+"1910","2017-06-23",7,"Queensland",18.39
+"1911","2017-06-23",8,"South Australia",15.17
+"1912","2017-06-23",9,"Tasmania",10.52
+"1913","2017-06-23",10,"Victoria",8.17
+"1914","2017-06-23",11,"Western Australia",15.46
+"1915","2017-06-24",1,"Ashmore and Cartier Islands",26.57
+"1916","2017-06-24",2,"Australian Capital Territory",5.86
+"1917","2017-06-24",3,"Coral Sea Islands",22.93
+"1918","2017-06-24",4,"Jervis Bay Territory",14.16
+"1919","2017-06-24",5,"New South Wales",12.56
+"1920","2017-06-24",6,"Northern Territory",20.03
+"1921","2017-06-24",7,"Queensland",18.6
+"1922","2017-06-24",8,"South Australia",13.89
+"1923","2017-06-24",9,"Tasmania",5.35
+"1924","2017-06-24",10,"Victoria",8.13
+"1925","2017-06-24",11,"Western Australia",15.05
+"1926","2017-06-25",1,"Ashmore and Cartier Islands",26.33
+"1927","2017-06-25",2,"Australian Capital Territory",4.87
+"1928","2017-06-25",3,"Coral Sea Islands",23.11
+"1929","2017-06-25",4,"Jervis Bay Territory",11.66
+"1930","2017-06-25",5,"New South Wales",12.51
+"1931","2017-06-25",6,"Northern Territory",20.36
+"1932","2017-06-25",7,"Queensland",19.02
+"1933","2017-06-25",8,"South Australia",12.81
+"1934","2017-06-25",9,"Tasmania",7.92
+"1935","2017-06-25",10,"Victoria",8.98
+"1936","2017-06-25",11,"Western Australia",14.64
+"1937","2017-06-26",1,"Ashmore and Cartier Islands",25.45
+"1938","2017-06-26",2,"Australian Capital Territory",5.5
+"1939","2017-06-26",3,"Coral Sea Islands",23.38
+"1940","2017-06-26",4,"Jervis Bay Territory",12.9
+"1941","2017-06-26",5,"New South Wales",10.99
+"1942","2017-06-26",6,"Northern Territory",20
+"1943","2017-06-26",7,"Queensland",19.25
+"1944","2017-06-26",8,"South Australia",11.93
+"1945","2017-06-26",9,"Tasmania",6.69
+"1946","2017-06-26",10,"Victoria",7.92
+"1947","2017-06-26",11,"Western Australia",13.53
+"1948","2017-06-27",1,"Ashmore and Cartier Islands",25.9
+"1949","2017-06-27",2,"Australian Capital Territory",4
+"1950","2017-06-27",3,"Coral Sea Islands",23.36
+"1951","2017-06-27",4,"Jervis Bay Territory",13.34
+"1952","2017-06-27",5,"New South Wales",9.84
+"1953","2017-06-27",6,"Northern Territory",19.85
+"1954","2017-06-27",7,"Queensland",19.06
+"1955","2017-06-27",8,"South Australia",11.69
+"1956","2017-06-27",9,"Tasmania",5.66
+"1957","2017-06-27",10,"Victoria",8.38
+"1958","2017-06-27",11,"Western Australia",12.65
+"1959","2017-06-28",1,"Ashmore and Cartier Islands",25.88
+"1960","2017-06-28",2,"Australian Capital Territory",4.75
+"1961","2017-06-28",3,"Coral Sea Islands",23.86
+"1962","2017-06-28",4,"Jervis Bay Territory",14.16
+"1963","2017-06-28",5,"New South Wales",10.83
+"1964","2017-06-28",6,"Northern Territory",18.8
+"1965","2017-06-28",7,"Queensland",20.07
+"1966","2017-06-28",8,"South Australia",11.25
+"1967","2017-06-28",9,"Tasmania",6.21
+"1968","2017-06-28",10,"Victoria",8.92
+"1969","2017-06-28",11,"Western Australia",11.42
+"1970","2017-06-29",1,"Ashmore and Cartier Islands",26.11
+"1971","2017-06-29",2,"Australian Capital Territory",3.7
+"1972","2017-06-29",3,"Coral Sea Islands",23.58
+"1973","2017-06-29",4,"Jervis Bay Territory",12.91
+"1974","2017-06-29",5,"New South Wales",10.53
+"1975","2017-06-29",6,"Northern Territory",17.01
+"1976","2017-06-29",7,"Queensland",18.8
+"1977","2017-06-29",8,"South Australia",10.43
+"1978","2017-06-29",9,"Tasmania",6.72
+"1979","2017-06-29",10,"Victoria",8.48
+"1980","2017-06-29",11,"Western Australia",10.91
+"1981","2017-06-30",1,"Ashmore and Cartier Islands",26.93
+"1982","2017-06-30",2,"Australian Capital Territory",4.21
+"1983","2017-06-30",3,"Coral Sea Islands",23.82
+"1984","2017-06-30",4,"Jervis Bay Territory",11.7
+"1985","2017-06-30",5,"New South Wales",9.01
+"1986","2017-06-30",6,"Northern Territory",14.4
+"1987","2017-06-30",7,"Queensland",16
+"1988","2017-06-30",8,"South Australia",10.13
+"1989","2017-06-30",9,"Tasmania",5.02
+"1990","2017-06-30",10,"Victoria",7.35
+"1991","2017-06-30",11,"Western Australia",11.28
+"1992","2017-07-01",1,"Ashmore and Cartier Islands",26.13
+"1993","2017-07-01",2,"Australian Capital Territory",3.32
+"1994","2017-07-01",3,"Coral Sea Islands",23.18
+"1995","2017-07-01",4,"Jervis Bay Territory",12.37
+"1996","2017-07-01",5,"New South Wales",7.79
+"1997","2017-07-01",6,"Northern Territory",15.31
+"1998","2017-07-01",7,"Queensland",15.89
+"1999","2017-07-01",8,"South Australia",10.65
+"2000","2017-07-01",9,"Tasmania",4.62
+"2001","2017-07-01",10,"Victoria",6.37
+"2002","2017-07-01",11,"Western Australia",13.51
+"2003","2017-07-02",1,"Ashmore and Cartier Islands",25.89
+"2004","2017-07-02",2,"Australian Capital Territory",3.81
+"2005","2017-07-02",3,"Coral Sea Islands",23.05
+"2006","2017-07-02",4,"Jervis Bay Territory",11.9
+"2007","2017-07-02",5,"New South Wales",9.16
+"2008","2017-07-02",6,"Northern Territory",17.87
+"2009","2017-07-02",7,"Queensland",18.48
+"2010","2017-07-02",8,"South Australia",11.79
+"2011","2017-07-02",9,"Tasmania",6.18
+"2012","2017-07-02",10,"Victoria",6.24
+"2013","2017-07-02",11,"Western Australia",12.17
+"2014","2017-07-03",1,"Ashmore and Cartier Islands",25.95
+"2015","2017-07-03",2,"Australian Capital Territory",4.6
+"2016","2017-07-03",3,"Coral Sea Islands",22.97
+"2017","2017-07-03",4,"Jervis Bay Territory",12.4
+"2018","2017-07-03",5,"New South Wales",11.91
+"2019","2017-07-03",6,"Northern Territory",20.23
+"2020","2017-07-03",7,"Queensland",20.72
+"2021","2017-07-03",8,"South Australia",11.65
+"2022","2017-07-03",9,"Tasmania",4.74
+"2023","2017-07-03",10,"Victoria",8.62
+"2024","2017-07-03",11,"Western Australia",10.19
+"2025","2017-07-04",1,"Ashmore and Cartier Islands",26.66
+"2026","2017-07-04",2,"Australian Capital Territory",6.84
+"2027","2017-07-04",3,"Coral Sea Islands",23.16
+"2028","2017-07-04",4,"Jervis Bay Territory",13.6
+"2029","2017-07-04",5,"New South Wales",13.34
+"2030","2017-07-04",6,"Northern Territory",20.93
+"2031","2017-07-04",7,"Queensland",20.1
+"2032","2017-07-04",8,"South Australia",11.48
+"2033","2017-07-04",9,"Tasmania",6.46
+"2034","2017-07-04",10,"Victoria",10.76
+"2035","2017-07-04",11,"Western Australia",10.65
+"2036","2017-07-05",1,"Ashmore and Cartier Islands",26.96
+"2037","2017-07-05",2,"Australian Capital Territory",7.24
+"2038","2017-07-05",3,"Coral Sea Islands",22.91
+"2039","2017-07-05",4,"Jervis Bay Territory",14.17
+"2040","2017-07-05",5,"New South Wales",12
+"2041","2017-07-05",6,"Northern Territory",20.49
+"2042","2017-07-05",7,"Queensland",20.55
+"2043","2017-07-05",8,"South Australia",10.67
+"2044","2017-07-05",9,"Tasmania",8.16
+"2045","2017-07-05",10,"Victoria",9.87
+"2046","2017-07-05",11,"Western Australia",10.72
+"2047","2017-07-06",1,"Ashmore and Cartier Islands",25.7
+"2048","2017-07-06",2,"Australian Capital Territory",5.23
+"2049","2017-07-06",3,"Coral Sea Islands",23.24
+"2050","2017-07-06",4,"Jervis Bay Territory",12.63
+"2051","2017-07-06",5,"New South Wales",10.36
+"2052","2017-07-06",6,"Northern Territory",20.6
+"2053","2017-07-06",7,"Queensland",19.59
+"2054","2017-07-06",8,"South Australia",10.97
+"2055","2017-07-06",9,"Tasmania",8.63
+"2056","2017-07-06",10,"Victoria",7.87
+"2057","2017-07-06",11,"Western Australia",10.74
+"2058","2017-07-07",1,"Ashmore and Cartier Islands",26.84
+"2059","2017-07-07",2,"Australian Capital Territory",3.89
+"2060","2017-07-07",3,"Coral Sea Islands",23.13
+"2061","2017-07-07",4,"Jervis Bay Territory",12.65
+"2062","2017-07-07",5,"New South Wales",10.92
+"2063","2017-07-07",6,"Northern Territory",18.64
+"2064","2017-07-07",7,"Queensland",19.29
+"2065","2017-07-07",8,"South Australia",9.92
+"2066","2017-07-07",9,"Tasmania",5.61
+"2067","2017-07-07",10,"Victoria",7.84
+"2068","2017-07-07",11,"Western Australia",9.9
+"2069","2017-07-08",1,"Ashmore and Cartier Islands",26.6
+"2070","2017-07-08",2,"Australian Capital Territory",5.15
+"2071","2017-07-08",3,"Coral Sea Islands",23.49
+"2072","2017-07-08",4,"Jervis Bay Territory",12.6
+"2073","2017-07-08",5,"New South Wales",10.43
+"2074","2017-07-08",6,"Northern Territory",18.06
+"2075","2017-07-08",7,"Queensland",16.82
+"2076","2017-07-08",8,"South Australia",9.8
+"2077","2017-07-08",9,"Tasmania",5.56
+"2078","2017-07-08",10,"Victoria",8.92
+"2079","2017-07-08",11,"Western Australia",10.37
+"2080","2017-07-09",1,"Ashmore and Cartier Islands",26.39
+"2081","2017-07-09",2,"Australian Capital Territory",5.52
+"2082","2017-07-09",3,"Coral Sea Islands",23.74
+"2083","2017-07-09",4,"Jervis Bay Territory",12.86
+"2084","2017-07-09",5,"New South Wales",10.62
+"2085","2017-07-09",6,"Northern Territory",17.75
+"2086","2017-07-09",7,"Queensland",17.57
+"2087","2017-07-09",8,"South Australia",10.42
+"2088","2017-07-09",9,"Tasmania",5.29
+"2089","2017-07-09",10,"Victoria",8.88
+"2090","2017-07-09",11,"Western Australia",10.27
+"2091","2017-07-10",1,"Ashmore and Cartier Islands",26.2
+"2092","2017-07-10",2,"Australian Capital Territory",4.46
+"2093","2017-07-10",3,"Coral Sea Islands",23.76
+"2094","2017-07-10",4,"Jervis Bay Territory",12.72
+"2095","2017-07-10",5,"New South Wales",9.77
+"2096","2017-07-10",6,"Northern Territory",17.09
+"2097","2017-07-10",7,"Queensland",17.3
+"2098","2017-07-10",8,"South Australia",10.93
+"2099","2017-07-10",9,"Tasmania",7.73
+"2100","2017-07-10",10,"Victoria",9.1
+"2101","2017-07-10",11,"Western Australia",10.64
+"2102","2017-07-11",1,"Ashmore and Cartier Islands",26.67
+"2103","2017-07-11",2,"Australian Capital Territory",4.01
+"2104","2017-07-11",3,"Coral Sea Islands",23.41
+"2105","2017-07-11",4,"Jervis Bay Territory",14.12
+"2106","2017-07-11",5,"New South Wales",9.95
+"2107","2017-07-11",6,"Northern Territory",18.68
+"2108","2017-07-11",7,"Queensland",17.73
+"2109","2017-07-11",8,"South Australia",11.63
+"2110","2017-07-11",9,"Tasmania",5.17
+"2111","2017-07-11",10,"Victoria",8.49
+"2112","2017-07-11",11,"Western Australia",13.85
+"2113","2017-07-12",1,"Ashmore and Cartier Islands",26.87
+"2114","2017-07-12",2,"Australian Capital Territory",3.37
+"2115","2017-07-12",3,"Coral Sea Islands",22.58
+"2116","2017-07-12",4,"Jervis Bay Territory",13.24
+"2117","2017-07-12",5,"New South Wales",9.88
+"2118","2017-07-12",6,"Northern Territory",19.59
+"2119","2017-07-12",7,"Queensland",17.61
+"2120","2017-07-12",8,"South Australia",13.38
+"2121","2017-07-12",9,"Tasmania",4.93
+"2122","2017-07-12",10,"Victoria",7.97
+"2123","2017-07-12",11,"Western Australia",15.56
+"2124","2017-07-13",1,"Ashmore and Cartier Islands",27.08
+"2125","2017-07-13",2,"Australian Capital Territory",4.23
+"2126","2017-07-13",3,"Coral Sea Islands",22.74
+"2127","2017-07-13",4,"Jervis Bay Territory",12.32
+"2128","2017-07-13",5,"New South Wales",10.98
+"2129","2017-07-13",6,"Northern Territory",20.4
+"2130","2017-07-13",7,"Queensland",18.08
+"2131","2017-07-13",8,"South Australia",14.51
+"2132","2017-07-13",9,"Tasmania",7.25
+"2133","2017-07-13",10,"Victoria",8.64
+"2134","2017-07-13",11,"Western Australia",15.6
+"2135","2017-07-14",1,"Ashmore and Cartier Islands",27
+"2136","2017-07-14",2,"Australian Capital Territory",7.62
+"2137","2017-07-14",3,"Coral Sea Islands",22.5
+"2138","2017-07-14",4,"Jervis Bay Territory",14.27
+"2139","2017-07-14",5,"New South Wales",12.38
+"2140","2017-07-14",6,"Northern Territory",20.34
+"2141","2017-07-14",7,"Queensland",18.89
+"2142","2017-07-14",8,"South Australia",13.43
+"2143","2017-07-14",9,"Tasmania",7.59
+"2144","2017-07-14",10,"Victoria",10.59
+"2145","2017-07-14",11,"Western Australia",14.64
+"2146","2017-07-15",1,"Ashmore and Cartier Islands",26.39
+"2147","2017-07-15",2,"Australian Capital Territory",5.47
+"2148","2017-07-15",3,"Coral Sea Islands",23.03
+"2149","2017-07-15",4,"Jervis Bay Territory",13.93
+"2150","2017-07-15",5,"New South Wales",10.99
+"2151","2017-07-15",6,"Northern Territory",18.5
+"2152","2017-07-15",7,"Queensland",18.51
+"2153","2017-07-15",8,"South Australia",11.35
+"2154","2017-07-15",9,"Tasmania",5.53
+"2155","2017-07-15",10,"Victoria",7.33
+"2156","2017-07-15",11,"Western Australia",13.45
+"2157","2017-07-16",1,"Ashmore and Cartier Islands",26.33
+"2158","2017-07-16",2,"Australian Capital Territory",2.46
+"2159","2017-07-16",3,"Coral Sea Islands",22.92
+"2160","2017-07-16",4,"Jervis Bay Territory",12.11
+"2161","2017-07-16",5,"New South Wales",9.8
+"2162","2017-07-16",6,"Northern Territory",18.51
+"2163","2017-07-16",7,"Queensland",17.3
+"2164","2017-07-16",8,"South Australia",12.71
+"2165","2017-07-16",9,"Tasmania",6.68
+"2166","2017-07-16",10,"Victoria",6.64
+"2167","2017-07-16",11,"Western Australia",14.96
+"2168","2017-07-17",1,"Ashmore and Cartier Islands",26.27
+"2169","2017-07-17",2,"Australian Capital Territory",4.38
+"2170","2017-07-17",3,"Coral Sea Islands",23.05
+"2171","2017-07-17",4,"Jervis Bay Territory",13.3
+"2172","2017-07-17",5,"New South Wales",12.61
+"2173","2017-07-17",6,"Northern Territory",19.82
+"2174","2017-07-17",7,"Queensland",19.02
+"2175","2017-07-17",8,"South Australia",14.24
+"2176","2017-07-17",9,"Tasmania",8.39
+"2177","2017-07-17",10,"Victoria",10.04
+"2178","2017-07-17",11,"Western Australia",14.21
+"2179","2017-07-18",1,"Ashmore and Cartier Islands",26.43
+"2180","2017-07-18",2,"Australian Capital Territory",6.83
+"2181","2017-07-18",3,"Coral Sea Islands",23.34
+"2182","2017-07-18",4,"Jervis Bay Territory",15.12
+"2183","2017-07-18",5,"New South Wales",13.43
+"2184","2017-07-18",6,"Northern Territory",19.56
+"2185","2017-07-18",7,"Queensland",19.53
+"2186","2017-07-18",8,"South Australia",11.76
+"2187","2017-07-18",9,"Tasmania",7.71
+"2188","2017-07-18",10,"Victoria",9.59
+"2189","2017-07-18",11,"Western Australia",13.95
+"2190","2017-07-19",1,"Ashmore and Cartier Islands",26.2
+"2191","2017-07-19",2,"Australian Capital Territory",5.63
+"2192","2017-07-19",3,"Coral Sea Islands",23.23
+"2193","2017-07-19",4,"Jervis Bay Territory",13.11
+"2194","2017-07-19",5,"New South Wales",10.81
+"2195","2017-07-19",6,"Northern Territory",17.86
+"2196","2017-07-19",7,"Queensland",17.22
+"2197","2017-07-19",8,"South Australia",10.79
+"2198","2017-07-19",9,"Tasmania",8.15
+"2199","2017-07-19",10,"Victoria",9.92
+"2200","2017-07-19",11,"Western Australia",14.65
+"2201","2017-07-20",1,"Ashmore and Cartier Islands",26.32
+"2202","2017-07-20",2,"Australian Capital Territory",4.42
+"2203","2017-07-20",3,"Coral Sea Islands",21.84
+"2204","2017-07-20",4,"Jervis Bay Territory",12.45
+"2205","2017-07-20",5,"New South Wales",9.64
+"2206","2017-07-20",6,"Northern Territory",16.28
+"2207","2017-07-20",7,"Queensland",15.28
+"2208","2017-07-20",8,"South Australia",10.64
+"2209","2017-07-20",9,"Tasmania",5.12
+"2210","2017-07-20",10,"Victoria",7.82
+"2211","2017-07-20",11,"Western Australia",14.58
+"2212","2017-07-21",1,"Ashmore and Cartier Islands",26.28
+"2213","2017-07-21",2,"Australian Capital Territory",4.09
+"2214","2017-07-21",3,"Coral Sea Islands",21.36
+"2215","2017-07-21",4,"Jervis Bay Territory",12.71
+"2216","2017-07-21",5,"New South Wales",8.75
+"2217","2017-07-21",6,"Northern Territory",16.79
+"2218","2017-07-21",7,"Queensland",15.49
+"2219","2017-07-21",8,"South Australia",12.41
+"2220","2017-07-21",9,"Tasmania",5.64
+"2221","2017-07-21",10,"Victoria",7
+"2222","2017-07-21",11,"Western Australia",14.88
+"2223","2017-07-22",1,"Ashmore and Cartier Islands",26.42
+"2224","2017-07-22",2,"Australian Capital Territory",4.56
+"2225","2017-07-22",3,"Coral Sea Islands",21.94
+"2226","2017-07-22",4,"Jervis Bay Territory",11.56
+"2227","2017-07-22",5,"New South Wales",10.39
+"2228","2017-07-22",6,"Northern Territory",17.85
+"2229","2017-07-22",7,"Queensland",16.03
+"2230","2017-07-22",8,"South Australia",14.78
+"2231","2017-07-22",9,"Tasmania",8
+"2232","2017-07-22",10,"Victoria",8.21
+"2233","2017-07-22",11,"Western Australia",14.96
+"2234","2017-07-23",1,"Ashmore and Cartier Islands",26.07
+"2235","2017-07-23",2,"Australian Capital Territory",7.79
+"2236","2017-07-23",3,"Coral Sea Islands",22.27
+"2237","2017-07-23",4,"Jervis Bay Territory",14.88
+"2238","2017-07-23",5,"New South Wales",12.98
+"2239","2017-07-23",6,"Northern Territory",19.26
+"2240","2017-07-23",7,"Queensland",17.23
+"2241","2017-07-23",8,"South Australia",14.77
+"2242","2017-07-23",9,"Tasmania",8.3
+"2243","2017-07-23",10,"Victoria",11.03
+"2244","2017-07-23",11,"Western Australia",14.97
+"2245","2017-07-24",1,"Ashmore and Cartier Islands",26.47
+"2246","2017-07-24",2,"Australian Capital Territory",7.29
+"2247","2017-07-24",3,"Coral Sea Islands",22.7
+"2248","2017-07-24",4,"Jervis Bay Territory",14.18
+"2249","2017-07-24",5,"New South Wales",12.31
+"2250","2017-07-24",6,"Northern Territory",19.78
+"2251","2017-07-24",7,"Queensland",18.5
+"2252","2017-07-24",8,"South Australia",15.76
+"2253","2017-07-24",9,"Tasmania",6.51
+"2254","2017-07-24",10,"Victoria",9.15
+"2255","2017-07-24",11,"Western Australia",15.64
+"2256","2017-07-25",1,"Ashmore and Cartier Islands",26.75
+"2257","2017-07-25",2,"Australian Capital Territory",6.96
+"2258","2017-07-25",3,"Coral Sea Islands",22.34
+"2259","2017-07-25",4,"Jervis Bay Territory",14.37
+"2260","2017-07-25",5,"New South Wales",13.9
+"2261","2017-07-25",6,"Northern Territory",20.08
+"2262","2017-07-25",7,"Queensland",18.95
+"2263","2017-07-25",8,"South Australia",17.36
+"2264","2017-07-25",9,"Tasmania",9.64
+"2265","2017-07-25",10,"Victoria",12.08
+"2266","2017-07-25",11,"Western Australia",15.35
+"2267","2017-07-26",1,"Ashmore and Cartier Islands",26.78
+"2268","2017-07-26",2,"Australian Capital Territory",8.52
+"2269","2017-07-26",3,"Coral Sea Islands",22.21
+"2270","2017-07-26",4,"Jervis Bay Territory",15.79
+"2271","2017-07-26",5,"New South Wales",14.52
+"2272","2017-07-26",6,"Northern Territory",21.05
+"2273","2017-07-26",7,"Queensland",19.11
+"2274","2017-07-26",8,"South Australia",14.92
+"2275","2017-07-26",9,"Tasmania",7.21
+"2276","2017-07-26",10,"Victoria",10.94
+"2277","2017-07-26",11,"Western Australia",16.21
+"2278","2017-07-27",1,"Ashmore and Cartier Islands",26.66
+"2279","2017-07-27",2,"Australian Capital Territory",4.13
+"2280","2017-07-27",3,"Coral Sea Islands",22.18
+"2281","2017-07-27",4,"Jervis Bay Territory",12.56
+"2282","2017-07-27",5,"New South Wales",11.99
+"2283","2017-07-27",6,"Northern Territory",20.68
+"2284","2017-07-27",7,"Queensland",19.11
+"2285","2017-07-27",8,"South Australia",16.52
+"2286","2017-07-27",9,"Tasmania",5.65
+"2287","2017-07-27",10,"Victoria",8.78
+"2288","2017-07-27",11,"Western Australia",16.32
+"2289","2017-07-28",1,"Ashmore and Cartier Islands",26.3
+"2290","2017-07-28",2,"Australian Capital Territory",6.2
+"2291","2017-07-28",3,"Coral Sea Islands",22.55
+"2292","2017-07-28",4,"Jervis Bay Territory",14.13
+"2293","2017-07-28",5,"New South Wales",13.2
+"2294","2017-07-28",6,"Northern Territory",20.34
+"2295","2017-07-28",7,"Queensland",19.4
+"2296","2017-07-28",8,"South Australia",15.96
+"2297","2017-07-28",9,"Tasmania",8.55
+"2298","2017-07-28",10,"Victoria",9.45
+"2299","2017-07-28",11,"Western Australia",18.17
+"2300","2017-07-29",1,"Ashmore and Cartier Islands",26.75
+"2301","2017-07-29",2,"Australian Capital Territory",6.33
+"2302","2017-07-29",3,"Coral Sea Islands",22.6
+"2303","2017-07-29",4,"Jervis Bay Territory",12.35
+"2304","2017-07-29",5,"New South Wales",13.79
+"2305","2017-07-29",6,"Northern Territory",21.09
+"2306","2017-07-29",7,"Queensland",19.9
+"2307","2017-07-29",8,"South Australia",20.22
+"2308","2017-07-29",9,"Tasmania",9.3
+"2309","2017-07-29",10,"Victoria",12.31
+"2310","2017-07-29",11,"Western Australia",16.25
+"2311","2017-07-30",1,"Ashmore and Cartier Islands",25.7
+"2312","2017-07-30",2,"Australian Capital Territory",10.58
+"2313","2017-07-30",3,"Coral Sea Islands",22.52
+"2314","2017-07-30",4,"Jervis Bay Territory",19.23
+"2315","2017-07-30",5,"New South Wales",16.54
+"2316","2017-07-30",6,"Northern Territory",21.34
+"2317","2017-07-30",7,"Queensland",20.61
+"2318","2017-07-30",8,"South Australia",13.79
+"2319","2017-07-30",9,"Tasmania",8.78
+"2320","2017-07-30",10,"Victoria",12.36
+"2321","2017-07-30",11,"Western Australia",13.29
+"2322","2017-07-31",1,"Ashmore and Cartier Islands",25.93
+"2323","2017-07-31",2,"Australian Capital Territory",5.86
+"2324","2017-07-31",3,"Coral Sea Islands",22.11
+"2325","2017-07-31",4,"Jervis Bay Territory",14.34
+"2326","2017-07-31",5,"New South Wales",12.77
+"2327","2017-07-31",6,"Northern Territory",18.82
+"2328","2017-07-31",7,"Queensland",19.38
+"2329","2017-07-31",8,"South Australia",11.66
+"2330","2017-07-31",9,"Tasmania",6.95
+"2331","2017-07-31",10,"Victoria",9.83
+"2332","2017-07-31",11,"Western Australia",12.52
+"2333","2017-08-01",1,"Ashmore and Cartier Islands",26.08
+"2334","2017-08-01",2,"Australian Capital Territory",6.16
+"2335","2017-08-01",3,"Coral Sea Islands",22.3
+"2336","2017-08-01",4,"Jervis Bay Territory",13.55
+"2337","2017-08-01",5,"New South Wales",11.41
+"2338","2017-08-01",6,"Northern Territory",19.7
+"2339","2017-08-01",7,"Queensland",19
+"2340","2017-08-01",8,"South Australia",12.61
+"2341","2017-08-01",9,"Tasmania",6.17
+"2342","2017-08-01",10,"Victoria",9.22
+"2343","2017-08-01",11,"Western Australia",12.54
+"2344","2017-08-02",1,"Ashmore and Cartier Islands",27.41
+"2345","2017-08-02",2,"Australian Capital Territory",4.64
+"2346","2017-08-02",3,"Coral Sea Islands",22.62
+"2347","2017-08-02",4,"Jervis Bay Territory",13.08
+"2348","2017-08-02",5,"New South Wales",11.44
+"2349","2017-08-02",6,"Northern Territory",19.02
+"2350","2017-08-02",7,"Queensland",20.17
+"2351","2017-08-02",8,"South Australia",11.7
+"2352","2017-08-02",9,"Tasmania",6.01
+"2353","2017-08-02",10,"Victoria",8.65
+"2354","2017-08-02",11,"Western Australia",9.91
+"2355","2017-08-03",1,"Ashmore and Cartier Islands",26.66
+"2356","2017-08-03",2,"Australian Capital Territory",5.51
+"2357","2017-08-03",3,"Coral Sea Islands",22.69
+"2358","2017-08-03",4,"Jervis Bay Territory",13.81
+"2359","2017-08-03",5,"New South Wales",11.23
+"2360","2017-08-03",6,"Northern Territory",16.39
+"2361","2017-08-03",7,"Queensland",19.17
+"2362","2017-08-03",8,"South Australia",10.98
+"2363","2017-08-03",9,"Tasmania",5.31
+"2364","2017-08-03",10,"Victoria",6.82
+"2365","2017-08-03",11,"Western Australia",10.46
+"2366","2017-08-04",1,"Ashmore and Cartier Islands",25.81
+"2367","2017-08-04",2,"Australian Capital Territory",5.56
+"2368","2017-08-04",3,"Coral Sea Islands",23.25
+"2369","2017-08-04",4,"Jervis Bay Territory",13.3
+"2370","2017-08-04",5,"New South Wales",10.26
+"2371","2017-08-04",6,"Northern Territory",16.63
+"2372","2017-08-04",7,"Queensland",17.11
+"2373","2017-08-04",8,"South Australia",11.76
+"2374","2017-08-04",9,"Tasmania",7.41
+"2375","2017-08-04",10,"Victoria",8.21
+"2376","2017-08-04",11,"Western Australia",11.85
+"2377","2017-08-05",1,"Ashmore and Cartier Islands",25.9
+"2378","2017-08-05",2,"Australian Capital Territory",4.83
+"2379","2017-08-05",3,"Coral Sea Islands",23.3
+"2380","2017-08-05",4,"Jervis Bay Territory",13.3
+"2381","2017-08-05",5,"New South Wales",11.83
+"2382","2017-08-05",6,"Northern Territory",18.1
+"2383","2017-08-05",7,"Queensland",17.7
+"2384","2017-08-05",8,"South Australia",11.43
+"2385","2017-08-05",9,"Tasmania",8.57
+"2386","2017-08-05",10,"Victoria",8.96
+"2387","2017-08-05",11,"Western Australia",12.48
+"2388","2017-08-06",1,"Ashmore and Cartier Islands",26.13
+"2389","2017-08-06",2,"Australian Capital Territory",7.76
+"2390","2017-08-06",3,"Coral Sea Islands",23.11
+"2391","2017-08-06",4,"Jervis Bay Territory",14.55
+"2392","2017-08-06",5,"New South Wales",13.47
+"2393","2017-08-06",6,"Northern Territory",19.28
+"2394","2017-08-06",7,"Queensland",18.99
+"2395","2017-08-06",8,"South Australia",12.5
+"2396","2017-08-06",9,"Tasmania",8.31
+"2397","2017-08-06",10,"Victoria",8.71
+"2398","2017-08-06",11,"Western Australia",12.97
+"2399","2017-08-07",1,"Ashmore and Cartier Islands",26.52
+"2400","2017-08-07",2,"Australian Capital Territory",3.97
+"2401","2017-08-07",3,"Coral Sea Islands",23.62
+"2402","2017-08-07",4,"Jervis Bay Territory",12.76
+"2403","2017-08-07",5,"New South Wales",11.57
+"2404","2017-08-07",6,"Northern Territory",19.64
+"2405","2017-08-07",7,"Queensland",18.41
+"2406","2017-08-07",8,"South Australia",11.99
+"2407","2017-08-07",9,"Tasmania",6.01
+"2408","2017-08-07",10,"Victoria",8.18
+"2409","2017-08-07",11,"Western Australia",14.36
+"2410","2017-08-08",1,"Ashmore and Cartier Islands",26.25
+"2411","2017-08-08",2,"Australian Capital Territory",5.12
+"2412","2017-08-08",3,"Coral Sea Islands",22.93
+"2413","2017-08-08",4,"Jervis Bay Territory",12.21
+"2414","2017-08-08",5,"New South Wales",10.9
+"2415","2017-08-08",6,"Northern Territory",19.08
+"2416","2017-08-08",7,"Queensland",17.57
+"2417","2017-08-08",8,"South Australia",13.34
+"2418","2017-08-08",9,"Tasmania",8.36
+"2419","2017-08-08",10,"Victoria",9.33
+"2420","2017-08-08",11,"Western Australia",17
+"2421","2017-08-09",1,"Ashmore and Cartier Islands",25.95
+"2422","2017-08-09",2,"Australian Capital Territory",7.61
+"2423","2017-08-09",3,"Coral Sea Islands",22.11
+"2424","2017-08-09",4,"Jervis Bay Territory",13.9
+"2425","2017-08-09",5,"New South Wales",12.13
+"2426","2017-08-09",6,"Northern Territory",19.04
+"2427","2017-08-09",7,"Queensland",17.86
+"2428","2017-08-09",8,"South Australia",15.59
+"2429","2017-08-09",9,"Tasmania",8.84
+"2430","2017-08-09",10,"Victoria",11.16
+"2431","2017-08-09",11,"Western Australia",17.27
+"2432","2017-08-10",1,"Ashmore and Cartier Islands",25.53
+"2433","2017-08-10",2,"Australian Capital Territory",9.15
+"2434","2017-08-10",3,"Coral Sea Islands",21.9
+"2435","2017-08-10",4,"Jervis Bay Territory",15.45
+"2436","2017-08-10",5,"New South Wales",15.35
+"2437","2017-08-10",6,"Northern Territory",21.2
+"2438","2017-08-10",7,"Queensland",19.56
+"2439","2017-08-10",8,"South Australia",17.35
+"2440","2017-08-10",9,"Tasmania",11.75
+"2441","2017-08-10",10,"Victoria",13.04
+"2442","2017-08-10",11,"Western Australia",13.1
+"2443","2017-08-11",1,"Ashmore and Cartier Islands",26.02
+"2444","2017-08-11",2,"Australian Capital Territory",10.54
+"2445","2017-08-11",3,"Coral Sea Islands",21.89
+"2446","2017-08-11",4,"Jervis Bay Territory",17.43
+"2447","2017-08-11",5,"New South Wales",15.42
+"2448","2017-08-11",6,"Northern Territory",21.39
+"2449","2017-08-11",7,"Queensland",20.68
+"2450","2017-08-11",8,"South Australia",12.91
+"2451","2017-08-11",9,"Tasmania",8.67
+"2452","2017-08-11",10,"Victoria",11.47
+"2453","2017-08-11",11,"Western Australia",13.31
+"2454","2017-08-12",1,"Ashmore and Cartier Islands",26.07
+"2455","2017-08-12",2,"Australian Capital Territory",8.55
+"2456","2017-08-12",3,"Coral Sea Islands",22.45
+"2457","2017-08-12",4,"Jervis Bay Territory",14.58
+"2458","2017-08-12",5,"New South Wales",13.52
+"2459","2017-08-12",6,"Northern Territory",20.94
+"2460","2017-08-12",7,"Queensland",20.41
+"2461","2017-08-12",8,"South Australia",14.58
+"2462","2017-08-12",9,"Tasmania",7.48
+"2463","2017-08-12",10,"Victoria",11.52
+"2464","2017-08-12",11,"Western Australia",16.5
+"2465","2017-08-13",1,"Ashmore and Cartier Islands",25.93
+"2466","2017-08-13",2,"Australian Capital Territory",8.07
+"2467","2017-08-13",3,"Coral Sea Islands",22.77
+"2468","2017-08-13",4,"Jervis Bay Territory",15.18
+"2469","2017-08-13",5,"New South Wales",14.39
+"2470","2017-08-13",6,"Northern Territory",22.77
+"2471","2017-08-13",7,"Queensland",21.15
+"2472","2017-08-13",8,"South Australia",18.07
+"2473","2017-08-13",9,"Tasmania",6.22
+"2474","2017-08-13",10,"Victoria",12.22
+"2475","2017-08-13",11,"Western Australia",19.19
+"2476","2017-08-14",1,"Ashmore and Cartier Islands",25.7
+"2477","2017-08-14",2,"Australian Capital Territory",10.01
+"2478","2017-08-14",3,"Coral Sea Islands",22.56
+"2479","2017-08-14",4,"Jervis Bay Territory",15.84
+"2480","2017-08-14",5,"New South Wales",16.2
+"2481","2017-08-14",6,"Northern Territory",23.07
+"2482","2017-08-14",7,"Queensland",21.92
+"2483","2017-08-14",8,"South Australia",21.01
+"2484","2017-08-14",9,"Tasmania",10.69
+"2485","2017-08-14",10,"Victoria",13.51
+"2486","2017-08-14",11,"Western Australia",20.67
+"2487","2017-08-15",1,"Ashmore and Cartier Islands",25.45
+"2488","2017-08-15",2,"Australian Capital Territory",7.19
+"2489","2017-08-15",3,"Coral Sea Islands",22.56
+"2490","2017-08-15",4,"Jervis Bay Territory",14.4
+"2491","2017-08-15",5,"New South Wales",18.35
+"2492","2017-08-15",6,"Northern Territory",23.73
+"2493","2017-08-15",7,"Queensland",23.17
+"2494","2017-08-15",8,"South Australia",21.59
+"2495","2017-08-15",9,"Tasmania",8.42
+"2496","2017-08-15",10,"Victoria",13.09
+"2497","2017-08-15",11,"Western Australia",17.93
+"2498","2017-08-16",1,"Ashmore and Cartier Islands",25.46
+"2499","2017-08-16",2,"Australian Capital Territory",7.87
+"2500","2017-08-16",3,"Coral Sea Islands",22.49
+"2501","2017-08-16",4,"Jervis Bay Territory",16.48
+"2502","2017-08-16",5,"New South Wales",17.09
+"2503","2017-08-16",6,"Northern Territory",23.18
+"2504","2017-08-16",7,"Queensland",23.56
+"2505","2017-08-16",8,"South Australia",15.44
+"2506","2017-08-16",9,"Tasmania",8.86
+"2507","2017-08-16",10,"Victoria",12
+"2508","2017-08-16",11,"Western Australia",15.43
+"2509","2017-08-17",1,"Ashmore and Cartier Islands",25.56
+"2510","2017-08-17",2,"Australian Capital Territory",7.53
+"2511","2017-08-17",3,"Coral Sea Islands",23.15
+"2512","2017-08-17",4,"Jervis Bay Territory",16.22
+"2513","2017-08-17",5,"New South Wales",15.62
+"2514","2017-08-17",6,"Northern Territory",23.27
+"2515","2017-08-17",7,"Queensland",22.48
+"2516","2017-08-17",8,"South Australia",15.23
+"2517","2017-08-17",9,"Tasmania",7.25
+"2518","2017-08-17",10,"Victoria",10.44
+"2519","2017-08-17",11,"Western Australia",14.58
+"2520","2017-08-18",1,"Ashmore and Cartier Islands",26.05
+"2521","2017-08-18",2,"Australian Capital Territory",4.58
+"2522","2017-08-18",3,"Coral Sea Islands",23.38
+"2523","2017-08-18",4,"Jervis Bay Territory",13
+"2524","2017-08-18",5,"New South Wales",12.37
+"2525","2017-08-18",6,"Northern Territory",22.7
+"2526","2017-08-18",7,"Queensland",21.92
+"2527","2017-08-18",8,"South Australia",12.91
+"2528","2017-08-18",9,"Tasmania",6.09
+"2529","2017-08-18",10,"Victoria",8.44
+"2530","2017-08-18",11,"Western Australia",16.27
+"2531","2017-08-19",1,"Ashmore and Cartier Islands",26.17
+"2532","2017-08-19",2,"Australian Capital Territory",4.74
+"2533","2017-08-19",3,"Coral Sea Islands",22.32
+"2534","2017-08-19",4,"Jervis Bay Territory",11.12
+"2535","2017-08-19",5,"New South Wales",9.96
+"2536","2017-08-19",6,"Northern Territory",21.92
+"2537","2017-08-19",7,"Queensland",18.76
+"2538","2017-08-19",8,"South Australia",13.35
+"2539","2017-08-19",9,"Tasmania",5.81
+"2540","2017-08-19",10,"Victoria",7.68
+"2541","2017-08-19",11,"Western Australia",18.3
+"2542","2017-08-20",1,"Ashmore and Cartier Islands",26.21
+"2543","2017-08-20",2,"Australian Capital Territory",5.46
+"2544","2017-08-20",3,"Coral Sea Islands",20.56
+"2545","2017-08-20",4,"Jervis Bay Territory",11.86
+"2546","2017-08-20",5,"New South Wales",9.76
+"2547","2017-08-20",6,"Northern Territory",21.91
+"2548","2017-08-20",7,"Queensland",16.53
+"2549","2017-08-20",8,"South Australia",14.43
+"2550","2017-08-20",9,"Tasmania",6.6
+"2551","2017-08-20",10,"Victoria",7.84
+"2552","2017-08-20",11,"Western Australia",16.57
+"2553","2017-08-21",1,"Ashmore and Cartier Islands",26.17
+"2554","2017-08-21",2,"Australian Capital Territory",4.46
+"2555","2017-08-21",3,"Coral Sea Islands",21.29
+"2556","2017-08-21",4,"Jervis Bay Territory",13.53
+"2557","2017-08-21",5,"New South Wales",12.01
+"2558","2017-08-21",6,"Northern Territory",22.93
+"2559","2017-08-21",7,"Queensland",18.66
+"2560","2017-08-21",8,"South Australia",14.71
+"2561","2017-08-21",9,"Tasmania",6.61
+"2562","2017-08-21",10,"Victoria",7.49
+"2563","2017-08-21",11,"Western Australia",15.81
+"2564","2017-08-22",1,"Ashmore and Cartier Islands",25.98
+"2565","2017-08-22",2,"Australian Capital Territory",7.34
+"2566","2017-08-22",3,"Coral Sea Islands",22.17
+"2567","2017-08-22",4,"Jervis Bay Territory",13.7
+"2568","2017-08-22",5,"New South Wales",14.11
+"2569","2017-08-22",6,"Northern Territory",21.41
+"2570","2017-08-22",7,"Queensland",20.07
+"2571","2017-08-22",8,"South Australia",13.66
+"2572","2017-08-22",9,"Tasmania",8.66
+"2573","2017-08-22",10,"Victoria",10.71
+"2574","2017-08-22",11,"Western Australia",17.14
+"2575","2017-08-23",1,"Ashmore and Cartier Islands",26.71
+"2576","2017-08-23",2,"Australian Capital Territory",7.2
+"2577","2017-08-23",3,"Coral Sea Islands",22.56
+"2578","2017-08-23",4,"Jervis Bay Territory",15.05
+"2579","2017-08-23",5,"New South Wales",14.25
+"2580","2017-08-23",6,"Northern Territory",22.51
+"2581","2017-08-23",7,"Queensland",20.75
+"2582","2017-08-23",8,"South Australia",15.51
+"2583","2017-08-23",9,"Tasmania",8.39
+"2584","2017-08-23",10,"Victoria",11.43
+"2585","2017-08-23",11,"Western Australia",18.33
+"2586","2017-08-24",1,"Ashmore and Cartier Islands",26.47
+"2587","2017-08-24",2,"Australian Capital Territory",5.76
+"2588","2017-08-24",3,"Coral Sea Islands",22.77
+"2589","2017-08-24",4,"Jervis Bay Territory",13.43
+"2590","2017-08-24",5,"New South Wales",12.9
+"2591","2017-08-24",6,"Northern Territory",22.44
+"2592","2017-08-24",7,"Queensland",20.34
+"2593","2017-08-24",8,"South Australia",14.2
+"2594","2017-08-24",9,"Tasmania",7.08
+"2595","2017-08-24",10,"Victoria",9.4
+"2596","2017-08-24",11,"Western Australia",18.65
+"2597","2017-08-25",1,"Ashmore and Cartier Islands",26.05
+"2598","2017-08-25",2,"Australian Capital Territory",6.67
+"2599","2017-08-25",3,"Coral Sea Islands",22.16
+"2600","2017-08-25",4,"Jervis Bay Territory",12.88
+"2601","2017-08-25",5,"New South Wales",11.89
+"2602","2017-08-25",6,"Northern Territory",20.18
+"2603","2017-08-25",7,"Queensland",17.79
+"2604","2017-08-25",8,"South Australia",13.18
+"2605","2017-08-25",9,"Tasmania",8.53
+"2606","2017-08-25",10,"Victoria",9.56
+"2607","2017-08-25",11,"Western Australia",18.35
+"2608","2017-08-26",1,"Ashmore and Cartier Islands",26.08
+"2609","2017-08-26",2,"Australian Capital Territory",6.81
+"2610","2017-08-26",3,"Coral Sea Islands",22.04
+"2611","2017-08-26",4,"Jervis Bay Territory",13.74
+"2612","2017-08-26",5,"New South Wales",12.43
+"2613","2017-08-26",6,"Northern Territory",19.48
+"2614","2017-08-26",7,"Queensland",18.3
+"2615","2017-08-26",8,"South Australia",14.16
+"2616","2017-08-26",9,"Tasmania",9.84
+"2617","2017-08-26",10,"Victoria",10.13
+"2618","2017-08-26",11,"Western Australia",18
+"2619","2017-08-27",1,"Ashmore and Cartier Islands",27.16
+"2620","2017-08-27",2,"Australian Capital Territory",6.09
+"2621","2017-08-27",3,"Coral Sea Islands",22.21
+"2622","2017-08-27",4,"Jervis Bay Territory",13.4
+"2623","2017-08-27",5,"New South Wales",12.39
+"2624","2017-08-27",6,"Northern Territory",20.16
+"2625","2017-08-27",7,"Queensland",19.09
+"2626","2017-08-27",8,"South Australia",13.63
+"2627","2017-08-27",9,"Tasmania",4.89
+"2628","2017-08-27",10,"Victoria",7.73
+"2629","2017-08-27",11,"Western Australia",19.08
+"2630","2017-08-28",1,"Ashmore and Cartier Islands",27.18
+"2631","2017-08-28",2,"Australian Capital Territory",4.59
+"2632","2017-08-28",3,"Coral Sea Islands",22.34
+"2633","2017-08-28",4,"Jervis Bay Territory",11.32
+"2634","2017-08-28",5,"New South Wales",9.31
+"2635","2017-08-28",6,"Northern Territory",18.84
+"2636","2017-08-28",7,"Queensland",18.01
+"2637","2017-08-28",8,"South Australia",12.32
+"2638","2017-08-28",9,"Tasmania",6.16
+"2639","2017-08-28",10,"Victoria",7.49
+"2640","2017-08-28",11,"Western Australia",19.02
+"2641","2017-08-29",1,"Ashmore and Cartier Islands",26.45
+"2642","2017-08-29",2,"Australian Capital Territory",5.39
+"2643","2017-08-29",3,"Coral Sea Islands",22.37
+"2644","2017-08-29",4,"Jervis Bay Territory",12.51
+"2645","2017-08-29",5,"New South Wales",10.7
+"2646","2017-08-29",6,"Northern Territory",18.97
+"2647","2017-08-29",7,"Queensland",17.65
+"2648","2017-08-29",8,"South Australia",13.22
+"2649","2017-08-29",9,"Tasmania",7.53
+"2650","2017-08-29",10,"Victoria",8.86
+"2651","2017-08-29",11,"Western Australia",18.71
+"2652","2017-08-30",1,"Ashmore and Cartier Islands",26.75
+"2653","2017-08-30",2,"Australian Capital Territory",6.8
+"2654","2017-08-30",3,"Coral Sea Islands",22.05
+"2655","2017-08-30",4,"Jervis Bay Territory",13.25
+"2656","2017-08-30",5,"New South Wales",11.99
+"2657","2017-08-30",6,"Northern Territory",19.18
+"2658","2017-08-30",7,"Queensland",18.45
+"2659","2017-08-30",8,"South Australia",14.47
+"2660","2017-08-30",9,"Tasmania",6.94
+"2661","2017-08-30",10,"Victoria",9.8
+"2662","2017-08-30",11,"Western Australia",18.45
+"2663","2017-08-31",1,"Ashmore and Cartier Islands",26.47
+"2664","2017-08-31",2,"Australian Capital Territory",6.58
+"2665","2017-08-31",3,"Coral Sea Islands",22.08
+"2666","2017-08-31",4,"Jervis Bay Territory",11.99
+"2667","2017-08-31",5,"New South Wales",12.58
+"2668","2017-08-31",6,"Northern Territory",19.97
+"2669","2017-08-31",7,"Queensland",19.54
+"2670","2017-08-31",8,"South Australia",16.73
+"2671","2017-08-31",9,"Tasmania",6.44
+"2672","2017-08-31",10,"Victoria",9.44
+"2673","2017-08-31",11,"Western Australia",19.29
+"2674","2017-09-01",1,"Ashmore and Cartier Islands",26.22
+"2675","2017-09-01",2,"Australian Capital Territory",6.62
+"2676","2017-09-01",3,"Coral Sea Islands",22.07
+"2677","2017-09-01",4,"Jervis Bay Territory",12.62
+"2678","2017-09-01",5,"New South Wales",14.31
+"2679","2017-09-01",6,"Northern Territory",21.93
+"2680","2017-09-01",7,"Queensland",21.32
+"2681","2017-09-01",8,"South Australia",19.77
+"2682","2017-09-01",9,"Tasmania",7.49
+"2683","2017-09-01",10,"Victoria",11.47
+"2684","2017-09-01",11,"Western Australia",18.72
+"2685","2017-09-02",1,"Ashmore and Cartier Islands",25.86
+"2686","2017-09-02",2,"Australian Capital Territory",10.16
+"2687","2017-09-02",3,"Coral Sea Islands",22.02
+"2688","2017-09-02",4,"Jervis Bay Territory",13.77
+"2689","2017-09-02",5,"New South Wales",17.3
+"2690","2017-09-02",6,"Northern Territory",24.11
+"2691","2017-09-02",7,"Queensland",22.9
+"2692","2017-09-02",8,"South Australia",21.69
+"2693","2017-09-02",9,"Tasmania",10.79
+"2694","2017-09-02",10,"Victoria",13.23
+"2695","2017-09-02",11,"Western Australia",16.2
+"2696","2017-09-03",1,"Ashmore and Cartier Islands",25.86
+"2697","2017-09-03",2,"Australian Capital Territory",13.21
+"2698","2017-09-03",3,"Coral Sea Islands",21.84
+"2699","2017-09-03",4,"Jervis Bay Territory",17.46
+"2700","2017-09-03",5,"New South Wales",19.51
+"2701","2017-09-03",6,"Northern Territory",23.28
+"2702","2017-09-03",7,"Queensland",23.78
+"2703","2017-09-03",8,"South Australia",13.38
+"2704","2017-09-03",9,"Tasmania",12.06
+"2705","2017-09-03",10,"Victoria",13.11
+"2706","2017-09-03",11,"Western Australia",14.89
+"2707","2017-09-04",1,"Ashmore and Cartier Islands",26.03
+"2708","2017-09-04",2,"Australian Capital Territory",7.41
+"2709","2017-09-04",3,"Coral Sea Islands",21.98
+"2710","2017-09-04",4,"Jervis Bay Territory",14.64
+"2711","2017-09-04",5,"New South Wales",15.21
+"2712","2017-09-04",6,"Northern Territory",21.37
+"2713","2017-09-04",7,"Queensland",21.2
+"2714","2017-09-04",8,"South Australia",14.01
+"2715","2017-09-04",9,"Tasmania",5.31
+"2716","2017-09-04",10,"Victoria",9.21
+"2717","2017-09-04",11,"Western Australia",16.17
+"2718","2017-09-05",1,"Ashmore and Cartier Islands",25.86
+"2719","2017-09-05",2,"Australian Capital Territory",4.11
+"2720","2017-09-05",3,"Coral Sea Islands",22.72
+"2721","2017-09-05",4,"Jervis Bay Territory",11.73
+"2722","2017-09-05",5,"New South Wales",12.62
+"2723","2017-09-05",6,"Northern Territory",21.27
+"2724","2017-09-05",7,"Queensland",20.32
+"2725","2017-09-05",8,"South Australia",12.85
+"2726","2017-09-05",9,"Tasmania",4.54
+"2727","2017-09-05",10,"Victoria",8.21
+"2728","2017-09-05",11,"Western Australia",16.64
+"2729","2017-09-06",1,"Ashmore and Cartier Islands",26.37
+"2730","2017-09-06",2,"Australian Capital Territory",5.49
+"2731","2017-09-06",3,"Coral Sea Islands",22.71
+"2732","2017-09-06",4,"Jervis Bay Territory",12.23
+"2733","2017-09-06",5,"New South Wales",13.06
+"2734","2017-09-06",6,"Northern Territory",21.65
+"2735","2017-09-06",7,"Queensland",20.11
+"2736","2017-09-06",8,"South Australia",13.87
+"2737","2017-09-06",9,"Tasmania",6.58
+"2738","2017-09-06",10,"Victoria",9.81
+"2739","2017-09-06",11,"Western Australia",18.29
+"2740","2017-09-07",1,"Ashmore and Cartier Islands",26.63
+"2741","2017-09-07",2,"Australian Capital Territory",7.22
+"2742","2017-09-07",3,"Coral Sea Islands",22.43
+"2743","2017-09-07",4,"Jervis Bay Territory",14.79
+"2744","2017-09-07",5,"New South Wales",13.94
+"2745","2017-09-07",6,"Northern Territory",21.92
+"2746","2017-09-07",7,"Queensland",20.5
+"2747","2017-09-07",8,"South Australia",14.97
+"2748","2017-09-07",9,"Tasmania",8.8
+"2749","2017-09-07",10,"Victoria",10.63
+"2750","2017-09-07",11,"Western Australia",19.51
+"2751","2017-09-08",1,"Ashmore and Cartier Islands",26.91
+"2752","2017-09-08",2,"Australian Capital Territory",7.71
+"2753","2017-09-08",3,"Coral Sea Islands",22.08
+"2754","2017-09-08",4,"Jervis Bay Territory",13.67
+"2755","2017-09-08",5,"New South Wales",13.59
+"2756","2017-09-08",6,"Northern Territory",21.38
+"2757","2017-09-08",7,"Queensland",20.68
+"2758","2017-09-08",8,"South Australia",15.21
+"2759","2017-09-08",9,"Tasmania",4.96
+"2760","2017-09-08",10,"Victoria",9.35
+"2761","2017-09-08",11,"Western Australia",20.04
+"2762","2017-09-09",1,"Ashmore and Cartier Islands",27.09
+"2763","2017-09-09",2,"Australian Capital Territory",7.95
+"2764","2017-09-09",3,"Coral Sea Islands",22.39
+"2765","2017-09-09",4,"Jervis Bay Territory",13.02
+"2766","2017-09-09",5,"New South Wales",12.73
+"2767","2017-09-09",6,"Northern Territory",22.05
+"2768","2017-09-09",7,"Queensland",20.17
+"2769","2017-09-09",8,"South Australia",16.43
+"2770","2017-09-09",9,"Tasmania",7.44
+"2771","2017-09-09",10,"Victoria",9.97
+"2772","2017-09-09",11,"Western Australia",20.06
+"2773","2017-09-10",1,"Ashmore and Cartier Islands",26.32
+"2774","2017-09-10",2,"Australian Capital Territory",8.87
+"2775","2017-09-10",3,"Coral Sea Islands",22.32
+"2776","2017-09-10",4,"Jervis Bay Territory",13.67
+"2777","2017-09-10",5,"New South Wales",14.96
+"2778","2017-09-10",6,"Northern Territory",22.88
+"2779","2017-09-10",7,"Queensland",21.24
+"2780","2017-09-10",8,"South Australia",18.92
+"2781","2017-09-10",9,"Tasmania",9.67
+"2782","2017-09-10",10,"Victoria",11.1
+"2783","2017-09-10",11,"Western Australia",21.31
+"2784","2017-09-11",1,"Ashmore and Cartier Islands",26.11
+"2785","2017-09-11",2,"Australian Capital Territory",10.32
+"2786","2017-09-11",3,"Coral Sea Islands",22.28
+"2787","2017-09-11",4,"Jervis Bay Territory",15.78
+"2788","2017-09-11",5,"New South Wales",18.45
+"2789","2017-09-11",6,"Northern Territory",24.66
+"2790","2017-09-11",7,"Queensland",23.16
+"2791","2017-09-11",8,"South Australia",23.07
+"2792","2017-09-11",9,"Tasmania",9.25
+"2793","2017-09-11",10,"Victoria",14.72
+"2794","2017-09-11",11,"Western Australia",21.24
+"2795","2017-09-12",1,"Ashmore and Cartier Islands",26.05
+"2796","2017-09-12",2,"Australian Capital Territory",13.75
+"2797","2017-09-12",3,"Coral Sea Islands",22.64
+"2798","2017-09-12",4,"Jervis Bay Territory",19.21
+"2799","2017-09-12",5,"New South Wales",22.34
+"2800","2017-09-12",6,"Northern Territory",27.13
+"2801","2017-09-12",7,"Queensland",25.05
+"2802","2017-09-12",8,"South Australia",23.52
+"2803","2017-09-12",9,"Tasmania",9.04
+"2804","2017-09-12",10,"Victoria",14.67
+"2805","2017-09-12",11,"Western Australia",20.15
+"2806","2017-09-13",1,"Ashmore and Cartier Islands",25.7
+"2807","2017-09-13",2,"Australian Capital Territory",15.68
+"2808","2017-09-13",3,"Coral Sea Islands",23.1
+"2809","2017-09-13",4,"Jervis Bay Territory",22.3
+"2810","2017-09-13",5,"New South Wales",21.42
+"2811","2017-09-13",6,"Northern Territory",26.23
+"2812","2017-09-13",7,"Queensland",26.01
+"2813","2017-09-13",8,"South Australia",15.82
+"2814","2017-09-13",9,"Tasmania",8.6
+"2815","2017-09-13",10,"Victoria",12.64
+"2816","2017-09-13",11,"Western Australia",18.21
+"2817","2017-09-14",1,"Ashmore and Cartier Islands",26.04
+"2818","2017-09-14",2,"Australian Capital Territory",5.29
+"2819","2017-09-14",3,"Coral Sea Islands",23.71
+"2820","2017-09-14",4,"Jervis Bay Territory",13.39
+"2821","2017-09-14",5,"New South Wales",11.45
+"2822","2017-09-14",6,"Northern Territory",21.17
+"2823","2017-09-14",7,"Queensland",20.07
+"2824","2017-09-14",8,"South Australia",13.54
+"2825","2017-09-14",9,"Tasmania",7.44
+"2826","2017-09-14",10,"Victoria",9.74
+"2827","2017-09-14",11,"Western Australia",18.9
+"2828","2017-09-15",1,"Ashmore and Cartier Islands",26.96
+"2829","2017-09-15",2,"Australian Capital Territory",8.65
+"2830","2017-09-15",3,"Coral Sea Islands",22.34
+"2831","2017-09-15",4,"Jervis Bay Territory",15.38
+"2832","2017-09-15",5,"New South Wales",14.58
+"2833","2017-09-15",6,"Northern Territory",20.99
+"2834","2017-09-15",7,"Queensland",19.95
+"2835","2017-09-15",8,"South Australia",16.76
+"2836","2017-09-15",9,"Tasmania",9.53
+"2837","2017-09-15",10,"Victoria",12.28
+"2838","2017-09-15",11,"Western Australia",21.45
+"2839","2017-09-16",1,"Ashmore and Cartier Islands",26.81
+"2840","2017-09-16",2,"Australian Capital Territory",8.54
+"2841","2017-09-16",3,"Coral Sea Islands",22.37
+"2842","2017-09-16",4,"Jervis Bay Territory",16.68
+"2843","2017-09-16",5,"New South Wales",16.05
+"2844","2017-09-16",6,"Northern Territory",23.25
+"2845","2017-09-16",7,"Queensland",22.07
+"2846","2017-09-16",8,"South Australia",18.65
+"2847","2017-09-16",9,"Tasmania",6.5
+"2848","2017-09-16",10,"Victoria",10.06
+"2849","2017-09-16",11,"Western Australia",23.34
+"2850","2017-09-17",1,"Ashmore and Cartier Islands",26.39
+"2851","2017-09-17",2,"Australian Capital Territory",8.25
+"2852","2017-09-17",3,"Coral Sea Islands",22.6
+"2853","2017-09-17",4,"Jervis Bay Territory",12.75
+"2854","2017-09-17",5,"New South Wales",14.6
+"2855","2017-09-17",6,"Northern Territory",23.59
+"2856","2017-09-17",7,"Queensland",22.96
+"2857","2017-09-17",8,"South Australia",21.04
+"2858","2017-09-17",9,"Tasmania",8.56
+"2859","2017-09-17",10,"Victoria",11.35
+"2860","2017-09-17",11,"Western Australia",23.07
+"2861","2017-09-18",1,"Ashmore and Cartier Islands",26.25
+"2862","2017-09-18",2,"Australian Capital Territory",11.44
+"2863","2017-09-18",3,"Coral Sea Islands",22.57
+"2864","2017-09-18",4,"Jervis Bay Territory",15.83
+"2865","2017-09-18",5,"New South Wales",19.77
+"2866","2017-09-18",6,"Northern Territory",25.54
+"2867","2017-09-18",7,"Queensland",24.22
+"2868","2017-09-18",8,"South Australia",21.22
+"2869","2017-09-18",9,"Tasmania",12.86
+"2870","2017-09-18",10,"Victoria",15.94
+"2871","2017-09-18",11,"Western Australia",22.24
+"2872","2017-09-19",1,"Ashmore and Cartier Islands",26.02
+"2873","2017-09-19",2,"Australian Capital Territory",9.27
+"2874","2017-09-19",3,"Coral Sea Islands",22.71
+"2875","2017-09-19",4,"Jervis Bay Territory",16.14
+"2876","2017-09-19",5,"New South Wales",16.24
+"2877","2017-09-19",6,"Northern Territory",25.24
+"2878","2017-09-19",7,"Queensland",24.12
+"2879","2017-09-19",8,"South Australia",15.19
+"2880","2017-09-19",9,"Tasmania",7.86
+"2881","2017-09-19",10,"Victoria",10.55
+"2882","2017-09-19",11,"Western Australia",23.12
+"2883","2017-09-20",1,"Ashmore and Cartier Islands",25.88
+"2884","2017-09-20",2,"Australian Capital Territory",9.67
+"2885","2017-09-20",3,"Coral Sea Islands",23.28
+"2886","2017-09-20",4,"Jervis Bay Territory",13.49
+"2887","2017-09-20",5,"New South Wales",15.65
+"2888","2017-09-20",6,"Northern Territory",25.65
+"2889","2017-09-20",7,"Queensland",24.38
+"2890","2017-09-20",8,"South Australia",20.36
+"2891","2017-09-20",9,"Tasmania",8.83
+"2892","2017-09-20",10,"Victoria",12.8
+"2893","2017-09-20",11,"Western Australia",23.49
+"2894","2017-09-21",1,"Ashmore and Cartier Islands",26.78
+"2895","2017-09-21",2,"Australian Capital Territory",13.78
+"2896","2017-09-21",3,"Coral Sea Islands",23.33
+"2897","2017-09-21",4,"Jervis Bay Territory",16.52
+"2898","2017-09-21",5,"New South Wales",20.33
+"2899","2017-09-21",6,"Northern Territory",28.49
+"2900","2017-09-21",7,"Queensland",26.15
+"2901","2017-09-21",8,"South Australia",22.61
+"2902","2017-09-21",9,"Tasmania",11.93
+"2903","2017-09-21",10,"Victoria",16.56
+"2904","2017-09-21",11,"Western Australia",23.28
+"2905","2017-09-22",1,"Ashmore and Cartier Islands",26.83
+"2906","2017-09-22",2,"Australian Capital Territory",17.17
+"2907","2017-09-22",3,"Coral Sea Islands",23.01
+"2908","2017-09-22",4,"Jervis Bay Territory",19.11
+"2909","2017-09-22",5,"New South Wales",24.19
+"2910","2017-09-22",6,"Northern Territory",29.43
+"2911","2017-09-22",7,"Queensland",27.57
+"2912","2017-09-22",8,"South Australia",26.6
+"2913","2017-09-22",9,"Tasmania",11.44
+"2914","2017-09-22",10,"Victoria",17.69
+"2915","2017-09-22",11,"Western Australia",23.05
+"2916","2017-09-23",1,"Ashmore and Cartier Islands",27.19
+"2917","2017-09-23",2,"Australian Capital Territory",19.87
+"2918","2017-09-23",3,"Coral Sea Islands",23.07
+"2919","2017-09-23",4,"Jervis Bay Territory",20.76
+"2920","2017-09-23",5,"New South Wales",28.96
+"2921","2017-09-23",6,"Northern Territory",29.58
+"2922","2017-09-23",7,"Queensland",28.88
+"2923","2017-09-23",8,"South Australia",25.79
+"2924","2017-09-23",9,"Tasmania",11.77
+"2925","2017-09-23",10,"Victoria",23.29
+"2926","2017-09-23",11,"Western Australia",20.16
+"2927","2017-09-24",1,"Ashmore and Cartier Islands",26.66
+"2928","2017-09-24",2,"Australian Capital Territory",12.97
+"2929","2017-09-24",3,"Coral Sea Islands",22.76
+"2930","2017-09-24",4,"Jervis Bay Territory",20.36
+"2931","2017-09-24",5,"New South Wales",23.01
+"2932","2017-09-24",6,"Northern Territory",28.35
+"2933","2017-09-24",7,"Queensland",28.86
+"2934","2017-09-24",8,"South Australia",19.7
+"2935","2017-09-24",9,"Tasmania",10.75
+"2936","2017-09-24",10,"Victoria",14.6
+"2937","2017-09-24",11,"Western Australia",19.62
+"2938","2017-09-25",1,"Ashmore and Cartier Islands",26.69
+"2939","2017-09-25",2,"Australian Capital Territory",11.73
+"2940","2017-09-25",3,"Coral Sea Islands",23.41
+"2941","2017-09-25",4,"Jervis Bay Territory",18.37
+"2942","2017-09-25",5,"New South Wales",20
+"2943","2017-09-25",6,"Northern Territory",28.86
+"2944","2017-09-25",7,"Queensland",27.83
+"2945","2017-09-25",8,"South Australia",20.16
+"2946","2017-09-25",9,"Tasmania",8.37
+"2947","2017-09-25",10,"Victoria",12.49
+"2948","2017-09-25",11,"Western Australia",18.99
+"2949","2017-09-26",1,"Ashmore and Cartier Islands",26.68
+"2950","2017-09-26",2,"Australian Capital Territory",11.77
+"2951","2017-09-26",3,"Coral Sea Islands",24.04
+"2952","2017-09-26",4,"Jervis Bay Territory",14.07
+"2953","2017-09-26",5,"New South Wales",19.47
+"2954","2017-09-26",6,"Northern Territory",29.84
+"2955","2017-09-26",7,"Queensland",28.48
+"2956","2017-09-26",8,"South Australia",23.88
+"2957","2017-09-26",9,"Tasmania",8.48
+"2958","2017-09-26",10,"Victoria",11.8
+"2959","2017-09-26",11,"Western Australia",19.17
+"2960","2017-09-27",1,"Ashmore and Cartier Islands",26.85
+"2961","2017-09-27",2,"Australian Capital Territory",13.94
+"2962","2017-09-27",3,"Coral Sea Islands",23.69
+"2963","2017-09-27",4,"Jervis Bay Territory",16.65
+"2964","2017-09-27",5,"New South Wales",24.74
+"2965","2017-09-27",6,"Northern Territory",29.99
+"2966","2017-09-27",7,"Queensland",30.05
+"2967","2017-09-27",8,"South Australia",24.46
+"2968","2017-09-27",9,"Tasmania",8.75
+"2969","2017-09-27",10,"Victoria",16.89
+"2970","2017-09-27",11,"Western Australia",18.16
+"2971","2017-09-28",1,"Ashmore and Cartier Islands",27
+"2972","2017-09-28",2,"Australian Capital Territory",14.65
+"2973","2017-09-28",3,"Coral Sea Islands",24.14
+"2974","2017-09-28",4,"Jervis Bay Territory",19.61
+"2975","2017-09-28",5,"New South Wales",20.76
+"2976","2017-09-28",6,"Northern Territory",27.28
+"2977","2017-09-28",7,"Queensland",28.55
+"2978","2017-09-28",8,"South Australia",16.68
+"2979","2017-09-28",9,"Tasmania",10
+"2980","2017-09-28",10,"Victoria",13.92
+"2981","2017-09-28",11,"Western Australia",19.02
+"2982","2017-09-29",1,"Ashmore and Cartier Islands",27.05
+"2983","2017-09-29",2,"Australian Capital Territory",12.95
+"2984","2017-09-29",3,"Coral Sea Islands",24.4
+"2985","2017-09-29",4,"Jervis Bay Territory",17.56
+"2986","2017-09-29",5,"New South Wales",19.47
+"2987","2017-09-29",6,"Northern Territory",27.62
+"2988","2017-09-29",7,"Queensland",26.96
+"2989","2017-09-29",8,"South Australia",18.09
+"2990","2017-09-29",9,"Tasmania",10.11
+"2991","2017-09-29",10,"Victoria",13.43
+"2992","2017-09-29",11,"Western Australia",19.52
+"2993","2017-09-30",1,"Ashmore and Cartier Islands",26.97
+"2994","2017-09-30",2,"Australian Capital Territory",10.86
+"2995","2017-09-30",3,"Coral Sea Islands",24.16
+"2996","2017-09-30",4,"Jervis Bay Territory",17.61
+"2997","2017-09-30",5,"New South Wales",16.72
+"2998","2017-09-30",6,"Northern Territory",25.56
+"2999","2017-09-30",7,"Queensland",26.31
+"3000","2017-09-30",8,"South Australia",15.23
+"3001","2017-09-30",9,"Tasmania",6.63
+"3002","2017-09-30",10,"Victoria",12.54
+"3003","2017-09-30",11,"Western Australia",18.44
+"3004","2017-10-01",1,"Ashmore and Cartier Islands",27.34
+"3005","2017-10-01",2,"Australian Capital Territory",10.91
+"3006","2017-10-01",3,"Coral Sea Islands",23.92
+"3007","2017-10-01",4,"Jervis Bay Territory",15.04
+"3008","2017-10-01",5,"New South Wales",16.51
+"3009","2017-10-01",6,"Northern Territory",22.76
+"3010","2017-10-01",7,"Queensland",21.69
+"3011","2017-10-01",8,"South Australia",16.7
+"3012","2017-10-01",9,"Tasmania",11.28
+"3013","2017-10-01",10,"Victoria",12.67
+"3014","2017-10-01",11,"Western Australia",19.21
+"3015","2017-10-02",1,"Ashmore and Cartier Islands",27.09
+"3016","2017-10-02",2,"Australian Capital Territory",12.9
+"3017","2017-10-02",3,"Coral Sea Islands",24.64
+"3018","2017-10-02",4,"Jervis Bay Territory",16.99
+"3019","2017-10-02",5,"New South Wales",17.17
+"3020","2017-10-02",6,"Northern Territory",23.7
+"3021","2017-10-02",7,"Queensland",21.97
+"3022","2017-10-02",8,"South Australia",19.17
+"3023","2017-10-02",9,"Tasmania",12.57
+"3024","2017-10-02",10,"Victoria",13.36
+"3025","2017-10-02",11,"Western Australia",23.32
+"3026","2017-10-03",1,"Ashmore and Cartier Islands",27.08
+"3027","2017-10-03",2,"Australian Capital Territory",16.28
+"3028","2017-10-03",3,"Coral Sea Islands",24.77
+"3029","2017-10-03",4,"Jervis Bay Territory",17.66
+"3030","2017-10-03",5,"New South Wales",19.71
+"3031","2017-10-03",6,"Northern Territory",26.34
+"3032","2017-10-03",7,"Queensland",24.34
+"3033","2017-10-03",8,"South Australia",22.66
+"3034","2017-10-03",9,"Tasmania",11.72
+"3035","2017-10-03",10,"Victoria",17.32
+"3036","2017-10-03",11,"Western Australia",24.56
+"3037","2017-10-04",1,"Ashmore and Cartier Islands",27.63
+"3038","2017-10-04",2,"Australian Capital Territory",16.83
+"3039","2017-10-04",3,"Coral Sea Islands",24.69
+"3040","2017-10-04",4,"Jervis Bay Territory",16.82
+"3041","2017-10-04",5,"New South Wales",23.09
+"3042","2017-10-04",6,"Northern Territory",28.33
+"3043","2017-10-04",7,"Queensland",26.76
+"3044","2017-10-04",8,"South Australia",24.69
+"3045","2017-10-04",9,"Tasmania",11.76
+"3046","2017-10-04",10,"Victoria",19.05
+"3047","2017-10-04",11,"Western Australia",20.91
+"3048","2017-10-05",1,"Ashmore and Cartier Islands",27.61
+"3049","2017-10-05",2,"Australian Capital Territory",16.17
+"3050","2017-10-05",3,"Coral Sea Islands",24.64
+"3051","2017-10-05",4,"Jervis Bay Territory",17.8
+"3052","2017-10-05",5,"New South Wales",24.44
+"3053","2017-10-05",6,"Northern Territory",29.51
+"3054","2017-10-05",7,"Queensland",28.55
+"3055","2017-10-05",8,"South Australia",19.33
+"3056","2017-10-05",9,"Tasmania",11.25
+"3057","2017-10-05",10,"Victoria",16.09
+"3058","2017-10-05",11,"Western Australia",19.34
+"3059","2017-10-06",1,"Ashmore and Cartier Islands",27.6
+"3060","2017-10-06",2,"Australian Capital Territory",14.34
+"3061","2017-10-06",3,"Coral Sea Islands",24.42
+"3062","2017-10-06",4,"Jervis Bay Territory",15.07
+"3063","2017-10-06",5,"New South Wales",18.34
+"3064","2017-10-06",6,"Northern Territory",27.47
+"3065","2017-10-06",7,"Queensland",28.8
+"3066","2017-10-06",8,"South Australia",15.58
+"3067","2017-10-06",9,"Tasmania",10.55
+"3068","2017-10-06",10,"Victoria",12.14
+"3069","2017-10-06",11,"Western Australia",18.6
+"3070","2017-10-07",1,"Ashmore and Cartier Islands",27.32
+"3071","2017-10-07",2,"Australian Capital Territory",11.92
+"3072","2017-10-07",3,"Coral Sea Islands",24.86
+"3073","2017-10-07",4,"Jervis Bay Territory",15.47
+"3074","2017-10-07",5,"New South Wales",20.02
+"3075","2017-10-07",6,"Northern Territory",28.61
+"3076","2017-10-07",7,"Queensland",28.14
+"3077","2017-10-07",8,"South Australia",21.12
+"3078","2017-10-07",9,"Tasmania",12.2
+"3079","2017-10-07",10,"Victoria",15.33
+"3080","2017-10-07",11,"Western Australia",20.35
+"3081","2017-10-08",1,"Ashmore and Cartier Islands",27.39
+"3082","2017-10-08",2,"Australian Capital Territory",14.1
+"3083","2017-10-08",3,"Coral Sea Islands",24.43
+"3084","2017-10-08",4,"Jervis Bay Territory",16.76
+"3085","2017-10-08",5,"New South Wales",20.29
+"3086","2017-10-08",6,"Northern Territory",28.49
+"3087","2017-10-08",7,"Queensland",27.13
+"3088","2017-10-08",8,"South Australia",24.2
+"3089","2017-10-08",9,"Tasmania",13.79
+"3090","2017-10-08",10,"Victoria",19.57
+"3091","2017-10-08",11,"Western Australia",20.39
+"3092","2017-10-09",1,"Ashmore and Cartier Islands",28.07
+"3093","2017-10-09",2,"Australian Capital Territory",16.5
+"3094","2017-10-09",3,"Coral Sea Islands",24.66
+"3095","2017-10-09",4,"Jervis Bay Territory",20.69
+"3096","2017-10-09",5,"New South Wales",22.69
+"3097","2017-10-09",6,"Northern Territory",30.26
+"3098","2017-10-09",7,"Queensland",29.46
+"3099","2017-10-09",8,"South Australia",20.49
+"3100","2017-10-09",9,"Tasmania",11.61
+"3101","2017-10-09",10,"Victoria",15.92
+"3102","2017-10-09",11,"Western Australia",22.25
+"3103","2017-10-10",1,"Ashmore and Cartier Islands",27.9
+"3104","2017-10-10",2,"Australian Capital Territory",14.52
+"3105","2017-10-10",3,"Coral Sea Islands",24.82
+"3106","2017-10-10",4,"Jervis Bay Territory",15.56
+"3107","2017-10-10",5,"New South Wales",21.13
+"3108","2017-10-10",6,"Northern Territory",29.47
+"3109","2017-10-10",7,"Queensland",30.39
+"3110","2017-10-10",8,"South Australia",22.64
+"3111","2017-10-10",9,"Tasmania",11.47
+"3112","2017-10-10",10,"Victoria",14.95
+"3113","2017-10-10",11,"Western Australia",23.15
+"3114","2017-10-11",1,"Ashmore and Cartier Islands",27.97
+"3115","2017-10-11",2,"Australian Capital Territory",15.3
+"3116","2017-10-11",3,"Coral Sea Islands",24.78
+"3117","2017-10-11",4,"Jervis Bay Territory",18.78
+"3118","2017-10-11",5,"New South Wales",23.85
+"3119","2017-10-11",6,"Northern Territory",28.07
+"3120","2017-10-11",7,"Queensland",30.11
+"3121","2017-10-11",8,"South Australia",21.25
+"3122","2017-10-11",9,"Tasmania",13.23
+"3123","2017-10-11",10,"Victoria",18.93
+"3124","2017-10-11",11,"Western Australia",21.15
+"3125","2017-10-12",1,"Ashmore and Cartier Islands",28.21
+"3126","2017-10-12",2,"Australian Capital Territory",13.76
+"3127","2017-10-12",3,"Coral Sea Islands",24.68
+"3128","2017-10-12",4,"Jervis Bay Territory",19.19
+"3129","2017-10-12",5,"New South Wales",17.58
+"3130","2017-10-12",6,"Northern Territory",27.98
+"3131","2017-10-12",7,"Queensland",27.31
+"3132","2017-10-12",8,"South Australia",17.16
+"3133","2017-10-12",9,"Tasmania",10.39
+"3134","2017-10-12",10,"Victoria",13.49
+"3135","2017-10-12",11,"Western Australia",23.62
+"3136","2017-10-13",1,"Ashmore and Cartier Islands",27.81
+"3137","2017-10-13",2,"Australian Capital Territory",14.14
+"3138","2017-10-13",3,"Coral Sea Islands",24.69
+"3139","2017-10-13",4,"Jervis Bay Territory",18.29
+"3140","2017-10-13",5,"New South Wales",19.15
+"3141","2017-10-13",6,"Northern Territory",28.03
+"3142","2017-10-13",7,"Queensland",27.63
+"3143","2017-10-13",8,"South Australia",19.26
+"3144","2017-10-13",9,"Tasmania",10.27
+"3145","2017-10-13",10,"Victoria",14.4
+"3146","2017-10-13",11,"Western Australia",24.46
+"3147","2017-10-14",1,"Ashmore and Cartier Islands",28.19
+"3148","2017-10-14",2,"Australian Capital Territory",12.94
+"3149","2017-10-14",3,"Coral Sea Islands",24.86
+"3150","2017-10-14",4,"Jervis Bay Territory",15.36
+"3151","2017-10-14",5,"New South Wales",19.66
+"3152","2017-10-14",6,"Northern Territory",28.4
+"3153","2017-10-14",7,"Queensland",26.13
+"3154","2017-10-14",8,"South Australia",21.07
+"3155","2017-10-14",9,"Tasmania",11.09
+"3156","2017-10-14",10,"Victoria",15.04
+"3157","2017-10-14",11,"Western Australia",24.13
+"3158","2017-10-15",1,"Ashmore and Cartier Islands",28.31
+"3159","2017-10-15",2,"Australian Capital Territory",15.59
+"3160","2017-10-15",3,"Coral Sea Islands",24.33
+"3161","2017-10-15",4,"Jervis Bay Territory",16.6
+"3162","2017-10-15",5,"New South Wales",21.35
+"3163","2017-10-15",6,"Northern Territory",28.98
+"3164","2017-10-15",7,"Queensland",26.43
+"3165","2017-10-15",8,"South Australia",23.52
+"3166","2017-10-15",9,"Tasmania",15.28
+"3167","2017-10-15",10,"Victoria",17.5
+"3168","2017-10-15",11,"Western Australia",25.53
+"3169","2017-10-16",1,"Ashmore and Cartier Islands",28.14
+"3170","2017-10-16",2,"Australian Capital Territory",16.54
+"3171","2017-10-16",3,"Coral Sea Islands",24.68
+"3172","2017-10-16",4,"Jervis Bay Territory",17.7
+"3173","2017-10-16",5,"New South Wales",22.25
+"3174","2017-10-16",6,"Northern Territory",29.9
+"3175","2017-10-16",7,"Queensland",24.58
+"3176","2017-10-16",8,"South Australia",27.51
+"3177","2017-10-16",9,"Tasmania",16.38
+"3178","2017-10-16",10,"Victoria",22.01
+"3179","2017-10-16",11,"Western Australia",26.64
+"3180","2017-10-17",1,"Ashmore and Cartier Islands",27.67
+"3181","2017-10-17",2,"Australian Capital Territory",18.52
+"3182","2017-10-17",3,"Coral Sea Islands",24.52
+"3183","2017-10-17",4,"Jervis Bay Territory",18.75
+"3184","2017-10-17",5,"New South Wales",22.98
+"3185","2017-10-17",6,"Northern Territory",30.01
+"3186","2017-10-17",7,"Queensland",23.9
+"3187","2017-10-17",8,"South Australia",28.13
+"3188","2017-10-17",9,"Tasmania",20.21
+"3189","2017-10-17",10,"Victoria",24.37
+"3190","2017-10-17",11,"Western Australia",24.11
+"3191","2017-10-18",1,"Ashmore and Cartier Islands",27.89
+"3192","2017-10-18",2,"Australian Capital Territory",18.49
+"3193","2017-10-18",3,"Coral Sea Islands",25.04
+"3194","2017-10-18",4,"Jervis Bay Territory",19.51
+"3195","2017-10-18",5,"New South Wales",23.81
+"3196","2017-10-18",6,"Northern Territory",30.62
+"3197","2017-10-18",7,"Queensland",25.15
+"3198","2017-10-18",8,"South Australia",28.86
+"3199","2017-10-18",9,"Tasmania",22.42
+"3200","2017-10-18",10,"Victoria",25.98
+"3201","2017-10-18",11,"Western Australia",24.44
+"3202","2017-10-19",1,"Ashmore and Cartier Islands",28.25
+"3203","2017-10-19",2,"Australian Capital Territory",19.09
+"3204","2017-10-19",3,"Coral Sea Islands",24.71
+"3205","2017-10-19",4,"Jervis Bay Territory",19.61
+"3206","2017-10-19",5,"New South Wales",24.32
+"3207","2017-10-19",6,"Northern Territory",31.54
+"3208","2017-10-19",7,"Queensland",26.47
+"3209","2017-10-19",8,"South Australia",24.14
+"3210","2017-10-19",9,"Tasmania",15.55
+"3211","2017-10-19",10,"Victoria",21.28
+"3212","2017-10-19",11,"Western Australia",23.8
+"3213","2017-10-20",1,"Ashmore and Cartier Islands",27.94
+"3214","2017-10-20",2,"Australian Capital Territory",15.57
+"3215","2017-10-20",3,"Coral Sea Islands",24.27
+"3216","2017-10-20",4,"Jervis Bay Territory",15.67
+"3217","2017-10-20",5,"New South Wales",18.42
+"3218","2017-10-20",6,"Northern Territory",30.35
+"3219","2017-10-20",7,"Queensland",25.76
+"3220","2017-10-20",8,"South Australia",18.98
+"3221","2017-10-20",9,"Tasmania",11.24
+"3222","2017-10-20",10,"Victoria",13.85
+"3223","2017-10-20",11,"Western Australia",25.01
+"3224","2017-10-21",1,"Ashmore and Cartier Islands",28.09
+"3225","2017-10-21",2,"Australian Capital Territory",12.17
+"3226","2017-10-21",3,"Coral Sea Islands",24.09
+"3227","2017-10-21",4,"Jervis Bay Territory",14.59
+"3228","2017-10-21",5,"New South Wales",16.32
+"3229","2017-10-21",6,"Northern Territory",27.97
+"3230","2017-10-21",7,"Queensland",22.66
+"3231","2017-10-21",8,"South Australia",19.19
+"3232","2017-10-21",9,"Tasmania",12.14
+"3233","2017-10-21",10,"Victoria",12.7
+"3234","2017-10-21",11,"Western Australia",26.75
+"3235","2017-10-22",1,"Ashmore and Cartier Islands",27.84
+"3236","2017-10-22",2,"Australian Capital Territory",11.56
+"3237","2017-10-22",3,"Coral Sea Islands",23.37
+"3238","2017-10-22",4,"Jervis Bay Territory",14.84
+"3239","2017-10-22",5,"New South Wales",16.91
+"3240","2017-10-22",6,"Northern Territory",27.73
+"3241","2017-10-22",7,"Queensland",23.72
+"3242","2017-10-22",8,"South Australia",19.47
+"3243","2017-10-22",9,"Tasmania",13.34
+"3244","2017-10-22",10,"Victoria",13.73
+"3245","2017-10-22",11,"Western Australia",25.78
+"3246","2017-10-23",1,"Ashmore and Cartier Islands",27.85
+"3247","2017-10-23",2,"Australian Capital Territory",13.69
+"3248","2017-10-23",3,"Coral Sea Islands",24.04
+"3249","2017-10-23",4,"Jervis Bay Territory",16.17
+"3250","2017-10-23",5,"New South Wales",18.74
+"3251","2017-10-23",6,"Northern Territory",28.4
+"3252","2017-10-23",7,"Queensland",24.86
+"3253","2017-10-23",8,"South Australia",23.46
+"3254","2017-10-23",9,"Tasmania",15.12
+"3255","2017-10-23",10,"Victoria",15.88
+"3256","2017-10-23",11,"Western Australia",26.5
+"3257","2017-10-24",1,"Ashmore and Cartier Islands",27.95
+"3258","2017-10-24",2,"Australian Capital Territory",15.97
+"3259","2017-10-24",3,"Coral Sea Islands",24.07
+"3260","2017-10-24",4,"Jervis Bay Territory",19.42
+"3261","2017-10-24",5,"New South Wales",22.75
+"3262","2017-10-24",6,"Northern Territory",30.4
+"3263","2017-10-24",7,"Queensland",26.91
+"3264","2017-10-24",8,"South Australia",27.2
+"3265","2017-10-24",9,"Tasmania",12.74
+"3266","2017-10-24",10,"Victoria",19.37
+"3267","2017-10-24",11,"Western Australia",26.24
+"3268","2017-10-25",1,"Ashmore and Cartier Islands",27.65
+"3269","2017-10-25",2,"Australian Capital Territory",17.99
+"3270","2017-10-25",3,"Coral Sea Islands",24.04
+"3271","2017-10-25",4,"Jervis Bay Territory",18.7
+"3272","2017-10-25",5,"New South Wales",25.11
+"3273","2017-10-25",6,"Northern Territory",32.02
+"3274","2017-10-25",7,"Queensland",28.49
+"3275","2017-10-25",8,"South Australia",24.68
+"3276","2017-10-25",9,"Tasmania",12.39
+"3277","2017-10-25",10,"Victoria",17.21
+"3278","2017-10-25",11,"Western Australia",26.66
+"3279","2017-10-26",1,"Ashmore and Cartier Islands",27.58
+"3280","2017-10-26",2,"Australian Capital Territory",13.14
+"3281","2017-10-26",3,"Coral Sea Islands",24.38
+"3282","2017-10-26",4,"Jervis Bay Territory",17.7
+"3283","2017-10-26",5,"New South Wales",23.4
+"3284","2017-10-26",6,"Northern Territory",31.95
+"3285","2017-10-26",7,"Queensland",29.08
+"3286","2017-10-26",8,"South Australia",24.06
+"3287","2017-10-26",9,"Tasmania",13.54
+"3288","2017-10-26",10,"Victoria",15.28
+"3289","2017-10-26",11,"Western Australia",27.64
+"3290","2017-10-27",1,"Ashmore and Cartier Islands",28.03
+"3291","2017-10-27",2,"Australian Capital Territory",14.05
+"3292","2017-10-27",3,"Coral Sea Islands",24.53
+"3293","2017-10-27",4,"Jervis Bay Territory",18.42
+"3294","2017-10-27",5,"New South Wales",21.36
+"3295","2017-10-27",6,"Northern Territory",32.63
+"3296","2017-10-27",7,"Queensland",28.86
+"3297","2017-10-27",8,"South Australia",27.32
+"3298","2017-10-27",9,"Tasmania",15.09
+"3299","2017-10-27",10,"Victoria",19.49
+"3300","2017-10-27",11,"Western Australia",23.07
+"3301","2017-10-28",1,"Ashmore and Cartier Islands",27.76
+"3302","2017-10-28",2,"Australian Capital Territory",15.84
+"3303","2017-10-28",3,"Coral Sea Islands",25.17
+"3304","2017-10-28",4,"Jervis Bay Territory",19.83
+"3305","2017-10-28",5,"New South Wales",24.28
+"3306","2017-10-28",6,"Northern Territory",30.73
+"3307","2017-10-28",7,"Queensland",28.9
+"3308","2017-10-28",8,"South Australia",21.14
+"3309","2017-10-28",9,"Tasmania",15.68
+"3310","2017-10-28",10,"Victoria",17.76
+"3311","2017-10-28",11,"Western Australia",23.93
+"3312","2017-10-29",1,"Ashmore and Cartier Islands",28.28
+"3313","2017-10-29",2,"Australian Capital Territory",16.46
+"3314","2017-10-29",3,"Coral Sea Islands",25.27
+"3315","2017-10-29",4,"Jervis Bay Territory",21.08
+"3316","2017-10-29",5,"New South Wales",24.52
+"3317","2017-10-29",6,"Northern Territory",31.6
+"3318","2017-10-29",7,"Queensland",29.72
+"3319","2017-10-29",8,"South Australia",27.59
+"3320","2017-10-29",9,"Tasmania",15.45
+"3321","2017-10-29",10,"Victoria",21.62
+"3322","2017-10-29",11,"Western Australia",24.55
+"3323","2017-10-30",1,"Ashmore and Cartier Islands",28.41
+"3324","2017-10-30",2,"Australian Capital Territory",17.17
+"3325","2017-10-30",3,"Coral Sea Islands",25.18
+"3326","2017-10-30",4,"Jervis Bay Territory",22.68
+"3327","2017-10-30",5,"New South Wales",21.45
+"3328","2017-10-30",6,"Northern Territory",29.2
+"3329","2017-10-30",7,"Queensland",29.31
+"3330","2017-10-30",8,"South Australia",17.17
+"3331","2017-10-30",9,"Tasmania",10.95
+"3332","2017-10-30",10,"Victoria",11.77
+"3333","2017-10-30",11,"Western Australia",24.68
+"3334","2017-10-31",1,"Ashmore and Cartier Islands",28.39
+"3335","2017-10-31",2,"Australian Capital Territory",10.83
+"3336","2017-10-31",3,"Coral Sea Islands",25.38
+"3337","2017-10-31",4,"Jervis Bay Territory",15.1
+"3338","2017-10-31",5,"New South Wales",15.81
+"3339","2017-10-31",6,"Northern Territory",27.15
+"3340","2017-10-31",7,"Queensland",25.02
+"3341","2017-10-31",8,"South Australia",18.01
+"3342","2017-10-31",9,"Tasmania",11.56
+"3343","2017-10-31",10,"Victoria",12.47
+"3344","2017-10-31",11,"Western Australia",26.78
+"3345","2017-11-01",1,"Ashmore and Cartier Islands",28.54
+"3346","2017-11-01",2,"Australian Capital Territory",13.77
+"3347","2017-11-01",3,"Coral Sea Islands",24.6
+"3348","2017-11-01",4,"Jervis Bay Territory",16.09
+"3349","2017-11-01",5,"New South Wales",17.61
+"3350","2017-11-01",6,"Northern Territory",26.44
+"3351","2017-11-01",7,"Queensland",24.98
+"3352","2017-11-01",8,"South Australia",22.02
+"3353","2017-11-01",9,"Tasmania",13.51
+"3354","2017-11-01",10,"Victoria",14.95
+"3355","2017-11-01",11,"Western Australia",27.68
+"3356","2017-11-02",1,"Ashmore and Cartier Islands",28.36
+"3357","2017-11-02",2,"Australian Capital Territory",15.2
+"3358","2017-11-02",3,"Coral Sea Islands",24.67
+"3359","2017-11-02",4,"Jervis Bay Territory",16.68
+"3360","2017-11-02",5,"New South Wales",20.59
+"3361","2017-11-02",6,"Northern Territory",27.67
+"3362","2017-11-02",7,"Queensland",26.7
+"3363","2017-11-02",8,"South Australia",24.51
+"3364","2017-11-02",9,"Tasmania",9.64
+"3365","2017-11-02",10,"Victoria",14.67
+"3366","2017-11-02",11,"Western Australia",26.85
+"3367","2017-11-03",1,"Ashmore and Cartier Islands",28.33
+"3368","2017-11-03",2,"Australian Capital Territory",14.38
+"3369","2017-11-03",3,"Coral Sea Islands",25.1
+"3370","2017-11-03",4,"Jervis Bay Territory",20.64
+"3371","2017-11-03",5,"New South Wales",23.08
+"3372","2017-11-03",6,"Northern Territory",29.77
+"3373","2017-11-03",7,"Queensland",28.79
+"3374","2017-11-03",8,"South Australia",24.11
+"3375","2017-11-03",9,"Tasmania",8.56
+"3376","2017-11-03",10,"Victoria",12.71
+"3377","2017-11-03",11,"Western Australia",26.3
+"3378","2017-11-04",1,"Ashmore and Cartier Islands",28.22
+"3379","2017-11-04",2,"Australian Capital Territory",10.76
+"3380","2017-11-04",3,"Coral Sea Islands",25.22
+"3381","2017-11-04",4,"Jervis Bay Territory",13.75
+"3382","2017-11-04",5,"New South Wales",19.3
+"3383","2017-11-04",6,"Northern Territory",31.92
+"3384","2017-11-04",7,"Queensland",29.8
+"3385","2017-11-04",8,"South Australia",22.9
+"3386","2017-11-04",9,"Tasmania",9.19
+"3387","2017-11-04",10,"Victoria",12.87
+"3388","2017-11-04",11,"Western Australia",25.86
+"3389","2017-11-05",1,"Ashmore and Cartier Islands",28.42
+"3390","2017-11-05",2,"Australian Capital Territory",12.47
+"3391","2017-11-05",3,"Coral Sea Islands",25.32
+"3392","2017-11-05",4,"Jervis Bay Territory",15.27
+"3393","2017-11-05",5,"New South Wales",20.92
+"3394","2017-11-05",6,"Northern Territory",32.03
+"3395","2017-11-05",7,"Queensland",29.96
+"3396","2017-11-05",8,"South Australia",23.87
+"3397","2017-11-05",9,"Tasmania",9.98
+"3398","2017-11-05",10,"Victoria",15.16
+"3399","2017-11-05",11,"Western Australia",25.67
+"3400","2017-11-06",1,"Ashmore and Cartier Islands",29.19
+"3401","2017-11-06",2,"Australian Capital Territory",9.11
+"3402","2017-11-06",3,"Coral Sea Islands",25.25
+"3403","2017-11-06",4,"Jervis Bay Territory",17.85
+"3404","2017-11-06",5,"New South Wales",20.64
+"3405","2017-11-06",6,"Northern Territory",30.98
+"3406","2017-11-06",7,"Queensland",29.47
+"3407","2017-11-06",8,"South Australia",20.48
+"3408","2017-11-06",9,"Tasmania",12.35
+"3409","2017-11-06",10,"Victoria",14.46
+"3410","2017-11-06",11,"Western Australia",24.85
+"3411","2017-11-07",1,"Ashmore and Cartier Islands",29.25
+"3412","2017-11-07",2,"Australian Capital Territory",12.57
+"3413","2017-11-07",3,"Coral Sea Islands",25.63
+"3414","2017-11-07",4,"Jervis Bay Territory",15.57
+"3415","2017-11-07",5,"New South Wales",18.31
+"3416","2017-11-07",6,"Northern Territory",27.56
+"3417","2017-11-07",7,"Queensland",27.83
+"3418","2017-11-07",8,"South Australia",19.99
+"3419","2017-11-07",9,"Tasmania",10.07
+"3420","2017-11-07",10,"Victoria",13.67
+"3421","2017-11-07",11,"Western Australia",25.06
+"3422","2017-11-08",1,"Ashmore and Cartier Islands",29.45
+"3423","2017-11-08",2,"Australian Capital Territory",12.8
+"3424","2017-11-08",3,"Coral Sea Islands",25.42
+"3425","2017-11-08",4,"Jervis Bay Territory",14.96
+"3426","2017-11-08",5,"New South Wales",19.23
+"3427","2017-11-08",6,"Northern Territory",26.13
+"3428","2017-11-08",7,"Queensland",27.57
+"3429","2017-11-08",8,"South Australia",22.79
+"3430","2017-11-08",9,"Tasmania",13.59
+"3431","2017-11-08",10,"Victoria",15.94
+"3432","2017-11-08",11,"Western Australia",25.44
+"3433","2017-11-09",1,"Ashmore and Cartier Islands",29.04
+"3434","2017-11-09",2,"Australian Capital Territory",16.55
+"3435","2017-11-09",3,"Coral Sea Islands",24.71
+"3436","2017-11-09",4,"Jervis Bay Territory",17.38
+"3437","2017-11-09",5,"New South Wales",21.69
+"3438","2017-11-09",6,"Northern Territory",28.76
+"3439","2017-11-09",7,"Queensland",26.58
+"3440","2017-11-09",8,"South Australia",26.16
+"3441","2017-11-09",9,"Tasmania",14.43
+"3442","2017-11-09",10,"Victoria",20.98
+"3443","2017-11-09",11,"Western Australia",25.39
+"3444","2017-11-10",1,"Ashmore and Cartier Islands",29.08
+"3445","2017-11-10",2,"Australian Capital Territory",18
+"3446","2017-11-10",3,"Coral Sea Islands",24.27
+"3447","2017-11-10",4,"Jervis Bay Territory",18.38
+"3448","2017-11-10",5,"New South Wales",23.47
+"3449","2017-11-10",6,"Northern Territory",30.67
+"3450","2017-11-10",7,"Queensland",25.98
+"3451","2017-11-10",8,"South Australia",28
+"3452","2017-11-10",9,"Tasmania",15.49
+"3453","2017-11-10",10,"Victoria",23.5
+"3454","2017-11-10",11,"Western Australia",25.96
+"3455","2017-11-11",1,"Ashmore and Cartier Islands",28.91
+"3456","2017-11-11",2,"Australian Capital Territory",17.71
+"3457","2017-11-11",3,"Coral Sea Islands",24.28
+"3458","2017-11-11",4,"Jervis Bay Territory",18.5
+"3459","2017-11-11",5,"New South Wales",24.58
+"3460","2017-11-11",6,"Northern Territory",28.73
+"3461","2017-11-11",7,"Queensland",26.59
+"3462","2017-11-11",8,"South Australia",27.57
+"3463","2017-11-11",9,"Tasmania",16.63
+"3464","2017-11-11",10,"Victoria",25.05
+"3465","2017-11-11",11,"Western Australia",27.29
+"3466","2017-11-12",1,"Ashmore and Cartier Islands",28.97
+"3467","2017-11-12",2,"Australian Capital Territory",16.76
+"3468","2017-11-12",3,"Coral Sea Islands",24.27
+"3469","2017-11-12",4,"Jervis Bay Territory",18.28
+"3470","2017-11-12",5,"New South Wales",24.95
+"3471","2017-11-12",6,"Northern Territory",26.56
+"3472","2017-11-12",7,"Queensland",26.65
+"3473","2017-11-12",8,"South Australia",27.48
+"3474","2017-11-12",9,"Tasmania",17.02
+"3475","2017-11-12",10,"Victoria",24.63
+"3476","2017-11-12",11,"Western Australia",27.97
+"3477","2017-11-13",1,"Ashmore and Cartier Islands",28.99
+"3478","2017-11-13",2,"Australian Capital Territory",16.99
+"3479","2017-11-13",3,"Coral Sea Islands",24.58
+"3480","2017-11-13",4,"Jervis Bay Territory",17.82
+"3481","2017-11-13",5,"New South Wales",25.24
+"3482","2017-11-13",6,"Northern Territory",26.75
+"3483","2017-11-13",7,"Queensland",27.01
+"3484","2017-11-13",8,"South Australia",28.93
+"3485","2017-11-13",9,"Tasmania",18.18
+"3486","2017-11-13",10,"Victoria",26.88
+"3487","2017-11-13",11,"Western Australia",26.37
+"3488","2017-11-14",1,"Ashmore and Cartier Islands",28.65
+"3489","2017-11-14",2,"Australian Capital Territory",17.15
+"3490","2017-11-14",3,"Coral Sea Islands",24.54
+"3491","2017-11-14",4,"Jervis Bay Territory",18.63
+"3492","2017-11-14",5,"New South Wales",25.37
+"3493","2017-11-14",6,"Northern Territory",27.26
+"3494","2017-11-14",7,"Queensland",26.94
+"3495","2017-11-14",8,"South Australia",26.4
+"3496","2017-11-14",9,"Tasmania",19.54
+"3497","2017-11-14",10,"Victoria",27.58
+"3498","2017-11-14",11,"Western Australia",25.55
+"3499","2017-11-15",1,"Ashmore and Cartier Islands",28.77
+"3500","2017-11-15",2,"Australian Capital Territory",19.77
+"3501","2017-11-15",3,"Coral Sea Islands",24.5
+"3502","2017-11-15",4,"Jervis Bay Territory",20.04
+"3503","2017-11-15",5,"New South Wales",24.72
+"3504","2017-11-15",6,"Northern Territory",28.39
+"3505","2017-11-15",7,"Queensland",26.7
+"3506","2017-11-15",8,"South Australia",20.76
+"3507","2017-11-15",9,"Tasmania",21.19
+"3508","2017-11-15",10,"Victoria",24.98
+"3509","2017-11-15",11,"Western Australia",24.19
+"3510","2017-11-16",1,"Ashmore and Cartier Islands",28.49
+"3511","2017-11-16",2,"Australian Capital Territory",17.84
+"3512","2017-11-16",3,"Coral Sea Islands",24.7
+"3513","2017-11-16",4,"Jervis Bay Territory",20.62
+"3514","2017-11-16",5,"New South Wales",20.76
+"3515","2017-11-16",6,"Northern Territory",27.62
+"3516","2017-11-16",7,"Queensland",27.59
+"3517","2017-11-16",8,"South Australia",18.56
+"3518","2017-11-16",9,"Tasmania",14.82
+"3519","2017-11-16",10,"Victoria",16.93
+"3520","2017-11-16",11,"Western Australia",25.89
+"3521","2017-11-17",1,"Ashmore and Cartier Islands",28.72
+"3522","2017-11-17",2,"Australian Capital Territory",17.01
+"3523","2017-11-17",3,"Coral Sea Islands",24.55
+"3524","2017-11-17",4,"Jervis Bay Territory",19.36
+"3525","2017-11-17",5,"New South Wales",22.13
+"3526","2017-11-17",6,"Northern Territory",28.5
+"3527","2017-11-17",7,"Queensland",27.69
+"3528","2017-11-17",8,"South Australia",21.05
+"3529","2017-11-17",9,"Tasmania",18.37
+"3530","2017-11-17",10,"Victoria",18.59
+"3531","2017-11-17",11,"Western Australia",28.1
+"3532","2017-11-18",1,"Ashmore and Cartier Islands",29.18
+"3533","2017-11-18",2,"Australian Capital Territory",13.71
+"3534","2017-11-18",3,"Coral Sea Islands",24.53
+"3535","2017-11-18",4,"Jervis Bay Territory",19.19
+"3536","2017-11-18",5,"New South Wales",21.43
+"3537","2017-11-18",6,"Northern Territory",30.83
+"3538","2017-11-18",7,"Queensland",27.34
+"3539","2017-11-18",8,"South Australia",25.86
+"3540","2017-11-18",9,"Tasmania",20.05
+"3541","2017-11-18",10,"Victoria",21.92
+"3542","2017-11-18",11,"Western Australia",28.49
+"3543","2017-11-19",1,"Ashmore and Cartier Islands",27.12
+"3544","2017-11-19",2,"Australian Capital Territory",17.02
+"3545","2017-11-19",3,"Coral Sea Islands",24.57
+"3546","2017-11-19",4,"Jervis Bay Territory",20.16
+"3547","2017-11-19",5,"New South Wales",22.7
+"3548","2017-11-19",6,"Northern Territory",31.42
+"3549","2017-11-19",7,"Queensland",28.24
+"3550","2017-11-19",8,"South Australia",27.06
+"3551","2017-11-19",9,"Tasmania",20.73
+"3552","2017-11-19",10,"Victoria",23.32
+"3553","2017-11-19",11,"Western Australia",25.94
+"3554","2017-11-20",1,"Ashmore and Cartier Islands",27.61
+"3555","2017-11-20",2,"Australian Capital Territory",17.93
+"3556","2017-11-20",3,"Coral Sea Islands",24.25
+"3557","2017-11-20",4,"Jervis Bay Territory",19.61
+"3558","2017-11-20",5,"New South Wales",23.72
+"3559","2017-11-20",6,"Northern Territory",30.78
+"3560","2017-11-20",7,"Queensland",27.57
+"3561","2017-11-20",8,"South Australia",28.45
+"3562","2017-11-20",9,"Tasmania",20.63
+"3563","2017-11-20",10,"Victoria",25.73
+"3564","2017-11-20",11,"Western Australia",27.27
+"3565","2017-11-21",1,"Ashmore and Cartier Islands",27.58
+"3566","2017-11-21",2,"Australian Capital Territory",18.5
+"3567","2017-11-21",3,"Coral Sea Islands",24.27
+"3568","2017-11-21",4,"Jervis Bay Territory",19.19
+"3569","2017-11-21",5,"New South Wales",24.4
+"3570","2017-11-21",6,"Northern Territory",31.26
+"3571","2017-11-21",7,"Queensland",26.09
+"3572","2017-11-21",8,"South Australia",29.86
+"3573","2017-11-21",9,"Tasmania",20.72
+"3574","2017-11-21",10,"Victoria",27.04
+"3575","2017-11-21",11,"Western Australia",27.76
+"3576","2017-11-22",1,"Ashmore and Cartier Islands",28.53
+"3577","2017-11-22",2,"Australian Capital Territory",17.68
+"3578","2017-11-22",3,"Coral Sea Islands",24.58
+"3579","2017-11-22",4,"Jervis Bay Territory",19.19
+"3580","2017-11-22",5,"New South Wales",24.82
+"3581","2017-11-22",6,"Northern Territory",30.31
+"3582","2017-11-22",7,"Queensland",25.24
+"3583","2017-11-22",8,"South Australia",27.03
+"3584","2017-11-22",9,"Tasmania",21.93
+"3585","2017-11-22",10,"Victoria",27.42
+"3586","2017-11-22",11,"Western Australia",25.22
+"3587","2017-11-23",1,"Ashmore and Cartier Islands",29.08
+"3588","2017-11-23",2,"Australian Capital Territory",19.29
+"3589","2017-11-23",3,"Coral Sea Islands",24.96
+"3590","2017-11-23",4,"Jervis Bay Territory",20.22
+"3591","2017-11-23",5,"New South Wales",26.13
+"3592","2017-11-23",6,"Northern Territory",29.24
+"3593","2017-11-23",7,"Queensland",26.63
+"3594","2017-11-23",8,"South Australia",23.11
+"3595","2017-11-23",9,"Tasmania",21.35
+"3596","2017-11-23",10,"Victoria",27.68
+"3597","2017-11-23",11,"Western Australia",25.49
+"3598","2017-11-24",1,"Ashmore and Cartier Islands",28.31
+"3599","2017-11-24",2,"Australian Capital Territory",21.23
+"3600","2017-11-24",3,"Coral Sea Islands",25.47
+"3601","2017-11-24",4,"Jervis Bay Territory",21.26
+"3602","2017-11-24",5,"New South Wales",26.85
+"3603","2017-11-24",6,"Northern Territory",29.04
+"3604","2017-11-24",7,"Queensland",28.56
+"3605","2017-11-24",8,"South Australia",22.62
+"3606","2017-11-24",9,"Tasmania",20.64
+"3607","2017-11-24",10,"Victoria",25.4
+"3608","2017-11-24",11,"Western Australia",26.85
+"3609","2017-11-25",1,"Ashmore and Cartier Islands",29.33
+"3610","2017-11-25",2,"Australian Capital Territory",22.05
+"3611","2017-11-25",3,"Coral Sea Islands",25.46
+"3612","2017-11-25",4,"Jervis Bay Territory",20.97
+"3613","2017-11-25",5,"New South Wales",28.02
+"3614","2017-11-25",6,"Northern Territory",30.29
+"3615","2017-11-25",7,"Queensland",29.62
+"3616","2017-11-25",8,"South Australia",25.33
+"3617","2017-11-25",9,"Tasmania",19.1
+"3618","2017-11-25",10,"Victoria",26.29
+"3619","2017-11-25",11,"Western Australia",28.76
+"3620","2017-11-26",1,"Ashmore and Cartier Islands",29.08
+"3621","2017-11-26",2,"Australian Capital Territory",20.51
+"3622","2017-11-26",3,"Coral Sea Islands",25.43
+"3623","2017-11-26",4,"Jervis Bay Territory",21.14
+"3624","2017-11-26",5,"New South Wales",28.55
+"3625","2017-11-26",6,"Northern Territory",29.96
+"3626","2017-11-26",7,"Queensland",30.68
+"3627","2017-11-26",8,"South Australia",25.35
+"3628","2017-11-26",9,"Tasmania",17.72
+"3629","2017-11-26",10,"Victoria",22.81
+"3630","2017-11-26",11,"Western Australia",28.09
+"3631","2017-11-27",1,"Ashmore and Cartier Islands",28.68
+"3632","2017-11-27",2,"Australian Capital Territory",18.55
+"3633","2017-11-27",3,"Coral Sea Islands",25.75
+"3634","2017-11-27",4,"Jervis Bay Territory",21.49
+"3635","2017-11-27",5,"New South Wales",25.39
+"3636","2017-11-27",6,"Northern Territory",26.62
+"3637","2017-11-27",7,"Queensland",29.92
+"3638","2017-11-27",8,"South Australia",26.6
+"3639","2017-11-27",9,"Tasmania",17.69
+"3640","2017-11-27",10,"Victoria",20.99
+"3641","2017-11-27",11,"Western Australia",28.07
+"3642","2017-11-28",1,"Ashmore and Cartier Islands",29.45
+"3643","2017-11-28",2,"Australian Capital Territory",20.19
+"3644","2017-11-28",3,"Coral Sea Islands",25.69
+"3645","2017-11-28",4,"Jervis Bay Territory",20.23
+"3646","2017-11-28",5,"New South Wales",27.45
+"3647","2017-11-28",6,"Northern Territory",29.57
+"3648","2017-11-28",7,"Queensland",27.85
+"3649","2017-11-28",8,"South Australia",30.47
+"3650","2017-11-28",9,"Tasmania",18.62
+"3651","2017-11-28",10,"Victoria",25.24
+"3652","2017-11-28",11,"Western Australia",28.37
+"3653","2017-11-29",1,"Ashmore and Cartier Islands",29.43
+"3654","2017-11-29",2,"Australian Capital Territory",21.09
+"3655","2017-11-29",3,"Coral Sea Islands",25.76
+"3656","2017-11-29",4,"Jervis Bay Territory",20.51
+"3657","2017-11-29",5,"New South Wales",26.42
+"3658","2017-11-29",6,"Northern Territory",30.77
+"3659","2017-11-29",7,"Queensland",29.17
+"3660","2017-11-29",8,"South Australia",31.63
+"3661","2017-11-29",9,"Tasmania",20.73
+"3662","2017-11-29",10,"Victoria",29.15
+"3663","2017-11-29",11,"Western Australia",26.94
+"3664","2017-11-30",1,"Ashmore and Cartier Islands",28.69
+"3665","2017-11-30",2,"Australian Capital Territory",21.38
+"3666","2017-11-30",3,"Coral Sea Islands",25.9
+"3667","2017-11-30",4,"Jervis Bay Territory",21.64
+"3668","2017-11-30",5,"New South Wales",27.25
+"3669","2017-11-30",6,"Northern Territory",32.5
+"3670","2017-11-30",7,"Queensland",29.94
+"3671","2017-11-30",8,"South Australia",29.44
+"3672","2017-11-30",9,"Tasmania",23.41
+"3673","2017-11-30",10,"Victoria",28.88
+"3674","2017-11-30",11,"Western Australia",25.77
+"3675","2017-12-01",1,"Ashmore and Cartier Islands",27.74
+"3676","2017-12-01",2,"Australian Capital Territory",21.62
+"3677","2017-12-01",3,"Coral Sea Islands",25.87
+"3678","2017-12-01",4,"Jervis Bay Territory",22.97
+"3679","2017-12-01",5,"New South Wales",26.33
+"3680","2017-12-01",6,"Northern Territory",30.49
+"3681","2017-12-01",7,"Queensland",30.28
+"3682","2017-12-01",8,"South Australia",21.2
+"3683","2017-12-01",9,"Tasmania",17.87
+"3684","2017-12-01",10,"Victoria",20.45
+"3685","2017-12-01",11,"Western Australia",24.63
+"3686","2017-12-02",1,"Ashmore and Cartier Islands",28.35
+"3687","2017-12-02",2,"Australian Capital Territory",16.06
+"3688","2017-12-02",3,"Coral Sea Islands",26.02
+"3689","2017-12-02",4,"Jervis Bay Territory",22.54
+"3690","2017-12-02",5,"New South Wales",19.98
+"3691","2017-12-02",6,"Northern Territory",27.58
+"3692","2017-12-02",7,"Queensland",27.25
+"3693","2017-12-02",8,"South Australia",18.54
+"3694","2017-12-02",9,"Tasmania",12.96
+"3695","2017-12-02",10,"Victoria",15.12
+"3696","2017-12-02",11,"Western Australia",26.53
+"3697","2017-12-03",1,"Ashmore and Cartier Islands",29.24
+"3698","2017-12-03",2,"Australian Capital Territory",12.25
+"3699","2017-12-03",3,"Coral Sea Islands",26.16
+"3700","2017-12-03",4,"Jervis Bay Territory",20.8
+"3701","2017-12-03",5,"New South Wales",18.12
+"3702","2017-12-03",6,"Northern Territory",26.51
+"3703","2017-12-03",7,"Queensland",26.09
+"3704","2017-12-03",8,"South Australia",18.88
+"3705","2017-12-03",9,"Tasmania",8.72
+"3706","2017-12-03",10,"Victoria",14.72
+"3707","2017-12-03",11,"Western Australia",26.76
+"3708","2017-12-04",1,"Ashmore and Cartier Islands",28.68
+"3709","2017-12-04",2,"Australian Capital Territory",10.68
+"3710","2017-12-04",3,"Coral Sea Islands",26.29
+"3711","2017-12-04",4,"Jervis Bay Territory",16.52
+"3712","2017-12-04",5,"New South Wales",18.59
+"3713","2017-12-04",6,"Northern Territory",26.7
+"3714","2017-12-04",7,"Queensland",25.44
+"3715","2017-12-04",8,"South Australia",19.53
+"3716","2017-12-04",9,"Tasmania",13.15
+"3717","2017-12-04",10,"Victoria",15.68
+"3718","2017-12-04",11,"Western Australia",26.14
+"3719","2017-12-05",1,"Ashmore and Cartier Islands",28.96
+"3720","2017-12-05",2,"Australian Capital Territory",13.55
+"3721","2017-12-05",3,"Coral Sea Islands",25.7
+"3722","2017-12-05",4,"Jervis Bay Territory",18.27
+"3723","2017-12-05",5,"New South Wales",19.79
+"3724","2017-12-05",6,"Northern Territory",27.46
+"3725","2017-12-05",7,"Queensland",25.97
+"3726","2017-12-05",8,"South Australia",22.48
+"3727","2017-12-05",9,"Tasmania",15.03
+"3728","2017-12-05",10,"Victoria",17.34
+"3729","2017-12-05",11,"Western Australia",27.63
+"3730","2017-12-06",1,"Ashmore and Cartier Islands",27.95
+"3731","2017-12-06",2,"Australian Capital Territory",14.71
+"3732","2017-12-06",3,"Coral Sea Islands",26.25
+"3733","2017-12-06",4,"Jervis Bay Territory",19.43
+"3734","2017-12-06",5,"New South Wales",21.75
+"3735","2017-12-06",6,"Northern Territory",29.49
+"3736","2017-12-06",7,"Queensland",28.1
+"3737","2017-12-06",8,"South Australia",26.76
+"3738","2017-12-06",9,"Tasmania",15.15
+"3739","2017-12-06",10,"Victoria",19.16
+"3740","2017-12-06",11,"Western Australia",27.18
+"3741","2017-12-07",1,"Ashmore and Cartier Islands",29.18
+"3742","2017-12-07",2,"Australian Capital Territory",18.82
+"3743","2017-12-07",3,"Coral Sea Islands",26.18
+"3744","2017-12-07",4,"Jervis Bay Territory",22.62
+"3745","2017-12-07",5,"New South Wales",26.23
+"3746","2017-12-07",6,"Northern Territory",31.41
+"3747","2017-12-07",7,"Queensland",31.05
+"3748","2017-12-07",8,"South Australia",23.61
+"3749","2017-12-07",9,"Tasmania",15.38
+"3750","2017-12-07",10,"Victoria",19.37
+"3751","2017-12-07",11,"Western Australia",25.24
+"3752","2017-12-08",1,"Ashmore and Cartier Islands",28.64
+"3753","2017-12-08",2,"Australian Capital Territory",16.2
+"3754","2017-12-08",3,"Coral Sea Islands",26.31
+"3755","2017-12-08",4,"Jervis Bay Territory",21.12
+"3756","2017-12-08",5,"New South Wales",21.63
+"3757","2017-12-08",6,"Northern Territory",29.62
+"3758","2017-12-08",7,"Queensland",30.85
+"3759","2017-12-08",8,"South Australia",19.74
+"3760","2017-12-08",9,"Tasmania",13.05
+"3761","2017-12-08",10,"Victoria",15.62
+"3762","2017-12-08",11,"Western Australia",26.21
+"3763","2017-12-09",1,"Ashmore and Cartier Islands",29.57
+"3764","2017-12-09",2,"Australian Capital Territory",17.44
+"3765","2017-12-09",3,"Coral Sea Islands",26.45
+"3766","2017-12-09",4,"Jervis Bay Territory",19.29
+"3767","2017-12-09",5,"New South Wales",22.43
+"3768","2017-12-09",6,"Northern Territory",30.07
+"3769","2017-12-09",7,"Queensland",29.92
+"3770","2017-12-09",8,"South Australia",23.57
+"3771","2017-12-09",9,"Tasmania",15.54
+"3772","2017-12-09",10,"Victoria",18.96
+"3773","2017-12-09",11,"Western Australia",29.26
+"3774","2017-12-10",1,"Ashmore and Cartier Islands",29.49
+"3775","2017-12-10",2,"Australian Capital Territory",19.6
+"3776","2017-12-10",3,"Coral Sea Islands",26.25
+"3777","2017-12-10",4,"Jervis Bay Territory",20.82
+"3778","2017-12-10",5,"New South Wales",25.23
+"3779","2017-12-10",6,"Northern Territory",31.65
+"3780","2017-12-10",7,"Queensland",30.44
+"3781","2017-12-10",8,"South Australia",28.03
+"3782","2017-12-10",9,"Tasmania",17.25
+"3783","2017-12-10",10,"Victoria",20.51
+"3784","2017-12-10",11,"Western Australia",29.83
+"3785","2017-12-11",1,"Ashmore and Cartier Islands",29.79
+"3786","2017-12-11",2,"Australian Capital Territory",21.68
+"3787","2017-12-11",3,"Coral Sea Islands",26
+"3788","2017-12-11",4,"Jervis Bay Territory",20.47
+"3789","2017-12-11",5,"New South Wales",27.01
+"3790","2017-12-11",6,"Northern Territory",32.56
+"3791","2017-12-11",7,"Queensland",30.31
+"3792","2017-12-11",8,"South Australia",30.44
+"3793","2017-12-11",9,"Tasmania",16.21
+"3794","2017-12-11",10,"Victoria",21.05
+"3795","2017-12-11",11,"Western Australia",29.27
+"3796","2017-12-12",1,"Ashmore and Cartier Islands",29.4
+"3797","2017-12-12",2,"Australian Capital Territory",21.9
+"3798","2017-12-12",3,"Coral Sea Islands",25.73
+"3799","2017-12-12",4,"Jervis Bay Territory",21
+"3800","2017-12-12",5,"New South Wales",28.69
+"3801","2017-12-12",6,"Northern Territory",33.47
+"3802","2017-12-12",7,"Queensland",30.79
+"3803","2017-12-12",8,"South Australia",33.31
+"3804","2017-12-12",9,"Tasmania",18.74
+"3805","2017-12-12",10,"Victoria",23.41
+"3806","2017-12-12",11,"Western Australia",29.07
+"3807","2017-12-13",1,"Ashmore and Cartier Islands",29.78
+"3808","2017-12-13",2,"Australian Capital Territory",24.18
+"3809","2017-12-13",3,"Coral Sea Islands",25.46
+"3810","2017-12-13",4,"Jervis Bay Territory",21.68
+"3811","2017-12-13",5,"New South Wales",31.82
+"3812","2017-12-13",6,"Northern Territory",33.74
+"3813","2017-12-13",7,"Queensland",30.88
+"3814","2017-12-13",8,"South Australia",34.03
+"3815","2017-12-13",9,"Tasmania",19.92
+"3816","2017-12-13",10,"Victoria",31.49
+"3817","2017-12-13",11,"Western Australia",28.06
+"3818","2017-12-14",1,"Ashmore and Cartier Islands",27.3
+"3819","2017-12-14",2,"Australian Capital Territory",25.27
+"3820","2017-12-14",3,"Coral Sea Islands",25.66
+"3821","2017-12-14",4,"Jervis Bay Territory",25.28
+"3822","2017-12-14",5,"New South Wales",31.77
+"3823","2017-12-14",6,"Northern Territory",31.57
+"3824","2017-12-14",7,"Queensland",31.41
+"3825","2017-12-14",8,"South Australia",25.18
+"3826","2017-12-14",9,"Tasmania",19.11
+"3827","2017-12-14",10,"Victoria",23.44
+"3828","2017-12-14",11,"Western Australia",27.51
+"3829","2017-12-15",1,"Ashmore and Cartier Islands",29.76
+"3830","2017-12-15",2,"Australian Capital Territory",20.91
+"3831","2017-12-15",3,"Coral Sea Islands",26.12
+"3832","2017-12-15",4,"Jervis Bay Territory",19.82
+"3833","2017-12-15",5,"New South Wales",28.27
+"3834","2017-12-15",6,"Northern Territory",30.72
+"3835","2017-12-15",7,"Queensland",31.71
+"3836","2017-12-15",8,"South Australia",25.95
+"3837","2017-12-15",9,"Tasmania",15.56
+"3838","2017-12-15",10,"Victoria",21.75
+"3839","2017-12-15",11,"Western Australia",29.25
+"3840","2017-12-16",1,"Ashmore and Cartier Islands",27.21
+"3841","2017-12-16",2,"Australian Capital Territory",23.76
+"3842","2017-12-16",3,"Coral Sea Islands",26.27
+"3843","2017-12-16",4,"Jervis Bay Territory",23.49
+"3844","2017-12-16",5,"New South Wales",30.95
+"3845","2017-12-16",6,"Northern Territory",32.72
+"3846","2017-12-16",7,"Queensland",32.11
+"3847","2017-12-16",8,"South Australia",28.98
+"3848","2017-12-16",9,"Tasmania",16.42
+"3849","2017-12-16",10,"Victoria",23.12
+"3850","2017-12-16",11,"Western Australia",29.66
+"3851","2017-12-17",1,"Ashmore and Cartier Islands",28.24
+"3852","2017-12-17",2,"Australian Capital Territory",21.96
+"3853","2017-12-17",3,"Coral Sea Islands",26.33
+"3854","2017-12-17",4,"Jervis Bay Territory",20.87
+"3855","2017-12-17",5,"New South Wales",31.28
+"3856","2017-12-17",6,"Northern Territory",33.3
+"3857","2017-12-17",7,"Queensland",32.19
+"3858","2017-12-17",8,"South Australia",34.88
+"3859","2017-12-17",9,"Tasmania",16.67
+"3860","2017-12-17",10,"Victoria",24.07
+"3861","2017-12-17",11,"Western Australia",28.91
+"3862","2017-12-18",1,"Ashmore and Cartier Islands",27.73
+"3863","2017-12-18",2,"Australian Capital Territory",23.62
+"3864","2017-12-18",3,"Coral Sea Islands",26.14
+"3865","2017-12-18",4,"Jervis Bay Territory",22.48
+"3866","2017-12-18",5,"New South Wales",31.87
+"3867","2017-12-18",6,"Northern Territory",33.5
+"3868","2017-12-18",7,"Queensland",31.91
+"3869","2017-12-18",8,"South Australia",36.39
+"3870","2017-12-18",9,"Tasmania",19.9
+"3871","2017-12-18",10,"Victoria",27.14
+"3872","2017-12-18",11,"Western Australia",24.78
+"3873","2017-12-19",1,"Ashmore and Cartier Islands",28.24
+"3874","2017-12-19",2,"Australian Capital Territory",25.87
+"3875","2017-12-19",3,"Coral Sea Islands",25.7
+"3876","2017-12-19",4,"Jervis Bay Territory",22.95
+"3877","2017-12-19",5,"New South Wales",33.64
+"3878","2017-12-19",6,"Northern Territory",33.08
+"3879","2017-12-19",7,"Queensland",32.12
+"3880","2017-12-19",8,"South Australia",29.72
+"3881","2017-12-19",9,"Tasmania",19.31
+"3882","2017-12-19",10,"Victoria",29.58
+"3883","2017-12-19",11,"Western Australia",24.71
+"3884","2017-12-20",1,"Ashmore and Cartier Islands",28.32
+"3885","2017-12-20",2,"Australian Capital Territory",20.99
+"3886","2017-12-20",3,"Coral Sea Islands",26.18
+"3887","2017-12-20",4,"Jervis Bay Territory",23.04
+"3888","2017-12-20",5,"New South Wales",28.14
+"3889","2017-12-20",6,"Northern Territory",30.16
+"3890","2017-12-20",7,"Queensland",31.89
+"3891","2017-12-20",8,"South Australia",23.49
+"3892","2017-12-20",9,"Tasmania",15.73
+"3893","2017-12-20",10,"Victoria",19.93
+"3894","2017-12-20",11,"Western Australia",25.61
+"3895","2017-12-21",1,"Ashmore and Cartier Islands",29.14
+"3896","2017-12-21",2,"Australian Capital Territory",18.67
+"3897","2017-12-21",3,"Coral Sea Islands",26.26
+"3898","2017-12-21",4,"Jervis Bay Territory",19.62
+"3899","2017-12-21",5,"New South Wales",24.81
+"3900","2017-12-21",6,"Northern Territory",28.78
+"3901","2017-12-21",7,"Queensland",30.76
+"3902","2017-12-21",8,"South Australia",24.65
+"3903","2017-12-21",9,"Tasmania",15.21
+"3904","2017-12-21",10,"Victoria",19.6
+"3905","2017-12-21",11,"Western Australia",28.79
+"3906","2017-12-22",1,"Ashmore and Cartier Islands",28.31
+"3907","2017-12-22",2,"Australian Capital Territory",21.06
+"3908","2017-12-22",3,"Coral Sea Islands",25.73
+"3909","2017-12-22",4,"Jervis Bay Territory",21.6
+"3910","2017-12-22",5,"New South Wales",26.8
+"3911","2017-12-22",6,"Northern Territory",31.61
+"3912","2017-12-22",7,"Queensland",29.71
+"3913","2017-12-22",8,"South Australia",29.98
+"3914","2017-12-22",9,"Tasmania",16.46
+"3915","2017-12-22",10,"Victoria",22.92
+"3916","2017-12-22",11,"Western Australia",31.9
+"3917","2017-12-23",1,"Ashmore and Cartier Islands",28.52
+"3918","2017-12-23",2,"Australian Capital Territory",22.99
+"3919","2017-12-23",3,"Coral Sea Islands",25.91
+"3920","2017-12-23",4,"Jervis Bay Territory",23.43
+"3921","2017-12-23",5,"New South Wales",30.45
+"3922","2017-12-23",6,"Northern Territory",32.41
+"3923","2017-12-23",7,"Queensland",31.43
+"3924","2017-12-23",8,"South Australia",34.24
+"3925","2017-12-23",9,"Tasmania",16.72
+"3926","2017-12-23",10,"Victoria",25.46
+"3927","2017-12-23",11,"Western Australia",30.42
+"3928","2017-12-24",1,"Ashmore and Cartier Islands",28.52
+"3929","2017-12-24",2,"Australian Capital Territory",25.28
+"3930","2017-12-24",3,"Coral Sea Islands",26.03
+"3931","2017-12-24",4,"Jervis Bay Territory",24.41
+"3932","2017-12-24",5,"New South Wales",32.61
+"3933","2017-12-24",6,"Northern Territory",32.92
+"3934","2017-12-24",7,"Queensland",32.72
+"3935","2017-12-24",8,"South Australia",28.67
+"3936","2017-12-24",9,"Tasmania",13.14
+"3937","2017-12-24",10,"Victoria",20.05
+"3938","2017-12-24",11,"Western Australia",28.55
+"3939","2017-12-25",1,"Ashmore and Cartier Islands",27.96
+"3940","2017-12-25",2,"Australian Capital Territory",14.32
+"3941","2017-12-25",3,"Coral Sea Islands",26.07
+"3942","2017-12-25",4,"Jervis Bay Territory",19.19
+"3943","2017-12-25",5,"New South Wales",25.11
+"3944","2017-12-25",6,"Northern Territory",32.6
+"3945","2017-12-25",7,"Queensland",33.46
+"3946","2017-12-25",8,"South Australia",27.41
+"3947","2017-12-25",9,"Tasmania",16.17
+"3948","2017-12-25",10,"Victoria",19.37
+"3949","2017-12-25",11,"Western Australia",29.46
+"3950","2017-12-26",1,"Ashmore and Cartier Islands",26.73
+"3951","2017-12-26",2,"Australian Capital Territory",16.65
+"3952","2017-12-26",3,"Coral Sea Islands",26
+"3953","2017-12-26",4,"Jervis Bay Territory",20.7
+"3954","2017-12-26",5,"New South Wales",26.15
+"3955","2017-12-26",6,"Northern Territory",31.88
+"3956","2017-12-26",7,"Queensland",32.64
+"3957","2017-12-26",8,"South Australia",32.05
+"3958","2017-12-26",9,"Tasmania",18.33
+"3959","2017-12-26",10,"Victoria",23.21
+"3960","2017-12-26",11,"Western Australia",31.19
+"3961","2017-12-27",1,"Ashmore and Cartier Islands",27.49
+"3962","2017-12-27",2,"Australian Capital Territory",18.62
+"3963","2017-12-27",3,"Coral Sea Islands",26.3
+"3964","2017-12-27",4,"Jervis Bay Territory",21.25
+"3965","2017-12-27",5,"New South Wales",27.74
+"3966","2017-12-27",6,"Northern Territory",32.73
+"3967","2017-12-27",7,"Queensland",31.73
+"3968","2017-12-27",8,"South Australia",34.82
+"3969","2017-12-27",9,"Tasmania",21.1
+"3970","2017-12-27",10,"Victoria",28.97
+"3971","2017-12-27",11,"Western Australia",28.06
+"3972","2017-12-28",1,"Ashmore and Cartier Islands",28.69
+"3973","2017-12-28",2,"Australian Capital Territory",22.14
+"3974","2017-12-28",3,"Coral Sea Islands",26.55
+"3975","2017-12-28",4,"Jervis Bay Territory",23.05
+"3976","2017-12-28",5,"New South Wales",29.85
+"3977","2017-12-28",6,"Northern Territory",31.78
+"3978","2017-12-28",7,"Queensland",31.71
+"3979","2017-12-28",8,"South Australia",29.76
+"3980","2017-12-28",9,"Tasmania",21.56
+"3981","2017-12-28",10,"Victoria",26.48
+"3982","2017-12-28",11,"Western Australia",26.18
+"3983","2017-12-29",1,"Ashmore and Cartier Islands",28.93
+"3984","2017-12-29",2,"Australian Capital Territory",23.21
+"3985","2017-12-29",3,"Coral Sea Islands",26.46
+"3986","2017-12-29",4,"Jervis Bay Territory",23.06
+"3987","2017-12-29",5,"New South Wales",30.9
+"3988","2017-12-29",6,"Northern Territory",33.48
+"3989","2017-12-29",7,"Queensland",32.4
+"3990","2017-12-29",8,"South Australia",26.62
+"3991","2017-12-29",9,"Tasmania",17.41
+"3992","2017-12-29",10,"Victoria",22.93
+"3993","2017-12-29",11,"Western Australia",24.86
+"3994","2017-12-30",1,"Ashmore and Cartier Islands",27.37
+"3995","2017-12-30",2,"Australian Capital Territory",22.16
+"3996","2017-12-30",3,"Coral Sea Islands",26.59
+"3997","2017-12-30",4,"Jervis Bay Territory",23.71
+"3998","2017-12-30",5,"New South Wales",25.31
+"3999","2017-12-30",6,"Northern Territory",30.86
+"4000","2017-12-30",7,"Queensland",32.5
+"4001","2017-12-30",8,"South Australia",23.55
+"4002","2017-12-30",9,"Tasmania",13.92
+"4003","2017-12-30",10,"Victoria",19.44
+"4004","2017-12-30",11,"Western Australia",25.8
+"4005","2017-12-31",1,"Ashmore and Cartier Islands",28.45
+"4006","2017-12-31",2,"Australian Capital Territory",20.14
+"4007","2017-12-31",3,"Coral Sea Islands",27.12
+"4008","2017-12-31",4,"Jervis Bay Territory",19.98
+"4009","2017-12-31",5,"New South Wales",26.26
+"4010","2017-12-31",6,"Northern Territory",31.25
+"4011","2017-12-31",7,"Queensland",32.46
+"4012","2017-12-31",8,"South Australia",24.8
+"4013","2017-12-31",9,"Tasmania",16.34
+"4014","2017-12-31",10,"Victoria",19.95
+"4015","2017-12-31",11,"Western Australia",27.52
