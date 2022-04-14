@@ -1,4 +1,4 @@
-# ERA5 grids into national and sub-national boundaries Worldwide
+# ERA5 grids into national and sub-national boundaries worldwide
 
 ERA5 temperature and potentially weather variable grids that have been converted to political entities for use in 
 
