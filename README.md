@@ -30,9 +30,7 @@ MNE, NLD, NOR, NZL, POL\
 PRT, ROU, SRB, SVK, SVN\
 SWE, TWN, USA
 
-Input:
-
-ERA5 daily values
+Let me know if you'd like me to run any other specific countries, but others in progress.
 
 ## Code
 
