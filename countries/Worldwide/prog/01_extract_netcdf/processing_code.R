@@ -1,3 +1,13 @@
+library(maptools)
+library(mapproj)
+library(rgeos)
+library(rgdal)
+library(RColorBrewer)
+library(ggplot2)
+library(raster)
+library(sp)
+library(plyr)
+
 # exception for Malta and other small countries
 if(country.id=='MLT'){space.res="0"}
 
@@ -91,4 +101,3 @@ names(weighted.area.national.total)[3] = paste0('NAME_',space.res)
 # save file
 saveRDS(weighted.area.national.total,paste0(dir.output,'weighted_area_raster_',country.id,'_',space.res,'_',dname,'_',freq,'_',as.character(year),'.rds'))
 write.csv(weighted.area.national.total,paste0(dir.output,'weighted_area_raster_',country.id,'_',space.res,'_',dname,'_',freq,'_',as.character(year),'.csv'))
-

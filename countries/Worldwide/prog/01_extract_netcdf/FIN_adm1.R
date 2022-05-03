@@ -12,7 +12,7 @@ dname <- 't2m'
 freq <- 'daily'
 num <- 'four'
 space.res <- '1'
-country.id <- 'NOR'
+country.id <- 'FIN'
 
 # process from grids into shapefiles
 source('countries/Worldwide/prog/01_extract_netcdf/processing_code.R')
