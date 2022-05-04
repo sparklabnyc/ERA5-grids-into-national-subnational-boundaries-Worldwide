@@ -16,19 +16,67 @@ Work in progress by Robbie M Parks.
 
 ## Data
 
-Contents of project:
-
 Countries covered:
 
-ALB, ARM, AUS, AUT, BEL\
-BGR, CAN, CHE, CHL, CYP\
-CZE, DEU, DNK, ESP, EST\
-FIN, FRA, GBR, GEO, GRC\
-HRV, HUN, ISL, ITA, KOR\
-LIE, LTU, LUX, LVA, MLT\
-MNE, NLD, NOR, NZL, POL\
-PRT, ROU, SRB, SVK, SVN\
-SWE, TWN, USA
+Albania (ALB)\
+Armenia (ARM)\
+Australia (AUS)\
+Austria (AUT)\
+Belgium (BEL)\
+Bulgaria (BGR)\
+Botswana (BWA)\
+Canada (CAN)\
+Switzerland (CHE)\
+Chile (CHL)\
+Cameroon (CMR)\
+Cyprus (CYP)\
+Czech Republic (CZE)\
+Germany (DEU)\
+Denmark (DNK)\
+Spain (ESP)\
+Estonia (EST)\
+Ethiopia (ETH)\
+Finland (FIN)\
+France (FRA)\
+United Kingdom (GBR)\
+Georgia (GEO)\
+Ghana (GHA)\
+Greece (GRC)\
+Croatia (HRV)\
+Hungary (HUN)\
+Iceland (ISL)\
+Italy (ITA)\
+Kenya (KEN)\
+Republic of Korea (KOR)\
+Liberia (LBR)\
+Liechtenstein (LIE)\
+Lithuania (LTU)\
+Lesotho (LSO)\
+Luxembourg (LUX)\
+Latvia (LVA)\
+Malta (MLT)\
+Montenegro (MNE)\
+Malawi (MWI)\
+Nigeria (NGA)\
+Netherlands (NLD)\
+Norway (NOR)\
+New Zealand (NZL)\
+Poland (POL)\
+Portugal (PRT)\
+Romania (ROU)\
+Rwanda (RWA)\
+Sierra Leone (SLE)\
+Serbia (SRB)\
+Slovakia (SVK)\
+Slovenia (SVN)\
+Sweden (SWE)\
+Taiwan (TWN)\
+Tanzania (TZA)\
+Uganda (UGA)\
+# USA (USA)\
+South Africa (ZAF)\
+Zambia (ZMB)\
+Zimbabwe (ZWE)
 
 Let me know if you'd like me to run any other specific countries, but others in progress.
 
