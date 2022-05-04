@@ -1,0 +1,953 @@
+"","date","ID_1","NAME_1","t2m"
+"1","2022-01-01",1,"Aegean",14.08
+"2","2022-01-01",2,"Athos",11.94
+"3","2022-01-01",3,"Attica",10.09
+"4","2022-01-01",4,"Crete",13.53
+"5","2022-01-01",5,"Epirus and Western Macedonia",3.86
+"6","2022-01-01",6,"Macedonia and Thrace",5.34
+"7","2022-01-01",7,"Peloponnese, Western Greece and the Ionian Islands",8.31
+"8","2022-01-01",8,"Thessaly and Central Greece",6.88
+"9","2022-01-02",1,"Aegean",14.74
+"10","2022-01-02",2,"Athos",12.37
+"11","2022-01-02",3,"Attica",11.23
+"12","2022-01-02",4,"Crete",12.4
+"13","2022-01-02",5,"Epirus and Western Macedonia",4.49
+"14","2022-01-02",6,"Macedonia and Thrace",7.98
+"15","2022-01-02",7,"Peloponnese, Western Greece and the Ionian Islands",8.2
+"16","2022-01-02",8,"Thessaly and Central Greece",8.52
+"17","2022-01-03",1,"Aegean",14.82
+"18","2022-01-03",2,"Athos",12.42
+"19","2022-01-03",3,"Attica",9.37
+"20","2022-01-03",4,"Crete",12.94
+"21","2022-01-03",5,"Epirus and Western Macedonia",3.07
+"22","2022-01-03",6,"Macedonia and Thrace",5.06
+"23","2022-01-03",7,"Peloponnese, Western Greece and the Ionian Islands",7.15
+"24","2022-01-03",8,"Thessaly and Central Greece",4.78
+"25","2022-01-04",1,"Aegean",15.38
+"26","2022-01-04",2,"Athos",11.97
+"27","2022-01-04",3,"Attica",10.32
+"28","2022-01-04",4,"Crete",12.38
+"29","2022-01-04",5,"Epirus and Western Macedonia",4.45
+"30","2022-01-04",6,"Macedonia and Thrace",5.6
+"31","2022-01-04",7,"Peloponnese, Western Greece and the Ionian Islands",9.57
+"32","2022-01-04",8,"Thessaly and Central Greece",6.98
+"33","2022-01-05",1,"Aegean",15.59
+"34","2022-01-05",2,"Athos",12.88
+"35","2022-01-05",3,"Attica",10.92
+"36","2022-01-05",4,"Crete",13.22
+"37","2022-01-05",5,"Epirus and Western Macedonia",4.15
+"38","2022-01-05",6,"Macedonia and Thrace",4.9
+"39","2022-01-05",7,"Peloponnese, Western Greece and the Ionian Islands",9.37
+"40","2022-01-05",8,"Thessaly and Central Greece",6.45
+"41","2022-01-06",1,"Aegean",16.37
+"42","2022-01-06",2,"Athos",13.66
+"43","2022-01-06",3,"Attica",11.03
+"44","2022-01-06",4,"Crete",13.65
+"45","2022-01-06",5,"Epirus and Western Macedonia",6.82
+"46","2022-01-06",6,"Macedonia and Thrace",7.17
+"47","2022-01-06",7,"Peloponnese, Western Greece and the Ionian Islands",9.75
+"48","2022-01-06",8,"Thessaly and Central Greece",7.52
+"49","2022-01-07",1,"Aegean",15.74
+"50","2022-01-07",2,"Athos",13.27
+"51","2022-01-07",3,"Attica",13.02
+"52","2022-01-07",4,"Crete",12.75
+"53","2022-01-07",5,"Epirus and Western Macedonia",6.48
+"54","2022-01-07",6,"Macedonia and Thrace",6.74
+"55","2022-01-07",7,"Peloponnese, Western Greece and the Ionian Islands",10.26
+"56","2022-01-07",8,"Thessaly and Central Greece",8.19
+"57","2022-01-08",1,"Aegean",15.29
+"58","2022-01-08",2,"Athos",11.4
+"59","2022-01-08",3,"Attica",11.81
+"60","2022-01-08",4,"Crete",12.99
+"61","2022-01-08",5,"Epirus and Western Macedonia",5.22
+"62","2022-01-08",6,"Macedonia and Thrace",6.91
+"63","2022-01-08",7,"Peloponnese, Western Greece and the Ionian Islands",10.25
+"64","2022-01-08",8,"Thessaly and Central Greece",8.63
+"65","2022-01-09",1,"Aegean",14.13
+"66","2022-01-09",2,"Athos",12.02
+"67","2022-01-09",3,"Attica",10.83
+"68","2022-01-09",4,"Crete",11.94
+"69","2022-01-09",5,"Epirus and Western Macedonia",4.96
+"70","2022-01-09",6,"Macedonia and Thrace",7.44
+"71","2022-01-09",7,"Peloponnese, Western Greece and the Ionian Islands",9.58
+"72","2022-01-09",8,"Thessaly and Central Greece",8.12
+"73","2022-01-10",1,"Aegean",13.3
+"74","2022-01-10",2,"Athos",11.86
+"75","2022-01-10",3,"Attica",8.87
+"76","2022-01-10",4,"Crete",10.56
+"77","2022-01-10",5,"Epirus and Western Macedonia",4.69
+"78","2022-01-10",6,"Macedonia and Thrace",7.56
+"79","2022-01-10",7,"Peloponnese, Western Greece and the Ionian Islands",7.87
+"80","2022-01-10",8,"Thessaly and Central Greece",6.8
+"81","2022-01-11",1,"Aegean",13.51
+"82","2022-01-11",2,"Athos",11.64
+"83","2022-01-11",3,"Attica",10.76
+"84","2022-01-11",4,"Crete",10.38
+"85","2022-01-11",5,"Epirus and Western Macedonia",2.47
+"86","2022-01-11",6,"Macedonia and Thrace",7.57
+"87","2022-01-11",7,"Peloponnese, Western Greece and the Ionian Islands",7.93
+"88","2022-01-11",8,"Thessaly and Central Greece",8.24
+"89","2022-01-12",1,"Aegean",12.41
+"90","2022-01-12",2,"Athos",5.58
+"91","2022-01-12",3,"Attica",8.98
+"92","2022-01-12",4,"Crete",10.59
+"93","2022-01-12",5,"Epirus and Western Macedonia",1.77
+"94","2022-01-12",6,"Macedonia and Thrace",2.05
+"95","2022-01-12",7,"Peloponnese, Western Greece and the Ionian Islands",6.84
+"96","2022-01-12",8,"Thessaly and Central Greece",4.31
+"97","2022-01-13",1,"Aegean",8.69
+"98","2022-01-13",2,"Athos",4.14
+"99","2022-01-13",3,"Attica",5.4
+"100","2022-01-13",4,"Crete",9.05
+"101","2022-01-13",5,"Epirus and Western Macedonia",-2.55
+"102","2022-01-13",6,"Macedonia and Thrace",-1.91
+"103","2022-01-13",7,"Peloponnese, Western Greece and the Ionian Islands",3.78
+"104","2022-01-13",8,"Thessaly and Central Greece",1.91
+"105","2022-01-14",1,"Aegean",7.49
+"106","2022-01-14",2,"Athos",4.4
+"107","2022-01-14",3,"Attica",4.67
+"108","2022-01-14",4,"Crete",7.32
+"109","2022-01-14",5,"Epirus and Western Macedonia",-5.69
+"110","2022-01-14",6,"Macedonia and Thrace",-3.79
+"111","2022-01-14",7,"Peloponnese, Western Greece and the Ionian Islands",1.28
+"112","2022-01-14",8,"Thessaly and Central Greece",-3.19
+"113","2022-01-15",1,"Aegean",10.77
+"114","2022-01-15",2,"Athos",8.03
+"115","2022-01-15",3,"Attica",4.18
+"116","2022-01-15",4,"Crete",7.98
+"117","2022-01-15",5,"Epirus and Western Macedonia",-0.75
+"118","2022-01-15",6,"Macedonia and Thrace",1.28
+"119","2022-01-15",7,"Peloponnese, Western Greece and the Ionian Islands",1.89
+"120","2022-01-15",8,"Thessaly and Central Greece",0.51
+"121","2022-01-16",1,"Aegean",10.43
+"122","2022-01-16",2,"Athos",9.74
+"123","2022-01-16",3,"Attica",9.08
+"124","2022-01-16",4,"Crete",11.43
+"125","2022-01-16",5,"Epirus and Western Macedonia",-1.88
+"126","2022-01-16",6,"Macedonia and Thrace",0.55
+"127","2022-01-16",7,"Peloponnese, Western Greece and the Ionian Islands",5.78
+"128","2022-01-16",8,"Thessaly and Central Greece",3.3
+"129","2022-01-17",1,"Aegean",9.29
+"130","2022-01-17",2,"Athos",8.55
+"131","2022-01-17",3,"Attica",4.43
+"132","2022-01-17",4,"Crete",7.84
+"133","2022-01-17",5,"Epirus and Western Macedonia",-1.75
+"134","2022-01-17",6,"Macedonia and Thrace",-1.84
+"135","2022-01-17",7,"Peloponnese, Western Greece and the Ionian Islands",4.44
+"136","2022-01-17",8,"Thessaly and Central Greece",-0.57
+"137","2022-01-18",1,"Aegean",13.35
+"138","2022-01-18",2,"Athos",10.26
+"139","2022-01-18",3,"Attica",8.61
+"140","2022-01-18",4,"Crete",11.42
+"141","2022-01-18",5,"Epirus and Western Macedonia",1.3
+"142","2022-01-18",6,"Macedonia and Thrace",2.98
+"143","2022-01-18",7,"Peloponnese, Western Greece and the Ionian Islands",7.39
+"144","2022-01-18",8,"Thessaly and Central Greece",4
+"145","2022-01-19",1,"Aegean",8.65
+"146","2022-01-19",2,"Athos",7.36
+"147","2022-01-19",3,"Attica",7.13
+"148","2022-01-19",4,"Crete",8.76
+"149","2022-01-19",5,"Epirus and Western Macedonia",-2.25
+"150","2022-01-19",6,"Macedonia and Thrace",0.24
+"151","2022-01-19",7,"Peloponnese, Western Greece and the Ionian Islands",4.08
+"152","2022-01-19",8,"Thessaly and Central Greece",1.69
+"153","2022-01-20",1,"Aegean",7.36
+"154","2022-01-20",2,"Athos",7.07
+"155","2022-01-20",3,"Attica",2.81
+"156","2022-01-20",4,"Crete",6.92
+"157","2022-01-20",5,"Epirus and Western Macedonia",-3.86
+"158","2022-01-20",6,"Macedonia and Thrace",-2.46
+"159","2022-01-20",7,"Peloponnese, Western Greece and the Ionian Islands",2.96
+"160","2022-01-20",8,"Thessaly and Central Greece",-2.74
+"161","2022-01-21",1,"Aegean",13.24
+"162","2022-01-21",2,"Athos",11.11
+"163","2022-01-21",3,"Attica",7.68
+"164","2022-01-21",4,"Crete",10.87
+"165","2022-01-21",5,"Epirus and Western Macedonia",2.77
+"166","2022-01-21",6,"Macedonia and Thrace",1.7
+"167","2022-01-21",7,"Peloponnese, Western Greece and the Ionian Islands",6.36
+"168","2022-01-21",8,"Thessaly and Central Greece",4.18
+"169","2022-01-22",1,"Aegean",11.54
+"170","2022-01-22",2,"Athos",4.63
+"171","2022-01-22",3,"Attica",8.64
+"172","2022-01-22",4,"Crete",10.95
+"173","2022-01-22",5,"Epirus and Western Macedonia",-1.26
+"174","2022-01-22",6,"Macedonia and Thrace",-0.05
+"175","2022-01-22",7,"Peloponnese, Western Greece and the Ionian Islands",7.28
+"176","2022-01-22",8,"Thessaly and Central Greece",2.86
+"177","2022-01-23",1,"Aegean",6.01
+"178","2022-01-23",2,"Athos",4.54
+"179","2022-01-23",3,"Attica",2.91
+"180","2022-01-23",4,"Crete",6.05
+"181","2022-01-23",5,"Epirus and Western Macedonia",-4.36
+"182","2022-01-23",6,"Macedonia and Thrace",-1.45
+"183","2022-01-23",7,"Peloponnese, Western Greece and the Ionian Islands",1.82
+"184","2022-01-23",8,"Thessaly and Central Greece",-0.94
+"185","2022-01-24",1,"Aegean",4.63
+"186","2022-01-24",2,"Athos",2.21
+"187","2022-01-24",3,"Attica",2.16
+"188","2022-01-24",4,"Crete",2.81
+"189","2022-01-24",5,"Epirus and Western Macedonia",-5.32
+"190","2022-01-24",6,"Macedonia and Thrace",-2.38
+"191","2022-01-24",7,"Peloponnese, Western Greece and the Ionian Islands",0.62
+"192","2022-01-24",8,"Thessaly and Central Greece",-1.72
+"193","2022-01-25",1,"Aegean",5.79
+"194","2022-01-25",2,"Athos",3.66
+"195","2022-01-25",3,"Attica",2.94
+"196","2022-01-25",4,"Crete",3.69
+"197","2022-01-25",5,"Epirus and Western Macedonia",-6.23
+"198","2022-01-25",6,"Macedonia and Thrace",-3.99
+"199","2022-01-25",7,"Peloponnese, Western Greece and the Ionian Islands",0.39
+"200","2022-01-25",8,"Thessaly and Central Greece",-2.14
+"201","2022-01-26",1,"Aegean",5.39
+"202","2022-01-26",2,"Athos",3.53
+"203","2022-01-26",3,"Attica",1.67
+"204","2022-01-26",4,"Crete",3.68
+"205","2022-01-26",5,"Epirus and Western Macedonia",-6.94
+"206","2022-01-26",6,"Macedonia and Thrace",-4.36
+"207","2022-01-26",7,"Peloponnese, Western Greece and the Ionian Islands",-2.19
+"208","2022-01-26",8,"Thessaly and Central Greece",-3.88
+"209","2022-01-27",1,"Aegean",7.26
+"210","2022-01-27",2,"Athos",6.5
+"211","2022-01-27",3,"Attica",3.23
+"212","2022-01-27",4,"Crete",6.35
+"213","2022-01-27",5,"Epirus and Western Macedonia",-3.22
+"214","2022-01-27",6,"Macedonia and Thrace",-0.67
+"215","2022-01-27",7,"Peloponnese, Western Greece and the Ionian Islands",0.36
+"216","2022-01-27",8,"Thessaly and Central Greece",-0.81
+"217","2022-01-28",1,"Aegean",8.59
+"218","2022-01-28",2,"Athos",7.07
+"219","2022-01-28",3,"Attica",4.01
+"220","2022-01-28",4,"Crete",8.41
+"221","2022-01-28",5,"Epirus and Western Macedonia",-3.15
+"222","2022-01-28",6,"Macedonia and Thrace",-1.74
+"223","2022-01-28",7,"Peloponnese, Western Greece and the Ionian Islands",1.74
+"224","2022-01-28",8,"Thessaly and Central Greece",-1.18
+"225","2022-01-29",1,"Aegean",11.04
+"226","2022-01-29",2,"Athos",8.89
+"227","2022-01-29",3,"Attica",5.54
+"228","2022-01-29",4,"Crete",8.55
+"229","2022-01-29",5,"Epirus and Western Macedonia",1.21
+"230","2022-01-29",6,"Macedonia and Thrace",1.99
+"231","2022-01-29",7,"Peloponnese, Western Greece and the Ionian Islands",4.05
+"232","2022-01-29",8,"Thessaly and Central Greece",2.34
+"233","2022-01-30",1,"Aegean",10.83
+"234","2022-01-30",2,"Athos",8.37
+"235","2022-01-30",3,"Attica",8.56
+"236","2022-01-30",4,"Crete",9.29
+"237","2022-01-30",5,"Epirus and Western Macedonia",-3.88
+"238","2022-01-30",6,"Macedonia and Thrace",-0.72
+"239","2022-01-30",7,"Peloponnese, Western Greece and the Ionian Islands",5.21
+"240","2022-01-30",8,"Thessaly and Central Greece",2.7
+"241","2022-01-31",1,"Aegean",11.72
+"242","2022-01-31",2,"Athos",10.05
+"243","2022-01-31",3,"Attica",5.49
+"244","2022-01-31",4,"Crete",11.09
+"245","2022-01-31",5,"Epirus and Western Macedonia",-1.74
+"246","2022-01-31",6,"Macedonia and Thrace",2.76
+"247","2022-01-31",7,"Peloponnese, Western Greece and the Ionian Islands",2.66
+"248","2022-01-31",8,"Thessaly and Central Greece",1.39
+"249","2022-02-01",1,"Aegean",12.36
+"250","2022-02-01",2,"Athos",11.97
+"251","2022-02-01",3,"Attica",9.66
+"252","2022-02-01",4,"Crete",10.58
+"253","2022-02-01",5,"Epirus and Western Macedonia",1.46
+"254","2022-02-01",6,"Macedonia and Thrace",2.52
+"255","2022-02-01",7,"Peloponnese, Western Greece and the Ionian Islands",7.4
+"256","2022-02-01",8,"Thessaly and Central Greece",4.07
+"257","2022-02-02",1,"Aegean",14.54
+"258","2022-02-02",2,"Athos",10.14
+"259","2022-02-02",3,"Attica",11.01
+"260","2022-02-02",4,"Crete",13.23
+"261","2022-02-02",5,"Epirus and Western Macedonia",0.85
+"262","2022-02-02",6,"Macedonia and Thrace",3.28
+"263","2022-02-02",7,"Peloponnese, Western Greece and the Ionian Islands",7.54
+"264","2022-02-02",8,"Thessaly and Central Greece",5.59
+"265","2022-02-03",1,"Aegean",11.73
+"266","2022-02-03",2,"Athos",7.16
+"267","2022-02-03",3,"Attica",7
+"268","2022-02-03",4,"Crete",10.25
+"269","2022-02-03",5,"Epirus and Western Macedonia",-2.27
+"270","2022-02-03",6,"Macedonia and Thrace",3.15
+"271","2022-02-03",7,"Peloponnese, Western Greece and the Ionian Islands",5.9
+"272","2022-02-03",8,"Thessaly and Central Greece",3.42
+"273","2022-02-04",1,"Aegean",9.99
+"274","2022-02-04",2,"Athos",8.9
+"275","2022-02-04",3,"Attica",7.62
+"276","2022-02-04",4,"Crete",9.42
+"277","2022-02-04",5,"Epirus and Western Macedonia",-3.07
+"278","2022-02-04",6,"Macedonia and Thrace",0.91
+"279","2022-02-04",7,"Peloponnese, Western Greece and the Ionian Islands",4.52
+"280","2022-02-04",8,"Thessaly and Central Greece",2.63
+"281","2022-02-05",1,"Aegean",10.03
+"282","2022-02-05",2,"Athos",8.89
+"283","2022-02-05",3,"Attica",6.08
+"284","2022-02-05",4,"Crete",8.29
+"285","2022-02-05",5,"Epirus and Western Macedonia",-2.8
+"286","2022-02-05",6,"Macedonia and Thrace",-0.97
+"287","2022-02-05",7,"Peloponnese, Western Greece and the Ionian Islands",2.42
+"288","2022-02-05",8,"Thessaly and Central Greece",-0.38
+"289","2022-02-06",1,"Aegean",12.83
+"290","2022-02-06",2,"Athos",10.3
+"291","2022-02-06",3,"Attica",8.88
+"292","2022-02-06",4,"Crete",11.81
+"293","2022-02-06",5,"Epirus and Western Macedonia",1.76
+"294","2022-02-06",6,"Macedonia and Thrace",2.9
+"295","2022-02-06",7,"Peloponnese, Western Greece and the Ionian Islands",6.84
+"296","2022-02-06",8,"Thessaly and Central Greece",5.3
+"297","2022-02-07",1,"Aegean",12.67
+"298","2022-02-07",2,"Athos",12.02
+"299","2022-02-07",3,"Attica",9
+"300","2022-02-07",4,"Crete",10.63
+"301","2022-02-07",5,"Epirus and Western Macedonia",3.69
+"302","2022-02-07",6,"Macedonia and Thrace",3.46
+"303","2022-02-07",7,"Peloponnese, Western Greece and the Ionian Islands",8.82
+"304","2022-02-07",8,"Thessaly and Central Greece",5.58
+"305","2022-02-08",1,"Aegean",15.14
+"306","2022-02-08",2,"Athos",10.38
+"307","2022-02-08",3,"Attica",12.91
+"308","2022-02-08",4,"Crete",13.47
+"309","2022-02-08",5,"Epirus and Western Macedonia",1.86
+"310","2022-02-08",6,"Macedonia and Thrace",5.23
+"311","2022-02-08",7,"Peloponnese, Western Greece and the Ionian Islands",9.92
+"312","2022-02-08",8,"Thessaly and Central Greece",7.65
+"313","2022-02-09",1,"Aegean",9.1
+"314","2022-02-09",2,"Athos",7.98
+"315","2022-02-09",3,"Attica",6.86
+"316","2022-02-09",4,"Crete",7.62
+"317","2022-02-09",5,"Epirus and Western Macedonia",-1.56
+"318","2022-02-09",6,"Macedonia and Thrace",1.98
+"319","2022-02-09",7,"Peloponnese, Western Greece and the Ionian Islands",3.43
+"320","2022-02-09",8,"Thessaly and Central Greece",2.2
+"321","2022-02-10",1,"Aegean",10.47
+"322","2022-02-10",2,"Athos",10.7
+"323","2022-02-10",3,"Attica",7.84
+"324","2022-02-10",4,"Crete",10.29
+"325","2022-02-10",5,"Epirus and Western Macedonia",0.72
+"326","2022-02-10",6,"Macedonia and Thrace",2.8
+"327","2022-02-10",7,"Peloponnese, Western Greece and the Ionian Islands",4.78
+"328","2022-02-10",8,"Thessaly and Central Greece",4.78
+"329","2022-02-11",1,"Aegean",11.55
+"330","2022-02-11",2,"Athos",10.93
+"331","2022-02-11",3,"Attica",7.17
+"332","2022-02-11",4,"Crete",10.84
+"333","2022-02-11",5,"Epirus and Western Macedonia",1.31
+"334","2022-02-11",6,"Macedonia and Thrace",1.89
+"335","2022-02-11",7,"Peloponnese, Western Greece and the Ionian Islands",4.7
+"336","2022-02-11",8,"Thessaly and Central Greece",3.55
+"337","2022-02-12",1,"Aegean",12.6
+"338","2022-02-12",2,"Athos",11.8
+"339","2022-02-12",3,"Attica",7.86
+"340","2022-02-12",4,"Crete",9.7
+"341","2022-02-12",5,"Epirus and Western Macedonia",2.38
+"342","2022-02-12",6,"Macedonia and Thrace",2.71
+"343","2022-02-12",7,"Peloponnese, Western Greece and the Ionian Islands",4.4
+"344","2022-02-12",8,"Thessaly and Central Greece",3.64
+"345","2022-02-13",1,"Aegean",12.53
+"346","2022-02-13",2,"Athos",10.23
+"347","2022-02-13",3,"Attica",10.94
+"348","2022-02-13",4,"Crete",11.12
+"349","2022-02-13",5,"Epirus and Western Macedonia",4.15
+"350","2022-02-13",6,"Macedonia and Thrace",7.01
+"351","2022-02-13",7,"Peloponnese, Western Greece and the Ionian Islands",8.3
+"352","2022-02-13",8,"Thessaly and Central Greece",8.29
+"353","2022-02-14",1,"Aegean",10.82
+"354","2022-02-14",2,"Athos",8.32
+"355","2022-02-14",3,"Attica",8.13
+"356","2022-02-14",4,"Crete",10.4
+"357","2022-02-14",5,"Epirus and Western Macedonia",2.78
+"358","2022-02-14",6,"Macedonia and Thrace",4.07
+"359","2022-02-14",7,"Peloponnese, Western Greece and the Ionian Islands",7.29
+"360","2022-02-14",8,"Thessaly and Central Greece",5.11
+"361","2022-02-15",1,"Aegean",10.87
+"362","2022-02-15",2,"Athos",10.4
+"363","2022-02-15",3,"Attica",7.73
+"364","2022-02-15",4,"Crete",9.54
+"365","2022-02-15",5,"Epirus and Western Macedonia",0.83
+"366","2022-02-15",6,"Macedonia and Thrace",2.92
+"367","2022-02-15",7,"Peloponnese, Western Greece and the Ionian Islands",5.1
+"368","2022-02-15",8,"Thessaly and Central Greece",2.76
+"369","2022-02-16",1,"Aegean",12.69
+"370","2022-02-16",2,"Athos",12.46
+"371","2022-02-16",3,"Attica",8.85
+"372","2022-02-16",4,"Crete",9.09
+"373","2022-02-16",5,"Epirus and Western Macedonia",4.99
+"374","2022-02-16",6,"Macedonia and Thrace",4.58
+"375","2022-02-16",7,"Peloponnese, Western Greece and the Ionian Islands",6.6
+"376","2022-02-16",8,"Thessaly and Central Greece",5.24
+"377","2022-02-17",1,"Aegean",13.51
+"378","2022-02-17",2,"Athos",13.44
+"379","2022-02-17",3,"Attica",11.48
+"380","2022-02-17",4,"Crete",11.32
+"381","2022-02-17",5,"Epirus and Western Macedonia",5.02
+"382","2022-02-17",6,"Macedonia and Thrace",7.4
+"383","2022-02-17",7,"Peloponnese, Western Greece and the Ionian Islands",8.41
+"384","2022-02-17",8,"Thessaly and Central Greece",7.37
+"385","2022-02-18",1,"Aegean",13.54
+"386","2022-02-18",2,"Athos",13.02
+"387","2022-02-18",3,"Attica",8.43
+"388","2022-02-18",4,"Crete",8.61
+"389","2022-02-18",5,"Epirus and Western Macedonia",2.02
+"390","2022-02-18",6,"Macedonia and Thrace",7.19
+"391","2022-02-18",7,"Peloponnese, Western Greece and the Ionian Islands",5.41
+"392","2022-02-18",8,"Thessaly and Central Greece",4.54
+"393","2022-02-19",1,"Aegean",13.33
+"394","2022-02-19",2,"Athos",13.01
+"395","2022-02-19",3,"Attica",9.32
+"396","2022-02-19",4,"Crete",12.63
+"397","2022-02-19",5,"Epirus and Western Macedonia",2.38
+"398","2022-02-19",6,"Macedonia and Thrace",4.25
+"399","2022-02-19",7,"Peloponnese, Western Greece and the Ionian Islands",6.97
+"400","2022-02-19",8,"Thessaly and Central Greece",6.11
+"401","2022-02-20",1,"Aegean",13.54
+"402","2022-02-20",2,"Athos",13.13
+"403","2022-02-20",3,"Attica",10.27
+"404","2022-02-20",4,"Crete",11.09
+"405","2022-02-20",5,"Epirus and Western Macedonia",5.71
+"406","2022-02-20",6,"Macedonia and Thrace",6.09
+"407","2022-02-20",7,"Peloponnese, Western Greece and the Ionian Islands",8.76
+"408","2022-02-20",8,"Thessaly and Central Greece",7.65
+"409","2022-02-21",1,"Aegean",14.75
+"410","2022-02-21",2,"Athos",12.29
+"411","2022-02-21",3,"Attica",11.91
+"412","2022-02-21",4,"Crete",13.11
+"413","2022-02-21",5,"Epirus and Western Macedonia",6.75
+"414","2022-02-21",6,"Macedonia and Thrace",5.77
+"415","2022-02-21",7,"Peloponnese, Western Greece and the Ionian Islands",10.11
+"416","2022-02-21",8,"Thessaly and Central Greece",8.33
+"417","2022-02-22",1,"Aegean",15.26
+"418","2022-02-22",2,"Athos",13.25
+"419","2022-02-22",3,"Attica",11.87
+"420","2022-02-22",4,"Crete",12.85
+"421","2022-02-22",5,"Epirus and Western Macedonia",7.15
+"422","2022-02-22",6,"Macedonia and Thrace",8.8
+"423","2022-02-22",7,"Peloponnese, Western Greece and the Ionian Islands",10.75
+"424","2022-02-22",8,"Thessaly and Central Greece",9.19
+"425","2022-02-23",1,"Aegean",14.41
+"426","2022-02-23",2,"Athos",12.1
+"427","2022-02-23",3,"Attica",11.55
+"428","2022-02-23",4,"Crete",11.4
+"429","2022-02-23",5,"Epirus and Western Macedonia",3.27
+"430","2022-02-23",6,"Macedonia and Thrace",7.67
+"431","2022-02-23",7,"Peloponnese, Western Greece and the Ionian Islands",6.93
+"432","2022-02-23",8,"Thessaly and Central Greece",7.64
+"433","2022-02-24",1,"Aegean",12.71
+"434","2022-02-24",2,"Athos",10.71
+"435","2022-02-24",3,"Attica",11.32
+"436","2022-02-24",4,"Crete",11.47
+"437","2022-02-24",5,"Epirus and Western Macedonia",3.4
+"438","2022-02-24",6,"Macedonia and Thrace",6.71
+"439","2022-02-24",7,"Peloponnese, Western Greece and the Ionian Islands",8.74
+"440","2022-02-24",8,"Thessaly and Central Greece",7.76
+"441","2022-02-25",1,"Aegean",10.77
+"442","2022-02-25",2,"Athos",9.77
+"443","2022-02-25",3,"Attica",7.89
+"444","2022-02-25",4,"Crete",9.75
+"445","2022-02-25",5,"Epirus and Western Macedonia",-1.75
+"446","2022-02-25",6,"Macedonia and Thrace",2.81
+"447","2022-02-25",7,"Peloponnese, Western Greece and the Ionian Islands",3.8
+"448","2022-02-25",8,"Thessaly and Central Greece",2.46
+"449","2022-02-26",1,"Aegean",11.03
+"450","2022-02-26",2,"Athos",10.75
+"451","2022-02-26",3,"Attica",7
+"452","2022-02-26",4,"Crete",8.74
+"453","2022-02-26",5,"Epirus and Western Macedonia",0.36
+"454","2022-02-26",6,"Macedonia and Thrace",1.71
+"455","2022-02-26",7,"Peloponnese, Western Greece and the Ionian Islands",3.99
+"456","2022-02-26",8,"Thessaly and Central Greece",1.89
+"457","2022-02-27",1,"Aegean",12.3
+"458","2022-02-27",2,"Athos",10.41
+"459","2022-02-27",3,"Attica",10.84
+"460","2022-02-27",4,"Crete",10.59
+"461","2022-02-27",5,"Epirus and Western Macedonia",3.68
+"462","2022-02-27",6,"Macedonia and Thrace",5.69
+"463","2022-02-27",7,"Peloponnese, Western Greece and the Ionian Islands",9.76
+"464","2022-02-27",8,"Thessaly and Central Greece",7.85
+"465","2022-02-28",1,"Aegean",12.66
+"466","2022-02-28",2,"Athos",7.09
+"467","2022-02-28",3,"Attica",9.18
+"468","2022-02-28",4,"Crete",10.92
+"469","2022-02-28",5,"Epirus and Western Macedonia",-0.36
+"470","2022-02-28",6,"Macedonia and Thrace",2.82
+"471","2022-02-28",7,"Peloponnese, Western Greece and the Ionian Islands",6.86
+"472","2022-02-28",8,"Thessaly and Central Greece",4.73
+"473","2022-03-01",1,"Aegean",10.88
+"474","2022-03-01",2,"Athos",6.86
+"475","2022-03-01",3,"Attica",8.19
+"476","2022-03-01",4,"Crete",11.39
+"477","2022-03-01",5,"Epirus and Western Macedonia",1.32
+"478","2022-03-01",6,"Macedonia and Thrace",2.7
+"479","2022-03-01",7,"Peloponnese, Western Greece and the Ionian Islands",6.63
+"480","2022-03-01",8,"Thessaly and Central Greece",4.84
+"481","2022-03-02",1,"Aegean",10.39
+"482","2022-03-02",2,"Athos",6.46
+"483","2022-03-02",3,"Attica",7.96
+"484","2022-03-02",4,"Crete",10.38
+"485","2022-03-02",5,"Epirus and Western Macedonia",0.42
+"486","2022-03-02",6,"Macedonia and Thrace",1.75
+"487","2022-03-02",7,"Peloponnese, Western Greece and the Ionian Islands",5.6
+"488","2022-03-02",8,"Thessaly and Central Greece",4.19
+"489","2022-03-03",1,"Aegean",8.93
+"490","2022-03-03",2,"Athos",7.18
+"491","2022-03-03",3,"Attica",6.17
+"492","2022-03-03",4,"Crete",8.47
+"493","2022-03-03",5,"Epirus and Western Macedonia",-3.03
+"494","2022-03-03",6,"Macedonia and Thrace",1.59
+"495","2022-03-03",7,"Peloponnese, Western Greece and the Ionian Islands",2.85
+"496","2022-03-03",8,"Thessaly and Central Greece",0.75
+"497","2022-03-04",1,"Aegean",10.18
+"498","2022-03-04",2,"Athos",9.78
+"499","2022-03-04",3,"Attica",7.12
+"500","2022-03-04",4,"Crete",8.71
+"501","2022-03-04",5,"Epirus and Western Macedonia",-0.09
+"502","2022-03-04",6,"Macedonia and Thrace",1.45
+"503","2022-03-04",7,"Peloponnese, Western Greece and the Ionian Islands",5.13
+"504","2022-03-04",8,"Thessaly and Central Greece",2.6
+"505","2022-03-05",1,"Aegean",11.78
+"506","2022-03-05",2,"Athos",9.64
+"507","2022-03-05",3,"Attica",9.8
+"508","2022-03-05",4,"Crete",10.5
+"509","2022-03-05",5,"Epirus and Western Macedonia",2.1
+"510","2022-03-05",6,"Macedonia and Thrace",4.28
+"511","2022-03-05",7,"Peloponnese, Western Greece and the Ionian Islands",7.34
+"512","2022-03-05",8,"Thessaly and Central Greece",5.83
+"513","2022-03-06",1,"Aegean",13.54
+"514","2022-03-06",2,"Athos",9.24
+"515","2022-03-06",3,"Attica",10.79
+"516","2022-03-06",4,"Crete",12.15
+"517","2022-03-06",5,"Epirus and Western Macedonia",2
+"518","2022-03-06",6,"Macedonia and Thrace",4.5
+"519","2022-03-06",7,"Peloponnese, Western Greece and the Ionian Islands",7.89
+"520","2022-03-06",8,"Thessaly and Central Greece",6.22
+"521","2022-03-07",1,"Aegean",13.07
+"522","2022-03-07",2,"Athos",8.06
+"523","2022-03-07",3,"Attica",9.57
+"524","2022-03-07",4,"Crete",10.91
+"525","2022-03-07",5,"Epirus and Western Macedonia",0.38
+"526","2022-03-07",6,"Macedonia and Thrace",3.42
+"527","2022-03-07",7,"Peloponnese, Western Greece and the Ionian Islands",6.19
+"528","2022-03-07",8,"Thessaly and Central Greece",5.05
+"529","2022-03-08",1,"Aegean",11.96
+"530","2022-03-08",2,"Athos",8.73
+"531","2022-03-08",3,"Attica",8.84
+"532","2022-03-08",4,"Crete",9.87
+"533","2022-03-08",5,"Epirus and Western Macedonia",1.11
+"534","2022-03-08",6,"Macedonia and Thrace",4.05
+"535","2022-03-08",7,"Peloponnese, Western Greece and the Ionian Islands",6.48
+"536","2022-03-08",8,"Thessaly and Central Greece",4.78
+"537","2022-03-09",1,"Aegean",10.11
+"538","2022-03-09",2,"Athos",6.88
+"539","2022-03-09",3,"Attica",7.88
+"540","2022-03-09",4,"Crete",8.69
+"541","2022-03-09",5,"Epirus and Western Macedonia",-1.25
+"542","2022-03-09",6,"Macedonia and Thrace",1.88
+"543","2022-03-09",7,"Peloponnese, Western Greece and the Ionian Islands",4.31
+"544","2022-03-09",8,"Thessaly and Central Greece",2.84
+"545","2022-03-10",1,"Aegean",8.76
+"546","2022-03-10",2,"Athos",5.38
+"547","2022-03-10",3,"Attica",5.35
+"548","2022-03-10",4,"Crete",7.59
+"549","2022-03-10",5,"Epirus and Western Macedonia",-4.38
+"550","2022-03-10",6,"Macedonia and Thrace",-0.24
+"551","2022-03-10",7,"Peloponnese, Western Greece and the Ionian Islands",2.98
+"552","2022-03-10",8,"Thessaly and Central Greece",-0.27
+"553","2022-03-11",1,"Aegean",5.82
+"554","2022-03-11",2,"Athos",3.89
+"555","2022-03-11",3,"Attica",2.48
+"556","2022-03-11",4,"Crete",5.2
+"557","2022-03-11",5,"Epirus and Western Macedonia",-3.81
+"558","2022-03-11",6,"Macedonia and Thrace",-1.67
+"559","2022-03-11",7,"Peloponnese, Western Greece and the Ionian Islands",0.85
+"560","2022-03-11",8,"Thessaly and Central Greece",-1.25
+"561","2022-03-12",1,"Aegean",4.87
+"562","2022-03-12",2,"Athos",3.1
+"563","2022-03-12",3,"Attica",1.76
+"564","2022-03-12",4,"Crete",5.17
+"565","2022-03-12",5,"Epirus and Western Macedonia",-2.65
+"566","2022-03-12",6,"Macedonia and Thrace",-1.29
+"567","2022-03-12",7,"Peloponnese, Western Greece and the Ionian Islands",1.75
+"568","2022-03-12",8,"Thessaly and Central Greece",-1.04
+"569","2022-03-13",1,"Aegean",4.94
+"570","2022-03-13",2,"Athos",4.37
+"571","2022-03-13",3,"Attica",1.67
+"572","2022-03-13",4,"Crete",4.7
+"573","2022-03-13",5,"Epirus and Western Macedonia",-4.46
+"574","2022-03-13",6,"Macedonia and Thrace",-2.44
+"575","2022-03-13",7,"Peloponnese, Western Greece and the Ionian Islands",0.04
+"576","2022-03-13",8,"Thessaly and Central Greece",-3.04
+"577","2022-03-14",1,"Aegean",7.68
+"578","2022-03-14",2,"Athos",7.29
+"579","2022-03-14",3,"Attica",4.32
+"580","2022-03-14",4,"Crete",6.05
+"581","2022-03-14",5,"Epirus and Western Macedonia",-1.36
+"582","2022-03-14",6,"Macedonia and Thrace",0.15
+"583","2022-03-14",7,"Peloponnese, Western Greece and the Ionian Islands",3.77
+"584","2022-03-14",8,"Thessaly and Central Greece",0.95
+"585","2022-03-15",1,"Aegean",8.92
+"586","2022-03-15",2,"Athos",7.7
+"587","2022-03-15",3,"Attica",5.34
+"588","2022-03-15",4,"Crete",8.44
+"589","2022-03-15",5,"Epirus and Western Macedonia",-1.64
+"590","2022-03-15",6,"Macedonia and Thrace",-0.33
+"591","2022-03-15",7,"Peloponnese, Western Greece and the Ionian Islands",3.07
+"592","2022-03-15",8,"Thessaly and Central Greece",0.35
+"593","2022-03-16",1,"Aegean",10.07
+"594","2022-03-16",2,"Athos",9.67
+"595","2022-03-16",3,"Attica",6.31
+"596","2022-03-16",4,"Crete",7.81
+"597","2022-03-16",5,"Epirus and Western Macedonia",0.91
+"598","2022-03-16",6,"Macedonia and Thrace",2.52
+"599","2022-03-16",7,"Peloponnese, Western Greece and the Ionian Islands",3.15
+"600","2022-03-16",8,"Thessaly and Central Greece",1.28
+"601","2022-03-17",1,"Aegean",12.68
+"602","2022-03-17",2,"Athos",11.11
+"603","2022-03-17",3,"Attica",8.61
+"604","2022-03-17",4,"Crete",9.92
+"605","2022-03-17",5,"Epirus and Western Macedonia",2.41
+"606","2022-03-17",6,"Macedonia and Thrace",5.63
+"607","2022-03-17",7,"Peloponnese, Western Greece and the Ionian Islands",6.57
+"608","2022-03-17",8,"Thessaly and Central Greece",5.1
+"609","2022-03-18",1,"Aegean",9.9
+"610","2022-03-18",2,"Athos",5.82
+"611","2022-03-18",3,"Attica",9.87
+"612","2022-03-18",4,"Crete",11.49
+"613","2022-03-18",5,"Epirus and Western Macedonia",4.3
+"614","2022-03-18",6,"Macedonia and Thrace",2.81
+"615","2022-03-18",7,"Peloponnese, Western Greece and the Ionian Islands",9.44
+"616","2022-03-18",8,"Thessaly and Central Greece",6.4
+"617","2022-03-19",1,"Aegean",5.87
+"618","2022-03-19",2,"Athos",4.81
+"619","2022-03-19",3,"Attica",6.16
+"620","2022-03-19",4,"Crete",7.41
+"621","2022-03-19",5,"Epirus and Western Macedonia",-0.11
+"622","2022-03-19",6,"Macedonia and Thrace",-0.26
+"623","2022-03-19",7,"Peloponnese, Western Greece and the Ionian Islands",4.14
+"624","2022-03-19",8,"Thessaly and Central Greece",2.28
+"625","2022-03-20",1,"Aegean",6.44
+"626","2022-03-20",2,"Athos",4.71
+"627","2022-03-20",3,"Attica",4.36
+"628","2022-03-20",4,"Crete",7.19
+"629","2022-03-20",5,"Epirus and Western Macedonia",-1.25
+"630","2022-03-20",6,"Macedonia and Thrace",-0.42
+"631","2022-03-20",7,"Peloponnese, Western Greece and the Ionian Islands",2.62
+"632","2022-03-20",8,"Thessaly and Central Greece",1.02
+"633","2022-03-21",1,"Aegean",8.1
+"634","2022-03-21",2,"Athos",6.91
+"635","2022-03-21",3,"Attica",6.15
+"636","2022-03-21",4,"Crete",7.13
+"637","2022-03-21",5,"Epirus and Western Macedonia",-1.41
+"638","2022-03-21",6,"Macedonia and Thrace",0.65
+"639","2022-03-21",7,"Peloponnese, Western Greece and the Ionian Islands",3.76
+"640","2022-03-21",8,"Thessaly and Central Greece",1.1
+"641","2022-03-22",1,"Aegean",9.17
+"642","2022-03-22",2,"Athos",8.43
+"643","2022-03-22",3,"Attica",7.57
+"644","2022-03-22",4,"Crete",7.29
+"645","2022-03-22",5,"Epirus and Western Macedonia",-0.72
+"646","2022-03-22",6,"Macedonia and Thrace",2.21
+"647","2022-03-22",7,"Peloponnese, Western Greece and the Ionian Islands",4.07
+"648","2022-03-22",8,"Thessaly and Central Greece",2.86
+"649","2022-03-23",1,"Aegean",9.19
+"650","2022-03-23",2,"Athos",8.86
+"651","2022-03-23",3,"Attica",7.88
+"652","2022-03-23",4,"Crete",6.47
+"653","2022-03-23",5,"Epirus and Western Macedonia",4.43
+"654","2022-03-23",6,"Macedonia and Thrace",6.28
+"655","2022-03-23",7,"Peloponnese, Western Greece and the Ionian Islands",5.89
+"656","2022-03-23",8,"Thessaly and Central Greece",6.03
+"657","2022-03-24",1,"Aegean",9.67
+"658","2022-03-24",2,"Athos",9.3
+"659","2022-03-24",3,"Attica",7.42
+"660","2022-03-24",4,"Crete",8.88
+"661","2022-03-24",5,"Epirus and Western Macedonia",2.29
+"662","2022-03-24",6,"Macedonia and Thrace",2.85
+"663","2022-03-24",7,"Peloponnese, Western Greece and the Ionian Islands",3.83
+"664","2022-03-24",8,"Thessaly and Central Greece",2.85
+"665","2022-03-25",1,"Aegean",13.09
+"666","2022-03-25",2,"Athos",11.81
+"667","2022-03-25",3,"Attica",8.56
+"668","2022-03-25",4,"Crete",10.47
+"669","2022-03-25",5,"Epirus and Western Macedonia",2.95
+"670","2022-03-25",6,"Macedonia and Thrace",5.61
+"671","2022-03-25",7,"Peloponnese, Western Greece and the Ionian Islands",5.81
+"672","2022-03-25",8,"Thessaly and Central Greece",4.95
+"673","2022-03-26",1,"Aegean",14.24
+"674","2022-03-26",2,"Athos",10.88
+"675","2022-03-26",3,"Attica",11.19
+"676","2022-03-26",4,"Crete",10.97
+"677","2022-03-26",5,"Epirus and Western Macedonia",4.38
+"678","2022-03-26",6,"Macedonia and Thrace",7.43
+"679","2022-03-26",7,"Peloponnese, Western Greece and the Ionian Islands",7.24
+"680","2022-03-26",8,"Thessaly and Central Greece",7.81
+"681","2022-03-27",1,"Aegean",12.68
+"682","2022-03-27",2,"Athos",11.16
+"683","2022-03-27",3,"Attica",9.67
+"684","2022-03-27",4,"Crete",10.64
+"685","2022-03-27",5,"Epirus and Western Macedonia",5.14
+"686","2022-03-27",6,"Macedonia and Thrace",4.92
+"687","2022-03-27",7,"Peloponnese, Western Greece and the Ionian Islands",7.5
+"688","2022-03-27",8,"Thessaly and Central Greece",6.17
+"689","2022-03-28",1,"Aegean",13.69
+"690","2022-03-28",2,"Athos",12.41
+"691","2022-03-28",3,"Attica",11.1
+"692","2022-03-28",4,"Crete",11.22
+"693","2022-03-28",5,"Epirus and Western Macedonia",6.51
+"694","2022-03-28",6,"Macedonia and Thrace",6.98
+"695","2022-03-28",7,"Peloponnese, Western Greece and the Ionian Islands",10.09
+"696","2022-03-28",8,"Thessaly and Central Greece",7.81
+"697","2022-03-29",1,"Aegean",14.37
+"698","2022-03-29",2,"Athos",11.63
+"699","2022-03-29",3,"Attica",10.85
+"700","2022-03-29",4,"Crete",13.17
+"701","2022-03-29",5,"Epirus and Western Macedonia",4.76
+"702","2022-03-29",6,"Macedonia and Thrace",8.01
+"703","2022-03-29",7,"Peloponnese, Western Greece and the Ionian Islands",9.35
+"704","2022-03-29",8,"Thessaly and Central Greece",7.09
+"705","2022-03-30",1,"Aegean",14.05
+"706","2022-03-30",2,"Athos",12.1
+"707","2022-03-30",3,"Attica",10.61
+"708","2022-03-30",4,"Crete",11.44
+"709","2022-03-30",5,"Epirus and Western Macedonia",4.4
+"710","2022-03-30",6,"Macedonia and Thrace",7.46
+"711","2022-03-30",7,"Peloponnese, Western Greece and the Ionian Islands",8.21
+"712","2022-03-30",8,"Thessaly and Central Greece",6.28
+"713","2022-03-31",1,"Aegean",14.71
+"714","2022-03-31",2,"Athos",13.44
+"715","2022-03-31",3,"Attica",13.36
+"716","2022-03-31",4,"Crete",11.86
+"717","2022-03-31",5,"Epirus and Western Macedonia",8.44
+"718","2022-03-31",6,"Macedonia and Thrace",11.6
+"719","2022-03-31",7,"Peloponnese, Western Greece and the Ionian Islands",11.08
+"720","2022-03-31",8,"Thessaly and Central Greece",10.97
+"721","2022-04-01",1,"Aegean",16.5
+"722","2022-04-01",2,"Athos",14.46
+"723","2022-04-01",3,"Attica",15.19
+"724","2022-04-01",4,"Crete",15.77
+"725","2022-04-01",5,"Epirus and Western Macedonia",10.76
+"726","2022-04-01",6,"Macedonia and Thrace",13.75
+"727","2022-04-01",7,"Peloponnese, Western Greece and the Ionian Islands",14.28
+"728","2022-04-01",8,"Thessaly and Central Greece",11.86
+"729","2022-04-02",1,"Aegean",16.16
+"730","2022-04-02",2,"Athos",15.16
+"731","2022-04-02",3,"Attica",15.04
+"732","2022-04-02",4,"Crete",14.43
+"733","2022-04-02",5,"Epirus and Western Macedonia",8.56
+"734","2022-04-02",6,"Macedonia and Thrace",11.6
+"735","2022-04-02",7,"Peloponnese, Western Greece and the Ionian Islands",12.04
+"736","2022-04-02",8,"Thessaly and Central Greece",11.93
+"737","2022-04-03",1,"Aegean",15.54
+"738","2022-04-03",2,"Athos",13.72
+"739","2022-04-03",3,"Attica",14.38
+"740","2022-04-03",4,"Crete",13.96
+"741","2022-04-03",5,"Epirus and Western Macedonia",4.98
+"742","2022-04-03",6,"Macedonia and Thrace",9.85
+"743","2022-04-03",7,"Peloponnese, Western Greece and the Ionian Islands",10.47
+"744","2022-04-03",8,"Thessaly and Central Greece",9.44
+"745","2022-04-04",1,"Aegean",14.31
+"746","2022-04-04",2,"Athos",12.9
+"747","2022-04-04",3,"Attica",11.2
+"748","2022-04-04",4,"Crete",12.56
+"749","2022-04-04",5,"Epirus and Western Macedonia",3.39
+"750","2022-04-04",6,"Macedonia and Thrace",6.59
+"751","2022-04-04",7,"Peloponnese, Western Greece and the Ionian Islands",7.88
+"752","2022-04-04",8,"Thessaly and Central Greece",6.61
+"753","2022-04-05",1,"Aegean",14.5
+"754","2022-04-05",2,"Athos",10.9
+"755","2022-04-05",3,"Attica",11.2
+"756","2022-04-05",4,"Crete",13.91
+"757","2022-04-05",5,"Epirus and Western Macedonia",5.47
+"758","2022-04-05",6,"Macedonia and Thrace",7.4
+"759","2022-04-05",7,"Peloponnese, Western Greece and the Ionian Islands",10.59
+"760","2022-04-05",8,"Thessaly and Central Greece",8.31
+"761","2022-04-06",1,"Aegean",13.75
+"762","2022-04-06",2,"Athos",11.7
+"763","2022-04-06",3,"Attica",10.67
+"764","2022-04-06",4,"Crete",13.91
+"765","2022-04-06",5,"Epirus and Western Macedonia",6.26
+"766","2022-04-06",6,"Macedonia and Thrace",4.91
+"767","2022-04-06",7,"Peloponnese, Western Greece and the Ionian Islands",10.62
+"768","2022-04-06",8,"Thessaly and Central Greece",7.56
+"769","2022-04-07",1,"Aegean",14.26
+"770","2022-04-07",2,"Athos",12.39
+"771","2022-04-07",3,"Attica",13.18
+"772","2022-04-07",4,"Crete",14.67
+"773","2022-04-07",5,"Epirus and Western Macedonia",9.2
+"774","2022-04-07",6,"Macedonia and Thrace",8.99
+"775","2022-04-07",7,"Peloponnese, Western Greece and the Ionian Islands",13.62
+"776","2022-04-07",8,"Thessaly and Central Greece",10.67
+"777","2022-04-08",1,"Aegean",15.76
+"778","2022-04-08",2,"Athos",14.33
+"779","2022-04-08",3,"Attica",15.3
+"780","2022-04-08",4,"Crete",14.57
+"781","2022-04-08",5,"Epirus and Western Macedonia",7.71
+"782","2022-04-08",6,"Macedonia and Thrace",9.97
+"783","2022-04-08",7,"Peloponnese, Western Greece and the Ionian Islands",12.25
+"784","2022-04-08",8,"Thessaly and Central Greece",11.37
+"785","2022-04-09",1,"Aegean",15.3
+"786","2022-04-09",2,"Athos",14.49
+"787","2022-04-09",3,"Attica",14.06
+"788","2022-04-09",4,"Crete",13.01
+"789","2022-04-09",5,"Epirus and Western Macedonia",7.43
+"790","2022-04-09",6,"Macedonia and Thrace",11.08
+"791","2022-04-09",7,"Peloponnese, Western Greece and the Ionian Islands",11.34
+"792","2022-04-09",8,"Thessaly and Central Greece",10.55
+"793","2022-04-10",1,"Aegean",15.63
+"794","2022-04-10",2,"Athos",14.39
+"795","2022-04-10",3,"Attica",14.8
+"796","2022-04-10",4,"Crete",12.92
+"797","2022-04-10",5,"Epirus and Western Macedonia",7.91
+"798","2022-04-10",6,"Macedonia and Thrace",11.83
+"799","2022-04-10",7,"Peloponnese, Western Greece and the Ionian Islands",11.74
+"800","2022-04-10",8,"Thessaly and Central Greece",11.18
+"801","2022-04-11",1,"Aegean",14.85
+"802","2022-04-11",2,"Athos",10.52
+"803","2022-04-11",3,"Attica",12.39
+"804","2022-04-11",4,"Crete",13.6
+"805","2022-04-11",5,"Epirus and Western Macedonia",4.17
+"806","2022-04-11",6,"Macedonia and Thrace",7.18
+"807","2022-04-11",7,"Peloponnese, Western Greece and the Ionian Islands",8.87
+"808","2022-04-11",8,"Thessaly and Central Greece",8.31
+"809","2022-04-12",1,"Aegean",12.02
+"810","2022-04-12",2,"Athos",12.06
+"811","2022-04-12",3,"Attica",9.29
+"812","2022-04-12",4,"Crete",10.61
+"813","2022-04-12",5,"Epirus and Western Macedonia",3.04
+"814","2022-04-12",6,"Macedonia and Thrace",5.27
+"815","2022-04-12",7,"Peloponnese, Western Greece and the Ionian Islands",6.69
+"816","2022-04-12",8,"Thessaly and Central Greece",5.81
+"817","2022-04-13",1,"Aegean",12.72
+"818","2022-04-13",2,"Athos",12.18
+"819","2022-04-13",3,"Attica",9.94
+"820","2022-04-13",4,"Crete",10.54
+"821","2022-04-13",5,"Epirus and Western Macedonia",4.33
+"822","2022-04-13",6,"Macedonia and Thrace",6.11
+"823","2022-04-13",7,"Peloponnese, Western Greece and the Ionian Islands",7.24
+"824","2022-04-13",8,"Thessaly and Central Greece",6.19
+"825","2022-04-14",1,"Aegean",13.8
+"826","2022-04-14",2,"Athos",12.08
+"827","2022-04-14",3,"Attica",10.21
+"828","2022-04-14",4,"Crete",10.91
+"829","2022-04-14",5,"Epirus and Western Macedonia",6.11
+"830","2022-04-14",6,"Macedonia and Thrace",6.08
+"831","2022-04-14",7,"Peloponnese, Western Greece and the Ionian Islands",8.16
+"832","2022-04-14",8,"Thessaly and Central Greece",7.3
+"833","2022-04-15",1,"Aegean",14.34
+"834","2022-04-15",2,"Athos",12.59
+"835","2022-04-15",3,"Attica",10.51
+"836","2022-04-15",4,"Crete",12.46
+"837","2022-04-15",5,"Epirus and Western Macedonia",7.61
+"838","2022-04-15",6,"Macedonia and Thrace",7.73
+"839","2022-04-15",7,"Peloponnese, Western Greece and the Ionian Islands",10.12
+"840","2022-04-15",8,"Thessaly and Central Greece",8.22
+"841","2022-04-16",1,"Aegean",14.95
+"842","2022-04-16",2,"Athos",13.14
+"843","2022-04-16",3,"Attica",11.92
+"844","2022-04-16",4,"Crete",12.42
+"845","2022-04-16",5,"Epirus and Western Macedonia",8.69
+"846","2022-04-16",6,"Macedonia and Thrace",9.1
+"847","2022-04-16",7,"Peloponnese, Western Greece and the Ionian Islands",10.96
+"848","2022-04-16",8,"Thessaly and Central Greece",9.58
+"849","2022-04-17",1,"Aegean",16.26
+"850","2022-04-17",2,"Athos",13.54
+"851","2022-04-17",3,"Attica",14.54
+"852","2022-04-17",4,"Crete",17.84
+"853","2022-04-17",5,"Epirus and Western Macedonia",10.7
+"854","2022-04-17",6,"Macedonia and Thrace",12.99
+"855","2022-04-17",7,"Peloponnese, Western Greece and the Ionian Islands",13.46
+"856","2022-04-17",8,"Thessaly and Central Greece",12.32
+"857","2022-04-18",1,"Aegean",14.56
+"858","2022-04-18",2,"Athos",9.75
+"859","2022-04-18",3,"Attica",12.68
+"860","2022-04-18",4,"Crete",14.04
+"861","2022-04-18",5,"Epirus and Western Macedonia",5.77
+"862","2022-04-18",6,"Macedonia and Thrace",6.35
+"863","2022-04-18",7,"Peloponnese, Western Greece and the Ionian Islands",11.26
+"864","2022-04-18",8,"Thessaly and Central Greece",9.39
+"865","2022-04-19",1,"Aegean",12.53
+"866","2022-04-19",2,"Athos",9.08
+"867","2022-04-19",3,"Attica",10.05
+"868","2022-04-19",4,"Crete",12.17
+"869","2022-04-19",5,"Epirus and Western Macedonia",3.6
+"870","2022-04-19",6,"Macedonia and Thrace",5.37
+"871","2022-04-19",7,"Peloponnese, Western Greece and the Ionian Islands",8.38
+"872","2022-04-19",8,"Thessaly and Central Greece",6.41
+"873","2022-04-20",1,"Aegean",12.39
+"874","2022-04-20",2,"Athos",11.3
+"875","2022-04-20",3,"Attica",9.08
+"876","2022-04-20",4,"Crete",11.84
+"877","2022-04-20",5,"Epirus and Western Macedonia",2.43
+"878","2022-04-20",6,"Macedonia and Thrace",5.03
+"879","2022-04-20",7,"Peloponnese, Western Greece and the Ionian Islands",7.36
+"880","2022-04-20",8,"Thessaly and Central Greece",4.87
+"881","2022-04-21",1,"Aegean",14.45
+"882","2022-04-21",2,"Athos",13.05
+"883","2022-04-21",3,"Attica",11.62
+"884","2022-04-21",4,"Crete",11.23
+"885","2022-04-21",5,"Epirus and Western Macedonia",5.72
+"886","2022-04-21",6,"Macedonia and Thrace",6.92
+"887","2022-04-21",7,"Peloponnese, Western Greece and the Ionian Islands",8.83
+"888","2022-04-21",8,"Thessaly and Central Greece",7.72
+"889","2022-04-22",1,"Aegean",14.54
+"890","2022-04-22",2,"Athos",12.9
+"891","2022-04-22",3,"Attica",12.06
+"892","2022-04-22",4,"Crete",13.11
+"893","2022-04-22",5,"Epirus and Western Macedonia",9.26
+"894","2022-04-22",6,"Macedonia and Thrace",9.56
+"895","2022-04-22",7,"Peloponnese, Western Greece and the Ionian Islands",12.49
+"896","2022-04-22",8,"Thessaly and Central Greece",10.36
+"897","2022-04-23",1,"Aegean",16.08
+"898","2022-04-23",2,"Athos",13.53
+"899","2022-04-23",3,"Attica",14.3
+"900","2022-04-23",4,"Crete",15.75
+"901","2022-04-23",5,"Epirus and Western Macedonia",10.43
+"902","2022-04-23",6,"Macedonia and Thrace",11.22
+"903","2022-04-23",7,"Peloponnese, Western Greece and the Ionian Islands",11.92
+"904","2022-04-23",8,"Thessaly and Central Greece",10.86
+"905","2022-04-24",1,"Aegean",15.2
+"906","2022-04-24",2,"Athos",14.06
+"907","2022-04-24",3,"Attica",13.28
+"908","2022-04-24",4,"Crete",13.7
+"909","2022-04-24",5,"Epirus and Western Macedonia",8
+"910","2022-04-24",6,"Macedonia and Thrace",10.89
+"911","2022-04-24",7,"Peloponnese, Western Greece and the Ionian Islands",10.9
+"912","2022-04-24",8,"Thessaly and Central Greece",10.31
+"913","2022-04-25",1,"Aegean",15.65
+"914","2022-04-25",2,"Athos",14.6
+"915","2022-04-25",3,"Attica",14.46
+"916","2022-04-25",4,"Crete",13.81
+"917","2022-04-25",5,"Epirus and Western Macedonia",10.21
+"918","2022-04-25",6,"Macedonia and Thrace",13.01
+"919","2022-04-25",7,"Peloponnese, Western Greece and the Ionian Islands",12.04
+"920","2022-04-25",8,"Thessaly and Central Greece",12.14
+"921","2022-04-26",1,"Aegean",16.45
+"922","2022-04-26",2,"Athos",15.36
+"923","2022-04-26",3,"Attica",15.41
+"924","2022-04-26",4,"Crete",15.02
+"925","2022-04-26",5,"Epirus and Western Macedonia",8.28
+"926","2022-04-26",6,"Macedonia and Thrace",12.46
+"927","2022-04-26",7,"Peloponnese, Western Greece and the Ionian Islands",11.79
+"928","2022-04-26",8,"Thessaly and Central Greece",11.4
+"929","2022-04-27",1,"Aegean",16.18
+"930","2022-04-27",2,"Athos",16.69
+"931","2022-04-27",3,"Attica",13.74
+"932","2022-04-27",4,"Crete",15.6
+"933","2022-04-27",5,"Epirus and Western Macedonia",8.17
+"934","2022-04-27",6,"Macedonia and Thrace",13.08
+"935","2022-04-27",7,"Peloponnese, Western Greece and the Ionian Islands",10.22
+"936","2022-04-27",8,"Thessaly and Central Greece",10.36
+"937","2022-04-28",1,"Aegean",17.34
+"938","2022-04-28",2,"Athos",16.81
+"939","2022-04-28",3,"Attica",14.82
+"940","2022-04-28",4,"Crete",15.89
+"941","2022-04-28",5,"Epirus and Western Macedonia",10.71
+"942","2022-04-28",6,"Macedonia and Thrace",13.66
+"943","2022-04-28",7,"Peloponnese, Western Greece and the Ionian Islands",12.58
+"944","2022-04-28",8,"Thessaly and Central Greece",13.01
+"945","2022-04-29",1,"Aegean",17.23
+"946","2022-04-29",2,"Athos",17.07
+"947","2022-04-29",3,"Attica",16.61
+"948","2022-04-29",4,"Crete",15.49
+"949","2022-04-29",5,"Epirus and Western Macedonia",11.15
+"950","2022-04-29",6,"Macedonia and Thrace",14.79
+"951","2022-04-29",7,"Peloponnese, Western Greece and the Ionian Islands",14.09
+"952","2022-04-29",8,"Thessaly and Central Greece",13.71
