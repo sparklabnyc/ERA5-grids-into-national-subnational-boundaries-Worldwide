@@ -16,7 +16,7 @@ Work in progress by Robbie M Parks.
 
 ## Data
 
-Countries covered:
+### 1st-order administrative units (ADM1):
 
 [Albania](countries/Worldwide/output/grid_county_intersection_raster/ALB/adm1/) (ALB)\
 Armenia (ARM)\
