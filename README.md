@@ -73,7 +73,7 @@ Sweden (SWE)\
 Taiwan (TWN)\
 Tanzania (TZA)\
 Uganda (UGA)\
-# USA (USA)\
+USA (USA)\
 South Africa (ZAF)\
 Zambia (ZMB)\
 Zimbabwe (ZWE)
