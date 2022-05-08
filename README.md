@@ -18,9 +18,9 @@ Work in progress by Robbie M Parks.
 
 ### 1st-order administrative units (ADM1):
 
-[Albania](countries/Worldwide/output/grid_county_intersection_raster/ALB/adm1/) (ALB)\
-Armenia (ARM)\
-Australia (AUS)\
+[Albania](output/grid_county_intersection_raster/ALB/adm1/) (ALB)\
+[Armenia](output/grid_county_intersection_raster/ARM/adm1/) (ARM)\
+[Australia](output/grid_county_intersection_raster/AUS/adm1/) (AUS)\
 Austria (AUT)\
 Belgium (BEL)\
 Bulgaria (BGR)\
