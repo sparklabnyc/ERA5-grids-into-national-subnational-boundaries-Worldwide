@@ -61,7 +61,7 @@ print(paste0('Processing dates in ',year))
 for(date in dates){
 
     # load raster for relevant date and change co-ordinates to -180 to 180
-    raster.current = paste0('~/data/climate/net_cdf/',dname,'/raw_era5_daily/','worldwide_',dname,'_',freq,'_',num,'_',as.character(date),'.nc')
+    raster.current = paste0('~/data/climate/net_cdf/',dname,'/raw_era5_daily/',year,'/worldwide_',dname,'_',freq,'_',num,'_',as.character(date),'.nc')
 
     if(file.exists(raster.current)){
 
