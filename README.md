@@ -16,6 +16,8 @@ Work in progress by Robbie M Parks.
 
 ## Data
 
+`t2m` - 2-metre temperature
+
 ### 1st-order administrative units (ADM1):
 
 [Albania](output/grid_county_intersection_raster/ALB/adm1/) (ALB)\
