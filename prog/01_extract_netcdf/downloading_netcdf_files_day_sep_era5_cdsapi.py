@@ -10,13 +10,13 @@ print(sys.argv)
 
 args = sys.argv
 
-start_day = pd.to_numeric(args[1])
-start_month = pd.to_numeric(args[2])
-start_year = pd.to_numeric(args[3])
-end_day = pd.to_numeric(args[4])
-end_month = pd.to_numeric(args[5])
-end_year = pd.to_numeric(args[6])
-dname = args[7]
+start_day = pd.to_numeric('01') # pd.to_numeric(args[1])
+start_month = pd.to_numeric('01') # pd.to_numeric(args[2])
+start_year = pd.to_numeric('2000') # pd.to_numeric(args[3])
+end_day = pd.to_numeric('31') # pd.to_numeric(args[4])
+end_month = pd.to_numeric('12') # pd.to_numeric(args[5])
+end_year = pd.to_numeric('2022') # pd.to_numeric(args[6])
+dname = 't2m' # args[7]
 
 # create list of dates
 def date_range(start, end):
