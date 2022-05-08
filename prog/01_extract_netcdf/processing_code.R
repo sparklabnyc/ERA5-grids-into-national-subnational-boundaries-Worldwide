@@ -12,7 +12,7 @@ library(plyr)
 if(country.id=='MLT'){space.res="0"}
 
 # create directory to place output files into
-dir.output = paste0(project.folder,"countries/Worldwide/output/grid_county_intersection_raster/",country.id,'/adm',space.res,'/')
+dir.output = paste0(project.folder,"output/grid_county_intersection_raster/",country.id,'/adm',space.res,'/')
 ifelse(!dir.exists(dir.output), dir.create(dir.output, recursive=TRUE), FALSE)
 
 # shapefiles downloaded from
@@ -99,5 +99,7 @@ for(date in dates){
 names(weighted.area.national.total)[3] = paste0('NAME_',space.res)
 
 # save file
-saveRDS(weighted.area.national.total,paste0(dir.output,'weighted_area_raster_',country.id,'_',space.res,'_',dname,'_',freq,'_',as.character(year),'.rds'))
-write.csv(weighted.area.national.total,paste0(dir.output,'weighted_area_raster_',country.id,'_',space.res,'_',dname,'_',freq,'_',as.character(year),'.csv'))
+saveRDS(weighted.area.national.total,paste0(dir.output,
+                                            'weighted_area_raster_',country.id,'_',space.res,'_',dname,'_',freq,'_',as.character(year),'.rds'))
+write.csv(weighted.area.national.total,paste0(dir.output,
+                                              'weighted_area_raster_',country.id,'_',space.res,'_',dname,'_',freq,'_',as.character(year),'.csv'),row.names = F)
