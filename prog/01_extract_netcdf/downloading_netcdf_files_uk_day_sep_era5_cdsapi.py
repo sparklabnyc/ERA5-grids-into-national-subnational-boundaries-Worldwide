@@ -54,6 +54,17 @@ def retrieve_era5_worldwide_sep_onevar(start, end):
     """
     dateList = date_range(start, end)
     for date in dateList:
+        year = str(date.year)
+        
+        path_year = path + year + '/'
+        
+        # check if file directory exists
+        if not os.path.exists(path_year):
+            os.makedirs(path_year)
+
+        # change directory to desired file location
+        os.chdir(path_year)
+        
         date = str(date)
         target = "worldwide_" + dname + "_daily_four_" + date + ".nc"
         era5_request_worldwide(date, target)
