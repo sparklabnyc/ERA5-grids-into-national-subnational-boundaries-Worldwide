@@ -84,9 +84,9 @@ Let me know if you'd like me to run any other specific countries, but others in 
 
 ### Actual processing functions:
 
-downloading_netcdf_files_uk_day_sep_era5_cdsapi.py - script to download lots of ERA5 files from server\
-extracting_netcdf_files_era5.R - Does the heavy lifting here averaging by political sub-units\
-population_grid_summary.R  - Find population weights based on gridded population of world
+[downloading_netcdf_files_uk_day_sep_era5_cdsapi.py](prog/01_extract_netcdf/downloading_netcdf_files_uk_day_sep_era5_cdsapi.py) - script to download lots of ERA5 files from server\
+[extracting_netcdf_files_era5.R] - Does the heavy lifting here averaging by political sub-units\
+[population_grid_summary.R]  - Find population weights based on gridded population of world
 
 ## Papers using this output
 
