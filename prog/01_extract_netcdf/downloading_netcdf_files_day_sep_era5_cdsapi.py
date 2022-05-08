@@ -12,10 +12,10 @@ args = sys.argv
 
 start_day = pd.to_numeric('01')
 start_month = pd.to_numeric('01')
-start_year = pd.to_numeric(args[1])
+start_year = pd.to_numeric(args[0])
 end_day = pd.to_numeric('31')
 end_month = pd.to_numeric('12')
-end_year = pd.to_numeric(args[1])
+end_year = pd.to_numeric(args[0])
 dname = 't2m'
 
 # create list of dates
