@@ -5,7 +5,7 @@
 
 cd $HOME/git/ERA5-grids-into-national-subnational-boundaries-Worldwide/
 module load anaconda3/personal
-python --args ${PBS_ARRAY_INDEX} < $HOME/git/ERA5-grids-into-national-subnational-boundaries-Worldwide/prog/01_extract_netcdf/downloading_netcdf_files_day_sep_era5_cdsapi.py
+python $HOME/git/ERA5-grids-into-national-subnational-boundaries-Worldwide/prog/01_extract_netcdf/downloading_netcdf_files_day_sep_era5_cdsapi.py
 
 # to run type
 # qsub -q med-bio downloading_netcdf_files_day_sep_era5_cdsapi.run
