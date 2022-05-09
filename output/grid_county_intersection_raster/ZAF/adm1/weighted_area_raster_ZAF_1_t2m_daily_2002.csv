@@ -1,0 +1,3651 @@
+"date","ID_1","NAME_1","t2m"
+"2002-01-01",1,"Eastern Cape",17.94
+"2002-01-01",2,"Free State",16.72
+"2002-01-01",3,"Gauteng",17.92
+"2002-01-01",4,"KwaZulu-Natal",18.33
+"2002-01-01",5,"Limpopo",21.26
+"2002-01-01",6,"Mpumalanga",17.15
+"2002-01-01",7,"North West",19.06
+"2002-01-01",8,"Northern Cape",21.15
+"2002-01-01",9,"Western Cape (isolated islands)",7.98
+"2002-01-01",10,"Western Cape",18.77
+"2002-01-02",1,"Eastern Cape",15.46
+"2002-01-02",2,"Free State",16.63
+"2002-01-02",3,"Gauteng",18.74
+"2002-01-02",4,"KwaZulu-Natal",19.73
+"2002-01-02",5,"Limpopo",21.13
+"2002-01-02",6,"Mpumalanga",18.15
+"2002-01-02",7,"North West",19.62
+"2002-01-02",8,"Northern Cape",18.11
+"2002-01-02",9,"Western Cape (isolated islands)",7.29
+"2002-01-02",10,"Western Cape",15.35
+"2002-01-03",1,"Eastern Cape",12.86
+"2002-01-03",2,"Free State",15.72
+"2002-01-03",3,"Gauteng",16.44
+"2002-01-03",4,"KwaZulu-Natal",15.48
+"2002-01-03",5,"Limpopo",21.18
+"2002-01-03",6,"Mpumalanga",16.44
+"2002-01-03",7,"North West",19.99
+"2002-01-03",8,"Northern Cape",20.18
+"2002-01-03",9,"Western Cape (isolated islands)",6.06
+"2002-01-03",10,"Western Cape",15.87
+"2002-01-04",1,"Eastern Cape",18.22
+"2002-01-04",2,"Free State",17.4
+"2002-01-04",3,"Gauteng",16.37
+"2002-01-04",4,"KwaZulu-Natal",18.23
+"2002-01-04",5,"Limpopo",20.1
+"2002-01-04",6,"Mpumalanga",17.28
+"2002-01-04",7,"North West",18.79
+"2002-01-04",8,"Northern Cape",22.13
+"2002-01-04",9,"Western Cape (isolated islands)",9.62
+"2002-01-04",10,"Western Cape",18.26
+"2002-01-05",1,"Eastern Cape",19.5
+"2002-01-05",2,"Free State",17.35
+"2002-01-05",3,"Gauteng",14.43
+"2002-01-05",4,"KwaZulu-Natal",19.02
+"2002-01-05",5,"Limpopo",19.75
+"2002-01-05",6,"Mpumalanga",16.27
+"2002-01-05",7,"North West",19.31
+"2002-01-05",8,"Northern Cape",24.89
+"2002-01-05",9,"Western Cape (isolated islands)",10.81
+"2002-01-05",10,"Western Cape",19.04
+"2002-01-06",1,"Eastern Cape",20.05
+"2002-01-06",2,"Free State",18.01
+"2002-01-06",3,"Gauteng",16.46
+"2002-01-06",4,"KwaZulu-Natal",19.42
+"2002-01-06",5,"Limpopo",17.65
+"2002-01-06",6,"Mpumalanga",15.61
+"2002-01-06",7,"North West",19.02
+"2002-01-06",8,"Northern Cape",20.92
+"2002-01-06",9,"Western Cape (isolated islands)",9.43
+"2002-01-06",10,"Western Cape",17.84
+"2002-01-07",1,"Eastern Cape",14.74
+"2002-01-07",2,"Free State",17.72
+"2002-01-07",3,"Gauteng",15.89
+"2002-01-07",4,"KwaZulu-Natal",21.47
+"2002-01-07",5,"Limpopo",18.59
+"2002-01-07",6,"Mpumalanga",16.76
+"2002-01-07",7,"North West",17.98
+"2002-01-07",8,"Northern Cape",14.32
+"2002-01-07",9,"Western Cape (isolated islands)",7.51
+"2002-01-07",10,"Western Cape",12.91
+"2002-01-08",1,"Eastern Cape",10.56
+"2002-01-08",2,"Free State",11.88
+"2002-01-08",3,"Gauteng",17.73
+"2002-01-08",4,"KwaZulu-Natal",16.72
+"2002-01-08",5,"Limpopo",22.73
+"2002-01-08",6,"Mpumalanga",18.8
+"2002-01-08",7,"North West",15.66
+"2002-01-08",8,"Northern Cape",11.93
+"2002-01-08",9,"Western Cape (isolated islands)",6.65
+"2002-01-08",10,"Western Cape",11.04
+"2002-01-09",1,"Eastern Cape",12.72
+"2002-01-09",2,"Free State",14.79
+"2002-01-09",3,"Gauteng",16.42
+"2002-01-09",4,"KwaZulu-Natal",15.57
+"2002-01-09",5,"Limpopo",19.77
+"2002-01-09",6,"Mpumalanga",15.55
+"2002-01-09",7,"North West",18.31
+"2002-01-09",8,"Northern Cape",17.55
+"2002-01-09",9,"Western Cape (isolated islands)",5.58
+"2002-01-09",10,"Western Cape",13.79
+"2002-01-10",1,"Eastern Cape",19.43
+"2002-01-10",2,"Free State",16.21
+"2002-01-10",3,"Gauteng",16.94
+"2002-01-10",4,"KwaZulu-Natal",19.66
+"2002-01-10",5,"Limpopo",20.06
+"2002-01-10",6,"Mpumalanga",17.33
+"2002-01-10",7,"North West",19.09
+"2002-01-10",8,"Northern Cape",18.97
+"2002-01-10",9,"Western Cape (isolated islands)",7.71
+"2002-01-10",10,"Western Cape",17.44
+"2002-01-11",1,"Eastern Cape",18.35
+"2002-01-11",2,"Free State",17.24
+"2002-01-11",3,"Gauteng",16.51
+"2002-01-11",4,"KwaZulu-Natal",21
+"2002-01-11",5,"Limpopo",19.76
+"2002-01-11",6,"Mpumalanga",17.17
+"2002-01-11",7,"North West",19.33
+"2002-01-11",8,"Northern Cape",18.64
+"2002-01-11",9,"Western Cape (isolated islands)",10.01
+"2002-01-11",10,"Western Cape",16.69
+"2002-01-12",1,"Eastern Cape",17.81
+"2002-01-12",2,"Free State",17.41
+"2002-01-12",3,"Gauteng",18.89
+"2002-01-12",4,"KwaZulu-Natal",22.33
+"2002-01-12",5,"Limpopo",21.04
+"2002-01-12",6,"Mpumalanga",18.61
+"2002-01-12",7,"North West",19.1
+"2002-01-12",8,"Northern Cape",14.59
+"2002-01-12",9,"Western Cape (isolated islands)",10.07
+"2002-01-12",10,"Western Cape",13.58
+"2002-01-13",1,"Eastern Cape",12.41
+"2002-01-13",2,"Free State",12.32
+"2002-01-13",3,"Gauteng",16.29
+"2002-01-13",4,"KwaZulu-Natal",17.68
+"2002-01-13",5,"Limpopo",22.96
+"2002-01-13",6,"Mpumalanga",18.71
+"2002-01-13",7,"North West",16.17
+"2002-01-13",8,"Northern Cape",14.43
+"2002-01-13",9,"Western Cape (isolated islands)",6.27
+"2002-01-13",10,"Western Cape",11.76
+"2002-01-14",1,"Eastern Cape",13.35
+"2002-01-14",2,"Free State",14.08
+"2002-01-14",3,"Gauteng",15.81
+"2002-01-14",4,"KwaZulu-Natal",16.63
+"2002-01-14",5,"Limpopo",19.49
+"2002-01-14",6,"Mpumalanga",16.5
+"2002-01-14",7,"North West",16.74
+"2002-01-14",8,"Northern Cape",17.43
+"2002-01-14",9,"Western Cape (isolated islands)",4.05
+"2002-01-14",10,"Western Cape",13.9
+"2002-01-15",1,"Eastern Cape",16.5
+"2002-01-15",2,"Free State",16.34
+"2002-01-15",3,"Gauteng",15.58
+"2002-01-15",4,"KwaZulu-Natal",18.79
+"2002-01-15",5,"Limpopo",20.16
+"2002-01-15",6,"Mpumalanga",17.06
+"2002-01-15",7,"North West",18.52
+"2002-01-15",8,"Northern Cape",19.61
+"2002-01-15",9,"Western Cape (isolated islands)",6.17
+"2002-01-15",10,"Western Cape",16.69
+"2002-01-16",1,"Eastern Cape",18.58
+"2002-01-16",2,"Free State",16.24
+"2002-01-16",3,"Gauteng",16.75
+"2002-01-16",4,"KwaZulu-Natal",19.3
+"2002-01-16",5,"Limpopo",20.73
+"2002-01-16",6,"Mpumalanga",17.14
+"2002-01-16",7,"North West",19.85
+"2002-01-16",8,"Northern Cape",18.33
+"2002-01-16",9,"Western Cape (isolated islands)",7.97
+"2002-01-16",10,"Western Cape",16.87
+"2002-01-17",1,"Eastern Cape",17.76
+"2002-01-17",2,"Free State",18.04
+"2002-01-17",3,"Gauteng",18.73
+"2002-01-17",4,"KwaZulu-Natal",22.3
+"2002-01-17",5,"Limpopo",22.41
+"2002-01-17",6,"Mpumalanga",18.85
+"2002-01-17",7,"North West",20.86
+"2002-01-17",8,"Northern Cape",16.21
+"2002-01-17",9,"Western Cape (isolated islands)",9.49
+"2002-01-17",10,"Western Cape",15.28
+"2002-01-18",1,"Eastern Cape",14.11
+"2002-01-18",2,"Free State",13.02
+"2002-01-18",3,"Gauteng",18.91
+"2002-01-18",4,"KwaZulu-Natal",21.51
+"2002-01-18",5,"Limpopo",23.07
+"2002-01-18",6,"Mpumalanga",19.53
+"2002-01-18",7,"North West",15.67
+"2002-01-18",8,"Northern Cape",12.58
+"2002-01-18",9,"Western Cape (isolated islands)",8.13
+"2002-01-18",10,"Western Cape",14.87
+"2002-01-19",1,"Eastern Cape",13.7
+"2002-01-19",2,"Free State",12.4
+"2002-01-19",3,"Gauteng",15.89
+"2002-01-19",4,"KwaZulu-Natal",17.77
+"2002-01-19",5,"Limpopo",22.69
+"2002-01-19",6,"Mpumalanga",17.75
+"2002-01-19",7,"North West",15.77
+"2002-01-19",8,"Northern Cape",15.9
+"2002-01-19",9,"Western Cape (isolated islands)",7.57
+"2002-01-19",10,"Western Cape",15.66
+"2002-01-20",1,"Eastern Cape",16.97
+"2002-01-20",2,"Free State",15.91
+"2002-01-20",3,"Gauteng",16.45
+"2002-01-20",4,"KwaZulu-Natal",18.54
+"2002-01-20",5,"Limpopo",20.15
+"2002-01-20",6,"Mpumalanga",16.74
+"2002-01-20",7,"North West",18.63
+"2002-01-20",8,"Northern Cape",19.81
+"2002-01-20",9,"Western Cape (isolated islands)",8.93
+"2002-01-20",10,"Western Cape",17.83
+"2002-01-21",1,"Eastern Cape",17.9
+"2002-01-21",2,"Free State",17.89
+"2002-01-21",3,"Gauteng",17.9
+"2002-01-21",4,"KwaZulu-Natal",19.98
+"2002-01-21",5,"Limpopo",19.97
+"2002-01-21",6,"Mpumalanga",17.64
+"2002-01-21",7,"North West",19.14
+"2002-01-21",8,"Northern Cape",22.23
+"2002-01-21",9,"Western Cape (isolated islands)",11.12
+"2002-01-21",10,"Western Cape",18.06
+"2002-01-22",1,"Eastern Cape",18.2
+"2002-01-22",2,"Free State",18.57
+"2002-01-22",3,"Gauteng",18.91
+"2002-01-22",4,"KwaZulu-Natal",21.09
+"2002-01-22",5,"Limpopo",21.96
+"2002-01-22",6,"Mpumalanga",18.33
+"2002-01-22",7,"North West",21.11
+"2002-01-22",8,"Northern Cape",22.36
+"2002-01-22",9,"Western Cape (isolated islands)",8.32
+"2002-01-22",10,"Western Cape",18.52
+"2002-01-23",1,"Eastern Cape",19.89
+"2002-01-23",2,"Free State",18.1
+"2002-01-23",3,"Gauteng",17.87
+"2002-01-23",4,"KwaZulu-Natal",21.09
+"2002-01-23",5,"Limpopo",20.34
+"2002-01-23",6,"Mpumalanga",17.86
+"2002-01-23",7,"North West",19.42
+"2002-01-23",8,"Northern Cape",23.02
+"2002-01-23",9,"Western Cape (isolated islands)",8.64
+"2002-01-23",10,"Western Cape",19.23
+"2002-01-24",1,"Eastern Cape",17.12
+"2002-01-24",2,"Free State",17.34
+"2002-01-24",3,"Gauteng",17.99
+"2002-01-24",4,"KwaZulu-Natal",18.8
+"2002-01-24",5,"Limpopo",21.97
+"2002-01-24",6,"Mpumalanga",18.62
+"2002-01-24",7,"North West",19.39
+"2002-01-24",8,"Northern Cape",20.18
+"2002-01-24",9,"Western Cape (isolated islands)",4.79
+"2002-01-24",10,"Western Cape",17.02
+"2002-01-25",1,"Eastern Cape",14.13
+"2002-01-25",2,"Free State",16.28
+"2002-01-25",3,"Gauteng",15.82
+"2002-01-25",4,"KwaZulu-Natal",17.04
+"2002-01-25",5,"Limpopo",21.68
+"2002-01-25",6,"Mpumalanga",16.78
+"2002-01-25",7,"North West",18.51
+"2002-01-25",8,"Northern Cape",20.32
+"2002-01-25",9,"Western Cape (isolated islands)",7.52
+"2002-01-25",10,"Western Cape",17.3
+"2002-01-26",1,"Eastern Cape",14.96
+"2002-01-26",2,"Free State",15.28
+"2002-01-26",3,"Gauteng",15.92
+"2002-01-26",4,"KwaZulu-Natal",17.06
+"2002-01-26",5,"Limpopo",20
+"2002-01-26",6,"Mpumalanga",16.41
+"2002-01-26",7,"North West",17.85
+"2002-01-26",8,"Northern Cape",19.94
+"2002-01-26",9,"Western Cape (isolated islands)",7.04
+"2002-01-26",10,"Western Cape",17.67
+"2002-01-27",1,"Eastern Cape",17.57
+"2002-01-27",2,"Free State",15.92
+"2002-01-27",3,"Gauteng",16.08
+"2002-01-27",4,"KwaZulu-Natal",17.85
+"2002-01-27",5,"Limpopo",19.79
+"2002-01-27",6,"Mpumalanga",16.26
+"2002-01-27",7,"North West",18.08
+"2002-01-27",8,"Northern Cape",18.21
+"2002-01-27",9,"Western Cape (isolated islands)",8.22
+"2002-01-27",10,"Western Cape",19.27
+"2002-01-28",1,"Eastern Cape",16.52
+"2002-01-28",2,"Free State",16.48
+"2002-01-28",3,"Gauteng",17.2
+"2002-01-28",4,"KwaZulu-Natal",19.87
+"2002-01-28",5,"Limpopo",19.57
+"2002-01-28",6,"Mpumalanga",16.55
+"2002-01-28",7,"North West",18.03
+"2002-01-28",8,"Northern Cape",17.29
+"2002-01-28",9,"Western Cape (isolated islands)",9.78
+"2002-01-28",10,"Western Cape",17.73
+"2002-01-29",1,"Eastern Cape",17.42
+"2002-01-29",2,"Free State",17.39
+"2002-01-29",3,"Gauteng",16.97
+"2002-01-29",4,"KwaZulu-Natal",19.45
+"2002-01-29",5,"Limpopo",21.61
+"2002-01-29",6,"Mpumalanga",17.62
+"2002-01-29",7,"North West",18.92
+"2002-01-29",8,"Northern Cape",20.09
+"2002-01-29",9,"Western Cape (isolated islands)",7.73
+"2002-01-29",10,"Western Cape",19.14
+"2002-01-30",1,"Eastern Cape",17.53
+"2002-01-30",2,"Free State",17.08
+"2002-01-30",3,"Gauteng",17.11
+"2002-01-30",4,"KwaZulu-Natal",19.73
+"2002-01-30",5,"Limpopo",21.89
+"2002-01-30",6,"Mpumalanga",18.12
+"2002-01-30",7,"North West",18.31
+"2002-01-30",8,"Northern Cape",18.6
+"2002-01-30",9,"Western Cape (isolated islands)",10.3
+"2002-01-30",10,"Western Cape",18.45
+"2002-01-31",1,"Eastern Cape",16.08
+"2002-01-31",2,"Free State",16.54
+"2002-01-31",3,"Gauteng",17.8
+"2002-01-31",4,"KwaZulu-Natal",18.82
+"2002-01-31",5,"Limpopo",22.01
+"2002-01-31",6,"Mpumalanga",18.11
+"2002-01-31",7,"North West",18.29
+"2002-01-31",8,"Northern Cape",17.73
+"2002-01-31",9,"Western Cape (isolated islands)",6.26
+"2002-01-31",10,"Western Cape",15.43
+"2002-02-01",1,"Eastern Cape",13.16
+"2002-02-01",2,"Free State",14.9
+"2002-02-01",3,"Gauteng",16.5
+"2002-02-01",4,"KwaZulu-Natal",17.43
+"2002-02-01",5,"Limpopo",20.18
+"2002-02-01",6,"Mpumalanga",17.26
+"2002-02-01",7,"North West",17.83
+"2002-02-01",8,"Northern Cape",19.44
+"2002-02-01",9,"Western Cape (isolated islands)",6.39
+"2002-02-01",10,"Western Cape",17.12
+"2002-02-02",1,"Eastern Cape",14
+"2002-02-02",2,"Free State",14.76
+"2002-02-02",3,"Gauteng",15.97
+"2002-02-02",4,"KwaZulu-Natal",16.94
+"2002-02-02",5,"Limpopo",20.43
+"2002-02-02",6,"Mpumalanga",17.14
+"2002-02-02",7,"North West",17.78
+"2002-02-02",8,"Northern Cape",20.78
+"2002-02-02",9,"Western Cape (isolated islands)",8.6
+"2002-02-02",10,"Western Cape",18.14
+"2002-02-03",1,"Eastern Cape",16
+"2002-02-03",2,"Free State",15.2
+"2002-02-03",3,"Gauteng",16.13
+"2002-02-03",4,"KwaZulu-Natal",17.98
+"2002-02-03",5,"Limpopo",20.34
+"2002-02-03",6,"Mpumalanga",17.64
+"2002-02-03",7,"North West",17.96
+"2002-02-03",8,"Northern Cape",21.49
+"2002-02-03",9,"Western Cape (isolated islands)",7.06
+"2002-02-03",10,"Western Cape",19.17
+"2002-02-04",1,"Eastern Cape",17.05
+"2002-02-04",2,"Free State",16.4
+"2002-02-04",3,"Gauteng",17.13
+"2002-02-04",4,"KwaZulu-Natal",18.16
+"2002-02-04",5,"Limpopo",20.57
+"2002-02-04",6,"Mpumalanga",17.95
+"2002-02-04",7,"North West",18.36
+"2002-02-04",8,"Northern Cape",20.21
+"2002-02-04",9,"Western Cape (isolated islands)",5.75
+"2002-02-04",10,"Western Cape",17.7
+"2002-02-05",1,"Eastern Cape",15.87
+"2002-02-05",2,"Free State",16.43
+"2002-02-05",3,"Gauteng",17.51
+"2002-02-05",4,"KwaZulu-Natal",19.23
+"2002-02-05",5,"Limpopo",21.4
+"2002-02-05",6,"Mpumalanga",17.98
+"2002-02-05",7,"North West",17.78
+"2002-02-05",8,"Northern Cape",20.01
+"2002-02-05",9,"Western Cape (isolated islands)",8.5
+"2002-02-05",10,"Western Cape",17.57
+"2002-02-06",1,"Eastern Cape",17.59
+"2002-02-06",2,"Free State",17.65
+"2002-02-06",3,"Gauteng",18.28
+"2002-02-06",4,"KwaZulu-Natal",20.2
+"2002-02-06",5,"Limpopo",21.76
+"2002-02-06",6,"Mpumalanga",18.24
+"2002-02-06",7,"North West",19.41
+"2002-02-06",8,"Northern Cape",20.81
+"2002-02-06",9,"Western Cape (isolated islands)",10.22
+"2002-02-06",10,"Western Cape",18.66
+"2002-02-07",1,"Eastern Cape",12.06
+"2002-02-07",2,"Free State",14.86
+"2002-02-07",3,"Gauteng",17.52
+"2002-02-07",4,"KwaZulu-Natal",16.95
+"2002-02-07",5,"Limpopo",22.63
+"2002-02-07",6,"Mpumalanga",18.05
+"2002-02-07",7,"North West",17.88
+"2002-02-07",8,"Northern Cape",13.61
+"2002-02-07",9,"Western Cape (isolated islands)",5.05
+"2002-02-07",10,"Western Cape",12.49
+"2002-02-08",1,"Eastern Cape",11.03
+"2002-02-08",2,"Free State",12.88
+"2002-02-08",3,"Gauteng",13.68
+"2002-02-08",4,"KwaZulu-Natal",13.1
+"2002-02-08",5,"Limpopo",17.84
+"2002-02-08",6,"Mpumalanga",12.83
+"2002-02-08",7,"North West",17.19
+"2002-02-08",8,"Northern Cape",17.02
+"2002-02-08",9,"Western Cape (isolated islands)",7.81
+"2002-02-08",10,"Western Cape",14.36
+"2002-02-09",1,"Eastern Cape",13.11
+"2002-02-09",2,"Free State",13.1
+"2002-02-09",3,"Gauteng",13.48
+"2002-02-09",4,"KwaZulu-Natal",13.31
+"2002-02-09",5,"Limpopo",17.77
+"2002-02-09",6,"Mpumalanga",13.41
+"2002-02-09",7,"North West",17.23
+"2002-02-09",8,"Northern Cape",21.39
+"2002-02-09",9,"Western Cape (isolated islands)",9.15
+"2002-02-09",10,"Western Cape",17.54
+"2002-02-10",1,"Eastern Cape",14.17
+"2002-02-10",2,"Free State",14.32
+"2002-02-10",3,"Gauteng",12.76
+"2002-02-10",4,"KwaZulu-Natal",13.64
+"2002-02-10",5,"Limpopo",17.41
+"2002-02-10",6,"Mpumalanga",12.52
+"2002-02-10",7,"North West",17.43
+"2002-02-10",8,"Northern Cape",21.54
+"2002-02-10",9,"Western Cape (isolated islands)",9.61
+"2002-02-10",10,"Western Cape",18.56
+"2002-02-11",1,"Eastern Cape",17.45
+"2002-02-11",2,"Free State",16.05
+"2002-02-11",3,"Gauteng",15.36
+"2002-02-11",4,"KwaZulu-Natal",17.58
+"2002-02-11",5,"Limpopo",19.55
+"2002-02-11",6,"Mpumalanga",15.95
+"2002-02-11",7,"North West",18.27
+"2002-02-11",8,"Northern Cape",20.65
+"2002-02-11",9,"Western Cape (isolated islands)",8.88
+"2002-02-11",10,"Western Cape",17.89
+"2002-02-12",1,"Eastern Cape",16.19
+"2002-02-12",2,"Free State",16.68
+"2002-02-12",3,"Gauteng",15.45
+"2002-02-12",4,"KwaZulu-Natal",19.12
+"2002-02-12",5,"Limpopo",21.28
+"2002-02-12",6,"Mpumalanga",16.98
+"2002-02-12",7,"North West",18.7
+"2002-02-12",8,"Northern Cape",18.85
+"2002-02-12",9,"Western Cape (isolated islands)",10.06
+"2002-02-12",10,"Western Cape",15.04
+"2002-02-13",1,"Eastern Cape",15.08
+"2002-02-13",2,"Free State",17.49
+"2002-02-13",3,"Gauteng",19.07
+"2002-02-13",4,"KwaZulu-Natal",18.9
+"2002-02-13",5,"Limpopo",23.7
+"2002-02-13",6,"Mpumalanga",19.08
+"2002-02-13",7,"North West",20.7
+"2002-02-13",8,"Northern Cape",16.43
+"2002-02-13",9,"Western Cape (isolated islands)",7.18
+"2002-02-13",10,"Western Cape",13.95
+"2002-02-14",1,"Eastern Cape",16.78
+"2002-02-14",2,"Free State",17.19
+"2002-02-14",3,"Gauteng",16.15
+"2002-02-14",4,"KwaZulu-Natal",20.11
+"2002-02-14",5,"Limpopo",21.19
+"2002-02-14",6,"Mpumalanga",17.17
+"2002-02-14",7,"North West",19.65
+"2002-02-14",8,"Northern Cape",16.92
+"2002-02-14",9,"Western Cape (isolated islands)",8.64
+"2002-02-14",10,"Western Cape",14.41
+"2002-02-15",1,"Eastern Cape",18.49
+"2002-02-15",2,"Free State",16.58
+"2002-02-15",3,"Gauteng",15.69
+"2002-02-15",4,"KwaZulu-Natal",19.97
+"2002-02-15",5,"Limpopo",21.55
+"2002-02-15",6,"Mpumalanga",17.17
+"2002-02-15",7,"North West",18.1
+"2002-02-15",8,"Northern Cape",17.51
+"2002-02-15",9,"Western Cape (isolated islands)",9.94
+"2002-02-15",10,"Western Cape",15.76
+"2002-02-16",1,"Eastern Cape",14.81
+"2002-02-16",2,"Free State",15.1
+"2002-02-16",3,"Gauteng",17.07
+"2002-02-16",4,"KwaZulu-Natal",19.37
+"2002-02-16",5,"Limpopo",23.46
+"2002-02-16",6,"Mpumalanga",18.38
+"2002-02-16",7,"North West",17.83
+"2002-02-16",8,"Northern Cape",16.03
+"2002-02-16",9,"Western Cape (isolated islands)",7.9
+"2002-02-16",10,"Western Cape",13.1
+"2002-02-17",1,"Eastern Cape",13.27
+"2002-02-17",2,"Free State",15.28
+"2002-02-17",3,"Gauteng",16.35
+"2002-02-17",4,"KwaZulu-Natal",16
+"2002-02-17",5,"Limpopo",20.41
+"2002-02-17",6,"Mpumalanga",16.22
+"2002-02-17",7,"North West",18.67
+"2002-02-17",8,"Northern Cape",18.37
+"2002-02-17",9,"Western Cape (isolated islands)",4.48
+"2002-02-17",10,"Western Cape",13.4
+"2002-02-18",1,"Eastern Cape",13.33
+"2002-02-18",2,"Free State",15.05
+"2002-02-18",3,"Gauteng",15.76
+"2002-02-18",4,"KwaZulu-Natal",15.62
+"2002-02-18",5,"Limpopo",19.6
+"2002-02-18",6,"Mpumalanga",15.8
+"2002-02-18",7,"North West",16.88
+"2002-02-18",8,"Northern Cape",20.23
+"2002-02-18",9,"Western Cape (isolated islands)",5.06
+"2002-02-18",10,"Western Cape",15.66
+"2002-02-19",1,"Eastern Cape",14.77
+"2002-02-19",2,"Free State",15.29
+"2002-02-19",3,"Gauteng",14.09
+"2002-02-19",4,"KwaZulu-Natal",16.12
+"2002-02-19",5,"Limpopo",17.91
+"2002-02-19",6,"Mpumalanga",14.9
+"2002-02-19",7,"North West",16.62
+"2002-02-19",8,"Northern Cape",21.66
+"2002-02-19",9,"Western Cape (isolated islands)",5.85
+"2002-02-19",10,"Western Cape",18.2
+"2002-02-20",1,"Eastern Cape",18.98
+"2002-02-20",2,"Free State",15.59
+"2002-02-20",3,"Gauteng",14.55
+"2002-02-20",4,"KwaZulu-Natal",16.03
+"2002-02-20",5,"Limpopo",17.04
+"2002-02-20",6,"Mpumalanga",14.08
+"2002-02-20",7,"North West",16.26
+"2002-02-20",8,"Northern Cape",21.72
+"2002-02-20",9,"Western Cape (isolated islands)",5.97
+"2002-02-20",10,"Western Cape",21.16
+"2002-02-21",1,"Eastern Cape",16.79
+"2002-02-21",2,"Free State",15.94
+"2002-02-21",3,"Gauteng",16.25
+"2002-02-21",4,"KwaZulu-Natal",17.59
+"2002-02-21",5,"Limpopo",18.42
+"2002-02-21",6,"Mpumalanga",14.97
+"2002-02-21",7,"North West",17.97
+"2002-02-21",8,"Northern Cape",20.08
+"2002-02-21",9,"Western Cape (isolated islands)",6.31
+"2002-02-21",10,"Western Cape",19.55
+"2002-02-22",1,"Eastern Cape",16.15
+"2002-02-22",2,"Free State",15.03
+"2002-02-22",3,"Gauteng",15.85
+"2002-02-22",4,"KwaZulu-Natal",17.05
+"2002-02-22",5,"Limpopo",20.09
+"2002-02-22",6,"Mpumalanga",16.44
+"2002-02-22",7,"North West",17.94
+"2002-02-22",8,"Northern Cape",21.35
+"2002-02-22",9,"Western Cape (isolated islands)",5.35
+"2002-02-22",10,"Western Cape",20.59
+"2002-02-23",1,"Eastern Cape",18.44
+"2002-02-23",2,"Free State",15.58
+"2002-02-23",3,"Gauteng",15.48
+"2002-02-23",4,"KwaZulu-Natal",16.58
+"2002-02-23",5,"Limpopo",20.65
+"2002-02-23",6,"Mpumalanga",15.88
+"2002-02-23",7,"North West",18
+"2002-02-23",8,"Northern Cape",22.82
+"2002-02-23",9,"Western Cape (isolated islands)",7.31
+"2002-02-23",10,"Western Cape",21.15
+"2002-02-24",1,"Eastern Cape",18.33
+"2002-02-24",2,"Free State",16.23
+"2002-02-24",3,"Gauteng",16.13
+"2002-02-24",4,"KwaZulu-Natal",17.88
+"2002-02-24",5,"Limpopo",20.7
+"2002-02-24",6,"Mpumalanga",16.29
+"2002-02-24",7,"North West",18.02
+"2002-02-24",8,"Northern Cape",23.57
+"2002-02-24",9,"Western Cape (isolated islands)",6.08
+"2002-02-24",10,"Western Cape",22.41
+"2002-02-25",1,"Eastern Cape",19.02
+"2002-02-25",2,"Free State",17.92
+"2002-02-25",3,"Gauteng",16.39
+"2002-02-25",4,"KwaZulu-Natal",18.48
+"2002-02-25",5,"Limpopo",19.31
+"2002-02-25",6,"Mpumalanga",15.74
+"2002-02-25",7,"North West",19.67
+"2002-02-25",8,"Northern Cape",24.18
+"2002-02-25",9,"Western Cape (isolated islands)",5.02
+"2002-02-25",10,"Western Cape",21.51
+"2002-02-26",1,"Eastern Cape",16.29
+"2002-02-26",2,"Free State",17.56
+"2002-02-26",3,"Gauteng",16.62
+"2002-02-26",4,"KwaZulu-Natal",18.91
+"2002-02-26",5,"Limpopo",21.79
+"2002-02-26",6,"Mpumalanga",18.07
+"2002-02-26",7,"North West",19.66
+"2002-02-26",8,"Northern Cape",23.83
+"2002-02-26",9,"Western Cape (isolated islands)",5.47
+"2002-02-26",10,"Western Cape",20.52
+"2002-02-27",1,"Eastern Cape",16.39
+"2002-02-27",2,"Free State",17.26
+"2002-02-27",3,"Gauteng",15.95
+"2002-02-27",4,"KwaZulu-Natal",17.31
+"2002-02-27",5,"Limpopo",20.13
+"2002-02-27",6,"Mpumalanga",16.63
+"2002-02-27",7,"North West",19.21
+"2002-02-27",8,"Northern Cape",24.24
+"2002-02-27",9,"Western Cape (isolated islands)",5.62
+"2002-02-27",10,"Western Cape",21.98
+"2002-02-28",1,"Eastern Cape",20.08
+"2002-02-28",2,"Free State",18.1
+"2002-02-28",3,"Gauteng",17.13
+"2002-02-28",4,"KwaZulu-Natal",20.32
+"2002-02-28",5,"Limpopo",20.35
+"2002-02-28",6,"Mpumalanga",17.88
+"2002-02-28",7,"North West",18.95
+"2002-02-28",8,"Northern Cape",21.87
+"2002-02-28",9,"Western Cape (isolated islands)",6.22
+"2002-02-28",10,"Western Cape",21.55
+"2002-03-01",1,"Eastern Cape",19.58
+"2002-03-01",2,"Free State",17.6
+"2002-03-01",3,"Gauteng",17.75
+"2002-03-01",4,"KwaZulu-Natal",21.05
+"2002-03-01",5,"Limpopo",21.93
+"2002-03-01",6,"Mpumalanga",18.24
+"2002-03-01",7,"North West",19.89
+"2002-03-01",8,"Northern Cape",19.51
+"2002-03-01",9,"Western Cape (isolated islands)",7.82
+"2002-03-01",10,"Western Cape",19.44
+"2002-03-02",1,"Eastern Cape",18.75
+"2002-03-02",2,"Free State",17.54
+"2002-03-02",3,"Gauteng",18.44
+"2002-03-02",4,"KwaZulu-Natal",20.54
+"2002-03-02",5,"Limpopo",23.04
+"2002-03-02",6,"Mpumalanga",18.55
+"2002-03-02",7,"North West",20.08
+"2002-03-02",8,"Northern Cape",20.6
+"2002-03-02",9,"Western Cape (isolated islands)",8.68
+"2002-03-02",10,"Western Cape",18.27
+"2002-03-03",1,"Eastern Cape",17.78
+"2002-03-03",2,"Free State",16.54
+"2002-03-03",3,"Gauteng",18.32
+"2002-03-03",4,"KwaZulu-Natal",20.29
+"2002-03-03",5,"Limpopo",23.05
+"2002-03-03",6,"Mpumalanga",18.62
+"2002-03-03",7,"North West",19.04
+"2002-03-03",8,"Northern Cape",18.98
+"2002-03-03",9,"Western Cape (isolated islands)",8.53
+"2002-03-03",10,"Western Cape",17.26
+"2002-03-04",1,"Eastern Cape",16.27
+"2002-03-04",2,"Free State",17.04
+"2002-03-04",3,"Gauteng",16.75
+"2002-03-04",4,"KwaZulu-Natal",19.38
+"2002-03-04",5,"Limpopo",22.1
+"2002-03-04",6,"Mpumalanga",18.38
+"2002-03-04",7,"North West",19.45
+"2002-03-04",8,"Northern Cape",21.71
+"2002-03-04",9,"Western Cape (isolated islands)",7.81
+"2002-03-04",10,"Western Cape",17.53
+"2002-03-05",1,"Eastern Cape",18.26
+"2002-03-05",2,"Free State",16.33
+"2002-03-05",3,"Gauteng",15.23
+"2002-03-05",4,"KwaZulu-Natal",17.56
+"2002-03-05",5,"Limpopo",20.52
+"2002-03-05",6,"Mpumalanga",16.89
+"2002-03-05",7,"North West",17.69
+"2002-03-05",8,"Northern Cape",20.94
+"2002-03-05",9,"Western Cape (isolated islands)",8.85
+"2002-03-05",10,"Western Cape",21.06
+"2002-03-06",1,"Eastern Cape",20.32
+"2002-03-06",2,"Free State",16.78
+"2002-03-06",3,"Gauteng",16.06
+"2002-03-06",4,"KwaZulu-Natal",19.12
+"2002-03-06",5,"Limpopo",20.5
+"2002-03-06",6,"Mpumalanga",16.76
+"2002-03-06",7,"North West",17.84
+"2002-03-06",8,"Northern Cape",20.16
+"2002-03-06",9,"Western Cape (isolated islands)",7.88
+"2002-03-06",10,"Western Cape",20.3
+"2002-03-07",1,"Eastern Cape",16.64
+"2002-03-07",2,"Free State",16.02
+"2002-03-07",3,"Gauteng",17.37
+"2002-03-07",4,"KwaZulu-Natal",19.98
+"2002-03-07",5,"Limpopo",22.07
+"2002-03-07",6,"Mpumalanga",18.15
+"2002-03-07",7,"North West",18.39
+"2002-03-07",8,"Northern Cape",18.11
+"2002-03-07",9,"Western Cape (isolated islands)",8.05
+"2002-03-07",10,"Western Cape",16.43
+"2002-03-08",1,"Eastern Cape",14.14
+"2002-03-08",2,"Free State",15.53
+"2002-03-08",3,"Gauteng",17.66
+"2002-03-08",4,"KwaZulu-Natal",16.38
+"2002-03-08",5,"Limpopo",22.12
+"2002-03-08",6,"Mpumalanga",17.58
+"2002-03-08",7,"North West",19.1
+"2002-03-08",8,"Northern Cape",20.27
+"2002-03-08",9,"Western Cape (isolated islands)",4.79
+"2002-03-08",10,"Western Cape",18.14
+"2002-03-09",1,"Eastern Cape",16.44
+"2002-03-09",2,"Free State",15.54
+"2002-03-09",3,"Gauteng",14.51
+"2002-03-09",4,"KwaZulu-Natal",16.22
+"2002-03-09",5,"Limpopo",18.43
+"2002-03-09",6,"Mpumalanga",14.55
+"2002-03-09",7,"North West",17.83
+"2002-03-09",8,"Northern Cape",22.01
+"2002-03-09",9,"Western Cape (isolated islands)",7.25
+"2002-03-09",10,"Western Cape",20.45
+"2002-03-10",1,"Eastern Cape",18.33
+"2002-03-10",2,"Free State",16.61
+"2002-03-10",3,"Gauteng",15.9
+"2002-03-10",4,"KwaZulu-Natal",16.67
+"2002-03-10",5,"Limpopo",18.55
+"2002-03-10",6,"Mpumalanga",14.42
+"2002-03-10",7,"North West",17.75
+"2002-03-10",8,"Northern Cape",19.31
+"2002-03-10",9,"Western Cape (isolated islands)",10.07
+"2002-03-10",10,"Western Cape",19.71
+"2002-03-11",1,"Eastern Cape",18.94
+"2002-03-11",2,"Free State",16.67
+"2002-03-11",3,"Gauteng",17.01
+"2002-03-11",4,"KwaZulu-Natal",17.95
+"2002-03-11",5,"Limpopo",18.9
+"2002-03-11",6,"Mpumalanga",15.95
+"2002-03-11",7,"North West",18.19
+"2002-03-11",8,"Northern Cape",18.95
+"2002-03-11",9,"Western Cape (isolated islands)",8.53
+"2002-03-11",10,"Western Cape",20.74
+"2002-03-12",1,"Eastern Cape",16.46
+"2002-03-12",2,"Free State",14.44
+"2002-03-12",3,"Gauteng",15.7
+"2002-03-12",4,"KwaZulu-Natal",18.77
+"2002-03-12",5,"Limpopo",20.6
+"2002-03-12",6,"Mpumalanga",16.68
+"2002-03-12",7,"North West",16.96
+"2002-03-12",8,"Northern Cape",17.33
+"2002-03-12",9,"Western Cape (isolated islands)",7.51
+"2002-03-12",10,"Western Cape",17.03
+"2002-03-13",1,"Eastern Cape",14.96
+"2002-03-13",2,"Free State",15.2
+"2002-03-13",3,"Gauteng",16.19
+"2002-03-13",4,"KwaZulu-Natal",16.68
+"2002-03-13",5,"Limpopo",21.23
+"2002-03-13",6,"Mpumalanga",16.93
+"2002-03-13",7,"North West",17.55
+"2002-03-13",8,"Northern Cape",17.92
+"2002-03-13",9,"Western Cape (isolated islands)",5.21
+"2002-03-13",10,"Western Cape",17.98
+"2002-03-14",1,"Eastern Cape",15.51
+"2002-03-14",2,"Free State",13.42
+"2002-03-14",3,"Gauteng",13.32
+"2002-03-14",4,"KwaZulu-Natal",16.29
+"2002-03-14",5,"Limpopo",19.38
+"2002-03-14",6,"Mpumalanga",15.93
+"2002-03-14",7,"North West",15.46
+"2002-03-14",8,"Northern Cape",18.16
+"2002-03-14",9,"Western Cape (isolated islands)",9.68
+"2002-03-14",10,"Western Cape",18.12
+"2002-03-15",1,"Eastern Cape",16.82
+"2002-03-15",2,"Free State",15.15
+"2002-03-15",3,"Gauteng",15.34
+"2002-03-15",4,"KwaZulu-Natal",17.59
+"2002-03-15",5,"Limpopo",20.49
+"2002-03-15",6,"Mpumalanga",16.24
+"2002-03-15",7,"North West",16.5
+"2002-03-15",8,"Northern Cape",18.47
+"2002-03-15",9,"Western Cape (isolated islands)",6.94
+"2002-03-15",10,"Western Cape",17.04
+"2002-03-16",1,"Eastern Cape",17.26
+"2002-03-16",2,"Free State",15.57
+"2002-03-16",3,"Gauteng",13.86
+"2002-03-16",4,"KwaZulu-Natal",17.94
+"2002-03-16",5,"Limpopo",19.42
+"2002-03-16",6,"Mpumalanga",15.56
+"2002-03-16",7,"North West",17.03
+"2002-03-16",8,"Northern Cape",20.42
+"2002-03-16",9,"Western Cape (isolated islands)",7.69
+"2002-03-16",10,"Western Cape",18.52
+"2002-03-17",1,"Eastern Cape",18.56
+"2002-03-17",2,"Free State",16.03
+"2002-03-17",3,"Gauteng",14.77
+"2002-03-17",4,"KwaZulu-Natal",18.43
+"2002-03-17",5,"Limpopo",18.16
+"2002-03-17",6,"Mpumalanga",14.39
+"2002-03-17",7,"North West",16.93
+"2002-03-17",8,"Northern Cape",21.27
+"2002-03-17",9,"Western Cape (isolated islands)",6.82
+"2002-03-17",10,"Western Cape",19.61
+"2002-03-18",1,"Eastern Cape",17.97
+"2002-03-18",2,"Free State",15.86
+"2002-03-18",3,"Gauteng",14.81
+"2002-03-18",4,"KwaZulu-Natal",18.4
+"2002-03-18",5,"Limpopo",17.63
+"2002-03-18",6,"Mpumalanga",14.89
+"2002-03-18",7,"North West",17.09
+"2002-03-18",8,"Northern Cape",21.33
+"2002-03-18",9,"Western Cape (isolated islands)",10.04
+"2002-03-18",10,"Western Cape",20.26
+"2002-03-19",1,"Eastern Cape",18.15
+"2002-03-19",2,"Free State",16.39
+"2002-03-19",3,"Gauteng",15.82
+"2002-03-19",4,"KwaZulu-Natal",18.82
+"2002-03-19",5,"Limpopo",18.24
+"2002-03-19",6,"Mpumalanga",15.9
+"2002-03-19",7,"North West",16.56
+"2002-03-19",8,"Northern Cape",18.96
+"2002-03-19",9,"Western Cape (isolated islands)",8.3
+"2002-03-19",10,"Western Cape",17.74
+"2002-03-20",1,"Eastern Cape",15.34
+"2002-03-20",2,"Free State",15.28
+"2002-03-20",3,"Gauteng",15.2
+"2002-03-20",4,"KwaZulu-Natal",18.6
+"2002-03-20",5,"Limpopo",20.16
+"2002-03-20",6,"Mpumalanga",16.71
+"2002-03-20",7,"North West",16.12
+"2002-03-20",8,"Northern Cape",17.26
+"2002-03-20",9,"Western Cape (isolated islands)",5.53
+"2002-03-20",10,"Western Cape",15.13
+"2002-03-21",1,"Eastern Cape",16.13
+"2002-03-21",2,"Free State",15.14
+"2002-03-21",3,"Gauteng",16.5
+"2002-03-21",4,"KwaZulu-Natal",19.26
+"2002-03-21",5,"Limpopo",22.5
+"2002-03-21",6,"Mpumalanga",17.07
+"2002-03-21",7,"North West",17.3
+"2002-03-21",8,"Northern Cape",18.15
+"2002-03-21",9,"Western Cape (isolated islands)",5.27
+"2002-03-21",10,"Western Cape",16.03
+"2002-03-22",1,"Eastern Cape",16.11
+"2002-03-22",2,"Free State",13.86
+"2002-03-22",3,"Gauteng",15.3
+"2002-03-22",4,"KwaZulu-Natal",19.34
+"2002-03-22",5,"Limpopo",20.47
+"2002-03-22",6,"Mpumalanga",16.75
+"2002-03-22",7,"North West",16.94
+"2002-03-22",8,"Northern Cape",18.81
+"2002-03-22",9,"Western Cape (isolated islands)",7.75
+"2002-03-22",10,"Western Cape",17.56
+"2002-03-23",1,"Eastern Cape",15.7
+"2002-03-23",2,"Free State",14.71
+"2002-03-23",3,"Gauteng",15.08
+"2002-03-23",4,"KwaZulu-Natal",19.45
+"2002-03-23",5,"Limpopo",20.39
+"2002-03-23",6,"Mpumalanga",17.99
+"2002-03-23",7,"North West",16
+"2002-03-23",8,"Northern Cape",18.75
+"2002-03-23",9,"Western Cape (isolated islands)",4.22
+"2002-03-23",10,"Western Cape",16.33
+"2002-03-24",1,"Eastern Cape",16.28
+"2002-03-24",2,"Free State",16.04
+"2002-03-24",3,"Gauteng",15.42
+"2002-03-24",4,"KwaZulu-Natal",18.88
+"2002-03-24",5,"Limpopo",20.36
+"2002-03-24",6,"Mpumalanga",16.91
+"2002-03-24",7,"North West",17.96
+"2002-03-24",8,"Northern Cape",20.88
+"2002-03-24",9,"Western Cape (isolated islands)",4.09
+"2002-03-24",10,"Western Cape",19.21
+"2002-03-25",1,"Eastern Cape",20.58
+"2002-03-25",2,"Free State",15.1
+"2002-03-25",3,"Gauteng",14.72
+"2002-03-25",4,"KwaZulu-Natal",17.55
+"2002-03-25",5,"Limpopo",19.24
+"2002-03-25",6,"Mpumalanga",15.68
+"2002-03-25",7,"North West",16.55
+"2002-03-25",8,"Northern Cape",21.79
+"2002-03-25",9,"Western Cape (isolated islands)",6.61
+"2002-03-25",10,"Western Cape",22.67
+"2002-03-26",1,"Eastern Cape",16.65
+"2002-03-26",2,"Free State",15.59
+"2002-03-26",3,"Gauteng",14.51
+"2002-03-26",4,"KwaZulu-Natal",17.71
+"2002-03-26",5,"Limpopo",17.16
+"2002-03-26",6,"Mpumalanga",14.52
+"2002-03-26",7,"North West",16.92
+"2002-03-26",8,"Northern Cape",19.72
+"2002-03-26",9,"Western Cape (isolated islands)",6.13
+"2002-03-26",10,"Western Cape",17.3
+"2002-03-27",1,"Eastern Cape",17.23
+"2002-03-27",2,"Free State",15.54
+"2002-03-27",3,"Gauteng",15.25
+"2002-03-27",4,"KwaZulu-Natal",17
+"2002-03-27",5,"Limpopo",17.32
+"2002-03-27",6,"Mpumalanga",14.14
+"2002-03-27",7,"North West",18.01
+"2002-03-27",8,"Northern Cape",17.31
+"2002-03-27",9,"Western Cape (isolated islands)",7.28
+"2002-03-27",10,"Western Cape",16.19
+"2002-03-28",1,"Eastern Cape",11.87
+"2002-03-28",2,"Free State",13.49
+"2002-03-28",3,"Gauteng",15.79
+"2002-03-28",4,"KwaZulu-Natal",17.92
+"2002-03-28",5,"Limpopo",19.43
+"2002-03-28",6,"Mpumalanga",17.3
+"2002-03-28",7,"North West",16.12
+"2002-03-28",8,"Northern Cape",10.86
+"2002-03-28",9,"Western Cape (isolated islands)",5.81
+"2002-03-28",10,"Western Cape",10.21
+"2002-03-29",1,"Eastern Cape",7
+"2002-03-29",2,"Free State",7.15
+"2002-03-29",3,"Gauteng",10.99
+"2002-03-29",4,"KwaZulu-Natal",13.54
+"2002-03-29",5,"Limpopo",20.5
+"2002-03-29",6,"Mpumalanga",14.43
+"2002-03-29",7,"North West",11.33
+"2002-03-29",8,"Northern Cape",9.78
+"2002-03-29",9,"Western Cape (isolated islands)",3.35
+"2002-03-29",10,"Western Cape",9.24
+"2002-03-30",1,"Eastern Cape",9.81
+"2002-03-30",2,"Free State",9.05
+"2002-03-30",3,"Gauteng",12.95
+"2002-03-30",4,"KwaZulu-Natal",12.59
+"2002-03-30",5,"Limpopo",18.92
+"2002-03-30",6,"Mpumalanga",14.84
+"2002-03-30",7,"North West",12.69
+"2002-03-30",8,"Northern Cape",12.32
+"2002-03-30",9,"Western Cape (isolated islands)",4.56
+"2002-03-30",10,"Western Cape",12.82
+"2002-03-31",1,"Eastern Cape",11.34
+"2002-03-31",2,"Free State",10.69
+"2002-03-31",3,"Gauteng",13.29
+"2002-03-31",4,"KwaZulu-Natal",14.57
+"2002-03-31",5,"Limpopo",16.08
+"2002-03-31",6,"Mpumalanga",13.63
+"2002-03-31",7,"North West",14.01
+"2002-03-31",8,"Northern Cape",16.46
+"2002-03-31",9,"Western Cape (isolated islands)",5.71
+"2002-03-31",10,"Western Cape",13.95
+"2002-04-01",1,"Eastern Cape",14.15
+"2002-04-01",2,"Free State",13.48
+"2002-04-01",3,"Gauteng",15.21
+"2002-04-01",4,"KwaZulu-Natal",16.92
+"2002-04-01",5,"Limpopo",18.05
+"2002-04-01",6,"Mpumalanga",13.92
+"2002-04-01",7,"North West",16
+"2002-04-01",8,"Northern Cape",19.71
+"2002-04-01",9,"Western Cape (isolated islands)",6.03
+"2002-04-01",10,"Western Cape",16.28
+"2002-04-02",1,"Eastern Cape",19.05
+"2002-04-02",2,"Free State",14.39
+"2002-04-02",3,"Gauteng",14.24
+"2002-04-02",4,"KwaZulu-Natal",17.14
+"2002-04-02",5,"Limpopo",16.76
+"2002-04-02",6,"Mpumalanga",14.3
+"2002-04-02",7,"North West",16.49
+"2002-04-02",8,"Northern Cape",20.8
+"2002-04-02",9,"Western Cape (isolated islands)",6.53
+"2002-04-02",10,"Western Cape",20.7
+"2002-04-03",1,"Eastern Cape",18.67
+"2002-04-03",2,"Free State",15.21
+"2002-04-03",3,"Gauteng",13.05
+"2002-04-03",4,"KwaZulu-Natal",17.02
+"2002-04-03",5,"Limpopo",17.11
+"2002-04-03",6,"Mpumalanga",13.39
+"2002-04-03",7,"North West",14.88
+"2002-04-03",8,"Northern Cape",19.49
+"2002-04-03",9,"Western Cape (isolated islands)",9.19
+"2002-04-03",10,"Western Cape",19.3
+"2002-04-04",1,"Eastern Cape",21.26
+"2002-04-04",2,"Free State",15.09
+"2002-04-04",3,"Gauteng",12.25
+"2002-04-04",4,"KwaZulu-Natal",16.32
+"2002-04-04",5,"Limpopo",16.91
+"2002-04-04",6,"Mpumalanga",12.68
+"2002-04-04",7,"North West",15.92
+"2002-04-04",8,"Northern Cape",20.66
+"2002-04-04",9,"Western Cape (isolated islands)",9.23
+"2002-04-04",10,"Western Cape",19.55
+"2002-04-05",1,"Eastern Cape",18.54
+"2002-04-05",2,"Free State",15.04
+"2002-04-05",3,"Gauteng",13.09
+"2002-04-05",4,"KwaZulu-Natal",17.7
+"2002-04-05",5,"Limpopo",16.46
+"2002-04-05",6,"Mpumalanga",14.23
+"2002-04-05",7,"North West",16
+"2002-04-05",8,"Northern Cape",16.67
+"2002-04-05",9,"Western Cape (isolated islands)",10.43
+"2002-04-05",10,"Western Cape",14.55
+"2002-04-06",1,"Eastern Cape",11.03
+"2002-04-06",2,"Free State",13.88
+"2002-04-06",3,"Gauteng",14.58
+"2002-04-06",4,"KwaZulu-Natal",17.78
+"2002-04-06",5,"Limpopo",17.5
+"2002-04-06",6,"Mpumalanga",15.59
+"2002-04-06",7,"North West",16.41
+"2002-04-06",8,"Northern Cape",10.2
+"2002-04-06",9,"Western Cape (isolated islands)",5.63
+"2002-04-06",10,"Western Cape",8.79
+"2002-04-07",1,"Eastern Cape",7.51
+"2002-04-07",2,"Free State",6.68
+"2002-04-07",3,"Gauteng",12.77
+"2002-04-07",4,"KwaZulu-Natal",13.67
+"2002-04-07",5,"Limpopo",19.09
+"2002-04-07",6,"Mpumalanga",14.74
+"2002-04-07",7,"North West",13.39
+"2002-04-07",8,"Northern Cape",10.95
+"2002-04-07",9,"Western Cape (isolated islands)",4.09
+"2002-04-07",10,"Western Cape",10.35
+"2002-04-08",1,"Eastern Cape",8.98
+"2002-04-08",2,"Free State",10.32
+"2002-04-08",3,"Gauteng",13.76
+"2002-04-08",4,"KwaZulu-Natal",13.75
+"2002-04-08",5,"Limpopo",18.18
+"2002-04-08",6,"Mpumalanga",14.17
+"2002-04-08",7,"North West",17.78
+"2002-04-08",8,"Northern Cape",17.21
+"2002-04-08",9,"Western Cape (isolated islands)",3.43
+"2002-04-08",10,"Western Cape",12.7
+"2002-04-09",1,"Eastern Cape",18.67
+"2002-04-09",2,"Free State",14.21
+"2002-04-09",3,"Gauteng",13.95
+"2002-04-09",4,"KwaZulu-Natal",18.41
+"2002-04-09",5,"Limpopo",17.73
+"2002-04-09",6,"Mpumalanga",15.16
+"2002-04-09",7,"North West",16.79
+"2002-04-09",8,"Northern Cape",15.93
+"2002-04-09",9,"Western Cape (isolated islands)",4.6
+"2002-04-09",10,"Western Cape",13.44
+"2002-04-10",1,"Eastern Cape",13.82
+"2002-04-10",2,"Free State",13.49
+"2002-04-10",3,"Gauteng",14.77
+"2002-04-10",4,"KwaZulu-Natal",18.01
+"2002-04-10",5,"Limpopo",19.23
+"2002-04-10",6,"Mpumalanga",16.15
+"2002-04-10",7,"North West",15.55
+"2002-04-10",8,"Northern Cape",12.01
+"2002-04-10",9,"Western Cape (isolated islands)",8.6
+"2002-04-10",10,"Western Cape",11.96
+"2002-04-11",1,"Eastern Cape",11
+"2002-04-11",2,"Free State",9.77
+"2002-04-11",3,"Gauteng",13.69
+"2002-04-11",4,"KwaZulu-Natal",15.41
+"2002-04-11",5,"Limpopo",20.72
+"2002-04-11",6,"Mpumalanga",16.39
+"2002-04-11",7,"North West",12.57
+"2002-04-11",8,"Northern Cape",10.67
+"2002-04-11",9,"Western Cape (isolated islands)",8.28
+"2002-04-11",10,"Western Cape",11.06
+"2002-04-12",1,"Eastern Cape",10.57
+"2002-04-12",2,"Free State",9.25
+"2002-04-12",3,"Gauteng",14
+"2002-04-12",4,"KwaZulu-Natal",15.81
+"2002-04-12",5,"Limpopo",19.59
+"2002-04-12",6,"Mpumalanga",16.05
+"2002-04-12",7,"North West",14.07
+"2002-04-12",8,"Northern Cape",12.07
+"2002-04-12",9,"Western Cape (isolated islands)",8.36
+"2002-04-12",10,"Western Cape",12.52
+"2002-04-13",1,"Eastern Cape",11.8
+"2002-04-13",2,"Free State",13.19
+"2002-04-13",3,"Gauteng",15.44
+"2002-04-13",4,"KwaZulu-Natal",16.53
+"2002-04-13",5,"Limpopo",19.84
+"2002-04-13",6,"Mpumalanga",16.55
+"2002-04-13",7,"North West",15.59
+"2002-04-13",8,"Northern Cape",14.79
+"2002-04-13",9,"Western Cape (isolated islands)",4.71
+"2002-04-13",10,"Western Cape",13.67
+"2002-04-14",1,"Eastern Cape",15.75
+"2002-04-14",2,"Free State",11.28
+"2002-04-14",3,"Gauteng",11.93
+"2002-04-14",4,"KwaZulu-Natal",15.94
+"2002-04-14",5,"Limpopo",17.76
+"2002-04-14",6,"Mpumalanga",13.98
+"2002-04-14",7,"North West",13.08
+"2002-04-14",8,"Northern Cape",16.2
+"2002-04-14",9,"Western Cape (isolated islands)",4.96
+"2002-04-14",10,"Western Cape",15.61
+"2002-04-15",1,"Eastern Cape",14.35
+"2002-04-15",2,"Free State",11.51
+"2002-04-15",3,"Gauteng",13.19
+"2002-04-15",4,"KwaZulu-Natal",15.34
+"2002-04-15",5,"Limpopo",17.67
+"2002-04-15",6,"Mpumalanga",13.9
+"2002-04-15",7,"North West",13.69
+"2002-04-15",8,"Northern Cape",16.09
+"2002-04-15",9,"Western Cape (isolated islands)",4.45
+"2002-04-15",10,"Western Cape",15.95
+"2002-04-16",1,"Eastern Cape",13.63
+"2002-04-16",2,"Free State",12.01
+"2002-04-16",3,"Gauteng",12.4
+"2002-04-16",4,"KwaZulu-Natal",15.07
+"2002-04-16",5,"Limpopo",17.14
+"2002-04-16",6,"Mpumalanga",13.71
+"2002-04-16",7,"North West",13.64
+"2002-04-16",8,"Northern Cape",16.91
+"2002-04-16",9,"Western Cape (isolated islands)",3.38
+"2002-04-16",10,"Western Cape",15.42
+"2002-04-17",1,"Eastern Cape",13.1
+"2002-04-17",2,"Free State",11.12
+"2002-04-17",3,"Gauteng",11.39
+"2002-04-17",4,"KwaZulu-Natal",14.57
+"2002-04-17",5,"Limpopo",16.02
+"2002-04-17",6,"Mpumalanga",13.16
+"2002-04-17",7,"North West",14.39
+"2002-04-17",8,"Northern Cape",17.26
+"2002-04-17",9,"Western Cape (isolated islands)",5.71
+"2002-04-17",10,"Western Cape",15.57
+"2002-04-18",1,"Eastern Cape",12.39
+"2002-04-18",2,"Free State",12.17
+"2002-04-18",3,"Gauteng",11.84
+"2002-04-18",4,"KwaZulu-Natal",14.93
+"2002-04-18",5,"Limpopo",16.55
+"2002-04-18",6,"Mpumalanga",13.61
+"2002-04-18",7,"North West",14.83
+"2002-04-18",8,"Northern Cape",15.75
+"2002-04-18",9,"Western Cape (isolated islands)",7.27
+"2002-04-18",10,"Western Cape",14.42
+"2002-04-19",1,"Eastern Cape",9.75
+"2002-04-19",2,"Free State",9.5
+"2002-04-19",3,"Gauteng",13
+"2002-04-19",4,"KwaZulu-Natal",15.33
+"2002-04-19",5,"Limpopo",17.55
+"2002-04-19",6,"Mpumalanga",14.61
+"2002-04-19",7,"North West",13.25
+"2002-04-19",8,"Northern Cape",13.72
+"2002-04-19",9,"Western Cape (isolated islands)",7.15
+"2002-04-19",10,"Western Cape",11.45
+"2002-04-20",1,"Eastern Cape",9.03
+"2002-04-20",2,"Free State",6.1
+"2002-04-20",3,"Gauteng",9.52
+"2002-04-20",4,"KwaZulu-Natal",12.84
+"2002-04-20",5,"Limpopo",16.12
+"2002-04-20",6,"Mpumalanga",13.7
+"2002-04-20",7,"North West",9.28
+"2002-04-20",8,"Northern Cape",13.45
+"2002-04-20",9,"Western Cape (isolated islands)",8.24
+"2002-04-20",10,"Western Cape",13.69
+"2002-04-21",1,"Eastern Cape",11.84
+"2002-04-21",2,"Free State",8.15
+"2002-04-21",3,"Gauteng",11.68
+"2002-04-21",4,"KwaZulu-Natal",13.11
+"2002-04-21",5,"Limpopo",15.53
+"2002-04-21",6,"Mpumalanga",12.91
+"2002-04-21",7,"North West",11.67
+"2002-04-21",8,"Northern Cape",18.2
+"2002-04-21",9,"Western Cape (isolated islands)",6.89
+"2002-04-21",10,"Western Cape",17.7
+"2002-04-22",1,"Eastern Cape",14.14
+"2002-04-22",2,"Free State",11.51
+"2002-04-22",3,"Gauteng",11.77
+"2002-04-22",4,"KwaZulu-Natal",13.99
+"2002-04-22",5,"Limpopo",14.04
+"2002-04-22",6,"Mpumalanga",12.19
+"2002-04-22",7,"North West",14.56
+"2002-04-22",8,"Northern Cape",16.57
+"2002-04-22",9,"Western Cape (isolated islands)",7.36
+"2002-04-22",10,"Western Cape",15.44
+"2002-04-23",1,"Eastern Cape",16.16
+"2002-04-23",2,"Free State",12.16
+"2002-04-23",3,"Gauteng",12.18
+"2002-04-23",4,"KwaZulu-Natal",14.95
+"2002-04-23",5,"Limpopo",14.98
+"2002-04-23",6,"Mpumalanga",12.69
+"2002-04-23",7,"North West",14.02
+"2002-04-23",8,"Northern Cape",17.26
+"2002-04-23",9,"Western Cape (isolated islands)",3.91
+"2002-04-23",10,"Western Cape",17.53
+"2002-04-24",1,"Eastern Cape",15.79
+"2002-04-24",2,"Free State",12.53
+"2002-04-24",3,"Gauteng",11.78
+"2002-04-24",4,"KwaZulu-Natal",15.22
+"2002-04-24",5,"Limpopo",15.88
+"2002-04-24",6,"Mpumalanga",12.02
+"2002-04-24",7,"North West",14.32
+"2002-04-24",8,"Northern Cape",14.03
+"2002-04-24",9,"Western Cape (isolated islands)",6.29
+"2002-04-24",10,"Western Cape",16.47
+"2002-04-25",1,"Eastern Cape",12.94
+"2002-04-25",2,"Free State",11.82
+"2002-04-25",3,"Gauteng",11.55
+"2002-04-25",4,"KwaZulu-Natal",14.7
+"2002-04-25",5,"Limpopo",13.67
+"2002-04-25",6,"Mpumalanga",11.64
+"2002-04-25",7,"North West",14.93
+"2002-04-25",8,"Northern Cape",11.66
+"2002-04-25",9,"Western Cape (isolated islands)",6.96
+"2002-04-25",10,"Western Cape",12.87
+"2002-04-26",1,"Eastern Cape",12.43
+"2002-04-26",2,"Free State",12.29
+"2002-04-26",3,"Gauteng",13.2
+"2002-04-26",4,"KwaZulu-Natal",16.97
+"2002-04-26",5,"Limpopo",14.41
+"2002-04-26",6,"Mpumalanga",13.31
+"2002-04-26",7,"North West",14.91
+"2002-04-26",8,"Northern Cape",12.91
+"2002-04-26",9,"Western Cape (isolated islands)",8.33
+"2002-04-26",10,"Western Cape",13.22
+"2002-04-27",1,"Eastern Cape",14.04
+"2002-04-27",2,"Free State",11.84
+"2002-04-27",3,"Gauteng",14.18
+"2002-04-27",4,"KwaZulu-Natal",16.73
+"2002-04-27",5,"Limpopo",15.76
+"2002-04-27",6,"Mpumalanga",13.65
+"2002-04-27",7,"North West",14.3
+"2002-04-27",8,"Northern Cape",15.11
+"2002-04-27",9,"Western Cape (isolated islands)",4.36
+"2002-04-27",10,"Western Cape",14.1
+"2002-04-28",1,"Eastern Cape",15.71
+"2002-04-28",2,"Free State",12.05
+"2002-04-28",3,"Gauteng",12.75
+"2002-04-28",4,"KwaZulu-Natal",15.54
+"2002-04-28",5,"Limpopo",16.88
+"2002-04-28",6,"Mpumalanga",13.47
+"2002-04-28",7,"North West",14.85
+"2002-04-28",8,"Northern Cape",17.02
+"2002-04-28",9,"Western Cape (isolated islands)",5.67
+"2002-04-28",10,"Western Cape",14.37
+"2002-04-29",1,"Eastern Cape",17.55
+"2002-04-29",2,"Free State",14.02
+"2002-04-29",3,"Gauteng",13.32
+"2002-04-29",4,"KwaZulu-Natal",16.96
+"2002-04-29",5,"Limpopo",15.28
+"2002-04-29",6,"Mpumalanga",13.08
+"2002-04-29",7,"North West",15.34
+"2002-04-29",8,"Northern Cape",15.4
+"2002-04-29",9,"Western Cape (isolated islands)",10.06
+"2002-04-29",10,"Western Cape",14.74
+"2002-04-30",1,"Eastern Cape",11.66
+"2002-04-30",2,"Free State",13.51
+"2002-04-30",3,"Gauteng",13.9
+"2002-04-30",4,"KwaZulu-Natal",16.81
+"2002-04-30",5,"Limpopo",15.73
+"2002-04-30",6,"Mpumalanga",14.61
+"2002-04-30",7,"North West",15.8
+"2002-04-30",8,"Northern Cape",11.92
+"2002-04-30",9,"Western Cape (isolated islands)",7.45
+"2002-04-30",10,"Western Cape",9.35
+"2002-05-01",1,"Eastern Cape",10.52
+"2002-05-01",2,"Free State",13.33
+"2002-05-01",3,"Gauteng",14.38
+"2002-05-01",4,"KwaZulu-Natal",14.04
+"2002-05-01",5,"Limpopo",17.96
+"2002-05-01",6,"Mpumalanga",14.46
+"2002-05-01",7,"North West",17.58
+"2002-05-01",8,"Northern Cape",13.76
+"2002-05-01",9,"Western Cape (isolated islands)",5.58
+"2002-05-01",10,"Western Cape",10.59
+"2002-05-02",1,"Eastern Cape",12.05
+"2002-05-02",2,"Free State",12.67
+"2002-05-02",3,"Gauteng",12.73
+"2002-05-02",4,"KwaZulu-Natal",15.89
+"2002-05-02",5,"Limpopo",14.67
+"2002-05-02",6,"Mpumalanga",13.27
+"2002-05-02",7,"North West",14.67
+"2002-05-02",8,"Northern Cape",11.68
+"2002-05-02",9,"Western Cape (isolated islands)",7.24
+"2002-05-02",10,"Western Cape",11.35
+"2002-05-03",1,"Eastern Cape",10.67
+"2002-05-03",2,"Free State",12.07
+"2002-05-03",3,"Gauteng",12.4
+"2002-05-03",4,"KwaZulu-Natal",15.98
+"2002-05-03",5,"Limpopo",15.58
+"2002-05-03",6,"Mpumalanga",13.69
+"2002-05-03",7,"North West",13.44
+"2002-05-03",8,"Northern Cape",10.8
+"2002-05-03",9,"Western Cape (isolated islands)",8.86
+"2002-05-03",10,"Western Cape",12.99
+"2002-05-04",1,"Eastern Cape",10.96
+"2002-05-04",2,"Free State",8.83
+"2002-05-04",3,"Gauteng",12.96
+"2002-05-04",4,"KwaZulu-Natal",16.33
+"2002-05-04",5,"Limpopo",18.15
+"2002-05-04",6,"Mpumalanga",15.08
+"2002-05-04",7,"North West",12.83
+"2002-05-04",8,"Northern Cape",10.7
+"2002-05-04",9,"Western Cape (isolated islands)",6.46
+"2002-05-04",10,"Western Cape",10.61
+"2002-05-05",1,"Eastern Cape",12.87
+"2002-05-05",2,"Free State",10.11
+"2002-05-05",3,"Gauteng",12.55
+"2002-05-05",4,"KwaZulu-Natal",14.25
+"2002-05-05",5,"Limpopo",15.88
+"2002-05-05",6,"Mpumalanga",13.66
+"2002-05-05",7,"North West",15.76
+"2002-05-05",8,"Northern Cape",15.01
+"2002-05-05",9,"Western Cape (isolated islands)",8.88
+"2002-05-05",10,"Western Cape",13.32
+"2002-05-06",1,"Eastern Cape",10.04
+"2002-05-06",2,"Free State",11.15
+"2002-05-06",3,"Gauteng",11.89
+"2002-05-06",4,"KwaZulu-Natal",16.34
+"2002-05-06",5,"Limpopo",16.13
+"2002-05-06",6,"Mpumalanga",13.71
+"2002-05-06",7,"North West",12.38
+"2002-05-06",8,"Northern Cape",7.6
+"2002-05-06",9,"Western Cape (isolated islands)",7.33
+"2002-05-06",10,"Western Cape",8.67
+"2002-05-07",1,"Eastern Cape",4.56
+"2002-05-07",2,"Free State",1.27
+"2002-05-07",3,"Gauteng",4.74
+"2002-05-07",4,"KwaZulu-Natal",8.88
+"2002-05-07",5,"Limpopo",13.15
+"2002-05-07",6,"Mpumalanga",8.69
+"2002-05-07",7,"North West",3.76
+"2002-05-07",8,"Northern Cape",2.37
+"2002-05-07",9,"Western Cape (isolated islands)",4.83
+"2002-05-07",10,"Western Cape",5.84
+"2002-05-08",1,"Eastern Cape",5.16
+"2002-05-08",2,"Free State",-0.17
+"2002-05-08",3,"Gauteng",1.31
+"2002-05-08",4,"KwaZulu-Natal",5.24
+"2002-05-08",5,"Limpopo",7.42
+"2002-05-08",6,"Mpumalanga",3.24
+"2002-05-08",7,"North West",1.7
+"2002-05-08",8,"Northern Cape",2.88
+"2002-05-08",9,"Western Cape (isolated islands)",4.79
+"2002-05-08",10,"Western Cape",6.12
+"2002-05-09",1,"Eastern Cape",5.62
+"2002-05-09",2,"Free State",1.17
+"2002-05-09",3,"Gauteng",2.74
+"2002-05-09",4,"KwaZulu-Natal",6.04
+"2002-05-09",5,"Limpopo",7.26
+"2002-05-09",6,"Mpumalanga",3.91
+"2002-05-09",7,"North West",2.56
+"2002-05-09",8,"Northern Cape",6.33
+"2002-05-09",9,"Western Cape (isolated islands)",5.97
+"2002-05-09",10,"Western Cape",9.64
+"2002-05-10",1,"Eastern Cape",6.62
+"2002-05-10",2,"Free State",2.21
+"2002-05-10",3,"Gauteng",4.62
+"2002-05-10",4,"KwaZulu-Natal",7.22
+"2002-05-10",5,"Limpopo",8.03
+"2002-05-10",6,"Mpumalanga",5.1
+"2002-05-10",7,"North West",3.73
+"2002-05-10",8,"Northern Cape",6.08
+"2002-05-10",9,"Western Cape (isolated islands)",4.68
+"2002-05-10",10,"Western Cape",10.12
+"2002-05-11",1,"Eastern Cape",6.23
+"2002-05-11",2,"Free State",3.29
+"2002-05-11",3,"Gauteng",6.06
+"2002-05-11",4,"KwaZulu-Natal",7.97
+"2002-05-11",5,"Limpopo",11.3
+"2002-05-11",6,"Mpumalanga",6.85
+"2002-05-11",7,"North West",6.54
+"2002-05-11",8,"Northern Cape",8.6
+"2002-05-11",9,"Western Cape (isolated islands)",8.83
+"2002-05-11",10,"Western Cape",9
+"2002-05-12",1,"Eastern Cape",8.69
+"2002-05-12",2,"Free State",4.51
+"2002-05-12",3,"Gauteng",6.68
+"2002-05-12",4,"KwaZulu-Natal",8.62
+"2002-05-12",5,"Limpopo",9.71
+"2002-05-12",6,"Mpumalanga",7.41
+"2002-05-12",7,"North West",6.81
+"2002-05-12",8,"Northern Cape",10.53
+"2002-05-12",9,"Western Cape (isolated islands)",6.67
+"2002-05-12",10,"Western Cape",11.14
+"2002-05-13",1,"Eastern Cape",7.88
+"2002-05-13",2,"Free State",5.79
+"2002-05-13",3,"Gauteng",7.27
+"2002-05-13",4,"KwaZulu-Natal",10.47
+"2002-05-13",5,"Limpopo",10.66
+"2002-05-13",6,"Mpumalanga",7.3
+"2002-05-13",7,"North West",7.84
+"2002-05-13",8,"Northern Cape",10.87
+"2002-05-13",9,"Western Cape (isolated islands)",5.39
+"2002-05-13",10,"Western Cape",10.45
+"2002-05-14",1,"Eastern Cape",8.84
+"2002-05-14",2,"Free State",5.51
+"2002-05-14",3,"Gauteng",7.27
+"2002-05-14",4,"KwaZulu-Natal",9.99
+"2002-05-14",5,"Limpopo",11.47
+"2002-05-14",6,"Mpumalanga",8.12
+"2002-05-14",7,"North West",8.29
+"2002-05-14",8,"Northern Cape",9.48
+"2002-05-14",9,"Western Cape (isolated islands)",8.48
+"2002-05-14",10,"Western Cape",12.24
+"2002-05-15",1,"Eastern Cape",9.29
+"2002-05-15",2,"Free State",7.9
+"2002-05-15",3,"Gauteng",7.77
+"2002-05-15",4,"KwaZulu-Natal",12.84
+"2002-05-15",5,"Limpopo",11.55
+"2002-05-15",6,"Mpumalanga",11.04
+"2002-05-15",7,"North West",8.49
+"2002-05-15",8,"Northern Cape",10.76
+"2002-05-15",9,"Western Cape (isolated islands)",4.17
+"2002-05-15",10,"Western Cape",12.16
+"2002-05-16",1,"Eastern Cape",10.48
+"2002-05-16",2,"Free State",9.47
+"2002-05-16",3,"Gauteng",9.68
+"2002-05-16",4,"KwaZulu-Natal",12.2
+"2002-05-16",5,"Limpopo",12.75
+"2002-05-16",6,"Mpumalanga",10.06
+"2002-05-16",7,"North West",11.48
+"2002-05-16",8,"Northern Cape",9.56
+"2002-05-16",9,"Western Cape (isolated islands)",7.18
+"2002-05-16",10,"Western Cape",11.89
+"2002-05-17",1,"Eastern Cape",7.75
+"2002-05-17",2,"Free State",6.74
+"2002-05-17",3,"Gauteng",7.98
+"2002-05-17",4,"KwaZulu-Natal",10.16
+"2002-05-17",5,"Limpopo",11.4
+"2002-05-17",6,"Mpumalanga",9.57
+"2002-05-17",7,"North West",8.49
+"2002-05-17",8,"Northern Cape",7.75
+"2002-05-17",9,"Western Cape (isolated islands)",5.75
+"2002-05-17",10,"Western Cape",10.95
+"2002-05-18",1,"Eastern Cape",8.05
+"2002-05-18",2,"Free State",4.35
+"2002-05-18",3,"Gauteng",8.08
+"2002-05-18",4,"KwaZulu-Natal",10.91
+"2002-05-18",5,"Limpopo",11.98
+"2002-05-18",6,"Mpumalanga",9.16
+"2002-05-18",7,"North West",7.58
+"2002-05-18",8,"Northern Cape",8.71
+"2002-05-18",9,"Western Cape (isolated islands)",6.33
+"2002-05-18",10,"Western Cape",10.35
+"2002-05-19",1,"Eastern Cape",9.08
+"2002-05-19",2,"Free State",5.22
+"2002-05-19",3,"Gauteng",8.38
+"2002-05-19",4,"KwaZulu-Natal",11.54
+"2002-05-19",5,"Limpopo",12.38
+"2002-05-19",6,"Mpumalanga",8.29
+"2002-05-19",7,"North West",9.26
+"2002-05-19",8,"Northern Cape",10.62
+"2002-05-19",9,"Western Cape (isolated islands)",6.27
+"2002-05-19",10,"Western Cape",10.78
+"2002-05-20",1,"Eastern Cape",11.82
+"2002-05-20",2,"Free State",6.68
+"2002-05-20",3,"Gauteng",6.53
+"2002-05-20",4,"KwaZulu-Natal",11.37
+"2002-05-20",5,"Limpopo",12.71
+"2002-05-20",6,"Mpumalanga",8.39
+"2002-05-20",7,"North West",8.9
+"2002-05-20",8,"Northern Cape",13.42
+"2002-05-20",9,"Western Cape (isolated islands)",9.31
+"2002-05-20",10,"Western Cape",14.13
+"2002-05-21",1,"Eastern Cape",12.64
+"2002-05-21",2,"Free State",8.42
+"2002-05-21",3,"Gauteng",8.31
+"2002-05-21",4,"KwaZulu-Natal",12.17
+"2002-05-21",5,"Limpopo",12.34
+"2002-05-21",6,"Mpumalanga",8.72
+"2002-05-21",7,"North West",10.77
+"2002-05-21",8,"Northern Cape",15.12
+"2002-05-21",9,"Western Cape (isolated islands)",8.22
+"2002-05-21",10,"Western Cape",16.04
+"2002-05-22",1,"Eastern Cape",13.05
+"2002-05-22",2,"Free State",7.45
+"2002-05-22",3,"Gauteng",9.11
+"2002-05-22",4,"KwaZulu-Natal",10.32
+"2002-05-22",5,"Limpopo",12.89
+"2002-05-22",6,"Mpumalanga",9.55
+"2002-05-22",7,"North West",11.44
+"2002-05-22",8,"Northern Cape",13.51
+"2002-05-22",9,"Western Cape (isolated islands)",5.35
+"2002-05-22",10,"Western Cape",15.46
+"2002-05-23",1,"Eastern Cape",12.6
+"2002-05-23",2,"Free State",8.29
+"2002-05-23",3,"Gauteng",12.09
+"2002-05-23",4,"KwaZulu-Natal",15.1
+"2002-05-23",5,"Limpopo",14.89
+"2002-05-23",6,"Mpumalanga",12.49
+"2002-05-23",7,"North West",8.15
+"2002-05-23",8,"Northern Cape",9.95
+"2002-05-23",9,"Western Cape (isolated islands)",3.76
+"2002-05-23",10,"Western Cape",13.81
+"2002-05-24",1,"Eastern Cape",9.9
+"2002-05-24",2,"Free State",5.71
+"2002-05-24",3,"Gauteng",7.02
+"2002-05-24",4,"KwaZulu-Natal",12.52
+"2002-05-24",5,"Limpopo",13.18
+"2002-05-24",6,"Mpumalanga",10.36
+"2002-05-24",7,"North West",5.92
+"2002-05-24",8,"Northern Cape",8.3
+"2002-05-24",9,"Western Cape (isolated islands)",6.92
+"2002-05-24",10,"Western Cape",10.12
+"2002-05-25",1,"Eastern Cape",13.24
+"2002-05-25",2,"Free State",4.96
+"2002-05-25",3,"Gauteng",5.72
+"2002-05-25",4,"KwaZulu-Natal",11.75
+"2002-05-25",5,"Limpopo",11.35
+"2002-05-25",6,"Mpumalanga",8.41
+"2002-05-25",7,"North West",5.87
+"2002-05-25",8,"Northern Cape",8.74
+"2002-05-25",9,"Western Cape (isolated islands)",6.63
+"2002-05-25",10,"Western Cape",13.81
+"2002-05-26",1,"Eastern Cape",10.23
+"2002-05-26",2,"Free State",5.68
+"2002-05-26",3,"Gauteng",7.27
+"2002-05-26",4,"KwaZulu-Natal",9.98
+"2002-05-26",5,"Limpopo",11.66
+"2002-05-26",6,"Mpumalanga",9.46
+"2002-05-26",7,"North West",7.04
+"2002-05-26",8,"Northern Cape",9.15
+"2002-05-26",9,"Western Cape (isolated islands)",3.55
+"2002-05-26",10,"Western Cape",11.63
+"2002-05-27",1,"Eastern Cape",4.97
+"2002-05-27",2,"Free State",4.96
+"2002-05-27",3,"Gauteng",8.85
+"2002-05-27",4,"KwaZulu-Natal",12.43
+"2002-05-27",5,"Limpopo",15.7
+"2002-05-27",6,"Mpumalanga",10.43
+"2002-05-27",7,"North West",8.28
+"2002-05-27",8,"Northern Cape",8.04
+"2002-05-27",9,"Western Cape (isolated islands)",4.09
+"2002-05-27",10,"Western Cape",6.72
+"2002-05-28",1,"Eastern Cape",12.13
+"2002-05-28",2,"Free State",9.45
+"2002-05-28",3,"Gauteng",9.34
+"2002-05-28",4,"KwaZulu-Natal",11.11
+"2002-05-28",5,"Limpopo",12.45
+"2002-05-28",6,"Mpumalanga",9.16
+"2002-05-28",7,"North West",12.75
+"2002-05-28",8,"Northern Cape",12.88
+"2002-05-28",9,"Western Cape (isolated islands)",7.24
+"2002-05-28",10,"Western Cape",13.82
+"2002-05-29",1,"Eastern Cape",14.39
+"2002-05-29",2,"Free State",12.51
+"2002-05-29",3,"Gauteng",10.85
+"2002-05-29",4,"KwaZulu-Natal",15.32
+"2002-05-29",5,"Limpopo",11.88
+"2002-05-29",6,"Mpumalanga",10.63
+"2002-05-29",7,"North West",13.82
+"2002-05-29",8,"Northern Cape",12.16
+"2002-05-29",9,"Western Cape (isolated islands)",7.79
+"2002-05-29",10,"Western Cape",11.45
+"2002-05-30",1,"Eastern Cape",8.9
+"2002-05-30",2,"Free State",10.68
+"2002-05-30",3,"Gauteng",10.5
+"2002-05-30",4,"KwaZulu-Natal",15.41
+"2002-05-30",5,"Limpopo",13.07
+"2002-05-30",6,"Mpumalanga",10.8
+"2002-05-30",7,"North West",11.86
+"2002-05-30",8,"Northern Cape",6.81
+"2002-05-30",9,"Western Cape (isolated islands)",6.97
+"2002-05-30",10,"Western Cape",4.79
+"2002-05-31",1,"Eastern Cape",4.66
+"2002-05-31",2,"Free State",8.1
+"2002-05-31",3,"Gauteng",11.84
+"2002-05-31",4,"KwaZulu-Natal",10.98
+"2002-05-31",5,"Limpopo",17.22
+"2002-05-31",6,"Mpumalanga",12.97
+"2002-05-31",7,"North West",10.85
+"2002-05-31",8,"Northern Cape",3.72
+"2002-05-31",9,"Western Cape (isolated islands)",7.11
+"2002-05-31",10,"Western Cape",3.39
+"2002-06-01",1,"Eastern Cape",5.02
+"2002-06-01",2,"Free State",6.63
+"2002-06-01",3,"Gauteng",8.85
+"2002-06-01",4,"KwaZulu-Natal",11.65
+"2002-06-01",5,"Limpopo",13.52
+"2002-06-01",6,"Mpumalanga",9.95
+"2002-06-01",7,"North West",9.24
+"2002-06-01",8,"Northern Cape",3.27
+"2002-06-01",9,"Western Cape (isolated islands)",6.23
+"2002-06-01",10,"Western Cape",7.99
+"2002-06-02",1,"Eastern Cape",2.15
+"2002-06-02",2,"Free State",2.63
+"2002-06-02",3,"Gauteng",5.93
+"2002-06-02",4,"KwaZulu-Natal",8.25
+"2002-06-02",5,"Limpopo",11.03
+"2002-06-02",6,"Mpumalanga",8.85
+"2002-06-02",7,"North West",4.49
+"2002-06-02",8,"Northern Cape",4
+"2002-06-02",9,"Western Cape (isolated islands)",2.54
+"2002-06-02",10,"Western Cape",3.28
+"2002-06-03",1,"Eastern Cape",1.46
+"2002-06-03",2,"Free State",2.84
+"2002-06-03",3,"Gauteng",7.11
+"2002-06-03",4,"KwaZulu-Natal",4.91
+"2002-06-03",5,"Limpopo",10.82
+"2002-06-03",6,"Mpumalanga",6.64
+"2002-06-03",7,"North West",5.86
+"2002-06-03",8,"Northern Cape",3.61
+"2002-06-03",9,"Western Cape (isolated islands)",6.04
+"2002-06-03",10,"Western Cape",3.39
+"2002-06-04",1,"Eastern Cape",4.06
+"2002-06-04",2,"Free State",1.65
+"2002-06-04",3,"Gauteng",4.68
+"2002-06-04",4,"KwaZulu-Natal",5.66
+"2002-06-04",5,"Limpopo",7.74
+"2002-06-04",6,"Mpumalanga",4.51
+"2002-06-04",7,"North West",5.5
+"2002-06-04",8,"Northern Cape",7.2
+"2002-06-04",9,"Western Cape (isolated islands)",3.79
+"2002-06-04",10,"Western Cape",6.47
+"2002-06-05",1,"Eastern Cape",5.61
+"2002-06-05",2,"Free State",2.79
+"2002-06-05",3,"Gauteng",4.07
+"2002-06-05",4,"KwaZulu-Natal",6.79
+"2002-06-05",5,"Limpopo",8.21
+"2002-06-05",6,"Mpumalanga",4.85
+"2002-06-05",7,"North West",5.24
+"2002-06-05",8,"Northern Cape",9.25
+"2002-06-05",9,"Western Cape (isolated islands)",2.82
+"2002-06-05",10,"Western Cape",12.49
+"2002-06-06",1,"Eastern Cape",11.79
+"2002-06-06",2,"Free State",6.2
+"2002-06-06",3,"Gauteng",6.99
+"2002-06-06",4,"KwaZulu-Natal",11.22
+"2002-06-06",5,"Limpopo",10.75
+"2002-06-06",6,"Mpumalanga",8.72
+"2002-06-06",7,"North West",6.58
+"2002-06-06",8,"Northern Cape",9.79
+"2002-06-06",9,"Western Cape (isolated islands)",5.94
+"2002-06-06",10,"Western Cape",12.03
+"2002-06-07",1,"Eastern Cape",4.71
+"2002-06-07",2,"Free State",3.96
+"2002-06-07",3,"Gauteng",4.29
+"2002-06-07",4,"KwaZulu-Natal",9.69
+"2002-06-07",5,"Limpopo",9.44
+"2002-06-07",6,"Mpumalanga",5.9
+"2002-06-07",7,"North West",5.62
+"2002-06-07",8,"Northern Cape",5.16
+"2002-06-07",9,"Western Cape (isolated islands)",7.76
+"2002-06-07",10,"Western Cape",4.29
+"2002-06-08",1,"Eastern Cape",13.16
+"2002-06-08",2,"Free State",6.98
+"2002-06-08",3,"Gauteng",6.86
+"2002-06-08",4,"KwaZulu-Natal",10.28
+"2002-06-08",5,"Limpopo",12.47
+"2002-06-08",6,"Mpumalanga",8.5
+"2002-06-08",7,"North West",7.5
+"2002-06-08",8,"Northern Cape",8.88
+"2002-06-08",9,"Western Cape (isolated islands)",4.04
+"2002-06-08",10,"Western Cape",9.8
+"2002-06-09",1,"Eastern Cape",5.16
+"2002-06-09",2,"Free State",3.48
+"2002-06-09",3,"Gauteng",6.33
+"2002-06-09",4,"KwaZulu-Natal",10.06
+"2002-06-09",5,"Limpopo",10.31
+"2002-06-09",6,"Mpumalanga",8.27
+"2002-06-09",7,"North West",6.69
+"2002-06-09",8,"Northern Cape",3.68
+"2002-06-09",9,"Western Cape (isolated islands)",6.21
+"2002-06-09",10,"Western Cape",7.01
+"2002-06-10",1,"Eastern Cape",5.09
+"2002-06-10",2,"Free State",1.53
+"2002-06-10",3,"Gauteng",4.82
+"2002-06-10",4,"KwaZulu-Natal",7.53
+"2002-06-10",5,"Limpopo",9.36
+"2002-06-10",6,"Mpumalanga",6.25
+"2002-06-10",7,"North West",4.59
+"2002-06-10",8,"Northern Cape",4.9
+"2002-06-10",9,"Western Cape (isolated islands)",6.63
+"2002-06-10",10,"Western Cape",7.23
+"2002-06-11",1,"Eastern Cape",10.37
+"2002-06-11",2,"Free State",3.45
+"2002-06-11",3,"Gauteng",4.95
+"2002-06-11",4,"KwaZulu-Natal",8.6
+"2002-06-11",5,"Limpopo",9.84
+"2002-06-11",6,"Mpumalanga",6.86
+"2002-06-11",7,"North West",5.66
+"2002-06-11",8,"Northern Cape",8.86
+"2002-06-11",9,"Western Cape (isolated islands)",5.09
+"2002-06-11",10,"Western Cape",11.27
+"2002-06-12",1,"Eastern Cape",9.79
+"2002-06-12",2,"Free State",5.62
+"2002-06-12",3,"Gauteng",6.78
+"2002-06-12",4,"KwaZulu-Natal",10.13
+"2002-06-12",5,"Limpopo",9.84
+"2002-06-12",6,"Mpumalanga",6.96
+"2002-06-12",7,"North West",8.55
+"2002-06-12",8,"Northern Cape",13.05
+"2002-06-12",9,"Western Cape (isolated islands)",5.46
+"2002-06-12",10,"Western Cape",13.77
+"2002-06-13",1,"Eastern Cape",9.99
+"2002-06-13",2,"Free State",9.86
+"2002-06-13",3,"Gauteng",9.59
+"2002-06-13",4,"KwaZulu-Natal",11.81
+"2002-06-13",5,"Limpopo",12.8
+"2002-06-13",6,"Mpumalanga",10.09
+"2002-06-13",7,"North West",10.92
+"2002-06-13",8,"Northern Cape",5.9
+"2002-06-13",9,"Western Cape (isolated islands)",4.8
+"2002-06-13",10,"Western Cape",8.85
+"2002-06-14",1,"Eastern Cape",6.61
+"2002-06-14",2,"Free State",3.21
+"2002-06-14",3,"Gauteng",6.1
+"2002-06-14",4,"KwaZulu-Natal",12.15
+"2002-06-14",5,"Limpopo",13.67
+"2002-06-14",6,"Mpumalanga",10.92
+"2002-06-14",7,"North West",4.65
+"2002-06-14",8,"Northern Cape",4.64
+"2002-06-14",9,"Western Cape (isolated islands)",8.51
+"2002-06-14",10,"Western Cape",9.47
+"2002-06-15",1,"Eastern Cape",5.6
+"2002-06-15",2,"Free State",3.16
+"2002-06-15",3,"Gauteng",3.62
+"2002-06-15",4,"KwaZulu-Natal",7.06
+"2002-06-15",5,"Limpopo",9.33
+"2002-06-15",6,"Mpumalanga",5.47
+"2002-06-15",7,"North West",3.76
+"2002-06-15",8,"Northern Cape",4.83
+"2002-06-15",9,"Western Cape (isolated islands)",3.75
+"2002-06-15",10,"Western Cape",8.27
+"2002-06-16",1,"Eastern Cape",6.61
+"2002-06-16",2,"Free State",1.95
+"2002-06-16",3,"Gauteng",3.06
+"2002-06-16",4,"KwaZulu-Natal",6.47
+"2002-06-16",5,"Limpopo",6.97
+"2002-06-16",6,"Mpumalanga",4.89
+"2002-06-16",7,"North West",4.58
+"2002-06-16",8,"Northern Cape",5.43
+"2002-06-16",9,"Western Cape (isolated islands)",6.8
+"2002-06-16",10,"Western Cape",8.88
+"2002-06-17",1,"Eastern Cape",7.45
+"2002-06-17",2,"Free State",3.32
+"2002-06-17",3,"Gauteng",5.07
+"2002-06-17",4,"KwaZulu-Natal",7.03
+"2002-06-17",5,"Limpopo",9.67
+"2002-06-17",6,"Mpumalanga",6.54
+"2002-06-17",7,"North West",5.1
+"2002-06-17",8,"Northern Cape",6.95
+"2002-06-17",9,"Western Cape (isolated islands)",6.46
+"2002-06-17",10,"Western Cape",10.16
+"2002-06-18",1,"Eastern Cape",10.72
+"2002-06-18",2,"Free State",4.74
+"2002-06-18",3,"Gauteng",5.55
+"2002-06-18",4,"KwaZulu-Natal",9.68
+"2002-06-18",5,"Limpopo",8.71
+"2002-06-18",6,"Mpumalanga",7.88
+"2002-06-18",7,"North West",6.16
+"2002-06-18",8,"Northern Cape",7.67
+"2002-06-18",9,"Western Cape (isolated islands)",7.14
+"2002-06-18",10,"Western Cape",10.76
+"2002-06-19",1,"Eastern Cape",6.84
+"2002-06-19",2,"Free State",2.76
+"2002-06-19",3,"Gauteng",5.25
+"2002-06-19",4,"KwaZulu-Natal",9.72
+"2002-06-19",5,"Limpopo",8.6
+"2002-06-19",6,"Mpumalanga",6.73
+"2002-06-19",7,"North West",5.24
+"2002-06-19",8,"Northern Cape",5.12
+"2002-06-19",9,"Western Cape (isolated islands)",5.68
+"2002-06-19",10,"Western Cape",6.89
+"2002-06-20",1,"Eastern Cape",3.88
+"2002-06-20",2,"Free State",3.42
+"2002-06-20",3,"Gauteng",5.77
+"2002-06-20",4,"KwaZulu-Natal",11.01
+"2002-06-20",5,"Limpopo",12.72
+"2002-06-20",6,"Mpumalanga",10.49
+"2002-06-20",7,"North West",5.72
+"2002-06-20",8,"Northern Cape",4.25
+"2002-06-20",9,"Western Cape (isolated islands)",3.61
+"2002-06-20",10,"Western Cape",5.67
+"2002-06-21",1,"Eastern Cape",3.8
+"2002-06-21",2,"Free State",5.5
+"2002-06-21",3,"Gauteng",8.17
+"2002-06-21",4,"KwaZulu-Natal",9.27
+"2002-06-21",5,"Limpopo",13.44
+"2002-06-21",6,"Mpumalanga",9.39
+"2002-06-21",7,"North West",8.3
+"2002-06-21",8,"Northern Cape",7.05
+"2002-06-21",9,"Western Cape (isolated islands)",6.95
+"2002-06-21",10,"Western Cape",6.61
+"2002-06-22",1,"Eastern Cape",9.84
+"2002-06-22",2,"Free State",5.35
+"2002-06-22",3,"Gauteng",7.68
+"2002-06-22",4,"KwaZulu-Natal",6.67
+"2002-06-22",5,"Limpopo",9.26
+"2002-06-22",6,"Mpumalanga",5.73
+"2002-06-22",7,"North West",6.89
+"2002-06-22",8,"Northern Cape",11.5
+"2002-06-22",9,"Western Cape (isolated islands)",6.24
+"2002-06-22",10,"Western Cape",12.06
+"2002-06-23",1,"Eastern Cape",9.98
+"2002-06-23",2,"Free State",6.96
+"2002-06-23",3,"Gauteng",9.12
+"2002-06-23",4,"KwaZulu-Natal",8.94
+"2002-06-23",5,"Limpopo",8.67
+"2002-06-23",6,"Mpumalanga",7.04
+"2002-06-23",7,"North West",8.11
+"2002-06-23",8,"Northern Cape",8.94
+"2002-06-23",9,"Western Cape (isolated islands)",2.93
+"2002-06-23",10,"Western Cape",8.84
+"2002-06-24",1,"Eastern Cape",5.51
+"2002-06-24",2,"Free State",3.01
+"2002-06-24",3,"Gauteng",7.71
+"2002-06-24",4,"KwaZulu-Natal",8.78
+"2002-06-24",5,"Limpopo",9.65
+"2002-06-24",6,"Mpumalanga",7.95
+"2002-06-24",7,"North West",5.79
+"2002-06-24",8,"Northern Cape",4.76
+"2002-06-24",9,"Western Cape (isolated islands)",5.94
+"2002-06-24",10,"Western Cape",8.75
+"2002-06-25",1,"Eastern Cape",4.5
+"2002-06-25",2,"Free State",-0.39
+"2002-06-25",3,"Gauteng",2.57
+"2002-06-25",4,"KwaZulu-Natal",5.28
+"2002-06-25",5,"Limpopo",9.83
+"2002-06-25",6,"Mpumalanga",5.72
+"2002-06-25",7,"North West",1.65
+"2002-06-25",8,"Northern Cape",3.33
+"2002-06-25",9,"Western Cape (isolated islands)",3.65
+"2002-06-25",10,"Western Cape",4.97
+"2002-06-26",1,"Eastern Cape",7.67
+"2002-06-26",2,"Free State",1.27
+"2002-06-26",3,"Gauteng",3.74
+"2002-06-26",4,"KwaZulu-Natal",6.34
+"2002-06-26",5,"Limpopo",8.1
+"2002-06-26",6,"Mpumalanga",4.83
+"2002-06-26",7,"North West",3.14
+"2002-06-26",8,"Northern Cape",5.35
+"2002-06-26",9,"Western Cape (isolated islands)",5.89
+"2002-06-26",10,"Western Cape",8.95
+"2002-06-27",1,"Eastern Cape",5.88
+"2002-06-27",2,"Free State",2.21
+"2002-06-27",3,"Gauteng",4.18
+"2002-06-27",4,"KwaZulu-Natal",9.41
+"2002-06-27",5,"Limpopo",8.62
+"2002-06-27",6,"Mpumalanga",7.45
+"2002-06-27",7,"North West",3.04
+"2002-06-27",8,"Northern Cape",3.24
+"2002-06-27",9,"Western Cape (isolated islands)",3.43
+"2002-06-27",10,"Western Cape",3.29
+"2002-06-28",1,"Eastern Cape",3.79
+"2002-06-28",2,"Free State",2.34
+"2002-06-28",3,"Gauteng",5.19
+"2002-06-28",4,"KwaZulu-Natal",8.27
+"2002-06-28",5,"Limpopo",8.23
+"2002-06-28",6,"Mpumalanga",6.4
+"2002-06-28",7,"North West",5.13
+"2002-06-28",8,"Northern Cape",2.49
+"2002-06-28",9,"Western Cape (isolated islands)",7.15
+"2002-06-28",10,"Western Cape",4.55
+"2002-06-29",1,"Eastern Cape",1.77
+"2002-06-29",2,"Free State",-0.15
+"2002-06-29",3,"Gauteng",6.94
+"2002-06-29",4,"KwaZulu-Natal",9.21
+"2002-06-29",5,"Limpopo",9.21
+"2002-06-29",6,"Mpumalanga",7.19
+"2002-06-29",7,"North West",3.67
+"2002-06-29",8,"Northern Cape",1.05
+"2002-06-29",9,"Western Cape (isolated islands)",3.22
+"2002-06-29",10,"Western Cape",6.67
+"2002-06-30",1,"Eastern Cape",4.84
+"2002-06-30",2,"Free State",-0.89
+"2002-06-30",3,"Gauteng",2.88
+"2002-06-30",4,"KwaZulu-Natal",9.31
+"2002-06-30",5,"Limpopo",8.79
+"2002-06-30",6,"Mpumalanga",6.25
+"2002-06-30",7,"North West",1.32
+"2002-06-30",8,"Northern Cape",1.45
+"2002-06-30",9,"Western Cape (isolated islands)",2.57
+"2002-06-30",10,"Western Cape",7.74
+"2002-07-01",1,"Eastern Cape",1.85
+"2002-07-01",2,"Free State",-0.5
+"2002-07-01",3,"Gauteng",3.25
+"2002-07-01",4,"KwaZulu-Natal",7
+"2002-07-01",5,"Limpopo",10.02
+"2002-07-01",6,"Mpumalanga",5.5
+"2002-07-01",7,"North West",0.93
+"2002-07-01",8,"Northern Cape",2.09
+"2002-07-01",9,"Western Cape (isolated islands)",4.7
+"2002-07-01",10,"Western Cape",4.86
+"2002-07-02",1,"Eastern Cape",3.34
+"2002-07-02",2,"Free State",0.77
+"2002-07-02",3,"Gauteng",4.35
+"2002-07-02",4,"KwaZulu-Natal",5.39
+"2002-07-02",5,"Limpopo",7.01
+"2002-07-02",6,"Mpumalanga",4.33
+"2002-07-02",7,"North West",4.92
+"2002-07-02",8,"Northern Cape",4.22
+"2002-07-02",9,"Western Cape (isolated islands)",4.98
+"2002-07-02",10,"Western Cape",5.38
+"2002-07-03",1,"Eastern Cape",4.04
+"2002-07-03",2,"Free State",0.69
+"2002-07-03",3,"Gauteng",3.36
+"2002-07-03",4,"KwaZulu-Natal",5.08
+"2002-07-03",5,"Limpopo",6.72
+"2002-07-03",6,"Mpumalanga",3.75
+"2002-07-03",7,"North West",3.57
+"2002-07-03",8,"Northern Cape",6.54
+"2002-07-03",9,"Western Cape (isolated islands)",5.25
+"2002-07-03",10,"Western Cape",6.79
+"2002-07-04",1,"Eastern Cape",7.82
+"2002-07-04",2,"Free State",0.66
+"2002-07-04",3,"Gauteng",3.07
+"2002-07-04",4,"KwaZulu-Natal",5.64
+"2002-07-04",5,"Limpopo",7.2
+"2002-07-04",6,"Mpumalanga",4.31
+"2002-07-04",7,"North West",3.46
+"2002-07-04",8,"Northern Cape",6.4
+"2002-07-04",9,"Western Cape (isolated islands)",7.13
+"2002-07-04",10,"Western Cape",9.23
+"2002-07-05",1,"Eastern Cape",7.33
+"2002-07-05",2,"Free State",2.07
+"2002-07-05",3,"Gauteng",3.31
+"2002-07-05",4,"KwaZulu-Natal",5.81
+"2002-07-05",5,"Limpopo",7.06
+"2002-07-05",6,"Mpumalanga",4.2
+"2002-07-05",7,"North West",3.12
+"2002-07-05",8,"Northern Cape",7.29
+"2002-07-05",9,"Western Cape (isolated islands)",5.3
+"2002-07-05",10,"Western Cape",9.47
+"2002-07-06",1,"Eastern Cape",8.95
+"2002-07-06",2,"Free State",1.76
+"2002-07-06",3,"Gauteng",3.61
+"2002-07-06",4,"KwaZulu-Natal",5.84
+"2002-07-06",5,"Limpopo",7.38
+"2002-07-06",6,"Mpumalanga",3.63
+"2002-07-06",7,"North West",3.72
+"2002-07-06",8,"Northern Cape",7.76
+"2002-07-06",9,"Western Cape (isolated islands)",6.04
+"2002-07-06",10,"Western Cape",9.4
+"2002-07-07",1,"Eastern Cape",8.21
+"2002-07-07",2,"Free State",1.08
+"2002-07-07",3,"Gauteng",3.45
+"2002-07-07",4,"KwaZulu-Natal",5.47
+"2002-07-07",5,"Limpopo",8.68
+"2002-07-07",6,"Mpumalanga",4.2
+"2002-07-07",7,"North West",4.36
+"2002-07-07",8,"Northern Cape",7.39
+"2002-07-07",9,"Western Cape (isolated islands)",5.77
+"2002-07-07",10,"Western Cape",9.24
+"2002-07-08",1,"Eastern Cape",7.75
+"2002-07-08",2,"Free State",2.19
+"2002-07-08",3,"Gauteng",4.41
+"2002-07-08",4,"KwaZulu-Natal",6.15
+"2002-07-08",5,"Limpopo",7.24
+"2002-07-08",6,"Mpumalanga",4.74
+"2002-07-08",7,"North West",5.63
+"2002-07-08",8,"Northern Cape",8.37
+"2002-07-08",9,"Western Cape (isolated islands)",7.08
+"2002-07-08",10,"Western Cape",10.14
+"2002-07-09",1,"Eastern Cape",9.04
+"2002-07-09",2,"Free State",4.8
+"2002-07-09",3,"Gauteng",5.92
+"2002-07-09",4,"KwaZulu-Natal",6.99
+"2002-07-09",5,"Limpopo",8.22
+"2002-07-09",6,"Mpumalanga",5.63
+"2002-07-09",7,"North West",7.5
+"2002-07-09",8,"Northern Cape",8.06
+"2002-07-09",9,"Western Cape (isolated islands)",5.16
+"2002-07-09",10,"Western Cape",11.46
+"2002-07-10",1,"Eastern Cape",6.86
+"2002-07-10",2,"Free State",3.13
+"2002-07-10",3,"Gauteng",6.03
+"2002-07-10",4,"KwaZulu-Natal",10.01
+"2002-07-10",5,"Limpopo",13.64
+"2002-07-10",6,"Mpumalanga",8.99
+"2002-07-10",7,"North West",5.71
+"2002-07-10",8,"Northern Cape",3.21
+"2002-07-10",9,"Western Cape (isolated islands)",2.06
+"2002-07-10",10,"Western Cape",6.87
+"2002-07-11",1,"Eastern Cape",3.81
+"2002-07-11",2,"Free State",-0.43
+"2002-07-11",3,"Gauteng",1.21
+"2002-07-11",4,"KwaZulu-Natal",5.97
+"2002-07-11",5,"Limpopo",7.72
+"2002-07-11",6,"Mpumalanga",3.06
+"2002-07-11",7,"North West",1.99
+"2002-07-11",8,"Northern Cape",2.8
+"2002-07-11",9,"Western Cape (isolated islands)",3.88
+"2002-07-11",10,"Western Cape",5.4
+"2002-07-12",1,"Eastern Cape",6.1
+"2002-07-12",2,"Free State",-0.31
+"2002-07-12",3,"Gauteng",2.24
+"2002-07-12",4,"KwaZulu-Natal",4.42
+"2002-07-12",5,"Limpopo",5.9
+"2002-07-12",6,"Mpumalanga",3.14
+"2002-07-12",7,"North West",2.07
+"2002-07-12",8,"Northern Cape",4.7
+"2002-07-12",9,"Western Cape (isolated islands)",3.92
+"2002-07-12",10,"Western Cape",8.15
+"2002-07-13",1,"Eastern Cape",5.35
+"2002-07-13",2,"Free State",-0.2
+"2002-07-13",3,"Gauteng",2.25
+"2002-07-13",4,"KwaZulu-Natal",5.28
+"2002-07-13",5,"Limpopo",7.44
+"2002-07-13",6,"Mpumalanga",3.99
+"2002-07-13",7,"North West",3.6
+"2002-07-13",8,"Northern Cape",4.99
+"2002-07-13",9,"Western Cape (isolated islands)",3.59
+"2002-07-13",10,"Western Cape",7.12
+"2002-07-14",1,"Eastern Cape",9.04
+"2002-07-14",2,"Free State",3.06
+"2002-07-14",3,"Gauteng",5.1
+"2002-07-14",4,"KwaZulu-Natal",7.44
+"2002-07-14",5,"Limpopo",8.66
+"2002-07-14",6,"Mpumalanga",5.5
+"2002-07-14",7,"North West",6.91
+"2002-07-14",8,"Northern Cape",6.7
+"2002-07-14",9,"Western Cape (isolated islands)",6.83
+"2002-07-14",10,"Western Cape",9.43
+"2002-07-15",1,"Eastern Cape",9.56
+"2002-07-15",2,"Free State",7.57
+"2002-07-15",3,"Gauteng",7.09
+"2002-07-15",4,"KwaZulu-Natal",12.65
+"2002-07-15",5,"Limpopo",8.35
+"2002-07-15",6,"Mpumalanga",7.32
+"2002-07-15",7,"North West",8.62
+"2002-07-15",8,"Northern Cape",7.79
+"2002-07-15",9,"Western Cape (isolated islands)",2.79
+"2002-07-15",10,"Western Cape",8.44
+"2002-07-16",1,"Eastern Cape",3.81
+"2002-07-16",2,"Free State",2.58
+"2002-07-16",3,"Gauteng",7.32
+"2002-07-16",4,"KwaZulu-Natal",11.66
+"2002-07-16",5,"Limpopo",11.01
+"2002-07-16",6,"Mpumalanga",10.05
+"2002-07-16",7,"North West",5.04
+"2002-07-16",8,"Northern Cape",2.16
+"2002-07-16",9,"Western Cape (isolated islands)",3.8
+"2002-07-16",10,"Western Cape",4.74
+"2002-07-17",1,"Eastern Cape",2.49
+"2002-07-17",2,"Free State",-2.68
+"2002-07-17",3,"Gauteng",0.59
+"2002-07-17",4,"KwaZulu-Natal",5.49
+"2002-07-17",5,"Limpopo",9.06
+"2002-07-17",6,"Mpumalanga",4.73
+"2002-07-17",7,"North West",0.36
+"2002-07-17",8,"Northern Cape",-1.26
+"2002-07-17",9,"Western Cape (isolated islands)",2.92
+"2002-07-17",10,"Western Cape",2.34
+"2002-07-18",1,"Eastern Cape",5.67
+"2002-07-18",2,"Free State",-0.34
+"2002-07-18",3,"Gauteng",0.51
+"2002-07-18",4,"KwaZulu-Natal",6.96
+"2002-07-18",5,"Limpopo",9.72
+"2002-07-18",6,"Mpumalanga",7.69
+"2002-07-18",7,"North West",0.75
+"2002-07-18",8,"Northern Cape",2.69
+"2002-07-18",9,"Western Cape (isolated islands)",3.05
+"2002-07-18",10,"Western Cape",5.95
+"2002-07-19",1,"Eastern Cape",5.29
+"2002-07-19",2,"Free State",0.46
+"2002-07-19",3,"Gauteng",3.1
+"2002-07-19",4,"KwaZulu-Natal",7.13
+"2002-07-19",5,"Limpopo",9.8
+"2002-07-19",6,"Mpumalanga",5.63
+"2002-07-19",7,"North West",1.75
+"2002-07-19",8,"Northern Cape",3.04
+"2002-07-19",9,"Western Cape (isolated islands)",4.55
+"2002-07-19",10,"Western Cape",5.61
+"2002-07-20",1,"Eastern Cape",7.11
+"2002-07-20",2,"Free State",3.18
+"2002-07-20",3,"Gauteng",2.65
+"2002-07-20",4,"KwaZulu-Natal",9.24
+"2002-07-20",5,"Limpopo",6.97
+"2002-07-20",6,"Mpumalanga",4.61
+"2002-07-20",7,"North West",3.31
+"2002-07-20",8,"Northern Cape",5.44
+"2002-07-20",9,"Western Cape (isolated islands)",7.13
+"2002-07-20",10,"Western Cape",8.38
+"2002-07-21",1,"Eastern Cape",6.91
+"2002-07-21",2,"Free State",4.35
+"2002-07-21",3,"Gauteng",3.18
+"2002-07-21",4,"KwaZulu-Natal",9.34
+"2002-07-21",5,"Limpopo",9.53
+"2002-07-21",6,"Mpumalanga",5.35
+"2002-07-21",7,"North West",3.96
+"2002-07-21",8,"Northern Cape",5.64
+"2002-07-21",9,"Western Cape (isolated islands)",6.52
+"2002-07-21",10,"Western Cape",7.15
+"2002-07-22",1,"Eastern Cape",7.08
+"2002-07-22",2,"Free State",2.6
+"2002-07-22",3,"Gauteng",2.78
+"2002-07-22",4,"KwaZulu-Natal",8.76
+"2002-07-22",5,"Limpopo",6.47
+"2002-07-22",6,"Mpumalanga",5.34
+"2002-07-22",7,"North West",1.86
+"2002-07-22",8,"Northern Cape",5.35
+"2002-07-22",9,"Western Cape (isolated islands)",6.58
+"2002-07-22",10,"Western Cape",8.7
+"2002-07-23",1,"Eastern Cape",7.9
+"2002-07-23",2,"Free State",2.45
+"2002-07-23",3,"Gauteng",3.69
+"2002-07-23",4,"KwaZulu-Natal",8.3
+"2002-07-23",5,"Limpopo",6.33
+"2002-07-23",6,"Mpumalanga",5.91
+"2002-07-23",7,"North West",3.87
+"2002-07-23",8,"Northern Cape",5.59
+"2002-07-23",9,"Western Cape (isolated islands)",6.26
+"2002-07-23",10,"Western Cape",7.97
+"2002-07-24",1,"Eastern Cape",10.1
+"2002-07-24",2,"Free State",5.69
+"2002-07-24",3,"Gauteng",6.67
+"2002-07-24",4,"KwaZulu-Natal",11.05
+"2002-07-24",5,"Limpopo",8.18
+"2002-07-24",6,"Mpumalanga",8.64
+"2002-07-24",7,"North West",7.39
+"2002-07-24",8,"Northern Cape",6.62
+"2002-07-24",9,"Western Cape (isolated islands)",6.55
+"2002-07-24",10,"Western Cape",10.81
+"2002-07-25",1,"Eastern Cape",6.87
+"2002-07-25",2,"Free State",2.85
+"2002-07-25",3,"Gauteng",7.38
+"2002-07-25",4,"KwaZulu-Natal",11.39
+"2002-07-25",5,"Limpopo",10.31
+"2002-07-25",6,"Mpumalanga",9.97
+"2002-07-25",7,"North West",4.48
+"2002-07-25",8,"Northern Cape",4.32
+"2002-07-25",9,"Western Cape (isolated islands)",4.25
+"2002-07-25",10,"Western Cape",9.35
+"2002-07-26",1,"Eastern Cape",4.9
+"2002-07-26",2,"Free State",-0.82
+"2002-07-26",3,"Gauteng",3.91
+"2002-07-26",4,"KwaZulu-Natal",7.33
+"2002-07-26",5,"Limpopo",8.97
+"2002-07-26",6,"Mpumalanga",5.14
+"2002-07-26",7,"North West",3.39
+"2002-07-26",8,"Northern Cape",3.88
+"2002-07-26",9,"Western Cape (isolated islands)",2.18
+"2002-07-26",10,"Western Cape",7.25
+"2002-07-27",1,"Eastern Cape",11.79
+"2002-07-27",2,"Free State",6.09
+"2002-07-27",3,"Gauteng",7.99
+"2002-07-27",4,"KwaZulu-Natal",9.94
+"2002-07-27",5,"Limpopo",10.04
+"2002-07-27",6,"Mpumalanga",8.38
+"2002-07-27",7,"North West",9.93
+"2002-07-27",8,"Northern Cape",9
+"2002-07-27",9,"Western Cape (isolated islands)",7.35
+"2002-07-27",10,"Western Cape",10.62
+"2002-07-28",1,"Eastern Cape",8.44
+"2002-07-28",2,"Free State",4.32
+"2002-07-28",3,"Gauteng",7.01
+"2002-07-28",4,"KwaZulu-Natal",10.67
+"2002-07-28",5,"Limpopo",11.98
+"2002-07-28",6,"Mpumalanga",10.46
+"2002-07-28",7,"North West",5.04
+"2002-07-28",8,"Northern Cape",5.56
+"2002-07-28",9,"Western Cape (isolated islands)",4.39
+"2002-07-28",10,"Western Cape",7.59
+"2002-07-29",1,"Eastern Cape",14.95
+"2002-07-29",2,"Free State",6.34
+"2002-07-29",3,"Gauteng",10.26
+"2002-07-29",4,"KwaZulu-Natal",11.5
+"2002-07-29",5,"Limpopo",11.82
+"2002-07-29",6,"Mpumalanga",10.66
+"2002-07-29",7,"North West",8.69
+"2002-07-29",8,"Northern Cape",9.47
+"2002-07-29",9,"Western Cape (isolated islands)",3.98
+"2002-07-29",10,"Western Cape",12.91
+"2002-07-30",1,"Eastern Cape",9.47
+"2002-07-30",2,"Free State",5.81
+"2002-07-30",3,"Gauteng",8.65
+"2002-07-30",4,"KwaZulu-Natal",13.5
+"2002-07-30",5,"Limpopo",13.27
+"2002-07-30",6,"Mpumalanga",12.87
+"2002-07-30",7,"North West",6.95
+"2002-07-30",8,"Northern Cape",7.02
+"2002-07-30",9,"Western Cape (isolated islands)",1.91
+"2002-07-30",10,"Western Cape",7.04
+"2002-07-31",1,"Eastern Cape",0.31
+"2002-07-31",2,"Free State",0.3
+"2002-07-31",3,"Gauteng",4.6
+"2002-07-31",4,"KwaZulu-Natal",8.86
+"2002-07-31",5,"Limpopo",14.4
+"2002-07-31",6,"Mpumalanga",9.93
+"2002-07-31",7,"North West",2.72
+"2002-07-31",8,"Northern Cape",0.47
+"2002-07-31",9,"Western Cape (isolated islands)",4.15
+"2002-07-31",10,"Western Cape",1.45
+"2002-08-01",1,"Eastern Cape",7.53
+"2002-08-01",2,"Free State",8.37
+"2002-08-01",3,"Gauteng",8.51
+"2002-08-01",4,"KwaZulu-Natal",8.16
+"2002-08-01",5,"Limpopo",12.8
+"2002-08-01",6,"Mpumalanga",8.8
+"2002-08-01",7,"North West",11.22
+"2002-08-01",8,"Northern Cape",9.88
+"2002-08-01",9,"Western Cape (isolated islands)",4.97
+"2002-08-01",10,"Western Cape",9.55
+"2002-08-02",1,"Eastern Cape",16.55
+"2002-08-02",2,"Free State",8.49
+"2002-08-02",3,"Gauteng",6.18
+"2002-08-02",4,"KwaZulu-Natal",11.15
+"2002-08-02",5,"Limpopo",8.54
+"2002-08-02",6,"Mpumalanga",7.01
+"2002-08-02",7,"North West",8.57
+"2002-08-02",8,"Northern Cape",11.42
+"2002-08-02",9,"Western Cape (isolated islands)",8.55
+"2002-08-02",10,"Western Cape",12.2
+"2002-08-03",1,"Eastern Cape",6.19
+"2002-08-03",2,"Free State",4.34
+"2002-08-03",3,"Gauteng",8.03
+"2002-08-03",4,"KwaZulu-Natal",12.26
+"2002-08-03",5,"Limpopo",11.65
+"2002-08-03",6,"Mpumalanga",9.68
+"2002-08-03",7,"North West",6.38
+"2002-08-03",8,"Northern Cape",2.77
+"2002-08-03",9,"Western Cape (isolated islands)",6.15
+"2002-08-03",10,"Western Cape",6.71
+"2002-08-04",1,"Eastern Cape",3.42
+"2002-08-04",2,"Free State",4.85
+"2002-08-04",3,"Gauteng",9.19
+"2002-08-04",4,"KwaZulu-Natal",9.23
+"2002-08-04",5,"Limpopo",14.32
+"2002-08-04",6,"Mpumalanga",10.75
+"2002-08-04",7,"North West",8.59
+"2002-08-04",8,"Northern Cape",3.46
+"2002-08-04",9,"Western Cape (isolated islands)",1.35
+"2002-08-04",10,"Western Cape",3.34
+"2002-08-05",1,"Eastern Cape",6.5
+"2002-08-05",2,"Free State",7.8
+"2002-08-05",3,"Gauteng",8.61
+"2002-08-05",4,"KwaZulu-Natal",10.15
+"2002-08-05",5,"Limpopo",11.6
+"2002-08-05",6,"Mpumalanga",9.29
+"2002-08-05",7,"North West",10.48
+"2002-08-05",8,"Northern Cape",4.55
+"2002-08-05",9,"Western Cape (isolated islands)",4.42
+"2002-08-05",10,"Western Cape",4.76
+"2002-08-06",1,"Eastern Cape",5.16
+"2002-08-06",2,"Free State",6.04
+"2002-08-06",3,"Gauteng",8.23
+"2002-08-06",4,"KwaZulu-Natal",11.45
+"2002-08-06",5,"Limpopo",9.51
+"2002-08-06",6,"Mpumalanga",9.54
+"2002-08-06",7,"North West",8.71
+"2002-08-06",8,"Northern Cape",4.23
+"2002-08-06",9,"Western Cape (isolated islands)",4.72
+"2002-08-06",10,"Western Cape",4.49
+"2002-08-07",1,"Eastern Cape",6.77
+"2002-08-07",2,"Free State",6.31
+"2002-08-07",3,"Gauteng",9.62
+"2002-08-07",4,"KwaZulu-Natal",13.28
+"2002-08-07",5,"Limpopo",12.14
+"2002-08-07",6,"Mpumalanga",11.12
+"2002-08-07",7,"North West",8.74
+"2002-08-07",8,"Northern Cape",6.23
+"2002-08-07",9,"Western Cape (isolated islands)",4.81
+"2002-08-07",10,"Western Cape",7.44
+"2002-08-08",1,"Eastern Cape",6.69
+"2002-08-08",2,"Free State",5.28
+"2002-08-08",3,"Gauteng",8.77
+"2002-08-08",4,"KwaZulu-Natal",11.8
+"2002-08-08",5,"Limpopo",12.91
+"2002-08-08",6,"Mpumalanga",10.24
+"2002-08-08",7,"North West",9.35
+"2002-08-08",8,"Northern Cape",8.66
+"2002-08-08",9,"Western Cape (isolated islands)",3.71
+"2002-08-08",10,"Western Cape",6.94
+"2002-08-09",1,"Eastern Cape",9.4
+"2002-08-09",2,"Free State",5.34
+"2002-08-09",3,"Gauteng",8.24
+"2002-08-09",4,"KwaZulu-Natal",10.43
+"2002-08-09",5,"Limpopo",10.39
+"2002-08-09",6,"Mpumalanga",8.46
+"2002-08-09",7,"North West",9.15
+"2002-08-09",8,"Northern Cape",11.1
+"2002-08-09",9,"Western Cape (isolated islands)",6.6
+"2002-08-09",10,"Western Cape",9.96
+"2002-08-10",1,"Eastern Cape",11.31
+"2002-08-10",2,"Free State",4.89
+"2002-08-10",3,"Gauteng",8.05
+"2002-08-10",4,"KwaZulu-Natal",8.88
+"2002-08-10",5,"Limpopo",10.34
+"2002-08-10",6,"Mpumalanga",7.41
+"2002-08-10",7,"North West",8.3
+"2002-08-10",8,"Northern Cape",10.93
+"2002-08-10",9,"Western Cape (isolated islands)",6.97
+"2002-08-10",10,"Western Cape",12.1
+"2002-08-11",1,"Eastern Cape",10.6
+"2002-08-11",2,"Free State",5.45
+"2002-08-11",3,"Gauteng",7.97
+"2002-08-11",4,"KwaZulu-Natal",8.83
+"2002-08-11",5,"Limpopo",10.15
+"2002-08-11",6,"Mpumalanga",7.81
+"2002-08-11",7,"North West",7.8
+"2002-08-11",8,"Northern Cape",12.18
+"2002-08-11",9,"Western Cape (isolated islands)",4.84
+"2002-08-11",10,"Western Cape",14.66
+"2002-08-12",1,"Eastern Cape",15.59
+"2002-08-12",2,"Free State",8.61
+"2002-08-12",3,"Gauteng",7.15
+"2002-08-12",4,"KwaZulu-Natal",10.85
+"2002-08-12",5,"Limpopo",9.47
+"2002-08-12",6,"Mpumalanga",7.87
+"2002-08-12",7,"North West",9.03
+"2002-08-12",8,"Northern Cape",12.23
+"2002-08-12",9,"Western Cape (isolated islands)",2.05
+"2002-08-12",10,"Western Cape",13.83
+"2002-08-13",1,"Eastern Cape",10.1
+"2002-08-13",2,"Free State",8.12
+"2002-08-13",3,"Gauteng",9.22
+"2002-08-13",4,"KwaZulu-Natal",13.41
+"2002-08-13",5,"Limpopo",10.4
+"2002-08-13",6,"Mpumalanga",10.17
+"2002-08-13",7,"North West",10.05
+"2002-08-13",8,"Northern Cape",5.69
+"2002-08-13",9,"Western Cape (isolated islands)",7.25
+"2002-08-13",10,"Western Cape",8.42
+"2002-08-14",1,"Eastern Cape",4.38
+"2002-08-14",2,"Free State",5.27
+"2002-08-14",3,"Gauteng",9.86
+"2002-08-14",4,"KwaZulu-Natal",12.24
+"2002-08-14",5,"Limpopo",12.72
+"2002-08-14",6,"Mpumalanga",10.37
+"2002-08-14",7,"North West",9.56
+"2002-08-14",8,"Northern Cape",3.76
+"2002-08-14",9,"Western Cape (isolated islands)",-0.59
+"2002-08-14",10,"Western Cape",4.37
+"2002-08-15",1,"Eastern Cape",6.08
+"2002-08-15",2,"Free State",5.89
+"2002-08-15",3,"Gauteng",13.78
+"2002-08-15",4,"KwaZulu-Natal",11.74
+"2002-08-15",5,"Limpopo",18.02
+"2002-08-15",6,"Mpumalanga",13.88
+"2002-08-15",7,"North West",7.58
+"2002-08-15",8,"Northern Cape",3.6
+"2002-08-15",9,"Western Cape (isolated islands)",3.21
+"2002-08-15",10,"Western Cape",5.96
+"2002-08-16",1,"Eastern Cape",6.94
+"2002-08-16",2,"Free State",3.32
+"2002-08-16",3,"Gauteng",9.75
+"2002-08-16",4,"KwaZulu-Natal",13.15
+"2002-08-16",5,"Limpopo",17.32
+"2002-08-16",6,"Mpumalanga",13.69
+"2002-08-16",7,"North West",4.47
+"2002-08-16",8,"Northern Cape",2.74
+"2002-08-16",9,"Western Cape (isolated islands)",2.37
+"2002-08-16",10,"Western Cape",6.29
+"2002-08-17",1,"Eastern Cape",7.95
+"2002-08-17",2,"Free State",9.45
+"2002-08-17",3,"Gauteng",15.22
+"2002-08-17",4,"KwaZulu-Natal",11.72
+"2002-08-17",5,"Limpopo",18.64
+"2002-08-17",6,"Mpumalanga",13.92
+"2002-08-17",7,"North West",12.19
+"2002-08-17",8,"Northern Cape",7.6
+"2002-08-17",9,"Western Cape (isolated islands)",5.72
+"2002-08-17",10,"Western Cape",8.01
+"2002-08-18",1,"Eastern Cape",8.56
+"2002-08-18",2,"Free State",9.89
+"2002-08-18",3,"Gauteng",11.28
+"2002-08-18",4,"KwaZulu-Natal",10.92
+"2002-08-18",5,"Limpopo",15.32
+"2002-08-18",6,"Mpumalanga",11.34
+"2002-08-18",7,"North West",12.17
+"2002-08-18",8,"Northern Cape",8.25
+"2002-08-18",9,"Western Cape (isolated islands)",4.47
+"2002-08-18",10,"Western Cape",9.08
+"2002-08-19",1,"Eastern Cape",8.34
+"2002-08-19",2,"Free State",5.42
+"2002-08-19",3,"Gauteng",10.76
+"2002-08-19",4,"KwaZulu-Natal",11.87
+"2002-08-19",5,"Limpopo",13.63
+"2002-08-19",6,"Mpumalanga",10.98
+"2002-08-19",7,"North West",7.53
+"2002-08-19",8,"Northern Cape",6.81
+"2002-08-19",9,"Western Cape (isolated islands)",5.16
+"2002-08-19",10,"Western Cape",9.27
+"2002-08-20",1,"Eastern Cape",10.44
+"2002-08-20",2,"Free State",6.19
+"2002-08-20",3,"Gauteng",9.46
+"2002-08-20",4,"KwaZulu-Natal",11.44
+"2002-08-20",5,"Limpopo",14.76
+"2002-08-20",6,"Mpumalanga",12.62
+"2002-08-20",7,"North West",8.85
+"2002-08-20",8,"Northern Cape",9.67
+"2002-08-20",9,"Western Cape (isolated islands)",2.79
+"2002-08-20",10,"Western Cape",10.92
+"2002-08-21",1,"Eastern Cape",9.2
+"2002-08-21",2,"Free State",6.26
+"2002-08-21",3,"Gauteng",10.45
+"2002-08-21",4,"KwaZulu-Natal",11.34
+"2002-08-21",5,"Limpopo",14.75
+"2002-08-21",6,"Mpumalanga",12.34
+"2002-08-21",7,"North West",10.62
+"2002-08-21",8,"Northern Cape",10.25
+"2002-08-21",9,"Western Cape (isolated islands)",4.78
+"2002-08-21",10,"Western Cape",11.39
+"2002-08-22",1,"Eastern Cape",11.3
+"2002-08-22",2,"Free State",8.13
+"2002-08-22",3,"Gauteng",10.42
+"2002-08-22",4,"KwaZulu-Natal",12
+"2002-08-22",5,"Limpopo",13.52
+"2002-08-22",6,"Mpumalanga",10.47
+"2002-08-22",7,"North West",11.5
+"2002-08-22",8,"Northern Cape",11.8
+"2002-08-22",9,"Western Cape (isolated islands)",4.93
+"2002-08-22",10,"Western Cape",10.92
+"2002-08-23",1,"Eastern Cape",11.17
+"2002-08-23",2,"Free State",9.75
+"2002-08-23",3,"Gauteng",12.99
+"2002-08-23",4,"KwaZulu-Natal",12.25
+"2002-08-23",5,"Limpopo",13.91
+"2002-08-23",6,"Mpumalanga",10.75
+"2002-08-23",7,"North West",12.9
+"2002-08-23",8,"Northern Cape",14.5
+"2002-08-23",9,"Western Cape (isolated islands)",4.56
+"2002-08-23",10,"Western Cape",13.66
+"2002-08-24",1,"Eastern Cape",13.38
+"2002-08-24",2,"Free State",10.83
+"2002-08-24",3,"Gauteng",12.17
+"2002-08-24",4,"KwaZulu-Natal",14.57
+"2002-08-24",5,"Limpopo",13.21
+"2002-08-24",6,"Mpumalanga",11.67
+"2002-08-24",7,"North West",12.76
+"2002-08-24",8,"Northern Cape",12.04
+"2002-08-24",9,"Western Cape (isolated islands)",6.34
+"2002-08-24",10,"Western Cape",10.99
+"2002-08-25",1,"Eastern Cape",10.53
+"2002-08-25",2,"Free State",10.36
+"2002-08-25",3,"Gauteng",12.72
+"2002-08-25",4,"KwaZulu-Natal",14.05
+"2002-08-25",5,"Limpopo",13.07
+"2002-08-25",6,"Mpumalanga",12.34
+"2002-08-25",7,"North West",11.64
+"2002-08-25",8,"Northern Cape",10.32
+"2002-08-25",9,"Western Cape (isolated islands)",2.79
+"2002-08-25",10,"Western Cape",8.64
+"2002-08-26",1,"Eastern Cape",9.94
+"2002-08-26",2,"Free State",10.39
+"2002-08-26",3,"Gauteng",12.52
+"2002-08-26",4,"KwaZulu-Natal",14
+"2002-08-26",5,"Limpopo",17.15
+"2002-08-26",6,"Mpumalanga",13.54
+"2002-08-26",7,"North West",13.61
+"2002-08-26",8,"Northern Cape",9.11
+"2002-08-26",9,"Western Cape (isolated islands)",6.12
+"2002-08-26",10,"Western Cape",8.6
+"2002-08-27",1,"Eastern Cape",10.15
+"2002-08-27",2,"Free State",11.65
+"2002-08-27",3,"Gauteng",13.67
+"2002-08-27",4,"KwaZulu-Natal",16.18
+"2002-08-27",5,"Limpopo",16.48
+"2002-08-27",6,"Mpumalanga",13.16
+"2002-08-27",7,"North West",14.93
+"2002-08-27",8,"Northern Cape",8.24
+"2002-08-27",9,"Western Cape (isolated islands)",6.44
+"2002-08-27",10,"Western Cape",9.41
+"2002-08-28",1,"Eastern Cape",11.55
+"2002-08-28",2,"Free State",10.58
+"2002-08-28",3,"Gauteng",11.33
+"2002-08-28",4,"KwaZulu-Natal",15.15
+"2002-08-28",5,"Limpopo",17.67
+"2002-08-28",6,"Mpumalanga",13.86
+"2002-08-28",7,"North West",12.31
+"2002-08-28",8,"Northern Cape",8.6
+"2002-08-28",9,"Western Cape (isolated islands)",7.47
+"2002-08-28",10,"Western Cape",7.78
+"2002-08-29",1,"Eastern Cape",13.94
+"2002-08-29",2,"Free State",11.37
+"2002-08-29",3,"Gauteng",12.62
+"2002-08-29",4,"KwaZulu-Natal",16.14
+"2002-08-29",5,"Limpopo",16.5
+"2002-08-29",6,"Mpumalanga",13.02
+"2002-08-29",7,"North West",14.42
+"2002-08-29",8,"Northern Cape",10.65
+"2002-08-29",9,"Western Cape (isolated islands)",5.91
+"2002-08-29",10,"Western Cape",10.51
+"2002-08-30",1,"Eastern Cape",14.02
+"2002-08-30",2,"Free State",11.57
+"2002-08-30",3,"Gauteng",12.98
+"2002-08-30",4,"KwaZulu-Natal",15.7
+"2002-08-30",5,"Limpopo",17.32
+"2002-08-30",6,"Mpumalanga",13.59
+"2002-08-30",7,"North West",13
+"2002-08-30",8,"Northern Cape",9.35
+"2002-08-30",9,"Western Cape (isolated islands)",7.3
+"2002-08-30",10,"Western Cape",9.32
+"2002-08-31",1,"Eastern Cape",4.07
+"2002-08-31",2,"Free State",4.41
+"2002-08-31",3,"Gauteng",9.97
+"2002-08-31",4,"KwaZulu-Natal",13.48
+"2002-08-31",5,"Limpopo",14.11
+"2002-08-31",6,"Mpumalanga",12.15
+"2002-08-31",7,"North West",7.63
+"2002-08-31",8,"Northern Cape",2.93
+"2002-08-31",9,"Western Cape (isolated islands)",6.22
+"2002-08-31",10,"Western Cape",3.53
+"2002-09-01",1,"Eastern Cape",6.87
+"2002-09-01",2,"Free State",3.38
+"2002-09-01",3,"Gauteng",8.18
+"2002-09-01",4,"KwaZulu-Natal",10.97
+"2002-09-01",5,"Limpopo",15.35
+"2002-09-01",6,"Mpumalanga",11.82
+"2002-09-01",7,"North West",7.43
+"2002-09-01",8,"Northern Cape",5.45
+"2002-09-01",9,"Western Cape (isolated islands)",6.78
+"2002-09-01",10,"Western Cape",7.48
+"2002-09-02",1,"Eastern Cape",6.78
+"2002-09-02",2,"Free State",5.19
+"2002-09-02",3,"Gauteng",10.85
+"2002-09-02",4,"KwaZulu-Natal",9.77
+"2002-09-02",5,"Limpopo",14.44
+"2002-09-02",6,"Mpumalanga",11.55
+"2002-09-02",7,"North West",9.14
+"2002-09-02",8,"Northern Cape",9.33
+"2002-09-02",9,"Western Cape (isolated islands)",3.02
+"2002-09-02",10,"Western Cape",9.27
+"2002-09-03",1,"Eastern Cape",8.83
+"2002-09-03",2,"Free State",7.59
+"2002-09-03",3,"Gauteng",11.92
+"2002-09-03",4,"KwaZulu-Natal",12.5
+"2002-09-03",5,"Limpopo",14.51
+"2002-09-03",6,"Mpumalanga",12.06
+"2002-09-03",7,"North West",12.23
+"2002-09-03",8,"Northern Cape",13.3
+"2002-09-03",9,"Western Cape (isolated islands)",0.79
+"2002-09-03",10,"Western Cape",11.29
+"2002-09-04",1,"Eastern Cape",10.7
+"2002-09-04",2,"Free State",11.45
+"2002-09-04",3,"Gauteng",13.13
+"2002-09-04",4,"KwaZulu-Natal",14.54
+"2002-09-04",5,"Limpopo",15.45
+"2002-09-04",6,"Mpumalanga",13.44
+"2002-09-04",7,"North West",14.04
+"2002-09-04",8,"Northern Cape",11.28
+"2002-09-04",9,"Western Cape (isolated islands)",3.13
+"2002-09-04",10,"Western Cape",9.8
+"2002-09-05",1,"Eastern Cape",8.94
+"2002-09-05",2,"Free State",10.03
+"2002-09-05",3,"Gauteng",13.29
+"2002-09-05",4,"KwaZulu-Natal",14.28
+"2002-09-05",5,"Limpopo",17.65
+"2002-09-05",6,"Mpumalanga",13.62
+"2002-09-05",7,"North West",12.85
+"2002-09-05",8,"Northern Cape",9.16
+"2002-09-05",9,"Western Cape (isolated islands)",1.79
+"2002-09-05",10,"Western Cape",9.35
+"2002-09-06",1,"Eastern Cape",8.62
+"2002-09-06",2,"Free State",8.93
+"2002-09-06",3,"Gauteng",9.89
+"2002-09-06",4,"KwaZulu-Natal",11.01
+"2002-09-06",5,"Limpopo",14.87
+"2002-09-06",6,"Mpumalanga",10.57
+"2002-09-06",7,"North West",12.22
+"2002-09-06",8,"Northern Cape",10.2
+"2002-09-06",9,"Western Cape (isolated islands)",6.1
+"2002-09-06",10,"Western Cape",9.2
+"2002-09-07",1,"Eastern Cape",8.63
+"2002-09-07",2,"Free State",9.09
+"2002-09-07",3,"Gauteng",10.78
+"2002-09-07",4,"KwaZulu-Natal",11.52
+"2002-09-07",5,"Limpopo",14.53
+"2002-09-07",6,"Mpumalanga",10.81
+"2002-09-07",7,"North West",11.47
+"2002-09-07",8,"Northern Cape",12.79
+"2002-09-07",9,"Western Cape (isolated islands)",5.96
+"2002-09-07",10,"Western Cape",9.84
+"2002-09-08",1,"Eastern Cape",14.14
+"2002-09-08",2,"Free State",9.03
+"2002-09-08",3,"Gauteng",10.61
+"2002-09-08",4,"KwaZulu-Natal",10.64
+"2002-09-08",5,"Limpopo",13.9
+"2002-09-08",6,"Mpumalanga",10.4
+"2002-09-08",7,"North West",12.04
+"2002-09-08",8,"Northern Cape",12.56
+"2002-09-08",9,"Western Cape (isolated islands)",3.96
+"2002-09-08",10,"Western Cape",14.36
+"2002-09-09",1,"Eastern Cape",11.66
+"2002-09-09",2,"Free State",12.02
+"2002-09-09",3,"Gauteng",14.16
+"2002-09-09",4,"KwaZulu-Natal",14.54
+"2002-09-09",5,"Limpopo",15.63
+"2002-09-09",6,"Mpumalanga",12.94
+"2002-09-09",7,"North West",13.59
+"2002-09-09",8,"Northern Cape",9.29
+"2002-09-09",9,"Western Cape (isolated islands)",7.4
+"2002-09-09",10,"Western Cape",10.67
+"2002-09-10",1,"Eastern Cape",7.82
+"2002-09-10",2,"Free State",5.16
+"2002-09-10",3,"Gauteng",6.86
+"2002-09-10",4,"KwaZulu-Natal",13.78
+"2002-09-10",5,"Limpopo",15.75
+"2002-09-10",6,"Mpumalanga",11.66
+"2002-09-10",7,"North West",5.51
+"2002-09-10",8,"Northern Cape",6.62
+"2002-09-10",9,"Western Cape (isolated islands)",3.75
+"2002-09-10",10,"Western Cape",9.04
+"2002-09-11",1,"Eastern Cape",6.86
+"2002-09-11",2,"Free State",3.44
+"2002-09-11",3,"Gauteng",4.02
+"2002-09-11",4,"KwaZulu-Natal",9.03
+"2002-09-11",5,"Limpopo",10.15
+"2002-09-11",6,"Mpumalanga",5.94
+"2002-09-11",7,"North West",5.46
+"2002-09-11",8,"Northern Cape",5.29
+"2002-09-11",9,"Western Cape (isolated islands)",3.81
+"2002-09-11",10,"Western Cape",6.76
+"2002-09-12",1,"Eastern Cape",9.58
+"2002-09-12",2,"Free State",4.37
+"2002-09-12",3,"Gauteng",4.91
+"2002-09-12",4,"KwaZulu-Natal",10.87
+"2002-09-12",5,"Limpopo",9.2
+"2002-09-12",6,"Mpumalanga",6.38
+"2002-09-12",7,"North West",5.7
+"2002-09-12",8,"Northern Cape",8.25
+"2002-09-12",9,"Western Cape (isolated islands)",3.81
+"2002-09-12",10,"Western Cape",9.52
+"2002-09-13",1,"Eastern Cape",9.34
+"2002-09-13",2,"Free State",6.62
+"2002-09-13",3,"Gauteng",8.89
+"2002-09-13",4,"KwaZulu-Natal",11.23
+"2002-09-13",5,"Limpopo",13.77
+"2002-09-13",6,"Mpumalanga",8.95
+"2002-09-13",7,"North West",9.24
+"2002-09-13",8,"Northern Cape",11.3
+"2002-09-13",9,"Western Cape (isolated islands)",2.22
+"2002-09-13",10,"Western Cape",12.68
+"2002-09-14",1,"Eastern Cape",8.15
+"2002-09-14",2,"Free State",8.08
+"2002-09-14",3,"Gauteng",8.36
+"2002-09-14",4,"KwaZulu-Natal",10.61
+"2002-09-14",5,"Limpopo",12.54
+"2002-09-14",6,"Mpumalanga",8.33
+"2002-09-14",7,"North West",11.31
+"2002-09-14",8,"Northern Cape",13.67
+"2002-09-14",9,"Western Cape (isolated islands)",3.07
+"2002-09-14",10,"Western Cape",12.96
+"2002-09-15",1,"Eastern Cape",15.75
+"2002-09-15",2,"Free State",8.61
+"2002-09-15",3,"Gauteng",7.03
+"2002-09-15",4,"KwaZulu-Natal",10.46
+"2002-09-15",5,"Limpopo",10.63
+"2002-09-15",6,"Mpumalanga",7.55
+"2002-09-15",7,"North West",9.35
+"2002-09-15",8,"Northern Cape",13.73
+"2002-09-15",9,"Western Cape (isolated islands)",5.89
+"2002-09-15",10,"Western Cape",14.73
+"2002-09-16",1,"Eastern Cape",10.53
+"2002-09-16",2,"Free State",7.35
+"2002-09-16",3,"Gauteng",9.11
+"2002-09-16",4,"KwaZulu-Natal",12.11
+"2002-09-16",5,"Limpopo",11.24
+"2002-09-16",6,"Mpumalanga",8.64
+"2002-09-16",7,"North West",9.66
+"2002-09-16",8,"Northern Cape",14
+"2002-09-16",9,"Western Cape (isolated islands)",4.88
+"2002-09-16",10,"Western Cape",12.18
+"2002-09-17",1,"Eastern Cape",13.32
+"2002-09-17",2,"Free State",8.14
+"2002-09-17",3,"Gauteng",10.37
+"2002-09-17",4,"KwaZulu-Natal",12.38
+"2002-09-17",5,"Limpopo",12.57
+"2002-09-17",6,"Mpumalanga",9.94
+"2002-09-17",7,"North West",10.51
+"2002-09-17",8,"Northern Cape",14.11
+"2002-09-17",9,"Western Cape (isolated islands)",6.25
+"2002-09-17",10,"Western Cape",14.75
+"2002-09-18",1,"Eastern Cape",12.58
+"2002-09-18",2,"Free State",9.06
+"2002-09-18",3,"Gauteng",11.86
+"2002-09-18",4,"KwaZulu-Natal",12.07
+"2002-09-18",5,"Limpopo",12.93
+"2002-09-18",6,"Mpumalanga",11.25
+"2002-09-18",7,"North West",11.25
+"2002-09-18",8,"Northern Cape",14.08
+"2002-09-18",9,"Western Cape (isolated islands)",2.74
+"2002-09-18",10,"Western Cape",14.11
+"2002-09-19",1,"Eastern Cape",12.22
+"2002-09-19",2,"Free State",9.71
+"2002-09-19",3,"Gauteng",11.81
+"2002-09-19",4,"KwaZulu-Natal",12.16
+"2002-09-19",5,"Limpopo",14.21
+"2002-09-19",6,"Mpumalanga",10.63
+"2002-09-19",7,"North West",12.81
+"2002-09-19",8,"Northern Cape",14.26
+"2002-09-19",9,"Western Cape (isolated islands)",4.8
+"2002-09-19",10,"Western Cape",14.52
+"2002-09-20",1,"Eastern Cape",12.33
+"2002-09-20",2,"Free State",9.94
+"2002-09-20",3,"Gauteng",11.15
+"2002-09-20",4,"KwaZulu-Natal",12.1
+"2002-09-20",5,"Limpopo",13.93
+"2002-09-20",6,"Mpumalanga",9.94
+"2002-09-20",7,"North West",13.86
+"2002-09-20",8,"Northern Cape",15.39
+"2002-09-20",9,"Western Cape (isolated islands)",4.8
+"2002-09-20",10,"Western Cape",14.58
+"2002-09-21",1,"Eastern Cape",13.68
+"2002-09-21",2,"Free State",10.71
+"2002-09-21",3,"Gauteng",10.93
+"2002-09-21",4,"KwaZulu-Natal",14.21
+"2002-09-21",5,"Limpopo",13.52
+"2002-09-21",6,"Mpumalanga",10.41
+"2002-09-21",7,"North West",13.14
+"2002-09-21",8,"Northern Cape",16
+"2002-09-21",9,"Western Cape (isolated islands)",2.11
+"2002-09-21",10,"Western Cape",14.33
+"2002-09-22",1,"Eastern Cape",12.29
+"2002-09-22",2,"Free State",10.22
+"2002-09-22",3,"Gauteng",12.57
+"2002-09-22",4,"KwaZulu-Natal",15.13
+"2002-09-22",5,"Limpopo",14.16
+"2002-09-22",6,"Mpumalanga",12.01
+"2002-09-22",7,"North West",13.16
+"2002-09-22",8,"Northern Cape",14.35
+"2002-09-22",9,"Western Cape (isolated islands)",2.98
+"2002-09-22",10,"Western Cape",13.42
+"2002-09-23",1,"Eastern Cape",10.52
+"2002-09-23",2,"Free State",10.65
+"2002-09-23",3,"Gauteng",13.61
+"2002-09-23",4,"KwaZulu-Natal",13.12
+"2002-09-23",5,"Limpopo",16.36
+"2002-09-23",6,"Mpumalanga",12.73
+"2002-09-23",7,"North West",14.6
+"2002-09-23",8,"Northern Cape",14.05
+"2002-09-23",9,"Western Cape (isolated islands)",3.6
+"2002-09-23",10,"Western Cape",12.15
+"2002-09-24",1,"Eastern Cape",10.92
+"2002-09-24",2,"Free State",12.85
+"2002-09-24",3,"Gauteng",15.75
+"2002-09-24",4,"KwaZulu-Natal",15.31
+"2002-09-24",5,"Limpopo",17.08
+"2002-09-24",6,"Mpumalanga",16.07
+"2002-09-24",7,"North West",15.21
+"2002-09-24",8,"Northern Cape",15.04
+"2002-09-24",9,"Western Cape (isolated islands)",-0.81
+"2002-09-24",10,"Western Cape",12.27
+"2002-09-25",1,"Eastern Cape",12.76
+"2002-09-25",2,"Free State",14.18
+"2002-09-25",3,"Gauteng",16.27
+"2002-09-25",4,"KwaZulu-Natal",15.92
+"2002-09-25",5,"Limpopo",17.99
+"2002-09-25",6,"Mpumalanga",15.58
+"2002-09-25",7,"North West",18
+"2002-09-25",8,"Northern Cape",17.43
+"2002-09-25",9,"Western Cape (isolated islands)",-0.39
+"2002-09-25",10,"Western Cape",13.32
+"2002-09-26",1,"Eastern Cape",11.79
+"2002-09-26",2,"Free State",14.24
+"2002-09-26",3,"Gauteng",16.99
+"2002-09-26",4,"KwaZulu-Natal",17.71
+"2002-09-26",5,"Limpopo",17.55
+"2002-09-26",6,"Mpumalanga",15.52
+"2002-09-26",7,"North West",17.85
+"2002-09-26",8,"Northern Cape",10.44
+"2002-09-26",9,"Western Cape (isolated islands)",2.67
+"2002-09-26",10,"Western Cape",10.24
+"2002-09-27",1,"Eastern Cape",11.59
+"2002-09-27",2,"Free State",15.27
+"2002-09-27",3,"Gauteng",18.05
+"2002-09-27",4,"KwaZulu-Natal",15.64
+"2002-09-27",5,"Limpopo",21.11
+"2002-09-27",6,"Mpumalanga",16.68
+"2002-09-27",7,"North West",16.96
+"2002-09-27",8,"Northern Cape",12.29
+"2002-09-27",9,"Western Cape (isolated islands)",5.26
+"2002-09-27",10,"Western Cape",10.57
+"2002-09-28",1,"Eastern Cape",14.93
+"2002-09-28",2,"Free State",12.45
+"2002-09-28",3,"Gauteng",12.6
+"2002-09-28",4,"KwaZulu-Natal",16.41
+"2002-09-28",5,"Limpopo",15.81
+"2002-09-28",6,"Mpumalanga",14.42
+"2002-09-28",7,"North West",13.53
+"2002-09-28",8,"Northern Cape",14.17
+"2002-09-28",9,"Western Cape (isolated islands)",5.3
+"2002-09-28",10,"Western Cape",13.95
+"2002-09-29",1,"Eastern Cape",10.73
+"2002-09-29",2,"Free State",12.22
+"2002-09-29",3,"Gauteng",17.42
+"2002-09-29",4,"KwaZulu-Natal",16.78
+"2002-09-29",5,"Limpopo",19.81
+"2002-09-29",6,"Mpumalanga",16.74
+"2002-09-29",7,"North West",15.41
+"2002-09-29",8,"Northern Cape",10.15
+"2002-09-29",9,"Western Cape (isolated islands)",5.97
+"2002-09-29",10,"Western Cape",10.93
+"2002-09-30",1,"Eastern Cape",8.36
+"2002-09-30",2,"Free State",8.79
+"2002-09-30",3,"Gauteng",12.6
+"2002-09-30",4,"KwaZulu-Natal",12.29
+"2002-09-30",5,"Limpopo",17.97
+"2002-09-30",6,"Mpumalanga",12.5
+"2002-09-30",7,"North West",13.09
+"2002-09-30",8,"Northern Cape",11.62
+"2002-09-30",9,"Western Cape (isolated islands)",3.68
+"2002-09-30",10,"Western Cape",10.63
+"2002-10-01",1,"Eastern Cape",12.15
+"2002-10-01",2,"Free State",12.61
+"2002-10-01",3,"Gauteng",14.77
+"2002-10-01",4,"KwaZulu-Natal",15.09
+"2002-10-01",5,"Limpopo",17.05
+"2002-10-01",6,"Mpumalanga",14.54
+"2002-10-01",7,"North West",14.45
+"2002-10-01",8,"Northern Cape",8.99
+"2002-10-01",9,"Western Cape (isolated islands)",4.88
+"2002-10-01",10,"Western Cape",9.71
+"2002-10-02",1,"Eastern Cape",5.11
+"2002-10-02",2,"Free State",5.08
+"2002-10-02",3,"Gauteng",8.93
+"2002-10-02",4,"KwaZulu-Natal",12.03
+"2002-10-02",5,"Limpopo",17.28
+"2002-10-02",6,"Mpumalanga",11.64
+"2002-10-02",7,"North West",8.61
+"2002-10-02",8,"Northern Cape",7.46
+"2002-10-02",9,"Western Cape (isolated islands)",6.4
+"2002-10-02",10,"Western Cape",6.98
+"2002-10-03",1,"Eastern Cape",11.83
+"2002-10-03",2,"Free State",11.65
+"2002-10-03",3,"Gauteng",12.57
+"2002-10-03",4,"KwaZulu-Natal",13.88
+"2002-10-03",5,"Limpopo",16.87
+"2002-10-03",6,"Mpumalanga",13.08
+"2002-10-03",7,"North West",15.33
+"2002-10-03",8,"Northern Cape",8.88
+"2002-10-03",9,"Western Cape (isolated islands)",6.79
+"2002-10-03",10,"Western Cape",8.75
+"2002-10-04",1,"Eastern Cape",4.52
+"2002-10-04",2,"Free State",3.1
+"2002-10-04",3,"Gauteng",7.75
+"2002-10-04",4,"KwaZulu-Natal",11.13
+"2002-10-04",5,"Limpopo",18.7
+"2002-10-04",6,"Mpumalanga",11.15
+"2002-10-04",7,"North West",7.7
+"2002-10-04",8,"Northern Cape",4.92
+"2002-10-04",9,"Western Cape (isolated islands)",3.3
+"2002-10-04",10,"Western Cape",5.26
+"2002-10-05",1,"Eastern Cape",8.37
+"2002-10-05",2,"Free State",9.69
+"2002-10-05",3,"Gauteng",11.61
+"2002-10-05",4,"KwaZulu-Natal",11.8
+"2002-10-05",5,"Limpopo",15.46
+"2002-10-05",6,"Mpumalanga",12.3
+"2002-10-05",7,"North West",13.79
+"2002-10-05",8,"Northern Cape",10.97
+"2002-10-05",9,"Western Cape (isolated islands)",4.1
+"2002-10-05",10,"Western Cape",12.44
+"2002-10-06",1,"Eastern Cape",8.79
+"2002-10-06",2,"Free State",13
+"2002-10-06",3,"Gauteng",13.96
+"2002-10-06",4,"KwaZulu-Natal",16.24
+"2002-10-06",5,"Limpopo",16.23
+"2002-10-06",6,"Mpumalanga",14.05
+"2002-10-06",7,"North West",15.97
+"2002-10-06",8,"Northern Cape",9.38
+"2002-10-06",9,"Western Cape (isolated islands)",5.66
+"2002-10-06",10,"Western Cape",9.74
+"2002-10-07",1,"Eastern Cape",9.78
+"2002-10-07",2,"Free State",12.39
+"2002-10-07",3,"Gauteng",14.63
+"2002-10-07",4,"KwaZulu-Natal",14.12
+"2002-10-07",5,"Limpopo",19.48
+"2002-10-07",6,"Mpumalanga",15.09
+"2002-10-07",7,"North West",14.76
+"2002-10-07",8,"Northern Cape",12.35
+"2002-10-07",9,"Western Cape (isolated islands)",5.14
+"2002-10-07",10,"Western Cape",10.39
+"2002-10-08",1,"Eastern Cape",9.57
+"2002-10-08",2,"Free State",11.08
+"2002-10-08",3,"Gauteng",13.25
+"2002-10-08",4,"KwaZulu-Natal",13.03
+"2002-10-08",5,"Limpopo",17.16
+"2002-10-08",6,"Mpumalanga",13.87
+"2002-10-08",7,"North West",14.84
+"2002-10-08",8,"Northern Cape",14.24
+"2002-10-08",9,"Western Cape (isolated islands)",3.71
+"2002-10-08",10,"Western Cape",10.98
+"2002-10-09",1,"Eastern Cape",8.14
+"2002-10-09",2,"Free State",9.75
+"2002-10-09",3,"Gauteng",10.2
+"2002-10-09",4,"KwaZulu-Natal",12.06
+"2002-10-09",5,"Limpopo",15.02
+"2002-10-09",6,"Mpumalanga",11.62
+"2002-10-09",7,"North West",12.87
+"2002-10-09",8,"Northern Cape",15.2
+"2002-10-09",9,"Western Cape (isolated islands)",1.94
+"2002-10-09",10,"Western Cape",12.08
+"2002-10-10",1,"Eastern Cape",14.25
+"2002-10-10",2,"Free State",12.6
+"2002-10-10",3,"Gauteng",11.79
+"2002-10-10",4,"KwaZulu-Natal",12.23
+"2002-10-10",5,"Limpopo",13.41
+"2002-10-10",6,"Mpumalanga",11.23
+"2002-10-10",7,"North West",14.73
+"2002-10-10",8,"Northern Cape",20.01
+"2002-10-10",9,"Western Cape (isolated islands)",5.3
+"2002-10-10",10,"Western Cape",19.51
+"2002-10-11",1,"Eastern Cape",13.54
+"2002-10-11",2,"Free State",14.69
+"2002-10-11",3,"Gauteng",13.36
+"2002-10-11",4,"KwaZulu-Natal",14.65
+"2002-10-11",5,"Limpopo",13.6
+"2002-10-11",6,"Mpumalanga",12.48
+"2002-10-11",7,"North West",15.74
+"2002-10-11",8,"Northern Cape",15.55
+"2002-10-11",9,"Western Cape (isolated islands)",5.68
+"2002-10-11",10,"Western Cape",12.13
+"2002-10-12",1,"Eastern Cape",18.29
+"2002-10-12",2,"Free State",17.52
+"2002-10-12",3,"Gauteng",15.52
+"2002-10-12",4,"KwaZulu-Natal",15.23
+"2002-10-12",5,"Limpopo",17.3
+"2002-10-12",6,"Mpumalanga",13.4
+"2002-10-12",7,"North West",17.3
+"2002-10-12",8,"Northern Cape",20.84
+"2002-10-12",9,"Western Cape (isolated islands)",6.92
+"2002-10-12",10,"Western Cape",17.51
+"2002-10-13",1,"Eastern Cape",17.25
+"2002-10-13",2,"Free State",15.33
+"2002-10-13",3,"Gauteng",13.19
+"2002-10-13",4,"KwaZulu-Natal",14.58
+"2002-10-13",5,"Limpopo",14.99
+"2002-10-13",6,"Mpumalanga",11.46
+"2002-10-13",7,"North West",16.42
+"2002-10-13",8,"Northern Cape",18.94
+"2002-10-13",9,"Western Cape (isolated islands)",4.44
+"2002-10-13",10,"Western Cape",15.83
+"2002-10-14",1,"Eastern Cape",17.49
+"2002-10-14",2,"Free State",17.11
+"2002-10-14",3,"Gauteng",12.69
+"2002-10-14",4,"KwaZulu-Natal",15.91
+"2002-10-14",5,"Limpopo",14.99
+"2002-10-14",6,"Mpumalanga",12.56
+"2002-10-14",7,"North West",16.06
+"2002-10-14",8,"Northern Cape",18.58
+"2002-10-14",9,"Western Cape (isolated islands)",7.41
+"2002-10-14",10,"Western Cape",15.46
+"2002-10-15",1,"Eastern Cape",13.17
+"2002-10-15",2,"Free State",16.01
+"2002-10-15",3,"Gauteng",14.13
+"2002-10-15",4,"KwaZulu-Natal",17.63
+"2002-10-15",5,"Limpopo",16.73
+"2002-10-15",6,"Mpumalanga",14.83
+"2002-10-15",7,"North West",15.34
+"2002-10-15",8,"Northern Cape",16.62
+"2002-10-15",9,"Western Cape (isolated islands)",7.36
+"2002-10-15",10,"Western Cape",10.43
+"2002-10-16",1,"Eastern Cape",15.41
+"2002-10-16",2,"Free State",15.35
+"2002-10-16",3,"Gauteng",15.46
+"2002-10-16",4,"KwaZulu-Natal",17.04
+"2002-10-16",5,"Limpopo",18.6
+"2002-10-16",6,"Mpumalanga",15.14
+"2002-10-16",7,"North West",17.06
+"2002-10-16",8,"Northern Cape",17.94
+"2002-10-16",9,"Western Cape (isolated islands)",7.28
+"2002-10-16",10,"Western Cape",14.69
+"2002-10-17",1,"Eastern Cape",14.31
+"2002-10-17",2,"Free State",17.8
+"2002-10-17",3,"Gauteng",17.6
+"2002-10-17",4,"KwaZulu-Natal",18.48
+"2002-10-17",5,"Limpopo",19.54
+"2002-10-17",6,"Mpumalanga",17.27
+"2002-10-17",7,"North West",18.9
+"2002-10-17",8,"Northern Cape",18.33
+"2002-10-17",9,"Western Cape (isolated islands)",8.24
+"2002-10-17",10,"Western Cape",14.94
+"2002-10-18",1,"Eastern Cape",18.43
+"2002-10-18",2,"Free State",20.39
+"2002-10-18",3,"Gauteng",19.53
+"2002-10-18",4,"KwaZulu-Natal",19.66
+"2002-10-18",5,"Limpopo",20.17
+"2002-10-18",6,"Mpumalanga",18.43
+"2002-10-18",7,"North West",21.8
+"2002-10-18",8,"Northern Cape",19.84
+"2002-10-18",9,"Western Cape (isolated islands)",8.31
+"2002-10-18",10,"Western Cape",16.77
+"2002-10-19",1,"Eastern Cape",11.26
+"2002-10-19",2,"Free State",17.33
+"2002-10-19",3,"Gauteng",19.52
+"2002-10-19",4,"KwaZulu-Natal",18.22
+"2002-10-19",5,"Limpopo",20.61
+"2002-10-19",6,"Mpumalanga",19.11
+"2002-10-19",7,"North West",18.96
+"2002-10-19",8,"Northern Cape",13.43
+"2002-10-19",9,"Western Cape (isolated islands)",5.01
+"2002-10-19",10,"Western Cape",9.15
+"2002-10-20",1,"Eastern Cape",7.46
+"2002-10-20",2,"Free State",12.55
+"2002-10-20",3,"Gauteng",16.15
+"2002-10-20",4,"KwaZulu-Natal",11.81
+"2002-10-20",5,"Limpopo",19.05
+"2002-10-20",6,"Mpumalanga",13.57
+"2002-10-20",7,"North West",18.21
+"2002-10-20",8,"Northern Cape",13.09
+"2002-10-20",9,"Western Cape (isolated islands)",2.79
+"2002-10-20",10,"Western Cape",8.7
+"2002-10-21",1,"Eastern Cape",15.41
+"2002-10-21",2,"Free State",17.29
+"2002-10-21",3,"Gauteng",12.71
+"2002-10-21",4,"KwaZulu-Natal",14.73
+"2002-10-21",5,"Limpopo",16.93
+"2002-10-21",6,"Mpumalanga",13.26
+"2002-10-21",7,"North West",18.59
+"2002-10-21",8,"Northern Cape",19.07
+"2002-10-21",9,"Western Cape (isolated islands)",6.76
+"2002-10-21",10,"Western Cape",14.41
+"2002-10-22",1,"Eastern Cape",12.56
+"2002-10-22",2,"Free State",17.74
+"2002-10-22",3,"Gauteng",17.76
+"2002-10-22",4,"KwaZulu-Natal",16.01
+"2002-10-22",5,"Limpopo",19.32
+"2002-10-22",6,"Mpumalanga",17.46
+"2002-10-22",7,"North West",20.7
+"2002-10-22",8,"Northern Cape",20.04
+"2002-10-22",9,"Western Cape (isolated islands)",4.96
+"2002-10-22",10,"Western Cape",12.79
+"2002-10-23",1,"Eastern Cape",21.31
+"2002-10-23",2,"Free State",17.14
+"2002-10-23",3,"Gauteng",16.39
+"2002-10-23",4,"KwaZulu-Natal",18.91
+"2002-10-23",5,"Limpopo",19.8
+"2002-10-23",6,"Mpumalanga",16.47
+"2002-10-23",7,"North West",18.09
+"2002-10-23",8,"Northern Cape",18.1
+"2002-10-23",9,"Western Cape (isolated islands)",5.65
+"2002-10-23",10,"Western Cape",16.63
+"2002-10-24",1,"Eastern Cape",10.28
+"2002-10-24",2,"Free State",13.58
+"2002-10-24",3,"Gauteng",16.01
+"2002-10-24",4,"KwaZulu-Natal",17.51
+"2002-10-24",5,"Limpopo",20.32
+"2002-10-24",6,"Mpumalanga",17.87
+"2002-10-24",7,"North West",16.91
+"2002-10-24",8,"Northern Cape",10.22
+"2002-10-24",9,"Western Cape (isolated islands)",4.57
+"2002-10-24",10,"Western Cape",9.23
+"2002-10-25",1,"Eastern Cape",7.21
+"2002-10-25",2,"Free State",8.34
+"2002-10-25",3,"Gauteng",13.7
+"2002-10-25",4,"KwaZulu-Natal",12.88
+"2002-10-25",5,"Limpopo",18.85
+"2002-10-25",6,"Mpumalanga",13.75
+"2002-10-25",7,"North West",14.15
+"2002-10-25",8,"Northern Cape",11.7
+"2002-10-25",9,"Western Cape (isolated islands)",4.29
+"2002-10-25",10,"Western Cape",10.26
+"2002-10-26",1,"Eastern Cape",10.1
+"2002-10-26",2,"Free State",11.72
+"2002-10-26",3,"Gauteng",16.66
+"2002-10-26",4,"KwaZulu-Natal",14.72
+"2002-10-26",5,"Limpopo",19.36
+"2002-10-26",6,"Mpumalanga",15.05
+"2002-10-26",7,"North West",16.75
+"2002-10-26",8,"Northern Cape",15.91
+"2002-10-26",9,"Western Cape (isolated islands)",4.01
+"2002-10-26",10,"Western Cape",13.17
+"2002-10-27",1,"Eastern Cape",14.66
+"2002-10-27",2,"Free State",17.77
+"2002-10-27",3,"Gauteng",16.49
+"2002-10-27",4,"KwaZulu-Natal",17.42
+"2002-10-27",5,"Limpopo",20.65
+"2002-10-27",6,"Mpumalanga",17.35
+"2002-10-27",7,"North West",18.1
+"2002-10-27",8,"Northern Cape",19.47
+"2002-10-27",9,"Western Cape (isolated islands)",4.48
+"2002-10-27",10,"Western Cape",13.58
+"2002-10-28",1,"Eastern Cape",14.03
+"2002-10-28",2,"Free State",15.71
+"2002-10-28",3,"Gauteng",17.08
+"2002-10-28",4,"KwaZulu-Natal",17.89
+"2002-10-28",5,"Limpopo",22.36
+"2002-10-28",6,"Mpumalanga",17.71
+"2002-10-28",7,"North West",19.78
+"2002-10-28",8,"Northern Cape",16.37
+"2002-10-28",9,"Western Cape (isolated islands)",3.47
+"2002-10-28",10,"Western Cape",12.62
+"2002-10-29",1,"Eastern Cape",14.14
+"2002-10-29",2,"Free State",13.15
+"2002-10-29",3,"Gauteng",15.58
+"2002-10-29",4,"KwaZulu-Natal",17.97
+"2002-10-29",5,"Limpopo",22.06
+"2002-10-29",6,"Mpumalanga",17.72
+"2002-10-29",7,"North West",14.8
+"2002-10-29",8,"Northern Cape",13.2
+"2002-10-29",9,"Western Cape (isolated islands)",7.26
+"2002-10-29",10,"Western Cape",12.31
+"2002-10-30",1,"Eastern Cape",7.64
+"2002-10-30",2,"Free State",11.94
+"2002-10-30",3,"Gauteng",15.62
+"2002-10-30",4,"KwaZulu-Natal",12.84
+"2002-10-30",5,"Limpopo",19.65
+"2002-10-30",6,"Mpumalanga",14.51
+"2002-10-30",7,"North West",15.39
+"2002-10-30",8,"Northern Cape",11.34
+"2002-10-30",9,"Western Cape (isolated islands)",1.53
+"2002-10-30",10,"Western Cape",7.94
+"2002-10-31",1,"Eastern Cape",9.3
+"2002-10-31",2,"Free State",11.08
+"2002-10-31",3,"Gauteng",10.99
+"2002-10-31",4,"KwaZulu-Natal",11.48
+"2002-10-31",5,"Limpopo",14.95
+"2002-10-31",6,"Mpumalanga",10.5
+"2002-10-31",7,"North West",14.91
+"2002-10-31",8,"Northern Cape",15.43
+"2002-10-31",9,"Western Cape (isolated islands)",5.52
+"2002-10-31",10,"Western Cape",11.18
+"2002-11-01",1,"Eastern Cape",14.3
+"2002-11-01",2,"Free State",13.88
+"2002-11-01",3,"Gauteng",14.02
+"2002-11-01",4,"KwaZulu-Natal",13.77
+"2002-11-01",5,"Limpopo",16.66
+"2002-11-01",6,"Mpumalanga",13.58
+"2002-11-01",7,"North West",16.11
+"2002-11-01",8,"Northern Cape",18.81
+"2002-11-01",9,"Western Cape (isolated islands)",3.22
+"2002-11-01",10,"Western Cape",15.35
+"2002-11-02",1,"Eastern Cape",16.94
+"2002-11-02",2,"Free State",14.39
+"2002-11-02",3,"Gauteng",14.76
+"2002-11-02",4,"KwaZulu-Natal",16.69
+"2002-11-02",5,"Limpopo",18.35
+"2002-11-02",6,"Mpumalanga",14.87
+"2002-11-02",7,"North West",16.17
+"2002-11-02",8,"Northern Cape",15.95
+"2002-11-02",9,"Western Cape (isolated islands)",6.83
+"2002-11-02",10,"Western Cape",16.69
+"2002-11-03",1,"Eastern Cape",15.27
+"2002-11-03",2,"Free State",13.46
+"2002-11-03",3,"Gauteng",13.03
+"2002-11-03",4,"KwaZulu-Natal",16.59
+"2002-11-03",5,"Limpopo",18.24
+"2002-11-03",6,"Mpumalanga",15.21
+"2002-11-03",7,"North West",14.72
+"2002-11-03",8,"Northern Cape",15.44
+"2002-11-03",9,"Western Cape (isolated islands)",4.8
+"2002-11-03",10,"Western Cape",14.15
+"2002-11-04",1,"Eastern Cape",14.46
+"2002-11-04",2,"Free State",14.74
+"2002-11-04",3,"Gauteng",17.95
+"2002-11-04",4,"KwaZulu-Natal",19.56
+"2002-11-04",5,"Limpopo",22.22
+"2002-11-04",6,"Mpumalanga",18.51
+"2002-11-04",7,"North West",16.39
+"2002-11-04",8,"Northern Cape",11.26
+"2002-11-04",9,"Western Cape (isolated islands)",2.46
+"2002-11-04",10,"Western Cape",10.47
+"2002-11-05",1,"Eastern Cape",6.83
+"2002-11-05",2,"Free State",8.78
+"2002-11-05",3,"Gauteng",12.29
+"2002-11-05",4,"KwaZulu-Natal",12.79
+"2002-11-05",5,"Limpopo",20.47
+"2002-11-05",6,"Mpumalanga",15.11
+"2002-11-05",7,"North West",11.17
+"2002-11-05",8,"Northern Cape",7.75
+"2002-11-05",9,"Western Cape (isolated islands)",1.88
+"2002-11-05",10,"Western Cape",7.34
+"2002-11-06",1,"Eastern Cape",4.85
+"2002-11-06",2,"Free State",5.5
+"2002-11-06",3,"Gauteng",11.04
+"2002-11-06",4,"KwaZulu-Natal",8.49
+"2002-11-06",5,"Limpopo",15.59
+"2002-11-06",6,"Mpumalanga",9.79
+"2002-11-06",7,"North West",9.55
+"2002-11-06",8,"Northern Cape",7.94
+"2002-11-06",9,"Western Cape (isolated islands)",2.12
+"2002-11-06",10,"Western Cape",7.13
+"2002-11-07",1,"Eastern Cape",6.31
+"2002-11-07",2,"Free State",6.74
+"2002-11-07",3,"Gauteng",6.24
+"2002-11-07",4,"KwaZulu-Natal",7.43
+"2002-11-07",5,"Limpopo",12.03
+"2002-11-07",6,"Mpumalanga",6.63
+"2002-11-07",7,"North West",11.03
+"2002-11-07",8,"Northern Cape",11.4
+"2002-11-07",9,"Western Cape (isolated islands)",5.11
+"2002-11-07",10,"Western Cape",11.03
+"2002-11-08",1,"Eastern Cape",11.58
+"2002-11-08",2,"Free State",9.81
+"2002-11-08",3,"Gauteng",11.14
+"2002-11-08",4,"KwaZulu-Natal",10.6
+"2002-11-08",5,"Limpopo",13.02
+"2002-11-08",6,"Mpumalanga",9.45
+"2002-11-08",7,"North West",12.42
+"2002-11-08",8,"Northern Cape",16.33
+"2002-11-08",9,"Western Cape (isolated islands)",4.97
+"2002-11-08",10,"Western Cape",14.57
+"2002-11-09",1,"Eastern Cape",11.95
+"2002-11-09",2,"Free State",15.25
+"2002-11-09",3,"Gauteng",14.74
+"2002-11-09",4,"KwaZulu-Natal",15.99
+"2002-11-09",5,"Limpopo",16.2
+"2002-11-09",6,"Mpumalanga",14.98
+"2002-11-09",7,"North West",15.88
+"2002-11-09",8,"Northern Cape",15.34
+"2002-11-09",9,"Western Cape (isolated islands)",2.89
+"2002-11-09",10,"Western Cape",12.76
+"2002-11-10",1,"Eastern Cape",7.65
+"2002-11-10",2,"Free State",10.75
+"2002-11-10",3,"Gauteng",15.91
+"2002-11-10",4,"KwaZulu-Natal",12.58
+"2002-11-10",5,"Limpopo",18.55
+"2002-11-10",6,"Mpumalanga",14.85
+"2002-11-10",7,"North West",15.63
+"2002-11-10",8,"Northern Cape",12.2
+"2002-11-10",9,"Western Cape (isolated islands)",2.88
+"2002-11-10",10,"Western Cape",8.33
+"2002-11-11",1,"Eastern Cape",8.42
+"2002-11-11",2,"Free State",10.9
+"2002-11-11",3,"Gauteng",11.61
+"2002-11-11",4,"KwaZulu-Natal",12.18
+"2002-11-11",5,"Limpopo",15.69
+"2002-11-11",6,"Mpumalanga",11.64
+"2002-11-11",7,"North West",15.79
+"2002-11-11",8,"Northern Cape",14.48
+"2002-11-11",9,"Western Cape (isolated islands)",2.23
+"2002-11-11",10,"Western Cape",11.73
+"2002-11-12",1,"Eastern Cape",13.67
+"2002-11-12",2,"Free State",13.55
+"2002-11-12",3,"Gauteng",13.17
+"2002-11-12",4,"KwaZulu-Natal",13.06
+"2002-11-12",5,"Limpopo",16.31
+"2002-11-12",6,"Mpumalanga",12.07
+"2002-11-12",7,"North West",15.99
+"2002-11-12",8,"Northern Cape",18.3
+"2002-11-12",9,"Western Cape (isolated islands)",5.01
+"2002-11-12",10,"Western Cape",15.73
+"2002-11-13",1,"Eastern Cape",17.79
+"2002-11-13",2,"Free State",15.16
+"2002-11-13",3,"Gauteng",15.84
+"2002-11-13",4,"KwaZulu-Natal",17.6
+"2002-11-13",5,"Limpopo",17.48
+"2002-11-13",6,"Mpumalanga",15.06
+"2002-11-13",7,"North West",16.68
+"2002-11-13",8,"Northern Cape",16.59
+"2002-11-13",9,"Western Cape (isolated islands)",7.14
+"2002-11-13",10,"Western Cape",14.7
+"2002-11-14",1,"Eastern Cape",11.47
+"2002-11-14",2,"Free State",14.15
+"2002-11-14",3,"Gauteng",17.5
+"2002-11-14",4,"KwaZulu-Natal",15.68
+"2002-11-14",5,"Limpopo",20.88
+"2002-11-14",6,"Mpumalanga",17.39
+"2002-11-14",7,"North West",16.44
+"2002-11-14",8,"Northern Cape",12.23
+"2002-11-14",9,"Western Cape (isolated islands)",4.26
+"2002-11-14",10,"Western Cape",11.82
+"2002-11-15",1,"Eastern Cape",9.91
+"2002-11-15",2,"Free State",11.13
+"2002-11-15",3,"Gauteng",13.05
+"2002-11-15",4,"KwaZulu-Natal",13.08
+"2002-11-15",5,"Limpopo",17.19
+"2002-11-15",6,"Mpumalanga",12.77
+"2002-11-15",7,"North West",14.31
+"2002-11-15",8,"Northern Cape",14.02
+"2002-11-15",9,"Western Cape (isolated islands)",4.28
+"2002-11-15",10,"Western Cape",10.88
+"2002-11-16",1,"Eastern Cape",14.44
+"2002-11-16",2,"Free State",14.97
+"2002-11-16",3,"Gauteng",15.21
+"2002-11-16",4,"KwaZulu-Natal",15.88
+"2002-11-16",5,"Limpopo",18.3
+"2002-11-16",6,"Mpumalanga",14.83
+"2002-11-16",7,"North West",17.06
+"2002-11-16",8,"Northern Cape",15.75
+"2002-11-16",9,"Western Cape (isolated islands)",6.83
+"2002-11-16",10,"Western Cape",13.59
+"2002-11-17",1,"Eastern Cape",13.01
+"2002-11-17",2,"Free State",15.93
+"2002-11-17",3,"Gauteng",18.81
+"2002-11-17",4,"KwaZulu-Natal",17.49
+"2002-11-17",5,"Limpopo",20.87
+"2002-11-17",6,"Mpumalanga",17.99
+"2002-11-17",7,"North West",19.18
+"2002-11-17",8,"Northern Cape",12.99
+"2002-11-17",9,"Western Cape (isolated islands)",5.87
+"2002-11-17",10,"Western Cape",11.83
+"2002-11-18",1,"Eastern Cape",13.11
+"2002-11-18",2,"Free State",16.58
+"2002-11-18",3,"Gauteng",14.97
+"2002-11-18",4,"KwaZulu-Natal",13.98
+"2002-11-18",5,"Limpopo",18.19
+"2002-11-18",6,"Mpumalanga",13.78
+"2002-11-18",7,"North West",19.09
+"2002-11-18",8,"Northern Cape",17.47
+"2002-11-18",9,"Western Cape (isolated islands)",6.18
+"2002-11-18",10,"Western Cape",13.07
+"2002-11-19",1,"Eastern Cape",15.17
+"2002-11-19",2,"Free State",16.84
+"2002-11-19",3,"Gauteng",15.51
+"2002-11-19",4,"KwaZulu-Natal",17.72
+"2002-11-19",5,"Limpopo",18.88
+"2002-11-19",6,"Mpumalanga",16.01
+"2002-11-19",7,"North West",19.45
+"2002-11-19",8,"Northern Cape",19.26
+"2002-11-19",9,"Western Cape (isolated islands)",5.8
+"2002-11-19",10,"Western Cape",13.85
+"2002-11-20",1,"Eastern Cape",19.02
+"2002-11-20",2,"Free State",18.39
+"2002-11-20",3,"Gauteng",18.18
+"2002-11-20",4,"KwaZulu-Natal",20.28
+"2002-11-20",5,"Limpopo",20.23
+"2002-11-20",6,"Mpumalanga",16.76
+"2002-11-20",7,"North West",19.83
+"2002-11-20",8,"Northern Cape",16.07
+"2002-11-20",9,"Western Cape (isolated islands)",8.41
+"2002-11-20",10,"Western Cape",15.1
+"2002-11-21",1,"Eastern Cape",12.61
+"2002-11-21",2,"Free State",14.46
+"2002-11-21",3,"Gauteng",17.01
+"2002-11-21",4,"KwaZulu-Natal",16.37
+"2002-11-21",5,"Limpopo",22.7
+"2002-11-21",6,"Mpumalanga",17.44
+"2002-11-21",7,"North West",18.33
+"2002-11-21",8,"Northern Cape",14.85
+"2002-11-21",9,"Western Cape (isolated islands)",3.32
+"2002-11-21",10,"Western Cape",10.73
+"2002-11-22",1,"Eastern Cape",15.99
+"2002-11-22",2,"Free State",18.01
+"2002-11-22",3,"Gauteng",16.42
+"2002-11-22",4,"KwaZulu-Natal",17.68
+"2002-11-22",5,"Limpopo",18.64
+"2002-11-22",6,"Mpumalanga",15.89
+"2002-11-22",7,"North West",19.4
+"2002-11-22",8,"Northern Cape",18.82
+"2002-11-22",9,"Western Cape (isolated islands)",6.37
+"2002-11-22",10,"Western Cape",15.1
+"2002-11-23",1,"Eastern Cape",15.7
+"2002-11-23",2,"Free State",19.61
+"2002-11-23",3,"Gauteng",18.13
+"2002-11-23",4,"KwaZulu-Natal",19.11
+"2002-11-23",5,"Limpopo",19.12
+"2002-11-23",6,"Mpumalanga",16.81
+"2002-11-23",7,"North West",20.86
+"2002-11-23",8,"Northern Cape",16.89
+"2002-11-23",9,"Western Cape (isolated islands)",3.53
+"2002-11-23",10,"Western Cape",13.29
+"2002-11-24",1,"Eastern Cape",7.61
+"2002-11-24",2,"Free State",11.69
+"2002-11-24",3,"Gauteng",15.14
+"2002-11-24",4,"KwaZulu-Natal",13.46
+"2002-11-24",5,"Limpopo",21.3
+"2002-11-24",6,"Mpumalanga",15.66
+"2002-11-24",7,"North West",16.28
+"2002-11-24",8,"Northern Cape",13.19
+"2002-11-24",9,"Western Cape (isolated islands)",2.49
+"2002-11-24",10,"Western Cape",9.56
+"2002-11-25",1,"Eastern Cape",7.34
+"2002-11-25",2,"Free State",8.52
+"2002-11-25",3,"Gauteng",11.27
+"2002-11-25",4,"KwaZulu-Natal",9.2
+"2002-11-25",5,"Limpopo",14.55
+"2002-11-25",6,"Mpumalanga",9.13
+"2002-11-25",7,"North West",13.62
+"2002-11-25",8,"Northern Cape",16.22
+"2002-11-25",9,"Western Cape (isolated islands)",4.22
+"2002-11-25",10,"Western Cape",13.46
+"2002-11-26",1,"Eastern Cape",9.3
+"2002-11-26",2,"Free State",12.27
+"2002-11-26",3,"Gauteng",13.6
+"2002-11-26",4,"KwaZulu-Natal",11.15
+"2002-11-26",5,"Limpopo",16.41
+"2002-11-26",6,"Mpumalanga",10.99
+"2002-11-26",7,"North West",15.84
+"2002-11-26",8,"Northern Cape",18.33
+"2002-11-26",9,"Western Cape (isolated islands)",4.99
+"2002-11-26",10,"Western Cape",15.38
+"2002-11-27",1,"Eastern Cape",11.81
+"2002-11-27",2,"Free State",15.68
+"2002-11-27",3,"Gauteng",14.27
+"2002-11-27",4,"KwaZulu-Natal",11.39
+"2002-11-27",5,"Limpopo",16.08
+"2002-11-27",6,"Mpumalanga",11.74
+"2002-11-27",7,"North West",20.34
+"2002-11-27",8,"Northern Cape",20.47
+"2002-11-27",9,"Western Cape (isolated islands)",5.35
+"2002-11-27",10,"Western Cape",16.44
+"2002-11-28",1,"Eastern Cape",18.72
+"2002-11-28",2,"Free State",20.07
+"2002-11-28",3,"Gauteng",17.26
+"2002-11-28",4,"KwaZulu-Natal",17.2
+"2002-11-28",5,"Limpopo",16.79
+"2002-11-28",6,"Mpumalanga",14.84
+"2002-11-28",7,"North West",20.47
+"2002-11-28",8,"Northern Cape",20.44
+"2002-11-28",9,"Western Cape (isolated islands)",6.42
+"2002-11-28",10,"Western Cape",16.48
+"2002-11-29",1,"Eastern Cape",12.79
+"2002-11-29",2,"Free State",15.7
+"2002-11-29",3,"Gauteng",18.7
+"2002-11-29",4,"KwaZulu-Natal",17.24
+"2002-11-29",5,"Limpopo",22.33
+"2002-11-29",6,"Mpumalanga",18.87
+"2002-11-29",7,"North West",18.19
+"2002-11-29",8,"Northern Cape",14.74
+"2002-11-29",9,"Western Cape (isolated islands)",4.69
+"2002-11-29",10,"Western Cape",11.67
+"2002-11-30",1,"Eastern Cape",9.73
+"2002-11-30",2,"Free State",14.1
+"2002-11-30",3,"Gauteng",17.99
+"2002-11-30",4,"KwaZulu-Natal",13.25
+"2002-11-30",5,"Limpopo",20.3
+"2002-11-30",6,"Mpumalanga",14.87
+"2002-11-30",7,"North West",19.5
+"2002-11-30",8,"Northern Cape",18.05
+"2002-11-30",9,"Western Cape (isolated islands)",4.79
+"2002-11-30",10,"Western Cape",13.45
+"2002-12-01",1,"Eastern Cape",13.99
+"2002-12-01",2,"Free State",17.18
+"2002-12-01",3,"Gauteng",17.32
+"2002-12-01",4,"KwaZulu-Natal",14.03
+"2002-12-01",5,"Limpopo",18.84
+"2002-12-01",6,"Mpumalanga",15.02
+"2002-12-01",7,"North West",20.66
+"2002-12-01",8,"Northern Cape",21.2
+"2002-12-01",9,"Western Cape (isolated islands)",3.21
+"2002-12-01",10,"Western Cape",16.63
+"2002-12-02",1,"Eastern Cape",17.46
+"2002-12-02",2,"Free State",18.69
+"2002-12-02",3,"Gauteng",17.65
+"2002-12-02",4,"KwaZulu-Natal",17.71
+"2002-12-02",5,"Limpopo",21.17
+"2002-12-02",6,"Mpumalanga",17.24
+"2002-12-02",7,"North West",21.72
+"2002-12-02",8,"Northern Cape",22.17
+"2002-12-02",9,"Western Cape (isolated islands)",4.33
+"2002-12-02",10,"Western Cape",16.74
+"2002-12-03",1,"Eastern Cape",18.08
+"2002-12-03",2,"Free State",19.01
+"2002-12-03",3,"Gauteng",20.49
+"2002-12-03",4,"KwaZulu-Natal",19.64
+"2002-12-03",5,"Limpopo",22.01
+"2002-12-03",6,"Mpumalanga",18.17
+"2002-12-03",7,"North West",19.94
+"2002-12-03",8,"Northern Cape",17.84
+"2002-12-03",9,"Western Cape (isolated islands)",6.04
+"2002-12-03",10,"Western Cape",17.94
+"2002-12-04",1,"Eastern Cape",15.17
+"2002-12-04",2,"Free State",14.86
+"2002-12-04",3,"Gauteng",19.35
+"2002-12-04",4,"KwaZulu-Natal",17.1
+"2002-12-04",5,"Limpopo",22.5
+"2002-12-04",6,"Mpumalanga",17.99
+"2002-12-04",7,"North West",18.04
+"2002-12-04",8,"Northern Cape",17.64
+"2002-12-04",9,"Western Cape (isolated islands)",5.08
+"2002-12-04",10,"Western Cape",17.45
+"2002-12-05",1,"Eastern Cape",14.25
+"2002-12-05",2,"Free State",14.7
+"2002-12-05",3,"Gauteng",15.43
+"2002-12-05",4,"KwaZulu-Natal",16.43
+"2002-12-05",5,"Limpopo",18.77
+"2002-12-05",6,"Mpumalanga",15.74
+"2002-12-05",7,"North West",17.09
+"2002-12-05",8,"Northern Cape",20.62
+"2002-12-05",9,"Western Cape (isolated islands)",6.76
+"2002-12-05",10,"Western Cape",18.81
+"2002-12-06",1,"Eastern Cape",16.16
+"2002-12-06",2,"Free State",15.06
+"2002-12-06",3,"Gauteng",13.93
+"2002-12-06",4,"KwaZulu-Natal",17.66
+"2002-12-06",5,"Limpopo",18.35
+"2002-12-06",6,"Mpumalanga",15.67
+"2002-12-06",7,"North West",15.51
+"2002-12-06",8,"Northern Cape",22.19
+"2002-12-06",9,"Western Cape (isolated islands)",3.37
+"2002-12-06",10,"Western Cape",20.95
+"2002-12-07",1,"Eastern Cape",17.18
+"2002-12-07",2,"Free State",14.44
+"2002-12-07",3,"Gauteng",14.13
+"2002-12-07",4,"KwaZulu-Natal",16.71
+"2002-12-07",5,"Limpopo",18.23
+"2002-12-07",6,"Mpumalanga",15.17
+"2002-12-07",7,"North West",16.18
+"2002-12-07",8,"Northern Cape",22.64
+"2002-12-07",9,"Western Cape (isolated islands)",4.03
+"2002-12-07",10,"Western Cape",21.65
+"2002-12-08",1,"Eastern Cape",20.63
+"2002-12-08",2,"Free State",15.5
+"2002-12-08",3,"Gauteng",14.54
+"2002-12-08",4,"KwaZulu-Natal",16.55
+"2002-12-08",5,"Limpopo",18.32
+"2002-12-08",6,"Mpumalanga",15.04
+"2002-12-08",7,"North West",17.23
+"2002-12-08",8,"Northern Cape",22.02
+"2002-12-08",9,"Western Cape (isolated islands)",6.88
+"2002-12-08",10,"Western Cape",20.99
+"2002-12-09",1,"Eastern Cape",16.97
+"2002-12-09",2,"Free State",15.02
+"2002-12-09",3,"Gauteng",15.47
+"2002-12-09",4,"KwaZulu-Natal",18.16
+"2002-12-09",5,"Limpopo",20.69
+"2002-12-09",6,"Mpumalanga",16.02
+"2002-12-09",7,"North West",17.81
+"2002-12-09",8,"Northern Cape",19.41
+"2002-12-09",9,"Western Cape (isolated islands)",3.91
+"2002-12-09",10,"Western Cape",16.38
+"2002-12-10",1,"Eastern Cape",12.83
+"2002-12-10",2,"Free State",15.39
+"2002-12-10",3,"Gauteng",15.31
+"2002-12-10",4,"KwaZulu-Natal",15.48
+"2002-12-10",5,"Limpopo",20.16
+"2002-12-10",6,"Mpumalanga",16.08
+"2002-12-10",7,"North West",17.08
+"2002-12-10",8,"Northern Cape",19.95
+"2002-12-10",9,"Western Cape (isolated islands)",3.32
+"2002-12-10",10,"Western Cape",16.89
+"2002-12-11",1,"Eastern Cape",15.17
+"2002-12-11",2,"Free State",15.09
+"2002-12-11",3,"Gauteng",14.91
+"2002-12-11",4,"KwaZulu-Natal",14.05
+"2002-12-11",5,"Limpopo",18.57
+"2002-12-11",6,"Mpumalanga",14.54
+"2002-12-11",7,"North West",17.49
+"2002-12-11",8,"Northern Cape",18.83
+"2002-12-11",9,"Western Cape (isolated islands)",5.28
+"2002-12-11",10,"Western Cape",19.2
+"2002-12-12",1,"Eastern Cape",17.41
+"2002-12-12",2,"Free State",15.48
+"2002-12-12",3,"Gauteng",15.72
+"2002-12-12",4,"KwaZulu-Natal",17.74
+"2002-12-12",5,"Limpopo",19.94
+"2002-12-12",6,"Mpumalanga",14.98
+"2002-12-12",7,"North West",18.51
+"2002-12-12",8,"Northern Cape",16.42
+"2002-12-12",9,"Western Cape (isolated islands)",7.71
+"2002-12-12",10,"Western Cape",17.22
+"2002-12-13",1,"Eastern Cape",15.52
+"2002-12-13",2,"Free State",14.08
+"2002-12-13",3,"Gauteng",15.5
+"2002-12-13",4,"KwaZulu-Natal",18.79
+"2002-12-13",5,"Limpopo",20.92
+"2002-12-13",6,"Mpumalanga",16.34
+"2002-12-13",7,"North West",15.41
+"2002-12-13",8,"Northern Cape",15.49
+"2002-12-13",9,"Western Cape (isolated islands)",4.7
+"2002-12-13",10,"Western Cape",17.72
+"2002-12-14",1,"Eastern Cape",15.2
+"2002-12-14",2,"Free State",14.47
+"2002-12-14",3,"Gauteng",16.21
+"2002-12-14",4,"KwaZulu-Natal",17.97
+"2002-12-14",5,"Limpopo",22.12
+"2002-12-14",6,"Mpumalanga",17.25
+"2002-12-14",7,"North West",17.35
+"2002-12-14",8,"Northern Cape",17.93
+"2002-12-14",9,"Western Cape (isolated islands)",7.79
+"2002-12-14",10,"Western Cape",16.94
+"2002-12-15",1,"Eastern Cape",16.52
+"2002-12-15",2,"Free State",16.05
+"2002-12-15",3,"Gauteng",17.39
+"2002-12-15",4,"KwaZulu-Natal",19.96
+"2002-12-15",5,"Limpopo",23.09
+"2002-12-15",6,"Mpumalanga",18.64
+"2002-12-15",7,"North West",18.29
+"2002-12-15",8,"Northern Cape",17.46
+"2002-12-15",9,"Western Cape (isolated islands)",4.09
+"2002-12-15",10,"Western Cape",15.61
+"2002-12-16",1,"Eastern Cape",14.98
+"2002-12-16",2,"Free State",17.1
+"2002-12-16",3,"Gauteng",19.5
+"2002-12-16",4,"KwaZulu-Natal",19.15
+"2002-12-16",5,"Limpopo",24.02
+"2002-12-16",6,"Mpumalanga",19.08
+"2002-12-16",7,"North West",21.96
+"2002-12-16",8,"Northern Cape",17.94
+"2002-12-16",9,"Western Cape (isolated islands)",3.48
+"2002-12-16",10,"Western Cape",14.64
+"2002-12-17",1,"Eastern Cape",18.32
+"2002-12-17",2,"Free State",17.75
+"2002-12-17",3,"Gauteng",17.22
+"2002-12-17",4,"KwaZulu-Natal",20.48
+"2002-12-17",5,"Limpopo",21.5
+"2002-12-17",6,"Mpumalanga",17.58
+"2002-12-17",7,"North West",20.1
+"2002-12-17",8,"Northern Cape",16.27
+"2002-12-17",9,"Western Cape (isolated islands)",5.91
+"2002-12-17",10,"Western Cape",15.23
+"2002-12-18",1,"Eastern Cape",13.88
+"2002-12-18",2,"Free State",15.25
+"2002-12-18",3,"Gauteng",16.77
+"2002-12-18",4,"KwaZulu-Natal",17.86
+"2002-12-18",5,"Limpopo",21.51
+"2002-12-18",6,"Mpumalanga",17.68
+"2002-12-18",7,"North West",17.57
+"2002-12-18",8,"Northern Cape",14.98
+"2002-12-18",9,"Western Cape (isolated islands)",5.06
+"2002-12-18",10,"Western Cape",12.22
+"2002-12-19",1,"Eastern Cape",13.72
+"2002-12-19",2,"Free State",15.43
+"2002-12-19",3,"Gauteng",15.85
+"2002-12-19",4,"KwaZulu-Natal",16.21
+"2002-12-19",5,"Limpopo",19.13
+"2002-12-19",6,"Mpumalanga",14.56
+"2002-12-19",7,"North West",18.06
+"2002-12-19",8,"Northern Cape",17.76
+"2002-12-19",9,"Western Cape (isolated islands)",5.83
+"2002-12-19",10,"Western Cape",13.7
+"2002-12-20",1,"Eastern Cape",16.11
+"2002-12-20",2,"Free State",15.84
+"2002-12-20",3,"Gauteng",15.69
+"2002-12-20",4,"KwaZulu-Natal",17.72
+"2002-12-20",5,"Limpopo",20.65
+"2002-12-20",6,"Mpumalanga",16.68
+"2002-12-20",7,"North West",18.25
+"2002-12-20",8,"Northern Cape",19.9
+"2002-12-20",9,"Western Cape (isolated islands)",5.79
+"2002-12-20",10,"Western Cape",16.77
+"2002-12-21",1,"Eastern Cape",17.45
+"2002-12-21",2,"Free State",16.87
+"2002-12-21",3,"Gauteng",16.08
+"2002-12-21",4,"KwaZulu-Natal",18.59
+"2002-12-21",5,"Limpopo",20.33
+"2002-12-21",6,"Mpumalanga",17.03
+"2002-12-21",7,"North West",18.85
+"2002-12-21",8,"Northern Cape",22.89
+"2002-12-21",9,"Western Cape (isolated islands)",8.16
+"2002-12-21",10,"Western Cape",21.18
+"2002-12-22",1,"Eastern Cape",19.32
+"2002-12-22",2,"Free State",16.77
+"2002-12-22",3,"Gauteng",17.35
+"2002-12-22",4,"KwaZulu-Natal",19.6
+"2002-12-22",5,"Limpopo",20.55
+"2002-12-22",6,"Mpumalanga",17.21
+"2002-12-22",7,"North West",19.07
+"2002-12-22",8,"Northern Cape",18.73
+"2002-12-22",9,"Western Cape (isolated islands)",3.92
+"2002-12-22",10,"Western Cape",18.5
+"2002-12-23",1,"Eastern Cape",16.28
+"2002-12-23",2,"Free State",15.65
+"2002-12-23",3,"Gauteng",17.49
+"2002-12-23",4,"KwaZulu-Natal",18.83
+"2002-12-23",5,"Limpopo",21.5
+"2002-12-23",6,"Mpumalanga",16.84
+"2002-12-23",7,"North West",19.93
+"2002-12-23",8,"Northern Cape",16.94
+"2002-12-23",9,"Western Cape (isolated islands)",5.27
+"2002-12-23",10,"Western Cape",17.37
+"2002-12-24",1,"Eastern Cape",17.75
+"2002-12-24",2,"Free State",15.77
+"2002-12-24",3,"Gauteng",16.98
+"2002-12-24",4,"KwaZulu-Natal",18.66
+"2002-12-24",5,"Limpopo",22.71
+"2002-12-24",6,"Mpumalanga",17.82
+"2002-12-24",7,"North West",18.92
+"2002-12-24",8,"Northern Cape",19.08
+"2002-12-24",9,"Western Cape (isolated islands)",3.49
+"2002-12-24",10,"Western Cape",18.8
+"2002-12-25",1,"Eastern Cape",16.34
+"2002-12-25",2,"Free State",16.49
+"2002-12-25",3,"Gauteng",17.35
+"2002-12-25",4,"KwaZulu-Natal",17.21
+"2002-12-25",5,"Limpopo",21.27
+"2002-12-25",6,"Mpumalanga",17.83
+"2002-12-25",7,"North West",19.83
+"2002-12-25",8,"Northern Cape",20.67
+"2002-12-25",9,"Western Cape (isolated islands)",3.53
+"2002-12-25",10,"Western Cape",18.14
+"2002-12-26",1,"Eastern Cape",15.29
+"2002-12-26",2,"Free State",16.95
+"2002-12-26",3,"Gauteng",19.02
+"2002-12-26",4,"KwaZulu-Natal",18.59
+"2002-12-26",5,"Limpopo",22.36
+"2002-12-26",6,"Mpumalanga",18.6
+"2002-12-26",7,"North West",21.51
+"2002-12-26",8,"Northern Cape",21.18
+"2002-12-26",9,"Western Cape (isolated islands)",5.08
+"2002-12-26",10,"Western Cape",15.81
+"2002-12-27",1,"Eastern Cape",12.68
+"2002-12-27",2,"Free State",16.26
+"2002-12-27",3,"Gauteng",15.74
+"2002-12-27",4,"KwaZulu-Natal",15.84
+"2002-12-27",5,"Limpopo",20.64
+"2002-12-27",6,"Mpumalanga",16.94
+"2002-12-27",7,"North West",20.02
+"2002-12-27",8,"Northern Cape",21.39
+"2002-12-27",9,"Western Cape (isolated islands)",5.72
+"2002-12-27",10,"Western Cape",15.98
+"2002-12-28",1,"Eastern Cape",15.63
+"2002-12-28",2,"Free State",16.04
+"2002-12-28",3,"Gauteng",15.26
+"2002-12-28",4,"KwaZulu-Natal",18.3
+"2002-12-28",5,"Limpopo",20.02
+"2002-12-28",6,"Mpumalanga",16.67
+"2002-12-28",7,"North West",17.86
+"2002-12-28",8,"Northern Cape",19.67
+"2002-12-28",9,"Western Cape (isolated islands)",4.31
+"2002-12-28",10,"Western Cape",16.33
+"2002-12-29",1,"Eastern Cape",18.16
+"2002-12-29",2,"Free State",16.33
+"2002-12-29",3,"Gauteng",16.56
+"2002-12-29",4,"KwaZulu-Natal",19.71
+"2002-12-29",5,"Limpopo",21.95
+"2002-12-29",6,"Mpumalanga",17.72
+"2002-12-29",7,"North West",17.61
+"2002-12-29",8,"Northern Cape",18.44
+"2002-12-29",9,"Western Cape (isolated islands)",6.13
+"2002-12-29",10,"Western Cape",17.73
+"2002-12-30",1,"Eastern Cape",18.43
+"2002-12-30",2,"Free State",17.46
+"2002-12-30",3,"Gauteng",15.98
+"2002-12-30",4,"KwaZulu-Natal",20.53
+"2002-12-30",5,"Limpopo",21.24
+"2002-12-30",6,"Mpumalanga",17.92
+"2002-12-30",7,"North West",19.04
+"2002-12-30",8,"Northern Cape",20.04
+"2002-12-30",9,"Western Cape (isolated islands)",6.14
+"2002-12-30",10,"Western Cape",16.69
+"2002-12-31",1,"Eastern Cape",17.71
+"2002-12-31",2,"Free State",18.99
+"2002-12-31",3,"Gauteng",16.85
+"2002-12-31",4,"KwaZulu-Natal",20.13
+"2002-12-31",5,"Limpopo",20.6
+"2002-12-31",6,"Mpumalanga",18
+"2002-12-31",7,"North West",20.57
+"2002-12-31",8,"Northern Cape",21.84
+"2002-12-31",9,"Western Cape (isolated islands)",6.51
+"2002-12-31",10,"Western Cape",16.82

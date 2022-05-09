@@ -1,0 +1,4016 @@
+"date","ID_1","NAME_1","t2m"
+"2005-01-01",1,"Addis Ababa",4.71
+"2005-01-01",2,"Afar",17.46
+"2005-01-01",3,"Amhara",12.08
+"2005-01-01",4,"Benshangul-Gumaz",20.27
+"2005-01-01",5,"Dire Dawa",9.29
+"2005-01-01",6,"Gambela Peoples",24.33
+"2005-01-01",7,"Harari People",9.98
+"2005-01-01",8,"Oromia",13.63
+"2005-01-01",9,"Somali",16.69
+"2005-01-01",10,"Southern Nations, Nationalities and Peoples",16.58
+"2005-01-01",11,"Tigray",13.17
+"2005-01-02",1,"Addis Ababa",4.33
+"2005-01-02",2,"Afar",16.99
+"2005-01-02",3,"Amhara",12.4
+"2005-01-02",4,"Benshangul-Gumaz",19.79
+"2005-01-02",5,"Dire Dawa",11.31
+"2005-01-02",6,"Gambela Peoples",23.68
+"2005-01-02",7,"Harari People",10.23
+"2005-01-02",8,"Oromia",13.37
+"2005-01-02",9,"Somali",16.49
+"2005-01-02",10,"Southern Nations, Nationalities and Peoples",16.34
+"2005-01-02",11,"Tigray",12.32
+"2005-01-03",1,"Addis Ababa",3.4
+"2005-01-03",2,"Afar",16.73
+"2005-01-03",3,"Amhara",11.82
+"2005-01-03",4,"Benshangul-Gumaz",19.26
+"2005-01-03",5,"Dire Dawa",10.56
+"2005-01-03",6,"Gambela Peoples",23
+"2005-01-03",7,"Harari People",10.83
+"2005-01-03",8,"Oromia",12.67
+"2005-01-03",9,"Somali",16.26
+"2005-01-03",10,"Southern Nations, Nationalities and Peoples",15.39
+"2005-01-03",11,"Tigray",11.89
+"2005-01-04",1,"Addis Ababa",9.36
+"2005-01-04",2,"Afar",18.3
+"2005-01-04",3,"Amhara",12.74
+"2005-01-04",4,"Benshangul-Gumaz",18.8
+"2005-01-04",5,"Dire Dawa",14.77
+"2005-01-04",6,"Gambela Peoples",23.77
+"2005-01-04",7,"Harari People",13.5
+"2005-01-04",8,"Oromia",14.35
+"2005-01-04",9,"Somali",17.7
+"2005-01-04",10,"Southern Nations, Nationalities and Peoples",16.33
+"2005-01-04",11,"Tigray",13.78
+"2005-01-05",1,"Addis Ababa",7.26
+"2005-01-05",2,"Afar",18.24
+"2005-01-05",3,"Amhara",12.09
+"2005-01-05",4,"Benshangul-Gumaz",18.26
+"2005-01-05",5,"Dire Dawa",13.31
+"2005-01-05",6,"Gambela Peoples",24.34
+"2005-01-05",7,"Harari People",11.92
+"2005-01-05",8,"Oromia",13.83
+"2005-01-05",9,"Somali",17.84
+"2005-01-05",10,"Southern Nations, Nationalities and Peoples",16.42
+"2005-01-05",11,"Tigray",13.04
+"2005-01-06",1,"Addis Ababa",8.6
+"2005-01-06",2,"Afar",19.34
+"2005-01-06",3,"Amhara",12.12
+"2005-01-06",4,"Benshangul-Gumaz",18.81
+"2005-01-06",5,"Dire Dawa",10.79
+"2005-01-06",6,"Gambela Peoples",24.77
+"2005-01-06",7,"Harari People",11.09
+"2005-01-06",8,"Oromia",14.62
+"2005-01-06",9,"Somali",18.33
+"2005-01-06",10,"Southern Nations, Nationalities and Peoples",16.75
+"2005-01-06",11,"Tigray",13.13
+"2005-01-07",1,"Addis Ababa",8.1
+"2005-01-07",2,"Afar",20.16
+"2005-01-07",3,"Amhara",11.32
+"2005-01-07",4,"Benshangul-Gumaz",15.79
+"2005-01-07",5,"Dire Dawa",12.78
+"2005-01-07",6,"Gambela Peoples",23.38
+"2005-01-07",7,"Harari People",11.91
+"2005-01-07",8,"Oromia",14.77
+"2005-01-07",9,"Somali",18.76
+"2005-01-07",10,"Southern Nations, Nationalities and Peoples",17.44
+"2005-01-07",11,"Tigray",12.57
+"2005-01-08",1,"Addis Ababa",9.24
+"2005-01-08",2,"Afar",20.55
+"2005-01-08",3,"Amhara",12.75
+"2005-01-08",4,"Benshangul-Gumaz",16.98
+"2005-01-08",5,"Dire Dawa",10.99
+"2005-01-08",6,"Gambela Peoples",23.07
+"2005-01-08",7,"Harari People",11.91
+"2005-01-08",8,"Oromia",15.25
+"2005-01-08",9,"Somali",19.36
+"2005-01-08",10,"Southern Nations, Nationalities and Peoples",17.79
+"2005-01-08",11,"Tigray",14.26
+"2005-01-09",1,"Addis Ababa",7.91
+"2005-01-09",2,"Afar",20.36
+"2005-01-09",3,"Amhara",13.72
+"2005-01-09",4,"Benshangul-Gumaz",18.16
+"2005-01-09",5,"Dire Dawa",10.98
+"2005-01-09",6,"Gambela Peoples",23.79
+"2005-01-09",7,"Harari People",11.58
+"2005-01-09",8,"Oromia",15.03
+"2005-01-09",9,"Somali",19.1
+"2005-01-09",10,"Southern Nations, Nationalities and Peoples",17.4
+"2005-01-09",11,"Tigray",14.03
+"2005-01-10",1,"Addis Ababa",9.13
+"2005-01-10",2,"Afar",20.75
+"2005-01-10",3,"Amhara",14.24
+"2005-01-10",4,"Benshangul-Gumaz",18.4
+"2005-01-10",5,"Dire Dawa",13.03
+"2005-01-10",6,"Gambela Peoples",24.23
+"2005-01-10",7,"Harari People",12.8
+"2005-01-10",8,"Oromia",15.93
+"2005-01-10",9,"Somali",19.41
+"2005-01-10",10,"Southern Nations, Nationalities and Peoples",18.67
+"2005-01-10",11,"Tigray",14.4
+"2005-01-11",1,"Addis Ababa",10.43
+"2005-01-11",2,"Afar",21.07
+"2005-01-11",3,"Amhara",13.88
+"2005-01-11",4,"Benshangul-Gumaz",17.63
+"2005-01-11",5,"Dire Dawa",13.07
+"2005-01-11",6,"Gambela Peoples",23.75
+"2005-01-11",7,"Harari People",13.21
+"2005-01-11",8,"Oromia",16.15
+"2005-01-11",9,"Somali",20.07
+"2005-01-11",10,"Southern Nations, Nationalities and Peoples",18.67
+"2005-01-11",11,"Tigray",14.8
+"2005-01-12",1,"Addis Ababa",10.91
+"2005-01-12",2,"Afar",21.05
+"2005-01-12",3,"Amhara",14.67
+"2005-01-12",4,"Benshangul-Gumaz",18.38
+"2005-01-12",5,"Dire Dawa",14.48
+"2005-01-12",6,"Gambela Peoples",24.29
+"2005-01-12",7,"Harari People",14.09
+"2005-01-12",8,"Oromia",17.16
+"2005-01-12",9,"Somali",21.14
+"2005-01-12",10,"Southern Nations, Nationalities and Peoples",19.38
+"2005-01-12",11,"Tigray",14.82
+"2005-01-13",1,"Addis Ababa",11.54
+"2005-01-13",2,"Afar",21.81
+"2005-01-13",3,"Amhara",14.47
+"2005-01-13",4,"Benshangul-Gumaz",17.83
+"2005-01-13",5,"Dire Dawa",14.62
+"2005-01-13",6,"Gambela Peoples",24.52
+"2005-01-13",7,"Harari People",14.69
+"2005-01-13",8,"Oromia",17.12
+"2005-01-13",9,"Somali",21.04
+"2005-01-13",10,"Southern Nations, Nationalities and Peoples",20.04
+"2005-01-13",11,"Tigray",14.31
+"2005-01-14",1,"Addis Ababa",12.15
+"2005-01-14",2,"Afar",21.24
+"2005-01-14",3,"Amhara",13.71
+"2005-01-14",4,"Benshangul-Gumaz",17.77
+"2005-01-14",5,"Dire Dawa",14.33
+"2005-01-14",6,"Gambela Peoples",24.06
+"2005-01-14",7,"Harari People",14.4
+"2005-01-14",8,"Oromia",16.52
+"2005-01-14",9,"Somali",20.86
+"2005-01-14",10,"Southern Nations, Nationalities and Peoples",18.98
+"2005-01-14",11,"Tigray",13.76
+"2005-01-15",1,"Addis Ababa",12.8
+"2005-01-15",2,"Afar",21.65
+"2005-01-15",3,"Amhara",13.96
+"2005-01-15",4,"Benshangul-Gumaz",18.01
+"2005-01-15",5,"Dire Dawa",15.53
+"2005-01-15",6,"Gambela Peoples",25.11
+"2005-01-15",7,"Harari People",15.31
+"2005-01-15",8,"Oromia",17.25
+"2005-01-15",9,"Somali",21.54
+"2005-01-15",10,"Southern Nations, Nationalities and Peoples",19.04
+"2005-01-15",11,"Tigray",12.82
+"2005-01-16",1,"Addis Ababa",11.83
+"2005-01-16",2,"Afar",22.67
+"2005-01-16",3,"Amhara",14.35
+"2005-01-16",4,"Benshangul-Gumaz",19.5
+"2005-01-16",5,"Dire Dawa",15.45
+"2005-01-16",6,"Gambela Peoples",24.89
+"2005-01-16",7,"Harari People",15.9
+"2005-01-16",8,"Oromia",17.33
+"2005-01-16",9,"Somali",21.72
+"2005-01-16",10,"Southern Nations, Nationalities and Peoples",18.48
+"2005-01-16",11,"Tigray",13.56
+"2005-01-17",1,"Addis Ababa",11.9
+"2005-01-17",2,"Afar",23.34
+"2005-01-17",3,"Amhara",15.54
+"2005-01-17",4,"Benshangul-Gumaz",21.21
+"2005-01-17",5,"Dire Dawa",15.81
+"2005-01-17",6,"Gambela Peoples",27.11
+"2005-01-17",7,"Harari People",16.24
+"2005-01-17",8,"Oromia",17.23
+"2005-01-17",9,"Somali",21.64
+"2005-01-17",10,"Southern Nations, Nationalities and Peoples",19.51
+"2005-01-17",11,"Tigray",15.45
+"2005-01-18",1,"Addis Ababa",11.41
+"2005-01-18",2,"Afar",23.55
+"2005-01-18",3,"Amhara",15.57
+"2005-01-18",4,"Benshangul-Gumaz",19.85
+"2005-01-18",5,"Dire Dawa",16.79
+"2005-01-18",6,"Gambela Peoples",26.33
+"2005-01-18",7,"Harari People",17.05
+"2005-01-18",8,"Oromia",17.53
+"2005-01-18",9,"Somali",21.86
+"2005-01-18",10,"Southern Nations, Nationalities and Peoples",19.36
+"2005-01-18",11,"Tigray",15.81
+"2005-01-19",1,"Addis Ababa",13.14
+"2005-01-19",2,"Afar",23.38
+"2005-01-19",3,"Amhara",16.44
+"2005-01-19",4,"Benshangul-Gumaz",20.82
+"2005-01-19",5,"Dire Dawa",16.59
+"2005-01-19",6,"Gambela Peoples",27.33
+"2005-01-19",7,"Harari People",15.36
+"2005-01-19",8,"Oromia",17.22
+"2005-01-19",9,"Somali",21.59
+"2005-01-19",10,"Southern Nations, Nationalities and Peoples",19.87
+"2005-01-19",11,"Tigray",16.8
+"2005-01-20",1,"Addis Ababa",14.02
+"2005-01-20",2,"Afar",22.83
+"2005-01-20",3,"Amhara",16.57
+"2005-01-20",4,"Benshangul-Gumaz",22.07
+"2005-01-20",5,"Dire Dawa",16.48
+"2005-01-20",6,"Gambela Peoples",26.95
+"2005-01-20",7,"Harari People",15.64
+"2005-01-20",8,"Oromia",17.68
+"2005-01-20",9,"Somali",21.36
+"2005-01-20",10,"Southern Nations, Nationalities and Peoples",19.82
+"2005-01-20",11,"Tigray",17.02
+"2005-01-21",1,"Addis Ababa",11.69
+"2005-01-21",2,"Afar",22.56
+"2005-01-21",3,"Amhara",16.55
+"2005-01-21",4,"Benshangul-Gumaz",23.06
+"2005-01-21",5,"Dire Dawa",17.88
+"2005-01-21",6,"Gambela Peoples",27.58
+"2005-01-21",7,"Harari People",17.45
+"2005-01-21",8,"Oromia",18.03
+"2005-01-21",9,"Somali",21.17
+"2005-01-21",10,"Southern Nations, Nationalities and Peoples",20.62
+"2005-01-21",11,"Tigray",17.06
+"2005-01-22",1,"Addis Ababa",10.81
+"2005-01-22",2,"Afar",21.95
+"2005-01-22",3,"Amhara",16.43
+"2005-01-22",4,"Benshangul-Gumaz",24.07
+"2005-01-22",5,"Dire Dawa",15.83
+"2005-01-22",6,"Gambela Peoples",28.19
+"2005-01-22",7,"Harari People",16.55
+"2005-01-22",8,"Oromia",17.71
+"2005-01-22",9,"Somali",20.75
+"2005-01-22",10,"Southern Nations, Nationalities and Peoples",20.31
+"2005-01-22",11,"Tigray",16.82
+"2005-01-23",1,"Addis Ababa",9.94
+"2005-01-23",2,"Afar",20.68
+"2005-01-23",3,"Amhara",13.44
+"2005-01-23",4,"Benshangul-Gumaz",20.22
+"2005-01-23",5,"Dire Dawa",15.71
+"2005-01-23",6,"Gambela Peoples",27.79
+"2005-01-23",7,"Harari People",15.97
+"2005-01-23",8,"Oromia",16.41
+"2005-01-23",9,"Somali",20.57
+"2005-01-23",10,"Southern Nations, Nationalities and Peoples",19.19
+"2005-01-23",11,"Tigray",15.12
+"2005-01-24",1,"Addis Ababa",11.19
+"2005-01-24",2,"Afar",21.87
+"2005-01-24",3,"Amhara",15.63
+"2005-01-24",4,"Benshangul-Gumaz",20.46
+"2005-01-24",5,"Dire Dawa",15.26
+"2005-01-24",6,"Gambela Peoples",27.05
+"2005-01-24",7,"Harari People",14.82
+"2005-01-24",8,"Oromia",17.15
+"2005-01-24",9,"Somali",21.42
+"2005-01-24",10,"Southern Nations, Nationalities and Peoples",19.85
+"2005-01-24",11,"Tigray",16.84
+"2005-01-25",1,"Addis Ababa",13.63
+"2005-01-25",2,"Afar",22.5
+"2005-01-25",3,"Amhara",16.54
+"2005-01-25",4,"Benshangul-Gumaz",21.4
+"2005-01-25",5,"Dire Dawa",17.4
+"2005-01-25",6,"Gambela Peoples",26.85
+"2005-01-25",7,"Harari People",17.17
+"2005-01-25",8,"Oromia",19.07
+"2005-01-25",9,"Somali",22.76
+"2005-01-25",10,"Southern Nations, Nationalities and Peoples",20.54
+"2005-01-25",11,"Tigray",16.01
+"2005-01-26",1,"Addis Ababa",11.91
+"2005-01-26",2,"Afar",22.31
+"2005-01-26",3,"Amhara",14.78
+"2005-01-26",4,"Benshangul-Gumaz",20.22
+"2005-01-26",5,"Dire Dawa",16.92
+"2005-01-26",6,"Gambela Peoples",24.77
+"2005-01-26",7,"Harari People",16.57
+"2005-01-26",8,"Oromia",17.85
+"2005-01-26",9,"Somali",22.39
+"2005-01-26",10,"Southern Nations, Nationalities and Peoples",19.05
+"2005-01-26",11,"Tigray",15.12
+"2005-01-27",1,"Addis Ababa",12.18
+"2005-01-27",2,"Afar",22.74
+"2005-01-27",3,"Amhara",13.78
+"2005-01-27",4,"Benshangul-Gumaz",18.15
+"2005-01-27",5,"Dire Dawa",16.11
+"2005-01-27",6,"Gambela Peoples",25.66
+"2005-01-27",7,"Harari People",15.44
+"2005-01-27",8,"Oromia",17.63
+"2005-01-27",9,"Somali",23
+"2005-01-27",10,"Southern Nations, Nationalities and Peoples",18.62
+"2005-01-27",11,"Tigray",14.19
+"2005-01-28",1,"Addis Ababa",11.38
+"2005-01-28",2,"Afar",22.91
+"2005-01-28",3,"Amhara",14.69
+"2005-01-28",4,"Benshangul-Gumaz",19.64
+"2005-01-28",5,"Dire Dawa",15.74
+"2005-01-28",6,"Gambela Peoples",25.55
+"2005-01-28",7,"Harari People",14.81
+"2005-01-28",8,"Oromia",17.72
+"2005-01-28",9,"Somali",23.07
+"2005-01-28",10,"Southern Nations, Nationalities and Peoples",18.93
+"2005-01-28",11,"Tigray",14.66
+"2005-01-29",1,"Addis Ababa",11.19
+"2005-01-29",2,"Afar",22.47
+"2005-01-29",3,"Amhara",14.33
+"2005-01-29",4,"Benshangul-Gumaz",18.6
+"2005-01-29",5,"Dire Dawa",14.97
+"2005-01-29",6,"Gambela Peoples",24.83
+"2005-01-29",7,"Harari People",14.94
+"2005-01-29",8,"Oromia",16.99
+"2005-01-29",9,"Somali",22.64
+"2005-01-29",10,"Southern Nations, Nationalities and Peoples",19.03
+"2005-01-29",11,"Tigray",15.32
+"2005-01-30",1,"Addis Ababa",10.59
+"2005-01-30",2,"Afar",21.72
+"2005-01-30",3,"Amhara",13.69
+"2005-01-30",4,"Benshangul-Gumaz",18.2
+"2005-01-30",5,"Dire Dawa",14.54
+"2005-01-30",6,"Gambela Peoples",25.11
+"2005-01-30",7,"Harari People",13.47
+"2005-01-30",8,"Oromia",16.4
+"2005-01-30",9,"Somali",21.71
+"2005-01-30",10,"Southern Nations, Nationalities and Peoples",18.32
+"2005-01-30",11,"Tigray",15.04
+"2005-01-31",1,"Addis Ababa",11.3
+"2005-01-31",2,"Afar",20.4
+"2005-01-31",3,"Amhara",14.81
+"2005-01-31",4,"Benshangul-Gumaz",20.02
+"2005-01-31",5,"Dire Dawa",12.96
+"2005-01-31",6,"Gambela Peoples",26.43
+"2005-01-31",7,"Harari People",12.43
+"2005-01-31",8,"Oromia",16.59
+"2005-01-31",9,"Somali",20.45
+"2005-01-31",10,"Southern Nations, Nationalities and Peoples",18.83
+"2005-01-31",11,"Tigray",15.23
+"2005-02-01",1,"Addis Ababa",7.51
+"2005-02-01",2,"Afar",18.33
+"2005-02-01",3,"Amhara",13.99
+"2005-02-01",4,"Benshangul-Gumaz",19.26
+"2005-02-01",5,"Dire Dawa",9.9
+"2005-02-01",6,"Gambela Peoples",25.46
+"2005-02-01",7,"Harari People",9.78
+"2005-02-01",8,"Oromia",15.22
+"2005-02-01",9,"Somali",17.63
+"2005-02-01",10,"Southern Nations, Nationalities and Peoples",18.32
+"2005-02-01",11,"Tigray",15.34
+"2005-02-02",1,"Addis Ababa",6.62
+"2005-02-02",2,"Afar",17.87
+"2005-02-02",3,"Amhara",13.86
+"2005-02-02",4,"Benshangul-Gumaz",20.67
+"2005-02-02",5,"Dire Dawa",9.8
+"2005-02-02",6,"Gambela Peoples",25.87
+"2005-02-02",7,"Harari People",9.84
+"2005-02-02",8,"Oromia",14.26
+"2005-02-02",9,"Somali",17.88
+"2005-02-02",10,"Southern Nations, Nationalities and Peoples",18.24
+"2005-02-02",11,"Tigray",14.16
+"2005-02-03",1,"Addis Ababa",7.35
+"2005-02-03",2,"Afar",18.21
+"2005-02-03",3,"Amhara",13.8
+"2005-02-03",4,"Benshangul-Gumaz",20.66
+"2005-02-03",5,"Dire Dawa",10.45
+"2005-02-03",6,"Gambela Peoples",25.89
+"2005-02-03",7,"Harari People",10.88
+"2005-02-03",8,"Oromia",14.56
+"2005-02-03",9,"Somali",18.39
+"2005-02-03",10,"Southern Nations, Nationalities and Peoples",18.14
+"2005-02-03",11,"Tigray",14.11
+"2005-02-04",1,"Addis Ababa",7.51
+"2005-02-04",2,"Afar",18.16
+"2005-02-04",3,"Amhara",14.47
+"2005-02-04",4,"Benshangul-Gumaz",22.23
+"2005-02-04",5,"Dire Dawa",11.64
+"2005-02-04",6,"Gambela Peoples",27.37
+"2005-02-04",7,"Harari People",13.19
+"2005-02-04",8,"Oromia",15.61
+"2005-02-04",9,"Somali",19.08
+"2005-02-04",10,"Southern Nations, Nationalities and Peoples",18.56
+"2005-02-04",11,"Tigray",14.73
+"2005-02-05",1,"Addis Ababa",8.64
+"2005-02-05",2,"Afar",19.35
+"2005-02-05",3,"Amhara",14.49
+"2005-02-05",4,"Benshangul-Gumaz",21.76
+"2005-02-05",5,"Dire Dawa",15.78
+"2005-02-05",6,"Gambela Peoples",27.29
+"2005-02-05",7,"Harari People",13.57
+"2005-02-05",8,"Oromia",16.4
+"2005-02-05",9,"Somali",20.63
+"2005-02-05",10,"Southern Nations, Nationalities and Peoples",19.09
+"2005-02-05",11,"Tigray",14.83
+"2005-02-06",1,"Addis Ababa",6.56
+"2005-02-06",2,"Afar",20.08
+"2005-02-06",3,"Amhara",14.26
+"2005-02-06",4,"Benshangul-Gumaz",21.19
+"2005-02-06",5,"Dire Dawa",15.61
+"2005-02-06",6,"Gambela Peoples",26.94
+"2005-02-06",7,"Harari People",14.09
+"2005-02-06",8,"Oromia",16.52
+"2005-02-06",9,"Somali",21.26
+"2005-02-06",10,"Southern Nations, Nationalities and Peoples",19.3
+"2005-02-06",11,"Tigray",15.21
+"2005-02-07",1,"Addis Ababa",10.3
+"2005-02-07",2,"Afar",21.75
+"2005-02-07",3,"Amhara",16.05
+"2005-02-07",4,"Benshangul-Gumaz",23.43
+"2005-02-07",5,"Dire Dawa",16.38
+"2005-02-07",6,"Gambela Peoples",28.89
+"2005-02-07",7,"Harari People",15.21
+"2005-02-07",8,"Oromia",18.68
+"2005-02-07",9,"Somali",21.68
+"2005-02-07",10,"Southern Nations, Nationalities and Peoples",21.35
+"2005-02-07",11,"Tigray",15.2
+"2005-02-08",1,"Addis Ababa",10.76
+"2005-02-08",2,"Afar",22.16
+"2005-02-08",3,"Amhara",15.85
+"2005-02-08",4,"Benshangul-Gumaz",21.23
+"2005-02-08",5,"Dire Dawa",16.26
+"2005-02-08",6,"Gambela Peoples",27.7
+"2005-02-08",7,"Harari People",15.43
+"2005-02-08",8,"Oromia",18.45
+"2005-02-08",9,"Somali",21.44
+"2005-02-08",10,"Southern Nations, Nationalities and Peoples",21.27
+"2005-02-08",11,"Tigray",15.41
+"2005-02-09",1,"Addis Ababa",10
+"2005-02-09",2,"Afar",21.81
+"2005-02-09",3,"Amhara",16.06
+"2005-02-09",4,"Benshangul-Gumaz",22.18
+"2005-02-09",5,"Dire Dawa",14.36
+"2005-02-09",6,"Gambela Peoples",27.46
+"2005-02-09",7,"Harari People",16.76
+"2005-02-09",8,"Oromia",17.56
+"2005-02-09",9,"Somali",21.32
+"2005-02-09",10,"Southern Nations, Nationalities and Peoples",19.9
+"2005-02-09",11,"Tigray",16
+"2005-02-10",1,"Addis Ababa",11.66
+"2005-02-10",2,"Afar",21.72
+"2005-02-10",3,"Amhara",16.32
+"2005-02-10",4,"Benshangul-Gumaz",21.97
+"2005-02-10",5,"Dire Dawa",15.51
+"2005-02-10",6,"Gambela Peoples",27.05
+"2005-02-10",7,"Harari People",15.32
+"2005-02-10",8,"Oromia",18.09
+"2005-02-10",9,"Somali",21.57
+"2005-02-10",10,"Southern Nations, Nationalities and Peoples",20.14
+"2005-02-10",11,"Tigray",15.7
+"2005-02-11",1,"Addis Ababa",12.17
+"2005-02-11",2,"Afar",22.48
+"2005-02-11",3,"Amhara",17.11
+"2005-02-11",4,"Benshangul-Gumaz",22.69
+"2005-02-11",5,"Dire Dawa",16.82
+"2005-02-11",6,"Gambela Peoples",27.78
+"2005-02-11",7,"Harari People",18.2
+"2005-02-11",8,"Oromia",18.84
+"2005-02-11",9,"Somali",21.92
+"2005-02-11",10,"Southern Nations, Nationalities and Peoples",20.85
+"2005-02-11",11,"Tigray",16.26
+"2005-02-12",1,"Addis Ababa",10.04
+"2005-02-12",2,"Afar",22.6
+"2005-02-12",3,"Amhara",16.29
+"2005-02-12",4,"Benshangul-Gumaz",22.52
+"2005-02-12",5,"Dire Dawa",15.81
+"2005-02-12",6,"Gambela Peoples",27.68
+"2005-02-12",7,"Harari People",16.62
+"2005-02-12",8,"Oromia",17.69
+"2005-02-12",9,"Somali",22.01
+"2005-02-12",10,"Southern Nations, Nationalities and Peoples",20.48
+"2005-02-12",11,"Tigray",16.31
+"2005-02-13",1,"Addis Ababa",11.39
+"2005-02-13",2,"Afar",23.2
+"2005-02-13",3,"Amhara",16.49
+"2005-02-13",4,"Benshangul-Gumaz",22.17
+"2005-02-13",5,"Dire Dawa",17.36
+"2005-02-13",6,"Gambela Peoples",28.39
+"2005-02-13",7,"Harari People",15.32
+"2005-02-13",8,"Oromia",17.7
+"2005-02-13",9,"Somali",22.51
+"2005-02-13",10,"Southern Nations, Nationalities and Peoples",20.34
+"2005-02-13",11,"Tigray",16.78
+"2005-02-14",1,"Addis Ababa",12.95
+"2005-02-14",2,"Afar",23.44
+"2005-02-14",3,"Amhara",16.61
+"2005-02-14",4,"Benshangul-Gumaz",21.3
+"2005-02-14",5,"Dire Dawa",17.2
+"2005-02-14",6,"Gambela Peoples",28.26
+"2005-02-14",7,"Harari People",16.87
+"2005-02-14",8,"Oromia",18.99
+"2005-02-14",9,"Somali",23.49
+"2005-02-14",10,"Southern Nations, Nationalities and Peoples",21.27
+"2005-02-14",11,"Tigray",16.92
+"2005-02-15",1,"Addis Ababa",10.89
+"2005-02-15",2,"Afar",23.85
+"2005-02-15",3,"Amhara",16.89
+"2005-02-15",4,"Benshangul-Gumaz",21.86
+"2005-02-15",5,"Dire Dawa",17.12
+"2005-02-15",6,"Gambela Peoples",28.01
+"2005-02-15",7,"Harari People",16.74
+"2005-02-15",8,"Oromia",18.42
+"2005-02-15",9,"Somali",22.42
+"2005-02-15",10,"Southern Nations, Nationalities and Peoples",20.77
+"2005-02-15",11,"Tigray",17.04
+"2005-02-16",1,"Addis Ababa",12.97
+"2005-02-16",2,"Afar",24.1
+"2005-02-16",3,"Amhara",18.1
+"2005-02-16",4,"Benshangul-Gumaz",23.75
+"2005-02-16",5,"Dire Dawa",16.54
+"2005-02-16",6,"Gambela Peoples",28.95
+"2005-02-16",7,"Harari People",17.4
+"2005-02-16",8,"Oromia",18.92
+"2005-02-16",9,"Somali",21.17
+"2005-02-16",10,"Southern Nations, Nationalities and Peoples",21.26
+"2005-02-16",11,"Tigray",18.5
+"2005-02-17",1,"Addis Ababa",9.77
+"2005-02-17",2,"Afar",22.66
+"2005-02-17",3,"Amhara",16.26
+"2005-02-17",4,"Benshangul-Gumaz",23.84
+"2005-02-17",5,"Dire Dawa",15.38
+"2005-02-17",6,"Gambela Peoples",28.6
+"2005-02-17",7,"Harari People",16.14
+"2005-02-17",8,"Oromia",17.43
+"2005-02-17",9,"Somali",20.53
+"2005-02-17",10,"Southern Nations, Nationalities and Peoples",20.55
+"2005-02-17",11,"Tigray",17.56
+"2005-02-18",1,"Addis Ababa",9.96
+"2005-02-18",2,"Afar",21.83
+"2005-02-18",3,"Amhara",16.3
+"2005-02-18",4,"Benshangul-Gumaz",23.79
+"2005-02-18",5,"Dire Dawa",15.52
+"2005-02-18",6,"Gambela Peoples",28.26
+"2005-02-18",7,"Harari People",16.76
+"2005-02-18",8,"Oromia",16.98
+"2005-02-18",9,"Somali",20.27
+"2005-02-18",10,"Southern Nations, Nationalities and Peoples",19.85
+"2005-02-18",11,"Tigray",17.53
+"2005-02-19",1,"Addis Ababa",10.01
+"2005-02-19",2,"Afar",21.67
+"2005-02-19",3,"Amhara",16.1
+"2005-02-19",4,"Benshangul-Gumaz",23.34
+"2005-02-19",5,"Dire Dawa",15.32
+"2005-02-19",6,"Gambela Peoples",28.27
+"2005-02-19",7,"Harari People",16.75
+"2005-02-19",8,"Oromia",17.32
+"2005-02-19",9,"Somali",20.25
+"2005-02-19",10,"Southern Nations, Nationalities and Peoples",20.13
+"2005-02-19",11,"Tigray",17.06
+"2005-02-20",1,"Addis Ababa",12.95
+"2005-02-20",2,"Afar",22.82
+"2005-02-20",3,"Amhara",17.94
+"2005-02-20",4,"Benshangul-Gumaz",25.06
+"2005-02-20",5,"Dire Dawa",17.54
+"2005-02-20",6,"Gambela Peoples",28.53
+"2005-02-20",7,"Harari People",18.03
+"2005-02-20",8,"Oromia",18.75
+"2005-02-20",9,"Somali",21.06
+"2005-02-20",10,"Southern Nations, Nationalities and Peoples",21.19
+"2005-02-20",11,"Tigray",17.72
+"2005-02-21",1,"Addis Ababa",10.66
+"2005-02-21",2,"Afar",22.52
+"2005-02-21",3,"Amhara",15.98
+"2005-02-21",4,"Benshangul-Gumaz",22.31
+"2005-02-21",5,"Dire Dawa",17.57
+"2005-02-21",6,"Gambela Peoples",27.76
+"2005-02-21",7,"Harari People",17.45
+"2005-02-21",8,"Oromia",17.21
+"2005-02-21",9,"Somali",21.59
+"2005-02-21",10,"Southern Nations, Nationalities and Peoples",19.72
+"2005-02-21",11,"Tigray",17.13
+"2005-02-22",1,"Addis Ababa",11.59
+"2005-02-22",2,"Afar",22.87
+"2005-02-22",3,"Amhara",16.98
+"2005-02-22",4,"Benshangul-Gumaz",23.38
+"2005-02-22",5,"Dire Dawa",17.22
+"2005-02-22",6,"Gambela Peoples",27.71
+"2005-02-22",7,"Harari People",17.94
+"2005-02-22",8,"Oromia",18.52
+"2005-02-22",9,"Somali",21.93
+"2005-02-22",10,"Southern Nations, Nationalities and Peoples",20.8
+"2005-02-22",11,"Tigray",17.92
+"2005-02-23",1,"Addis Ababa",11.18
+"2005-02-23",2,"Afar",23.13
+"2005-02-23",3,"Amhara",17.25
+"2005-02-23",4,"Benshangul-Gumaz",24.47
+"2005-02-23",5,"Dire Dawa",15.56
+"2005-02-23",6,"Gambela Peoples",28.69
+"2005-02-23",7,"Harari People",16.22
+"2005-02-23",8,"Oromia",18.86
+"2005-02-23",9,"Somali",21.56
+"2005-02-23",10,"Southern Nations, Nationalities and Peoples",21.45
+"2005-02-23",11,"Tigray",18.53
+"2005-02-24",1,"Addis Ababa",11.75
+"2005-02-24",2,"Afar",22.06
+"2005-02-24",3,"Amhara",17.57
+"2005-02-24",4,"Benshangul-Gumaz",25.81
+"2005-02-24",5,"Dire Dawa",16.66
+"2005-02-24",6,"Gambela Peoples",30.52
+"2005-02-24",7,"Harari People",17.08
+"2005-02-24",8,"Oromia",19.34
+"2005-02-24",9,"Somali",21.33
+"2005-02-24",10,"Southern Nations, Nationalities and Peoples",21.78
+"2005-02-24",11,"Tigray",17.78
+"2005-02-25",1,"Addis Ababa",16.2
+"2005-02-25",2,"Afar",23.31
+"2005-02-25",3,"Amhara",17.7
+"2005-02-25",4,"Benshangul-Gumaz",24.13
+"2005-02-25",5,"Dire Dawa",19.12
+"2005-02-25",6,"Gambela Peoples",29.78
+"2005-02-25",7,"Harari People",17.74
+"2005-02-25",8,"Oromia",20.05
+"2005-02-25",9,"Somali",21.96
+"2005-02-25",10,"Southern Nations, Nationalities and Peoples",22.14
+"2005-02-25",11,"Tigray",18.38
+"2005-02-26",1,"Addis Ababa",15.23
+"2005-02-26",2,"Afar",24.09
+"2005-02-26",3,"Amhara",17.11
+"2005-02-26",4,"Benshangul-Gumaz",23.33
+"2005-02-26",5,"Dire Dawa",19.22
+"2005-02-26",6,"Gambela Peoples",29.54
+"2005-02-26",7,"Harari People",18.48
+"2005-02-26",8,"Oromia",20.65
+"2005-02-26",9,"Somali",22.47
+"2005-02-26",10,"Southern Nations, Nationalities and Peoples",22.45
+"2005-02-26",11,"Tigray",16.48
+"2005-02-27",1,"Addis Ababa",14.67
+"2005-02-27",2,"Afar",25.34
+"2005-02-27",3,"Amhara",18.02
+"2005-02-27",4,"Benshangul-Gumaz",23.11
+"2005-02-27",5,"Dire Dawa",19.61
+"2005-02-27",6,"Gambela Peoples",29.71
+"2005-02-27",7,"Harari People",18.87
+"2005-02-27",8,"Oromia",20.52
+"2005-02-27",9,"Somali",22.74
+"2005-02-27",10,"Southern Nations, Nationalities and Peoples",22.91
+"2005-02-27",11,"Tigray",18.07
+"2005-02-28",1,"Addis Ababa",15.16
+"2005-02-28",2,"Afar",25.75
+"2005-02-28",3,"Amhara",17.99
+"2005-02-28",4,"Benshangul-Gumaz",23.22
+"2005-02-28",5,"Dire Dawa",21.02
+"2005-02-28",6,"Gambela Peoples",28.43
+"2005-02-28",7,"Harari People",20.34
+"2005-02-28",8,"Oromia",20.44
+"2005-02-28",9,"Somali",23.59
+"2005-02-28",10,"Southern Nations, Nationalities and Peoples",21.24
+"2005-02-28",11,"Tigray",18.1
+"2005-03-01",1,"Addis Ababa",15.06
+"2005-03-01",2,"Afar",25.42
+"2005-03-01",3,"Amhara",17.47
+"2005-03-01",4,"Benshangul-Gumaz",23.18
+"2005-03-01",5,"Dire Dawa",21.23
+"2005-03-01",6,"Gambela Peoples",27.19
+"2005-03-01",7,"Harari People",19.89
+"2005-03-01",8,"Oromia",19.9
+"2005-03-01",9,"Somali",24.23
+"2005-03-01",10,"Southern Nations, Nationalities and Peoples",20.64
+"2005-03-01",11,"Tigray",17.13
+"2005-03-02",1,"Addis Ababa",12.47
+"2005-03-02",2,"Afar",23.68
+"2005-03-02",3,"Amhara",16.11
+"2005-03-02",4,"Benshangul-Gumaz",21.27
+"2005-03-02",5,"Dire Dawa",19.06
+"2005-03-02",6,"Gambela Peoples",27.49
+"2005-03-02",7,"Harari People",17.15
+"2005-03-02",8,"Oromia",18.77
+"2005-03-02",9,"Somali",24.83
+"2005-03-02",10,"Southern Nations, Nationalities and Peoples",20.7
+"2005-03-02",11,"Tigray",16.39
+"2005-03-03",1,"Addis Ababa",14.29
+"2005-03-03",2,"Afar",25.68
+"2005-03-03",3,"Amhara",18.35
+"2005-03-03",4,"Benshangul-Gumaz",23.01
+"2005-03-03",5,"Dire Dawa",20.16
+"2005-03-03",6,"Gambela Peoples",29.04
+"2005-03-03",7,"Harari People",19.3
+"2005-03-03",8,"Oromia",20.33
+"2005-03-03",9,"Somali",24.79
+"2005-03-03",10,"Southern Nations, Nationalities and Peoples",21.79
+"2005-03-03",11,"Tigray",17.07
+"2005-03-04",1,"Addis Ababa",14.49
+"2005-03-04",2,"Afar",26.38
+"2005-03-04",3,"Amhara",18.37
+"2005-03-04",4,"Benshangul-Gumaz",22.66
+"2005-03-04",5,"Dire Dawa",21.23
+"2005-03-04",6,"Gambela Peoples",28.26
+"2005-03-04",7,"Harari People",19.93
+"2005-03-04",8,"Oromia",19.98
+"2005-03-04",9,"Somali",24.8
+"2005-03-04",10,"Southern Nations, Nationalities and Peoples",20.2
+"2005-03-04",11,"Tigray",19.14
+"2005-03-05",1,"Addis Ababa",14.85
+"2005-03-05",2,"Afar",25.92
+"2005-03-05",3,"Amhara",17.61
+"2005-03-05",4,"Benshangul-Gumaz",22.75
+"2005-03-05",5,"Dire Dawa",20.78
+"2005-03-05",6,"Gambela Peoples",29.41
+"2005-03-05",7,"Harari People",17.72
+"2005-03-05",8,"Oromia",20.41
+"2005-03-05",9,"Somali",24.8
+"2005-03-05",10,"Southern Nations, Nationalities and Peoples",21.97
+"2005-03-05",11,"Tigray",17.24
+"2005-03-06",1,"Addis Ababa",13.66
+"2005-03-06",2,"Afar",24.91
+"2005-03-06",3,"Amhara",17.07
+"2005-03-06",4,"Benshangul-Gumaz",22.12
+"2005-03-06",5,"Dire Dawa",19.82
+"2005-03-06",6,"Gambela Peoples",29.43
+"2005-03-06",7,"Harari People",18.33
+"2005-03-06",8,"Oromia",19.79
+"2005-03-06",9,"Somali",24.71
+"2005-03-06",10,"Southern Nations, Nationalities and Peoples",21.96
+"2005-03-06",11,"Tigray",17.83
+"2005-03-07",1,"Addis Ababa",14.4
+"2005-03-07",2,"Afar",25.1
+"2005-03-07",3,"Amhara",17.84
+"2005-03-07",4,"Benshangul-Gumaz",22.91
+"2005-03-07",5,"Dire Dawa",18.64
+"2005-03-07",6,"Gambela Peoples",29.09
+"2005-03-07",7,"Harari People",17.23
+"2005-03-07",8,"Oromia",19.72
+"2005-03-07",9,"Somali",24.36
+"2005-03-07",10,"Southern Nations, Nationalities and Peoples",21.24
+"2005-03-07",11,"Tigray",18.64
+"2005-03-08",1,"Addis Ababa",13.09
+"2005-03-08",2,"Afar",25.09
+"2005-03-08",3,"Amhara",17.71
+"2005-03-08",4,"Benshangul-Gumaz",22.56
+"2005-03-08",5,"Dire Dawa",17.62
+"2005-03-08",6,"Gambela Peoples",27.75
+"2005-03-08",7,"Harari People",16.26
+"2005-03-08",8,"Oromia",19.03
+"2005-03-08",9,"Somali",24.23
+"2005-03-08",10,"Southern Nations, Nationalities and Peoples",20.66
+"2005-03-08",11,"Tigray",18.41
+"2005-03-09",1,"Addis Ababa",13.52
+"2005-03-09",2,"Afar",25.38
+"2005-03-09",3,"Amhara",18.83
+"2005-03-09",4,"Benshangul-Gumaz",24.65
+"2005-03-09",5,"Dire Dawa",18.93
+"2005-03-09",6,"Gambela Peoples",29.53
+"2005-03-09",7,"Harari People",17.59
+"2005-03-09",8,"Oromia",19.88
+"2005-03-09",9,"Somali",24.7
+"2005-03-09",10,"Southern Nations, Nationalities and Peoples",21.18
+"2005-03-09",11,"Tigray",19.61
+"2005-03-10",1,"Addis Ababa",13.38
+"2005-03-10",2,"Afar",25.89
+"2005-03-10",3,"Amhara",19.54
+"2005-03-10",4,"Benshangul-Gumaz",25.72
+"2005-03-10",5,"Dire Dawa",18.48
+"2005-03-10",6,"Gambela Peoples",30.04
+"2005-03-10",7,"Harari People",16.46
+"2005-03-10",8,"Oromia",19.36
+"2005-03-10",9,"Somali",23.84
+"2005-03-10",10,"Southern Nations, Nationalities and Peoples",20.99
+"2005-03-10",11,"Tigray",20.89
+"2005-03-11",1,"Addis Ababa",13.28
+"2005-03-11",2,"Afar",25.52
+"2005-03-11",3,"Amhara",19.5
+"2005-03-11",4,"Benshangul-Gumaz",26.22
+"2005-03-11",5,"Dire Dawa",20.38
+"2005-03-11",6,"Gambela Peoples",29.79
+"2005-03-11",7,"Harari People",18.09
+"2005-03-11",8,"Oromia",19.65
+"2005-03-11",9,"Somali",23.63
+"2005-03-11",10,"Southern Nations, Nationalities and Peoples",21.1
+"2005-03-11",11,"Tigray",20.12
+"2005-03-12",1,"Addis Ababa",13.5
+"2005-03-12",2,"Afar",25.3
+"2005-03-12",3,"Amhara",19.47
+"2005-03-12",4,"Benshangul-Gumaz",26.51
+"2005-03-12",5,"Dire Dawa",20.53
+"2005-03-12",6,"Gambela Peoples",29.04
+"2005-03-12",7,"Harari People",17.06
+"2005-03-12",8,"Oromia",19.62
+"2005-03-12",9,"Somali",23.74
+"2005-03-12",10,"Southern Nations, Nationalities and Peoples",21.13
+"2005-03-12",11,"Tigray",19.97
+"2005-03-13",1,"Addis Ababa",15.5
+"2005-03-13",2,"Afar",25.85
+"2005-03-13",3,"Amhara",18.5
+"2005-03-13",4,"Benshangul-Gumaz",24.25
+"2005-03-13",5,"Dire Dawa",20.11
+"2005-03-13",6,"Gambela Peoples",27.95
+"2005-03-13",7,"Harari People",17.62
+"2005-03-13",8,"Oromia",19.33
+"2005-03-13",9,"Somali",24.41
+"2005-03-13",10,"Southern Nations, Nationalities and Peoples",21.14
+"2005-03-13",11,"Tigray",19.45
+"2005-03-14",1,"Addis Ababa",13.85
+"2005-03-14",2,"Afar",24.74
+"2005-03-14",3,"Amhara",17.76
+"2005-03-14",4,"Benshangul-Gumaz",23.32
+"2005-03-14",5,"Dire Dawa",18.47
+"2005-03-14",6,"Gambela Peoples",28.53
+"2005-03-14",7,"Harari People",18.17
+"2005-03-14",8,"Oromia",19.27
+"2005-03-14",9,"Somali",24.55
+"2005-03-14",10,"Southern Nations, Nationalities and Peoples",21.04
+"2005-03-14",11,"Tigray",19.39
+"2005-03-15",1,"Addis Ababa",13.34
+"2005-03-15",2,"Afar",24.4
+"2005-03-15",3,"Amhara",17.27
+"2005-03-15",4,"Benshangul-Gumaz",23.5
+"2005-03-15",5,"Dire Dawa",16.71
+"2005-03-15",6,"Gambela Peoples",27.38
+"2005-03-15",7,"Harari People",15.62
+"2005-03-15",8,"Oromia",18.31
+"2005-03-15",9,"Somali",24.13
+"2005-03-15",10,"Southern Nations, Nationalities and Peoples",20.24
+"2005-03-15",11,"Tigray",18.62
+"2005-03-16",1,"Addis Ababa",14.13
+"2005-03-16",2,"Afar",25.04
+"2005-03-16",3,"Amhara",17.99
+"2005-03-16",4,"Benshangul-Gumaz",23.88
+"2005-03-16",5,"Dire Dawa",18.01
+"2005-03-16",6,"Gambela Peoples",24.54
+"2005-03-16",7,"Harari People",17.48
+"2005-03-16",8,"Oromia",18.48
+"2005-03-16",9,"Somali",24.19
+"2005-03-16",10,"Southern Nations, Nationalities and Peoples",20.42
+"2005-03-16",11,"Tigray",19.2
+"2005-03-17",1,"Addis Ababa",13
+"2005-03-17",2,"Afar",25.09
+"2005-03-17",3,"Amhara",16.86
+"2005-03-17",4,"Benshangul-Gumaz",22.54
+"2005-03-17",5,"Dire Dawa",17.83
+"2005-03-17",6,"Gambela Peoples",25.7
+"2005-03-17",7,"Harari People",17.06
+"2005-03-17",8,"Oromia",17.98
+"2005-03-17",9,"Somali",24.73
+"2005-03-17",10,"Southern Nations, Nationalities and Peoples",19.02
+"2005-03-17",11,"Tigray",18.39
+"2005-03-18",1,"Addis Ababa",13.11
+"2005-03-18",2,"Afar",24.68
+"2005-03-18",3,"Amhara",16.25
+"2005-03-18",4,"Benshangul-Gumaz",22.53
+"2005-03-18",5,"Dire Dawa",17.33
+"2005-03-18",6,"Gambela Peoples",25.73
+"2005-03-18",7,"Harari People",16.02
+"2005-03-18",8,"Oromia",17.58
+"2005-03-18",9,"Somali",24.67
+"2005-03-18",10,"Southern Nations, Nationalities and Peoples",18.94
+"2005-03-18",11,"Tigray",17.65
+"2005-03-19",1,"Addis Ababa",13.37
+"2005-03-19",2,"Afar",23.63
+"2005-03-19",3,"Amhara",16.22
+"2005-03-19",4,"Benshangul-Gumaz",22.43
+"2005-03-19",5,"Dire Dawa",18.16
+"2005-03-19",6,"Gambela Peoples",25.95
+"2005-03-19",7,"Harari People",16.58
+"2005-03-19",8,"Oromia",17.81
+"2005-03-19",9,"Somali",24.69
+"2005-03-19",10,"Southern Nations, Nationalities and Peoples",19.15
+"2005-03-19",11,"Tigray",17.18
+"2005-03-20",1,"Addis Ababa",13.44
+"2005-03-20",2,"Afar",23.22
+"2005-03-20",3,"Amhara",15.87
+"2005-03-20",4,"Benshangul-Gumaz",20.5
+"2005-03-20",5,"Dire Dawa",16.9
+"2005-03-20",6,"Gambela Peoples",26.06
+"2005-03-20",7,"Harari People",16.36
+"2005-03-20",8,"Oromia",17.76
+"2005-03-20",9,"Somali",24.32
+"2005-03-20",10,"Southern Nations, Nationalities and Peoples",19.31
+"2005-03-20",11,"Tigray",17.15
+"2005-03-21",1,"Addis Ababa",12.5
+"2005-03-21",2,"Afar",23.56
+"2005-03-21",3,"Amhara",16.76
+"2005-03-21",4,"Benshangul-Gumaz",23.25
+"2005-03-21",5,"Dire Dawa",15.95
+"2005-03-21",6,"Gambela Peoples",27.26
+"2005-03-21",7,"Harari People",14.66
+"2005-03-21",8,"Oromia",17.68
+"2005-03-21",9,"Somali",23.88
+"2005-03-21",10,"Southern Nations, Nationalities and Peoples",19.36
+"2005-03-21",11,"Tigray",18.59
+"2005-03-22",1,"Addis Ababa",12.84
+"2005-03-22",2,"Afar",23.83
+"2005-03-22",3,"Amhara",16.14
+"2005-03-22",4,"Benshangul-Gumaz",22.04
+"2005-03-22",5,"Dire Dawa",16.43
+"2005-03-22",6,"Gambela Peoples",25.25
+"2005-03-22",7,"Harari People",15.74
+"2005-03-22",8,"Oromia",17.24
+"2005-03-22",9,"Somali",23.34
+"2005-03-22",10,"Southern Nations, Nationalities and Peoples",18.47
+"2005-03-22",11,"Tigray",18.3
+"2005-03-23",1,"Addis Ababa",8.98
+"2005-03-23",2,"Afar",23.62
+"2005-03-23",3,"Amhara",16.31
+"2005-03-23",4,"Benshangul-Gumaz",23.82
+"2005-03-23",5,"Dire Dawa",14.98
+"2005-03-23",6,"Gambela Peoples",26.43
+"2005-03-23",7,"Harari People",14.82
+"2005-03-23",8,"Oromia",16.8
+"2005-03-23",9,"Somali",22.92
+"2005-03-23",10,"Southern Nations, Nationalities and Peoples",18.33
+"2005-03-23",11,"Tigray",19.14
+"2005-03-24",1,"Addis Ababa",9.24
+"2005-03-24",2,"Afar",23.46
+"2005-03-24",3,"Amhara",16.22
+"2005-03-24",4,"Benshangul-Gumaz",22.01
+"2005-03-24",5,"Dire Dawa",14.98
+"2005-03-24",6,"Gambela Peoples",25.2
+"2005-03-24",7,"Harari People",15.07
+"2005-03-24",8,"Oromia",16.86
+"2005-03-24",9,"Somali",23.27
+"2005-03-24",10,"Southern Nations, Nationalities and Peoples",18.75
+"2005-03-24",11,"Tigray",18.89
+"2005-03-25",1,"Addis Ababa",9.3
+"2005-03-25",2,"Afar",22.37
+"2005-03-25",3,"Amhara",16.34
+"2005-03-25",4,"Benshangul-Gumaz",24.37
+"2005-03-25",5,"Dire Dawa",16.04
+"2005-03-25",6,"Gambela Peoples",26.76
+"2005-03-25",7,"Harari People",15.37
+"2005-03-25",8,"Oromia",17.53
+"2005-03-25",9,"Somali",23.51
+"2005-03-25",10,"Southern Nations, Nationalities and Peoples",20.04
+"2005-03-25",11,"Tigray",17.9
+"2005-03-26",1,"Addis Ababa",10.13
+"2005-03-26",2,"Afar",23.65
+"2005-03-26",3,"Amhara",15
+"2005-03-26",4,"Benshangul-Gumaz",20.83
+"2005-03-26",5,"Dire Dawa",16.28
+"2005-03-26",6,"Gambela Peoples",25.74
+"2005-03-26",7,"Harari People",16.93
+"2005-03-26",8,"Oromia",17.43
+"2005-03-26",9,"Somali",23.53
+"2005-03-26",10,"Southern Nations, Nationalities and Peoples",18.94
+"2005-03-26",11,"Tigray",16.75
+"2005-03-27",1,"Addis Ababa",10.68
+"2005-03-27",2,"Afar",25.1
+"2005-03-27",3,"Amhara",17.1
+"2005-03-27",4,"Benshangul-Gumaz",23.2
+"2005-03-27",5,"Dire Dawa",16.41
+"2005-03-27",6,"Gambela Peoples",25.99
+"2005-03-27",7,"Harari People",16.78
+"2005-03-27",8,"Oromia",18.03
+"2005-03-27",9,"Somali",23.29
+"2005-03-27",10,"Southern Nations, Nationalities and Peoples",19.32
+"2005-03-27",11,"Tigray",19.02
+"2005-03-28",1,"Addis Ababa",10.5
+"2005-03-28",2,"Afar",24.1
+"2005-03-28",3,"Amhara",16.29
+"2005-03-28",4,"Benshangul-Gumaz",21.6
+"2005-03-28",5,"Dire Dawa",17.67
+"2005-03-28",6,"Gambela Peoples",24.86
+"2005-03-28",7,"Harari People",17.2
+"2005-03-28",8,"Oromia",18.28
+"2005-03-28",9,"Somali",22.98
+"2005-03-28",10,"Southern Nations, Nationalities and Peoples",19.52
+"2005-03-28",11,"Tigray",17.64
+"2005-03-29",1,"Addis Ababa",9.56
+"2005-03-29",2,"Afar",23.51
+"2005-03-29",3,"Amhara",16.01
+"2005-03-29",4,"Benshangul-Gumaz",22.82
+"2005-03-29",5,"Dire Dawa",16.9
+"2005-03-29",6,"Gambela Peoples",24.9
+"2005-03-29",7,"Harari People",16.21
+"2005-03-29",8,"Oromia",17.57
+"2005-03-29",9,"Somali",22.93
+"2005-03-29",10,"Southern Nations, Nationalities and Peoples",18.61
+"2005-03-29",11,"Tigray",18.09
+"2005-03-30",1,"Addis Ababa",9.8
+"2005-03-30",2,"Afar",23.63
+"2005-03-30",3,"Amhara",16.22
+"2005-03-30",4,"Benshangul-Gumaz",23.5
+"2005-03-30",5,"Dire Dawa",16.15
+"2005-03-30",6,"Gambela Peoples",26.73
+"2005-03-30",7,"Harari People",16.77
+"2005-03-30",8,"Oromia",17.93
+"2005-03-30",9,"Somali",22.71
+"2005-03-30",10,"Southern Nations, Nationalities and Peoples",19.76
+"2005-03-30",11,"Tigray",17.61
+"2005-03-31",1,"Addis Ababa",11.02
+"2005-03-31",2,"Afar",24.87
+"2005-03-31",3,"Amhara",17.25
+"2005-03-31",4,"Benshangul-Gumaz",24.62
+"2005-03-31",5,"Dire Dawa",15.94
+"2005-03-31",6,"Gambela Peoples",26.1
+"2005-03-31",7,"Harari People",15.65
+"2005-03-31",8,"Oromia",17.57
+"2005-03-31",9,"Somali",22.62
+"2005-03-31",10,"Southern Nations, Nationalities and Peoples",19.45
+"2005-03-31",11,"Tigray",18.96
+"2005-04-01",1,"Addis Ababa",10.99
+"2005-04-01",2,"Afar",25.08
+"2005-04-01",3,"Amhara",16.72
+"2005-04-01",4,"Benshangul-Gumaz",23.2
+"2005-04-01",5,"Dire Dawa",16.73
+"2005-04-01",6,"Gambela Peoples",26.11
+"2005-04-01",7,"Harari People",17.84
+"2005-04-01",8,"Oromia",17.29
+"2005-04-01",9,"Somali",22.85
+"2005-04-01",10,"Southern Nations, Nationalities and Peoples",18.47
+"2005-04-01",11,"Tigray",19.55
+"2005-04-02",1,"Addis Ababa",11.37
+"2005-04-02",2,"Afar",25.82
+"2005-04-02",3,"Amhara",17.77
+"2005-04-02",4,"Benshangul-Gumaz",25.39
+"2005-04-02",5,"Dire Dawa",16.5
+"2005-04-02",6,"Gambela Peoples",28.23
+"2005-04-02",7,"Harari People",18.8
+"2005-04-02",8,"Oromia",18.25
+"2005-04-02",9,"Somali",23.36
+"2005-04-02",10,"Southern Nations, Nationalities and Peoples",20.03
+"2005-04-02",11,"Tigray",20.25
+"2005-04-03",1,"Addis Ababa",11.45
+"2005-04-03",2,"Afar",25.94
+"2005-04-03",3,"Amhara",18.49
+"2005-04-03",4,"Benshangul-Gumaz",26.09
+"2005-04-03",5,"Dire Dawa",16.98
+"2005-04-03",6,"Gambela Peoples",28.16
+"2005-04-03",7,"Harari People",16.68
+"2005-04-03",8,"Oromia",18.9
+"2005-04-03",9,"Somali",23.59
+"2005-04-03",10,"Southern Nations, Nationalities and Peoples",20.39
+"2005-04-03",11,"Tigray",20.96
+"2005-04-04",1,"Addis Ababa",10.83
+"2005-04-04",2,"Afar",24.48
+"2005-04-04",3,"Amhara",18.06
+"2005-04-04",4,"Benshangul-Gumaz",25.34
+"2005-04-04",5,"Dire Dawa",18
+"2005-04-04",6,"Gambela Peoples",27.26
+"2005-04-04",7,"Harari People",16.49
+"2005-04-04",8,"Oromia",18.53
+"2005-04-04",9,"Somali",23.88
+"2005-04-04",10,"Southern Nations, Nationalities and Peoples",20.02
+"2005-04-04",11,"Tigray",19.64
+"2005-04-05",1,"Addis Ababa",14.54
+"2005-04-05",2,"Afar",25.11
+"2005-04-05",3,"Amhara",19.05
+"2005-04-05",4,"Benshangul-Gumaz",25.84
+"2005-04-05",5,"Dire Dawa",17.88
+"2005-04-05",6,"Gambela Peoples",28.77
+"2005-04-05",7,"Harari People",16.13
+"2005-04-05",8,"Oromia",20.18
+"2005-04-05",9,"Somali",24.39
+"2005-04-05",10,"Southern Nations, Nationalities and Peoples",21.61
+"2005-04-05",11,"Tigray",19.43
+"2005-04-06",1,"Addis Ababa",12.97
+"2005-04-06",2,"Afar",24.77
+"2005-04-06",3,"Amhara",18.22
+"2005-04-06",4,"Benshangul-Gumaz",25.07
+"2005-04-06",5,"Dire Dawa",16.73
+"2005-04-06",6,"Gambela Peoples",28.75
+"2005-04-06",7,"Harari People",15.72
+"2005-04-06",8,"Oromia",18.39
+"2005-04-06",9,"Somali",23.49
+"2005-04-06",10,"Southern Nations, Nationalities and Peoples",20.15
+"2005-04-06",11,"Tigray",19.32
+"2005-04-07",1,"Addis Ababa",13.43
+"2005-04-07",2,"Afar",25.41
+"2005-04-07",3,"Amhara",19.3
+"2005-04-07",4,"Benshangul-Gumaz",26.05
+"2005-04-07",5,"Dire Dawa",15.4
+"2005-04-07",6,"Gambela Peoples",27.77
+"2005-04-07",7,"Harari People",15.26
+"2005-04-07",8,"Oromia",19.05
+"2005-04-07",9,"Somali",23.26
+"2005-04-07",10,"Southern Nations, Nationalities and Peoples",20.17
+"2005-04-07",11,"Tigray",20.54
+"2005-04-08",1,"Addis Ababa",13.38
+"2005-04-08",2,"Afar",26.06
+"2005-04-08",3,"Amhara",19.72
+"2005-04-08",4,"Benshangul-Gumaz",24.77
+"2005-04-08",5,"Dire Dawa",16.17
+"2005-04-08",6,"Gambela Peoples",26.53
+"2005-04-08",7,"Harari People",16.62
+"2005-04-08",8,"Oromia",18.63
+"2005-04-08",9,"Somali",23.8
+"2005-04-08",10,"Southern Nations, Nationalities and Peoples",20.04
+"2005-04-08",11,"Tigray",22.13
+"2005-04-09",1,"Addis Ababa",14.68
+"2005-04-09",2,"Afar",25.7
+"2005-04-09",3,"Amhara",19.9
+"2005-04-09",4,"Benshangul-Gumaz",25.23
+"2005-04-09",5,"Dire Dawa",17.91
+"2005-04-09",6,"Gambela Peoples",27.07
+"2005-04-09",7,"Harari People",16.89
+"2005-04-09",8,"Oromia",18.59
+"2005-04-09",9,"Somali",23.87
+"2005-04-09",10,"Southern Nations, Nationalities and Peoples",19.87
+"2005-04-09",11,"Tigray",22.19
+"2005-04-10",1,"Addis Ababa",13.75
+"2005-04-10",2,"Afar",25.71
+"2005-04-10",3,"Amhara",18.92
+"2005-04-10",4,"Benshangul-Gumaz",25.42
+"2005-04-10",5,"Dire Dawa",18.78
+"2005-04-10",6,"Gambela Peoples",27.97
+"2005-04-10",7,"Harari People",17.62
+"2005-04-10",8,"Oromia",18.56
+"2005-04-10",9,"Somali",23.7
+"2005-04-10",10,"Southern Nations, Nationalities and Peoples",20.24
+"2005-04-10",11,"Tigray",20.38
+"2005-04-11",1,"Addis Ababa",15.5
+"2005-04-11",2,"Afar",26.68
+"2005-04-11",3,"Amhara",19.8
+"2005-04-11",4,"Benshangul-Gumaz",24.17
+"2005-04-11",5,"Dire Dawa",19.93
+"2005-04-11",6,"Gambela Peoples",27.54
+"2005-04-11",7,"Harari People",18.96
+"2005-04-11",8,"Oromia",19.54
+"2005-04-11",9,"Somali",23.57
+"2005-04-11",10,"Southern Nations, Nationalities and Peoples",21.51
+"2005-04-11",11,"Tigray",21.03
+"2005-04-12",1,"Addis Ababa",15.86
+"2005-04-12",2,"Afar",25.73
+"2005-04-12",3,"Amhara",20.18
+"2005-04-12",4,"Benshangul-Gumaz",26.86
+"2005-04-12",5,"Dire Dawa",19.56
+"2005-04-12",6,"Gambela Peoples",28.56
+"2005-04-12",7,"Harari People",17.78
+"2005-04-12",8,"Oromia",19.19
+"2005-04-12",9,"Somali",24.02
+"2005-04-12",10,"Southern Nations, Nationalities and Peoples",20.88
+"2005-04-12",11,"Tigray",21.27
+"2005-04-13",1,"Addis Ababa",15.52
+"2005-04-13",2,"Afar",26.68
+"2005-04-13",3,"Amhara",20.78
+"2005-04-13",4,"Benshangul-Gumaz",27.21
+"2005-04-13",5,"Dire Dawa",20.07
+"2005-04-13",6,"Gambela Peoples",29.19
+"2005-04-13",7,"Harari People",18.19
+"2005-04-13",8,"Oromia",19.86
+"2005-04-13",9,"Somali",24.69
+"2005-04-13",10,"Southern Nations, Nationalities and Peoples",21.1
+"2005-04-13",11,"Tigray",21.34
+"2005-04-14",1,"Addis Ababa",14.69
+"2005-04-14",2,"Afar",26.93
+"2005-04-14",3,"Amhara",20.3
+"2005-04-14",4,"Benshangul-Gumaz",27.1
+"2005-04-14",5,"Dire Dawa",19.95
+"2005-04-14",6,"Gambela Peoples",28.25
+"2005-04-14",7,"Harari People",16.98
+"2005-04-14",8,"Oromia",19.36
+"2005-04-14",9,"Somali",23.81
+"2005-04-14",10,"Southern Nations, Nationalities and Peoples",20.62
+"2005-04-14",11,"Tigray",21.85
+"2005-04-15",1,"Addis Ababa",14.51
+"2005-04-15",2,"Afar",27.4
+"2005-04-15",3,"Amhara",19.57
+"2005-04-15",4,"Benshangul-Gumaz",26.38
+"2005-04-15",5,"Dire Dawa",19.29
+"2005-04-15",6,"Gambela Peoples",27.42
+"2005-04-15",7,"Harari People",16.36
+"2005-04-15",8,"Oromia",18.49
+"2005-04-15",9,"Somali",23.56
+"2005-04-15",10,"Southern Nations, Nationalities and Peoples",19.97
+"2005-04-15",11,"Tigray",21.42
+"2005-04-16",1,"Addis Ababa",13.65
+"2005-04-16",2,"Afar",27.14
+"2005-04-16",3,"Amhara",18.91
+"2005-04-16",4,"Benshangul-Gumaz",25.31
+"2005-04-16",5,"Dire Dawa",19.07
+"2005-04-16",6,"Gambela Peoples",26.32
+"2005-04-16",7,"Harari People",16.69
+"2005-04-16",8,"Oromia",17.98
+"2005-04-16",9,"Somali",23.62
+"2005-04-16",10,"Southern Nations, Nationalities and Peoples",19.79
+"2005-04-16",11,"Tigray",20.89
+"2005-04-17",1,"Addis Ababa",13.15
+"2005-04-17",2,"Afar",27.54
+"2005-04-17",3,"Amhara",18.89
+"2005-04-17",4,"Benshangul-Gumaz",24.86
+"2005-04-17",5,"Dire Dawa",19.75
+"2005-04-17",6,"Gambela Peoples",27.02
+"2005-04-17",7,"Harari People",16.73
+"2005-04-17",8,"Oromia",18.42
+"2005-04-17",9,"Somali",23.77
+"2005-04-17",10,"Southern Nations, Nationalities and Peoples",20.08
+"2005-04-17",11,"Tigray",20.46
+"2005-04-18",1,"Addis Ababa",13.89
+"2005-04-18",2,"Afar",26.82
+"2005-04-18",3,"Amhara",17.72
+"2005-04-18",4,"Benshangul-Gumaz",23.86
+"2005-04-18",5,"Dire Dawa",19.84
+"2005-04-18",6,"Gambela Peoples",26.14
+"2005-04-18",7,"Harari People",16.21
+"2005-04-18",8,"Oromia",18.13
+"2005-04-18",9,"Somali",23.47
+"2005-04-18",10,"Southern Nations, Nationalities and Peoples",20.1
+"2005-04-18",11,"Tigray",19.15
+"2005-04-19",1,"Addis Ababa",14.07
+"2005-04-19",2,"Afar",26.82
+"2005-04-19",3,"Amhara",18.07
+"2005-04-19",4,"Benshangul-Gumaz",24.48
+"2005-04-19",5,"Dire Dawa",18.99
+"2005-04-19",6,"Gambela Peoples",27.21
+"2005-04-19",7,"Harari People",16.13
+"2005-04-19",8,"Oromia",17.9
+"2005-04-19",9,"Somali",23.51
+"2005-04-19",10,"Southern Nations, Nationalities and Peoples",19.91
+"2005-04-19",11,"Tigray",20.18
+"2005-04-20",1,"Addis Ababa",12.45
+"2005-04-20",2,"Afar",24.78
+"2005-04-20",3,"Amhara",17.32
+"2005-04-20",4,"Benshangul-Gumaz",24.31
+"2005-04-20",5,"Dire Dawa",17.76
+"2005-04-20",6,"Gambela Peoples",26.92
+"2005-04-20",7,"Harari People",15.25
+"2005-04-20",8,"Oromia",17.39
+"2005-04-20",9,"Somali",22.85
+"2005-04-20",10,"Southern Nations, Nationalities and Peoples",19.78
+"2005-04-20",11,"Tigray",19.28
+"2005-04-21",1,"Addis Ababa",12.87
+"2005-04-21",2,"Afar",24.89
+"2005-04-21",3,"Amhara",18.19
+"2005-04-21",4,"Benshangul-Gumaz",24.09
+"2005-04-21",5,"Dire Dawa",17.75
+"2005-04-21",6,"Gambela Peoples",26.96
+"2005-04-21",7,"Harari People",15.95
+"2005-04-21",8,"Oromia",17.86
+"2005-04-21",9,"Somali",22.11
+"2005-04-21",10,"Southern Nations, Nationalities and Peoples",20.33
+"2005-04-21",11,"Tigray",20.39
+"2005-04-22",1,"Addis Ababa",13.25
+"2005-04-22",2,"Afar",25.61
+"2005-04-22",3,"Amhara",18.57
+"2005-04-22",4,"Benshangul-Gumaz",25.42
+"2005-04-22",5,"Dire Dawa",17.61
+"2005-04-22",6,"Gambela Peoples",27.97
+"2005-04-22",7,"Harari People",15.99
+"2005-04-22",8,"Oromia",17.77
+"2005-04-22",9,"Somali",21.39
+"2005-04-22",10,"Southern Nations, Nationalities and Peoples",20.26
+"2005-04-22",11,"Tigray",20.32
+"2005-04-23",1,"Addis Ababa",14.22
+"2005-04-23",2,"Afar",26.48
+"2005-04-23",3,"Amhara",18.88
+"2005-04-23",4,"Benshangul-Gumaz",26.1
+"2005-04-23",5,"Dire Dawa",18.65
+"2005-04-23",6,"Gambela Peoples",27.19
+"2005-04-23",7,"Harari People",16.64
+"2005-04-23",8,"Oromia",17.83
+"2005-04-23",9,"Somali",21.67
+"2005-04-23",10,"Southern Nations, Nationalities and Peoples",20.26
+"2005-04-23",11,"Tigray",19.99
+"2005-04-24",1,"Addis Ababa",13.99
+"2005-04-24",2,"Afar",26.22
+"2005-04-24",3,"Amhara",17.25
+"2005-04-24",4,"Benshangul-Gumaz",22.49
+"2005-04-24",5,"Dire Dawa",18.65
+"2005-04-24",6,"Gambela Peoples",26.54
+"2005-04-24",7,"Harari People",15.81
+"2005-04-24",8,"Oromia",17.17
+"2005-04-24",9,"Somali",21.66
+"2005-04-24",10,"Southern Nations, Nationalities and Peoples",19.84
+"2005-04-24",11,"Tigray",19.35
+"2005-04-25",1,"Addis Ababa",12.48
+"2005-04-25",2,"Afar",26.63
+"2005-04-25",3,"Amhara",17.39
+"2005-04-25",4,"Benshangul-Gumaz",22.58
+"2005-04-25",5,"Dire Dawa",18.76
+"2005-04-25",6,"Gambela Peoples",26.64
+"2005-04-25",7,"Harari People",16.9
+"2005-04-25",8,"Oromia",17.47
+"2005-04-25",9,"Somali",22.21
+"2005-04-25",10,"Southern Nations, Nationalities and Peoples",19.76
+"2005-04-25",11,"Tigray",19.42
+"2005-04-26",1,"Addis Ababa",13.88
+"2005-04-26",2,"Afar",25.87
+"2005-04-26",3,"Amhara",18.12
+"2005-04-26",4,"Benshangul-Gumaz",23.57
+"2005-04-26",5,"Dire Dawa",19.61
+"2005-04-26",6,"Gambela Peoples",25.1
+"2005-04-26",7,"Harari People",16.72
+"2005-04-26",8,"Oromia",17.82
+"2005-04-26",9,"Somali",22.38
+"2005-04-26",10,"Southern Nations, Nationalities and Peoples",20.51
+"2005-04-26",11,"Tigray",20.03
+"2005-04-27",1,"Addis Ababa",13.42
+"2005-04-27",2,"Afar",23.8
+"2005-04-27",3,"Amhara",17.54
+"2005-04-27",4,"Benshangul-Gumaz",23.68
+"2005-04-27",5,"Dire Dawa",18.45
+"2005-04-27",6,"Gambela Peoples",27.45
+"2005-04-27",7,"Harari People",16.87
+"2005-04-27",8,"Oromia",17.79
+"2005-04-27",9,"Somali",22.2
+"2005-04-27",10,"Southern Nations, Nationalities and Peoples",20.4
+"2005-04-27",11,"Tigray",19.3
+"2005-04-28",1,"Addis Ababa",12.59
+"2005-04-28",2,"Afar",24.96
+"2005-04-28",3,"Amhara",16.95
+"2005-04-28",4,"Benshangul-Gumaz",22.27
+"2005-04-28",5,"Dire Dawa",17.41
+"2005-04-28",6,"Gambela Peoples",24.44
+"2005-04-28",7,"Harari People",15.95
+"2005-04-28",8,"Oromia",17.02
+"2005-04-28",9,"Somali",21.75
+"2005-04-28",10,"Southern Nations, Nationalities and Peoples",19.69
+"2005-04-28",11,"Tigray",18.41
+"2005-04-29",1,"Addis Ababa",13.66
+"2005-04-29",2,"Afar",26.01
+"2005-04-29",3,"Amhara",16.24
+"2005-04-29",4,"Benshangul-Gumaz",21.56
+"2005-04-29",5,"Dire Dawa",18.42
+"2005-04-29",6,"Gambela Peoples",24.26
+"2005-04-29",7,"Harari People",16.62
+"2005-04-29",8,"Oromia",17.43
+"2005-04-29",9,"Somali",21.97
+"2005-04-29",10,"Southern Nations, Nationalities and Peoples",19.17
+"2005-04-29",11,"Tigray",17.72
+"2005-04-30",1,"Addis Ababa",12.17
+"2005-04-30",2,"Afar",25.85
+"2005-04-30",3,"Amhara",17.22
+"2005-04-30",4,"Benshangul-Gumaz",23.62
+"2005-04-30",5,"Dire Dawa",17.88
+"2005-04-30",6,"Gambela Peoples",25.88
+"2005-04-30",7,"Harari People",16.07
+"2005-04-30",8,"Oromia",17.2
+"2005-04-30",9,"Somali",21.85
+"2005-04-30",10,"Southern Nations, Nationalities and Peoples",18.39
+"2005-04-30",11,"Tigray",17.46
+"2005-05-01",1,"Addis Ababa",12.62
+"2005-05-01",2,"Afar",26.07
+"2005-05-01",3,"Amhara",17.38
+"2005-05-01",4,"Benshangul-Gumaz",23.56
+"2005-05-01",5,"Dire Dawa",17.81
+"2005-05-01",6,"Gambela Peoples",26.81
+"2005-05-01",7,"Harari People",15.8
+"2005-05-01",8,"Oromia",17.47
+"2005-05-01",9,"Somali",21.87
+"2005-05-01",10,"Southern Nations, Nationalities and Peoples",19.05
+"2005-05-01",11,"Tigray",18.22
+"2005-05-02",1,"Addis Ababa",13.82
+"2005-05-02",2,"Afar",26.93
+"2005-05-02",3,"Amhara",18.49
+"2005-05-02",4,"Benshangul-Gumaz",24.1
+"2005-05-02",5,"Dire Dawa",17.51
+"2005-05-02",6,"Gambela Peoples",25.14
+"2005-05-02",7,"Harari People",17.16
+"2005-05-02",8,"Oromia",18.13
+"2005-05-02",9,"Somali",22.68
+"2005-05-02",10,"Southern Nations, Nationalities and Peoples",19.39
+"2005-05-02",11,"Tigray",19.04
+"2005-05-03",1,"Addis Ababa",13.97
+"2005-05-03",2,"Afar",27.94
+"2005-05-03",3,"Amhara",19.5
+"2005-05-03",4,"Benshangul-Gumaz",24.46
+"2005-05-03",5,"Dire Dawa",19.01
+"2005-05-03",6,"Gambela Peoples",25.48
+"2005-05-03",7,"Harari People",16.85
+"2005-05-03",8,"Oromia",17.88
+"2005-05-03",9,"Somali",22.47
+"2005-05-03",10,"Southern Nations, Nationalities and Peoples",19.15
+"2005-05-03",11,"Tigray",20.85
+"2005-05-04",1,"Addis Ababa",13.47
+"2005-05-04",2,"Afar",26.41
+"2005-05-04",3,"Amhara",16.9
+"2005-05-04",4,"Benshangul-Gumaz",21.75
+"2005-05-04",5,"Dire Dawa",18.43
+"2005-05-04",6,"Gambela Peoples",23.15
+"2005-05-04",7,"Harari People",16.14
+"2005-05-04",8,"Oromia",16.82
+"2005-05-04",9,"Somali",22.21
+"2005-05-04",10,"Southern Nations, Nationalities and Peoples",17.86
+"2005-05-04",11,"Tigray",18.88
+"2005-05-05",1,"Addis Ababa",12.64
+"2005-05-05",2,"Afar",27.24
+"2005-05-05",3,"Amhara",16.86
+"2005-05-05",4,"Benshangul-Gumaz",22.56
+"2005-05-05",5,"Dire Dawa",18.88
+"2005-05-05",6,"Gambela Peoples",24.58
+"2005-05-05",7,"Harari People",17.29
+"2005-05-05",8,"Oromia",17.55
+"2005-05-05",9,"Somali",22.85
+"2005-05-05",10,"Southern Nations, Nationalities and Peoples",18.61
+"2005-05-05",11,"Tigray",18.38
+"2005-05-06",1,"Addis Ababa",14.04
+"2005-05-06",2,"Afar",25.55
+"2005-05-06",3,"Amhara",16.91
+"2005-05-06",4,"Benshangul-Gumaz",21.97
+"2005-05-06",5,"Dire Dawa",19.12
+"2005-05-06",6,"Gambela Peoples",24.06
+"2005-05-06",7,"Harari People",16.5
+"2005-05-06",8,"Oromia",17.53
+"2005-05-06",9,"Somali",22.94
+"2005-05-06",10,"Southern Nations, Nationalities and Peoples",18.82
+"2005-05-06",11,"Tigray",17.68
+"2005-05-07",1,"Addis Ababa",12.69
+"2005-05-07",2,"Afar",25.57
+"2005-05-07",3,"Amhara",16.65
+"2005-05-07",4,"Benshangul-Gumaz",21.05
+"2005-05-07",5,"Dire Dawa",20.7
+"2005-05-07",6,"Gambela Peoples",22.68
+"2005-05-07",7,"Harari People",15.94
+"2005-05-07",8,"Oromia",16.95
+"2005-05-07",9,"Somali",22.85
+"2005-05-07",10,"Southern Nations, Nationalities and Peoples",17.79
+"2005-05-07",11,"Tigray",18.1
+"2005-05-08",1,"Addis Ababa",13.12
+"2005-05-08",2,"Afar",26.48
+"2005-05-08",3,"Amhara",17.79
+"2005-05-08",4,"Benshangul-Gumaz",22.76
+"2005-05-08",5,"Dire Dawa",20.12
+"2005-05-08",6,"Gambela Peoples",24.18
+"2005-05-08",7,"Harari People",16.77
+"2005-05-08",8,"Oromia",17.46
+"2005-05-08",9,"Somali",22.81
+"2005-05-08",10,"Southern Nations, Nationalities and Peoples",18.73
+"2005-05-08",11,"Tigray",18.73
+"2005-05-09",1,"Addis Ababa",12.67
+"2005-05-09",2,"Afar",26.84
+"2005-05-09",3,"Amhara",17.05
+"2005-05-09",4,"Benshangul-Gumaz",21.47
+"2005-05-09",5,"Dire Dawa",18.09
+"2005-05-09",6,"Gambela Peoples",24
+"2005-05-09",7,"Harari People",15.7
+"2005-05-09",8,"Oromia",17.13
+"2005-05-09",9,"Somali",22.42
+"2005-05-09",10,"Southern Nations, Nationalities and Peoples",18.72
+"2005-05-09",11,"Tigray",16.72
+"2005-05-10",1,"Addis Ababa",11.6
+"2005-05-10",2,"Afar",26.71
+"2005-05-10",3,"Amhara",16.78
+"2005-05-10",4,"Benshangul-Gumaz",22.5
+"2005-05-10",5,"Dire Dawa",18.24
+"2005-05-10",6,"Gambela Peoples",24.21
+"2005-05-10",7,"Harari People",16.01
+"2005-05-10",8,"Oromia",16.71
+"2005-05-10",9,"Somali",22.27
+"2005-05-10",10,"Southern Nations, Nationalities and Peoples",18.09
+"2005-05-10",11,"Tigray",17.95
+"2005-05-11",1,"Addis Ababa",12.36
+"2005-05-11",2,"Afar",27.23
+"2005-05-11",3,"Amhara",16.7
+"2005-05-11",4,"Benshangul-Gumaz",22.73
+"2005-05-11",5,"Dire Dawa",18.73
+"2005-05-11",6,"Gambela Peoples",25
+"2005-05-11",7,"Harari People",15.93
+"2005-05-11",8,"Oromia",17.25
+"2005-05-11",9,"Somali",22.93
+"2005-05-11",10,"Southern Nations, Nationalities and Peoples",18.95
+"2005-05-11",11,"Tigray",18.88
+"2005-05-12",1,"Addis Ababa",13.01
+"2005-05-12",2,"Afar",27.26
+"2005-05-12",3,"Amhara",17.69
+"2005-05-12",4,"Benshangul-Gumaz",23.58
+"2005-05-12",5,"Dire Dawa",18.21
+"2005-05-12",6,"Gambela Peoples",26.29
+"2005-05-12",7,"Harari People",15.83
+"2005-05-12",8,"Oromia",17.76
+"2005-05-12",9,"Somali",23.37
+"2005-05-12",10,"Southern Nations, Nationalities and Peoples",19.2
+"2005-05-12",11,"Tigray",19.11
+"2005-05-13",1,"Addis Ababa",13.82
+"2005-05-13",2,"Afar",26.7
+"2005-05-13",3,"Amhara",18.11
+"2005-05-13",4,"Benshangul-Gumaz",23.61
+"2005-05-13",5,"Dire Dawa",19.06
+"2005-05-13",6,"Gambela Peoples",23.47
+"2005-05-13",7,"Harari People",16.23
+"2005-05-13",8,"Oromia",17.35
+"2005-05-13",9,"Somali",22.55
+"2005-05-13",10,"Southern Nations, Nationalities and Peoples",18.42
+"2005-05-13",11,"Tigray",19.45
+"2005-05-14",1,"Addis Ababa",13.02
+"2005-05-14",2,"Afar",25.61
+"2005-05-14",3,"Amhara",16.22
+"2005-05-14",4,"Benshangul-Gumaz",20.44
+"2005-05-14",5,"Dire Dawa",18.5
+"2005-05-14",6,"Gambela Peoples",24.16
+"2005-05-14",7,"Harari People",15.95
+"2005-05-14",8,"Oromia",17.18
+"2005-05-14",9,"Somali",23.16
+"2005-05-14",10,"Southern Nations, Nationalities and Peoples",18.68
+"2005-05-14",11,"Tigray",17.13
+"2005-05-15",1,"Addis Ababa",13.13
+"2005-05-15",2,"Afar",25.6
+"2005-05-15",3,"Amhara",16.78
+"2005-05-15",4,"Benshangul-Gumaz",21.69
+"2005-05-15",5,"Dire Dawa",17.93
+"2005-05-15",6,"Gambela Peoples",24.37
+"2005-05-15",7,"Harari People",15.73
+"2005-05-15",8,"Oromia",16.94
+"2005-05-15",9,"Somali",23.43
+"2005-05-15",10,"Southern Nations, Nationalities and Peoples",18.29
+"2005-05-15",11,"Tigray",19.14
+"2005-05-16",1,"Addis Ababa",14.38
+"2005-05-16",2,"Afar",26.75
+"2005-05-16",3,"Amhara",18.39
+"2005-05-16",4,"Benshangul-Gumaz",23.38
+"2005-05-16",5,"Dire Dawa",18.28
+"2005-05-16",6,"Gambela Peoples",25.56
+"2005-05-16",7,"Harari People",15.8
+"2005-05-16",8,"Oromia",17.58
+"2005-05-16",9,"Somali",23.23
+"2005-05-16",10,"Southern Nations, Nationalities and Peoples",18.89
+"2005-05-16",11,"Tigray",19.73
+"2005-05-17",1,"Addis Ababa",13.13
+"2005-05-17",2,"Afar",27.83
+"2005-05-17",3,"Amhara",19.12
+"2005-05-17",4,"Benshangul-Gumaz",23.86
+"2005-05-17",5,"Dire Dawa",19.22
+"2005-05-17",6,"Gambela Peoples",26.17
+"2005-05-17",7,"Harari People",16.95
+"2005-05-17",8,"Oromia",17.84
+"2005-05-17",9,"Somali",22.66
+"2005-05-17",10,"Southern Nations, Nationalities and Peoples",19.63
+"2005-05-17",11,"Tigray",21.1
+"2005-05-18",1,"Addis Ababa",13.51
+"2005-05-18",2,"Afar",28.07
+"2005-05-18",3,"Amhara",19.59
+"2005-05-18",4,"Benshangul-Gumaz",24.86
+"2005-05-18",5,"Dire Dawa",20.88
+"2005-05-18",6,"Gambela Peoples",26.39
+"2005-05-18",7,"Harari People",17.48
+"2005-05-18",8,"Oromia",18.3
+"2005-05-18",9,"Somali",22.15
+"2005-05-18",10,"Southern Nations, Nationalities and Peoples",19.66
+"2005-05-18",11,"Tigray",21.05
+"2005-05-19",1,"Addis Ababa",13.71
+"2005-05-19",2,"Afar",27.92
+"2005-05-19",3,"Amhara",19.1
+"2005-05-19",4,"Benshangul-Gumaz",24.45
+"2005-05-19",5,"Dire Dawa",19.27
+"2005-05-19",6,"Gambela Peoples",26.59
+"2005-05-19",7,"Harari People",16.55
+"2005-05-19",8,"Oromia",17.46
+"2005-05-19",9,"Somali",21.26
+"2005-05-19",10,"Southern Nations, Nationalities and Peoples",19.42
+"2005-05-19",11,"Tigray",20.68
+"2005-05-20",1,"Addis Ababa",13.95
+"2005-05-20",2,"Afar",27.61
+"2005-05-20",3,"Amhara",19.52
+"2005-05-20",4,"Benshangul-Gumaz",25.74
+"2005-05-20",5,"Dire Dawa",19.18
+"2005-05-20",6,"Gambela Peoples",26.89
+"2005-05-20",7,"Harari People",16.18
+"2005-05-20",8,"Oromia",18.19
+"2005-05-20",9,"Somali",22.38
+"2005-05-20",10,"Southern Nations, Nationalities and Peoples",19.69
+"2005-05-20",11,"Tigray",21.32
+"2005-05-21",1,"Addis Ababa",13.27
+"2005-05-21",2,"Afar",27.18
+"2005-05-21",3,"Amhara",18.95
+"2005-05-21",4,"Benshangul-Gumaz",23.94
+"2005-05-21",5,"Dire Dawa",18.43
+"2005-05-21",6,"Gambela Peoples",24.93
+"2005-05-21",7,"Harari People",15.76
+"2005-05-21",8,"Oromia",17.32
+"2005-05-21",9,"Somali",22.23
+"2005-05-21",10,"Southern Nations, Nationalities and Peoples",19.15
+"2005-05-21",11,"Tigray",20.77
+"2005-05-22",1,"Addis Ababa",12.57
+"2005-05-22",2,"Afar",26.74
+"2005-05-22",3,"Amhara",17.94
+"2005-05-22",4,"Benshangul-Gumaz",24.79
+"2005-05-22",5,"Dire Dawa",18.93
+"2005-05-22",6,"Gambela Peoples",24.26
+"2005-05-22",7,"Harari People",16.27
+"2005-05-22",8,"Oromia",16.84
+"2005-05-22",9,"Somali",21.31
+"2005-05-22",10,"Southern Nations, Nationalities and Peoples",18.3
+"2005-05-22",11,"Tigray",20.97
+"2005-05-23",1,"Addis Ababa",11.53
+"2005-05-23",2,"Afar",27.1
+"2005-05-23",3,"Amhara",17.59
+"2005-05-23",4,"Benshangul-Gumaz",23.57
+"2005-05-23",5,"Dire Dawa",18.74
+"2005-05-23",6,"Gambela Peoples",23.92
+"2005-05-23",7,"Harari People",15.91
+"2005-05-23",8,"Oromia",16.25
+"2005-05-23",9,"Somali",21.36
+"2005-05-23",10,"Southern Nations, Nationalities and Peoples",17.62
+"2005-05-23",11,"Tigray",19.89
+"2005-05-24",1,"Addis Ababa",11.73
+"2005-05-24",2,"Afar",28.14
+"2005-05-24",3,"Amhara",16.33
+"2005-05-24",4,"Benshangul-Gumaz",21.46
+"2005-05-24",5,"Dire Dawa",17.55
+"2005-05-24",6,"Gambela Peoples",24.54
+"2005-05-24",7,"Harari People",16.47
+"2005-05-24",8,"Oromia",16.92
+"2005-05-24",9,"Somali",21.93
+"2005-05-24",10,"Southern Nations, Nationalities and Peoples",18.46
+"2005-05-24",11,"Tigray",17.88
+"2005-05-25",1,"Addis Ababa",12.42
+"2005-05-25",2,"Afar",27.97
+"2005-05-25",3,"Amhara",16.5
+"2005-05-25",4,"Benshangul-Gumaz",21.63
+"2005-05-25",5,"Dire Dawa",18.53
+"2005-05-25",6,"Gambela Peoples",23.59
+"2005-05-25",7,"Harari People",16.48
+"2005-05-25",8,"Oromia",16.79
+"2005-05-25",9,"Somali",21.5
+"2005-05-25",10,"Southern Nations, Nationalities and Peoples",17.73
+"2005-05-25",11,"Tigray",18.02
+"2005-05-26",1,"Addis Ababa",11.18
+"2005-05-26",2,"Afar",27.12
+"2005-05-26",3,"Amhara",16.44
+"2005-05-26",4,"Benshangul-Gumaz",20.07
+"2005-05-26",5,"Dire Dawa",18.07
+"2005-05-26",6,"Gambela Peoples",22.71
+"2005-05-26",7,"Harari People",15.48
+"2005-05-26",8,"Oromia",16.92
+"2005-05-26",9,"Somali",21.63
+"2005-05-26",10,"Southern Nations, Nationalities and Peoples",18.04
+"2005-05-26",11,"Tigray",17.97
+"2005-05-27",1,"Addis Ababa",12.8
+"2005-05-27",2,"Afar",27
+"2005-05-27",3,"Amhara",17.22
+"2005-05-27",4,"Benshangul-Gumaz",21.89
+"2005-05-27",5,"Dire Dawa",16.96
+"2005-05-27",6,"Gambela Peoples",23.13
+"2005-05-27",7,"Harari People",14.45
+"2005-05-27",8,"Oromia",16.56
+"2005-05-27",9,"Somali",21.21
+"2005-05-27",10,"Southern Nations, Nationalities and Peoples",17.15
+"2005-05-27",11,"Tigray",18.73
+"2005-05-28",1,"Addis Ababa",11.39
+"2005-05-28",2,"Afar",28.16
+"2005-05-28",3,"Amhara",17.36
+"2005-05-28",4,"Benshangul-Gumaz",21.33
+"2005-05-28",5,"Dire Dawa",17.28
+"2005-05-28",6,"Gambela Peoples",23.87
+"2005-05-28",7,"Harari People",17.05
+"2005-05-28",8,"Oromia",16.94
+"2005-05-28",9,"Somali",21.79
+"2005-05-28",10,"Southern Nations, Nationalities and Peoples",17.88
+"2005-05-28",11,"Tigray",18.01
+"2005-05-29",1,"Addis Ababa",11.5
+"2005-05-29",2,"Afar",28.17
+"2005-05-29",3,"Amhara",18.4
+"2005-05-29",4,"Benshangul-Gumaz",22.36
+"2005-05-29",5,"Dire Dawa",18.3
+"2005-05-29",6,"Gambela Peoples",22.84
+"2005-05-29",7,"Harari People",16.47
+"2005-05-29",8,"Oromia",17.58
+"2005-05-29",9,"Somali",21.97
+"2005-05-29",10,"Southern Nations, Nationalities and Peoples",18.47
+"2005-05-29",11,"Tigray",19.64
+"2005-05-30",1,"Addis Ababa",11.33
+"2005-05-30",2,"Afar",28.18
+"2005-05-30",3,"Amhara",16.88
+"2005-05-30",4,"Benshangul-Gumaz",21.04
+"2005-05-30",5,"Dire Dawa",17.79
+"2005-05-30",6,"Gambela Peoples",21.82
+"2005-05-30",7,"Harari People",17.13
+"2005-05-30",8,"Oromia",17.07
+"2005-05-30",9,"Somali",21.98
+"2005-05-30",10,"Southern Nations, Nationalities and Peoples",17.87
+"2005-05-30",11,"Tigray",17.93
+"2005-05-31",1,"Addis Ababa",12.3
+"2005-05-31",2,"Afar",28.8
+"2005-05-31",3,"Amhara",17.68
+"2005-05-31",4,"Benshangul-Gumaz",22.5
+"2005-05-31",5,"Dire Dawa",20.54
+"2005-05-31",6,"Gambela Peoples",24.65
+"2005-05-31",7,"Harari People",17.14
+"2005-05-31",8,"Oromia",18.09
+"2005-05-31",9,"Somali",23.03
+"2005-05-31",10,"Southern Nations, Nationalities and Peoples",19.31
+"2005-05-31",11,"Tigray",18.43
+"2005-06-01",1,"Addis Ababa",10.98
+"2005-06-01",2,"Afar",28.4
+"2005-06-01",3,"Amhara",17.65
+"2005-06-01",4,"Benshangul-Gumaz",23.36
+"2005-06-01",5,"Dire Dawa",20.28
+"2005-06-01",6,"Gambela Peoples",24.34
+"2005-06-01",7,"Harari People",17.5
+"2005-06-01",8,"Oromia",17.21
+"2005-06-01",9,"Somali",22.77
+"2005-06-01",10,"Southern Nations, Nationalities and Peoples",18.55
+"2005-06-01",11,"Tigray",19.2
+"2005-06-02",1,"Addis Ababa",10.19
+"2005-06-02",2,"Afar",27.93
+"2005-06-02",3,"Amhara",16.89
+"2005-06-02",4,"Benshangul-Gumaz",21.34
+"2005-06-02",5,"Dire Dawa",19.37
+"2005-06-02",6,"Gambela Peoples",24.16
+"2005-06-02",7,"Harari People",16.68
+"2005-06-02",8,"Oromia",17.02
+"2005-06-02",9,"Somali",22.7
+"2005-06-02",10,"Southern Nations, Nationalities and Peoples",18.99
+"2005-06-02",11,"Tigray",18.98
+"2005-06-03",1,"Addis Ababa",12.92
+"2005-06-03",2,"Afar",29.4
+"2005-06-03",3,"Amhara",17.9
+"2005-06-03",4,"Benshangul-Gumaz",21.59
+"2005-06-03",5,"Dire Dawa",20.32
+"2005-06-03",6,"Gambela Peoples",24.56
+"2005-06-03",7,"Harari People",17.49
+"2005-06-03",8,"Oromia",17.57
+"2005-06-03",9,"Somali",22.8
+"2005-06-03",10,"Southern Nations, Nationalities and Peoples",18.84
+"2005-06-03",11,"Tigray",19.85
+"2005-06-04",1,"Addis Ababa",11.48
+"2005-06-04",2,"Afar",28.39
+"2005-06-04",3,"Amhara",16.48
+"2005-06-04",4,"Benshangul-Gumaz",20.45
+"2005-06-04",5,"Dire Dawa",17.49
+"2005-06-04",6,"Gambela Peoples",24.51
+"2005-06-04",7,"Harari People",14.28
+"2005-06-04",8,"Oromia",16.45
+"2005-06-04",9,"Somali",22.09
+"2005-06-04",10,"Southern Nations, Nationalities and Peoples",18.16
+"2005-06-04",11,"Tigray",18.55
+"2005-06-05",1,"Addis Ababa",12.77
+"2005-06-05",2,"Afar",28.11
+"2005-06-05",3,"Amhara",17.56
+"2005-06-05",4,"Benshangul-Gumaz",21.77
+"2005-06-05",5,"Dire Dawa",18.3
+"2005-06-05",6,"Gambela Peoples",24.27
+"2005-06-05",7,"Harari People",15.14
+"2005-06-05",8,"Oromia",17.03
+"2005-06-05",9,"Somali",22.65
+"2005-06-05",10,"Southern Nations, Nationalities and Peoples",18.73
+"2005-06-05",11,"Tigray",18.82
+"2005-06-06",1,"Addis Ababa",11.94
+"2005-06-06",2,"Afar",27.74
+"2005-06-06",3,"Amhara",17.23
+"2005-06-06",4,"Benshangul-Gumaz",21.98
+"2005-06-06",5,"Dire Dawa",17.7
+"2005-06-06",6,"Gambela Peoples",25.04
+"2005-06-06",7,"Harari People",15.12
+"2005-06-06",8,"Oromia",16.48
+"2005-06-06",9,"Somali",22.43
+"2005-06-06",10,"Southern Nations, Nationalities and Peoples",18.63
+"2005-06-06",11,"Tigray",19.48
+"2005-06-07",1,"Addis Ababa",13.05
+"2005-06-07",2,"Afar",28.43
+"2005-06-07",3,"Amhara",17.81
+"2005-06-07",4,"Benshangul-Gumaz",21.49
+"2005-06-07",5,"Dire Dawa",18.85
+"2005-06-07",6,"Gambela Peoples",24.28
+"2005-06-07",7,"Harari People",16.04
+"2005-06-07",8,"Oromia",16.84
+"2005-06-07",9,"Somali",22.75
+"2005-06-07",10,"Southern Nations, Nationalities and Peoples",18.53
+"2005-06-07",11,"Tigray",19.47
+"2005-06-08",1,"Addis Ababa",13.5
+"2005-06-08",2,"Afar",29.78
+"2005-06-08",3,"Amhara",18.51
+"2005-06-08",4,"Benshangul-Gumaz",21.99
+"2005-06-08",5,"Dire Dawa",18.56
+"2005-06-08",6,"Gambela Peoples",25.11
+"2005-06-08",7,"Harari People",15.61
+"2005-06-08",8,"Oromia",17.75
+"2005-06-08",9,"Somali",23.33
+"2005-06-08",10,"Southern Nations, Nationalities and Peoples",19.43
+"2005-06-08",11,"Tigray",19.57
+"2005-06-09",1,"Addis Ababa",13.32
+"2005-06-09",2,"Afar",28.14
+"2005-06-09",3,"Amhara",16.24
+"2005-06-09",4,"Benshangul-Gumaz",19
+"2005-06-09",5,"Dire Dawa",18.31
+"2005-06-09",6,"Gambela Peoples",22.28
+"2005-06-09",7,"Harari People",15.41
+"2005-06-09",8,"Oromia",16.67
+"2005-06-09",9,"Somali",22.68
+"2005-06-09",10,"Southern Nations, Nationalities and Peoples",18.1
+"2005-06-09",11,"Tigray",18.42
+"2005-06-10",1,"Addis Ababa",12.7
+"2005-06-10",2,"Afar",29.7
+"2005-06-10",3,"Amhara",17.52
+"2005-06-10",4,"Benshangul-Gumaz",20.36
+"2005-06-10",5,"Dire Dawa",18.96
+"2005-06-10",6,"Gambela Peoples",24.12
+"2005-06-10",7,"Harari People",16.14
+"2005-06-10",8,"Oromia",16.99
+"2005-06-10",9,"Somali",23.13
+"2005-06-10",10,"Southern Nations, Nationalities and Peoples",19
+"2005-06-10",11,"Tigray",18.82
+"2005-06-11",1,"Addis Ababa",13.35
+"2005-06-11",2,"Afar",28.23
+"2005-06-11",3,"Amhara",17.39
+"2005-06-11",4,"Benshangul-Gumaz",20.78
+"2005-06-11",5,"Dire Dawa",19.31
+"2005-06-11",6,"Gambela Peoples",23.3
+"2005-06-11",7,"Harari People",18.03
+"2005-06-11",8,"Oromia",17.59
+"2005-06-11",9,"Somali",23.79
+"2005-06-11",10,"Southern Nations, Nationalities and Peoples",18.53
+"2005-06-11",11,"Tigray",18.23
+"2005-06-12",1,"Addis Ababa",12.45
+"2005-06-12",2,"Afar",28.56
+"2005-06-12",3,"Amhara",17.31
+"2005-06-12",4,"Benshangul-Gumaz",21.15
+"2005-06-12",5,"Dire Dawa",19.61
+"2005-06-12",6,"Gambela Peoples",23.98
+"2005-06-12",7,"Harari People",16.48
+"2005-06-12",8,"Oromia",17.29
+"2005-06-12",9,"Somali",23.77
+"2005-06-12",10,"Southern Nations, Nationalities and Peoples",18.81
+"2005-06-12",11,"Tigray",18.15
+"2005-06-13",1,"Addis Ababa",12.8
+"2005-06-13",2,"Afar",28.89
+"2005-06-13",3,"Amhara",17.59
+"2005-06-13",4,"Benshangul-Gumaz",21.3
+"2005-06-13",5,"Dire Dawa",19.05
+"2005-06-13",6,"Gambela Peoples",23.98
+"2005-06-13",7,"Harari People",16.92
+"2005-06-13",8,"Oromia",17.34
+"2005-06-13",9,"Somali",23.5
+"2005-06-13",10,"Southern Nations, Nationalities and Peoples",19.12
+"2005-06-13",11,"Tigray",18.89
+"2005-06-14",1,"Addis Ababa",12.59
+"2005-06-14",2,"Afar",28.34
+"2005-06-14",3,"Amhara",16.5
+"2005-06-14",4,"Benshangul-Gumaz",20.15
+"2005-06-14",5,"Dire Dawa",19.2
+"2005-06-14",6,"Gambela Peoples",23.31
+"2005-06-14",7,"Harari People",15.66
+"2005-06-14",8,"Oromia",17.05
+"2005-06-14",9,"Somali",23.45
+"2005-06-14",10,"Southern Nations, Nationalities and Peoples",18.5
+"2005-06-14",11,"Tigray",17.23
+"2005-06-15",1,"Addis Ababa",13.25
+"2005-06-15",2,"Afar",28.35
+"2005-06-15",3,"Amhara",16.62
+"2005-06-15",4,"Benshangul-Gumaz",21
+"2005-06-15",5,"Dire Dawa",19.22
+"2005-06-15",6,"Gambela Peoples",24.67
+"2005-06-15",7,"Harari People",15.79
+"2005-06-15",8,"Oromia",17.64
+"2005-06-15",9,"Somali",23.52
+"2005-06-15",10,"Southern Nations, Nationalities and Peoples",19.62
+"2005-06-15",11,"Tigray",16.82
+"2005-06-16",1,"Addis Ababa",12.12
+"2005-06-16",2,"Afar",28.7
+"2005-06-16",3,"Amhara",17.23
+"2005-06-16",4,"Benshangul-Gumaz",21.19
+"2005-06-16",5,"Dire Dawa",19.55
+"2005-06-16",6,"Gambela Peoples",24.35
+"2005-06-16",7,"Harari People",15.61
+"2005-06-16",8,"Oromia",17.65
+"2005-06-16",9,"Somali",23.67
+"2005-06-16",10,"Southern Nations, Nationalities and Peoples",19.25
+"2005-06-16",11,"Tigray",18.38
+"2005-06-17",1,"Addis Ababa",12.71
+"2005-06-17",2,"Afar",27.91
+"2005-06-17",3,"Amhara",17.02
+"2005-06-17",4,"Benshangul-Gumaz",20.88
+"2005-06-17",5,"Dire Dawa",18.75
+"2005-06-17",6,"Gambela Peoples",23.33
+"2005-06-17",7,"Harari People",15.63
+"2005-06-17",8,"Oromia",17.15
+"2005-06-17",9,"Somali",23.52
+"2005-06-17",10,"Southern Nations, Nationalities and Peoples",18.68
+"2005-06-17",11,"Tigray",18.08
+"2005-06-18",1,"Addis Ababa",12.46
+"2005-06-18",2,"Afar",28.1
+"2005-06-18",3,"Amhara",17.03
+"2005-06-18",4,"Benshangul-Gumaz",20.93
+"2005-06-18",5,"Dire Dawa",18.48
+"2005-06-18",6,"Gambela Peoples",23.83
+"2005-06-18",7,"Harari People",15.59
+"2005-06-18",8,"Oromia",16.89
+"2005-06-18",9,"Somali",23.24
+"2005-06-18",10,"Southern Nations, Nationalities and Peoples",18.59
+"2005-06-18",11,"Tigray",18.03
+"2005-06-19",1,"Addis Ababa",10.37
+"2005-06-19",2,"Afar",27.93
+"2005-06-19",3,"Amhara",15.99
+"2005-06-19",4,"Benshangul-Gumaz",19.08
+"2005-06-19",5,"Dire Dawa",18.11
+"2005-06-19",6,"Gambela Peoples",21.73
+"2005-06-19",7,"Harari People",14.6
+"2005-06-19",8,"Oromia",16.06
+"2005-06-19",9,"Somali",23.24
+"2005-06-19",10,"Southern Nations, Nationalities and Peoples",17.52
+"2005-06-19",11,"Tigray",17.48
+"2005-06-20",1,"Addis Ababa",11.69
+"2005-06-20",2,"Afar",28.25
+"2005-06-20",3,"Amhara",15.5
+"2005-06-20",4,"Benshangul-Gumaz",18.86
+"2005-06-20",5,"Dire Dawa",18.78
+"2005-06-20",6,"Gambela Peoples",22.67
+"2005-06-20",7,"Harari People",16.16
+"2005-06-20",8,"Oromia",16.73
+"2005-06-20",9,"Somali",23.49
+"2005-06-20",10,"Southern Nations, Nationalities and Peoples",18.45
+"2005-06-20",11,"Tigray",16.3
+"2005-06-21",1,"Addis Ababa",11.52
+"2005-06-21",2,"Afar",28.86
+"2005-06-21",3,"Amhara",15.56
+"2005-06-21",4,"Benshangul-Gumaz",19.45
+"2005-06-21",5,"Dire Dawa",18.78
+"2005-06-21",6,"Gambela Peoples",22.32
+"2005-06-21",7,"Harari People",15.79
+"2005-06-21",8,"Oromia",16.33
+"2005-06-21",9,"Somali",23.08
+"2005-06-21",10,"Southern Nations, Nationalities and Peoples",18.02
+"2005-06-21",11,"Tigray",17.17
+"2005-06-22",1,"Addis Ababa",12.97
+"2005-06-22",2,"Afar",29.41
+"2005-06-22",3,"Amhara",16.78
+"2005-06-22",4,"Benshangul-Gumaz",21.05
+"2005-06-22",5,"Dire Dawa",18.39
+"2005-06-22",6,"Gambela Peoples",23.18
+"2005-06-22",7,"Harari People",15.43
+"2005-06-22",8,"Oromia",16.92
+"2005-06-22",9,"Somali",23.26
+"2005-06-22",10,"Southern Nations, Nationalities and Peoples",18.35
+"2005-06-22",11,"Tigray",17.8
+"2005-06-23",1,"Addis Ababa",12.93
+"2005-06-23",2,"Afar",29.46
+"2005-06-23",3,"Amhara",16.14
+"2005-06-23",4,"Benshangul-Gumaz",19.82
+"2005-06-23",5,"Dire Dawa",18.77
+"2005-06-23",6,"Gambela Peoples",22.22
+"2005-06-23",7,"Harari People",15.21
+"2005-06-23",8,"Oromia",16.76
+"2005-06-23",9,"Somali",22.57
+"2005-06-23",10,"Southern Nations, Nationalities and Peoples",18.34
+"2005-06-23",11,"Tigray",17.14
+"2005-06-24",1,"Addis Ababa",12
+"2005-06-24",2,"Afar",28.44
+"2005-06-24",3,"Amhara",15.9
+"2005-06-24",4,"Benshangul-Gumaz",19.76
+"2005-06-24",5,"Dire Dawa",18.41
+"2005-06-24",6,"Gambela Peoples",22.68
+"2005-06-24",7,"Harari People",15.12
+"2005-06-24",8,"Oromia",16.22
+"2005-06-24",9,"Somali",22.64
+"2005-06-24",10,"Southern Nations, Nationalities and Peoples",17.58
+"2005-06-24",11,"Tigray",16.89
+"2005-06-25",1,"Addis Ababa",12.3
+"2005-06-25",2,"Afar",29.61
+"2005-06-25",3,"Amhara",15.99
+"2005-06-25",4,"Benshangul-Gumaz",19.94
+"2005-06-25",5,"Dire Dawa",19.73
+"2005-06-25",6,"Gambela Peoples",23.37
+"2005-06-25",7,"Harari People",15.99
+"2005-06-25",8,"Oromia",16.91
+"2005-06-25",9,"Somali",22.99
+"2005-06-25",10,"Southern Nations, Nationalities and Peoples",19.29
+"2005-06-25",11,"Tigray",16.97
+"2005-06-26",1,"Addis Ababa",12.48
+"2005-06-26",2,"Afar",29.51
+"2005-06-26",3,"Amhara",16.77
+"2005-06-26",4,"Benshangul-Gumaz",20.11
+"2005-06-26",5,"Dire Dawa",19.68
+"2005-06-26",6,"Gambela Peoples",23.7
+"2005-06-26",7,"Harari People",15.77
+"2005-06-26",8,"Oromia",16.96
+"2005-06-26",9,"Somali",23.17
+"2005-06-26",10,"Southern Nations, Nationalities and Peoples",18.93
+"2005-06-26",11,"Tigray",17.94
+"2005-06-27",1,"Addis Ababa",12.62
+"2005-06-27",2,"Afar",30.28
+"2005-06-27",3,"Amhara",16.72
+"2005-06-27",4,"Benshangul-Gumaz",19.82
+"2005-06-27",5,"Dire Dawa",19.47
+"2005-06-27",6,"Gambela Peoples",23.44
+"2005-06-27",7,"Harari People",15.83
+"2005-06-27",8,"Oromia",16.94
+"2005-06-27",9,"Somali",23.53
+"2005-06-27",10,"Southern Nations, Nationalities and Peoples",19.21
+"2005-06-27",11,"Tigray",17.91
+"2005-06-28",1,"Addis Ababa",13.06
+"2005-06-28",2,"Afar",30.32
+"2005-06-28",3,"Amhara",17.1
+"2005-06-28",4,"Benshangul-Gumaz",21.16
+"2005-06-28",5,"Dire Dawa",20.23
+"2005-06-28",6,"Gambela Peoples",24.65
+"2005-06-28",7,"Harari People",16.48
+"2005-06-28",8,"Oromia",17.62
+"2005-06-28",9,"Somali",24.12
+"2005-06-28",10,"Southern Nations, Nationalities and Peoples",19.55
+"2005-06-28",11,"Tigray",18.49
+"2005-06-29",1,"Addis Ababa",13.2
+"2005-06-29",2,"Afar",29.75
+"2005-06-29",3,"Amhara",16.81
+"2005-06-29",4,"Benshangul-Gumaz",20.08
+"2005-06-29",5,"Dire Dawa",19.64
+"2005-06-29",6,"Gambela Peoples",22.25
+"2005-06-29",7,"Harari People",16.05
+"2005-06-29",8,"Oromia",17.16
+"2005-06-29",9,"Somali",23.8
+"2005-06-29",10,"Southern Nations, Nationalities and Peoples",19.32
+"2005-06-29",11,"Tigray",18.47
+"2005-06-30",1,"Addis Ababa",11.74
+"2005-06-30",2,"Afar",28.71
+"2005-06-30",3,"Amhara",15.76
+"2005-06-30",4,"Benshangul-Gumaz",18.63
+"2005-06-30",5,"Dire Dawa",18.49
+"2005-06-30",6,"Gambela Peoples",21.74
+"2005-06-30",7,"Harari People",15.69
+"2005-06-30",8,"Oromia",16.06
+"2005-06-30",9,"Somali",23.14
+"2005-06-30",10,"Southern Nations, Nationalities and Peoples",17.59
+"2005-06-30",11,"Tigray",17.76
+"2005-07-01",1,"Addis Ababa",12.3
+"2005-07-01",2,"Afar",29.47
+"2005-07-01",3,"Amhara",15.92
+"2005-07-01",4,"Benshangul-Gumaz",19.13
+"2005-07-01",5,"Dire Dawa",19.92
+"2005-07-01",6,"Gambela Peoples",21.68
+"2005-07-01",7,"Harari People",16.38
+"2005-07-01",8,"Oromia",16.43
+"2005-07-01",9,"Somali",23.48
+"2005-07-01",10,"Southern Nations, Nationalities and Peoples",17.98
+"2005-07-01",11,"Tigray",18
+"2005-07-02",1,"Addis Ababa",12.16
+"2005-07-02",2,"Afar",29.19
+"2005-07-02",3,"Amhara",16.34
+"2005-07-02",4,"Benshangul-Gumaz",20.61
+"2005-07-02",5,"Dire Dawa",19.09
+"2005-07-02",6,"Gambela Peoples",23.84
+"2005-07-02",7,"Harari People",15.96
+"2005-07-02",8,"Oromia",17.23
+"2005-07-02",9,"Somali",23.61
+"2005-07-02",10,"Southern Nations, Nationalities and Peoples",19.39
+"2005-07-02",11,"Tigray",17.73
+"2005-07-03",1,"Addis Ababa",12.94
+"2005-07-03",2,"Afar",29.73
+"2005-07-03",3,"Amhara",16.62
+"2005-07-03",4,"Benshangul-Gumaz",20.59
+"2005-07-03",5,"Dire Dawa",19.6
+"2005-07-03",6,"Gambela Peoples",23.77
+"2005-07-03",7,"Harari People",16.12
+"2005-07-03",8,"Oromia",17.48
+"2005-07-03",9,"Somali",23.36
+"2005-07-03",10,"Southern Nations, Nationalities and Peoples",19.78
+"2005-07-03",11,"Tigray",17.77
+"2005-07-04",1,"Addis Ababa",12.07
+"2005-07-04",2,"Afar",29.33
+"2005-07-04",3,"Amhara",16.14
+"2005-07-04",4,"Benshangul-Gumaz",20.16
+"2005-07-04",5,"Dire Dawa",18.86
+"2005-07-04",6,"Gambela Peoples",22.88
+"2005-07-04",7,"Harari People",15.55
+"2005-07-04",8,"Oromia",16.83
+"2005-07-04",9,"Somali",22.92
+"2005-07-04",10,"Southern Nations, Nationalities and Peoples",19.23
+"2005-07-04",11,"Tigray",17.74
+"2005-07-05",1,"Addis Ababa",13.3
+"2005-07-05",2,"Afar",30.08
+"2005-07-05",3,"Amhara",16.26
+"2005-07-05",4,"Benshangul-Gumaz",19.96
+"2005-07-05",5,"Dire Dawa",19.37
+"2005-07-05",6,"Gambela Peoples",23.38
+"2005-07-05",7,"Harari People",16.14
+"2005-07-05",8,"Oromia",16.95
+"2005-07-05",9,"Somali",23.27
+"2005-07-05",10,"Southern Nations, Nationalities and Peoples",19.03
+"2005-07-05",11,"Tigray",17.8
+"2005-07-06",1,"Addis Ababa",12.66
+"2005-07-06",2,"Afar",29.21
+"2005-07-06",3,"Amhara",16.03
+"2005-07-06",4,"Benshangul-Gumaz",19.4
+"2005-07-06",5,"Dire Dawa",18.99
+"2005-07-06",6,"Gambela Peoples",20.86
+"2005-07-06",7,"Harari People",15.66
+"2005-07-06",8,"Oromia",16.64
+"2005-07-06",9,"Somali",23.24
+"2005-07-06",10,"Southern Nations, Nationalities and Peoples",18.64
+"2005-07-06",11,"Tigray",17.61
+"2005-07-07",1,"Addis Ababa",11.86
+"2005-07-07",2,"Afar",26.78
+"2005-07-07",3,"Amhara",15.65
+"2005-07-07",4,"Benshangul-Gumaz",18.81
+"2005-07-07",5,"Dire Dawa",18.23
+"2005-07-07",6,"Gambela Peoples",21.79
+"2005-07-07",7,"Harari People",15.08
+"2005-07-07",8,"Oromia",16.5
+"2005-07-07",9,"Somali",23.09
+"2005-07-07",10,"Southern Nations, Nationalities and Peoples",18.01
+"2005-07-07",11,"Tigray",17.38
+"2005-07-08",1,"Addis Ababa",11.22
+"2005-07-08",2,"Afar",26.57
+"2005-07-08",3,"Amhara",14.89
+"2005-07-08",4,"Benshangul-Gumaz",18.71
+"2005-07-08",5,"Dire Dawa",17.54
+"2005-07-08",6,"Gambela Peoples",22.63
+"2005-07-08",7,"Harari People",16.37
+"2005-07-08",8,"Oromia",15.65
+"2005-07-08",9,"Somali",22.38
+"2005-07-08",10,"Southern Nations, Nationalities and Peoples",17.54
+"2005-07-08",11,"Tigray",16.18
+"2005-07-09",1,"Addis Ababa",11.72
+"2005-07-09",2,"Afar",27.1
+"2005-07-09",3,"Amhara",15.27
+"2005-07-09",4,"Benshangul-Gumaz",19.69
+"2005-07-09",5,"Dire Dawa",17.59
+"2005-07-09",6,"Gambela Peoples",23.4
+"2005-07-09",7,"Harari People",14.94
+"2005-07-09",8,"Oromia",16.1
+"2005-07-09",9,"Somali",22.62
+"2005-07-09",10,"Southern Nations, Nationalities and Peoples",18.02
+"2005-07-09",11,"Tigray",16.67
+"2005-07-10",1,"Addis Ababa",12.2
+"2005-07-10",2,"Afar",27.49
+"2005-07-10",3,"Amhara",15.29
+"2005-07-10",4,"Benshangul-Gumaz",18.76
+"2005-07-10",5,"Dire Dawa",18.48
+"2005-07-10",6,"Gambela Peoples",23.01
+"2005-07-10",7,"Harari People",15.81
+"2005-07-10",8,"Oromia",16.39
+"2005-07-10",9,"Somali",22.73
+"2005-07-10",10,"Southern Nations, Nationalities and Peoples",17.71
+"2005-07-10",11,"Tigray",16.33
+"2005-07-11",1,"Addis Ababa",11.65
+"2005-07-11",2,"Afar",27.98
+"2005-07-11",3,"Amhara",14.2
+"2005-07-11",4,"Benshangul-Gumaz",17.78
+"2005-07-11",5,"Dire Dawa",18.01
+"2005-07-11",6,"Gambela Peoples",21.35
+"2005-07-11",7,"Harari People",15.28
+"2005-07-11",8,"Oromia",15.55
+"2005-07-11",9,"Somali",22.35
+"2005-07-11",10,"Southern Nations, Nationalities and Peoples",16.91
+"2005-07-11",11,"Tigray",15.8
+"2005-07-12",1,"Addis Ababa",10.5
+"2005-07-12",2,"Afar",28.23
+"2005-07-12",3,"Amhara",14.93
+"2005-07-12",4,"Benshangul-Gumaz",18.94
+"2005-07-12",5,"Dire Dawa",17.71
+"2005-07-12",6,"Gambela Peoples",22.8
+"2005-07-12",7,"Harari People",14.34
+"2005-07-12",8,"Oromia",15.36
+"2005-07-12",9,"Somali",21.99
+"2005-07-12",10,"Southern Nations, Nationalities and Peoples",17.08
+"2005-07-12",11,"Tigray",16.78
+"2005-07-13",1,"Addis Ababa",11.65
+"2005-07-13",2,"Afar",29.31
+"2005-07-13",3,"Amhara",15.02
+"2005-07-13",4,"Benshangul-Gumaz",18.11
+"2005-07-13",5,"Dire Dawa",18.45
+"2005-07-13",6,"Gambela Peoples",22.64
+"2005-07-13",7,"Harari People",14.93
+"2005-07-13",8,"Oromia",15.83
+"2005-07-13",9,"Somali",22.11
+"2005-07-13",10,"Southern Nations, Nationalities and Peoples",17.28
+"2005-07-13",11,"Tigray",16.77
+"2005-07-14",1,"Addis Ababa",11.62
+"2005-07-14",2,"Afar",29.02
+"2005-07-14",3,"Amhara",14.6
+"2005-07-14",4,"Benshangul-Gumaz",18.24
+"2005-07-14",5,"Dire Dawa",17.59
+"2005-07-14",6,"Gambela Peoples",22.41
+"2005-07-14",7,"Harari People",14.44
+"2005-07-14",8,"Oromia",15.05
+"2005-07-14",9,"Somali",21.98
+"2005-07-14",10,"Southern Nations, Nationalities and Peoples",16.69
+"2005-07-14",11,"Tigray",16.86
+"2005-07-15",1,"Addis Ababa",10.87
+"2005-07-15",2,"Afar",29.4
+"2005-07-15",3,"Amhara",15.78
+"2005-07-15",4,"Benshangul-Gumaz",19.27
+"2005-07-15",5,"Dire Dawa",19.53
+"2005-07-15",6,"Gambela Peoples",22.87
+"2005-07-15",7,"Harari People",15.79
+"2005-07-15",8,"Oromia",15.97
+"2005-07-15",9,"Somali",22.88
+"2005-07-15",10,"Southern Nations, Nationalities and Peoples",17.96
+"2005-07-15",11,"Tigray",18.22
+"2005-07-16",1,"Addis Ababa",11.34
+"2005-07-16",2,"Afar",29.4
+"2005-07-16",3,"Amhara",16.06
+"2005-07-16",4,"Benshangul-Gumaz",20.65
+"2005-07-16",5,"Dire Dawa",18.56
+"2005-07-16",6,"Gambela Peoples",23.35
+"2005-07-16",7,"Harari People",15.14
+"2005-07-16",8,"Oromia",16.25
+"2005-07-16",9,"Somali",22.29
+"2005-07-16",10,"Southern Nations, Nationalities and Peoples",18.99
+"2005-07-16",11,"Tigray",18.11
+"2005-07-17",1,"Addis Ababa",12.31
+"2005-07-17",2,"Afar",29.59
+"2005-07-17",3,"Amhara",15.53
+"2005-07-17",4,"Benshangul-Gumaz",19.75
+"2005-07-17",5,"Dire Dawa",17.23
+"2005-07-17",6,"Gambela Peoples",21.88
+"2005-07-17",7,"Harari People",13.74
+"2005-07-17",8,"Oromia",15.71
+"2005-07-17",9,"Somali",21.89
+"2005-07-17",10,"Southern Nations, Nationalities and Peoples",18.34
+"2005-07-17",11,"Tigray",17.97
+"2005-07-18",1,"Addis Ababa",11.61
+"2005-07-18",2,"Afar",25.93
+"2005-07-18",3,"Amhara",15.1
+"2005-07-18",4,"Benshangul-Gumaz",18.32
+"2005-07-18",5,"Dire Dawa",16.97
+"2005-07-18",6,"Gambela Peoples",20.07
+"2005-07-18",7,"Harari People",14.22
+"2005-07-18",8,"Oromia",15.66
+"2005-07-18",9,"Somali",22.06
+"2005-07-18",10,"Southern Nations, Nationalities and Peoples",17.09
+"2005-07-18",11,"Tigray",16.97
+"2005-07-19",1,"Addis Ababa",9.96
+"2005-07-19",2,"Afar",26.84
+"2005-07-19",3,"Amhara",14.71
+"2005-07-19",4,"Benshangul-Gumaz",17.82
+"2005-07-19",5,"Dire Dawa",18.1
+"2005-07-19",6,"Gambela Peoples",21.38
+"2005-07-19",7,"Harari People",15.29
+"2005-07-19",8,"Oromia",15.64
+"2005-07-19",9,"Somali",22.84
+"2005-07-19",10,"Southern Nations, Nationalities and Peoples",16.95
+"2005-07-19",11,"Tigray",16.34
+"2005-07-20",1,"Addis Ababa",11.9
+"2005-07-20",2,"Afar",28.51
+"2005-07-20",3,"Amhara",15.78
+"2005-07-20",4,"Benshangul-Gumaz",20.11
+"2005-07-20",5,"Dire Dawa",18.39
+"2005-07-20",6,"Gambela Peoples",23.27
+"2005-07-20",7,"Harari People",15.23
+"2005-07-20",8,"Oromia",16.68
+"2005-07-20",9,"Somali",22.91
+"2005-07-20",10,"Southern Nations, Nationalities and Peoples",18.78
+"2005-07-20",11,"Tigray",18.21
+"2005-07-21",1,"Addis Ababa",10.6
+"2005-07-21",2,"Afar",28.72
+"2005-07-21",3,"Amhara",15.01
+"2005-07-21",4,"Benshangul-Gumaz",18.36
+"2005-07-21",5,"Dire Dawa",19.61
+"2005-07-21",6,"Gambela Peoples",22.24
+"2005-07-21",7,"Harari People",16.58
+"2005-07-21",8,"Oromia",16.37
+"2005-07-21",9,"Somali",23.17
+"2005-07-21",10,"Southern Nations, Nationalities and Peoples",18.49
+"2005-07-21",11,"Tigray",17.33
+"2005-07-22",1,"Addis Ababa",11.36
+"2005-07-22",2,"Afar",27.46
+"2005-07-22",3,"Amhara",15.49
+"2005-07-22",4,"Benshangul-Gumaz",18.99
+"2005-07-22",5,"Dire Dawa",19.23
+"2005-07-22",6,"Gambela Peoples",21.98
+"2005-07-22",7,"Harari People",15.46
+"2005-07-22",8,"Oromia",16.08
+"2005-07-22",9,"Somali",23.08
+"2005-07-22",10,"Southern Nations, Nationalities and Peoples",18.45
+"2005-07-22",11,"Tigray",17.89
+"2005-07-23",1,"Addis Ababa",11.51
+"2005-07-23",2,"Afar",28.43
+"2005-07-23",3,"Amhara",15.22
+"2005-07-23",4,"Benshangul-Gumaz",18.66
+"2005-07-23",5,"Dire Dawa",20.1
+"2005-07-23",6,"Gambela Peoples",22.53
+"2005-07-23",7,"Harari People",16.73
+"2005-07-23",8,"Oromia",16.65
+"2005-07-23",9,"Somali",23.51
+"2005-07-23",10,"Southern Nations, Nationalities and Peoples",19
+"2005-07-23",11,"Tigray",17.82
+"2005-07-24",1,"Addis Ababa",11.77
+"2005-07-24",2,"Afar",26.71
+"2005-07-24",3,"Amhara",15.61
+"2005-07-24",4,"Benshangul-Gumaz",20.37
+"2005-07-24",5,"Dire Dawa",18.95
+"2005-07-24",6,"Gambela Peoples",23.68
+"2005-07-24",7,"Harari People",15.74
+"2005-07-24",8,"Oromia",16.73
+"2005-07-24",9,"Somali",23.11
+"2005-07-24",10,"Southern Nations, Nationalities and Peoples",19.31
+"2005-07-24",11,"Tigray",18.09
+"2005-07-25",1,"Addis Ababa",11.95
+"2005-07-25",2,"Afar",25.96
+"2005-07-25",3,"Amhara",15.49
+"2005-07-25",4,"Benshangul-Gumaz",20
+"2005-07-25",5,"Dire Dawa",17.63
+"2005-07-25",6,"Gambela Peoples",22.56
+"2005-07-25",7,"Harari People",14.4
+"2005-07-25",8,"Oromia",16.5
+"2005-07-25",9,"Somali",22.88
+"2005-07-25",10,"Southern Nations, Nationalities and Peoples",18.35
+"2005-07-25",11,"Tigray",16.97
+"2005-07-26",1,"Addis Ababa",10.55
+"2005-07-26",2,"Afar",26
+"2005-07-26",3,"Amhara",14.46
+"2005-07-26",4,"Benshangul-Gumaz",19.04
+"2005-07-26",5,"Dire Dawa",17.24
+"2005-07-26",6,"Gambela Peoples",23.62
+"2005-07-26",7,"Harari People",14.03
+"2005-07-26",8,"Oromia",15.36
+"2005-07-26",9,"Somali",21.96
+"2005-07-26",10,"Southern Nations, Nationalities and Peoples",17.39
+"2005-07-26",11,"Tigray",16.81
+"2005-07-27",1,"Addis Ababa",11.46
+"2005-07-27",2,"Afar",26.32
+"2005-07-27",3,"Amhara",15.2
+"2005-07-27",4,"Benshangul-Gumaz",19.38
+"2005-07-27",5,"Dire Dawa",18.9
+"2005-07-27",6,"Gambela Peoples",23.63
+"2005-07-27",7,"Harari People",16.48
+"2005-07-27",8,"Oromia",16.04
+"2005-07-27",9,"Somali",22.51
+"2005-07-27",10,"Southern Nations, Nationalities and Peoples",18.84
+"2005-07-27",11,"Tigray",16.72
+"2005-07-28",1,"Addis Ababa",11.69
+"2005-07-28",2,"Afar",27.18
+"2005-07-28",3,"Amhara",14.9
+"2005-07-28",4,"Benshangul-Gumaz",17.96
+"2005-07-28",5,"Dire Dawa",18.71
+"2005-07-28",6,"Gambela Peoples",22.45
+"2005-07-28",7,"Harari People",15.46
+"2005-07-28",8,"Oromia",16.47
+"2005-07-28",9,"Somali",23.09
+"2005-07-28",10,"Southern Nations, Nationalities and Peoples",18.79
+"2005-07-28",11,"Tigray",17.02
+"2005-07-29",1,"Addis Ababa",11.87
+"2005-07-29",2,"Afar",28.35
+"2005-07-29",3,"Amhara",15.34
+"2005-07-29",4,"Benshangul-Gumaz",18.55
+"2005-07-29",5,"Dire Dawa",19.31
+"2005-07-29",6,"Gambela Peoples",21.36
+"2005-07-29",7,"Harari People",16.02
+"2005-07-29",8,"Oromia",16.5
+"2005-07-29",9,"Somali",23.46
+"2005-07-29",10,"Southern Nations, Nationalities and Peoples",17.55
+"2005-07-29",11,"Tigray",17.55
+"2005-07-30",1,"Addis Ababa",11.94
+"2005-07-30",2,"Afar",28.31
+"2005-07-30",3,"Amhara",14.83
+"2005-07-30",4,"Benshangul-Gumaz",19.07
+"2005-07-30",5,"Dire Dawa",17.95
+"2005-07-30",6,"Gambela Peoples",22.48
+"2005-07-30",7,"Harari People",14.41
+"2005-07-30",8,"Oromia",15.83
+"2005-07-30",9,"Somali",23.04
+"2005-07-30",10,"Southern Nations, Nationalities and Peoples",16.81
+"2005-07-30",11,"Tigray",16.17
+"2005-07-31",1,"Addis Ababa",11.88
+"2005-07-31",2,"Afar",28.11
+"2005-07-31",3,"Amhara",15.11
+"2005-07-31",4,"Benshangul-Gumaz",19.48
+"2005-07-31",5,"Dire Dawa",18.39
+"2005-07-31",6,"Gambela Peoples",21.98
+"2005-07-31",7,"Harari People",15
+"2005-07-31",8,"Oromia",16.55
+"2005-07-31",9,"Somali",23.53
+"2005-07-31",10,"Southern Nations, Nationalities and Peoples",18.2
+"2005-07-31",11,"Tigray",16.38
+"2005-08-01",1,"Addis Ababa",12.25
+"2005-08-01",2,"Afar",28.98
+"2005-08-01",3,"Amhara",15.05
+"2005-08-01",4,"Benshangul-Gumaz",18.75
+"2005-08-01",5,"Dire Dawa",18.22
+"2005-08-01",6,"Gambela Peoples",22.2
+"2005-08-01",7,"Harari People",14.85
+"2005-08-01",8,"Oromia",16.29
+"2005-08-01",9,"Somali",22.85
+"2005-08-01",10,"Southern Nations, Nationalities and Peoples",18.48
+"2005-08-01",11,"Tigray",17.59
+"2005-08-02",1,"Addis Ababa",11.32
+"2005-08-02",2,"Afar",29.35
+"2005-08-02",3,"Amhara",14.97
+"2005-08-02",4,"Benshangul-Gumaz",19.44
+"2005-08-02",5,"Dire Dawa",18.5
+"2005-08-02",6,"Gambela Peoples",22.84
+"2005-08-02",7,"Harari People",15.31
+"2005-08-02",8,"Oromia",16.15
+"2005-08-02",9,"Somali",22.69
+"2005-08-02",10,"Southern Nations, Nationalities and Peoples",18.43
+"2005-08-02",11,"Tigray",17.83
+"2005-08-03",1,"Addis Ababa",12.79
+"2005-08-03",2,"Afar",29.27
+"2005-08-03",3,"Amhara",14.77
+"2005-08-03",4,"Benshangul-Gumaz",19.05
+"2005-08-03",5,"Dire Dawa",18.64
+"2005-08-03",6,"Gambela Peoples",22.82
+"2005-08-03",7,"Harari People",15.49
+"2005-08-03",8,"Oromia",16.69
+"2005-08-03",9,"Somali",22.71
+"2005-08-03",10,"Southern Nations, Nationalities and Peoples",19.1
+"2005-08-03",11,"Tigray",16.36
+"2005-08-04",1,"Addis Ababa",11.7
+"2005-08-04",2,"Afar",28.89
+"2005-08-04",3,"Amhara",15.47
+"2005-08-04",4,"Benshangul-Gumaz",19.36
+"2005-08-04",5,"Dire Dawa",17.75
+"2005-08-04",6,"Gambela Peoples",22.92
+"2005-08-04",7,"Harari People",14.3
+"2005-08-04",8,"Oromia",16.44
+"2005-08-04",9,"Somali",22.7
+"2005-08-04",10,"Southern Nations, Nationalities and Peoples",18.86
+"2005-08-04",11,"Tigray",17.11
+"2005-08-05",1,"Addis Ababa",12.61
+"2005-08-05",2,"Afar",30.66
+"2005-08-05",3,"Amhara",16.11
+"2005-08-05",4,"Benshangul-Gumaz",19.23
+"2005-08-05",5,"Dire Dawa",19.24
+"2005-08-05",6,"Gambela Peoples",22.43
+"2005-08-05",7,"Harari People",15.63
+"2005-08-05",8,"Oromia",16.72
+"2005-08-05",9,"Somali",22.73
+"2005-08-05",10,"Southern Nations, Nationalities and Peoples",18.95
+"2005-08-05",11,"Tigray",17
+"2005-08-06",1,"Addis Ababa",12.28
+"2005-08-06",2,"Afar",27.84
+"2005-08-06",3,"Amhara",15.35
+"2005-08-06",4,"Benshangul-Gumaz",19.35
+"2005-08-06",5,"Dire Dawa",18.31
+"2005-08-06",6,"Gambela Peoples",23.16
+"2005-08-06",7,"Harari People",14.88
+"2005-08-06",8,"Oromia",16.46
+"2005-08-06",9,"Somali",22.99
+"2005-08-06",10,"Southern Nations, Nationalities and Peoples",18.89
+"2005-08-06",11,"Tigray",16.12
+"2005-08-07",1,"Addis Ababa",12.9
+"2005-08-07",2,"Afar",30.21
+"2005-08-07",3,"Amhara",16.31
+"2005-08-07",4,"Benshangul-Gumaz",19.4
+"2005-08-07",5,"Dire Dawa",19.27
+"2005-08-07",6,"Gambela Peoples",22.47
+"2005-08-07",7,"Harari People",15.32
+"2005-08-07",8,"Oromia",16.51
+"2005-08-07",9,"Somali",22.61
+"2005-08-07",10,"Southern Nations, Nationalities and Peoples",18.6
+"2005-08-07",11,"Tigray",17.23
+"2005-08-08",1,"Addis Ababa",12.72
+"2005-08-08",2,"Afar",30.09
+"2005-08-08",3,"Amhara",16.4
+"2005-08-08",4,"Benshangul-Gumaz",20.2
+"2005-08-08",5,"Dire Dawa",19.39
+"2005-08-08",6,"Gambela Peoples",24.56
+"2005-08-08",7,"Harari People",15.64
+"2005-08-08",8,"Oromia",16.7
+"2005-08-08",9,"Somali",23.11
+"2005-08-08",10,"Southern Nations, Nationalities and Peoples",18.97
+"2005-08-08",11,"Tigray",17.72
+"2005-08-09",1,"Addis Ababa",14.3
+"2005-08-09",2,"Afar",30.77
+"2005-08-09",3,"Amhara",16.64
+"2005-08-09",4,"Benshangul-Gumaz",19.6
+"2005-08-09",5,"Dire Dawa",20.56
+"2005-08-09",6,"Gambela Peoples",24.21
+"2005-08-09",7,"Harari People",16.63
+"2005-08-09",8,"Oromia",17.3
+"2005-08-09",9,"Somali",23.07
+"2005-08-09",10,"Southern Nations, Nationalities and Peoples",20.01
+"2005-08-09",11,"Tigray",18.02
+"2005-08-10",1,"Addis Ababa",12.99
+"2005-08-10",2,"Afar",29.34
+"2005-08-10",3,"Amhara",15.69
+"2005-08-10",4,"Benshangul-Gumaz",18.58
+"2005-08-10",5,"Dire Dawa",19.62
+"2005-08-10",6,"Gambela Peoples",22.48
+"2005-08-10",7,"Harari People",16.18
+"2005-08-10",8,"Oromia",16.85
+"2005-08-10",9,"Somali",22.96
+"2005-08-10",10,"Southern Nations, Nationalities and Peoples",19.65
+"2005-08-10",11,"Tigray",17.22
+"2005-08-11",1,"Addis Ababa",12.8
+"2005-08-11",2,"Afar",28.71
+"2005-08-11",3,"Amhara",16.53
+"2005-08-11",4,"Benshangul-Gumaz",20.2
+"2005-08-11",5,"Dire Dawa",20.36
+"2005-08-11",6,"Gambela Peoples",23.41
+"2005-08-11",7,"Harari People",16.77
+"2005-08-11",8,"Oromia",17.72
+"2005-08-11",9,"Somali",23.24
+"2005-08-11",10,"Southern Nations, Nationalities and Peoples",20.56
+"2005-08-11",11,"Tigray",17
+"2005-08-12",1,"Addis Ababa",12.31
+"2005-08-12",2,"Afar",28.77
+"2005-08-12",3,"Amhara",16.86
+"2005-08-12",4,"Benshangul-Gumaz",20.36
+"2005-08-12",5,"Dire Dawa",19.17
+"2005-08-12",6,"Gambela Peoples",24.17
+"2005-08-12",7,"Harari People",15.67
+"2005-08-12",8,"Oromia",17.05
+"2005-08-12",9,"Somali",23.06
+"2005-08-12",10,"Southern Nations, Nationalities and Peoples",19.71
+"2005-08-12",11,"Tigray",17.89
+"2005-08-13",1,"Addis Ababa",13.15
+"2005-08-13",2,"Afar",28.51
+"2005-08-13",3,"Amhara",15.69
+"2005-08-13",4,"Benshangul-Gumaz",20.26
+"2005-08-13",5,"Dire Dawa",19.02
+"2005-08-13",6,"Gambela Peoples",24.21
+"2005-08-13",7,"Harari People",15.79
+"2005-08-13",8,"Oromia",16.94
+"2005-08-13",9,"Somali",23.35
+"2005-08-13",10,"Southern Nations, Nationalities and Peoples",19.19
+"2005-08-13",11,"Tigray",16.59
+"2005-08-14",1,"Addis Ababa",12.02
+"2005-08-14",2,"Afar",27.76
+"2005-08-14",3,"Amhara",16
+"2005-08-14",4,"Benshangul-Gumaz",19.64
+"2005-08-14",5,"Dire Dawa",19.34
+"2005-08-14",6,"Gambela Peoples",23.1
+"2005-08-14",7,"Harari People",15.79
+"2005-08-14",8,"Oromia",16.78
+"2005-08-14",9,"Somali",23.31
+"2005-08-14",10,"Southern Nations, Nationalities and Peoples",19.2
+"2005-08-14",11,"Tigray",17.04
+"2005-08-15",1,"Addis Ababa",12.76
+"2005-08-15",2,"Afar",29.24
+"2005-08-15",3,"Amhara",16.15
+"2005-08-15",4,"Benshangul-Gumaz",20.75
+"2005-08-15",5,"Dire Dawa",20.49
+"2005-08-15",6,"Gambela Peoples",24.68
+"2005-08-15",7,"Harari People",17.18
+"2005-08-15",8,"Oromia",17.48
+"2005-08-15",9,"Somali",23.51
+"2005-08-15",10,"Southern Nations, Nationalities and Peoples",19.58
+"2005-08-15",11,"Tigray",16.82
+"2005-08-16",1,"Addis Ababa",12.23
+"2005-08-16",2,"Afar",29.07
+"2005-08-16",3,"Amhara",14.85
+"2005-08-16",4,"Benshangul-Gumaz",18.24
+"2005-08-16",5,"Dire Dawa",19.2
+"2005-08-16",6,"Gambela Peoples",22.13
+"2005-08-16",7,"Harari People",15.95
+"2005-08-16",8,"Oromia",16.71
+"2005-08-16",9,"Somali",23.58
+"2005-08-16",10,"Southern Nations, Nationalities and Peoples",19.09
+"2005-08-16",11,"Tigray",15.8
+"2005-08-17",1,"Addis Ababa",13.06
+"2005-08-17",2,"Afar",29.16
+"2005-08-17",3,"Amhara",15.72
+"2005-08-17",4,"Benshangul-Gumaz",18.96
+"2005-08-17",5,"Dire Dawa",18.88
+"2005-08-17",6,"Gambela Peoples",21.97
+"2005-08-17",7,"Harari People",15.24
+"2005-08-17",8,"Oromia",16.99
+"2005-08-17",9,"Somali",23.14
+"2005-08-17",10,"Southern Nations, Nationalities and Peoples",19.15
+"2005-08-17",11,"Tigray",17.23
+"2005-08-18",1,"Addis Ababa",11.97
+"2005-08-18",2,"Afar",29.42
+"2005-08-18",3,"Amhara",15.67
+"2005-08-18",4,"Benshangul-Gumaz",19
+"2005-08-18",5,"Dire Dawa",19.67
+"2005-08-18",6,"Gambela Peoples",22.23
+"2005-08-18",7,"Harari People",17.1
+"2005-08-18",8,"Oromia",17.11
+"2005-08-18",9,"Somali",23.5
+"2005-08-18",10,"Southern Nations, Nationalities and Peoples",18.87
+"2005-08-18",11,"Tigray",17.46
+"2005-08-19",1,"Addis Ababa",13.54
+"2005-08-19",2,"Afar",29.98
+"2005-08-19",3,"Amhara",16.71
+"2005-08-19",4,"Benshangul-Gumaz",20.38
+"2005-08-19",5,"Dire Dawa",20.48
+"2005-08-19",6,"Gambela Peoples",22.56
+"2005-08-19",7,"Harari People",17.43
+"2005-08-19",8,"Oromia",17.95
+"2005-08-19",9,"Somali",23.58
+"2005-08-19",10,"Southern Nations, Nationalities and Peoples",19.49
+"2005-08-19",11,"Tigray",18.29
+"2005-08-20",1,"Addis Ababa",13.21
+"2005-08-20",2,"Afar",29.25
+"2005-08-20",3,"Amhara",15.98
+"2005-08-20",4,"Benshangul-Gumaz",19.21
+"2005-08-20",5,"Dire Dawa",20.31
+"2005-08-20",6,"Gambela Peoples",21.69
+"2005-08-20",7,"Harari People",16.87
+"2005-08-20",8,"Oromia",17.45
+"2005-08-20",9,"Somali",23.53
+"2005-08-20",10,"Southern Nations, Nationalities and Peoples",19.03
+"2005-08-20",11,"Tigray",17.29
+"2005-08-21",1,"Addis Ababa",13.51
+"2005-08-21",2,"Afar",27.37
+"2005-08-21",3,"Amhara",16.52
+"2005-08-21",4,"Benshangul-Gumaz",19.53
+"2005-08-21",5,"Dire Dawa",19.73
+"2005-08-21",6,"Gambela Peoples",22.07
+"2005-08-21",7,"Harari People",16.96
+"2005-08-21",8,"Oromia",17.65
+"2005-08-21",9,"Somali",22.87
+"2005-08-21",10,"Southern Nations, Nationalities and Peoples",19.33
+"2005-08-21",11,"Tigray",17.81
+"2005-08-22",1,"Addis Ababa",12.54
+"2005-08-22",2,"Afar",28.2
+"2005-08-22",3,"Amhara",16.07
+"2005-08-22",4,"Benshangul-Gumaz",19.72
+"2005-08-22",5,"Dire Dawa",20.32
+"2005-08-22",6,"Gambela Peoples",22.02
+"2005-08-22",7,"Harari People",17.15
+"2005-08-22",8,"Oromia",17.59
+"2005-08-22",9,"Somali",23.11
+"2005-08-22",10,"Southern Nations, Nationalities and Peoples",19.54
+"2005-08-22",11,"Tigray",17.7
+"2005-08-23",1,"Addis Ababa",13.18
+"2005-08-23",2,"Afar",28.26
+"2005-08-23",3,"Amhara",16.14
+"2005-08-23",4,"Benshangul-Gumaz",19.34
+"2005-08-23",5,"Dire Dawa",20.63
+"2005-08-23",6,"Gambela Peoples",22.53
+"2005-08-23",7,"Harari People",17.21
+"2005-08-23",8,"Oromia",18.19
+"2005-08-23",9,"Somali",23.82
+"2005-08-23",10,"Southern Nations, Nationalities and Peoples",19.77
+"2005-08-23",11,"Tigray",17.29
+"2005-08-24",1,"Addis Ababa",10.93
+"2005-08-24",2,"Afar",29.01
+"2005-08-24",3,"Amhara",14.92
+"2005-08-24",4,"Benshangul-Gumaz",18.95
+"2005-08-24",5,"Dire Dawa",19.02
+"2005-08-24",6,"Gambela Peoples",22.51
+"2005-08-24",7,"Harari People",16
+"2005-08-24",8,"Oromia",16.53
+"2005-08-24",9,"Somali",22.86
+"2005-08-24",10,"Southern Nations, Nationalities and Peoples",17.83
+"2005-08-24",11,"Tigray",17.07
+"2005-08-25",1,"Addis Ababa",12.37
+"2005-08-25",2,"Afar",29.7
+"2005-08-25",3,"Amhara",16.36
+"2005-08-25",4,"Benshangul-Gumaz",20.2
+"2005-08-25",5,"Dire Dawa",19.94
+"2005-08-25",6,"Gambela Peoples",23
+"2005-08-25",7,"Harari People",16.81
+"2005-08-25",8,"Oromia",17.63
+"2005-08-25",9,"Somali",22.87
+"2005-08-25",10,"Southern Nations, Nationalities and Peoples",19.68
+"2005-08-25",11,"Tigray",17.01
+"2005-08-26",1,"Addis Ababa",13.04
+"2005-08-26",2,"Afar",29.17
+"2005-08-26",3,"Amhara",16.38
+"2005-08-26",4,"Benshangul-Gumaz",20.05
+"2005-08-26",5,"Dire Dawa",19.8
+"2005-08-26",6,"Gambela Peoples",22.64
+"2005-08-26",7,"Harari People",16.63
+"2005-08-26",8,"Oromia",17.44
+"2005-08-26",9,"Somali",23.05
+"2005-08-26",10,"Southern Nations, Nationalities and Peoples",19.16
+"2005-08-26",11,"Tigray",17.18
+"2005-08-27",1,"Addis Ababa",12.66
+"2005-08-27",2,"Afar",26.72
+"2005-08-27",3,"Amhara",15.86
+"2005-08-27",4,"Benshangul-Gumaz",19.3
+"2005-08-27",5,"Dire Dawa",18.58
+"2005-08-27",6,"Gambela Peoples",21.61
+"2005-08-27",7,"Harari People",15.05
+"2005-08-27",8,"Oromia",17.49
+"2005-08-27",9,"Somali",23.46
+"2005-08-27",10,"Southern Nations, Nationalities and Peoples",18.88
+"2005-08-27",11,"Tigray",17.08
+"2005-08-28",1,"Addis Ababa",11.81
+"2005-08-28",2,"Afar",25.24
+"2005-08-28",3,"Amhara",15.16
+"2005-08-28",4,"Benshangul-Gumaz",18.88
+"2005-08-28",5,"Dire Dawa",18.63
+"2005-08-28",6,"Gambela Peoples",22.13
+"2005-08-28",7,"Harari People",16.91
+"2005-08-28",8,"Oromia",16.64
+"2005-08-28",9,"Somali",22.31
+"2005-08-28",10,"Southern Nations, Nationalities and Peoples",18.41
+"2005-08-28",11,"Tigray",16.74
+"2005-08-29",1,"Addis Ababa",11.93
+"2005-08-29",2,"Afar",25.44
+"2005-08-29",3,"Amhara",15.47
+"2005-08-29",4,"Benshangul-Gumaz",19.48
+"2005-08-29",5,"Dire Dawa",19.59
+"2005-08-29",6,"Gambela Peoples",22.42
+"2005-08-29",7,"Harari People",16.37
+"2005-08-29",8,"Oromia",16.39
+"2005-08-29",9,"Somali",22.56
+"2005-08-29",10,"Southern Nations, Nationalities and Peoples",18.14
+"2005-08-29",11,"Tigray",16.82
+"2005-08-30",1,"Addis Ababa",12.36
+"2005-08-30",2,"Afar",26.45
+"2005-08-30",3,"Amhara",15.25
+"2005-08-30",4,"Benshangul-Gumaz",19.1
+"2005-08-30",5,"Dire Dawa",20.53
+"2005-08-30",6,"Gambela Peoples",23
+"2005-08-30",7,"Harari People",17.03
+"2005-08-30",8,"Oromia",16.29
+"2005-08-30",9,"Somali",22.22
+"2005-08-30",10,"Southern Nations, Nationalities and Peoples",18.31
+"2005-08-30",11,"Tigray",17.24
+"2005-08-31",1,"Addis Ababa",12.52
+"2005-08-31",2,"Afar",27.17
+"2005-08-31",3,"Amhara",15.44
+"2005-08-31",4,"Benshangul-Gumaz",19.28
+"2005-08-31",5,"Dire Dawa",19.59
+"2005-08-31",6,"Gambela Peoples",22.69
+"2005-08-31",7,"Harari People",16.48
+"2005-08-31",8,"Oromia",17.07
+"2005-08-31",9,"Somali",23.02
+"2005-08-31",10,"Southern Nations, Nationalities and Peoples",18.97
+"2005-08-31",11,"Tigray",16.59
+"2005-09-01",1,"Addis Ababa",11.09
+"2005-09-01",2,"Afar",26.91
+"2005-09-01",3,"Amhara",14.22
+"2005-09-01",4,"Benshangul-Gumaz",19.15
+"2005-09-01",5,"Dire Dawa",19.22
+"2005-09-01",6,"Gambela Peoples",22.89
+"2005-09-01",7,"Harari People",16.06
+"2005-09-01",8,"Oromia",16.33
+"2005-09-01",9,"Somali",22.89
+"2005-09-01",10,"Southern Nations, Nationalities and Peoples",18.89
+"2005-09-01",11,"Tigray",16.7
+"2005-09-02",1,"Addis Ababa",13.67
+"2005-09-02",2,"Afar",26.42
+"2005-09-02",3,"Amhara",15.22
+"2005-09-02",4,"Benshangul-Gumaz",19.63
+"2005-09-02",5,"Dire Dawa",21.08
+"2005-09-02",6,"Gambela Peoples",23.32
+"2005-09-02",7,"Harari People",18.03
+"2005-09-02",8,"Oromia",17.68
+"2005-09-02",9,"Somali",23.05
+"2005-09-02",10,"Southern Nations, Nationalities and Peoples",19.79
+"2005-09-02",11,"Tigray",15.57
+"2005-09-03",1,"Addis Ababa",12.66
+"2005-09-03",2,"Afar",26.63
+"2005-09-03",3,"Amhara",15.85
+"2005-09-03",4,"Benshangul-Gumaz",19.92
+"2005-09-03",5,"Dire Dawa",19.19
+"2005-09-03",6,"Gambela Peoples",23.25
+"2005-09-03",7,"Harari People",16.15
+"2005-09-03",8,"Oromia",17.02
+"2005-09-03",9,"Somali",23.09
+"2005-09-03",10,"Southern Nations, Nationalities and Peoples",19.58
+"2005-09-03",11,"Tigray",17.1
+"2005-09-04",1,"Addis Ababa",11.66
+"2005-09-04",2,"Afar",27.69
+"2005-09-04",3,"Amhara",15.89
+"2005-09-04",4,"Benshangul-Gumaz",19.09
+"2005-09-04",5,"Dire Dawa",19.8
+"2005-09-04",6,"Gambela Peoples",23.57
+"2005-09-04",7,"Harari People",16.86
+"2005-09-04",8,"Oromia",17.28
+"2005-09-04",9,"Somali",23.51
+"2005-09-04",10,"Southern Nations, Nationalities and Peoples",20.06
+"2005-09-04",11,"Tigray",18.28
+"2005-09-05",1,"Addis Ababa",13.23
+"2005-09-05",2,"Afar",27.74
+"2005-09-05",3,"Amhara",16.05
+"2005-09-05",4,"Benshangul-Gumaz",19.65
+"2005-09-05",5,"Dire Dawa",20.5
+"2005-09-05",6,"Gambela Peoples",23.68
+"2005-09-05",7,"Harari People",17.4
+"2005-09-05",8,"Oromia",18.23
+"2005-09-05",9,"Somali",23.71
+"2005-09-05",10,"Southern Nations, Nationalities and Peoples",20.44
+"2005-09-05",11,"Tigray",17.47
+"2005-09-06",1,"Addis Ababa",13
+"2005-09-06",2,"Afar",27.89
+"2005-09-06",3,"Amhara",15.06
+"2005-09-06",4,"Benshangul-Gumaz",19
+"2005-09-06",5,"Dire Dawa",18.62
+"2005-09-06",6,"Gambela Peoples",22.44
+"2005-09-06",7,"Harari People",15.13
+"2005-09-06",8,"Oromia",17.75
+"2005-09-06",9,"Somali",24.35
+"2005-09-06",10,"Southern Nations, Nationalities and Peoples",19.28
+"2005-09-06",11,"Tigray",16.71
+"2005-09-07",1,"Addis Ababa",12.67
+"2005-09-07",2,"Afar",26.68
+"2005-09-07",3,"Amhara",15.4
+"2005-09-07",4,"Benshangul-Gumaz",19.3
+"2005-09-07",5,"Dire Dawa",18.56
+"2005-09-07",6,"Gambela Peoples",23.21
+"2005-09-07",7,"Harari People",15.5
+"2005-09-07",8,"Oromia",17.29
+"2005-09-07",9,"Somali",23.98
+"2005-09-07",10,"Southern Nations, Nationalities and Peoples",18.4
+"2005-09-07",11,"Tigray",16.76
+"2005-09-08",1,"Addis Ababa",12.2
+"2005-09-08",2,"Afar",27.85
+"2005-09-08",3,"Amhara",16.37
+"2005-09-08",4,"Benshangul-Gumaz",20.17
+"2005-09-08",5,"Dire Dawa",19.2
+"2005-09-08",6,"Gambela Peoples",22.94
+"2005-09-08",7,"Harari People",15.65
+"2005-09-08",8,"Oromia",17.91
+"2005-09-08",9,"Somali",24.27
+"2005-09-08",10,"Southern Nations, Nationalities and Peoples",19.82
+"2005-09-08",11,"Tigray",17.57
+"2005-09-09",1,"Addis Ababa",12.74
+"2005-09-09",2,"Afar",28.35
+"2005-09-09",3,"Amhara",15.25
+"2005-09-09",4,"Benshangul-Gumaz",18.49
+"2005-09-09",5,"Dire Dawa",19.56
+"2005-09-09",6,"Gambela Peoples",21.95
+"2005-09-09",7,"Harari People",16.49
+"2005-09-09",8,"Oromia",17.35
+"2005-09-09",9,"Somali",24.39
+"2005-09-09",10,"Southern Nations, Nationalities and Peoples",18.62
+"2005-09-09",11,"Tigray",16.85
+"2005-09-10",1,"Addis Ababa",13.09
+"2005-09-10",2,"Afar",28.5
+"2005-09-10",3,"Amhara",16.57
+"2005-09-10",4,"Benshangul-Gumaz",19.45
+"2005-09-10",5,"Dire Dawa",20.08
+"2005-09-10",6,"Gambela Peoples",21.37
+"2005-09-10",7,"Harari People",16.7
+"2005-09-10",8,"Oromia",17.34
+"2005-09-10",9,"Somali",24.27
+"2005-09-10",10,"Southern Nations, Nationalities and Peoples",18.16
+"2005-09-10",11,"Tigray",17.92
+"2005-09-11",1,"Addis Ababa",13.83
+"2005-09-11",2,"Afar",29.18
+"2005-09-11",3,"Amhara",16.91
+"2005-09-11",4,"Benshangul-Gumaz",20.69
+"2005-09-11",5,"Dire Dawa",19.56
+"2005-09-11",6,"Gambela Peoples",23.01
+"2005-09-11",7,"Harari People",15.52
+"2005-09-11",8,"Oromia",17.89
+"2005-09-11",9,"Somali",24.17
+"2005-09-11",10,"Southern Nations, Nationalities and Peoples",19.15
+"2005-09-11",11,"Tigray",17.54
+"2005-09-12",1,"Addis Ababa",13.87
+"2005-09-12",2,"Afar",28.62
+"2005-09-12",3,"Amhara",16.04
+"2005-09-12",4,"Benshangul-Gumaz",19.6
+"2005-09-12",5,"Dire Dawa",20
+"2005-09-12",6,"Gambela Peoples",22.12
+"2005-09-12",7,"Harari People",17.08
+"2005-09-12",8,"Oromia",17.96
+"2005-09-12",9,"Somali",24.18
+"2005-09-12",10,"Southern Nations, Nationalities and Peoples",19.3
+"2005-09-12",11,"Tigray",17.17
+"2005-09-13",1,"Addis Ababa",12.5
+"2005-09-13",2,"Afar",27.05
+"2005-09-13",3,"Amhara",15.83
+"2005-09-13",4,"Benshangul-Gumaz",19.52
+"2005-09-13",5,"Dire Dawa",19.5
+"2005-09-13",6,"Gambela Peoples",22.82
+"2005-09-13",7,"Harari People",16.5
+"2005-09-13",8,"Oromia",17.43
+"2005-09-13",9,"Somali",23.28
+"2005-09-13",10,"Southern Nations, Nationalities and Peoples",19.11
+"2005-09-13",11,"Tigray",16.52
+"2005-09-14",1,"Addis Ababa",13.56
+"2005-09-14",2,"Afar",28.69
+"2005-09-14",3,"Amhara",16.54
+"2005-09-14",4,"Benshangul-Gumaz",20.35
+"2005-09-14",5,"Dire Dawa",20.24
+"2005-09-14",6,"Gambela Peoples",23.61
+"2005-09-14",7,"Harari People",16.43
+"2005-09-14",8,"Oromia",18.34
+"2005-09-14",9,"Somali",24.62
+"2005-09-14",10,"Southern Nations, Nationalities and Peoples",20.56
+"2005-09-14",11,"Tigray",16.7
+"2005-09-15",1,"Addis Ababa",13.19
+"2005-09-15",2,"Afar",29.04
+"2005-09-15",3,"Amhara",16.29
+"2005-09-15",4,"Benshangul-Gumaz",19.52
+"2005-09-15",5,"Dire Dawa",19.68
+"2005-09-15",6,"Gambela Peoples",22.58
+"2005-09-15",7,"Harari People",15.71
+"2005-09-15",8,"Oromia",18.4
+"2005-09-15",9,"Somali",24.83
+"2005-09-15",10,"Southern Nations, Nationalities and Peoples",19.74
+"2005-09-15",11,"Tigray",16.75
+"2005-09-16",1,"Addis Ababa",12.7
+"2005-09-16",2,"Afar",29.12
+"2005-09-16",3,"Amhara",16.49
+"2005-09-16",4,"Benshangul-Gumaz",19.93
+"2005-09-16",5,"Dire Dawa",21.01
+"2005-09-16",6,"Gambela Peoples",22.98
+"2005-09-16",7,"Harari People",16.7
+"2005-09-16",8,"Oromia",18.22
+"2005-09-16",9,"Somali",24.25
+"2005-09-16",10,"Southern Nations, Nationalities and Peoples",19.39
+"2005-09-16",11,"Tigray",17.54
+"2005-09-17",1,"Addis Ababa",13.97
+"2005-09-17",2,"Afar",28.57
+"2005-09-17",3,"Amhara",17.12
+"2005-09-17",4,"Benshangul-Gumaz",19.96
+"2005-09-17",5,"Dire Dawa",20.02
+"2005-09-17",6,"Gambela Peoples",23.18
+"2005-09-17",7,"Harari People",17
+"2005-09-17",8,"Oromia",18.58
+"2005-09-17",9,"Somali",24.28
+"2005-09-17",10,"Southern Nations, Nationalities and Peoples",19.53
+"2005-09-17",11,"Tigray",17.32
+"2005-09-18",1,"Addis Ababa",13.62
+"2005-09-18",2,"Afar",28.17
+"2005-09-18",3,"Amhara",16.19
+"2005-09-18",4,"Benshangul-Gumaz",19.97
+"2005-09-18",5,"Dire Dawa",20.76
+"2005-09-18",6,"Gambela Peoples",23.21
+"2005-09-18",7,"Harari People",17.45
+"2005-09-18",8,"Oromia",18.13
+"2005-09-18",9,"Somali",24.09
+"2005-09-18",10,"Southern Nations, Nationalities and Peoples",19.5
+"2005-09-18",11,"Tigray",16.53
+"2005-09-19",1,"Addis Ababa",12.31
+"2005-09-19",2,"Afar",29.24
+"2005-09-19",3,"Amhara",15.74
+"2005-09-19",4,"Benshangul-Gumaz",19.36
+"2005-09-19",5,"Dire Dawa",20.3
+"2005-09-19",6,"Gambela Peoples",23.22
+"2005-09-19",7,"Harari People",17.1
+"2005-09-19",8,"Oromia",17.79
+"2005-09-19",9,"Somali",24.08
+"2005-09-19",10,"Southern Nations, Nationalities and Peoples",19.04
+"2005-09-19",11,"Tigray",16.09
+"2005-09-20",1,"Addis Ababa",10.23
+"2005-09-20",2,"Afar",28.55
+"2005-09-20",3,"Amhara",15.08
+"2005-09-20",4,"Benshangul-Gumaz",19.27
+"2005-09-20",5,"Dire Dawa",20.94
+"2005-09-20",6,"Gambela Peoples",23.5
+"2005-09-20",7,"Harari People",16.75
+"2005-09-20",8,"Oromia",16.87
+"2005-09-20",9,"Somali",23.87
+"2005-09-20",10,"Southern Nations, Nationalities and Peoples",18.51
+"2005-09-20",11,"Tigray",16.18
+"2005-09-21",1,"Addis Ababa",12.13
+"2005-09-21",2,"Afar",29.06
+"2005-09-21",3,"Amhara",16.28
+"2005-09-21",4,"Benshangul-Gumaz",20.82
+"2005-09-21",5,"Dire Dawa",20.78
+"2005-09-21",6,"Gambela Peoples",23.79
+"2005-09-21",7,"Harari People",16.71
+"2005-09-21",8,"Oromia",17.84
+"2005-09-21",9,"Somali",23.74
+"2005-09-21",10,"Southern Nations, Nationalities and Peoples",19.77
+"2005-09-21",11,"Tigray",16.87
+"2005-09-22",1,"Addis Ababa",11.56
+"2005-09-22",2,"Afar",28.11
+"2005-09-22",3,"Amhara",14.76
+"2005-09-22",4,"Benshangul-Gumaz",18.81
+"2005-09-22",5,"Dire Dawa",19.48
+"2005-09-22",6,"Gambela Peoples",22.69
+"2005-09-22",7,"Harari People",15.54
+"2005-09-22",8,"Oromia",16.6
+"2005-09-22",9,"Somali",23.32
+"2005-09-22",10,"Southern Nations, Nationalities and Peoples",18.72
+"2005-09-22",11,"Tigray",15.68
+"2005-09-23",1,"Addis Ababa",13.47
+"2005-09-23",2,"Afar",29.1
+"2005-09-23",3,"Amhara",16.36
+"2005-09-23",4,"Benshangul-Gumaz",20.35
+"2005-09-23",5,"Dire Dawa",20.26
+"2005-09-23",6,"Gambela Peoples",24
+"2005-09-23",7,"Harari People",16.22
+"2005-09-23",8,"Oromia",18.67
+"2005-09-23",9,"Somali",24.34
+"2005-09-23",10,"Southern Nations, Nationalities and Peoples",19.91
+"2005-09-23",11,"Tigray",15.92
+"2005-09-24",1,"Addis Ababa",14.08
+"2005-09-24",2,"Afar",29.67
+"2005-09-24",3,"Amhara",16.96
+"2005-09-24",4,"Benshangul-Gumaz",20.26
+"2005-09-24",5,"Dire Dawa",20.94
+"2005-09-24",6,"Gambela Peoples",24.47
+"2005-09-24",7,"Harari People",17.08
+"2005-09-24",8,"Oromia",18.7
+"2005-09-24",9,"Somali",24.66
+"2005-09-24",10,"Southern Nations, Nationalities and Peoples",20.61
+"2005-09-24",11,"Tigray",17.02
+"2005-09-25",1,"Addis Ababa",12.96
+"2005-09-25",2,"Afar",29.26
+"2005-09-25",3,"Amhara",16.41
+"2005-09-25",4,"Benshangul-Gumaz",20.3
+"2005-09-25",5,"Dire Dawa",20.89
+"2005-09-25",6,"Gambela Peoples",23.73
+"2005-09-25",7,"Harari People",17.69
+"2005-09-25",8,"Oromia",18.21
+"2005-09-25",9,"Somali",24.22
+"2005-09-25",10,"Southern Nations, Nationalities and Peoples",20.19
+"2005-09-25",11,"Tigray",16.81
+"2005-09-26",1,"Addis Ababa",12.73
+"2005-09-26",2,"Afar",29.05
+"2005-09-26",3,"Amhara",15.99
+"2005-09-26",4,"Benshangul-Gumaz",20.84
+"2005-09-26",5,"Dire Dawa",20.03
+"2005-09-26",6,"Gambela Peoples",24.79
+"2005-09-26",7,"Harari People",17.06
+"2005-09-26",8,"Oromia",17.91
+"2005-09-26",9,"Somali",23.91
+"2005-09-26",10,"Southern Nations, Nationalities and Peoples",19.72
+"2005-09-26",11,"Tigray",15.98
+"2005-09-27",1,"Addis Ababa",13.1
+"2005-09-27",2,"Afar",28.56
+"2005-09-27",3,"Amhara",15.98
+"2005-09-27",4,"Benshangul-Gumaz",19.45
+"2005-09-27",5,"Dire Dawa",21.1
+"2005-09-27",6,"Gambela Peoples",24.54
+"2005-09-27",7,"Harari People",18.1
+"2005-09-27",8,"Oromia",18.48
+"2005-09-27",9,"Somali",24.51
+"2005-09-27",10,"Southern Nations, Nationalities and Peoples",20.36
+"2005-09-27",11,"Tigray",16.13
+"2005-09-28",1,"Addis Ababa",12.85
+"2005-09-28",2,"Afar",26.93
+"2005-09-28",3,"Amhara",15.63
+"2005-09-28",4,"Benshangul-Gumaz",19.96
+"2005-09-28",5,"Dire Dawa",19.7
+"2005-09-28",6,"Gambela Peoples",25.18
+"2005-09-28",7,"Harari People",17.31
+"2005-09-28",8,"Oromia",18.39
+"2005-09-28",9,"Somali",25.08
+"2005-09-28",10,"Southern Nations, Nationalities and Peoples",20.07
+"2005-09-28",11,"Tigray",16.59
+"2005-09-29",1,"Addis Ababa",12.01
+"2005-09-29",2,"Afar",27.44
+"2005-09-29",3,"Amhara",15.38
+"2005-09-29",4,"Benshangul-Gumaz",19.9
+"2005-09-29",5,"Dire Dawa",18.83
+"2005-09-29",6,"Gambela Peoples",24.24
+"2005-09-29",7,"Harari People",16.83
+"2005-09-29",8,"Oromia",17.19
+"2005-09-29",9,"Somali",24.34
+"2005-09-29",10,"Southern Nations, Nationalities and Peoples",19.23
+"2005-09-29",11,"Tigray",16.35
+"2005-09-30",1,"Addis Ababa",12.86
+"2005-09-30",2,"Afar",28.26
+"2005-09-30",3,"Amhara",15.76
+"2005-09-30",4,"Benshangul-Gumaz",19.66
+"2005-09-30",5,"Dire Dawa",19.1
+"2005-09-30",6,"Gambela Peoples",24.57
+"2005-09-30",7,"Harari People",17.11
+"2005-09-30",8,"Oromia",17.87
+"2005-09-30",9,"Somali",23.94
+"2005-09-30",10,"Southern Nations, Nationalities and Peoples",20.06
+"2005-09-30",11,"Tigray",15.81
+"2005-10-01",1,"Addis Ababa",11.95
+"2005-10-01",2,"Afar",28.57
+"2005-10-01",3,"Amhara",16.19
+"2005-10-01",4,"Benshangul-Gumaz",20.04
+"2005-10-01",5,"Dire Dawa",18.42
+"2005-10-01",6,"Gambela Peoples",23.12
+"2005-10-01",7,"Harari People",16.06
+"2005-10-01",8,"Oromia",17.5
+"2005-10-01",9,"Somali",23.81
+"2005-10-01",10,"Southern Nations, Nationalities and Peoples",18.97
+"2005-10-01",11,"Tigray",16.52
+"2005-10-02",1,"Addis Ababa",12.41
+"2005-10-02",2,"Afar",27.82
+"2005-10-02",3,"Amhara",16.43
+"2005-10-02",4,"Benshangul-Gumaz",20.53
+"2005-10-02",5,"Dire Dawa",20.57
+"2005-10-02",6,"Gambela Peoples",23.68
+"2005-10-02",7,"Harari People",17.36
+"2005-10-02",8,"Oromia",17.29
+"2005-10-02",9,"Somali",23.49
+"2005-10-02",10,"Southern Nations, Nationalities and Peoples",19.09
+"2005-10-02",11,"Tigray",16.68
+"2005-10-03",1,"Addis Ababa",11.94
+"2005-10-03",2,"Afar",28.11
+"2005-10-03",3,"Amhara",16.22
+"2005-10-03",4,"Benshangul-Gumaz",20.28
+"2005-10-03",5,"Dire Dawa",19.41
+"2005-10-03",6,"Gambela Peoples",24.32
+"2005-10-03",7,"Harari People",17.27
+"2005-10-03",8,"Oromia",17.3
+"2005-10-03",9,"Somali",24.08
+"2005-10-03",10,"Southern Nations, Nationalities and Peoples",19.17
+"2005-10-03",11,"Tigray",16.34
+"2005-10-04",1,"Addis Ababa",13.14
+"2005-10-04",2,"Afar",27.85
+"2005-10-04",3,"Amhara",16.36
+"2005-10-04",4,"Benshangul-Gumaz",19.69
+"2005-10-04",5,"Dire Dawa",19.17
+"2005-10-04",6,"Gambela Peoples",23.85
+"2005-10-04",7,"Harari People",16.93
+"2005-10-04",8,"Oromia",17.64
+"2005-10-04",9,"Somali",24.2
+"2005-10-04",10,"Southern Nations, Nationalities and Peoples",19.4
+"2005-10-04",11,"Tigray",16.17
+"2005-10-05",1,"Addis Ababa",14.08
+"2005-10-05",2,"Afar",27.02
+"2005-10-05",3,"Amhara",15.33
+"2005-10-05",4,"Benshangul-Gumaz",20.15
+"2005-10-05",5,"Dire Dawa",17.5
+"2005-10-05",6,"Gambela Peoples",24.38
+"2005-10-05",7,"Harari People",14.51
+"2005-10-05",8,"Oromia",16.62
+"2005-10-05",9,"Somali",23.37
+"2005-10-05",10,"Southern Nations, Nationalities and Peoples",18.36
+"2005-10-05",11,"Tigray",15.35
+"2005-10-06",1,"Addis Ababa",10.38
+"2005-10-06",2,"Afar",26.92
+"2005-10-06",3,"Amhara",14.39
+"2005-10-06",4,"Benshangul-Gumaz",18.92
+"2005-10-06",5,"Dire Dawa",17.87
+"2005-10-06",6,"Gambela Peoples",23.81
+"2005-10-06",7,"Harari People",15.02
+"2005-10-06",8,"Oromia",16.18
+"2005-10-06",9,"Somali",23.31
+"2005-10-06",10,"Southern Nations, Nationalities and Peoples",18.14
+"2005-10-06",11,"Tigray",15.27
+"2005-10-07",1,"Addis Ababa",12.84
+"2005-10-07",2,"Afar",27.86
+"2005-10-07",3,"Amhara",15.74
+"2005-10-07",4,"Benshangul-Gumaz",19.33
+"2005-10-07",5,"Dire Dawa",18.64
+"2005-10-07",6,"Gambela Peoples",23.84
+"2005-10-07",7,"Harari People",15.75
+"2005-10-07",8,"Oromia",17.35
+"2005-10-07",9,"Somali",23.76
+"2005-10-07",10,"Southern Nations, Nationalities and Peoples",19.25
+"2005-10-07",11,"Tigray",16.54
+"2005-10-08",1,"Addis Ababa",12.29
+"2005-10-08",2,"Afar",28.31
+"2005-10-08",3,"Amhara",15.71
+"2005-10-08",4,"Benshangul-Gumaz",19.57
+"2005-10-08",5,"Dire Dawa",18.61
+"2005-10-08",6,"Gambela Peoples",22.82
+"2005-10-08",7,"Harari People",16.04
+"2005-10-08",8,"Oromia",16.75
+"2005-10-08",9,"Somali",24.11
+"2005-10-08",10,"Southern Nations, Nationalities and Peoples",18.72
+"2005-10-08",11,"Tigray",17.12
+"2005-10-09",1,"Addis Ababa",11.95
+"2005-10-09",2,"Afar",27.56
+"2005-10-09",3,"Amhara",15.94
+"2005-10-09",4,"Benshangul-Gumaz",19.52
+"2005-10-09",5,"Dire Dawa",18.8
+"2005-10-09",6,"Gambela Peoples",23.6
+"2005-10-09",7,"Harari People",16.22
+"2005-10-09",8,"Oromia",17.24
+"2005-10-09",9,"Somali",23.99
+"2005-10-09",10,"Southern Nations, Nationalities and Peoples",19.17
+"2005-10-09",11,"Tigray",16.96
+"2005-10-10",1,"Addis Ababa",13.1
+"2005-10-10",2,"Afar",27.66
+"2005-10-10",3,"Amhara",16.05
+"2005-10-10",4,"Benshangul-Gumaz",20.33
+"2005-10-10",5,"Dire Dawa",18.8
+"2005-10-10",6,"Gambela Peoples",24.26
+"2005-10-10",7,"Harari People",16.04
+"2005-10-10",8,"Oromia",17.32
+"2005-10-10",9,"Somali",23.5
+"2005-10-10",10,"Southern Nations, Nationalities and Peoples",19.37
+"2005-10-10",11,"Tigray",17.14
+"2005-10-11",1,"Addis Ababa",11.8
+"2005-10-11",2,"Afar",27.57
+"2005-10-11",3,"Amhara",16.06
+"2005-10-11",4,"Benshangul-Gumaz",20.22
+"2005-10-11",5,"Dire Dawa",18.25
+"2005-10-11",6,"Gambela Peoples",24.55
+"2005-10-11",7,"Harari People",17
+"2005-10-11",8,"Oromia",17.2
+"2005-10-11",9,"Somali",23.54
+"2005-10-11",10,"Southern Nations, Nationalities and Peoples",19.4
+"2005-10-11",11,"Tigray",17
+"2005-10-12",1,"Addis Ababa",11.98
+"2005-10-12",2,"Afar",26.62
+"2005-10-12",3,"Amhara",15.58
+"2005-10-12",4,"Benshangul-Gumaz",20.18
+"2005-10-12",5,"Dire Dawa",17.46
+"2005-10-12",6,"Gambela Peoples",24.27
+"2005-10-12",7,"Harari People",15.91
+"2005-10-12",8,"Oromia",17.05
+"2005-10-12",9,"Somali",22.92
+"2005-10-12",10,"Southern Nations, Nationalities and Peoples",18.8
+"2005-10-12",11,"Tigray",16.29
+"2005-10-13",1,"Addis Ababa",12.7
+"2005-10-13",2,"Afar",26.66
+"2005-10-13",3,"Amhara",15.72
+"2005-10-13",4,"Benshangul-Gumaz",19.79
+"2005-10-13",5,"Dire Dawa",17.45
+"2005-10-13",6,"Gambela Peoples",23.96
+"2005-10-13",7,"Harari People",16.28
+"2005-10-13",8,"Oromia",17.51
+"2005-10-13",9,"Somali",22.51
+"2005-10-13",10,"Southern Nations, Nationalities and Peoples",19.62
+"2005-10-13",11,"Tigray",16.21
+"2005-10-14",1,"Addis Ababa",10.14
+"2005-10-14",2,"Afar",25.92
+"2005-10-14",3,"Amhara",15.69
+"2005-10-14",4,"Benshangul-Gumaz",20.75
+"2005-10-14",5,"Dire Dawa",16.6
+"2005-10-14",6,"Gambela Peoples",23.64
+"2005-10-14",7,"Harari People",15.02
+"2005-10-14",8,"Oromia",17.19
+"2005-10-14",9,"Somali",21.37
+"2005-10-14",10,"Southern Nations, Nationalities and Peoples",18.9
+"2005-10-14",11,"Tigray",17.12
+"2005-10-15",1,"Addis Ababa",10.16
+"2005-10-15",2,"Afar",25.96
+"2005-10-15",3,"Amhara",15.19
+"2005-10-15",4,"Benshangul-Gumaz",19.25
+"2005-10-15",5,"Dire Dawa",14.47
+"2005-10-15",6,"Gambela Peoples",21.92
+"2005-10-15",7,"Harari People",13.84
+"2005-10-15",8,"Oromia",16.71
+"2005-10-15",9,"Somali",21.68
+"2005-10-15",10,"Southern Nations, Nationalities and Peoples",18.28
+"2005-10-15",11,"Tigray",15.6
+"2005-10-16",1,"Addis Ababa",6.82
+"2005-10-16",2,"Afar",24.83
+"2005-10-16",3,"Amhara",13.75
+"2005-10-16",4,"Benshangul-Gumaz",18.56
+"2005-10-16",5,"Dire Dawa",16.12
+"2005-10-16",6,"Gambela Peoples",22.46
+"2005-10-16",7,"Harari People",14.72
+"2005-10-16",8,"Oromia",15.18
+"2005-10-16",9,"Somali",21.07
+"2005-10-16",10,"Southern Nations, Nationalities and Peoples",17.07
+"2005-10-16",11,"Tigray",15
+"2005-10-17",1,"Addis Ababa",10.53
+"2005-10-17",2,"Afar",25.6
+"2005-10-17",3,"Amhara",15.31
+"2005-10-17",4,"Benshangul-Gumaz",19.82
+"2005-10-17",5,"Dire Dawa",16.36
+"2005-10-17",6,"Gambela Peoples",22.84
+"2005-10-17",7,"Harari People",15.5
+"2005-10-17",8,"Oromia",17.06
+"2005-10-17",9,"Somali",21.42
+"2005-10-17",10,"Southern Nations, Nationalities and Peoples",18.96
+"2005-10-17",11,"Tigray",16.12
+"2005-10-18",1,"Addis Ababa",9.41
+"2005-10-18",2,"Afar",25.74
+"2005-10-18",3,"Amhara",14.87
+"2005-10-18",4,"Benshangul-Gumaz",19.37
+"2005-10-18",5,"Dire Dawa",14.77
+"2005-10-18",6,"Gambela Peoples",23.4
+"2005-10-18",7,"Harari People",14.49
+"2005-10-18",8,"Oromia",16.8
+"2005-10-18",9,"Somali",21.38
+"2005-10-18",10,"Southern Nations, Nationalities and Peoples",18.77
+"2005-10-18",11,"Tigray",15.81
+"2005-10-19",1,"Addis Ababa",7.56
+"2005-10-19",2,"Afar",24.64
+"2005-10-19",3,"Amhara",14.63
+"2005-10-19",4,"Benshangul-Gumaz",19.31
+"2005-10-19",5,"Dire Dawa",16.82
+"2005-10-19",6,"Gambela Peoples",22.4
+"2005-10-19",7,"Harari People",16.07
+"2005-10-19",8,"Oromia",15.87
+"2005-10-19",9,"Somali",21.73
+"2005-10-19",10,"Southern Nations, Nationalities and Peoples",18
+"2005-10-19",11,"Tigray",15.84
+"2005-10-20",1,"Addis Ababa",11.89
+"2005-10-20",2,"Afar",25.93
+"2005-10-20",3,"Amhara",16.55
+"2005-10-20",4,"Benshangul-Gumaz",20.47
+"2005-10-20",5,"Dire Dawa",18.9
+"2005-10-20",6,"Gambela Peoples",24.15
+"2005-10-20",7,"Harari People",17.24
+"2005-10-20",8,"Oromia",17.62
+"2005-10-20",9,"Somali",22.63
+"2005-10-20",10,"Southern Nations, Nationalities and Peoples",19.25
+"2005-10-20",11,"Tigray",18.15
+"2005-10-21",1,"Addis Ababa",12.54
+"2005-10-21",2,"Afar",25.5
+"2005-10-21",3,"Amhara",15.84
+"2005-10-21",4,"Benshangul-Gumaz",20.26
+"2005-10-21",5,"Dire Dawa",16.79
+"2005-10-21",6,"Gambela Peoples",23.9
+"2005-10-21",7,"Harari People",16.33
+"2005-10-21",8,"Oromia",17.11
+"2005-10-21",9,"Somali",22.62
+"2005-10-21",10,"Southern Nations, Nationalities and Peoples",18.75
+"2005-10-21",11,"Tigray",16.69
+"2005-10-22",1,"Addis Ababa",10.79
+"2005-10-22",2,"Afar",24.55
+"2005-10-22",3,"Amhara",14.79
+"2005-10-22",4,"Benshangul-Gumaz",19.6
+"2005-10-22",5,"Dire Dawa",15
+"2005-10-22",6,"Gambela Peoples",23.62
+"2005-10-22",7,"Harari People",17.01
+"2005-10-22",8,"Oromia",16.56
+"2005-10-22",9,"Somali",22.61
+"2005-10-22",10,"Southern Nations, Nationalities and Peoples",18.27
+"2005-10-22",11,"Tigray",16.39
+"2005-10-23",1,"Addis Ababa",11.07
+"2005-10-23",2,"Afar",24.96
+"2005-10-23",3,"Amhara",15.65
+"2005-10-23",4,"Benshangul-Gumaz",19.96
+"2005-10-23",5,"Dire Dawa",17.49
+"2005-10-23",6,"Gambela Peoples",22.76
+"2005-10-23",7,"Harari People",15.42
+"2005-10-23",8,"Oromia",17.39
+"2005-10-23",9,"Somali",21.81
+"2005-10-23",10,"Southern Nations, Nationalities and Peoples",19.53
+"2005-10-23",11,"Tigray",15.92
+"2005-10-24",1,"Addis Ababa",10.29
+"2005-10-24",2,"Afar",24.61
+"2005-10-24",3,"Amhara",14.91
+"2005-10-24",4,"Benshangul-Gumaz",19.55
+"2005-10-24",5,"Dire Dawa",18.14
+"2005-10-24",6,"Gambela Peoples",22.76
+"2005-10-24",7,"Harari People",14.8
+"2005-10-24",8,"Oromia",16.18
+"2005-10-24",9,"Somali",20.82
+"2005-10-24",10,"Southern Nations, Nationalities and Peoples",17.82
+"2005-10-24",11,"Tigray",15.14
+"2005-10-25",1,"Addis Ababa",11.22
+"2005-10-25",2,"Afar",24.7
+"2005-10-25",3,"Amhara",15.84
+"2005-10-25",4,"Benshangul-Gumaz",20.71
+"2005-10-25",5,"Dire Dawa",15.53
+"2005-10-25",6,"Gambela Peoples",23.43
+"2005-10-25",7,"Harari People",15.36
+"2005-10-25",8,"Oromia",16.83
+"2005-10-25",9,"Somali",21
+"2005-10-25",10,"Southern Nations, Nationalities and Peoples",18.68
+"2005-10-25",11,"Tigray",16.16
+"2005-10-26",1,"Addis Ababa",10.66
+"2005-10-26",2,"Afar",23.18
+"2005-10-26",3,"Amhara",14.75
+"2005-10-26",4,"Benshangul-Gumaz",20
+"2005-10-26",5,"Dire Dawa",16.11
+"2005-10-26",6,"Gambela Peoples",23.25
+"2005-10-26",7,"Harari People",15.19
+"2005-10-26",8,"Oromia",16.42
+"2005-10-26",9,"Somali",21.42
+"2005-10-26",10,"Southern Nations, Nationalities and Peoples",18.73
+"2005-10-26",11,"Tigray",15.49
+"2005-10-27",1,"Addis Ababa",12.4
+"2005-10-27",2,"Afar",24.31
+"2005-10-27",3,"Amhara",16.06
+"2005-10-27",4,"Benshangul-Gumaz",20.39
+"2005-10-27",5,"Dire Dawa",18.76
+"2005-10-27",6,"Gambela Peoples",23.92
+"2005-10-27",7,"Harari People",17.61
+"2005-10-27",8,"Oromia",17.26
+"2005-10-27",9,"Somali",22.12
+"2005-10-27",10,"Southern Nations, Nationalities and Peoples",19.44
+"2005-10-27",11,"Tigray",16.56
+"2005-10-28",1,"Addis Ababa",11.3
+"2005-10-28",2,"Afar",23.92
+"2005-10-28",3,"Amhara",14.88
+"2005-10-28",4,"Benshangul-Gumaz",19.32
+"2005-10-28",5,"Dire Dawa",16.24
+"2005-10-28",6,"Gambela Peoples",23.22
+"2005-10-28",7,"Harari People",15.51
+"2005-10-28",8,"Oromia",16.71
+"2005-10-28",9,"Somali",21.44
+"2005-10-28",10,"Southern Nations, Nationalities and Peoples",18.59
+"2005-10-28",11,"Tigray",15.53
+"2005-10-29",1,"Addis Ababa",12.93
+"2005-10-29",2,"Afar",23.9
+"2005-10-29",3,"Amhara",15.39
+"2005-10-29",4,"Benshangul-Gumaz",19.68
+"2005-10-29",5,"Dire Dawa",17.19
+"2005-10-29",6,"Gambela Peoples",22.35
+"2005-10-29",7,"Harari People",15.22
+"2005-10-29",8,"Oromia",15.87
+"2005-10-29",9,"Somali",20.83
+"2005-10-29",10,"Southern Nations, Nationalities and Peoples",17.97
+"2005-10-29",11,"Tigray",17.31
+"2005-10-30",1,"Addis Ababa",13.36
+"2005-10-30",2,"Afar",24.06
+"2005-10-30",3,"Amhara",15.13
+"2005-10-30",4,"Benshangul-Gumaz",19.45
+"2005-10-30",5,"Dire Dawa",16.79
+"2005-10-30",6,"Gambela Peoples",22.52
+"2005-10-30",7,"Harari People",15.36
+"2005-10-30",8,"Oromia",16.01
+"2005-10-30",9,"Somali",20.9
+"2005-10-30",10,"Southern Nations, Nationalities and Peoples",18.21
+"2005-10-30",11,"Tigray",16.95
+"2005-10-31",1,"Addis Ababa",13.96
+"2005-10-31",2,"Afar",25.01
+"2005-10-31",3,"Amhara",15.49
+"2005-10-31",4,"Benshangul-Gumaz",19.46
+"2005-10-31",5,"Dire Dawa",15.88
+"2005-10-31",6,"Gambela Peoples",22.24
+"2005-10-31",7,"Harari People",14.56
+"2005-10-31",8,"Oromia",16.26
+"2005-10-31",9,"Somali",21.19
+"2005-10-31",10,"Southern Nations, Nationalities and Peoples",18.15
+"2005-10-31",11,"Tigray",17.3
+"2005-11-01",1,"Addis Ababa",13.97
+"2005-11-01",2,"Afar",25.72
+"2005-11-01",3,"Amhara",16.22
+"2005-11-01",4,"Benshangul-Gumaz",19.59
+"2005-11-01",5,"Dire Dawa",16.06
+"2005-11-01",6,"Gambela Peoples",22.8
+"2005-11-01",7,"Harari People",15.37
+"2005-11-01",8,"Oromia",16.49
+"2005-11-01",9,"Somali",21.72
+"2005-11-01",10,"Southern Nations, Nationalities and Peoples",18.5
+"2005-11-01",11,"Tigray",17.99
+"2005-11-02",1,"Addis Ababa",14.07
+"2005-11-02",2,"Afar",25.22
+"2005-11-02",3,"Amhara",15.03
+"2005-11-02",4,"Benshangul-Gumaz",18.1
+"2005-11-02",5,"Dire Dawa",15.37
+"2005-11-02",6,"Gambela Peoples",22.53
+"2005-11-02",7,"Harari People",14.67
+"2005-11-02",8,"Oromia",15.75
+"2005-11-02",9,"Somali",21.45
+"2005-11-02",10,"Southern Nations, Nationalities and Peoples",17.51
+"2005-11-02",11,"Tigray",16.76
+"2005-11-03",1,"Addis Ababa",14.21
+"2005-11-03",2,"Afar",25.08
+"2005-11-03",3,"Amhara",15.13
+"2005-11-03",4,"Benshangul-Gumaz",17.57
+"2005-11-03",5,"Dire Dawa",15.91
+"2005-11-03",6,"Gambela Peoples",21.7
+"2005-11-03",7,"Harari People",14.4
+"2005-11-03",8,"Oromia",15.79
+"2005-11-03",9,"Somali",21.17
+"2005-11-03",10,"Southern Nations, Nationalities and Peoples",17.68
+"2005-11-03",11,"Tigray",16.46
+"2005-11-04",1,"Addis Ababa",12.93
+"2005-11-04",2,"Afar",25.3
+"2005-11-04",3,"Amhara",16.38
+"2005-11-04",4,"Benshangul-Gumaz",20.8
+"2005-11-04",5,"Dire Dawa",16.16
+"2005-11-04",6,"Gambela Peoples",23.16
+"2005-11-04",7,"Harari People",16.29
+"2005-11-04",8,"Oromia",17.12
+"2005-11-04",9,"Somali",21.72
+"2005-11-04",10,"Southern Nations, Nationalities and Peoples",18.75
+"2005-11-04",11,"Tigray",17.38
+"2005-11-05",1,"Addis Ababa",11.84
+"2005-11-05",2,"Afar",24.17
+"2005-11-05",3,"Amhara",15.95
+"2005-11-05",4,"Benshangul-Gumaz",20.75
+"2005-11-05",5,"Dire Dawa",14.91
+"2005-11-05",6,"Gambela Peoples",23.3
+"2005-11-05",7,"Harari People",16.23
+"2005-11-05",8,"Oromia",16.64
+"2005-11-05",9,"Somali",20.71
+"2005-11-05",10,"Southern Nations, Nationalities and Peoples",19.04
+"2005-11-05",11,"Tigray",17.22
+"2005-11-06",1,"Addis Ababa",7.56
+"2005-11-06",2,"Afar",22.79
+"2005-11-06",3,"Amhara",13.71
+"2005-11-06",4,"Benshangul-Gumaz",18.24
+"2005-11-06",5,"Dire Dawa",15.72
+"2005-11-06",6,"Gambela Peoples",21.62
+"2005-11-06",7,"Harari People",12.77
+"2005-11-06",8,"Oromia",14.81
+"2005-11-06",9,"Somali",19.55
+"2005-11-06",10,"Southern Nations, Nationalities and Peoples",16.92
+"2005-11-06",11,"Tigray",16.37
+"2005-11-07",1,"Addis Ababa",7.28
+"2005-11-07",2,"Afar",22.65
+"2005-11-07",3,"Amhara",13.86
+"2005-11-07",4,"Benshangul-Gumaz",19.45
+"2005-11-07",5,"Dire Dawa",13.26
+"2005-11-07",6,"Gambela Peoples",22.7
+"2005-11-07",7,"Harari People",13.57
+"2005-11-07",8,"Oromia",14.59
+"2005-11-07",9,"Somali",18.99
+"2005-11-07",10,"Southern Nations, Nationalities and Peoples",17.11
+"2005-11-07",11,"Tigray",16.04
+"2005-11-08",1,"Addis Ababa",8.62
+"2005-11-08",2,"Afar",23.48
+"2005-11-08",3,"Amhara",14.36
+"2005-11-08",4,"Benshangul-Gumaz",19.94
+"2005-11-08",5,"Dire Dawa",15.76
+"2005-11-08",6,"Gambela Peoples",24.02
+"2005-11-08",7,"Harari People",13.72
+"2005-11-08",8,"Oromia",15.31
+"2005-11-08",9,"Somali",19.27
+"2005-11-08",10,"Southern Nations, Nationalities and Peoples",17.82
+"2005-11-08",11,"Tigray",16.02
+"2005-11-09",1,"Addis Ababa",7.65
+"2005-11-09",2,"Afar",23.3
+"2005-11-09",3,"Amhara",13.95
+"2005-11-09",4,"Benshangul-Gumaz",19.56
+"2005-11-09",5,"Dire Dawa",15.05
+"2005-11-09",6,"Gambela Peoples",22.19
+"2005-11-09",7,"Harari People",14.12
+"2005-11-09",8,"Oromia",14.66
+"2005-11-09",9,"Somali",20.79
+"2005-11-09",10,"Southern Nations, Nationalities and Peoples",16.63
+"2005-11-09",11,"Tigray",15.54
+"2005-11-10",1,"Addis Ababa",11.29
+"2005-11-10",2,"Afar",24.36
+"2005-11-10",3,"Amhara",15.64
+"2005-11-10",4,"Benshangul-Gumaz",20.99
+"2005-11-10",5,"Dire Dawa",15.57
+"2005-11-10",6,"Gambela Peoples",23.44
+"2005-11-10",7,"Harari People",15.64
+"2005-11-10",8,"Oromia",16.7
+"2005-11-10",9,"Somali",21.09
+"2005-11-10",10,"Southern Nations, Nationalities and Peoples",18.42
+"2005-11-10",11,"Tigray",16.21
+"2005-11-11",1,"Addis Ababa",9.67
+"2005-11-11",2,"Afar",23.28
+"2005-11-11",3,"Amhara",13.83
+"2005-11-11",4,"Benshangul-Gumaz",18.92
+"2005-11-11",5,"Dire Dawa",13.42
+"2005-11-11",6,"Gambela Peoples",22.27
+"2005-11-11",7,"Harari People",14.17
+"2005-11-11",8,"Oromia",15.19
+"2005-11-11",9,"Somali",19.68
+"2005-11-11",10,"Southern Nations, Nationalities and Peoples",17.78
+"2005-11-11",11,"Tigray",15.08
+"2005-11-12",1,"Addis Ababa",10.92
+"2005-11-12",2,"Afar",23.95
+"2005-11-12",3,"Amhara",14.75
+"2005-11-12",4,"Benshangul-Gumaz",19.69
+"2005-11-12",5,"Dire Dawa",14.1
+"2005-11-12",6,"Gambela Peoples",23.05
+"2005-11-12",7,"Harari People",14.88
+"2005-11-12",8,"Oromia",15.94
+"2005-11-12",9,"Somali",19.91
+"2005-11-12",10,"Southern Nations, Nationalities and Peoples",18.08
+"2005-11-12",11,"Tigray",15.98
+"2005-11-13",1,"Addis Ababa",12.59
+"2005-11-13",2,"Afar",23.55
+"2005-11-13",3,"Amhara",15.94
+"2005-11-13",4,"Benshangul-Gumaz",21.68
+"2005-11-13",5,"Dire Dawa",14.29
+"2005-11-13",6,"Gambela Peoples",24.05
+"2005-11-13",7,"Harari People",15.15
+"2005-11-13",8,"Oromia",16.59
+"2005-11-13",9,"Somali",20.19
+"2005-11-13",10,"Southern Nations, Nationalities and Peoples",18.74
+"2005-11-13",11,"Tigray",16.8
+"2005-11-14",1,"Addis Ababa",12.76
+"2005-11-14",2,"Afar",23.47
+"2005-11-14",3,"Amhara",15.89
+"2005-11-14",4,"Benshangul-Gumaz",21.3
+"2005-11-14",5,"Dire Dawa",16.36
+"2005-11-14",6,"Gambela Peoples",23.66
+"2005-11-14",7,"Harari People",16.4
+"2005-11-14",8,"Oromia",16.75
+"2005-11-14",9,"Somali",20.71
+"2005-11-14",10,"Southern Nations, Nationalities and Peoples",18.4
+"2005-11-14",11,"Tigray",16.65
+"2005-11-15",1,"Addis Ababa",13.99
+"2005-11-15",2,"Afar",23.9
+"2005-11-15",3,"Amhara",15.5
+"2005-11-15",4,"Benshangul-Gumaz",19.81
+"2005-11-15",5,"Dire Dawa",18.43
+"2005-11-15",6,"Gambela Peoples",22.73
+"2005-11-15",7,"Harari People",16.65
+"2005-11-15",8,"Oromia",16.9
+"2005-11-15",9,"Somali",21.47
+"2005-11-15",10,"Southern Nations, Nationalities and Peoples",18.86
+"2005-11-15",11,"Tigray",16.47
+"2005-11-16",1,"Addis Ababa",13.56
+"2005-11-16",2,"Afar",25.18
+"2005-11-16",3,"Amhara",16.83
+"2005-11-16",4,"Benshangul-Gumaz",20.07
+"2005-11-16",5,"Dire Dawa",18.05
+"2005-11-16",6,"Gambela Peoples",22.91
+"2005-11-16",7,"Harari People",15.99
+"2005-11-16",8,"Oromia",16.85
+"2005-11-16",9,"Somali",21.81
+"2005-11-16",10,"Southern Nations, Nationalities and Peoples",19.18
+"2005-11-16",11,"Tigray",17.14
+"2005-11-17",1,"Addis Ababa",14.77
+"2005-11-17",2,"Afar",24.92
+"2005-11-17",3,"Amhara",15.71
+"2005-11-17",4,"Benshangul-Gumaz",19.67
+"2005-11-17",5,"Dire Dawa",18.67
+"2005-11-17",6,"Gambela Peoples",23.36
+"2005-11-17",7,"Harari People",15.73
+"2005-11-17",8,"Oromia",17.07
+"2005-11-17",9,"Somali",21.79
+"2005-11-17",10,"Southern Nations, Nationalities and Peoples",19.16
+"2005-11-17",11,"Tigray",16.34
+"2005-11-18",1,"Addis Ababa",14.17
+"2005-11-18",2,"Afar",24.51
+"2005-11-18",3,"Amhara",16.21
+"2005-11-18",4,"Benshangul-Gumaz",20.7
+"2005-11-18",5,"Dire Dawa",17.63
+"2005-11-18",6,"Gambela Peoples",24.32
+"2005-11-18",7,"Harari People",15.67
+"2005-11-18",8,"Oromia",17.07
+"2005-11-18",9,"Somali",21.92
+"2005-11-18",10,"Southern Nations, Nationalities and Peoples",19.32
+"2005-11-18",11,"Tigray",16.29
+"2005-11-19",1,"Addis Ababa",13.11
+"2005-11-19",2,"Afar",23.99
+"2005-11-19",3,"Amhara",15.42
+"2005-11-19",4,"Benshangul-Gumaz",20.76
+"2005-11-19",5,"Dire Dawa",16.85
+"2005-11-19",6,"Gambela Peoples",24.03
+"2005-11-19",7,"Harari People",15.55
+"2005-11-19",8,"Oromia",15.93
+"2005-11-19",9,"Somali",21.73
+"2005-11-19",10,"Southern Nations, Nationalities and Peoples",17.28
+"2005-11-19",11,"Tigray",15.82
+"2005-11-20",1,"Addis Ababa",12.46
+"2005-11-20",2,"Afar",24.38
+"2005-11-20",3,"Amhara",16.28
+"2005-11-20",4,"Benshangul-Gumaz",20.58
+"2005-11-20",5,"Dire Dawa",16.98
+"2005-11-20",6,"Gambela Peoples",22.56
+"2005-11-20",7,"Harari People",14.72
+"2005-11-20",8,"Oromia",15.95
+"2005-11-20",9,"Somali",21.38
+"2005-11-20",10,"Southern Nations, Nationalities and Peoples",17.94
+"2005-11-20",11,"Tigray",17.62
+"2005-11-21",1,"Addis Ababa",12.86
+"2005-11-21",2,"Afar",23.86
+"2005-11-21",3,"Amhara",15.68
+"2005-11-21",4,"Benshangul-Gumaz",20.25
+"2005-11-21",5,"Dire Dawa",16.11
+"2005-11-21",6,"Gambela Peoples",23.51
+"2005-11-21",7,"Harari People",15.02
+"2005-11-21",8,"Oromia",16.03
+"2005-11-21",9,"Somali",21.45
+"2005-11-21",10,"Southern Nations, Nationalities and Peoples",18.06
+"2005-11-21",11,"Tigray",17.08
+"2005-11-22",1,"Addis Ababa",7.86
+"2005-11-22",2,"Afar",22.71
+"2005-11-22",3,"Amhara",14.08
+"2005-11-22",4,"Benshangul-Gumaz",19.35
+"2005-11-22",5,"Dire Dawa",14.83
+"2005-11-22",6,"Gambela Peoples",22.96
+"2005-11-22",7,"Harari People",14.22
+"2005-11-22",8,"Oromia",14.73
+"2005-11-22",9,"Somali",20.72
+"2005-11-22",10,"Southern Nations, Nationalities and Peoples",17.24
+"2005-11-22",11,"Tigray",16.32
+"2005-11-23",1,"Addis Ababa",10.07
+"2005-11-23",2,"Afar",23.57
+"2005-11-23",3,"Amhara",14.92
+"2005-11-23",4,"Benshangul-Gumaz",20.48
+"2005-11-23",5,"Dire Dawa",14.63
+"2005-11-23",6,"Gambela Peoples",23.47
+"2005-11-23",7,"Harari People",13.48
+"2005-11-23",8,"Oromia",16.27
+"2005-11-23",9,"Somali",20.88
+"2005-11-23",10,"Southern Nations, Nationalities and Peoples",18.72
+"2005-11-23",11,"Tigray",16.34
+"2005-11-24",1,"Addis Ababa",7.07
+"2005-11-24",2,"Afar",21.86
+"2005-11-24",3,"Amhara",13.24
+"2005-11-24",4,"Benshangul-Gumaz",20.75
+"2005-11-24",5,"Dire Dawa",11.91
+"2005-11-24",6,"Gambela Peoples",24.47
+"2005-11-24",7,"Harari People",11.38
+"2005-11-24",8,"Oromia",14.29
+"2005-11-24",9,"Somali",19.87
+"2005-11-24",10,"Southern Nations, Nationalities and Peoples",18.37
+"2005-11-24",11,"Tigray",15.55
+"2005-11-25",1,"Addis Ababa",7.29
+"2005-11-25",2,"Afar",20.96
+"2005-11-25",3,"Amhara",12.3
+"2005-11-25",4,"Benshangul-Gumaz",18.66
+"2005-11-25",5,"Dire Dawa",13.1
+"2005-11-25",6,"Gambela Peoples",23.94
+"2005-11-25",7,"Harari People",12.78
+"2005-11-25",8,"Oromia",14.23
+"2005-11-25",9,"Somali",20.32
+"2005-11-25",10,"Southern Nations, Nationalities and Peoples",17.43
+"2005-11-25",11,"Tigray",14.44
+"2005-11-26",1,"Addis Ababa",5.71
+"2005-11-26",2,"Afar",20.5
+"2005-11-26",3,"Amhara",11.31
+"2005-11-26",4,"Benshangul-Gumaz",17.57
+"2005-11-26",5,"Dire Dawa",13.04
+"2005-11-26",6,"Gambela Peoples",22.29
+"2005-11-26",7,"Harari People",12.6
+"2005-11-26",8,"Oromia",13.49
+"2005-11-26",9,"Somali",19.4
+"2005-11-26",10,"Southern Nations, Nationalities and Peoples",16.62
+"2005-11-26",11,"Tigray",13.54
+"2005-11-27",1,"Addis Ababa",6.19
+"2005-11-27",2,"Afar",20.45
+"2005-11-27",3,"Amhara",11.96
+"2005-11-27",4,"Benshangul-Gumaz",18.38
+"2005-11-27",5,"Dire Dawa",13.42
+"2005-11-27",6,"Gambela Peoples",22.93
+"2005-11-27",7,"Harari People",12.27
+"2005-11-27",8,"Oromia",13.61
+"2005-11-27",9,"Somali",19.07
+"2005-11-27",10,"Southern Nations, Nationalities and Peoples",17.12
+"2005-11-27",11,"Tigray",13.77
+"2005-11-28",1,"Addis Ababa",7.74
+"2005-11-28",2,"Afar",20.79
+"2005-11-28",3,"Amhara",13.39
+"2005-11-28",4,"Benshangul-Gumaz",20.02
+"2005-11-28",5,"Dire Dawa",14.68
+"2005-11-28",6,"Gambela Peoples",23.76
+"2005-11-28",7,"Harari People",13.21
+"2005-11-28",8,"Oromia",14.65
+"2005-11-28",9,"Somali",19.41
+"2005-11-28",10,"Southern Nations, Nationalities and Peoples",17.68
+"2005-11-28",11,"Tigray",14.01
+"2005-11-29",1,"Addis Ababa",7.78
+"2005-11-29",2,"Afar",20.73
+"2005-11-29",3,"Amhara",13.43
+"2005-11-29",4,"Benshangul-Gumaz",20.81
+"2005-11-29",5,"Dire Dawa",13.52
+"2005-11-29",6,"Gambela Peoples",24.06
+"2005-11-29",7,"Harari People",12.72
+"2005-11-29",8,"Oromia",14.62
+"2005-11-29",9,"Somali",19.37
+"2005-11-29",10,"Southern Nations, Nationalities and Peoples",17.28
+"2005-11-29",11,"Tigray",14.02
+"2005-11-30",1,"Addis Ababa",7.49
+"2005-11-30",2,"Afar",19.72
+"2005-11-30",3,"Amhara",12.78
+"2005-11-30",4,"Benshangul-Gumaz",19.79
+"2005-11-30",5,"Dire Dawa",12.6
+"2005-11-30",6,"Gambela Peoples",23.79
+"2005-11-30",7,"Harari People",12.39
+"2005-11-30",8,"Oromia",14.27
+"2005-11-30",9,"Somali",18.89
+"2005-11-30",10,"Southern Nations, Nationalities and Peoples",17.22
+"2005-11-30",11,"Tigray",13.12
+"2005-12-01",1,"Addis Ababa",5.57
+"2005-12-01",2,"Afar",19.29
+"2005-12-01",3,"Amhara",11.59
+"2005-12-01",4,"Benshangul-Gumaz",19.49
+"2005-12-01",5,"Dire Dawa",12.13
+"2005-12-01",6,"Gambela Peoples",23.33
+"2005-12-01",7,"Harari People",11.39
+"2005-12-01",8,"Oromia",13.31
+"2005-12-01",9,"Somali",18.69
+"2005-12-01",10,"Southern Nations, Nationalities and Peoples",16.3
+"2005-12-01",11,"Tigray",12.61
+"2005-12-02",1,"Addis Ababa",7.7
+"2005-12-02",2,"Afar",20.26
+"2005-12-02",3,"Amhara",12.52
+"2005-12-02",4,"Benshangul-Gumaz",17.97
+"2005-12-02",5,"Dire Dawa",14.01
+"2005-12-02",6,"Gambela Peoples",22.5
+"2005-12-02",7,"Harari People",12.73
+"2005-12-02",8,"Oromia",14.29
+"2005-12-02",9,"Somali",19.31
+"2005-12-02",10,"Southern Nations, Nationalities and Peoples",16.97
+"2005-12-02",11,"Tigray",12.56
+"2005-12-03",1,"Addis Ababa",6.13
+"2005-12-03",2,"Afar",19.97
+"2005-12-03",3,"Amhara",11.66
+"2005-12-03",4,"Benshangul-Gumaz",18.21
+"2005-12-03",5,"Dire Dawa",11.34
+"2005-12-03",6,"Gambela Peoples",22.69
+"2005-12-03",7,"Harari People",11.04
+"2005-12-03",8,"Oromia",13.74
+"2005-12-03",9,"Somali",19.04
+"2005-12-03",10,"Southern Nations, Nationalities and Peoples",16.62
+"2005-12-03",11,"Tigray",12.74
+"2005-12-04",1,"Addis Ababa",8.46
+"2005-12-04",2,"Afar",21.18
+"2005-12-04",3,"Amhara",13.42
+"2005-12-04",4,"Benshangul-Gumaz",20.07
+"2005-12-04",5,"Dire Dawa",13.97
+"2005-12-04",6,"Gambela Peoples",23.64
+"2005-12-04",7,"Harari People",12.58
+"2005-12-04",8,"Oromia",15.11
+"2005-12-04",9,"Somali",19.63
+"2005-12-04",10,"Southern Nations, Nationalities and Peoples",17.73
+"2005-12-04",11,"Tigray",13.73
+"2005-12-05",1,"Addis Ababa",9.88
+"2005-12-05",2,"Afar",20.8
+"2005-12-05",3,"Amhara",13.34
+"2005-12-05",4,"Benshangul-Gumaz",18.87
+"2005-12-05",5,"Dire Dawa",12.71
+"2005-12-05",6,"Gambela Peoples",23.41
+"2005-12-05",7,"Harari People",12.71
+"2005-12-05",8,"Oromia",15.3
+"2005-12-05",9,"Somali",19.53
+"2005-12-05",10,"Southern Nations, Nationalities and Peoples",18.69
+"2005-12-05",11,"Tigray",13.27
+"2005-12-06",1,"Addis Ababa",7.04
+"2005-12-06",2,"Afar",20.06
+"2005-12-06",3,"Amhara",11.98
+"2005-12-06",4,"Benshangul-Gumaz",17.55
+"2005-12-06",5,"Dire Dawa",12.26
+"2005-12-06",6,"Gambela Peoples",23.79
+"2005-12-06",7,"Harari People",11.94
+"2005-12-06",8,"Oromia",14.4
+"2005-12-06",9,"Somali",19.15
+"2005-12-06",10,"Southern Nations, Nationalities and Peoples",17.64
+"2005-12-06",11,"Tigray",12.16
+"2005-12-07",1,"Addis Ababa",9.42
+"2005-12-07",2,"Afar",20.63
+"2005-12-07",3,"Amhara",12.75
+"2005-12-07",4,"Benshangul-Gumaz",17.8
+"2005-12-07",5,"Dire Dawa",13.14
+"2005-12-07",6,"Gambela Peoples",24.15
+"2005-12-07",7,"Harari People",12.87
+"2005-12-07",8,"Oromia",15.69
+"2005-12-07",9,"Somali",19.8
+"2005-12-07",10,"Southern Nations, Nationalities and Peoples",19.08
+"2005-12-07",11,"Tigray",13.05
+"2005-12-08",1,"Addis Ababa",10.34
+"2005-12-08",2,"Afar",22.15
+"2005-12-08",3,"Amhara",14.45
+"2005-12-08",4,"Benshangul-Gumaz",19.55
+"2005-12-08",5,"Dire Dawa",15.28
+"2005-12-08",6,"Gambela Peoples",24.42
+"2005-12-08",7,"Harari People",14.39
+"2005-12-08",8,"Oromia",16.59
+"2005-12-08",9,"Somali",22.87
+"2005-12-08",10,"Southern Nations, Nationalities and Peoples",19.06
+"2005-12-08",11,"Tigray",14.56
+"2005-12-09",1,"Addis Ababa",9.42
+"2005-12-09",2,"Afar",22.33
+"2005-12-09",3,"Amhara",14.5
+"2005-12-09",4,"Benshangul-Gumaz",19.66
+"2005-12-09",5,"Dire Dawa",15.77
+"2005-12-09",6,"Gambela Peoples",24.11
+"2005-12-09",7,"Harari People",16.04
+"2005-12-09",8,"Oromia",17.01
+"2005-12-09",9,"Somali",22.64
+"2005-12-09",10,"Southern Nations, Nationalities and Peoples",18.7
+"2005-12-09",11,"Tigray",15.48
+"2005-12-10",1,"Addis Ababa",8.89
+"2005-12-10",2,"Afar",21.78
+"2005-12-10",3,"Amhara",13.19
+"2005-12-10",4,"Benshangul-Gumaz",18.22
+"2005-12-10",5,"Dire Dawa",14.41
+"2005-12-10",6,"Gambela Peoples",23.61
+"2005-12-10",7,"Harari People",14.38
+"2005-12-10",8,"Oromia",15.72
+"2005-12-10",9,"Somali",21.98
+"2005-12-10",10,"Southern Nations, Nationalities and Peoples",18.34
+"2005-12-10",11,"Tigray",14.59
+"2005-12-11",1,"Addis Ababa",9.57
+"2005-12-11",2,"Afar",22.03
+"2005-12-11",3,"Amhara",14.79
+"2005-12-11",4,"Benshangul-Gumaz",21
+"2005-12-11",5,"Dire Dawa",14.06
+"2005-12-11",6,"Gambela Peoples",24.93
+"2005-12-11",7,"Harari People",13.77
+"2005-12-11",8,"Oromia",17.01
+"2005-12-11",9,"Somali",21.6
+"2005-12-11",10,"Southern Nations, Nationalities and Peoples",19.47
+"2005-12-11",11,"Tigray",15.41
+"2005-12-12",1,"Addis Ababa",5.4
+"2005-12-12",2,"Afar",20.14
+"2005-12-12",3,"Amhara",13.12
+"2005-12-12",4,"Benshangul-Gumaz",20.82
+"2005-12-12",5,"Dire Dawa",12.05
+"2005-12-12",6,"Gambela Peoples",24.28
+"2005-12-12",7,"Harari People",12.44
+"2005-12-12",8,"Oromia",14.72
+"2005-12-12",9,"Somali",19.45
+"2005-12-12",10,"Southern Nations, Nationalities and Peoples",18.23
+"2005-12-12",11,"Tigray",14.45
+"2005-12-13",1,"Addis Ababa",8.58
+"2005-12-13",2,"Afar",20.43
+"2005-12-13",3,"Amhara",13.4
+"2005-12-13",4,"Benshangul-Gumaz",20.27
+"2005-12-13",5,"Dire Dawa",13.06
+"2005-12-13",6,"Gambela Peoples",23.99
+"2005-12-13",7,"Harari People",13.5
+"2005-12-13",8,"Oromia",15.57
+"2005-12-13",9,"Somali",19.26
+"2005-12-13",10,"Southern Nations, Nationalities and Peoples",18.37
+"2005-12-13",11,"Tigray",13.62
+"2005-12-14",1,"Addis Ababa",8.52
+"2005-12-14",2,"Afar",20.83
+"2005-12-14",3,"Amhara",14
+"2005-12-14",4,"Benshangul-Gumaz",20.62
+"2005-12-14",5,"Dire Dawa",13.13
+"2005-12-14",6,"Gambela Peoples",23.7
+"2005-12-14",7,"Harari People",14.15
+"2005-12-14",8,"Oromia",15.19
+"2005-12-14",9,"Somali",19.55
+"2005-12-14",10,"Southern Nations, Nationalities and Peoples",17.22
+"2005-12-14",11,"Tigray",14.89
+"2005-12-15",1,"Addis Ababa",9.29
+"2005-12-15",2,"Afar",20.68
+"2005-12-15",3,"Amhara",14.04
+"2005-12-15",4,"Benshangul-Gumaz",19.79
+"2005-12-15",5,"Dire Dawa",14.12
+"2005-12-15",6,"Gambela Peoples",23.25
+"2005-12-15",7,"Harari People",15.24
+"2005-12-15",8,"Oromia",16.03
+"2005-12-15",9,"Somali",20.03
+"2005-12-15",10,"Southern Nations, Nationalities and Peoples",17.76
+"2005-12-15",11,"Tigray",14.96
+"2005-12-16",1,"Addis Ababa",7.23
+"2005-12-16",2,"Afar",20.17
+"2005-12-16",3,"Amhara",12.8
+"2005-12-16",4,"Benshangul-Gumaz",19.32
+"2005-12-16",5,"Dire Dawa",13.48
+"2005-12-16",6,"Gambela Peoples",22.9
+"2005-12-16",7,"Harari People",15.96
+"2005-12-16",8,"Oromia",14.63
+"2005-12-16",9,"Somali",19.79
+"2005-12-16",10,"Southern Nations, Nationalities and Peoples",17.37
+"2005-12-16",11,"Tigray",14.28
+"2005-12-17",1,"Addis Ababa",7.86
+"2005-12-17",2,"Afar",18.91
+"2005-12-17",3,"Amhara",12.83
+"2005-12-17",4,"Benshangul-Gumaz",19.73
+"2005-12-17",5,"Dire Dawa",13.31
+"2005-12-17",6,"Gambela Peoples",24.6
+"2005-12-17",7,"Harari People",15.25
+"2005-12-17",8,"Oromia",15.16
+"2005-12-17",9,"Somali",19.79
+"2005-12-17",10,"Southern Nations, Nationalities and Peoples",17.78
+"2005-12-17",11,"Tigray",13.1
+"2005-12-18",1,"Addis Ababa",8.13
+"2005-12-18",2,"Afar",20.07
+"2005-12-18",3,"Amhara",13.37
+"2005-12-18",4,"Benshangul-Gumaz",19.18
+"2005-12-18",5,"Dire Dawa",14.49
+"2005-12-18",6,"Gambela Peoples",23.54
+"2005-12-18",7,"Harari People",14.52
+"2005-12-18",8,"Oromia",15.33
+"2005-12-18",9,"Somali",20.31
+"2005-12-18",10,"Southern Nations, Nationalities and Peoples",17.75
+"2005-12-18",11,"Tigray",14.56
+"2005-12-19",1,"Addis Ababa",8.24
+"2005-12-19",2,"Afar",20.75
+"2005-12-19",3,"Amhara",13.9
+"2005-12-19",4,"Benshangul-Gumaz",20.95
+"2005-12-19",5,"Dire Dawa",14.66
+"2005-12-19",6,"Gambela Peoples",24.52
+"2005-12-19",7,"Harari People",14.22
+"2005-12-19",8,"Oromia",16.16
+"2005-12-19",9,"Somali",20.33
+"2005-12-19",10,"Southern Nations, Nationalities and Peoples",18.89
+"2005-12-19",11,"Tigray",14.06
+"2005-12-20",1,"Addis Ababa",8.69
+"2005-12-20",2,"Afar",20.92
+"2005-12-20",3,"Amhara",13.78
+"2005-12-20",4,"Benshangul-Gumaz",19.67
+"2005-12-20",5,"Dire Dawa",15.04
+"2005-12-20",6,"Gambela Peoples",23.22
+"2005-12-20",7,"Harari People",14.04
+"2005-12-20",8,"Oromia",16.36
+"2005-12-20",9,"Somali",20.31
+"2005-12-20",10,"Southern Nations, Nationalities and Peoples",18.85
+"2005-12-20",11,"Tigray",14.34
+"2005-12-21",1,"Addis Ababa",7.88
+"2005-12-21",2,"Afar",21.02
+"2005-12-21",3,"Amhara",13.64
+"2005-12-21",4,"Benshangul-Gumaz",20.09
+"2005-12-21",5,"Dire Dawa",13.09
+"2005-12-21",6,"Gambela Peoples",24.79
+"2005-12-21",7,"Harari People",12.93
+"2005-12-21",8,"Oromia",15.94
+"2005-12-21",9,"Somali",19.77
+"2005-12-21",10,"Southern Nations, Nationalities and Peoples",18.8
+"2005-12-21",11,"Tigray",14.59
+"2005-12-22",1,"Addis Ababa",5.61
+"2005-12-22",2,"Afar",19.3
+"2005-12-22",3,"Amhara",12.06
+"2005-12-22",4,"Benshangul-Gumaz",18.36
+"2005-12-22",5,"Dire Dawa",10.6
+"2005-12-22",6,"Gambela Peoples",23.76
+"2005-12-22",7,"Harari People",10.84
+"2005-12-22",8,"Oromia",14.28
+"2005-12-22",9,"Somali",18.68
+"2005-12-22",10,"Southern Nations, Nationalities and Peoples",17.72
+"2005-12-22",11,"Tigray",13.63
+"2005-12-23",1,"Addis Ababa",8.3
+"2005-12-23",2,"Afar",19.84
+"2005-12-23",3,"Amhara",13.28
+"2005-12-23",4,"Benshangul-Gumaz",19.5
+"2005-12-23",5,"Dire Dawa",12.44
+"2005-12-23",6,"Gambela Peoples",24.78
+"2005-12-23",7,"Harari People",12.58
+"2005-12-23",8,"Oromia",15.44
+"2005-12-23",9,"Somali",18.72
+"2005-12-23",10,"Southern Nations, Nationalities and Peoples",18.48
+"2005-12-23",11,"Tigray",13.34
+"2005-12-24",1,"Addis Ababa",8.83
+"2005-12-24",2,"Afar",18.9
+"2005-12-24",3,"Amhara",12.54
+"2005-12-24",4,"Benshangul-Gumaz",18.81
+"2005-12-24",5,"Dire Dawa",12.94
+"2005-12-24",6,"Gambela Peoples",24.82
+"2005-12-24",7,"Harari People",14.44
+"2005-12-24",8,"Oromia",14.58
+"2005-12-24",9,"Somali",18.84
+"2005-12-24",10,"Southern Nations, Nationalities and Peoples",17.08
+"2005-12-24",11,"Tigray",13.17
+"2005-12-25",1,"Addis Ababa",8.37
+"2005-12-25",2,"Afar",19.32
+"2005-12-25",3,"Amhara",12.44
+"2005-12-25",4,"Benshangul-Gumaz",18.56
+"2005-12-25",5,"Dire Dawa",14.07
+"2005-12-25",6,"Gambela Peoples",24
+"2005-12-25",7,"Harari People",15.23
+"2005-12-25",8,"Oromia",14.63
+"2005-12-25",9,"Somali",19.22
+"2005-12-25",10,"Southern Nations, Nationalities and Peoples",17.33
+"2005-12-25",11,"Tigray",12.52
+"2005-12-26",1,"Addis Ababa",8.97
+"2005-12-26",2,"Afar",19.84
+"2005-12-26",3,"Amhara",12.81
+"2005-12-26",4,"Benshangul-Gumaz",17.99
+"2005-12-26",5,"Dire Dawa",14.26
+"2005-12-26",6,"Gambela Peoples",25.1
+"2005-12-26",7,"Harari People",15.85
+"2005-12-26",8,"Oromia",15.65
+"2005-12-26",9,"Somali",19.52
+"2005-12-26",10,"Southern Nations, Nationalities and Peoples",18.53
+"2005-12-26",11,"Tigray",13.42
+"2005-12-27",1,"Addis Ababa",8.68
+"2005-12-27",2,"Afar",20.38
+"2005-12-27",3,"Amhara",13.8
+"2005-12-27",4,"Benshangul-Gumaz",18.41
+"2005-12-27",5,"Dire Dawa",12.58
+"2005-12-27",6,"Gambela Peoples",23.58
+"2005-12-27",7,"Harari People",12.63
+"2005-12-27",8,"Oromia",15.37
+"2005-12-27",9,"Somali",19.62
+"2005-12-27",10,"Southern Nations, Nationalities and Peoples",18.18
+"2005-12-27",11,"Tigray",14.95
+"2005-12-28",1,"Addis Ababa",8.11
+"2005-12-28",2,"Afar",20.87
+"2005-12-28",3,"Amhara",13.2
+"2005-12-28",4,"Benshangul-Gumaz",19.26
+"2005-12-28",5,"Dire Dawa",12.39
+"2005-12-28",6,"Gambela Peoples",23.77
+"2005-12-28",7,"Harari People",12.03
+"2005-12-28",8,"Oromia",16.18
+"2005-12-28",9,"Somali",19.5
+"2005-12-28",10,"Southern Nations, Nationalities and Peoples",18.95
+"2005-12-28",11,"Tigray",13.11
+"2005-12-29",1,"Addis Ababa",7.14
+"2005-12-29",2,"Afar",19.49
+"2005-12-29",3,"Amhara",12.45
+"2005-12-29",4,"Benshangul-Gumaz",20.23
+"2005-12-29",5,"Dire Dawa",11.51
+"2005-12-29",6,"Gambela Peoples",24.08
+"2005-12-29",7,"Harari People",11.71
+"2005-12-29",8,"Oromia",15.24
+"2005-12-29",9,"Somali",19.56
+"2005-12-29",10,"Southern Nations, Nationalities and Peoples",17.77
+"2005-12-29",11,"Tigray",11.34
+"2005-12-30",1,"Addis Ababa",6.59
+"2005-12-30",2,"Afar",18.73
+"2005-12-30",3,"Amhara",12.15
+"2005-12-30",4,"Benshangul-Gumaz",19.57
+"2005-12-30",5,"Dire Dawa",12.92
+"2005-12-30",6,"Gambela Peoples",24.32
+"2005-12-30",7,"Harari People",12.16
+"2005-12-30",8,"Oromia",15
+"2005-12-30",9,"Somali",20.11
+"2005-12-30",10,"Southern Nations, Nationalities and Peoples",17.54
+"2005-12-30",11,"Tigray",12.02
+"2005-12-31",1,"Addis Ababa",6.16
+"2005-12-31",2,"Afar",19.2
+"2005-12-31",3,"Amhara",11.96
+"2005-12-31",4,"Benshangul-Gumaz",18.47
+"2005-12-31",5,"Dire Dawa",13.57
+"2005-12-31",6,"Gambela Peoples",23.06
+"2005-12-31",7,"Harari People",12.48
+"2005-12-31",8,"Oromia",14.25
+"2005-12-31",9,"Somali",19.79
+"2005-12-31",10,"Southern Nations, Nationalities and Peoples",16.34
+"2005-12-31",11,"Tigray",13.11

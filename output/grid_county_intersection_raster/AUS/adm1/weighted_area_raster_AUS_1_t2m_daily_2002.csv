@@ -1,0 +1,4016 @@
+"date","ID_1","NAME_1","t2m"
+"2002-01-01",1,"Ashmore and Cartier Islands",27.49
+"2002-01-01",2,"Australian Capital Territory",18.24
+"2002-01-01",3,"Coral Sea Islands",27.28
+"2002-01-01",4,"Jervis Bay Territory",24.37
+"2002-01-01",5,"New South Wales",25.72
+"2002-01-01",6,"Northern Territory",29.67
+"2002-01-01",7,"Queensland",30.11
+"2002-01-01",8,"South Australia",22.75
+"2002-01-01",9,"Tasmania",12.07
+"2002-01-01",10,"Victoria",15.07
+"2002-01-01",11,"Western Australia",26.92
+"2002-01-02",1,"Ashmore and Cartier Islands",28.1
+"2002-01-02",2,"Australian Capital Territory",15.76
+"2002-01-02",3,"Coral Sea Islands",27.45
+"2002-01-02",4,"Jervis Bay Territory",22.77
+"2002-01-02",5,"New South Wales",23.92
+"2002-01-02",6,"Northern Territory",29.88
+"2002-01-02",7,"Queensland",30.24
+"2002-01-02",8,"South Australia",20.75
+"2002-01-02",9,"Tasmania",12.05
+"2002-01-02",10,"Victoria",14.68
+"2002-01-02",11,"Western Australia",25.28
+"2002-01-03",1,"Ashmore and Cartier Islands",28.26
+"2002-01-03",2,"Australian Capital Territory",14.69
+"2002-01-03",3,"Coral Sea Islands",27.61
+"2002-01-03",4,"Jervis Bay Territory",20.3
+"2002-01-03",5,"New South Wales",20.3
+"2002-01-03",6,"Northern Territory",27.2
+"2002-01-03",7,"Queensland",29.33
+"2002-01-03",8,"South Australia",21.04
+"2002-01-03",9,"Tasmania",13.49
+"2002-01-03",10,"Victoria",15.33
+"2002-01-03",11,"Western Australia",25.32
+"2002-01-04",1,"Ashmore and Cartier Islands",28.08
+"2002-01-04",2,"Australian Capital Territory",17.58
+"2002-01-04",3,"Coral Sea Islands",27.84
+"2002-01-04",4,"Jervis Bay Territory",23
+"2002-01-04",5,"New South Wales",23.69
+"2002-01-04",6,"Northern Territory",28.12
+"2002-01-04",7,"Queensland",29.15
+"2002-01-04",8,"South Australia",23.72
+"2002-01-04",9,"Tasmania",13.17
+"2002-01-04",10,"Victoria",16.84
+"2002-01-04",11,"Western Australia",27.95
+"2002-01-05",1,"Ashmore and Cartier Islands",27.98
+"2002-01-05",2,"Australian Capital Territory",21.16
+"2002-01-05",3,"Coral Sea Islands",27.81
+"2002-01-05",4,"Jervis Bay Territory",20.2
+"2002-01-05",5,"New South Wales",27.26
+"2002-01-05",6,"Northern Territory",29.53
+"2002-01-05",7,"Queensland",28
+"2002-01-05",8,"South Australia",29.71
+"2002-01-05",9,"Tasmania",13.39
+"2002-01-05",10,"Victoria",19.04
+"2002-01-05",11,"Western Australia",27.54
+"2002-01-06",1,"Ashmore and Cartier Islands",27.51
+"2002-01-06",2,"Australian Capital Territory",21.44
+"2002-01-06",3,"Coral Sea Islands",27.9
+"2002-01-06",4,"Jervis Bay Territory",22.38
+"2002-01-06",5,"New South Wales",30.4
+"2002-01-06",6,"Northern Territory",30.37
+"2002-01-06",7,"Queensland",29.8
+"2002-01-06",8,"South Australia",27.78
+"2002-01-06",9,"Tasmania",16.44
+"2002-01-06",10,"Victoria",26.99
+"2002-01-06",11,"Western Australia",25.4
+"2002-01-07",1,"Ashmore and Cartier Islands",27.73
+"2002-01-07",2,"Australian Capital Territory",21.92
+"2002-01-07",3,"Coral Sea Islands",27.38
+"2002-01-07",4,"Jervis Bay Territory",24.1
+"2002-01-07",5,"New South Wales",24.25
+"2002-01-07",6,"Northern Territory",29.12
+"2002-01-07",7,"Queensland",28.41
+"2002-01-07",8,"South Australia",21.48
+"2002-01-07",9,"Tasmania",13.95
+"2002-01-07",10,"Victoria",17.87
+"2002-01-07",11,"Western Australia",26.17
+"2002-01-08",1,"Ashmore and Cartier Islands",28.11
+"2002-01-08",2,"Australian Capital Territory",17.88
+"2002-01-08",3,"Coral Sea Islands",27.3
+"2002-01-08",4,"Jervis Bay Territory",22.83
+"2002-01-08",5,"New South Wales",22.31
+"2002-01-08",6,"Northern Territory",27.79
+"2002-01-08",7,"Queensland",28.17
+"2002-01-08",8,"South Australia",22.08
+"2002-01-08",9,"Tasmania",13.78
+"2002-01-08",10,"Victoria",15.77
+"2002-01-08",11,"Western Australia",29.19
+"2002-01-09",1,"Ashmore and Cartier Islands",28.32
+"2002-01-09",2,"Australian Capital Territory",18.84
+"2002-01-09",3,"Coral Sea Islands",28.3
+"2002-01-09",4,"Jervis Bay Territory",19.1
+"2002-01-09",5,"New South Wales",24.05
+"2002-01-09",6,"Northern Territory",28.92
+"2002-01-09",7,"Queensland",29.78
+"2002-01-09",8,"South Australia",27.34
+"2002-01-09",9,"Tasmania",14.61
+"2002-01-09",10,"Victoria",17.04
+"2002-01-09",11,"Western Australia",30.58
+"2002-01-10",1,"Ashmore and Cartier Islands",27.93
+"2002-01-10",2,"Australian Capital Territory",19.41
+"2002-01-10",3,"Coral Sea Islands",27.17
+"2002-01-10",4,"Jervis Bay Territory",18.32
+"2002-01-10",5,"New South Wales",26.62
+"2002-01-10",6,"Northern Territory",29.77
+"2002-01-10",7,"Queensland",29.91
+"2002-01-10",8,"South Australia",34.5
+"2002-01-10",9,"Tasmania",16.54
+"2002-01-10",10,"Victoria",24.27
+"2002-01-10",11,"Western Australia",28.33
+"2002-01-11",1,"Ashmore and Cartier Islands",28.2
+"2002-01-11",2,"Australian Capital Territory",22.02
+"2002-01-11",3,"Coral Sea Islands",26.6
+"2002-01-11",4,"Jervis Bay Territory",18.48
+"2002-01-11",5,"New South Wales",29.67
+"2002-01-11",6,"Northern Territory",28.7
+"2002-01-11",7,"Queensland",30.8
+"2002-01-11",8,"South Australia",26.81
+"2002-01-11",9,"Tasmania",15.8
+"2002-01-11",10,"Victoria",25.19
+"2002-01-11",11,"Western Australia",26.08
+"2002-01-12",1,"Ashmore and Cartier Islands",28.39
+"2002-01-12",2,"Australian Capital Territory",16.04
+"2002-01-12",3,"Coral Sea Islands",28.09
+"2002-01-12",4,"Jervis Bay Territory",17.66
+"2002-01-12",5,"New South Wales",21.87
+"2002-01-12",6,"Northern Territory",26.84
+"2002-01-12",7,"Queensland",29.91
+"2002-01-12",8,"South Australia",21.08
+"2002-01-12",9,"Tasmania",11.39
+"2002-01-12",10,"Victoria",16.08
+"2002-01-12",11,"Western Australia",26.96
+"2002-01-13",1,"Ashmore and Cartier Islands",27.66
+"2002-01-13",2,"Australian Capital Territory",16.36
+"2002-01-13",3,"Coral Sea Islands",28.36
+"2002-01-13",4,"Jervis Bay Territory",18.8
+"2002-01-13",5,"New South Wales",20.35
+"2002-01-13",6,"Northern Territory",25.52
+"2002-01-13",7,"Queensland",27.42
+"2002-01-13",8,"South Australia",22.95
+"2002-01-13",9,"Tasmania",15.11
+"2002-01-13",10,"Victoria",16.22
+"2002-01-13",11,"Western Australia",28
+"2002-01-14",1,"Ashmore and Cartier Islands",26.74
+"2002-01-14",2,"Australian Capital Territory",17.2
+"2002-01-14",3,"Coral Sea Islands",27.45
+"2002-01-14",4,"Jervis Bay Territory",19.34
+"2002-01-14",5,"New South Wales",22.41
+"2002-01-14",6,"Northern Territory",27.38
+"2002-01-14",7,"Queensland",28.29
+"2002-01-14",8,"South Australia",25.74
+"2002-01-14",9,"Tasmania",15.3
+"2002-01-14",10,"Victoria",17.37
+"2002-01-14",11,"Western Australia",26.92
+"2002-01-15",1,"Ashmore and Cartier Islands",27.4
+"2002-01-15",2,"Australian Capital Territory",17.35
+"2002-01-15",3,"Coral Sea Islands",27.2
+"2002-01-15",4,"Jervis Bay Territory",19.01
+"2002-01-15",5,"New South Wales",24.11
+"2002-01-15",6,"Northern Territory",29.8
+"2002-01-15",7,"Queensland",29.65
+"2002-01-15",8,"South Australia",28.46
+"2002-01-15",9,"Tasmania",13.72
+"2002-01-15",10,"Victoria",18.29
+"2002-01-15",11,"Western Australia",27.18
+"2002-01-16",1,"Ashmore and Cartier Islands",27.98
+"2002-01-16",2,"Australian Capital Territory",13.9
+"2002-01-16",3,"Coral Sea Islands",27.28
+"2002-01-16",4,"Jervis Bay Territory",17.42
+"2002-01-16",5,"New South Wales",23.66
+"2002-01-16",6,"Northern Territory",31.21
+"2002-01-16",7,"Queensland",29.98
+"2002-01-16",8,"South Australia",28.26
+"2002-01-16",9,"Tasmania",14.68
+"2002-01-16",10,"Victoria",19.25
+"2002-01-16",11,"Western Australia",29.18
+"2002-01-17",1,"Ashmore and Cartier Islands",28.47
+"2002-01-17",2,"Australian Capital Territory",17.07
+"2002-01-17",3,"Coral Sea Islands",27.51
+"2002-01-17",4,"Jervis Bay Territory",18.76
+"2002-01-17",5,"New South Wales",24.04
+"2002-01-17",6,"Northern Territory",31.65
+"2002-01-17",7,"Queensland",29.95
+"2002-01-17",8,"South Australia",27.62
+"2002-01-17",9,"Tasmania",15.3
+"2002-01-17",10,"Victoria",18.79
+"2002-01-17",11,"Western Australia",29.26
+"2002-01-18",1,"Ashmore and Cartier Islands",28.05
+"2002-01-18",2,"Australian Capital Territory",17.77
+"2002-01-18",3,"Coral Sea Islands",27.41
+"2002-01-18",4,"Jervis Bay Territory",20.68
+"2002-01-18",5,"New South Wales",26.07
+"2002-01-18",6,"Northern Territory",31.17
+"2002-01-18",7,"Queensland",29.02
+"2002-01-18",8,"South Australia",30.77
+"2002-01-18",9,"Tasmania",16.61
+"2002-01-18",10,"Victoria",20.57
+"2002-01-18",11,"Western Australia",29.75
+"2002-01-19",1,"Ashmore and Cartier Islands",27.32
+"2002-01-19",2,"Australian Capital Territory",21.62
+"2002-01-19",3,"Coral Sea Islands",26.88
+"2002-01-19",4,"Jervis Bay Territory",21.92
+"2002-01-19",5,"New South Wales",28.89
+"2002-01-19",6,"Northern Territory",31.9
+"2002-01-19",7,"Queensland",29.25
+"2002-01-19",8,"South Australia",33.32
+"2002-01-19",9,"Tasmania",19.4
+"2002-01-19",10,"Victoria",27.09
+"2002-01-19",11,"Western Australia",28.37
+"2002-01-20",1,"Ashmore and Cartier Islands",27.72
+"2002-01-20",2,"Australian Capital Territory",24.15
+"2002-01-20",3,"Coral Sea Islands",26.55
+"2002-01-20",4,"Jervis Bay Territory",22.46
+"2002-01-20",5,"New South Wales",30.05
+"2002-01-20",6,"Northern Territory",31.5
+"2002-01-20",7,"Queensland",29.19
+"2002-01-20",8,"South Australia",30.92
+"2002-01-20",9,"Tasmania",19.91
+"2002-01-20",10,"Victoria",28.75
+"2002-01-20",11,"Western Australia",27.44
+"2002-01-21",1,"Ashmore and Cartier Islands",28.42
+"2002-01-21",2,"Australian Capital Territory",22.78
+"2002-01-21",3,"Coral Sea Islands",26.73
+"2002-01-21",4,"Jervis Bay Territory",23.11
+"2002-01-21",5,"New South Wales",27.96
+"2002-01-21",6,"Northern Territory",28.29
+"2002-01-21",7,"Queensland",29.38
+"2002-01-21",8,"South Australia",23.53
+"2002-01-21",9,"Tasmania",15.23
+"2002-01-21",10,"Victoria",18.55
+"2002-01-21",11,"Western Australia",25.51
+"2002-01-22",1,"Ashmore and Cartier Islands",28.24
+"2002-01-22",2,"Australian Capital Territory",17.7
+"2002-01-22",3,"Coral Sea Islands",26.64
+"2002-01-22",4,"Jervis Bay Territory",23.06
+"2002-01-22",5,"New South Wales",24.56
+"2002-01-22",6,"Northern Territory",30.07
+"2002-01-22",7,"Queensland",29.2
+"2002-01-22",8,"South Australia",24.4
+"2002-01-22",9,"Tasmania",15.53
+"2002-01-22",10,"Victoria",17.34
+"2002-01-22",11,"Western Australia",28.83
+"2002-01-23",1,"Ashmore and Cartier Islands",28.28
+"2002-01-23",2,"Australian Capital Territory",20.41
+"2002-01-23",3,"Coral Sea Islands",26.91
+"2002-01-23",4,"Jervis Bay Territory",20.7
+"2002-01-23",5,"New South Wales",25.34
+"2002-01-23",6,"Northern Territory",30.51
+"2002-01-23",7,"Queensland",29.57
+"2002-01-23",8,"South Australia",27.33
+"2002-01-23",9,"Tasmania",16.37
+"2002-01-23",10,"Victoria",17.99
+"2002-01-23",11,"Western Australia",30.38
+"2002-01-24",1,"Ashmore and Cartier Islands",27.48
+"2002-01-24",2,"Australian Capital Territory",18.29
+"2002-01-24",3,"Coral Sea Islands",26.94
+"2002-01-24",4,"Jervis Bay Territory",20.76
+"2002-01-24",5,"New South Wales",25.35
+"2002-01-24",6,"Northern Territory",31.44
+"2002-01-24",7,"Queensland",29.31
+"2002-01-24",8,"South Australia",29.92
+"2002-01-24",9,"Tasmania",15.46
+"2002-01-24",10,"Victoria",19.98
+"2002-01-24",11,"Western Australia",29.18
+"2002-01-25",1,"Ashmore and Cartier Islands",28.44
+"2002-01-25",2,"Australian Capital Territory",18.37
+"2002-01-25",3,"Coral Sea Islands",26.38
+"2002-01-25",4,"Jervis Bay Territory",21.01
+"2002-01-25",5,"New South Wales",25.47
+"2002-01-25",6,"Northern Territory",31.64
+"2002-01-25",7,"Queensland",27.82
+"2002-01-25",8,"South Australia",32.26
+"2002-01-25",9,"Tasmania",17.87
+"2002-01-25",10,"Victoria",24.93
+"2002-01-25",11,"Western Australia",27.84
+"2002-01-26",1,"Ashmore and Cartier Islands",28.33
+"2002-01-26",2,"Australian Capital Territory",20.12
+"2002-01-26",3,"Coral Sea Islands",26.06
+"2002-01-26",4,"Jervis Bay Territory",21.64
+"2002-01-26",5,"New South Wales",27.2
+"2002-01-26",6,"Northern Territory",31.16
+"2002-01-26",7,"Queensland",28.63
+"2002-01-26",8,"South Australia",30.9
+"2002-01-26",9,"Tasmania",20.42
+"2002-01-26",10,"Victoria",29.11
+"2002-01-26",11,"Western Australia",26.51
+"2002-01-27",1,"Ashmore and Cartier Islands",28.17
+"2002-01-27",2,"Australian Capital Territory",22
+"2002-01-27",3,"Coral Sea Islands",26.51
+"2002-01-27",4,"Jervis Bay Territory",21.96
+"2002-01-27",5,"New South Wales",27.99
+"2002-01-27",6,"Northern Territory",30.53
+"2002-01-27",7,"Queensland",30.13
+"2002-01-27",8,"South Australia",25.75
+"2002-01-27",9,"Tasmania",20
+"2002-01-27",10,"Victoria",25.34
+"2002-01-27",11,"Western Australia",25.05
+"2002-01-28",1,"Ashmore and Cartier Islands",28.66
+"2002-01-28",2,"Australian Capital Territory",22.85
+"2002-01-28",3,"Coral Sea Islands",26.79
+"2002-01-28",4,"Jervis Bay Territory",22.96
+"2002-01-28",5,"New South Wales",25.85
+"2002-01-28",6,"Northern Territory",29.79
+"2002-01-28",7,"Queensland",31.17
+"2002-01-28",8,"South Australia",21.3
+"2002-01-28",9,"Tasmania",17.3
+"2002-01-28",10,"Victoria",19.56
+"2002-01-28",11,"Western Australia",25.36
+"2002-01-29",1,"Ashmore and Cartier Islands",27.5
+"2002-01-29",2,"Australian Capital Territory",18.6
+"2002-01-29",3,"Coral Sea Islands",26.68
+"2002-01-29",4,"Jervis Bay Territory",21.9
+"2002-01-29",5,"New South Wales",25.51
+"2002-01-29",6,"Northern Territory",29.14
+"2002-01-29",7,"Queensland",31.09
+"2002-01-29",8,"South Australia",23.65
+"2002-01-29",9,"Tasmania",16.2
+"2002-01-29",10,"Victoria",19.39
+"2002-01-29",11,"Western Australia",26.99
+"2002-01-30",1,"Ashmore and Cartier Islands",26.6
+"2002-01-30",2,"Australian Capital Territory",19.84
+"2002-01-30",3,"Coral Sea Islands",26.96
+"2002-01-30",4,"Jervis Bay Territory",22.12
+"2002-01-30",5,"New South Wales",27.03
+"2002-01-30",6,"Northern Territory",30.91
+"2002-01-30",7,"Queensland",31.45
+"2002-01-30",8,"South Australia",27.69
+"2002-01-30",9,"Tasmania",18.25
+"2002-01-30",10,"Victoria",22.51
+"2002-01-30",11,"Western Australia",27.19
+"2002-01-31",1,"Ashmore and Cartier Islands",26.92
+"2002-01-31",2,"Australian Capital Territory",19.7
+"2002-01-31",3,"Coral Sea Islands",27.16
+"2002-01-31",4,"Jervis Bay Territory",21.49
+"2002-01-31",5,"New South Wales",26.95
+"2002-01-31",6,"Northern Territory",31.26
+"2002-01-31",7,"Queensland",31.85
+"2002-01-31",8,"South Australia",26.54
+"2002-01-31",9,"Tasmania",14.92
+"2002-01-31",10,"Victoria",19.94
+"2002-01-31",11,"Western Australia",28.45
+"2002-02-01",1,"Ashmore and Cartier Islands",27
+"2002-02-01",2,"Australian Capital Territory",19.59
+"2002-02-01",3,"Coral Sea Islands",27.33
+"2002-02-01",4,"Jervis Bay Territory",22.13
+"2002-02-01",5,"New South Wales",27.24
+"2002-02-01",6,"Northern Territory",32.1
+"2002-02-01",7,"Queensland",30.89
+"2002-02-01",8,"South Australia",28.45
+"2002-02-01",9,"Tasmania",17.39
+"2002-02-01",10,"Victoria",25.43
+"2002-02-01",11,"Western Australia",27.4
+"2002-02-02",1,"Ashmore and Cartier Islands",27.81
+"2002-02-02",2,"Australian Capital Territory",22.21
+"2002-02-02",3,"Coral Sea Islands",27.33
+"2002-02-02",4,"Jervis Bay Territory",23.04
+"2002-02-02",5,"New South Wales",27.38
+"2002-02-02",6,"Northern Territory",31.55
+"2002-02-02",7,"Queensland",29.42
+"2002-02-02",8,"South Australia",23.1
+"2002-02-02",9,"Tasmania",17.76
+"2002-02-02",10,"Victoria",21.74
+"2002-02-02",11,"Western Australia",23.69
+"2002-02-03",1,"Ashmore and Cartier Islands",27.08
+"2002-02-03",2,"Australian Capital Territory",16.62
+"2002-02-03",3,"Coral Sea Islands",27.27
+"2002-02-03",4,"Jervis Bay Territory",19.59
+"2002-02-03",5,"New South Wales",24.25
+"2002-02-03",6,"Northern Territory",29.99
+"2002-02-03",7,"Queensland",30.97
+"2002-02-03",8,"South Australia",19.55
+"2002-02-03",9,"Tasmania",12.75
+"2002-02-03",10,"Victoria",16.2
+"2002-02-03",11,"Western Australia",23.46
+"2002-02-04",1,"Ashmore and Cartier Islands",26.77
+"2002-02-04",2,"Australian Capital Territory",12.6
+"2002-02-04",3,"Coral Sea Islands",27.25
+"2002-02-04",4,"Jervis Bay Territory",19.16
+"2002-02-04",5,"New South Wales",19.86
+"2002-02-04",6,"Northern Territory",28.14
+"2002-02-04",7,"Queensland",29.33
+"2002-02-04",8,"South Australia",20.61
+"2002-02-04",9,"Tasmania",12.9
+"2002-02-04",10,"Victoria",16.37
+"2002-02-04",11,"Western Australia",24.72
+"2002-02-05",1,"Ashmore and Cartier Islands",26.98
+"2002-02-05",2,"Australian Capital Territory",11.81
+"2002-02-05",3,"Coral Sea Islands",27.65
+"2002-02-05",4,"Jervis Bay Territory",18.23
+"2002-02-05",5,"New South Wales",19.87
+"2002-02-05",6,"Northern Territory",29.18
+"2002-02-05",7,"Queensland",29.24
+"2002-02-05",8,"South Australia",23
+"2002-02-05",9,"Tasmania",13.74
+"2002-02-05",10,"Victoria",17.55
+"2002-02-05",11,"Western Australia",25.18
+"2002-02-06",1,"Ashmore and Cartier Islands",27.8
+"2002-02-06",2,"Australian Capital Territory",12.81
+"2002-02-06",3,"Coral Sea Islands",27.83
+"2002-02-06",4,"Jervis Bay Territory",19.35
+"2002-02-06",5,"New South Wales",20.89
+"2002-02-06",6,"Northern Territory",29.13
+"2002-02-06",7,"Queensland",29.57
+"2002-02-06",8,"South Australia",24.08
+"2002-02-06",9,"Tasmania",14.95
+"2002-02-06",10,"Victoria",19.93
+"2002-02-06",11,"Western Australia",24.8
+"2002-02-07",1,"Ashmore and Cartier Islands",27.34
+"2002-02-07",2,"Australian Capital Territory",15.31
+"2002-02-07",3,"Coral Sea Islands",28
+"2002-02-07",4,"Jervis Bay Territory",18.58
+"2002-02-07",5,"New South Wales",23.49
+"2002-02-07",6,"Northern Territory",29.34
+"2002-02-07",7,"Queensland",30.05
+"2002-02-07",8,"South Australia",22.29
+"2002-02-07",9,"Tasmania",15.48
+"2002-02-07",10,"Victoria",21.85
+"2002-02-07",11,"Western Australia",23.1
+"2002-02-08",1,"Ashmore and Cartier Islands",27.14
+"2002-02-08",2,"Australian Capital Territory",15.49
+"2002-02-08",3,"Coral Sea Islands",28.18
+"2002-02-08",4,"Jervis Bay Territory",20.98
+"2002-02-08",5,"New South Wales",20.74
+"2002-02-08",6,"Northern Territory",27.67
+"2002-02-08",7,"Queensland",29.45
+"2002-02-08",8,"South Australia",18.72
+"2002-02-08",9,"Tasmania",17.15
+"2002-02-08",10,"Victoria",14.55
+"2002-02-08",11,"Western Australia",22.05
+"2002-02-09",1,"Ashmore and Cartier Islands",26.39
+"2002-02-09",2,"Australian Capital Territory",15.42
+"2002-02-09",3,"Coral Sea Islands",28.68
+"2002-02-09",4,"Jervis Bay Territory",19.38
+"2002-02-09",5,"New South Wales",19.8
+"2002-02-09",6,"Northern Territory",25.3
+"2002-02-09",7,"Queensland",27.08
+"2002-02-09",8,"South Australia",19.52
+"2002-02-09",9,"Tasmania",15.15
+"2002-02-09",10,"Victoria",16.64
+"2002-02-09",11,"Western Australia",21.97
+"2002-02-10",1,"Ashmore and Cartier Islands",27.82
+"2002-02-10",2,"Australian Capital Territory",11.27
+"2002-02-10",3,"Coral Sea Islands",28.2
+"2002-02-10",4,"Jervis Bay Territory",17.18
+"2002-02-10",5,"New South Wales",19.9
+"2002-02-10",6,"Northern Territory",26.98
+"2002-02-10",7,"Queensland",28.17
+"2002-02-10",8,"South Australia",21.06
+"2002-02-10",9,"Tasmania",11.59
+"2002-02-10",10,"Victoria",13.65
+"2002-02-10",11,"Western Australia",24.11
+"2002-02-11",1,"Ashmore and Cartier Islands",27.68
+"2002-02-11",2,"Australian Capital Territory",15.12
+"2002-02-11",3,"Coral Sea Islands",28.52
+"2002-02-11",4,"Jervis Bay Territory",18.19
+"2002-02-11",5,"New South Wales",19.31
+"2002-02-11",6,"Northern Territory",27.76
+"2002-02-11",7,"Queensland",28.04
+"2002-02-11",8,"South Australia",21.83
+"2002-02-11",9,"Tasmania",12.73
+"2002-02-11",10,"Victoria",16.07
+"2002-02-11",11,"Western Australia",26.49
+"2002-02-12",1,"Ashmore and Cartier Islands",27.63
+"2002-02-12",2,"Australian Capital Territory",15.38
+"2002-02-12",3,"Coral Sea Islands",28.48
+"2002-02-12",4,"Jervis Bay Territory",18.73
+"2002-02-12",5,"New South Wales",22.77
+"2002-02-12",6,"Northern Territory",28.9
+"2002-02-12",7,"Queensland",28.74
+"2002-02-12",8,"South Australia",25.69
+"2002-02-12",9,"Tasmania",15.24
+"2002-02-12",10,"Victoria",18.72
+"2002-02-12",11,"Western Australia",28.27
+"2002-02-13",1,"Ashmore and Cartier Islands",26.64
+"2002-02-13",2,"Australian Capital Territory",17.73
+"2002-02-13",3,"Coral Sea Islands",27.1
+"2002-02-13",4,"Jervis Bay Territory",19.51
+"2002-02-13",5,"New South Wales",25.05
+"2002-02-13",6,"Northern Territory",29.62
+"2002-02-13",7,"Queensland",28.81
+"2002-02-13",8,"South Australia",29.36
+"2002-02-13",9,"Tasmania",16.04
+"2002-02-13",10,"Victoria",25.13
+"2002-02-13",11,"Western Australia",26.82
+"2002-02-14",1,"Ashmore and Cartier Islands",27.24
+"2002-02-14",2,"Australian Capital Territory",20.21
+"2002-02-14",3,"Coral Sea Islands",26.92
+"2002-02-14",4,"Jervis Bay Territory",20.93
+"2002-02-14",5,"New South Wales",26.88
+"2002-02-14",6,"Northern Territory",29.73
+"2002-02-14",7,"Queensland",28.27
+"2002-02-14",8,"South Australia",32.76
+"2002-02-14",9,"Tasmania",20.04
+"2002-02-14",10,"Victoria",27.99
+"2002-02-14",11,"Western Australia",26.12
+"2002-02-15",1,"Ashmore and Cartier Islands",26.67
+"2002-02-15",2,"Australian Capital Territory",21.28
+"2002-02-15",3,"Coral Sea Islands",26.76
+"2002-02-15",4,"Jervis Bay Territory",21.17
+"2002-02-15",5,"New South Wales",27.26
+"2002-02-15",6,"Northern Territory",30.59
+"2002-02-15",7,"Queensland",28.26
+"2002-02-15",8,"South Australia",29.07
+"2002-02-15",9,"Tasmania",22.48
+"2002-02-15",10,"Victoria",28.17
+"2002-02-15",11,"Western Australia",23.64
+"2002-02-16",1,"Ashmore and Cartier Islands",26.66
+"2002-02-16",2,"Australian Capital Territory",21.96
+"2002-02-16",3,"Coral Sea Islands",27.08
+"2002-02-16",4,"Jervis Bay Territory",22.91
+"2002-02-16",5,"New South Wales",25.74
+"2002-02-16",6,"Northern Territory",29.34
+"2002-02-16",7,"Queensland",28.1
+"2002-02-16",8,"South Australia",22.68
+"2002-02-16",9,"Tasmania",16.26
+"2002-02-16",10,"Victoria",18.85
+"2002-02-16",11,"Western Australia",24.95
+"2002-02-17",1,"Ashmore and Cartier Islands",26.33
+"2002-02-17",2,"Australian Capital Territory",21.8
+"2002-02-17",3,"Coral Sea Islands",26.81
+"2002-02-17",4,"Jervis Bay Territory",20.67
+"2002-02-17",5,"New South Wales",24.97
+"2002-02-17",6,"Northern Territory",27.45
+"2002-02-17",7,"Queensland",28.51
+"2002-02-17",8,"South Australia",23.2
+"2002-02-17",9,"Tasmania",16.24
+"2002-02-17",10,"Victoria",18.54
+"2002-02-17",11,"Western Australia",26.94
+"2002-02-18",1,"Ashmore and Cartier Islands",27.56
+"2002-02-18",2,"Australian Capital Territory",16.7
+"2002-02-18",3,"Coral Sea Islands",27.52
+"2002-02-18",4,"Jervis Bay Territory",20.41
+"2002-02-18",5,"New South Wales",23.51
+"2002-02-18",6,"Northern Territory",27.17
+"2002-02-18",7,"Queensland",28.35
+"2002-02-18",8,"South Australia",26.19
+"2002-02-18",9,"Tasmania",15.48
+"2002-02-18",10,"Victoria",18.95
+"2002-02-18",11,"Western Australia",28.24
+"2002-02-19",1,"Ashmore and Cartier Islands",26.34
+"2002-02-19",2,"Australian Capital Territory",17.05
+"2002-02-19",3,"Coral Sea Islands",26.81
+"2002-02-19",4,"Jervis Bay Territory",21.02
+"2002-02-19",5,"New South Wales",25.11
+"2002-02-19",6,"Northern Territory",26.58
+"2002-02-19",7,"Queensland",28.87
+"2002-02-19",8,"South Australia",32.18
+"2002-02-19",9,"Tasmania",16.51
+"2002-02-19",10,"Victoria",24.22
+"2002-02-19",11,"Western Australia",27.35
+"2002-02-20",1,"Ashmore and Cartier Islands",28.45
+"2002-02-20",2,"Australian Capital Territory",19.85
+"2002-02-20",3,"Coral Sea Islands",27.47
+"2002-02-20",4,"Jervis Bay Territory",22.53
+"2002-02-20",5,"New South Wales",27.15
+"2002-02-20",6,"Northern Territory",26.12
+"2002-02-20",7,"Queensland",29.02
+"2002-02-20",8,"South Australia",23.64
+"2002-02-20",9,"Tasmania",20.43
+"2002-02-20",10,"Victoria",23.69
+"2002-02-20",11,"Western Australia",24.53
+"2002-02-21",1,"Ashmore and Cartier Islands",28.33
+"2002-02-21",2,"Australian Capital Territory",18.28
+"2002-02-21",3,"Coral Sea Islands",27.48
+"2002-02-21",4,"Jervis Bay Territory",19.93
+"2002-02-21",5,"New South Wales",20.98
+"2002-02-21",6,"Northern Territory",24.56
+"2002-02-21",7,"Queensland",28.19
+"2002-02-21",8,"South Australia",19.77
+"2002-02-21",9,"Tasmania",12.06
+"2002-02-21",10,"Victoria",15.94
+"2002-02-21",11,"Western Australia",23.23
+"2002-02-22",1,"Ashmore and Cartier Islands",27.3
+"2002-02-22",2,"Australian Capital Territory",17.12
+"2002-02-22",3,"Coral Sea Islands",26.87
+"2002-02-22",4,"Jervis Bay Territory",19.77
+"2002-02-22",5,"New South Wales",20.89
+"2002-02-22",6,"Northern Territory",23.35
+"2002-02-22",7,"Queensland",28.4
+"2002-02-22",8,"South Australia",18.98
+"2002-02-22",9,"Tasmania",12.6
+"2002-02-22",10,"Victoria",16.1
+"2002-02-22",11,"Western Australia",22.51
+"2002-02-23",1,"Ashmore and Cartier Islands",26.41
+"2002-02-23",2,"Australian Capital Territory",18.22
+"2002-02-23",3,"Coral Sea Islands",27.03
+"2002-02-23",4,"Jervis Bay Territory",20.65
+"2002-02-23",5,"New South Wales",22.2
+"2002-02-23",6,"Northern Territory",23.75
+"2002-02-23",7,"Queensland",28
+"2002-02-23",8,"South Australia",19.48
+"2002-02-23",9,"Tasmania",16.34
+"2002-02-23",10,"Victoria",17.82
+"2002-02-23",11,"Western Australia",23.65
+"2002-02-24",1,"Ashmore and Cartier Islands",27.43
+"2002-02-24",2,"Australian Capital Territory",17.9
+"2002-02-24",3,"Coral Sea Islands",27.1
+"2002-02-24",4,"Jervis Bay Territory",20.68
+"2002-02-24",5,"New South Wales",23.44
+"2002-02-24",6,"Northern Territory",24.98
+"2002-02-24",7,"Queensland",26.57
+"2002-02-24",8,"South Australia",22.28
+"2002-02-24",9,"Tasmania",17.16
+"2002-02-24",10,"Victoria",20.85
+"2002-02-24",11,"Western Australia",25.74
+"2002-02-25",1,"Ashmore and Cartier Islands",26.82
+"2002-02-25",2,"Australian Capital Territory",17.8
+"2002-02-25",3,"Coral Sea Islands",27.36
+"2002-02-25",4,"Jervis Bay Territory",21.65
+"2002-02-25",5,"New South Wales",21.49
+"2002-02-25",6,"Northern Territory",26.14
+"2002-02-25",7,"Queensland",26.62
+"2002-02-25",8,"South Australia",24.88
+"2002-02-25",9,"Tasmania",18.3
+"2002-02-25",10,"Victoria",24.52
+"2002-02-25",11,"Western Australia",27.36
+"2002-02-26",1,"Ashmore and Cartier Islands",27.31
+"2002-02-26",2,"Australian Capital Territory",19.32
+"2002-02-26",3,"Coral Sea Islands",27.16
+"2002-02-26",4,"Jervis Bay Territory",21.06
+"2002-02-26",5,"New South Wales",21.93
+"2002-02-26",6,"Northern Territory",26.86
+"2002-02-26",7,"Queensland",26.94
+"2002-02-26",8,"South Australia",26.74
+"2002-02-26",9,"Tasmania",16.94
+"2002-02-26",10,"Victoria",21.54
+"2002-02-26",11,"Western Australia",26.66
+"2002-02-27",1,"Ashmore and Cartier Islands",27.38
+"2002-02-27",2,"Australian Capital Territory",20.54
+"2002-02-27",3,"Coral Sea Islands",27.27
+"2002-02-27",4,"Jervis Bay Territory",20.63
+"2002-02-27",5,"New South Wales",23.51
+"2002-02-27",6,"Northern Territory",27.19
+"2002-02-27",7,"Queensland",27.18
+"2002-02-27",8,"South Australia",24.93
+"2002-02-27",9,"Tasmania",13.07
+"2002-02-27",10,"Victoria",16.47
+"2002-02-27",11,"Western Australia",24.56
+"2002-02-28",1,"Ashmore and Cartier Islands",27.52
+"2002-02-28",2,"Australian Capital Territory",14.43
+"2002-02-28",3,"Coral Sea Islands",27.22
+"2002-02-28",4,"Jervis Bay Territory",18.07
+"2002-02-28",5,"New South Wales",21.62
+"2002-02-28",6,"Northern Territory",28.51
+"2002-02-28",7,"Queensland",28.41
+"2002-02-28",8,"South Australia",22.88
+"2002-02-28",9,"Tasmania",12.27
+"2002-02-28",10,"Victoria",14.77
+"2002-02-28",11,"Western Australia",23.06
+"2002-03-01",1,"Ashmore and Cartier Islands",26.73
+"2002-03-01",2,"Australian Capital Territory",14.64
+"2002-03-01",3,"Coral Sea Islands",27.13
+"2002-03-01",4,"Jervis Bay Territory",18.36
+"2002-03-01",5,"New South Wales",19.29
+"2002-03-01",6,"Northern Territory",26.61
+"2002-03-01",7,"Queensland",27.76
+"2002-03-01",8,"South Australia",18.91
+"2002-03-01",9,"Tasmania",12.68
+"2002-03-01",10,"Victoria",14.72
+"2002-03-01",11,"Western Australia",21.08
+"2002-03-02",1,"Ashmore and Cartier Islands",27.06
+"2002-03-02",2,"Australian Capital Territory",16.25
+"2002-03-02",3,"Coral Sea Islands",26.76
+"2002-03-02",4,"Jervis Bay Territory",20.28
+"2002-03-02",5,"New South Wales",19.36
+"2002-03-02",6,"Northern Territory",25.07
+"2002-03-02",7,"Queensland",25.25
+"2002-03-02",8,"South Australia",19.91
+"2002-03-02",9,"Tasmania",13.6
+"2002-03-02",10,"Victoria",16.49
+"2002-03-02",11,"Western Australia",21.92
+"2002-03-03",1,"Ashmore and Cartier Islands",26.69
+"2002-03-03",2,"Australian Capital Territory",17.15
+"2002-03-03",3,"Coral Sea Islands",26.69
+"2002-03-03",4,"Jervis Bay Territory",19.35
+"2002-03-03",5,"New South Wales",21.05
+"2002-03-03",6,"Northern Territory",25.7
+"2002-03-03",7,"Queensland",26.3
+"2002-03-03",8,"South Australia",21.82
+"2002-03-03",9,"Tasmania",15.05
+"2002-03-03",10,"Victoria",16.67
+"2002-03-03",11,"Western Australia",24.57
+"2002-03-04",1,"Ashmore and Cartier Islands",28.02
+"2002-03-04",2,"Australian Capital Territory",16.89
+"2002-03-04",3,"Coral Sea Islands",26.42
+"2002-03-04",4,"Jervis Bay Territory",19.93
+"2002-03-04",5,"New South Wales",23.25
+"2002-03-04",6,"Northern Territory",26.8
+"2002-03-04",7,"Queensland",27.42
+"2002-03-04",8,"South Australia",25.54
+"2002-03-04",9,"Tasmania",16.04
+"2002-03-04",10,"Victoria",19.5
+"2002-03-04",11,"Western Australia",27.28
+"2002-03-05",1,"Ashmore and Cartier Islands",28.5
+"2002-03-05",2,"Australian Capital Territory",17.55
+"2002-03-05",3,"Coral Sea Islands",26.88
+"2002-03-05",4,"Jervis Bay Territory",20.38
+"2002-03-05",5,"New South Wales",24.31
+"2002-03-05",6,"Northern Territory",28.19
+"2002-03-05",7,"Queensland",27.79
+"2002-03-05",8,"South Australia",28.16
+"2002-03-05",9,"Tasmania",17.9
+"2002-03-05",10,"Victoria",24.65
+"2002-03-05",11,"Western Australia",26.21
+"2002-03-06",1,"Ashmore and Cartier Islands",28.41
+"2002-03-06",2,"Australian Capital Territory",18.85
+"2002-03-06",3,"Coral Sea Islands",26.11
+"2002-03-06",4,"Jervis Bay Territory",20.59
+"2002-03-06",5,"New South Wales",24.64
+"2002-03-06",6,"Northern Territory",29.05
+"2002-03-06",7,"Queensland",27.84
+"2002-03-06",8,"South Australia",28.81
+"2002-03-06",9,"Tasmania",18.87
+"2002-03-06",10,"Victoria",25.07
+"2002-03-06",11,"Western Australia",25.6
+"2002-03-07",1,"Ashmore and Cartier Islands",28.3
+"2002-03-07",2,"Australian Capital Territory",20.72
+"2002-03-07",3,"Coral Sea Islands",26.85
+"2002-03-07",4,"Jervis Bay Territory",23.31
+"2002-03-07",5,"New South Wales",24.87
+"2002-03-07",6,"Northern Territory",29.61
+"2002-03-07",7,"Queensland",28.12
+"2002-03-07",8,"South Australia",24.9
+"2002-03-07",9,"Tasmania",13.58
+"2002-03-07",10,"Victoria",17.73
+"2002-03-07",11,"Western Australia",25.9
+"2002-03-08",1,"Ashmore and Cartier Islands",28.38
+"2002-03-08",2,"Australian Capital Territory",12.85
+"2002-03-08",3,"Coral Sea Islands",26.71
+"2002-03-08",4,"Jervis Bay Territory",19.26
+"2002-03-08",5,"New South Wales",21.7
+"2002-03-08",6,"Northern Territory",29.31
+"2002-03-08",7,"Queensland",28.37
+"2002-03-08",8,"South Australia",22.39
+"2002-03-08",9,"Tasmania",12.52
+"2002-03-08",10,"Victoria",16.09
+"2002-03-08",11,"Western Australia",26.77
+"2002-03-09",1,"Ashmore and Cartier Islands",28.15
+"2002-03-09",2,"Australian Capital Territory",15.44
+"2002-03-09",3,"Coral Sea Islands",26.13
+"2002-03-09",4,"Jervis Bay Territory",19.63
+"2002-03-09",5,"New South Wales",22.13
+"2002-03-09",6,"Northern Territory",29.26
+"2002-03-09",7,"Queensland",28.74
+"2002-03-09",8,"South Australia",23.98
+"2002-03-09",9,"Tasmania",14.49
+"2002-03-09",10,"Victoria",20.53
+"2002-03-09",11,"Western Australia",28.09
+"2002-03-10",1,"Ashmore and Cartier Islands",28.33
+"2002-03-10",2,"Australian Capital Territory",15.08
+"2002-03-10",3,"Coral Sea Islands",25.71
+"2002-03-10",4,"Jervis Bay Territory",19.66
+"2002-03-10",5,"New South Wales",22.24
+"2002-03-10",6,"Northern Territory",30.09
+"2002-03-10",7,"Queensland",28.18
+"2002-03-10",8,"South Australia",29.45
+"2002-03-10",9,"Tasmania",15.15
+"2002-03-10",10,"Victoria",22.85
+"2002-03-10",11,"Western Australia",26.07
+"2002-03-11",1,"Ashmore and Cartier Islands",27.87
+"2002-03-11",2,"Australian Capital Territory",16.27
+"2002-03-11",3,"Coral Sea Islands",26.14
+"2002-03-11",4,"Jervis Bay Territory",20.07
+"2002-03-11",5,"New South Wales",23.46
+"2002-03-11",6,"Northern Territory",29.53
+"2002-03-11",7,"Queensland",28.72
+"2002-03-11",8,"South Australia",23.75
+"2002-03-11",9,"Tasmania",18.27
+"2002-03-11",10,"Victoria",22.72
+"2002-03-11",11,"Western Australia",24.46
+"2002-03-12",1,"Ashmore and Cartier Islands",28.02
+"2002-03-12",2,"Australian Capital Territory",20.04
+"2002-03-12",3,"Coral Sea Islands",26.34
+"2002-03-12",4,"Jervis Bay Territory",20.07
+"2002-03-12",5,"New South Wales",22.51
+"2002-03-12",6,"Northern Territory",28.97
+"2002-03-12",7,"Queensland",28.72
+"2002-03-12",8,"South Australia",21.46
+"2002-03-12",9,"Tasmania",13.43
+"2002-03-12",10,"Victoria",16.05
+"2002-03-12",11,"Western Australia",26.18
+"2002-03-13",1,"Ashmore and Cartier Islands",27.92
+"2002-03-13",2,"Australian Capital Territory",15.66
+"2002-03-13",3,"Coral Sea Islands",26.42
+"2002-03-13",4,"Jervis Bay Territory",19.22
+"2002-03-13",5,"New South Wales",21.56
+"2002-03-13",6,"Northern Territory",28.51
+"2002-03-13",7,"Queensland",28.43
+"2002-03-13",8,"South Australia",22.51
+"2002-03-13",9,"Tasmania",14.92
+"2002-03-13",10,"Victoria",17.54
+"2002-03-13",11,"Western Australia",27.57
+"2002-03-14",1,"Ashmore and Cartier Islands",27.98
+"2002-03-14",2,"Australian Capital Territory",15.92
+"2002-03-14",3,"Coral Sea Islands",26.2
+"2002-03-14",4,"Jervis Bay Territory",19.28
+"2002-03-14",5,"New South Wales",21.65
+"2002-03-14",6,"Northern Territory",28.55
+"2002-03-14",7,"Queensland",27.56
+"2002-03-14",8,"South Australia",23.8
+"2002-03-14",9,"Tasmania",15.25
+"2002-03-14",10,"Victoria",17.17
+"2002-03-14",11,"Western Australia",28.82
+"2002-03-15",1,"Ashmore and Cartier Islands",28.12
+"2002-03-15",2,"Australian Capital Territory",17.2
+"2002-03-15",3,"Coral Sea Islands",25.92
+"2002-03-15",4,"Jervis Bay Territory",20.05
+"2002-03-15",5,"New South Wales",21.69
+"2002-03-15",6,"Northern Territory",28.22
+"2002-03-15",7,"Queensland",27.5
+"2002-03-15",8,"South Australia",24.98
+"2002-03-15",9,"Tasmania",13.62
+"2002-03-15",10,"Victoria",17.1
+"2002-03-15",11,"Western Australia",30.09
+"2002-03-16",1,"Ashmore and Cartier Islands",28.34
+"2002-03-16",2,"Australian Capital Territory",18.8
+"2002-03-16",3,"Coral Sea Islands",26.03
+"2002-03-16",4,"Jervis Bay Territory",20.98
+"2002-03-16",5,"New South Wales",23.56
+"2002-03-16",6,"Northern Territory",28.4
+"2002-03-16",7,"Queensland",28.01
+"2002-03-16",8,"South Australia",27.32
+"2002-03-16",9,"Tasmania",14.01
+"2002-03-16",10,"Victoria",20.47
+"2002-03-16",11,"Western Australia",28.69
+"2002-03-17",1,"Ashmore and Cartier Islands",28.3
+"2002-03-17",2,"Australian Capital Territory",21.49
+"2002-03-17",3,"Coral Sea Islands",26.64
+"2002-03-17",4,"Jervis Bay Territory",24.22
+"2002-03-17",5,"New South Wales",26.9
+"2002-03-17",6,"Northern Territory",29.12
+"2002-03-17",7,"Queensland",28.69
+"2002-03-17",8,"South Australia",28.46
+"2002-03-17",9,"Tasmania",13.81
+"2002-03-17",10,"Victoria",20.23
+"2002-03-17",11,"Western Australia",26.99
+"2002-03-18",1,"Ashmore and Cartier Islands",28.55
+"2002-03-18",2,"Australian Capital Territory",23.36
+"2002-03-18",3,"Coral Sea Islands",26.7
+"2002-03-18",4,"Jervis Bay Territory",22.12
+"2002-03-18",5,"New South Wales",29.81
+"2002-03-18",6,"Northern Territory",29.62
+"2002-03-18",7,"Queensland",29.36
+"2002-03-18",8,"South Australia",29
+"2002-03-18",9,"Tasmania",19.62
+"2002-03-18",10,"Victoria",27.64
+"2002-03-18",11,"Western Australia",25.42
+"2002-03-19",1,"Ashmore and Cartier Islands",28.56
+"2002-03-19",2,"Australian Capital Territory",24.48
+"2002-03-19",3,"Coral Sea Islands",26.64
+"2002-03-19",4,"Jervis Bay Territory",21.41
+"2002-03-19",5,"New South Wales",28.52
+"2002-03-19",6,"Northern Territory",29.68
+"2002-03-19",7,"Queensland",29.16
+"2002-03-19",8,"South Australia",25.06
+"2002-03-19",9,"Tasmania",14.03
+"2002-03-19",10,"Victoria",18.45
+"2002-03-19",11,"Western Australia",26.36
+"2002-03-20",1,"Ashmore and Cartier Islands",28.61
+"2002-03-20",2,"Australian Capital Territory",19.09
+"2002-03-20",3,"Coral Sea Islands",26.83
+"2002-03-20",4,"Jervis Bay Territory",22.05
+"2002-03-20",5,"New South Wales",25.02
+"2002-03-20",6,"Northern Territory",30.21
+"2002-03-20",7,"Queensland",28.93
+"2002-03-20",8,"South Australia",23.55
+"2002-03-20",9,"Tasmania",11.49
+"2002-03-20",10,"Victoria",17.26
+"2002-03-20",11,"Western Australia",27.74
+"2002-03-21",1,"Ashmore and Cartier Islands",28.74
+"2002-03-21",2,"Australian Capital Territory",16.6
+"2002-03-21",3,"Coral Sea Islands",26.41
+"2002-03-21",4,"Jervis Bay Territory",18.74
+"2002-03-21",5,"New South Wales",21.3
+"2002-03-21",6,"Northern Territory",29.6
+"2002-03-21",7,"Queensland",28.36
+"2002-03-21",8,"South Australia",22.96
+"2002-03-21",9,"Tasmania",11.7
+"2002-03-21",10,"Victoria",15.9
+"2002-03-21",11,"Western Australia",29.25
+"2002-03-22",1,"Ashmore and Cartier Islands",29.16
+"2002-03-22",2,"Australian Capital Territory",13.86
+"2002-03-22",3,"Coral Sea Islands",25.96
+"2002-03-22",4,"Jervis Bay Territory",19.7
+"2002-03-22",5,"New South Wales",20.65
+"2002-03-22",6,"Northern Territory",28.57
+"2002-03-22",7,"Queensland",27.98
+"2002-03-22",8,"South Australia",24.45
+"2002-03-22",9,"Tasmania",13.13
+"2002-03-22",10,"Victoria",17.28
+"2002-03-22",11,"Western Australia",28.8
+"2002-03-23",1,"Ashmore and Cartier Islands",29.05
+"2002-03-23",2,"Australian Capital Territory",14.85
+"2002-03-23",3,"Coral Sea Islands",26.01
+"2002-03-23",4,"Jervis Bay Territory",20.54
+"2002-03-23",5,"New South Wales",22.87
+"2002-03-23",6,"Northern Territory",29.04
+"2002-03-23",7,"Queensland",27.76
+"2002-03-23",8,"South Australia",26.73
+"2002-03-23",9,"Tasmania",17.05
+"2002-03-23",10,"Victoria",22.19
+"2002-03-23",11,"Western Australia",25.9
+"2002-03-24",1,"Ashmore and Cartier Islands",28.53
+"2002-03-24",2,"Australian Capital Territory",17.54
+"2002-03-24",3,"Coral Sea Islands",26.17
+"2002-03-24",4,"Jervis Bay Territory",20.45
+"2002-03-24",5,"New South Wales",24.14
+"2002-03-24",6,"Northern Territory",29.59
+"2002-03-24",7,"Queensland",27.67
+"2002-03-24",8,"South Australia",27.65
+"2002-03-24",9,"Tasmania",19.69
+"2002-03-24",10,"Victoria",25.21
+"2002-03-24",11,"Western Australia",24.73
+"2002-03-25",1,"Ashmore and Cartier Islands",28.62
+"2002-03-25",2,"Australian Capital Territory",19.59
+"2002-03-25",3,"Coral Sea Islands",25.9
+"2002-03-25",4,"Jervis Bay Territory",20.97
+"2002-03-25",5,"New South Wales",24.77
+"2002-03-25",6,"Northern Territory",29.59
+"2002-03-25",7,"Queensland",27.94
+"2002-03-25",8,"South Australia",22.76
+"2002-03-25",9,"Tasmania",18.93
+"2002-03-25",10,"Victoria",21.23
+"2002-03-25",11,"Western Australia",25.16
+"2002-03-26",1,"Ashmore and Cartier Islands",28.98
+"2002-03-26",2,"Australian Capital Territory",18.52
+"2002-03-26",3,"Coral Sea Islands",25.83
+"2002-03-26",4,"Jervis Bay Territory",21.3
+"2002-03-26",5,"New South Wales",20.92
+"2002-03-26",6,"Northern Territory",27.97
+"2002-03-26",7,"Queensland",27.19
+"2002-03-26",8,"South Australia",18.21
+"2002-03-26",9,"Tasmania",16.42
+"2002-03-26",10,"Victoria",15.08
+"2002-03-26",11,"Western Australia",23.7
+"2002-03-27",1,"Ashmore and Cartier Islands",29.11
+"2002-03-27",2,"Australian Capital Territory",14.85
+"2002-03-27",3,"Coral Sea Islands",26.17
+"2002-03-27",4,"Jervis Bay Territory",20.19
+"2002-03-27",5,"New South Wales",16.71
+"2002-03-27",6,"Northern Territory",25.31
+"2002-03-27",7,"Queensland",24.53
+"2002-03-27",8,"South Australia",18.24
+"2002-03-27",9,"Tasmania",15.14
+"2002-03-27",10,"Victoria",15.9
+"2002-03-27",11,"Western Australia",22.72
+"2002-03-28",1,"Ashmore and Cartier Islands",29.2
+"2002-03-28",2,"Australian Capital Territory",17.96
+"2002-03-28",3,"Coral Sea Islands",26.46
+"2002-03-28",4,"Jervis Bay Territory",20.69
+"2002-03-28",5,"New South Wales",18.48
+"2002-03-28",6,"Northern Territory",24.65
+"2002-03-28",7,"Queensland",22.89
+"2002-03-28",8,"South Australia",18.47
+"2002-03-28",9,"Tasmania",15.58
+"2002-03-28",10,"Victoria",16.8
+"2002-03-28",11,"Western Australia",22.96
+"2002-03-29",1,"Ashmore and Cartier Islands",29.28
+"2002-03-29",2,"Australian Capital Territory",17.53
+"2002-03-29",3,"Coral Sea Islands",26.66
+"2002-03-29",4,"Jervis Bay Territory",20.36
+"2002-03-29",5,"New South Wales",18.16
+"2002-03-29",6,"Northern Territory",24.24
+"2002-03-29",7,"Queensland",22.98
+"2002-03-29",8,"South Australia",19.14
+"2002-03-29",9,"Tasmania",11.47
+"2002-03-29",10,"Victoria",15.61
+"2002-03-29",11,"Western Australia",23.46
+"2002-03-30",1,"Ashmore and Cartier Islands",28.67
+"2002-03-30",2,"Australian Capital Territory",10.81
+"2002-03-30",3,"Coral Sea Islands",26.5
+"2002-03-30",4,"Jervis Bay Territory",17.93
+"2002-03-30",5,"New South Wales",15.91
+"2002-03-30",6,"Northern Territory",25.27
+"2002-03-30",7,"Queensland",23.85
+"2002-03-30",8,"South Australia",19.27
+"2002-03-30",9,"Tasmania",10.88
+"2002-03-30",10,"Victoria",13.85
+"2002-03-30",11,"Western Australia",24.49
+"2002-03-31",1,"Ashmore and Cartier Islands",29.09
+"2002-03-31",2,"Australian Capital Territory",12.53
+"2002-03-31",3,"Coral Sea Islands",26.65
+"2002-03-31",4,"Jervis Bay Territory",18.59
+"2002-03-31",5,"New South Wales",18.24
+"2002-03-31",6,"Northern Territory",25.57
+"2002-03-31",7,"Queensland",24.49
+"2002-03-31",8,"South Australia",20.89
+"2002-03-31",9,"Tasmania",12.84
+"2002-03-31",10,"Victoria",14.44
+"2002-03-31",11,"Western Australia",25.77
+"2002-04-01",1,"Ashmore and Cartier Islands",29.02
+"2002-04-01",2,"Australian Capital Territory",13.62
+"2002-04-01",3,"Coral Sea Islands",25.87
+"2002-04-01",4,"Jervis Bay Territory",19.67
+"2002-04-01",5,"New South Wales",19.53
+"2002-04-01",6,"Northern Territory",25.38
+"2002-04-01",7,"Queensland",25.74
+"2002-04-01",8,"South Australia",24.08
+"2002-04-01",9,"Tasmania",14.54
+"2002-04-01",10,"Victoria",17.62
+"2002-04-01",11,"Western Australia",25.76
+"2002-04-02",1,"Ashmore and Cartier Islands",29.02
+"2002-04-02",2,"Australian Capital Territory",13.36
+"2002-04-02",3,"Coral Sea Islands",25.27
+"2002-04-02",4,"Jervis Bay Territory",19.11
+"2002-04-02",5,"New South Wales",19.85
+"2002-04-02",6,"Northern Territory",26.67
+"2002-04-02",7,"Queensland",25.6
+"2002-04-02",8,"South Australia",25.76
+"2002-04-02",9,"Tasmania",15.4
+"2002-04-02",10,"Victoria",19.45
+"2002-04-02",11,"Western Australia",25.14
+"2002-04-03",1,"Ashmore and Cartier Islands",28.7
+"2002-04-03",2,"Australian Capital Territory",13.75
+"2002-04-03",3,"Coral Sea Islands",25.28
+"2002-04-03",4,"Jervis Bay Territory",19.99
+"2002-04-03",5,"New South Wales",20.77
+"2002-04-03",6,"Northern Territory",27.72
+"2002-04-03",7,"Queensland",25.68
+"2002-04-03",8,"South Australia",22.99
+"2002-04-03",9,"Tasmania",15.81
+"2002-04-03",10,"Victoria",20.46
+"2002-04-03",11,"Western Australia",22.63
+"2002-04-04",1,"Ashmore and Cartier Islands",28.69
+"2002-04-04",2,"Australian Capital Territory",16.06
+"2002-04-04",3,"Coral Sea Islands",25.6
+"2002-04-04",4,"Jervis Bay Territory",18.85
+"2002-04-04",5,"New South Wales",19.54
+"2002-04-04",6,"Northern Territory",27.1
+"2002-04-04",7,"Queensland",26.26
+"2002-04-04",8,"South Australia",17.47
+"2002-04-04",9,"Tasmania",8.39
+"2002-04-04",10,"Victoria",12.16
+"2002-04-04",11,"Western Australia",20.02
+"2002-04-05",1,"Ashmore and Cartier Islands",27.89
+"2002-04-05",2,"Australian Capital Territory",10.52
+"2002-04-05",3,"Coral Sea Islands",25.57
+"2002-04-05",4,"Jervis Bay Territory",15.95
+"2002-04-05",5,"New South Wales",16.4
+"2002-04-05",6,"Northern Territory",27.82
+"2002-04-05",7,"Queensland",26.42
+"2002-04-05",8,"South Australia",17.8
+"2002-04-05",9,"Tasmania",11.42
+"2002-04-05",10,"Victoria",12.21
+"2002-04-05",11,"Western Australia",19.69
+"2002-04-06",1,"Ashmore and Cartier Islands",28.75
+"2002-04-06",2,"Australian Capital Territory",12.81
+"2002-04-06",3,"Coral Sea Islands",25.29
+"2002-04-06",4,"Jervis Bay Territory",17.63
+"2002-04-06",5,"New South Wales",17.95
+"2002-04-06",6,"Northern Territory",28.48
+"2002-04-06",7,"Queensland",26.03
+"2002-04-06",8,"South Australia",19.94
+"2002-04-06",9,"Tasmania",12.33
+"2002-04-06",10,"Victoria",12.65
+"2002-04-06",11,"Western Australia",21.07
+"2002-04-07",1,"Ashmore and Cartier Islands",28.35
+"2002-04-07",2,"Australian Capital Territory",12.9
+"2002-04-07",3,"Coral Sea Islands",25.14
+"2002-04-07",4,"Jervis Bay Territory",18.14
+"2002-04-07",5,"New South Wales",19.27
+"2002-04-07",6,"Northern Territory",28.59
+"2002-04-07",7,"Queensland",26.06
+"2002-04-07",8,"South Australia",21.63
+"2002-04-07",9,"Tasmania",12.77
+"2002-04-07",10,"Victoria",13.55
+"2002-04-07",11,"Western Australia",23.61
+"2002-04-08",1,"Ashmore and Cartier Islands",28.52
+"2002-04-08",2,"Australian Capital Territory",12.85
+"2002-04-08",3,"Coral Sea Islands",25.47
+"2002-04-08",4,"Jervis Bay Territory",18.79
+"2002-04-08",5,"New South Wales",20.63
+"2002-04-08",6,"Northern Territory",28.4
+"2002-04-08",7,"Queensland",26.45
+"2002-04-08",8,"South Australia",22.47
+"2002-04-08",9,"Tasmania",12.79
+"2002-04-08",10,"Victoria",16.27
+"2002-04-08",11,"Western Australia",24.36
+"2002-04-09",1,"Ashmore and Cartier Islands",28.66
+"2002-04-09",2,"Australian Capital Territory",16.05
+"2002-04-09",3,"Coral Sea Islands",25.62
+"2002-04-09",4,"Jervis Bay Territory",19.51
+"2002-04-09",5,"New South Wales",21.69
+"2002-04-09",6,"Northern Territory",28.79
+"2002-04-09",7,"Queensland",25.99
+"2002-04-09",8,"South Australia",23.97
+"2002-04-09",9,"Tasmania",15.62
+"2002-04-09",10,"Victoria",17.91
+"2002-04-09",11,"Western Australia",24.2
+"2002-04-10",1,"Ashmore and Cartier Islands",27.43
+"2002-04-10",2,"Australian Capital Territory",16.05
+"2002-04-10",3,"Coral Sea Islands",25.33
+"2002-04-10",4,"Jervis Bay Territory",21.39
+"2002-04-10",5,"New South Wales",22.43
+"2002-04-10",6,"Northern Territory",28.83
+"2002-04-10",7,"Queensland",25.93
+"2002-04-10",8,"South Australia",22.73
+"2002-04-10",9,"Tasmania",14.23
+"2002-04-10",10,"Victoria",18.26
+"2002-04-10",11,"Western Australia",24.19
+"2002-04-11",1,"Ashmore and Cartier Islands",26.75
+"2002-04-11",2,"Australian Capital Territory",14.71
+"2002-04-11",3,"Coral Sea Islands",25.79
+"2002-04-11",4,"Jervis Bay Territory",21.73
+"2002-04-11",5,"New South Wales",22.09
+"2002-04-11",6,"Northern Territory",28.06
+"2002-04-11",7,"Queensland",26.03
+"2002-04-11",8,"South Australia",24.61
+"2002-04-11",9,"Tasmania",13.7
+"2002-04-11",10,"Victoria",16.85
+"2002-04-11",11,"Western Australia",25.52
+"2002-04-12",1,"Ashmore and Cartier Islands",28.42
+"2002-04-12",2,"Australian Capital Territory",16.04
+"2002-04-12",3,"Coral Sea Islands",25.5
+"2002-04-12",4,"Jervis Bay Territory",20.09
+"2002-04-12",5,"New South Wales",22.68
+"2002-04-12",6,"Northern Territory",27.83
+"2002-04-12",7,"Queensland",25.64
+"2002-04-12",8,"South Australia",24.47
+"2002-04-12",9,"Tasmania",14.45
+"2002-04-12",10,"Victoria",18.95
+"2002-04-12",11,"Western Australia",25.42
+"2002-04-13",1,"Ashmore and Cartier Islands",28.86
+"2002-04-13",2,"Australian Capital Territory",16.54
+"2002-04-13",3,"Coral Sea Islands",25.55
+"2002-04-13",4,"Jervis Bay Territory",21.34
+"2002-04-13",5,"New South Wales",21.5
+"2002-04-13",6,"Northern Territory",27.82
+"2002-04-13",7,"Queensland",25.62
+"2002-04-13",8,"South Australia",21.74
+"2002-04-13",9,"Tasmania",12.97
+"2002-04-13",10,"Victoria",14.76
+"2002-04-13",11,"Western Australia",24.76
+"2002-04-14",1,"Ashmore and Cartier Islands",28.54
+"2002-04-14",2,"Australian Capital Territory",12.74
+"2002-04-14",3,"Coral Sea Islands",25.28
+"2002-04-14",4,"Jervis Bay Territory",18.78
+"2002-04-14",5,"New South Wales",19.36
+"2002-04-14",6,"Northern Territory",27.59
+"2002-04-14",7,"Queensland",25.67
+"2002-04-14",8,"South Australia",20.05
+"2002-04-14",9,"Tasmania",9.89
+"2002-04-14",10,"Victoria",13.09
+"2002-04-14",11,"Western Australia",25.86
+"2002-04-15",1,"Ashmore and Cartier Islands",28.74
+"2002-04-15",2,"Australian Capital Territory",12.47
+"2002-04-15",3,"Coral Sea Islands",25.81
+"2002-04-15",4,"Jervis Bay Territory",17.71
+"2002-04-15",5,"New South Wales",18.79
+"2002-04-15",6,"Northern Territory",26.7
+"2002-04-15",7,"Queensland",25.38
+"2002-04-15",8,"South Australia",19.74
+"2002-04-15",9,"Tasmania",10.09
+"2002-04-15",10,"Victoria",13.71
+"2002-04-15",11,"Western Australia",26.3
+"2002-04-16",1,"Ashmore and Cartier Islands",28.63
+"2002-04-16",2,"Australian Capital Territory",14.22
+"2002-04-16",3,"Coral Sea Islands",25.85
+"2002-04-16",4,"Jervis Bay Territory",18.21
+"2002-04-16",5,"New South Wales",17.85
+"2002-04-16",6,"Northern Territory",26.55
+"2002-04-16",7,"Queensland",23.47
+"2002-04-16",8,"South Australia",20.54
+"2002-04-16",9,"Tasmania",11.94
+"2002-04-16",10,"Victoria",14.35
+"2002-04-16",11,"Western Australia",25.22
+"2002-04-17",1,"Ashmore and Cartier Islands",28.39
+"2002-04-17",2,"Australian Capital Territory",14.45
+"2002-04-17",3,"Coral Sea Islands",24.82
+"2002-04-17",4,"Jervis Bay Territory",18.24
+"2002-04-17",5,"New South Wales",17.54
+"2002-04-17",6,"Northern Territory",26.67
+"2002-04-17",7,"Queensland",23.9
+"2002-04-17",8,"South Australia",21.27
+"2002-04-17",9,"Tasmania",11.5
+"2002-04-17",10,"Victoria",14.39
+"2002-04-17",11,"Western Australia",23.92
+"2002-04-18",1,"Ashmore and Cartier Islands",28.23
+"2002-04-18",2,"Australian Capital Territory",13.94
+"2002-04-18",3,"Coral Sea Islands",25.44
+"2002-04-18",4,"Jervis Bay Territory",18.35
+"2002-04-18",5,"New South Wales",17.85
+"2002-04-18",6,"Northern Territory",26.46
+"2002-04-18",7,"Queensland",24.25
+"2002-04-18",8,"South Australia",22.66
+"2002-04-18",9,"Tasmania",10.79
+"2002-04-18",10,"Victoria",15.1
+"2002-04-18",11,"Western Australia",22.92
+"2002-04-19",1,"Ashmore and Cartier Islands",28.38
+"2002-04-19",2,"Australian Capital Territory",14.97
+"2002-04-19",3,"Coral Sea Islands",25.54
+"2002-04-19",4,"Jervis Bay Territory",20.34
+"2002-04-19",5,"New South Wales",18.49
+"2002-04-19",6,"Northern Territory",26.89
+"2002-04-19",7,"Queensland",25.07
+"2002-04-19",8,"South Australia",22.6
+"2002-04-19",9,"Tasmania",14.13
+"2002-04-19",10,"Victoria",14.41
+"2002-04-19",11,"Western Australia",22.47
+"2002-04-20",1,"Ashmore and Cartier Islands",28.64
+"2002-04-20",2,"Australian Capital Territory",14.39
+"2002-04-20",3,"Coral Sea Islands",25.23
+"2002-04-20",4,"Jervis Bay Territory",19.77
+"2002-04-20",5,"New South Wales",18.72
+"2002-04-20",6,"Northern Territory",26.64
+"2002-04-20",7,"Queensland",25.57
+"2002-04-20",8,"South Australia",21.04
+"2002-04-20",9,"Tasmania",14.08
+"2002-04-20",10,"Victoria",15.82
+"2002-04-20",11,"Western Australia",22.96
+"2002-04-21",1,"Ashmore and Cartier Islands",28.68
+"2002-04-21",2,"Australian Capital Territory",14.28
+"2002-04-21",3,"Coral Sea Islands",25.36
+"2002-04-21",4,"Jervis Bay Territory",20.45
+"2002-04-21",5,"New South Wales",19.01
+"2002-04-21",6,"Northern Territory",26.51
+"2002-04-21",7,"Queensland",25.74
+"2002-04-21",8,"South Australia",19.13
+"2002-04-21",9,"Tasmania",12.22
+"2002-04-21",10,"Victoria",14.89
+"2002-04-21",11,"Western Australia",23.01
+"2002-04-22",1,"Ashmore and Cartier Islands",28.7
+"2002-04-22",2,"Australian Capital Territory",14.59
+"2002-04-22",3,"Coral Sea Islands",25.46
+"2002-04-22",4,"Jervis Bay Territory",19.49
+"2002-04-22",5,"New South Wales",19.22
+"2002-04-22",6,"Northern Territory",26.91
+"2002-04-22",7,"Queensland",25.77
+"2002-04-22",8,"South Australia",20.8
+"2002-04-22",9,"Tasmania",12.33
+"2002-04-22",10,"Victoria",14.81
+"2002-04-22",11,"Western Australia",24.35
+"2002-04-23",1,"Ashmore and Cartier Islands",28.89
+"2002-04-23",2,"Australian Capital Territory",14
+"2002-04-23",3,"Coral Sea Islands",25.54
+"2002-04-23",4,"Jervis Bay Territory",19.26
+"2002-04-23",5,"New South Wales",19.66
+"2002-04-23",6,"Northern Territory",26.91
+"2002-04-23",7,"Queensland",25.39
+"2002-04-23",8,"South Australia",22.69
+"2002-04-23",9,"Tasmania",12.55
+"2002-04-23",10,"Victoria",15.89
+"2002-04-23",11,"Western Australia",24.42
+"2002-04-24",1,"Ashmore and Cartier Islands",28.66
+"2002-04-24",2,"Australian Capital Territory",14.26
+"2002-04-24",3,"Coral Sea Islands",25.4
+"2002-04-24",4,"Jervis Bay Territory",18.67
+"2002-04-24",5,"New South Wales",20.44
+"2002-04-24",6,"Northern Territory",26.94
+"2002-04-24",7,"Queensland",25.68
+"2002-04-24",8,"South Australia",24.17
+"2002-04-24",9,"Tasmania",14.68
+"2002-04-24",10,"Victoria",18.79
+"2002-04-24",11,"Western Australia",22.76
+"2002-04-25",1,"Ashmore and Cartier Islands",28.68
+"2002-04-25",2,"Australian Capital Territory",14.32
+"2002-04-25",3,"Coral Sea Islands",25.83
+"2002-04-25",4,"Jervis Bay Territory",20.62
+"2002-04-25",5,"New South Wales",21.02
+"2002-04-25",6,"Northern Territory",27.06
+"2002-04-25",7,"Queensland",26.13
+"2002-04-25",8,"South Australia",20.37
+"2002-04-25",9,"Tasmania",11.92
+"2002-04-25",10,"Victoria",15.76
+"2002-04-25",11,"Western Australia",22.91
+"2002-04-26",1,"Ashmore and Cartier Islands",28.54
+"2002-04-26",2,"Australian Capital Territory",15.06
+"2002-04-26",3,"Coral Sea Islands",25.61
+"2002-04-26",4,"Jervis Bay Territory",18.9
+"2002-04-26",5,"New South Wales",18.46
+"2002-04-26",6,"Northern Territory",26.81
+"2002-04-26",7,"Queensland",25.79
+"2002-04-26",8,"South Australia",18.35
+"2002-04-26",9,"Tasmania",9.95
+"2002-04-26",10,"Victoria",11.42
+"2002-04-26",11,"Western Australia",23.58
+"2002-04-27",1,"Ashmore and Cartier Islands",28.12
+"2002-04-27",2,"Australian Capital Territory",9.59
+"2002-04-27",3,"Coral Sea Islands",25.77
+"2002-04-27",4,"Jervis Bay Territory",16.68
+"2002-04-27",5,"New South Wales",14.97
+"2002-04-27",6,"Northern Territory",26.42
+"2002-04-27",7,"Queensland",25.21
+"2002-04-27",8,"South Australia",17.32
+"2002-04-27",9,"Tasmania",8.36
+"2002-04-27",10,"Victoria",10.42
+"2002-04-27",11,"Western Australia",23.78
+"2002-04-28",1,"Ashmore and Cartier Islands",28.54
+"2002-04-28",2,"Australian Capital Territory",9.33
+"2002-04-28",3,"Coral Sea Islands",25.61
+"2002-04-28",4,"Jervis Bay Territory",16.62
+"2002-04-28",5,"New South Wales",15.36
+"2002-04-28",6,"Northern Territory",26.04
+"2002-04-28",7,"Queensland",24.96
+"2002-04-28",8,"South Australia",17.95
+"2002-04-28",9,"Tasmania",7.59
+"2002-04-28",10,"Victoria",9.99
+"2002-04-28",11,"Western Australia",24.48
+"2002-04-29",1,"Ashmore and Cartier Islands",28.5
+"2002-04-29",2,"Australian Capital Territory",9.83
+"2002-04-29",3,"Coral Sea Islands",25.27
+"2002-04-29",4,"Jervis Bay Territory",16.59
+"2002-04-29",5,"New South Wales",16.42
+"2002-04-29",6,"Northern Territory",25.51
+"2002-04-29",7,"Queensland",24.06
+"2002-04-29",8,"South Australia",18.36
+"2002-04-29",9,"Tasmania",8.66
+"2002-04-29",10,"Victoria",11.69
+"2002-04-29",11,"Western Australia",24.38
+"2002-04-30",1,"Ashmore and Cartier Islands",29.21
+"2002-04-30",2,"Australian Capital Territory",10.15
+"2002-04-30",3,"Coral Sea Islands",24.7
+"2002-04-30",4,"Jervis Bay Territory",17.55
+"2002-04-30",5,"New South Wales",17.07
+"2002-04-30",6,"Northern Territory",25.16
+"2002-04-30",7,"Queensland",23.87
+"2002-04-30",8,"South Australia",18.53
+"2002-04-30",9,"Tasmania",11.49
+"2002-04-30",10,"Victoria",12.35
+"2002-04-30",11,"Western Australia",24.14
+"2002-05-01",1,"Ashmore and Cartier Islands",29.43
+"2002-05-01",2,"Australian Capital Territory",10.21
+"2002-05-01",3,"Coral Sea Islands",24.46
+"2002-05-01",4,"Jervis Bay Territory",16.55
+"2002-05-01",5,"New South Wales",16.64
+"2002-05-01",6,"Northern Territory",25.79
+"2002-05-01",7,"Queensland",23.49
+"2002-05-01",8,"South Australia",19.73
+"2002-05-01",9,"Tasmania",10.04
+"2002-05-01",10,"Victoria",11.96
+"2002-05-01",11,"Western Australia",24.82
+"2002-05-02",1,"Ashmore and Cartier Islands",29.13
+"2002-05-02",2,"Australian Capital Territory",9.67
+"2002-05-02",3,"Coral Sea Islands",24.66
+"2002-05-02",4,"Jervis Bay Territory",17.28
+"2002-05-02",5,"New South Wales",16.44
+"2002-05-02",6,"Northern Territory",25.96
+"2002-05-02",7,"Queensland",22.65
+"2002-05-02",8,"South Australia",20.96
+"2002-05-02",9,"Tasmania",9.94
+"2002-05-02",10,"Victoria",12.66
+"2002-05-02",11,"Western Australia",25.77
+"2002-05-03",1,"Ashmore and Cartier Islands",29.01
+"2002-05-03",2,"Australian Capital Territory",9.99
+"2002-05-03",3,"Coral Sea Islands",24.32
+"2002-05-03",4,"Jervis Bay Territory",16.44
+"2002-05-03",5,"New South Wales",16.65
+"2002-05-03",6,"Northern Territory",24.76
+"2002-05-03",7,"Queensland",22.41
+"2002-05-03",8,"South Australia",21.74
+"2002-05-03",9,"Tasmania",10.92
+"2002-05-03",10,"Victoria",13.2
+"2002-05-03",11,"Western Australia",25.01
+"2002-05-04",1,"Ashmore and Cartier Islands",29.69
+"2002-05-04",2,"Australian Capital Territory",11.14
+"2002-05-04",3,"Coral Sea Islands",24.23
+"2002-05-04",4,"Jervis Bay Territory",16.33
+"2002-05-04",5,"New South Wales",16.78
+"2002-05-04",6,"Northern Territory",24.51
+"2002-05-04",7,"Queensland",22.59
+"2002-05-04",8,"South Australia",21.36
+"2002-05-04",9,"Tasmania",11.89
+"2002-05-04",10,"Victoria",13.81
+"2002-05-04",11,"Western Australia",23.75
+"2002-05-05",1,"Ashmore and Cartier Islands",29.1
+"2002-05-05",2,"Australian Capital Territory",10.14
+"2002-05-05",3,"Coral Sea Islands",25.02
+"2002-05-05",4,"Jervis Bay Territory",16.31
+"2002-05-05",5,"New South Wales",16.64
+"2002-05-05",6,"Northern Territory",24.65
+"2002-05-05",7,"Queensland",22.79
+"2002-05-05",8,"South Australia",20.59
+"2002-05-05",9,"Tasmania",13.88
+"2002-05-05",10,"Victoria",14.37
+"2002-05-05",11,"Western Australia",23.83
+"2002-05-06",1,"Ashmore and Cartier Islands",28.97
+"2002-05-06",2,"Australian Capital Territory",9.91
+"2002-05-06",3,"Coral Sea Islands",24.9
+"2002-05-06",4,"Jervis Bay Territory",18.33
+"2002-05-06",5,"New South Wales",16.92
+"2002-05-06",6,"Northern Territory",24.8
+"2002-05-06",7,"Queensland",23.26
+"2002-05-06",8,"South Australia",20.92
+"2002-05-06",9,"Tasmania",11.22
+"2002-05-06",10,"Victoria",14.22
+"2002-05-06",11,"Western Australia",24.41
+"2002-05-07",1,"Ashmore and Cartier Islands",28.76
+"2002-05-07",2,"Australian Capital Territory",11.37
+"2002-05-07",3,"Coral Sea Islands",24.66
+"2002-05-07",4,"Jervis Bay Territory",17.9
+"2002-05-07",5,"New South Wales",17.11
+"2002-05-07",6,"Northern Territory",25.54
+"2002-05-07",7,"Queensland",23.36
+"2002-05-07",8,"South Australia",21.62
+"2002-05-07",9,"Tasmania",10.69
+"2002-05-07",10,"Victoria",14.9
+"2002-05-07",11,"Western Australia",23.42
+"2002-05-08",1,"Ashmore and Cartier Islands",28.34
+"2002-05-08",2,"Australian Capital Territory",10.74
+"2002-05-08",3,"Coral Sea Islands",24.15
+"2002-05-08",4,"Jervis Bay Territory",19.14
+"2002-05-08",5,"New South Wales",17.08
+"2002-05-08",6,"Northern Territory",25.63
+"2002-05-08",7,"Queensland",23.26
+"2002-05-08",8,"South Australia",21.84
+"2002-05-08",9,"Tasmania",13.65
+"2002-05-08",10,"Victoria",16.21
+"2002-05-08",11,"Western Australia",23.35
+"2002-05-09",1,"Ashmore and Cartier Islands",28.68
+"2002-05-09",2,"Australian Capital Territory",9.35
+"2002-05-09",3,"Coral Sea Islands",24.34
+"2002-05-09",4,"Jervis Bay Territory",17.6
+"2002-05-09",5,"New South Wales",17.48
+"2002-05-09",6,"Northern Territory",25.2
+"2002-05-09",7,"Queensland",23.06
+"2002-05-09",8,"South Australia",20.88
+"2002-05-09",9,"Tasmania",14.23
+"2002-05-09",10,"Victoria",15.06
+"2002-05-09",11,"Western Australia",22.36
+"2002-05-10",1,"Ashmore and Cartier Islands",28.13
+"2002-05-10",2,"Australian Capital Territory",11.97
+"2002-05-10",3,"Coral Sea Islands",24.11
+"2002-05-10",4,"Jervis Bay Territory",18.82
+"2002-05-10",5,"New South Wales",15.39
+"2002-05-10",6,"Northern Territory",24.91
+"2002-05-10",7,"Queensland",23.19
+"2002-05-10",8,"South Australia",17.9
+"2002-05-10",9,"Tasmania",11.37
+"2002-05-10",10,"Victoria",11.71
+"2002-05-10",11,"Western Australia",23.48
+"2002-05-11",1,"Ashmore and Cartier Islands",28.16
+"2002-05-11",2,"Australian Capital Territory",9.11
+"2002-05-11",3,"Coral Sea Islands",23.97
+"2002-05-11",4,"Jervis Bay Territory",17.1
+"2002-05-11",5,"New South Wales",14.09
+"2002-05-11",6,"Northern Territory",23.97
+"2002-05-11",7,"Queensland",22.23
+"2002-05-11",8,"South Australia",18.94
+"2002-05-11",9,"Tasmania",10.38
+"2002-05-11",10,"Victoria",11.6
+"2002-05-11",11,"Western Australia",23.55
+"2002-05-12",1,"Ashmore and Cartier Islands",27.93
+"2002-05-12",2,"Australian Capital Territory",11.56
+"2002-05-12",3,"Coral Sea Islands",23.95
+"2002-05-12",4,"Jervis Bay Territory",16.43
+"2002-05-12",5,"New South Wales",14.93
+"2002-05-12",6,"Northern Territory",23.58
+"2002-05-12",7,"Queensland",21.68
+"2002-05-12",8,"South Australia",20.37
+"2002-05-12",9,"Tasmania",12.75
+"2002-05-12",10,"Victoria",13.51
+"2002-05-12",11,"Western Australia",20.83
+"2002-05-13",1,"Ashmore and Cartier Islands",28.12
+"2002-05-13",2,"Australian Capital Territory",7.06
+"2002-05-13",3,"Coral Sea Islands",23.84
+"2002-05-13",4,"Jervis Bay Territory",16.84
+"2002-05-13",5,"New South Wales",14.68
+"2002-05-13",6,"Northern Territory",23.49
+"2002-05-13",7,"Queensland",21.18
+"2002-05-13",8,"South Australia",17.38
+"2002-05-13",9,"Tasmania",10.67
+"2002-05-13",10,"Victoria",12.05
+"2002-05-13",11,"Western Australia",20.49
+"2002-05-14",1,"Ashmore and Cartier Islands",28.36
+"2002-05-14",2,"Australian Capital Territory",7.94
+"2002-05-14",3,"Coral Sea Islands",23.53
+"2002-05-14",4,"Jervis Bay Territory",17.12
+"2002-05-14",5,"New South Wales",14.11
+"2002-05-14",6,"Northern Territory",23.11
+"2002-05-14",7,"Queensland",21.05
+"2002-05-14",8,"South Australia",16.66
+"2002-05-14",9,"Tasmania",7.69
+"2002-05-14",10,"Victoria",9.38
+"2002-05-14",11,"Western Australia",21.92
+"2002-05-15",1,"Ashmore and Cartier Islands",28.33
+"2002-05-15",2,"Australian Capital Territory",8.77
+"2002-05-15",3,"Coral Sea Islands",23.42
+"2002-05-15",4,"Jervis Bay Territory",16.3
+"2002-05-15",5,"New South Wales",13.84
+"2002-05-15",6,"Northern Territory",23.91
+"2002-05-15",7,"Queensland",20.65
+"2002-05-15",8,"South Australia",19.18
+"2002-05-15",9,"Tasmania",7.55
+"2002-05-15",10,"Victoria",10.35
+"2002-05-15",11,"Western Australia",20.4
+"2002-05-16",1,"Ashmore and Cartier Islands",28.04
+"2002-05-16",2,"Australian Capital Territory",10.04
+"2002-05-16",3,"Coral Sea Islands",23.74
+"2002-05-16",4,"Jervis Bay Territory",16.01
+"2002-05-16",5,"New South Wales",15.2
+"2002-05-16",6,"Northern Territory",23.57
+"2002-05-16",7,"Queensland",21.79
+"2002-05-16",8,"South Australia",16.83
+"2002-05-16",9,"Tasmania",11.5
+"2002-05-16",10,"Victoria",12.94
+"2002-05-16",11,"Western Australia",20.54
+"2002-05-17",1,"Ashmore and Cartier Islands",27.98
+"2002-05-17",2,"Australian Capital Territory",7.05
+"2002-05-17",3,"Coral Sea Islands",23.95
+"2002-05-17",4,"Jervis Bay Territory",14.93
+"2002-05-17",5,"New South Wales",11.71
+"2002-05-17",6,"Northern Territory",22.41
+"2002-05-17",7,"Queensland",20.74
+"2002-05-17",8,"South Australia",14.39
+"2002-05-17",9,"Tasmania",8.71
+"2002-05-17",10,"Victoria",8.93
+"2002-05-17",11,"Western Australia",20.98
+"2002-05-18",1,"Ashmore and Cartier Islands",28.19
+"2002-05-18",2,"Australian Capital Territory",3.07
+"2002-05-18",3,"Coral Sea Islands",24.04
+"2002-05-18",4,"Jervis Bay Territory",13.52
+"2002-05-18",5,"New South Wales",9.56
+"2002-05-18",6,"Northern Territory",23.12
+"2002-05-18",7,"Queensland",19.26
+"2002-05-18",8,"South Australia",16
+"2002-05-18",9,"Tasmania",7.28
+"2002-05-18",10,"Victoria",9.11
+"2002-05-18",11,"Western Australia",19.33
+"2002-05-19",1,"Ashmore and Cartier Islands",27.61
+"2002-05-19",2,"Australian Capital Territory",5.57
+"2002-05-19",3,"Coral Sea Islands",24.1
+"2002-05-19",4,"Jervis Bay Territory",13.78
+"2002-05-19",5,"New South Wales",11.89
+"2002-05-19",6,"Northern Territory",22.81
+"2002-05-19",7,"Queensland",21.48
+"2002-05-19",8,"South Australia",13.39
+"2002-05-19",9,"Tasmania",7.04
+"2002-05-19",10,"Victoria",7.36
+"2002-05-19",11,"Western Australia",18.31
+"2002-05-20",1,"Ashmore and Cartier Islands",27.78
+"2002-05-20",2,"Australian Capital Territory",5.21
+"2002-05-20",3,"Coral Sea Islands",24.52
+"2002-05-20",4,"Jervis Bay Territory",11.77
+"2002-05-20",5,"New South Wales",9.85
+"2002-05-20",6,"Northern Territory",20.36
+"2002-05-20",7,"Queensland",18.63
+"2002-05-20",8,"South Australia",12.07
+"2002-05-20",9,"Tasmania",6.44
+"2002-05-20",10,"Victoria",9.02
+"2002-05-20",11,"Western Australia",18.11
+"2002-05-21",1,"Ashmore and Cartier Islands",27.12
+"2002-05-21",2,"Australian Capital Territory",6.93
+"2002-05-21",3,"Coral Sea Islands",23.55
+"2002-05-21",4,"Jervis Bay Territory",15.36
+"2002-05-21",5,"New South Wales",10.85
+"2002-05-21",6,"Northern Territory",20.44
+"2002-05-21",7,"Queensland",17.18
+"2002-05-21",8,"South Australia",12.18
+"2002-05-21",9,"Tasmania",9.43
+"2002-05-21",10,"Victoria",10.02
+"2002-05-21",11,"Western Australia",18.56
+"2002-05-22",1,"Ashmore and Cartier Islands",27.24
+"2002-05-22",2,"Australian Capital Territory",8.12
+"2002-05-22",3,"Coral Sea Islands",23.54
+"2002-05-22",4,"Jervis Bay Territory",15.65
+"2002-05-22",5,"New South Wales",10.74
+"2002-05-22",6,"Northern Territory",22.88
+"2002-05-22",7,"Queensland",18.03
+"2002-05-22",8,"South Australia",13.78
+"2002-05-22",9,"Tasmania",9.41
+"2002-05-22",10,"Victoria",9.97
+"2002-05-22",11,"Western Australia",17.72
+"2002-05-23",1,"Ashmore and Cartier Islands",27.14
+"2002-05-23",2,"Australian Capital Territory",6.31
+"2002-05-23",3,"Coral Sea Islands",23.73
+"2002-05-23",4,"Jervis Bay Territory",15.03
+"2002-05-23",5,"New South Wales",10.27
+"2002-05-23",6,"Northern Territory",22.7
+"2002-05-23",7,"Queensland",18.83
+"2002-05-23",8,"South Australia",13.42
+"2002-05-23",9,"Tasmania",6.74
+"2002-05-23",10,"Victoria",9.2
+"2002-05-23",11,"Western Australia",17.68
+"2002-05-24",1,"Ashmore and Cartier Islands",27.27
+"2002-05-24",2,"Australian Capital Territory",6.82
+"2002-05-24",3,"Coral Sea Islands",23.5
+"2002-05-24",4,"Jervis Bay Territory",14.68
+"2002-05-24",5,"New South Wales",11.64
+"2002-05-24",6,"Northern Territory",21.33
+"2002-05-24",7,"Queensland",19.5
+"2002-05-24",8,"South Australia",12.13
+"2002-05-24",9,"Tasmania",4.36
+"2002-05-24",10,"Victoria",8.67
+"2002-05-24",11,"Western Australia",18.7
+"2002-05-25",1,"Ashmore and Cartier Islands",27.42
+"2002-05-25",2,"Australian Capital Territory",6.73
+"2002-05-25",3,"Coral Sea Islands",24.21
+"2002-05-25",4,"Jervis Bay Territory",15.29
+"2002-05-25",5,"New South Wales",11.21
+"2002-05-25",6,"Northern Territory",20.49
+"2002-05-25",7,"Queensland",18.35
+"2002-05-25",8,"South Australia",12.16
+"2002-05-25",9,"Tasmania",5.74
+"2002-05-25",10,"Victoria",8.26
+"2002-05-25",11,"Western Australia",18.72
+"2002-05-26",1,"Ashmore and Cartier Islands",27.16
+"2002-05-26",2,"Australian Capital Territory",6.71
+"2002-05-26",3,"Coral Sea Islands",24.26
+"2002-05-26",4,"Jervis Bay Territory",14.6
+"2002-05-26",5,"New South Wales",11.24
+"2002-05-26",6,"Northern Territory",18.61
+"2002-05-26",7,"Queensland",17.64
+"2002-05-26",8,"South Australia",12.08
+"2002-05-26",9,"Tasmania",5.58
+"2002-05-26",10,"Victoria",7.2
+"2002-05-26",11,"Western Australia",18.33
+"2002-05-27",1,"Ashmore and Cartier Islands",27.58
+"2002-05-27",2,"Australian Capital Territory",3.94
+"2002-05-27",3,"Coral Sea Islands",24.38
+"2002-05-27",4,"Jervis Bay Territory",12.88
+"2002-05-27",5,"New South Wales",10.28
+"2002-05-27",6,"Northern Territory",17.24
+"2002-05-27",7,"Queensland",17.57
+"2002-05-27",8,"South Australia",11.83
+"2002-05-27",9,"Tasmania",5.85
+"2002-05-27",10,"Victoria",6.34
+"2002-05-27",11,"Western Australia",17.37
+"2002-05-28",1,"Ashmore and Cartier Islands",28.19
+"2002-05-28",2,"Australian Capital Territory",4
+"2002-05-28",3,"Coral Sea Islands",24.08
+"2002-05-28",4,"Jervis Bay Territory",14.17
+"2002-05-28",5,"New South Wales",9.95
+"2002-05-28",6,"Northern Territory",16.72
+"2002-05-28",7,"Queensland",17.16
+"2002-05-28",8,"South Australia",11.28
+"2002-05-28",9,"Tasmania",6.32
+"2002-05-28",10,"Victoria",6.27
+"2002-05-28",11,"Western Australia",16.7
+"2002-05-29",1,"Ashmore and Cartier Islands",27.73
+"2002-05-29",2,"Australian Capital Territory",4.2
+"2002-05-29",3,"Coral Sea Islands",23.64
+"2002-05-29",4,"Jervis Bay Territory",13.1
+"2002-05-29",5,"New South Wales",8.86
+"2002-05-29",6,"Northern Territory",16.69
+"2002-05-29",7,"Queensland",16.73
+"2002-05-29",8,"South Australia",11.21
+"2002-05-29",9,"Tasmania",6.3
+"2002-05-29",10,"Victoria",5.86
+"2002-05-29",11,"Western Australia",16.37
+"2002-05-30",1,"Ashmore and Cartier Islands",27.23
+"2002-05-30",2,"Australian Capital Territory",4.23
+"2002-05-30",3,"Coral Sea Islands",23.29
+"2002-05-30",4,"Jervis Bay Territory",13.55
+"2002-05-30",5,"New South Wales",7.93
+"2002-05-30",6,"Northern Territory",16.09
+"2002-05-30",7,"Queensland",15.68
+"2002-05-30",8,"South Australia",11.7
+"2002-05-30",9,"Tasmania",5.96
+"2002-05-30",10,"Victoria",6.39
+"2002-05-30",11,"Western Australia",15.78
+"2002-05-31",1,"Ashmore and Cartier Islands",26.8
+"2002-05-31",2,"Australian Capital Territory",3.34
+"2002-05-31",3,"Coral Sea Islands",21.78
+"2002-05-31",4,"Jervis Bay Territory",13.4
+"2002-05-31",5,"New South Wales",8.52
+"2002-05-31",6,"Northern Territory",16.37
+"2002-05-31",7,"Queensland",14.85
+"2002-05-31",8,"South Australia",12.27
+"2002-05-31",9,"Tasmania",7.52
+"2002-05-31",10,"Victoria",6.42
+"2002-05-31",11,"Western Australia",15.94
+"2002-06-01",1,"Ashmore and Cartier Islands",26.66
+"2002-06-01",2,"Australian Capital Territory",4.05
+"2002-06-01",3,"Coral Sea Islands",21.86
+"2002-06-01",4,"Jervis Bay Territory",14.24
+"2002-06-01",5,"New South Wales",8.63
+"2002-06-01",6,"Northern Territory",15.91
+"2002-06-01",7,"Queensland",14.84
+"2002-06-01",8,"South Australia",11.1
+"2002-06-01",9,"Tasmania",6.79
+"2002-06-01",10,"Victoria",7.43
+"2002-06-01",11,"Western Australia",15.73
+"2002-06-02",1,"Ashmore and Cartier Islands",26.58
+"2002-06-02",2,"Australian Capital Territory",4.67
+"2002-06-02",3,"Coral Sea Islands",21.79
+"2002-06-02",4,"Jervis Bay Territory",14.43
+"2002-06-02",5,"New South Wales",9.35
+"2002-06-02",6,"Northern Territory",15.26
+"2002-06-02",7,"Queensland",14.38
+"2002-06-02",8,"South Australia",10.63
+"2002-06-02",9,"Tasmania",9.91
+"2002-06-02",10,"Victoria",5.6
+"2002-06-02",11,"Western Australia",16.06
+"2002-06-03",1,"Ashmore and Cartier Islands",26.5
+"2002-06-03",2,"Australian Capital Territory",5.69
+"2002-06-03",3,"Coral Sea Islands",23.39
+"2002-06-03",4,"Jervis Bay Territory",13.57
+"2002-06-03",5,"New South Wales",10.18
+"2002-06-03",6,"Northern Territory",14.73
+"2002-06-03",7,"Queensland",14.77
+"2002-06-03",8,"South Australia",10.34
+"2002-06-03",9,"Tasmania",10.44
+"2002-06-03",10,"Victoria",5.99
+"2002-06-03",11,"Western Australia",16.49
+"2002-06-04",1,"Ashmore and Cartier Islands",25.8
+"2002-06-04",2,"Australian Capital Territory",5.78
+"2002-06-04",3,"Coral Sea Islands",23.23
+"2002-06-04",4,"Jervis Bay Territory",13.94
+"2002-06-04",5,"New South Wales",10.76
+"2002-06-04",6,"Northern Territory",16.19
+"2002-06-04",7,"Queensland",16.41
+"2002-06-04",8,"South Australia",12.41
+"2002-06-04",9,"Tasmania",10.26
+"2002-06-04",10,"Victoria",6.9
+"2002-06-04",11,"Western Australia",16.19
+"2002-06-05",1,"Ashmore and Cartier Islands",26.33
+"2002-06-05",2,"Australian Capital Territory",5.75
+"2002-06-05",3,"Coral Sea Islands",23.63
+"2002-06-05",4,"Jervis Bay Territory",13.81
+"2002-06-05",5,"New South Wales",11.34
+"2002-06-05",6,"Northern Territory",17.7
+"2002-06-05",7,"Queensland",18.09
+"2002-06-05",8,"South Australia",14.66
+"2002-06-05",9,"Tasmania",11.05
+"2002-06-05",10,"Victoria",7.32
+"2002-06-05",11,"Western Australia",15.72
+"2002-06-06",1,"Ashmore and Cartier Islands",26.14
+"2002-06-06",2,"Australian Capital Territory",5.6
+"2002-06-06",3,"Coral Sea Islands",23.8
+"2002-06-06",4,"Jervis Bay Territory",14.69
+"2002-06-06",5,"New South Wales",13.52
+"2002-06-06",6,"Northern Territory",18.54
+"2002-06-06",7,"Queensland",20.11
+"2002-06-06",8,"South Australia",15.76
+"2002-06-06",9,"Tasmania",9.79
+"2002-06-06",10,"Victoria",11.1
+"2002-06-06",11,"Western Australia",14.3
+"2002-06-07",1,"Ashmore and Cartier Islands",25.97
+"2002-06-07",2,"Australian Capital Territory",11.35
+"2002-06-07",3,"Coral Sea Islands",24.12
+"2002-06-07",4,"Jervis Bay Territory",17.21
+"2002-06-07",5,"New South Wales",16.44
+"2002-06-07",6,"Northern Territory",19.78
+"2002-06-07",7,"Queensland",21.79
+"2002-06-07",8,"South Australia",13.72
+"2002-06-07",9,"Tasmania",11.97
+"2002-06-07",10,"Victoria",12.36
+"2002-06-07",11,"Western Australia",14.15
+"2002-06-08",1,"Ashmore and Cartier Islands",26.64
+"2002-06-08",2,"Australian Capital Territory",6.38
+"2002-06-08",3,"Coral Sea Islands",24.52
+"2002-06-08",4,"Jervis Bay Territory",15.61
+"2002-06-08",5,"New South Wales",12.49
+"2002-06-08",6,"Northern Territory",19.89
+"2002-06-08",7,"Queensland",21.74
+"2002-06-08",8,"South Australia",11.29
+"2002-06-08",9,"Tasmania",5.99
+"2002-06-08",10,"Victoria",7.57
+"2002-06-08",11,"Western Australia",13
+"2002-06-09",1,"Ashmore and Cartier Islands",27.08
+"2002-06-09",2,"Australian Capital Territory",5.76
+"2002-06-09",3,"Coral Sea Islands",24.1
+"2002-06-09",4,"Jervis Bay Territory",14.41
+"2002-06-09",5,"New South Wales",10.25
+"2002-06-09",6,"Northern Territory",17.36
+"2002-06-09",7,"Queensland",16.85
+"2002-06-09",8,"South Australia",12.38
+"2002-06-09",9,"Tasmania",9.19
+"2002-06-09",10,"Victoria",9.7
+"2002-06-09",11,"Western Australia",13.75
+"2002-06-10",1,"Ashmore and Cartier Islands",27.63
+"2002-06-10",2,"Australian Capital Territory",8.27
+"2002-06-10",3,"Coral Sea Islands",23.04
+"2002-06-10",4,"Jervis Bay Territory",15.95
+"2002-06-10",5,"New South Wales",12.2
+"2002-06-10",6,"Northern Territory",16.41
+"2002-06-10",7,"Queensland",16.18
+"2002-06-10",8,"South Australia",12.16
+"2002-06-10",9,"Tasmania",8.24
+"2002-06-10",10,"Victoria",11.72
+"2002-06-10",11,"Western Australia",15.41
+"2002-06-11",1,"Ashmore and Cartier Islands",27.14
+"2002-06-11",2,"Australian Capital Territory",7.87
+"2002-06-11",3,"Coral Sea Islands",23.14
+"2002-06-11",4,"Jervis Bay Territory",15.08
+"2002-06-11",5,"New South Wales",11.13
+"2002-06-11",6,"Northern Territory",17.44
+"2002-06-11",7,"Queensland",16.4
+"2002-06-11",8,"South Australia",12.9
+"2002-06-11",9,"Tasmania",10.03
+"2002-06-11",10,"Victoria",11.05
+"2002-06-11",11,"Western Australia",16.74
+"2002-06-12",1,"Ashmore and Cartier Islands",26.79
+"2002-06-12",2,"Australian Capital Territory",7.31
+"2002-06-12",3,"Coral Sea Islands",23.95
+"2002-06-12",4,"Jervis Bay Territory",15.09
+"2002-06-12",5,"New South Wales",11.13
+"2002-06-12",6,"Northern Territory",18.24
+"2002-06-12",7,"Queensland",16.67
+"2002-06-12",8,"South Australia",14.93
+"2002-06-12",9,"Tasmania",10.47
+"2002-06-12",10,"Victoria",11.08
+"2002-06-12",11,"Western Australia",16.32
+"2002-06-13",1,"Ashmore and Cartier Islands",26.85
+"2002-06-13",2,"Australian Capital Territory",6
+"2002-06-13",3,"Coral Sea Islands",24.17
+"2002-06-13",4,"Jervis Bay Territory",15.03
+"2002-06-13",5,"New South Wales",12.64
+"2002-06-13",6,"Northern Territory",19.39
+"2002-06-13",7,"Queensland",18.5
+"2002-06-13",8,"South Australia",12.8
+"2002-06-13",9,"Tasmania",7.39
+"2002-06-13",10,"Victoria",9.09
+"2002-06-13",11,"Western Australia",18.59
+"2002-06-14",1,"Ashmore and Cartier Islands",26.82
+"2002-06-14",2,"Australian Capital Territory",5.59
+"2002-06-14",3,"Coral Sea Islands",24.12
+"2002-06-14",4,"Jervis Bay Territory",13.76
+"2002-06-14",5,"New South Wales",10.18
+"2002-06-14",6,"Northern Territory",20.51
+"2002-06-14",7,"Queensland",18.22
+"2002-06-14",8,"South Australia",16.32
+"2002-06-14",9,"Tasmania",6.34
+"2002-06-14",10,"Victoria",8.26
+"2002-06-14",11,"Western Australia",18.16
+"2002-06-15",1,"Ashmore and Cartier Islands",26.31
+"2002-06-15",2,"Australian Capital Territory",7.33
+"2002-06-15",3,"Coral Sea Islands",24.95
+"2002-06-15",4,"Jervis Bay Territory",14.83
+"2002-06-15",5,"New South Wales",13.41
+"2002-06-15",6,"Northern Territory",22.13
+"2002-06-15",7,"Queensland",22.05
+"2002-06-15",8,"South Australia",14.39
+"2002-06-15",9,"Tasmania",7.72
+"2002-06-15",10,"Victoria",9.41
+"2002-06-15",11,"Western Australia",15.29
+"2002-06-16",1,"Ashmore and Cartier Islands",26.31
+"2002-06-16",2,"Australian Capital Territory",7.38
+"2002-06-16",3,"Coral Sea Islands",25.21
+"2002-06-16",4,"Jervis Bay Territory",16.86
+"2002-06-16",5,"New South Wales",13.82
+"2002-06-16",6,"Northern Territory",19.44
+"2002-06-16",7,"Queensland",22.68
+"2002-06-16",8,"South Australia",12.7
+"2002-06-16",9,"Tasmania",6.11
+"2002-06-16",10,"Victoria",8.4
+"2002-06-16",11,"Western Australia",12.68
+"2002-06-17",1,"Ashmore and Cartier Islands",26.69
+"2002-06-17",2,"Australian Capital Territory",4.86
+"2002-06-17",3,"Coral Sea Islands",24.75
+"2002-06-17",4,"Jervis Bay Territory",14.26
+"2002-06-17",5,"New South Wales",10.54
+"2002-06-17",6,"Northern Territory",17.23
+"2002-06-17",7,"Queensland",18.72
+"2002-06-17",8,"South Australia",11.3
+"2002-06-17",9,"Tasmania",5.5
+"2002-06-17",10,"Victoria",7.69
+"2002-06-17",11,"Western Australia",13.24
+"2002-06-18",1,"Ashmore and Cartier Islands",26.74
+"2002-06-18",2,"Australian Capital Territory",4.73
+"2002-06-18",3,"Coral Sea Islands",23.53
+"2002-06-18",4,"Jervis Bay Territory",12.51
+"2002-06-18",5,"New South Wales",8.65
+"2002-06-18",6,"Northern Territory",15.97
+"2002-06-18",7,"Queensland",15.23
+"2002-06-18",8,"South Australia",9.78
+"2002-06-18",9,"Tasmania",4.64
+"2002-06-18",10,"Victoria",6.04
+"2002-06-18",11,"Western Australia",15.02
+"2002-06-19",1,"Ashmore and Cartier Islands",27.07
+"2002-06-19",2,"Australian Capital Territory",4.61
+"2002-06-19",3,"Coral Sea Islands",21.15
+"2002-06-19",4,"Jervis Bay Territory",13.4
+"2002-06-19",5,"New South Wales",8.58
+"2002-06-19",6,"Northern Territory",15.13
+"2002-06-19",7,"Queensland",14.23
+"2002-06-19",8,"South Australia",9.94
+"2002-06-19",9,"Tasmania",3.9
+"2002-06-19",10,"Victoria",4.23
+"2002-06-19",11,"Western Australia",15.47
+"2002-06-20",1,"Ashmore and Cartier Islands",25.93
+"2002-06-20",2,"Australian Capital Territory",3.13
+"2002-06-20",3,"Coral Sea Islands",22.58
+"2002-06-20",4,"Jervis Bay Territory",12.93
+"2002-06-20",5,"New South Wales",8.34
+"2002-06-20",6,"Northern Territory",14.56
+"2002-06-20",7,"Queensland",14.64
+"2002-06-20",8,"South Australia",10.96
+"2002-06-20",9,"Tasmania",8.7
+"2002-06-20",10,"Victoria",8.48
+"2002-06-20",11,"Western Australia",14.04
+"2002-06-21",1,"Ashmore and Cartier Islands",25.89
+"2002-06-21",2,"Australian Capital Territory",4.49
+"2002-06-21",3,"Coral Sea Islands",22.5
+"2002-06-21",4,"Jervis Bay Territory",13.63
+"2002-06-21",5,"New South Wales",8.49
+"2002-06-21",6,"Northern Territory",15.18
+"2002-06-21",7,"Queensland",14.99
+"2002-06-21",8,"South Australia",10.34
+"2002-06-21",9,"Tasmania",7.45
+"2002-06-21",10,"Victoria",6.67
+"2002-06-21",11,"Western Australia",13.79
+"2002-06-22",1,"Ashmore and Cartier Islands",25.43
+"2002-06-22",2,"Australian Capital Territory",5.86
+"2002-06-22",3,"Coral Sea Islands",22.74
+"2002-06-22",4,"Jervis Bay Territory",13.5
+"2002-06-22",5,"New South Wales",8.47
+"2002-06-22",6,"Northern Territory",14.98
+"2002-06-22",7,"Queensland",14.92
+"2002-06-22",8,"South Australia",10
+"2002-06-22",9,"Tasmania",8.41
+"2002-06-22",10,"Victoria",9.27
+"2002-06-22",11,"Western Australia",14.26
+"2002-06-23",1,"Ashmore and Cartier Islands",25.8
+"2002-06-23",2,"Australian Capital Territory",5.29
+"2002-06-23",3,"Coral Sea Islands",23.04
+"2002-06-23",4,"Jervis Bay Territory",13.05
+"2002-06-23",5,"New South Wales",8.1
+"2002-06-23",6,"Northern Territory",14.56
+"2002-06-23",7,"Queensland",14.83
+"2002-06-23",8,"South Australia",10.05
+"2002-06-23",9,"Tasmania",9.1
+"2002-06-23",10,"Victoria",7.47
+"2002-06-23",11,"Western Australia",13.74
+"2002-06-24",1,"Ashmore and Cartier Islands",25.66
+"2002-06-24",2,"Australian Capital Territory",3.27
+"2002-06-24",3,"Coral Sea Islands",23.14
+"2002-06-24",4,"Jervis Bay Territory",11.83
+"2002-06-24",5,"New South Wales",8.2
+"2002-06-24",6,"Northern Territory",14.9
+"2002-06-24",7,"Queensland",15.39
+"2002-06-24",8,"South Australia",9.42
+"2002-06-24",9,"Tasmania",10.81
+"2002-06-24",10,"Victoria",8.66
+"2002-06-24",11,"Western Australia",14.18
+"2002-06-25",1,"Ashmore and Cartier Islands",25.26
+"2002-06-25",2,"Australian Capital Territory",4.99
+"2002-06-25",3,"Coral Sea Islands",23.27
+"2002-06-25",4,"Jervis Bay Territory",14.2
+"2002-06-25",5,"New South Wales",8.9
+"2002-06-25",6,"Northern Territory",15.27
+"2002-06-25",7,"Queensland",16.9
+"2002-06-25",8,"South Australia",10.23
+"2002-06-25",9,"Tasmania",8.73
+"2002-06-25",10,"Victoria",8.61
+"2002-06-25",11,"Western Australia",13.61
+"2002-06-26",1,"Ashmore and Cartier Islands",25.74
+"2002-06-26",2,"Australian Capital Territory",4.68
+"2002-06-26",3,"Coral Sea Islands",22.91
+"2002-06-26",4,"Jervis Bay Territory",13.44
+"2002-06-26",5,"New South Wales",8.18
+"2002-06-26",6,"Northern Territory",15.86
+"2002-06-26",7,"Queensland",17.3
+"2002-06-26",8,"South Australia",10
+"2002-06-26",9,"Tasmania",6
+"2002-06-26",10,"Victoria",5.5
+"2002-06-26",11,"Western Australia",14.54
+"2002-06-27",1,"Ashmore and Cartier Islands",26.01
+"2002-06-27",2,"Australian Capital Territory",1.79
+"2002-06-27",3,"Coral Sea Islands",22.51
+"2002-06-27",4,"Jervis Bay Territory",11.59
+"2002-06-27",5,"New South Wales",7.4
+"2002-06-27",6,"Northern Territory",15.98
+"2002-06-27",7,"Queensland",15.69
+"2002-06-27",8,"South Australia",11.51
+"2002-06-27",9,"Tasmania",8.29
+"2002-06-27",10,"Victoria",7.14
+"2002-06-27",11,"Western Australia",14.11
+"2002-06-28",1,"Ashmore and Cartier Islands",25.82
+"2002-06-28",2,"Australian Capital Territory",2.14
+"2002-06-28",3,"Coral Sea Islands",21.65
+"2002-06-28",4,"Jervis Bay Territory",11.17
+"2002-06-28",5,"New South Wales",7.59
+"2002-06-28",6,"Northern Territory",16.05
+"2002-06-28",7,"Queensland",14.53
+"2002-06-28",8,"South Australia",9.53
+"2002-06-28",9,"Tasmania",5.04
+"2002-06-28",10,"Victoria",5.88
+"2002-06-28",11,"Western Australia",13.89
+"2002-06-29",1,"Ashmore and Cartier Islands",26.1
+"2002-06-29",2,"Australian Capital Territory",2.15
+"2002-06-29",3,"Coral Sea Islands",19.59
+"2002-06-29",4,"Jervis Bay Territory",11.74
+"2002-06-29",5,"New South Wales",6.08
+"2002-06-29",6,"Northern Territory",12.81
+"2002-06-29",7,"Queensland",11.68
+"2002-06-29",8,"South Australia",7.13
+"2002-06-29",9,"Tasmania",6.04
+"2002-06-29",10,"Victoria",5.98
+"2002-06-29",11,"Western Australia",13.8
+"2002-06-30",1,"Ashmore and Cartier Islands",25.88
+"2002-06-30",2,"Australian Capital Territory",2.4
+"2002-06-30",3,"Coral Sea Islands",20.51
+"2002-06-30",4,"Jervis Bay Territory",12.92
+"2002-06-30",5,"New South Wales",5.6
+"2002-06-30",6,"Northern Territory",11.4
+"2002-06-30",7,"Queensland",11.54
+"2002-06-30",8,"South Australia",6.83
+"2002-06-30",9,"Tasmania",4.41
+"2002-06-30",10,"Victoria",3.74
+"2002-06-30",11,"Western Australia",13.4
+"2002-07-01",1,"Ashmore and Cartier Islands",25.02
+"2002-07-01",2,"Australian Capital Territory",0.88
+"2002-07-01",3,"Coral Sea Islands",21.82
+"2002-07-01",4,"Jervis Bay Territory",11.65
+"2002-07-01",5,"New South Wales",5.38
+"2002-07-01",6,"Northern Territory",12.68
+"2002-07-01",7,"Queensland",12.11
+"2002-07-01",8,"South Australia",7.08
+"2002-07-01",9,"Tasmania",7.51
+"2002-07-01",10,"Victoria",5.71
+"2002-07-01",11,"Western Australia",14.7
+"2002-07-02",1,"Ashmore and Cartier Islands",25.05
+"2002-07-02",2,"Australian Capital Territory",1.6
+"2002-07-02",3,"Coral Sea Islands",22.34
+"2002-07-02",4,"Jervis Bay Territory",10.43
+"2002-07-02",5,"New South Wales",5.96
+"2002-07-02",6,"Northern Territory",13.81
+"2002-07-02",7,"Queensland",13.15
+"2002-07-02",8,"South Australia",9.86
+"2002-07-02",9,"Tasmania",6.6
+"2002-07-02",10,"Victoria",5.13
+"2002-07-02",11,"Western Australia",13.86
+"2002-07-03",1,"Ashmore and Cartier Islands",25.64
+"2002-07-03",2,"Australian Capital Territory",3.62
+"2002-07-03",3,"Coral Sea Islands",21.99
+"2002-07-03",4,"Jervis Bay Territory",13.1
+"2002-07-03",5,"New South Wales",8.89
+"2002-07-03",6,"Northern Territory",16.25
+"2002-07-03",7,"Queensland",14.89
+"2002-07-03",8,"South Australia",11.73
+"2002-07-03",9,"Tasmania",7.26
+"2002-07-03",10,"Victoria",6.82
+"2002-07-03",11,"Western Australia",13.08
+"2002-07-04",1,"Ashmore and Cartier Islands",25.86
+"2002-07-04",2,"Australian Capital Territory",3.35
+"2002-07-04",3,"Coral Sea Islands",22.87
+"2002-07-04",4,"Jervis Bay Territory",11.87
+"2002-07-04",5,"New South Wales",8.99
+"2002-07-04",6,"Northern Territory",14.88
+"2002-07-04",7,"Queensland",14.42
+"2002-07-04",8,"South Australia",10.47
+"2002-07-04",9,"Tasmania",5.53
+"2002-07-04",10,"Victoria",8.26
+"2002-07-04",11,"Western Australia",13.09
+"2002-07-05",1,"Ashmore and Cartier Islands",25.87
+"2002-07-05",2,"Australian Capital Territory",6.45
+"2002-07-05",3,"Coral Sea Islands",20.96
+"2002-07-05",4,"Jervis Bay Territory",14.1
+"2002-07-05",5,"New South Wales",11.31
+"2002-07-05",6,"Northern Territory",14.03
+"2002-07-05",7,"Queensland",13.52
+"2002-07-05",8,"South Australia",11.81
+"2002-07-05",9,"Tasmania",7.52
+"2002-07-05",10,"Victoria",9.82
+"2002-07-05",11,"Western Australia",12.98
+"2002-07-06",1,"Ashmore and Cartier Islands",25.79
+"2002-07-06",2,"Australian Capital Territory",4.03
+"2002-07-06",3,"Coral Sea Islands",20.93
+"2002-07-06",4,"Jervis Bay Territory",12.09
+"2002-07-06",5,"New South Wales",9.47
+"2002-07-06",6,"Northern Territory",15.19
+"2002-07-06",7,"Queensland",14.19
+"2002-07-06",8,"South Australia",9.69
+"2002-07-06",9,"Tasmania",5.42
+"2002-07-06",10,"Victoria",7.64
+"2002-07-06",11,"Western Australia",13.16
+"2002-07-07",1,"Ashmore and Cartier Islands",24.89
+"2002-07-07",2,"Australian Capital Territory",6.05
+"2002-07-07",3,"Coral Sea Islands",21.25
+"2002-07-07",4,"Jervis Bay Territory",14.01
+"2002-07-07",5,"New South Wales",9.85
+"2002-07-07",6,"Northern Territory",13.88
+"2002-07-07",7,"Queensland",13.69
+"2002-07-07",8,"South Australia",9.6
+"2002-07-07",9,"Tasmania",8.13
+"2002-07-07",10,"Victoria",8.23
+"2002-07-07",11,"Western Australia",15.12
+"2002-07-08",1,"Ashmore and Cartier Islands",24.85
+"2002-07-08",2,"Australian Capital Territory",5.4
+"2002-07-08",3,"Coral Sea Islands",22.13
+"2002-07-08",4,"Jervis Bay Territory",12.13
+"2002-07-08",5,"New South Wales",8.74
+"2002-07-08",6,"Northern Territory",14.12
+"2002-07-08",7,"Queensland",13.7
+"2002-07-08",8,"South Australia",11.39
+"2002-07-08",9,"Tasmania",10.41
+"2002-07-08",10,"Victoria",8.2
+"2002-07-08",11,"Western Australia",15.21
+"2002-07-09",1,"Ashmore and Cartier Islands",24.96
+"2002-07-09",2,"Australian Capital Territory",5.51
+"2002-07-09",3,"Coral Sea Islands",22.14
+"2002-07-09",4,"Jervis Bay Territory",14.59
+"2002-07-09",5,"New South Wales",9.97
+"2002-07-09",6,"Northern Territory",15.36
+"2002-07-09",7,"Queensland",15.19
+"2002-07-09",8,"South Australia",11.87
+"2002-07-09",9,"Tasmania",7.88
+"2002-07-09",10,"Victoria",9.62
+"2002-07-09",11,"Western Australia",14.18
+"2002-07-10",1,"Ashmore and Cartier Islands",25.65
+"2002-07-10",2,"Australian Capital Territory",3.74
+"2002-07-10",3,"Coral Sea Islands",22.1
+"2002-07-10",4,"Jervis Bay Territory",12.51
+"2002-07-10",5,"New South Wales",7.78
+"2002-07-10",6,"Northern Territory",15.91
+"2002-07-10",7,"Queensland",15.8
+"2002-07-10",8,"South Australia",10.42
+"2002-07-10",9,"Tasmania",7.42
+"2002-07-10",10,"Victoria",4.5
+"2002-07-10",11,"Western Australia",14.86
+"2002-07-11",1,"Ashmore and Cartier Islands",25.51
+"2002-07-11",2,"Australian Capital Territory",1.02
+"2002-07-11",3,"Coral Sea Islands",21.97
+"2002-07-11",4,"Jervis Bay Territory",12.08
+"2002-07-11",5,"New South Wales",6.56
+"2002-07-11",6,"Northern Territory",15.89
+"2002-07-11",7,"Queensland",15.5
+"2002-07-11",8,"South Australia",13.43
+"2002-07-11",9,"Tasmania",6.16
+"2002-07-11",10,"Victoria",4.59
+"2002-07-11",11,"Western Australia",14.69
+"2002-07-12",1,"Ashmore and Cartier Islands",24.96
+"2002-07-12",2,"Australian Capital Territory",2.33
+"2002-07-12",3,"Coral Sea Islands",22.1
+"2002-07-12",4,"Jervis Bay Territory",12.99
+"2002-07-12",5,"New South Wales",8.54
+"2002-07-12",6,"Northern Territory",16.09
+"2002-07-12",7,"Queensland",16.02
+"2002-07-12",8,"South Australia",12.64
+"2002-07-12",9,"Tasmania",7.8
+"2002-07-12",10,"Victoria",7.12
+"2002-07-12",11,"Western Australia",14.56
+"2002-07-13",1,"Ashmore and Cartier Islands",25.16
+"2002-07-13",2,"Australian Capital Territory",4.56
+"2002-07-13",3,"Coral Sea Islands",21.89
+"2002-07-13",4,"Jervis Bay Territory",12.51
+"2002-07-13",5,"New South Wales",10.3
+"2002-07-13",6,"Northern Territory",16.91
+"2002-07-13",7,"Queensland",16.85
+"2002-07-13",8,"South Australia",11.09
+"2002-07-13",9,"Tasmania",8.71
+"2002-07-13",10,"Victoria",10.22
+"2002-07-13",11,"Western Australia",11.07
+"2002-07-14",1,"Ashmore and Cartier Islands",25.1
+"2002-07-14",2,"Australian Capital Territory",3.54
+"2002-07-14",3,"Coral Sea Islands",22.14
+"2002-07-14",4,"Jervis Bay Territory",12.42
+"2002-07-14",5,"New South Wales",8.3
+"2002-07-14",6,"Northern Territory",14.58
+"2002-07-14",7,"Queensland",15.12
+"2002-07-14",8,"South Australia",8.22
+"2002-07-14",9,"Tasmania",7.4
+"2002-07-14",10,"Victoria",5.98
+"2002-07-14",11,"Western Australia",10.99
+"2002-07-15",1,"Ashmore and Cartier Islands",25.5
+"2002-07-15",2,"Australian Capital Territory",3.16
+"2002-07-15",3,"Coral Sea Islands",21.71
+"2002-07-15",4,"Jervis Bay Territory",13.15
+"2002-07-15",5,"New South Wales",7.25
+"2002-07-15",6,"Northern Territory",13.4
+"2002-07-15",7,"Queensland",13.29
+"2002-07-15",8,"South Australia",8.49
+"2002-07-15",9,"Tasmania",7.92
+"2002-07-15",10,"Victoria",6.39
+"2002-07-15",11,"Western Australia",12.45
+"2002-07-16",1,"Ashmore and Cartier Islands",25.43
+"2002-07-16",2,"Australian Capital Territory",2.21
+"2002-07-16",3,"Coral Sea Islands",21.36
+"2002-07-16",4,"Jervis Bay Territory",12.18
+"2002-07-16",5,"New South Wales",7.56
+"2002-07-16",6,"Northern Territory",13.03
+"2002-07-16",7,"Queensland",13.72
+"2002-07-16",8,"South Australia",9.69
+"2002-07-16",9,"Tasmania",8.75
+"2002-07-16",10,"Victoria",7.48
+"2002-07-16",11,"Western Australia",12.78
+"2002-07-17",1,"Ashmore and Cartier Islands",25.55
+"2002-07-17",2,"Australian Capital Territory",4.49
+"2002-07-17",3,"Coral Sea Islands",21.99
+"2002-07-17",4,"Jervis Bay Territory",12.73
+"2002-07-17",5,"New South Wales",9
+"2002-07-17",6,"Northern Territory",13.52
+"2002-07-17",7,"Queensland",14.24
+"2002-07-17",8,"South Australia",10.01
+"2002-07-17",9,"Tasmania",4.92
+"2002-07-17",10,"Victoria",6.59
+"2002-07-17",11,"Western Australia",13.79
+"2002-07-18",1,"Ashmore and Cartier Islands",24.44
+"2002-07-18",2,"Australian Capital Territory",2.68
+"2002-07-18",3,"Coral Sea Islands",21.86
+"2002-07-18",4,"Jervis Bay Territory",12.46
+"2002-07-18",5,"New South Wales",7.64
+"2002-07-18",6,"Northern Territory",14.52
+"2002-07-18",7,"Queensland",15
+"2002-07-18",8,"South Australia",10.65
+"2002-07-18",9,"Tasmania",9.63
+"2002-07-18",10,"Victoria",8.93
+"2002-07-18",11,"Western Australia",14.61
+"2002-07-19",1,"Ashmore and Cartier Islands",25.37
+"2002-07-19",2,"Australian Capital Territory",4.34
+"2002-07-19",3,"Coral Sea Islands",22.72
+"2002-07-19",4,"Jervis Bay Territory",11.95
+"2002-07-19",5,"New South Wales",8.59
+"2002-07-19",6,"Northern Territory",15.38
+"2002-07-19",7,"Queensland",15.47
+"2002-07-19",8,"South Australia",11.81
+"2002-07-19",9,"Tasmania",11.65
+"2002-07-19",10,"Victoria",8.61
+"2002-07-19",11,"Western Australia",15.7
+"2002-07-20",1,"Ashmore and Cartier Islands",26.15
+"2002-07-20",2,"Australian Capital Territory",5.36
+"2002-07-20",3,"Coral Sea Islands",22.13
+"2002-07-20",4,"Jervis Bay Territory",14.92
+"2002-07-20",5,"New South Wales",10.52
+"2002-07-20",6,"Northern Territory",17.32
+"2002-07-20",7,"Queensland",16.83
+"2002-07-20",8,"South Australia",12.04
+"2002-07-20",9,"Tasmania",7.99
+"2002-07-20",10,"Victoria",9.68
+"2002-07-20",11,"Western Australia",15.62
+"2002-07-21",1,"Ashmore and Cartier Islands",26.36
+"2002-07-21",2,"Australian Capital Territory",2.78
+"2002-07-21",3,"Coral Sea Islands",22.26
+"2002-07-21",4,"Jervis Bay Territory",12.74
+"2002-07-21",5,"New South Wales",8.28
+"2002-07-21",6,"Northern Territory",17.71
+"2002-07-21",7,"Queensland",16.95
+"2002-07-21",8,"South Australia",11.64
+"2002-07-21",9,"Tasmania",6.34
+"2002-07-21",10,"Victoria",4.77
+"2002-07-21",11,"Western Australia",17.53
+"2002-07-22",1,"Ashmore and Cartier Islands",25.69
+"2002-07-22",2,"Australian Capital Territory",2.08
+"2002-07-22",3,"Coral Sea Islands",21.79
+"2002-07-22",4,"Jervis Bay Territory",12.36
+"2002-07-22",5,"New South Wales",6.96
+"2002-07-22",6,"Northern Territory",17.96
+"2002-07-22",7,"Queensland",16.13
+"2002-07-22",8,"South Australia",13.31
+"2002-07-22",9,"Tasmania",6.66
+"2002-07-22",10,"Victoria",4.47
+"2002-07-22",11,"Western Australia",17.43
+"2002-07-23",1,"Ashmore and Cartier Islands",25.49
+"2002-07-23",2,"Australian Capital Territory",5.51
+"2002-07-23",3,"Coral Sea Islands",21.64
+"2002-07-23",4,"Jervis Bay Territory",13.82
+"2002-07-23",5,"New South Wales",9.66
+"2002-07-23",6,"Northern Territory",18.66
+"2002-07-23",7,"Queensland",17.06
+"2002-07-23",8,"South Australia",13.33
+"2002-07-23",9,"Tasmania",9.12
+"2002-07-23",10,"Victoria",7.65
+"2002-07-23",11,"Western Australia",17.23
+"2002-07-24",1,"Ashmore and Cartier Islands",25.3
+"2002-07-24",2,"Australian Capital Territory",5.41
+"2002-07-24",3,"Coral Sea Islands",21.69
+"2002-07-24",4,"Jervis Bay Territory",13.22
+"2002-07-24",5,"New South Wales",10.65
+"2002-07-24",6,"Northern Territory",18.65
+"2002-07-24",7,"Queensland",17.22
+"2002-07-24",8,"South Australia",12.79
+"2002-07-24",9,"Tasmania",5.17
+"2002-07-24",10,"Victoria",8.09
+"2002-07-24",11,"Western Australia",18.76
+"2002-07-25",1,"Ashmore and Cartier Islands",25.38
+"2002-07-25",2,"Australian Capital Territory",1.54
+"2002-07-25",3,"Coral Sea Islands",21.77
+"2002-07-25",4,"Jervis Bay Territory",10.71
+"2002-07-25",5,"New South Wales",7.16
+"2002-07-25",6,"Northern Territory",18.25
+"2002-07-25",7,"Queensland",16.59
+"2002-07-25",8,"South Australia",14.48
+"2002-07-25",9,"Tasmania",2.37
+"2002-07-25",10,"Victoria",3.13
+"2002-07-25",11,"Western Australia",16.04
+"2002-07-26",1,"Ashmore and Cartier Islands",25.17
+"2002-07-26",2,"Australian Capital Territory",4.22
+"2002-07-26",3,"Coral Sea Islands",21.47
+"2002-07-26",4,"Jervis Bay Territory",11.72
+"2002-07-26",5,"New South Wales",9.31
+"2002-07-26",6,"Northern Territory",18.73
+"2002-07-26",7,"Queensland",16.23
+"2002-07-26",8,"South Australia",12.94
+"2002-07-26",9,"Tasmania",7.42
+"2002-07-26",10,"Victoria",7.78
+"2002-07-26",11,"Western Australia",15.72
+"2002-07-27",1,"Ashmore and Cartier Islands",25.01
+"2002-07-27",2,"Australian Capital Territory",4.61
+"2002-07-27",3,"Coral Sea Islands",21.38
+"2002-07-27",4,"Jervis Bay Territory",12.86
+"2002-07-27",5,"New South Wales",10.55
+"2002-07-27",6,"Northern Territory",19.23
+"2002-07-27",7,"Queensland",17.19
+"2002-07-27",8,"South Australia",15.61
+"2002-07-27",9,"Tasmania",9.71
+"2002-07-27",10,"Victoria",8.2
+"2002-07-27",11,"Western Australia",15.93
+"2002-07-28",1,"Ashmore and Cartier Islands",25.5
+"2002-07-28",2,"Australian Capital Territory",5.29
+"2002-07-28",3,"Coral Sea Islands",21.27
+"2002-07-28",4,"Jervis Bay Territory",13.4
+"2002-07-28",5,"New South Wales",12.65
+"2002-07-28",6,"Northern Territory",18.43
+"2002-07-28",7,"Queensland",17.85
+"2002-07-28",8,"South Australia",13.11
+"2002-07-28",9,"Tasmania",9.37
+"2002-07-28",10,"Victoria",10.78
+"2002-07-28",11,"Western Australia",12.6
+"2002-07-29",1,"Ashmore and Cartier Islands",25.63
+"2002-07-29",2,"Australian Capital Territory",7.25
+"2002-07-29",3,"Coral Sea Islands",21.39
+"2002-07-29",4,"Jervis Bay Territory",14.98
+"2002-07-29",5,"New South Wales",11.64
+"2002-07-29",6,"Northern Territory",15.36
+"2002-07-29",7,"Queensland",16.52
+"2002-07-29",8,"South Australia",9.55
+"2002-07-29",9,"Tasmania",6.88
+"2002-07-29",10,"Victoria",8.3
+"2002-07-29",11,"Western Australia",12.17
+"2002-07-30",1,"Ashmore and Cartier Islands",25.75
+"2002-07-30",2,"Australian Capital Territory",5.36
+"2002-07-30",3,"Coral Sea Islands",21.58
+"2002-07-30",4,"Jervis Bay Territory",13.58
+"2002-07-30",5,"New South Wales",10.2
+"2002-07-30",6,"Northern Territory",14.38
+"2002-07-30",7,"Queensland",15.81
+"2002-07-30",8,"South Australia",9.32
+"2002-07-30",9,"Tasmania",5.54
+"2002-07-30",10,"Victoria",5.92
+"2002-07-30",11,"Western Australia",14.76
+"2002-07-31",1,"Ashmore and Cartier Islands",25.32
+"2002-07-31",2,"Australian Capital Territory",4.07
+"2002-07-31",3,"Coral Sea Islands",21.69
+"2002-07-31",4,"Jervis Bay Territory",12.93
+"2002-07-31",5,"New South Wales",10.73
+"2002-07-31",6,"Northern Territory",15.61
+"2002-07-31",7,"Queensland",16.77
+"2002-07-31",8,"South Australia",12.74
+"2002-07-31",9,"Tasmania",6.8
+"2002-07-31",10,"Victoria",7.36
+"2002-07-31",11,"Western Australia",15.57
+"2002-08-01",1,"Ashmore and Cartier Islands",25.22
+"2002-08-01",2,"Australian Capital Territory",6.04
+"2002-08-01",3,"Coral Sea Islands",21.72
+"2002-08-01",4,"Jervis Bay Territory",13.7
+"2002-08-01",5,"New South Wales",11.79
+"2002-08-01",6,"Northern Territory",16.98
+"2002-08-01",7,"Queensland",17.84
+"2002-08-01",8,"South Australia",11.33
+"2002-08-01",9,"Tasmania",9.09
+"2002-08-01",10,"Victoria",9.51
+"2002-08-01",11,"Western Australia",16.25
+"2002-08-02",1,"Ashmore and Cartier Islands",24.68
+"2002-08-02",2,"Australian Capital Territory",5.49
+"2002-08-02",3,"Coral Sea Islands",22.03
+"2002-08-02",4,"Jervis Bay Territory",14.32
+"2002-08-02",5,"New South Wales",12.12
+"2002-08-02",6,"Northern Territory",18.41
+"2002-08-02",7,"Queensland",18.4
+"2002-08-02",8,"South Australia",11.29
+"2002-08-02",9,"Tasmania",4.68
+"2002-08-02",10,"Victoria",7.64
+"2002-08-02",11,"Western Australia",13.82
+"2002-08-03",1,"Ashmore and Cartier Islands",24.78
+"2002-08-03",2,"Australian Capital Territory",6.22
+"2002-08-03",3,"Coral Sea Islands",22.69
+"2002-08-03",4,"Jervis Bay Territory",15.59
+"2002-08-03",5,"New South Wales",12.43
+"2002-08-03",6,"Northern Territory",17.21
+"2002-08-03",7,"Queensland",19.08
+"2002-08-03",8,"South Australia",10.29
+"2002-08-03",9,"Tasmania",7.26
+"2002-08-03",10,"Victoria",8.35
+"2002-08-03",11,"Western Australia",13.82
+"2002-08-04",1,"Ashmore and Cartier Islands",25.49
+"2002-08-04",2,"Australian Capital Territory",7.34
+"2002-08-04",3,"Coral Sea Islands",22.41
+"2002-08-04",4,"Jervis Bay Territory",14.82
+"2002-08-04",5,"New South Wales",9.59
+"2002-08-04",6,"Northern Territory",16.82
+"2002-08-04",7,"Queensland",15.76
+"2002-08-04",8,"South Australia",10.09
+"2002-08-04",9,"Tasmania",6.74
+"2002-08-04",10,"Victoria",8.4
+"2002-08-04",11,"Western Australia",16.72
+"2002-08-05",1,"Ashmore and Cartier Islands",25.43
+"2002-08-05",2,"Australian Capital Territory",3.72
+"2002-08-05",3,"Coral Sea Islands",22.06
+"2002-08-05",4,"Jervis Bay Territory",13.03
+"2002-08-05",5,"New South Wales",8.99
+"2002-08-05",6,"Northern Territory",17.87
+"2002-08-05",7,"Queensland",16.15
+"2002-08-05",8,"South Australia",13.31
+"2002-08-05",9,"Tasmania",6
+"2002-08-05",10,"Victoria",6.8
+"2002-08-05",11,"Western Australia",15.61
+"2002-08-06",1,"Ashmore and Cartier Islands",25.2
+"2002-08-06",2,"Australian Capital Territory",5.84
+"2002-08-06",3,"Coral Sea Islands",21.64
+"2002-08-06",4,"Jervis Bay Territory",15.95
+"2002-08-06",5,"New South Wales",12.13
+"2002-08-06",6,"Northern Territory",19.18
+"2002-08-06",7,"Queensland",17.49
+"2002-08-06",8,"South Australia",12.13
+"2002-08-06",9,"Tasmania",8.72
+"2002-08-06",10,"Victoria",10.19
+"2002-08-06",11,"Western Australia",14.6
+"2002-08-07",1,"Ashmore and Cartier Islands",25.69
+"2002-08-07",2,"Australian Capital Territory",7.41
+"2002-08-07",3,"Coral Sea Islands",21.53
+"2002-08-07",4,"Jervis Bay Territory",14.71
+"2002-08-07",5,"New South Wales",11.32
+"2002-08-07",6,"Northern Territory",17.79
+"2002-08-07",7,"Queensland",18.03
+"2002-08-07",8,"South Australia",12.11
+"2002-08-07",9,"Tasmania",9.24
+"2002-08-07",10,"Victoria",11.24
+"2002-08-07",11,"Western Australia",16.31
+"2002-08-08",1,"Ashmore and Cartier Islands",25.56
+"2002-08-08",2,"Australian Capital Territory",5.31
+"2002-08-08",3,"Coral Sea Islands",21.5
+"2002-08-08",4,"Jervis Bay Territory",14.12
+"2002-08-08",5,"New South Wales",10.7
+"2002-08-08",6,"Northern Territory",17.94
+"2002-08-08",7,"Queensland",17.47
+"2002-08-08",8,"South Australia",13.07
+"2002-08-08",9,"Tasmania",7.36
+"2002-08-08",10,"Victoria",8.24
+"2002-08-08",11,"Western Australia",17.99
+"2002-08-09",1,"Ashmore and Cartier Islands",25.32
+"2002-08-09",2,"Australian Capital Territory",5.48
+"2002-08-09",3,"Coral Sea Islands",21.72
+"2002-08-09",4,"Jervis Bay Territory",13.18
+"2002-08-09",5,"New South Wales",10.73
+"2002-08-09",6,"Northern Territory",18.42
+"2002-08-09",7,"Queensland",18.2
+"2002-08-09",8,"South Australia",13.91
+"2002-08-09",9,"Tasmania",9.06
+"2002-08-09",10,"Victoria",8.23
+"2002-08-09",11,"Western Australia",20.03
+"2002-08-10",1,"Ashmore and Cartier Islands",25.28
+"2002-08-10",2,"Australian Capital Territory",6.69
+"2002-08-10",3,"Coral Sea Islands",21.47
+"2002-08-10",4,"Jervis Bay Territory",15.34
+"2002-08-10",5,"New South Wales",13.24
+"2002-08-10",6,"Northern Territory",20.34
+"2002-08-10",7,"Queensland",19.47
+"2002-08-10",8,"South Australia",17.5
+"2002-08-10",9,"Tasmania",10.61
+"2002-08-10",10,"Victoria",8.92
+"2002-08-10",11,"Western Australia",17.11
+"2002-08-11",1,"Ashmore and Cartier Islands",25.54
+"2002-08-11",2,"Australian Capital Territory",11.7
+"2002-08-11",3,"Coral Sea Islands",22.09
+"2002-08-11",4,"Jervis Bay Territory",18.86
+"2002-08-11",5,"New South Wales",16.78
+"2002-08-11",6,"Northern Territory",21.41
+"2002-08-11",7,"Queensland",19.7
+"2002-08-11",8,"South Australia",15.32
+"2002-08-11",9,"Tasmania",11.05
+"2002-08-11",10,"Victoria",13.64
+"2002-08-11",11,"Western Australia",14.04
+"2002-08-12",1,"Ashmore and Cartier Islands",25.03
+"2002-08-12",2,"Australian Capital Territory",5.27
+"2002-08-12",3,"Coral Sea Islands",22.68
+"2002-08-12",4,"Jervis Bay Territory",14.68
+"2002-08-12",5,"New South Wales",12.81
+"2002-08-12",6,"Northern Territory",19.34
+"2002-08-12",7,"Queensland",19.46
+"2002-08-12",8,"South Australia",10.57
+"2002-08-12",9,"Tasmania",5.91
+"2002-08-12",10,"Victoria",6.68
+"2002-08-12",11,"Western Australia",14.05
+"2002-08-13",1,"Ashmore and Cartier Islands",24.97
+"2002-08-13",2,"Australian Capital Territory",3.81
+"2002-08-13",3,"Coral Sea Islands",22.61
+"2002-08-13",4,"Jervis Bay Territory",11.99
+"2002-08-13",5,"New South Wales",8.1
+"2002-08-13",6,"Northern Territory",17.14
+"2002-08-13",7,"Queensland",16.54
+"2002-08-13",8,"South Australia",9.53
+"2002-08-13",9,"Tasmania",6.64
+"2002-08-13",10,"Victoria",6.35
+"2002-08-13",11,"Western Australia",14.25
+"2002-08-14",1,"Ashmore and Cartier Islands",25.15
+"2002-08-14",2,"Australian Capital Territory",3.43
+"2002-08-14",3,"Coral Sea Islands",21.76
+"2002-08-14",4,"Jervis Bay Territory",12.01
+"2002-08-14",5,"New South Wales",7.72
+"2002-08-14",6,"Northern Territory",15.92
+"2002-08-14",7,"Queensland",14.71
+"2002-08-14",8,"South Australia",10
+"2002-08-14",9,"Tasmania",5.09
+"2002-08-14",10,"Victoria",6.18
+"2002-08-14",11,"Western Australia",14.96
+"2002-08-15",1,"Ashmore and Cartier Islands",25.05
+"2002-08-15",2,"Australian Capital Territory",3.49
+"2002-08-15",3,"Coral Sea Islands",21.12
+"2002-08-15",4,"Jervis Bay Territory",11.74
+"2002-08-15",5,"New South Wales",7.85
+"2002-08-15",6,"Northern Territory",14.27
+"2002-08-15",7,"Queensland",14.29
+"2002-08-15",8,"South Australia",9.63
+"2002-08-15",9,"Tasmania",6.51
+"2002-08-15",10,"Victoria",6
+"2002-08-15",11,"Western Australia",15.11
+"2002-08-16",1,"Ashmore and Cartier Islands",25.31
+"2002-08-16",2,"Australian Capital Territory",3.8
+"2002-08-16",3,"Coral Sea Islands",20.77
+"2002-08-16",4,"Jervis Bay Territory",12.27
+"2002-08-16",5,"New South Wales",9.09
+"2002-08-16",6,"Northern Territory",14.77
+"2002-08-16",7,"Queensland",16.26
+"2002-08-16",8,"South Australia",10.56
+"2002-08-16",9,"Tasmania",7.57
+"2002-08-16",10,"Victoria",6.22
+"2002-08-16",11,"Western Australia",14.12
+"2002-08-17",1,"Ashmore and Cartier Islands",25.3
+"2002-08-17",2,"Australian Capital Territory",4.2
+"2002-08-17",3,"Coral Sea Islands",20.94
+"2002-08-17",4,"Jervis Bay Territory",12.37
+"2002-08-17",5,"New South Wales",10.67
+"2002-08-17",6,"Northern Territory",16.5
+"2002-08-17",7,"Queensland",17.84
+"2002-08-17",8,"South Australia",10.66
+"2002-08-17",9,"Tasmania",7.22
+"2002-08-17",10,"Victoria",6.14
+"2002-08-17",11,"Western Australia",14.51
+"2002-08-18",1,"Ashmore and Cartier Islands",24.89
+"2002-08-18",2,"Australian Capital Territory",5.29
+"2002-08-18",3,"Coral Sea Islands",21.45
+"2002-08-18",4,"Jervis Bay Territory",13.13
+"2002-08-18",5,"New South Wales",11.11
+"2002-08-18",6,"Northern Territory",16.66
+"2002-08-18",7,"Queensland",18.11
+"2002-08-18",8,"South Australia",10.43
+"2002-08-18",9,"Tasmania",7.02
+"2002-08-18",10,"Victoria",6.85
+"2002-08-18",11,"Western Australia",14.41
+"2002-08-19",1,"Ashmore and Cartier Islands",25.79
+"2002-08-19",2,"Australian Capital Territory",4.84
+"2002-08-19",3,"Coral Sea Islands",21.81
+"2002-08-19",4,"Jervis Bay Territory",13.21
+"2002-08-19",5,"New South Wales",10.69
+"2002-08-19",6,"Northern Territory",16.05
+"2002-08-19",7,"Queensland",17.45
+"2002-08-19",8,"South Australia",10.43
+"2002-08-19",9,"Tasmania",7.92
+"2002-08-19",10,"Victoria",6.54
+"2002-08-19",11,"Western Australia",14.76
+"2002-08-20",1,"Ashmore and Cartier Islands",25.84
+"2002-08-20",2,"Australian Capital Territory",4.05
+"2002-08-20",3,"Coral Sea Islands",22.13
+"2002-08-20",4,"Jervis Bay Territory",13.55
+"2002-08-20",5,"New South Wales",11.14
+"2002-08-20",6,"Northern Territory",17.01
+"2002-08-20",7,"Queensland",16.96
+"2002-08-20",8,"South Australia",11.57
+"2002-08-20",9,"Tasmania",7.71
+"2002-08-20",10,"Victoria",8.31
+"2002-08-20",11,"Western Australia",15.02
+"2002-08-21",1,"Ashmore and Cartier Islands",25.01
+"2002-08-21",2,"Australian Capital Territory",4
+"2002-08-21",3,"Coral Sea Islands",22.74
+"2002-08-21",4,"Jervis Bay Territory",13.56
+"2002-08-21",5,"New South Wales",11.62
+"2002-08-21",6,"Northern Territory",18.32
+"2002-08-21",7,"Queensland",17.85
+"2002-08-21",8,"South Australia",12.42
+"2002-08-21",9,"Tasmania",9.79
+"2002-08-21",10,"Victoria",8.85
+"2002-08-21",11,"Western Australia",15.51
+"2002-08-22",1,"Ashmore and Cartier Islands",25.01
+"2002-08-22",2,"Australian Capital Territory",5.01
+"2002-08-22",3,"Coral Sea Islands",23.38
+"2002-08-22",4,"Jervis Bay Territory",14.48
+"2002-08-22",5,"New South Wales",12.27
+"2002-08-22",6,"Northern Territory",19.22
+"2002-08-22",7,"Queensland",18.18
+"2002-08-22",8,"South Australia",12.67
+"2002-08-22",9,"Tasmania",7.95
+"2002-08-22",10,"Victoria",7.92
+"2002-08-22",11,"Western Australia",15.94
+"2002-08-23",1,"Ashmore and Cartier Islands",24.84
+"2002-08-23",2,"Australian Capital Territory",5.7
+"2002-08-23",3,"Coral Sea Islands",22.47
+"2002-08-23",4,"Jervis Bay Territory",12.09
+"2002-08-23",5,"New South Wales",11.29
+"2002-08-23",6,"Northern Territory",19.91
+"2002-08-23",7,"Queensland",18.36
+"2002-08-23",8,"South Australia",12.74
+"2002-08-23",9,"Tasmania",5.04
+"2002-08-23",10,"Victoria",6.65
+"2002-08-23",11,"Western Australia",16.97
+"2002-08-24",1,"Ashmore and Cartier Islands",24.74
+"2002-08-24",2,"Australian Capital Territory",3.28
+"2002-08-24",3,"Coral Sea Islands",22.15
+"2002-08-24",4,"Jervis Bay Territory",11.31
+"2002-08-24",5,"New South Wales",9.92
+"2002-08-24",6,"Northern Territory",19.93
+"2002-08-24",7,"Queensland",18.37
+"2002-08-24",8,"South Australia",13.15
+"2002-08-24",9,"Tasmania",5.26
+"2002-08-24",10,"Victoria",5.98
+"2002-08-24",11,"Western Australia",17.83
+"2002-08-25",1,"Ashmore and Cartier Islands",24.68
+"2002-08-25",2,"Australian Capital Territory",3.54
+"2002-08-25",3,"Coral Sea Islands",21.63
+"2002-08-25",4,"Jervis Bay Territory",12.47
+"2002-08-25",5,"New South Wales",10.45
+"2002-08-25",6,"Northern Territory",19.08
+"2002-08-25",7,"Queensland",17.29
+"2002-08-25",8,"South Australia",13.12
+"2002-08-25",9,"Tasmania",5.62
+"2002-08-25",10,"Victoria",6.35
+"2002-08-25",11,"Western Australia",19.46
+"2002-08-26",1,"Ashmore and Cartier Islands",25.15
+"2002-08-26",2,"Australian Capital Territory",4.41
+"2002-08-26",3,"Coral Sea Islands",20.63
+"2002-08-26",4,"Jervis Bay Territory",13.4
+"2002-08-26",5,"New South Wales",11.31
+"2002-08-26",6,"Northern Territory",19.01
+"2002-08-26",7,"Queensland",16.54
+"2002-08-26",8,"South Australia",15.12
+"2002-08-26",9,"Tasmania",5.48
+"2002-08-26",10,"Victoria",7.81
+"2002-08-26",11,"Western Australia",19.02
+"2002-08-27",1,"Ashmore and Cartier Islands",24.74
+"2002-08-27",2,"Australian Capital Territory",5.22
+"2002-08-27",3,"Coral Sea Islands",21.17
+"2002-08-27",4,"Jervis Bay Territory",13.46
+"2002-08-27",5,"New South Wales",12.13
+"2002-08-27",6,"Northern Territory",19.05
+"2002-08-27",7,"Queensland",17.83
+"2002-08-27",8,"South Australia",16.83
+"2002-08-27",9,"Tasmania",6.58
+"2002-08-27",10,"Victoria",9.65
+"2002-08-27",11,"Western Australia",17.44
+"2002-08-28",1,"Ashmore and Cartier Islands",25.09
+"2002-08-28",2,"Australian Capital Territory",6.21
+"2002-08-28",3,"Coral Sea Islands",21.13
+"2002-08-28",4,"Jervis Bay Territory",13.02
+"2002-08-28",5,"New South Wales",13.61
+"2002-08-28",6,"Northern Territory",20.66
+"2002-08-28",7,"Queensland",19.5
+"2002-08-28",8,"South Australia",14.15
+"2002-08-28",9,"Tasmania",8.82
+"2002-08-28",10,"Victoria",10.67
+"2002-08-28",11,"Western Australia",16.73
+"2002-08-29",1,"Ashmore and Cartier Islands",24.98
+"2002-08-29",2,"Australian Capital Territory",7
+"2002-08-29",3,"Coral Sea Islands",20.9
+"2002-08-29",4,"Jervis Bay Territory",14.82
+"2002-08-29",5,"New South Wales",13.94
+"2002-08-29",6,"Northern Territory",21.43
+"2002-08-29",7,"Queensland",20.08
+"2002-08-29",8,"South Australia",13.22
+"2002-08-29",9,"Tasmania",9.07
+"2002-08-29",10,"Victoria",9.54
+"2002-08-29",11,"Western Australia",19.09
+"2002-08-30",1,"Ashmore and Cartier Islands",24.91
+"2002-08-30",2,"Australian Capital Territory",5.98
+"2002-08-30",3,"Coral Sea Islands",21.23
+"2002-08-30",4,"Jervis Bay Territory",15.39
+"2002-08-30",5,"New South Wales",13.89
+"2002-08-30",6,"Northern Territory",23.57
+"2002-08-30",7,"Queensland",20.83
+"2002-08-30",8,"South Australia",16.9
+"2002-08-30",9,"Tasmania",7.48
+"2002-08-30",10,"Victoria",9.75
+"2002-08-30",11,"Western Australia",18.9
+"2002-08-31",1,"Ashmore and Cartier Islands",25.04
+"2002-08-31",2,"Australian Capital Territory",5.84
+"2002-08-31",3,"Coral Sea Islands",21.74
+"2002-08-31",4,"Jervis Bay Territory",14.97
+"2002-08-31",5,"New South Wales",15.61
+"2002-08-31",6,"Northern Territory",24.54
+"2002-08-31",7,"Queensland",22.28
+"2002-08-31",8,"South Australia",15.66
+"2002-08-31",9,"Tasmania",8.43
+"2002-08-31",10,"Victoria",10.52
+"2002-08-31",11,"Western Australia",19.2
+"2002-09-01",1,"Ashmore and Cartier Islands",25.46
+"2002-09-01",2,"Australian Capital Territory",10.04
+"2002-09-01",3,"Coral Sea Islands",21.84
+"2002-09-01",4,"Jervis Bay Territory",14.2
+"2002-09-01",5,"New South Wales",16.21
+"2002-09-01",6,"Northern Territory",24.82
+"2002-09-01",7,"Queensland",22.94
+"2002-09-01",8,"South Australia",16.92
+"2002-09-01",9,"Tasmania",8.3
+"2002-09-01",10,"Victoria",9.67
+"2002-09-01",11,"Western Australia",20.25
+"2002-09-02",1,"Ashmore and Cartier Islands",25.1
+"2002-09-02",2,"Australian Capital Territory",8.55
+"2002-09-02",3,"Coral Sea Islands",22.2
+"2002-09-02",4,"Jervis Bay Territory",14.97
+"2002-09-02",5,"New South Wales",16.67
+"2002-09-02",6,"Northern Territory",26.05
+"2002-09-02",7,"Queensland",23.75
+"2002-09-02",8,"South Australia",22.84
+"2002-09-02",9,"Tasmania",8.8
+"2002-09-02",10,"Victoria",13.07
+"2002-09-02",11,"Western Australia",17.31
+"2002-09-03",1,"Ashmore and Cartier Islands",25.21
+"2002-09-03",2,"Australian Capital Territory",9.77
+"2002-09-03",3,"Coral Sea Islands",22.3
+"2002-09-03",4,"Jervis Bay Territory",17.97
+"2002-09-03",5,"New South Wales",17.07
+"2002-09-03",6,"Northern Territory",23.69
+"2002-09-03",7,"Queensland",24.22
+"2002-09-03",8,"South Australia",16.79
+"2002-09-03",9,"Tasmania",9.47
+"2002-09-03",10,"Victoria",11.7
+"2002-09-03",11,"Western Australia",16.82
+"2002-09-04",1,"Ashmore and Cartier Islands",24.76
+"2002-09-04",2,"Australian Capital Territory",11.88
+"2002-09-04",3,"Coral Sea Islands",22.3
+"2002-09-04",4,"Jervis Bay Territory",18.78
+"2002-09-04",5,"New South Wales",17.67
+"2002-09-04",6,"Northern Territory",23.54
+"2002-09-04",7,"Queensland",23.83
+"2002-09-04",8,"South Australia",16.69
+"2002-09-04",9,"Tasmania",7.98
+"2002-09-04",10,"Victoria",12.34
+"2002-09-04",11,"Western Australia",17.6
+"2002-09-05",1,"Ashmore and Cartier Islands",24.69
+"2002-09-05",2,"Australian Capital Territory",9.87
+"2002-09-05",3,"Coral Sea Islands",22.22
+"2002-09-05",4,"Jervis Bay Territory",17.72
+"2002-09-05",5,"New South Wales",17.12
+"2002-09-05",6,"Northern Territory",24.42
+"2002-09-05",7,"Queensland",24.03
+"2002-09-05",8,"South Australia",18.88
+"2002-09-05",9,"Tasmania",10.01
+"2002-09-05",10,"Victoria",11.44
+"2002-09-05",11,"Western Australia",17.8
+"2002-09-06",1,"Ashmore and Cartier Islands",24.64
+"2002-09-06",2,"Australian Capital Territory",11.57
+"2002-09-06",3,"Coral Sea Islands",23.23
+"2002-09-06",4,"Jervis Bay Territory",17.47
+"2002-09-06",5,"New South Wales",15.97
+"2002-09-06",6,"Northern Territory",24.56
+"2002-09-06",7,"Queensland",23.87
+"2002-09-06",8,"South Australia",15.24
+"2002-09-06",9,"Tasmania",9.04
+"2002-09-06",10,"Victoria",11.49
+"2002-09-06",11,"Western Australia",18.27
+"2002-09-07",1,"Ashmore and Cartier Islands",24.84
+"2002-09-07",2,"Australian Capital Territory",10
+"2002-09-07",3,"Coral Sea Islands",23.29
+"2002-09-07",4,"Jervis Bay Territory",16.51
+"2002-09-07",5,"New South Wales",15.81
+"2002-09-07",6,"Northern Territory",24.72
+"2002-09-07",7,"Queensland",23.96
+"2002-09-07",8,"South Australia",15.82
+"2002-09-07",9,"Tasmania",6.74
+"2002-09-07",10,"Victoria",11.29
+"2002-09-07",11,"Western Australia",19.76
+"2002-09-08",1,"Ashmore and Cartier Islands",25.15
+"2002-09-08",2,"Australian Capital Territory",8.42
+"2002-09-08",3,"Coral Sea Islands",23.04
+"2002-09-08",4,"Jervis Bay Territory",15.09
+"2002-09-08",5,"New South Wales",14.14
+"2002-09-08",6,"Northern Territory",24.71
+"2002-09-08",7,"Queensland",23.91
+"2002-09-08",8,"South Australia",16.21
+"2002-09-08",9,"Tasmania",7.38
+"2002-09-08",10,"Victoria",9.1
+"2002-09-08",11,"Western Australia",20.64
+"2002-09-09",1,"Ashmore and Cartier Islands",25.32
+"2002-09-09",2,"Australian Capital Territory",8.66
+"2002-09-09",3,"Coral Sea Islands",22.62
+"2002-09-09",4,"Jervis Bay Territory",16.83
+"2002-09-09",5,"New South Wales",15.1
+"2002-09-09",6,"Northern Territory",25.99
+"2002-09-09",7,"Queensland",23.87
+"2002-09-09",8,"South Australia",15.95
+"2002-09-09",9,"Tasmania",5.65
+"2002-09-09",10,"Victoria",9.74
+"2002-09-09",11,"Western Australia",20.35
+"2002-09-10",1,"Ashmore and Cartier Islands",25.3
+"2002-09-10",2,"Australian Capital Territory",6.33
+"2002-09-10",3,"Coral Sea Islands",23.14
+"2002-09-10",4,"Jervis Bay Territory",12.88
+"2002-09-10",5,"New South Wales",12.07
+"2002-09-10",6,"Northern Territory",24.92
+"2002-09-10",7,"Queensland",22.91
+"2002-09-10",8,"South Australia",13.57
+"2002-09-10",9,"Tasmania",4.94
+"2002-09-10",10,"Victoria",6.79
+"2002-09-10",11,"Western Australia",20.65
+"2002-09-11",1,"Ashmore and Cartier Islands",25.51
+"2002-09-11",2,"Australian Capital Territory",5.4
+"2002-09-11",3,"Coral Sea Islands",22.35
+"2002-09-11",4,"Jervis Bay Territory",12.4
+"2002-09-11",5,"New South Wales",10.41
+"2002-09-11",6,"Northern Territory",24.35
+"2002-09-11",7,"Queensland",20.8
+"2002-09-11",8,"South Australia",14.23
+"2002-09-11",9,"Tasmania",8.53
+"2002-09-11",10,"Victoria",7.91
+"2002-09-11",11,"Western Australia",22.16
+"2002-09-12",1,"Ashmore and Cartier Islands",25.68
+"2002-09-12",2,"Australian Capital Territory",6.6
+"2002-09-12",3,"Coral Sea Islands",21.12
+"2002-09-12",4,"Jervis Bay Territory",13.97
+"2002-09-12",5,"New South Wales",13.05
+"2002-09-12",6,"Northern Territory",24.41
+"2002-09-12",7,"Queensland",19.71
+"2002-09-12",8,"South Australia",16.01
+"2002-09-12",9,"Tasmania",8.67
+"2002-09-12",10,"Victoria",10.3
+"2002-09-12",11,"Western Australia",21.13
+"2002-09-13",1,"Ashmore and Cartier Islands",25.88
+"2002-09-13",2,"Australian Capital Territory",7.81
+"2002-09-13",3,"Coral Sea Islands",21.42
+"2002-09-13",4,"Jervis Bay Territory",15.65
+"2002-09-13",5,"New South Wales",15.39
+"2002-09-13",6,"Northern Territory",24.41
+"2002-09-13",7,"Queensland",20.55
+"2002-09-13",8,"South Australia",17.22
+"2002-09-13",9,"Tasmania",11.19
+"2002-09-13",10,"Victoria",12.69
+"2002-09-13",11,"Western Australia",21.44
+"2002-09-14",1,"Ashmore and Cartier Islands",25.27
+"2002-09-14",2,"Australian Capital Territory",9.67
+"2002-09-14",3,"Coral Sea Islands",21.72
+"2002-09-14",4,"Jervis Bay Territory",17.26
+"2002-09-14",5,"New South Wales",17.85
+"2002-09-14",6,"Northern Territory",25.87
+"2002-09-14",7,"Queensland",22.08
+"2002-09-14",8,"South Australia",22.02
+"2002-09-14",9,"Tasmania",12.44
+"2002-09-14",10,"Victoria",15.94
+"2002-09-14",11,"Western Australia",22.58
+"2002-09-15",1,"Ashmore and Cartier Islands",25.26
+"2002-09-15",2,"Australian Capital Territory",11.31
+"2002-09-15",3,"Coral Sea Islands",21.94
+"2002-09-15",4,"Jervis Bay Territory",17.44
+"2002-09-15",5,"New South Wales",19.6
+"2002-09-15",6,"Northern Territory",27.28
+"2002-09-15",7,"Queensland",22.41
+"2002-09-15",8,"South Australia",24.96
+"2002-09-15",9,"Tasmania",14.64
+"2002-09-15",10,"Victoria",18.89
+"2002-09-15",11,"Western Australia",18.08
+"2002-09-16",1,"Ashmore and Cartier Islands",25.6
+"2002-09-16",2,"Australian Capital Territory",14.2
+"2002-09-16",3,"Coral Sea Islands",22.3
+"2002-09-16",4,"Jervis Bay Territory",17.97
+"2002-09-16",5,"New South Wales",17.95
+"2002-09-16",6,"Northern Territory",25.01
+"2002-09-16",7,"Queensland",23.25
+"2002-09-16",8,"South Australia",14.57
+"2002-09-16",9,"Tasmania",11.4
+"2002-09-16",10,"Victoria",12.46
+"2002-09-16",11,"Western Australia",14.57
+"2002-09-17",1,"Ashmore and Cartier Islands",25.79
+"2002-09-17",2,"Australian Capital Territory",8.68
+"2002-09-17",3,"Coral Sea Islands",22.58
+"2002-09-17",4,"Jervis Bay Territory",13.45
+"2002-09-17",5,"New South Wales",11.84
+"2002-09-17",6,"Northern Territory",20.33
+"2002-09-17",7,"Queensland",19.55
+"2002-09-17",8,"South Australia",11.35
+"2002-09-17",9,"Tasmania",6.02
+"2002-09-17",10,"Victoria",8.2
+"2002-09-17",11,"Western Australia",15.84
+"2002-09-18",1,"Ashmore and Cartier Islands",26.98
+"2002-09-18",2,"Australian Capital Territory",5.54
+"2002-09-18",3,"Coral Sea Islands",21.59
+"2002-09-18",4,"Jervis Bay Territory",14.84
+"2002-09-18",5,"New South Wales",12.03
+"2002-09-18",6,"Northern Territory",19.96
+"2002-09-18",7,"Queensland",17.81
+"2002-09-18",8,"South Australia",14.94
+"2002-09-18",9,"Tasmania",8.37
+"2002-09-18",10,"Victoria",11.55
+"2002-09-18",11,"Western Australia",19.72
+"2002-09-19",1,"Ashmore and Cartier Islands",26.84
+"2002-09-19",2,"Australian Capital Territory",6.83
+"2002-09-19",3,"Coral Sea Islands",22.59
+"2002-09-19",4,"Jervis Bay Territory",14.56
+"2002-09-19",5,"New South Wales",13.78
+"2002-09-19",6,"Northern Territory",22.83
+"2002-09-19",7,"Queensland",21.26
+"2002-09-19",8,"South Australia",15.71
+"2002-09-19",9,"Tasmania",4.15
+"2002-09-19",10,"Victoria",9.18
+"2002-09-19",11,"Western Australia",22.47
+"2002-09-20",1,"Ashmore and Cartier Islands",26.67
+"2002-09-20",2,"Australian Capital Territory",7.96
+"2002-09-20",3,"Coral Sea Islands",22.88
+"2002-09-20",4,"Jervis Bay Territory",13.81
+"2002-09-20",5,"New South Wales",13.74
+"2002-09-20",6,"Northern Territory",24.69
+"2002-09-20",7,"Queensland",22.71
+"2002-09-20",8,"South Australia",19.5
+"2002-09-20",9,"Tasmania",6.97
+"2002-09-20",10,"Victoria",9.43
+"2002-09-20",11,"Western Australia",22.23
+"2002-09-21",1,"Ashmore and Cartier Islands",26.08
+"2002-09-21",2,"Australian Capital Territory",10.5
+"2002-09-21",3,"Coral Sea Islands",22.57
+"2002-09-21",4,"Jervis Bay Territory",17.38
+"2002-09-21",5,"New South Wales",18.07
+"2002-09-21",6,"Northern Territory",25.6
+"2002-09-21",7,"Queensland",24.67
+"2002-09-21",8,"South Australia",17.88
+"2002-09-21",9,"Tasmania",9.65
+"2002-09-21",10,"Victoria",13.8
+"2002-09-21",11,"Western Australia",21.69
+"2002-09-22",1,"Ashmore and Cartier Islands",26.88
+"2002-09-22",2,"Australian Capital Territory",12.59
+"2002-09-22",3,"Coral Sea Islands",22.59
+"2002-09-22",4,"Jervis Bay Territory",16.98
+"2002-09-22",5,"New South Wales",20.38
+"2002-09-22",6,"Northern Territory",26.71
+"2002-09-22",7,"Queensland",25.4
+"2002-09-22",8,"South Australia",16.99
+"2002-09-22",9,"Tasmania",9.39
+"2002-09-22",10,"Victoria",12.99
+"2002-09-22",11,"Western Australia",22.28
+"2002-09-23",1,"Ashmore and Cartier Islands",26.4
+"2002-09-23",2,"Australian Capital Territory",13.08
+"2002-09-23",3,"Coral Sea Islands",22.94
+"2002-09-23",4,"Jervis Bay Territory",15.72
+"2002-09-23",5,"New South Wales",18.77
+"2002-09-23",6,"Northern Territory",27.55
+"2002-09-23",7,"Queensland",25.78
+"2002-09-23",8,"South Australia",18.94
+"2002-09-23",9,"Tasmania",8.1
+"2002-09-23",10,"Victoria",12.08
+"2002-09-23",11,"Western Australia",20.82
+"2002-09-24",1,"Ashmore and Cartier Islands",25.95
+"2002-09-24",2,"Australian Capital Territory",14.64
+"2002-09-24",3,"Coral Sea Islands",23.17
+"2002-09-24",4,"Jervis Bay Territory",17.35
+"2002-09-24",5,"New South Wales",21.56
+"2002-09-24",6,"Northern Territory",28.39
+"2002-09-24",7,"Queensland",28.11
+"2002-09-24",8,"South Australia",17.67
+"2002-09-24",9,"Tasmania",8.79
+"2002-09-24",10,"Victoria",15.93
+"2002-09-24",11,"Western Australia",19.92
+"2002-09-25",1,"Ashmore and Cartier Islands",25.57
+"2002-09-25",2,"Australian Capital Territory",14.59
+"2002-09-25",3,"Coral Sea Islands",23.28
+"2002-09-25",4,"Jervis Bay Territory",16.72
+"2002-09-25",5,"New South Wales",20.48
+"2002-09-25",6,"Northern Territory",27.62
+"2002-09-25",7,"Queensland",27.39
+"2002-09-25",8,"South Australia",18.47
+"2002-09-25",9,"Tasmania",9.54
+"2002-09-25",10,"Victoria",12.74
+"2002-09-25",11,"Western Australia",19.46
+"2002-09-26",1,"Ashmore and Cartier Islands",25.66
+"2002-09-26",2,"Australian Capital Territory",12.52
+"2002-09-26",3,"Coral Sea Islands",23.15
+"2002-09-26",4,"Jervis Bay Territory",17.79
+"2002-09-26",5,"New South Wales",18.31
+"2002-09-26",6,"Northern Territory",27.89
+"2002-09-26",7,"Queensland",26.78
+"2002-09-26",8,"South Australia",18.24
+"2002-09-26",9,"Tasmania",7.66
+"2002-09-26",10,"Victoria",11.17
+"2002-09-26",11,"Western Australia",21.4
+"2002-09-27",1,"Ashmore and Cartier Islands",25.9
+"2002-09-27",2,"Australian Capital Territory",11.72
+"2002-09-27",3,"Coral Sea Islands",22.9
+"2002-09-27",4,"Jervis Bay Territory",17.37
+"2002-09-27",5,"New South Wales",20.34
+"2002-09-27",6,"Northern Territory",28.34
+"2002-09-27",7,"Queensland",26.63
+"2002-09-27",8,"South Australia",19.83
+"2002-09-27",9,"Tasmania",9.91
+"2002-09-27",10,"Victoria",13.25
+"2002-09-27",11,"Western Australia",20.48
+"2002-09-28",1,"Ashmore and Cartier Islands",26.13
+"2002-09-28",2,"Australian Capital Territory",9.71
+"2002-09-28",3,"Coral Sea Islands",23.7
+"2002-09-28",4,"Jervis Bay Territory",17.11
+"2002-09-28",5,"New South Wales",16.36
+"2002-09-28",6,"Northern Territory",25.1
+"2002-09-28",7,"Queensland",24.97
+"2002-09-28",8,"South Australia",13.85
+"2002-09-28",9,"Tasmania",7.41
+"2002-09-28",10,"Victoria",9.13
+"2002-09-28",11,"Western Australia",20.11
+"2002-09-29",1,"Ashmore and Cartier Islands",26.64
+"2002-09-29",2,"Australian Capital Territory",7.65
+"2002-09-29",3,"Coral Sea Islands",23.75
+"2002-09-29",4,"Jervis Bay Territory",13.5
+"2002-09-29",5,"New South Wales",12.23
+"2002-09-29",6,"Northern Territory",21.64
+"2002-09-29",7,"Queensland",21.55
+"2002-09-29",8,"South Australia",13.5
+"2002-09-29",9,"Tasmania",8.22
+"2002-09-29",10,"Victoria",9.39
+"2002-09-29",11,"Western Australia",21.3
+"2002-09-30",1,"Ashmore and Cartier Islands",26.63
+"2002-09-30",2,"Australian Capital Territory",8.3
+"2002-09-30",3,"Coral Sea Islands",22.66
+"2002-09-30",4,"Jervis Bay Territory",13.42
+"2002-09-30",5,"New South Wales",13.4
+"2002-09-30",6,"Northern Territory",20.72
+"2002-09-30",7,"Queensland",20.01
+"2002-09-30",8,"South Australia",16.05
+"2002-09-30",9,"Tasmania",10.25
+"2002-09-30",10,"Victoria",10.15
+"2002-09-30",11,"Western Australia",23.77
+"2002-10-01",1,"Ashmore and Cartier Islands",27.48
+"2002-10-01",2,"Australian Capital Territory",9.89
+"2002-10-01",3,"Coral Sea Islands",22.11
+"2002-10-01",4,"Jervis Bay Territory",15.27
+"2002-10-01",5,"New South Wales",16.75
+"2002-10-01",6,"Northern Territory",23.12
+"2002-10-01",7,"Queensland",22.21
+"2002-10-01",8,"South Australia",20.45
+"2002-10-01",9,"Tasmania",10.15
+"2002-10-01",10,"Victoria",13.03
+"2002-10-01",11,"Western Australia",23.21
+"2002-10-02",1,"Ashmore and Cartier Islands",26.98
+"2002-10-02",2,"Australian Capital Territory",11.76
+"2002-10-02",3,"Coral Sea Islands",22.39
+"2002-10-02",4,"Jervis Bay Territory",17.63
+"2002-10-02",5,"New South Wales",20.22
+"2002-10-02",6,"Northern Territory",25.12
+"2002-10-02",7,"Queensland",23.34
+"2002-10-02",8,"South Australia",22.15
+"2002-10-02",9,"Tasmania",10.36
+"2002-10-02",10,"Victoria",17.07
+"2002-10-02",11,"Western Australia",19.72
+"2002-10-03",1,"Ashmore and Cartier Islands",27
+"2002-10-03",2,"Australian Capital Territory",15.99
+"2002-10-03",3,"Coral Sea Islands",22.17
+"2002-10-03",4,"Jervis Bay Territory",18.91
+"2002-10-03",5,"New South Wales",22.41
+"2002-10-03",6,"Northern Territory",24.54
+"2002-10-03",7,"Queensland",24.36
+"2002-10-03",8,"South Australia",15.27
+"2002-10-03",9,"Tasmania",9.1
+"2002-10-03",10,"Victoria",16.19
+"2002-10-03",11,"Western Australia",19.32
+"2002-10-04",1,"Ashmore and Cartier Islands",26.53
+"2002-10-04",2,"Australian Capital Territory",11.89
+"2002-10-04",3,"Coral Sea Islands",22.22
+"2002-10-04",4,"Jervis Bay Territory",18.4
+"2002-10-04",5,"New South Wales",18
+"2002-10-04",6,"Northern Territory",23.72
+"2002-10-04",7,"Queensland",23.71
+"2002-10-04",8,"South Australia",14.01
+"2002-10-04",9,"Tasmania",10.96
+"2002-10-04",10,"Victoria",13.06
+"2002-10-04",11,"Western Australia",21.93
+"2002-10-05",1,"Ashmore and Cartier Islands",26.68
+"2002-10-05",2,"Australian Capital Territory",12.46
+"2002-10-05",3,"Coral Sea Islands",22.74
+"2002-10-05",4,"Jervis Bay Territory",18.28
+"2002-10-05",5,"New South Wales",17.59
+"2002-10-05",6,"Northern Territory",25.53
+"2002-10-05",7,"Queensland",23.72
+"2002-10-05",8,"South Australia",17.37
+"2002-10-05",9,"Tasmania",12.26
+"2002-10-05",10,"Victoria",12.79
+"2002-10-05",11,"Western Australia",24.05
+"2002-10-06",1,"Ashmore and Cartier Islands",26.24
+"2002-10-06",2,"Australian Capital Territory",13.03
+"2002-10-06",3,"Coral Sea Islands",23.21
+"2002-10-06",4,"Jervis Bay Territory",18.63
+"2002-10-06",5,"New South Wales",20.11
+"2002-10-06",6,"Northern Territory",28.77
+"2002-10-06",7,"Queensland",25.43
+"2002-10-06",8,"South Australia",21.47
+"2002-10-06",9,"Tasmania",13.09
+"2002-10-06",10,"Victoria",14.4
+"2002-10-06",11,"Western Australia",19.13
+"2002-10-07",1,"Ashmore and Cartier Islands",26.75
+"2002-10-07",2,"Australian Capital Territory",14.14
+"2002-10-07",3,"Coral Sea Islands",23.34
+"2002-10-07",4,"Jervis Bay Territory",17.72
+"2002-10-07",5,"New South Wales",23.08
+"2002-10-07",6,"Northern Territory",28.12
+"2002-10-07",7,"Queensland",26.83
+"2002-10-07",8,"South Australia",20.65
+"2002-10-07",9,"Tasmania",15.2
+"2002-10-07",10,"Victoria",17.41
+"2002-10-07",11,"Western Australia",18.67
+"2002-10-08",1,"Ashmore and Cartier Islands",26.57
+"2002-10-08",2,"Australian Capital Territory",15.36
+"2002-10-08",3,"Coral Sea Islands",23.16
+"2002-10-08",4,"Jervis Bay Territory",20.83
+"2002-10-08",5,"New South Wales",21.14
+"2002-10-08",6,"Northern Territory",27.44
+"2002-10-08",7,"Queensland",26.61
+"2002-10-08",8,"South Australia",15.8
+"2002-10-08",9,"Tasmania",7.86
+"2002-10-08",10,"Victoria",11.48
+"2002-10-08",11,"Western Australia",20.2
+"2002-10-09",1,"Ashmore and Cartier Islands",27.39
+"2002-10-09",2,"Australian Capital Territory",9.78
+"2002-10-09",3,"Coral Sea Islands",23.18
+"2002-10-09",4,"Jervis Bay Territory",14.35
+"2002-10-09",5,"New South Wales",16.18
+"2002-10-09",6,"Northern Territory",26.23
+"2002-10-09",7,"Queensland",25.67
+"2002-10-09",8,"South Australia",15.38
+"2002-10-09",9,"Tasmania",8.16
+"2002-10-09",10,"Victoria",10.24
+"2002-10-09",11,"Western Australia",23
+"2002-10-10",1,"Ashmore and Cartier Islands",27.12
+"2002-10-10",2,"Australian Capital Territory",9.28
+"2002-10-10",3,"Coral Sea Islands",23.44
+"2002-10-10",4,"Jervis Bay Territory",13.92
+"2002-10-10",5,"New South Wales",16.54
+"2002-10-10",6,"Northern Territory",25.69
+"2002-10-10",7,"Queensland",24.7
+"2002-10-10",8,"South Australia",17.57
+"2002-10-10",9,"Tasmania",9.97
+"2002-10-10",10,"Victoria",11.74
+"2002-10-10",11,"Western Australia",24.53
+"2002-10-11",1,"Ashmore and Cartier Islands",27.57
+"2002-10-11",2,"Australian Capital Territory",10.29
+"2002-10-11",3,"Coral Sea Islands",23.37
+"2002-10-11",4,"Jervis Bay Territory",14.85
+"2002-10-11",5,"New South Wales",17.84
+"2002-10-11",6,"Northern Territory",25.85
+"2002-10-11",7,"Queensland",24.69
+"2002-10-11",8,"South Australia",20.78
+"2002-10-11",9,"Tasmania",10.93
+"2002-10-11",10,"Victoria",13.38
+"2002-10-11",11,"Western Australia",24.26
+"2002-10-12",1,"Ashmore and Cartier Islands",27.35
+"2002-10-12",2,"Australian Capital Territory",11.03
+"2002-10-12",3,"Coral Sea Islands",23.27
+"2002-10-12",4,"Jervis Bay Territory",14.61
+"2002-10-12",5,"New South Wales",19.51
+"2002-10-12",6,"Northern Territory",27.46
+"2002-10-12",7,"Queensland",25.66
+"2002-10-12",8,"South Australia",22.33
+"2002-10-12",9,"Tasmania",11.54
+"2002-10-12",10,"Victoria",16.94
+"2002-10-12",11,"Western Australia",22.54
+"2002-10-13",1,"Ashmore and Cartier Islands",27.25
+"2002-10-13",2,"Australian Capital Territory",11.77
+"2002-10-13",3,"Coral Sea Islands",23.57
+"2002-10-13",4,"Jervis Bay Territory",16.07
+"2002-10-13",5,"New South Wales",18.55
+"2002-10-13",6,"Northern Territory",27.26
+"2002-10-13",7,"Queensland",26.28
+"2002-10-13",8,"South Australia",16.13
+"2002-10-13",9,"Tasmania",11.4
+"2002-10-13",10,"Victoria",13.28
+"2002-10-13",11,"Western Australia",23.95
+"2002-10-14",1,"Ashmore and Cartier Islands",27.57
+"2002-10-14",2,"Australian Capital Territory",10.31
+"2002-10-14",3,"Coral Sea Islands",23.72
+"2002-10-14",4,"Jervis Bay Territory",17.18
+"2002-10-14",5,"New South Wales",16.92
+"2002-10-14",6,"Northern Territory",27.03
+"2002-10-14",7,"Queensland",25.89
+"2002-10-14",8,"South Australia",18.6
+"2002-10-14",9,"Tasmania",9.38
+"2002-10-14",10,"Victoria",11.6
+"2002-10-14",11,"Western Australia",26.77
+"2002-10-15",1,"Ashmore and Cartier Islands",27.71
+"2002-10-15",2,"Australian Capital Territory",11.79
+"2002-10-15",3,"Coral Sea Islands",23.74
+"2002-10-15",4,"Jervis Bay Territory",17.69
+"2002-10-15",5,"New South Wales",18.63
+"2002-10-15",6,"Northern Territory",29.01
+"2002-10-15",7,"Queensland",26.57
+"2002-10-15",8,"South Australia",24.09
+"2002-10-15",9,"Tasmania",10.19
+"2002-10-15",10,"Victoria",12.77
+"2002-10-15",11,"Western Australia",27.18
+"2002-10-16",1,"Ashmore and Cartier Islands",27.4
+"2002-10-16",2,"Australian Capital Territory",14.38
+"2002-10-16",3,"Coral Sea Islands",23.56
+"2002-10-16",4,"Jervis Bay Territory",19.75
+"2002-10-16",5,"New South Wales",24.05
+"2002-10-16",6,"Northern Territory",31.4
+"2002-10-16",7,"Queensland",28.17
+"2002-10-16",8,"South Australia",26.67
+"2002-10-16",9,"Tasmania",11.31
+"2002-10-16",10,"Victoria",19.06
+"2002-10-16",11,"Western Australia",26.44
+"2002-10-17",1,"Ashmore and Cartier Islands",28
+"2002-10-17",2,"Australian Capital Territory",14.19
+"2002-10-17",3,"Coral Sea Islands",24.01
+"2002-10-17",4,"Jervis Bay Territory",15.18
+"2002-10-17",5,"New South Wales",21.31
+"2002-10-17",6,"Northern Territory",30.66
+"2002-10-17",7,"Queensland",29.58
+"2002-10-17",8,"South Australia",21.12
+"2002-10-17",9,"Tasmania",10.26
+"2002-10-17",10,"Victoria",13.15
+"2002-10-17",11,"Western Australia",28.49
+"2002-10-18",1,"Ashmore and Cartier Islands",27.26
+"2002-10-18",2,"Australian Capital Territory",14.63
+"2002-10-18",3,"Coral Sea Islands",23.61
+"2002-10-18",4,"Jervis Bay Territory",17.58
+"2002-10-18",5,"New South Wales",22.7
+"2002-10-18",6,"Northern Territory",31.87
+"2002-10-18",7,"Queensland",29.89
+"2002-10-18",8,"South Australia",26.42
+"2002-10-18",9,"Tasmania",11.25
+"2002-10-18",10,"Victoria",19.21
+"2002-10-18",11,"Western Australia",23.28
+"2002-10-19",1,"Ashmore and Cartier Islands",27.21
+"2002-10-19",2,"Australian Capital Territory",16.22
+"2002-10-19",3,"Coral Sea Islands",24.04
+"2002-10-19",4,"Jervis Bay Territory",16.76
+"2002-10-19",5,"New South Wales",21.81
+"2002-10-19",6,"Northern Territory",30.14
+"2002-10-19",7,"Queensland",30.92
+"2002-10-19",8,"South Australia",18.82
+"2002-10-19",9,"Tasmania",9.7
+"2002-10-19",10,"Victoria",14.47
+"2002-10-19",11,"Western Australia",25.67
+"2002-10-20",1,"Ashmore and Cartier Islands",27.69
+"2002-10-20",2,"Australian Capital Territory",16.14
+"2002-10-20",3,"Coral Sea Islands",23.99
+"2002-10-20",4,"Jervis Bay Territory",18.65
+"2002-10-20",5,"New South Wales",20.5
+"2002-10-20",6,"Northern Territory",29.2
+"2002-10-20",7,"Queensland",29.5
+"2002-10-20",8,"South Australia",21.18
+"2002-10-20",9,"Tasmania",11.15
+"2002-10-20",10,"Victoria",13.73
+"2002-10-20",11,"Western Australia",28.5
+"2002-10-21",1,"Ashmore and Cartier Islands",27.66
+"2002-10-21",2,"Australian Capital Territory",14.79
+"2002-10-21",3,"Coral Sea Islands",23.97
+"2002-10-21",4,"Jervis Bay Territory",14.96
+"2002-10-21",5,"New South Wales",19.39
+"2002-10-21",6,"Northern Territory",29.93
+"2002-10-21",7,"Queensland",28.33
+"2002-10-21",8,"South Australia",22.46
+"2002-10-21",9,"Tasmania",11.21
+"2002-10-21",10,"Victoria",13.46
+"2002-10-21",11,"Western Australia",29.6
+"2002-10-22",1,"Ashmore and Cartier Islands",27.42
+"2002-10-22",2,"Australian Capital Territory",13.8
+"2002-10-22",3,"Coral Sea Islands",24
+"2002-10-22",4,"Jervis Bay Territory",15.76
+"2002-10-22",5,"New South Wales",21.03
+"2002-10-22",6,"Northern Territory",30.78
+"2002-10-22",7,"Queensland",28.23
+"2002-10-22",8,"South Australia",26.3
+"2002-10-22",9,"Tasmania",11.48
+"2002-10-22",10,"Victoria",15.16
+"2002-10-22",11,"Western Australia",28.46
+"2002-10-23",1,"Ashmore and Cartier Islands",27.31
+"2002-10-23",2,"Australian Capital Territory",13.58
+"2002-10-23",3,"Coral Sea Islands",25.11
+"2002-10-23",4,"Jervis Bay Territory",20.98
+"2002-10-23",5,"New South Wales",18.7
+"2002-10-23",6,"Northern Territory",29.02
+"2002-10-23",7,"Queensland",27.54
+"2002-10-23",8,"South Australia",16.38
+"2002-10-23",9,"Tasmania",8.65
+"2002-10-23",10,"Victoria",10.85
+"2002-10-23",11,"Western Australia",27.21
+"2002-10-24",1,"Ashmore and Cartier Islands",27.35
+"2002-10-24",2,"Australian Capital Territory",8.22
+"2002-10-24",3,"Coral Sea Islands",25.55
+"2002-10-24",4,"Jervis Bay Territory",15.8
+"2002-10-24",5,"New South Wales",15.21
+"2002-10-24",6,"Northern Territory",28.47
+"2002-10-24",7,"Queensland",25.71
+"2002-10-24",8,"South Australia",20.26
+"2002-10-24",9,"Tasmania",9.1
+"2002-10-24",10,"Victoria",11.09
+"2002-10-24",11,"Western Australia",26.85
+"2002-10-25",1,"Ashmore and Cartier Islands",27.71
+"2002-10-25",2,"Australian Capital Territory",14.74
+"2002-10-25",3,"Coral Sea Islands",25.08
+"2002-10-25",4,"Jervis Bay Territory",19.18
+"2002-10-25",5,"New South Wales",22.57
+"2002-10-25",6,"Northern Territory",30.59
+"2002-10-25",7,"Queensland",29.58
+"2002-10-25",8,"South Australia",19.82
+"2002-10-25",9,"Tasmania",9.31
+"2002-10-25",10,"Victoria",12.71
+"2002-10-25",11,"Western Australia",25.77
+"2002-10-26",1,"Ashmore and Cartier Islands",27.54
+"2002-10-26",2,"Australian Capital Territory",10.68
+"2002-10-26",3,"Coral Sea Islands",25.21
+"2002-10-26",4,"Jervis Bay Territory",13.46
+"2002-10-26",5,"New South Wales",18.75
+"2002-10-26",6,"Northern Territory",29.67
+"2002-10-26",7,"Queensland",29.12
+"2002-10-26",8,"South Australia",17.52
+"2002-10-26",9,"Tasmania",8.42
+"2002-10-26",10,"Victoria",11.47
+"2002-10-26",11,"Western Australia",26.68
+"2002-10-27",1,"Ashmore and Cartier Islands",27.28
+"2002-10-27",2,"Australian Capital Territory",11.8
+"2002-10-27",3,"Coral Sea Islands",25.02
+"2002-10-27",4,"Jervis Bay Territory",14.1
+"2002-10-27",5,"New South Wales",16.84
+"2002-10-27",6,"Northern Territory",28.82
+"2002-10-27",7,"Queensland",27.41
+"2002-10-27",8,"South Australia",19.65
+"2002-10-27",9,"Tasmania",9.52
+"2002-10-27",10,"Victoria",13.09
+"2002-10-27",11,"Western Australia",27.9
+"2002-10-28",1,"Ashmore and Cartier Islands",27.37
+"2002-10-28",2,"Australian Capital Territory",13.25
+"2002-10-28",3,"Coral Sea Islands",24.53
+"2002-10-28",4,"Jervis Bay Territory",14.7
+"2002-10-28",5,"New South Wales",18.08
+"2002-10-28",6,"Northern Territory",27.78
+"2002-10-28",7,"Queensland",25.24
+"2002-10-28",8,"South Australia",23.03
+"2002-10-28",9,"Tasmania",9.95
+"2002-10-28",10,"Victoria",14.36
+"2002-10-28",11,"Western Australia",27.09
+"2002-10-29",1,"Ashmore and Cartier Islands",27.02
+"2002-10-29",2,"Australian Capital Territory",15.14
+"2002-10-29",3,"Coral Sea Islands",23.24
+"2002-10-29",4,"Jervis Bay Territory",15.6
+"2002-10-29",5,"New South Wales",21.66
+"2002-10-29",6,"Northern Territory",30.13
+"2002-10-29",7,"Queensland",26.93
+"2002-10-29",8,"South Australia",27.05
+"2002-10-29",9,"Tasmania",10.72
+"2002-10-29",10,"Victoria",19.37
+"2002-10-29",11,"Western Australia",25.31
+"2002-10-30",1,"Ashmore and Cartier Islands",27.3
+"2002-10-30",2,"Australian Capital Territory",20.05
+"2002-10-30",3,"Coral Sea Islands",23.37
+"2002-10-30",4,"Jervis Bay Territory",19.66
+"2002-10-30",5,"New South Wales",26.71
+"2002-10-30",6,"Northern Territory",31.5
+"2002-10-30",7,"Queensland",28.17
+"2002-10-30",8,"South Australia",23.34
+"2002-10-30",9,"Tasmania",14.15
+"2002-10-30",10,"Victoria",20.57
+"2002-10-30",11,"Western Australia",26.02
+"2002-10-31",1,"Ashmore and Cartier Islands",27.47
+"2002-10-31",2,"Australian Capital Territory",20.23
+"2002-10-31",3,"Coral Sea Islands",23.44
+"2002-10-31",4,"Jervis Bay Territory",17.37
+"2002-10-31",5,"New South Wales",24.2
+"2002-10-31",6,"Northern Territory",31.11
+"2002-10-31",7,"Queensland",28.89
+"2002-10-31",8,"South Australia",22.96
+"2002-10-31",9,"Tasmania",10.61
+"2002-10-31",10,"Victoria",15.44
+"2002-10-31",11,"Western Australia",27.07
+"2002-11-01",1,"Ashmore and Cartier Islands",27.89
+"2002-11-01",2,"Australian Capital Territory",18.42
+"2002-11-01",3,"Coral Sea Islands",23.96
+"2002-11-01",4,"Jervis Bay Territory",17.34
+"2002-11-01",5,"New South Wales",24.19
+"2002-11-01",6,"Northern Territory",31.39
+"2002-11-01",7,"Queensland",29.31
+"2002-11-01",8,"South Australia",29.14
+"2002-11-01",9,"Tasmania",10.94
+"2002-11-01",10,"Victoria",16.85
+"2002-11-01",11,"Western Australia",25.01
+"2002-11-02",1,"Ashmore and Cartier Islands",28.01
+"2002-11-02",2,"Australian Capital Territory",15.47
+"2002-11-02",3,"Coral Sea Islands",24.59
+"2002-11-02",4,"Jervis Bay Territory",17.38
+"2002-11-02",5,"New South Wales",26.41
+"2002-11-02",6,"Northern Territory",30.47
+"2002-11-02",7,"Queensland",30.15
+"2002-11-02",8,"South Australia",24.26
+"2002-11-02",9,"Tasmania",13.15
+"2002-11-02",10,"Victoria",21.71
+"2002-11-02",11,"Western Australia",21.95
+"2002-11-03",1,"Ashmore and Cartier Islands",28.52
+"2002-11-03",2,"Australian Capital Territory",19.73
+"2002-11-03",3,"Coral Sea Islands",24.08
+"2002-11-03",4,"Jervis Bay Territory",21.56
+"2002-11-03",5,"New South Wales",24.08
+"2002-11-03",6,"Northern Territory",29.31
+"2002-11-03",7,"Queensland",29.25
+"2002-11-03",8,"South Australia",19.83
+"2002-11-03",9,"Tasmania",13.42
+"2002-11-03",10,"Victoria",15.84
+"2002-11-03",11,"Western Australia",24.4
+"2002-11-04",1,"Ashmore and Cartier Islands",28.31
+"2002-11-04",2,"Australian Capital Territory",11.91
+"2002-11-04",3,"Coral Sea Islands",23.49
+"2002-11-04",4,"Jervis Bay Territory",20.11
+"2002-11-04",5,"New South Wales",19.62
+"2002-11-04",6,"Northern Territory",28.37
+"2002-11-04",7,"Queensland",28.85
+"2002-11-04",8,"South Australia",19.18
+"2002-11-04",9,"Tasmania",9.18
+"2002-11-04",10,"Victoria",11.75
+"2002-11-04",11,"Western Australia",26.79
+"2002-11-05",1,"Ashmore and Cartier Islands",28.19
+"2002-11-05",2,"Australian Capital Territory",14.78
+"2002-11-05",3,"Coral Sea Islands",24.21
+"2002-11-05",4,"Jervis Bay Territory",16.9
+"2002-11-05",5,"New South Wales",18.55
+"2002-11-05",6,"Northern Territory",28.62
+"2002-11-05",7,"Queensland",27.81
+"2002-11-05",8,"South Australia",22.82
+"2002-11-05",9,"Tasmania",10.66
+"2002-11-05",10,"Victoria",14.1
+"2002-11-05",11,"Western Australia",28.78
+"2002-11-06",1,"Ashmore and Cartier Islands",28.8
+"2002-11-06",2,"Australian Capital Territory",15.87
+"2002-11-06",3,"Coral Sea Islands",24.59
+"2002-11-06",4,"Jervis Bay Territory",17.83
+"2002-11-06",5,"New South Wales",21.9
+"2002-11-06",6,"Northern Territory",30.28
+"2002-11-06",7,"Queensland",28.35
+"2002-11-06",8,"South Australia",26.98
+"2002-11-06",9,"Tasmania",12.48
+"2002-11-06",10,"Victoria",18.24
+"2002-11-06",11,"Western Australia",29.03
+"2002-11-07",1,"Ashmore and Cartier Islands",28.44
+"2002-11-07",2,"Australian Capital Territory",19.94
+"2002-11-07",3,"Coral Sea Islands",24.42
+"2002-11-07",4,"Jervis Bay Territory",19
+"2002-11-07",5,"New South Wales",25.04
+"2002-11-07",6,"Northern Territory",31.36
+"2002-11-07",7,"Queensland",29.35
+"2002-11-07",8,"South Australia",29.43
+"2002-11-07",9,"Tasmania",18.34
+"2002-11-07",10,"Victoria",25.22
+"2002-11-07",11,"Western Australia",28.24
+"2002-11-08",1,"Ashmore and Cartier Islands",28.25
+"2002-11-08",2,"Australian Capital Territory",24.54
+"2002-11-08",3,"Coral Sea Islands",23.66
+"2002-11-08",4,"Jervis Bay Territory",23.1
+"2002-11-08",5,"New South Wales",29.44
+"2002-11-08",6,"Northern Territory",32.24
+"2002-11-08",7,"Queensland",29
+"2002-11-08",8,"South Australia",29.39
+"2002-11-08",9,"Tasmania",13.08
+"2002-11-08",10,"Victoria",23.63
+"2002-11-08",11,"Western Australia",29.26
+"2002-11-09",1,"Ashmore and Cartier Islands",28.52
+"2002-11-09",2,"Australian Capital Territory",24.42
+"2002-11-09",3,"Coral Sea Islands",23.96
+"2002-11-09",4,"Jervis Bay Territory",19.3
+"2002-11-09",5,"New South Wales",29.39
+"2002-11-09",6,"Northern Territory",32.56
+"2002-11-09",7,"Queensland",29.78
+"2002-11-09",8,"South Australia",29.51
+"2002-11-09",9,"Tasmania",13.72
+"2002-11-09",10,"Victoria",20.73
+"2002-11-09",11,"Western Australia",29.6
+"2002-11-10",1,"Ashmore and Cartier Islands",28.41
+"2002-11-10",2,"Australian Capital Territory",24.82
+"2002-11-10",3,"Coral Sea Islands",24.1
+"2002-11-10",4,"Jervis Bay Territory",17.56
+"2002-11-10",5,"New South Wales",28.79
+"2002-11-10",6,"Northern Territory",32.73
+"2002-11-10",7,"Queensland",30.47
+"2002-11-10",8,"South Australia",29.65
+"2002-11-10",9,"Tasmania",11.54
+"2002-11-10",10,"Victoria",17.41
+"2002-11-10",11,"Western Australia",30.29
+"2002-11-11",1,"Ashmore and Cartier Islands",28.29
+"2002-11-11",2,"Australian Capital Territory",15.58
+"2002-11-11",3,"Coral Sea Islands",24.78
+"2002-11-11",4,"Jervis Bay Territory",17.05
+"2002-11-11",5,"New South Wales",25.45
+"2002-11-11",6,"Northern Territory",32.78
+"2002-11-11",7,"Queensland",30.56
+"2002-11-11",8,"South Australia",33.68
+"2002-11-11",9,"Tasmania",12.96
+"2002-11-11",10,"Victoria",20.79
+"2002-11-11",11,"Western Australia",28.64
+"2002-11-12",1,"Ashmore and Cartier Islands",28.28
+"2002-11-12",2,"Australian Capital Territory",20.85
+"2002-11-12",3,"Coral Sea Islands",24.37
+"2002-11-12",4,"Jervis Bay Territory",19.37
+"2002-11-12",5,"New South Wales",28
+"2002-11-12",6,"Northern Territory",31.98
+"2002-11-12",7,"Queensland",30.22
+"2002-11-12",8,"South Australia",27.5
+"2002-11-12",9,"Tasmania",19.02
+"2002-11-12",10,"Victoria",26.78
+"2002-11-12",11,"Western Australia",25.15
+"2002-11-13",1,"Ashmore and Cartier Islands",28.11
+"2002-11-13",2,"Australian Capital Territory",20.37
+"2002-11-13",3,"Coral Sea Islands",24.28
+"2002-11-13",4,"Jervis Bay Territory",16.7
+"2002-11-13",5,"New South Wales",22.33
+"2002-11-13",6,"Northern Territory",30.65
+"2002-11-13",7,"Queensland",29.82
+"2002-11-13",8,"South Australia",19.48
+"2002-11-13",9,"Tasmania",10.76
+"2002-11-13",10,"Victoria",14.83
+"2002-11-13",11,"Western Australia",26.68
+"2002-11-14",1,"Ashmore and Cartier Islands",28.39
+"2002-11-14",2,"Australian Capital Territory",16.41
+"2002-11-14",3,"Coral Sea Islands",24.81
+"2002-11-14",4,"Jervis Bay Territory",17.97
+"2002-11-14",5,"New South Wales",23.06
+"2002-11-14",6,"Northern Territory",31.34
+"2002-11-14",7,"Queensland",29.56
+"2002-11-14",8,"South Australia",22.52
+"2002-11-14",9,"Tasmania",12.42
+"2002-11-14",10,"Victoria",16.15
+"2002-11-14",11,"Western Australia",28.71
+"2002-11-15",1,"Ashmore and Cartier Islands",28.93
+"2002-11-15",2,"Australian Capital Territory",17.39
+"2002-11-15",3,"Coral Sea Islands",24.56
+"2002-11-15",4,"Jervis Bay Territory",16.42
+"2002-11-15",5,"New South Wales",22.37
+"2002-11-15",6,"Northern Territory",30.75
+"2002-11-15",7,"Queensland",28.72
+"2002-11-15",8,"South Australia",24.12
+"2002-11-15",9,"Tasmania",10.99
+"2002-11-15",10,"Victoria",15.95
+"2002-11-15",11,"Western Australia",29.21
+"2002-11-16",1,"Ashmore and Cartier Islands",29.1
+"2002-11-16",2,"Australian Capital Territory",14.77
+"2002-11-16",3,"Coral Sea Islands",24.2
+"2002-11-16",4,"Jervis Bay Territory",16.31
+"2002-11-16",5,"New South Wales",23.08
+"2002-11-16",6,"Northern Territory",32.41
+"2002-11-16",7,"Queensland",28.8
+"2002-11-16",8,"South Australia",30.25
+"2002-11-16",9,"Tasmania",12.68
+"2002-11-16",10,"Victoria",20.94
+"2002-11-16",11,"Western Australia",27.24
+"2002-11-17",1,"Ashmore and Cartier Islands",29.14
+"2002-11-17",2,"Australian Capital Territory",19.78
+"2002-11-17",3,"Coral Sea Islands",24.05
+"2002-11-17",4,"Jervis Bay Territory",18.28
+"2002-11-17",5,"New South Wales",25.2
+"2002-11-17",6,"Northern Territory",33.03
+"2002-11-17",7,"Queensland",28.32
+"2002-11-17",8,"South Australia",29.08
+"2002-11-17",9,"Tasmania",17
+"2002-11-17",10,"Victoria",25.55
+"2002-11-17",11,"Western Australia",26.69
+"2002-11-18",1,"Ashmore and Cartier Islands",29.2
+"2002-11-18",2,"Australian Capital Territory",23.4
+"2002-11-18",3,"Coral Sea Islands",23.75
+"2002-11-18",4,"Jervis Bay Territory",20.24
+"2002-11-18",5,"New South Wales",28.04
+"2002-11-18",6,"Northern Territory",32.59
+"2002-11-18",7,"Queensland",28.67
+"2002-11-18",8,"South Australia",25.34
+"2002-11-18",9,"Tasmania",18
+"2002-11-18",10,"Victoria",24
+"2002-11-18",11,"Western Australia",27.77
+"2002-11-19",1,"Ashmore and Cartier Islands",28.95
+"2002-11-19",2,"Australian Capital Territory",25.02
+"2002-11-19",3,"Coral Sea Islands",24.1
+"2002-11-19",4,"Jervis Bay Territory",20.91
+"2002-11-19",5,"New South Wales",29
+"2002-11-19",6,"Northern Territory",29.75
+"2002-11-19",7,"Queensland",28.89
+"2002-11-19",8,"South Australia",26.73
+"2002-11-19",9,"Tasmania",15.57
+"2002-11-19",10,"Victoria",21.1
+"2002-11-19",11,"Western Australia",26.69
+"2002-11-20",1,"Ashmore and Cartier Islands",29.13
+"2002-11-20",2,"Australian Capital Territory",24.81
+"2002-11-20",3,"Coral Sea Islands",24.46
+"2002-11-20",4,"Jervis Bay Territory",18.51
+"2002-11-20",5,"New South Wales",25.73
+"2002-11-20",6,"Northern Territory",27.92
+"2002-11-20",7,"Queensland",28.63
+"2002-11-20",8,"South Australia",21.16
+"2002-11-20",9,"Tasmania",13.04
+"2002-11-20",10,"Victoria",14.32
+"2002-11-20",11,"Western Australia",26.64
+"2002-11-21",1,"Ashmore and Cartier Islands",28.92
+"2002-11-21",2,"Australian Capital Territory",13.31
+"2002-11-21",3,"Coral Sea Islands",24.83
+"2002-11-21",4,"Jervis Bay Territory",17.12
+"2002-11-21",5,"New South Wales",21.41
+"2002-11-21",6,"Northern Territory",27.4
+"2002-11-21",7,"Queensland",28.09
+"2002-11-21",8,"South Australia",22.62
+"2002-11-21",9,"Tasmania",12.72
+"2002-11-21",10,"Victoria",16.19
+"2002-11-21",11,"Western Australia",28.95
+"2002-11-22",1,"Ashmore and Cartier Islands",29.23
+"2002-11-22",2,"Australian Capital Territory",19.48
+"2002-11-22",3,"Coral Sea Islands",24.49
+"2002-11-22",4,"Jervis Bay Territory",19.66
+"2002-11-22",5,"New South Wales",25.86
+"2002-11-22",6,"Northern Territory",30.43
+"2002-11-22",7,"Queensland",28.98
+"2002-11-22",8,"South Australia",27.97
+"2002-11-22",9,"Tasmania",13.32
+"2002-11-22",10,"Victoria",20.72
+"2002-11-22",11,"Western Australia",29.14
+"2002-11-23",1,"Ashmore and Cartier Islands",28.59
+"2002-11-23",2,"Australian Capital Territory",19.48
+"2002-11-23",3,"Coral Sea Islands",24.73
+"2002-11-23",4,"Jervis Bay Territory",18.2
+"2002-11-23",5,"New South Wales",28.65
+"2002-11-23",6,"Northern Territory",32.76
+"2002-11-23",7,"Queensland",29.41
+"2002-11-23",8,"South Australia",33.13
+"2002-11-23",9,"Tasmania",14.23
+"2002-11-23",10,"Victoria",24.98
+"2002-11-23",11,"Western Australia",27.65
+"2002-11-24",1,"Ashmore and Cartier Islands",27.95
+"2002-11-24",2,"Australian Capital Territory",25.01
+"2002-11-24",3,"Coral Sea Islands",24.56
+"2002-11-24",4,"Jervis Bay Territory",21.27
+"2002-11-24",5,"New South Wales",31.35
+"2002-11-24",6,"Northern Territory",32.1
+"2002-11-24",7,"Queensland",29.96
+"2002-11-24",8,"South Australia",28.49
+"2002-11-24",9,"Tasmania",15.02
+"2002-11-24",10,"Victoria",25.68
+"2002-11-24",11,"Western Australia",24.39
+"2002-11-25",1,"Ashmore and Cartier Islands",28.42
+"2002-11-25",2,"Australian Capital Territory",25.5
+"2002-11-25",3,"Coral Sea Islands",24.35
+"2002-11-25",4,"Jervis Bay Territory",24.7
+"2002-11-25",5,"New South Wales",31.12
+"2002-11-25",6,"Northern Territory",28.59
+"2002-11-25",7,"Queensland",29.24
+"2002-11-25",8,"South Australia",22.56
+"2002-11-25",9,"Tasmania",13.11
+"2002-11-25",10,"Victoria",21.35
+"2002-11-25",11,"Western Australia",23.46
+"2002-11-26",1,"Ashmore and Cartier Islands",27.34
+"2002-11-26",2,"Australian Capital Territory",21.8
+"2002-11-26",3,"Coral Sea Islands",24.68
+"2002-11-26",4,"Jervis Bay Territory",22.62
+"2002-11-26",5,"New South Wales",26.89
+"2002-11-26",6,"Northern Territory",28.95
+"2002-11-26",7,"Queensland",29.53
+"2002-11-26",8,"South Australia",18.62
+"2002-11-26",9,"Tasmania",12.9
+"2002-11-26",10,"Victoria",18.44
+"2002-11-26",11,"Western Australia",23.81
+"2002-11-27",1,"Ashmore and Cartier Islands",26.39
+"2002-11-27",2,"Australian Capital Territory",18.18
+"2002-11-27",3,"Coral Sea Islands",23.96
+"2002-11-27",4,"Jervis Bay Territory",17.38
+"2002-11-27",5,"New South Wales",22.23
+"2002-11-27",6,"Northern Territory",27.04
+"2002-11-27",7,"Queensland",28.98
+"2002-11-27",8,"South Australia",20.05
+"2002-11-27",9,"Tasmania",14.95
+"2002-11-27",10,"Victoria",15.72
+"2002-11-27",11,"Western Australia",26.21
+"2002-11-28",1,"Ashmore and Cartier Islands",28.34
+"2002-11-28",2,"Australian Capital Territory",16.5
+"2002-11-28",3,"Coral Sea Islands",25.2
+"2002-11-28",4,"Jervis Bay Territory",17.72
+"2002-11-28",5,"New South Wales",24.3
+"2002-11-28",6,"Northern Territory",29.08
+"2002-11-28",7,"Queensland",29.37
+"2002-11-28",8,"South Australia",25.43
+"2002-11-28",9,"Tasmania",15.42
+"2002-11-28",10,"Victoria",18.92
+"2002-11-28",11,"Western Australia",27.72
+"2002-11-29",1,"Ashmore and Cartier Islands",28.44
+"2002-11-29",2,"Australian Capital Territory",17.74
+"2002-11-29",3,"Coral Sea Islands",25.16
+"2002-11-29",4,"Jervis Bay Territory",20.19
+"2002-11-29",5,"New South Wales",25.78
+"2002-11-29",6,"Northern Territory",30.08
+"2002-11-29",7,"Queensland",30.2
+"2002-11-29",8,"South Australia",26.6
+"2002-11-29",9,"Tasmania",14.94
+"2002-11-29",10,"Victoria",20.65
+"2002-11-29",11,"Western Australia",27.42
+"2002-11-30",1,"Ashmore and Cartier Islands",28.42
+"2002-11-30",2,"Australian Capital Territory",14.6
+"2002-11-30",3,"Coral Sea Islands",25.19
+"2002-11-30",4,"Jervis Bay Territory",16.47
+"2002-11-30",5,"New South Wales",21.58
+"2002-11-30",6,"Northern Territory",30.87
+"2002-11-30",7,"Queensland",30.83
+"2002-11-30",8,"South Australia",23.49
+"2002-11-30",9,"Tasmania",14.05
+"2002-11-30",10,"Victoria",15.05
+"2002-11-30",11,"Western Australia",29.84
+"2002-12-01",1,"Ashmore and Cartier Islands",27.68
+"2002-12-01",2,"Australian Capital Territory",17.01
+"2002-12-01",3,"Coral Sea Islands",26.07
+"2002-12-01",4,"Jervis Bay Territory",17.57
+"2002-12-01",5,"New South Wales",23.07
+"2002-12-01",6,"Northern Territory",32.62
+"2002-12-01",7,"Queensland",30.92
+"2002-12-01",8,"South Australia",28.65
+"2002-12-01",9,"Tasmania",15.77
+"2002-12-01",10,"Victoria",19.11
+"2002-12-01",11,"Western Australia",28.73
+"2002-12-02",1,"Ashmore and Cartier Islands",28.41
+"2002-12-02",2,"Australian Capital Territory",21.55
+"2002-12-02",3,"Coral Sea Islands",26.06
+"2002-12-02",4,"Jervis Bay Territory",18.7
+"2002-12-02",5,"New South Wales",27.85
+"2002-12-02",6,"Northern Territory",33.2
+"2002-12-02",7,"Queensland",31.95
+"2002-12-02",8,"South Australia",25.24
+"2002-12-02",9,"Tasmania",17.48
+"2002-12-02",10,"Victoria",26.7
+"2002-12-02",11,"Western Australia",24.32
+"2002-12-03",1,"Ashmore and Cartier Islands",26.93
+"2002-12-03",2,"Australian Capital Territory",25.28
+"2002-12-03",3,"Coral Sea Islands",25.73
+"2002-12-03",4,"Jervis Bay Territory",21.3
+"2002-12-03",5,"New South Wales",30.58
+"2002-12-03",6,"Northern Territory",30.97
+"2002-12-03",7,"Queensland",33.18
+"2002-12-03",8,"South Australia",23.32
+"2002-12-03",9,"Tasmania",18.64
+"2002-12-03",10,"Victoria",22.28
+"2002-12-03",11,"Western Australia",25.26
+"2002-12-04",1,"Ashmore and Cartier Islands",28.31
+"2002-12-04",2,"Australian Capital Territory",20.15
+"2002-12-04",3,"Coral Sea Islands",25.79
+"2002-12-04",4,"Jervis Bay Territory",24.57
+"2002-12-04",5,"New South Wales",25.66
+"2002-12-04",6,"Northern Territory",30.48
+"2002-12-04",7,"Queensland",32.49
+"2002-12-04",8,"South Australia",20.45
+"2002-12-04",9,"Tasmania",12.29
+"2002-12-04",10,"Victoria",15.81
+"2002-12-04",11,"Western Australia",25.3
+"2002-12-05",1,"Ashmore and Cartier Islands",28.01
+"2002-12-05",2,"Australian Capital Territory",12.07
+"2002-12-05",3,"Coral Sea Islands",25.65
+"2002-12-05",4,"Jervis Bay Territory",20.05
+"2002-12-05",5,"New South Wales",21.28
+"2002-12-05",6,"Northern Territory",31.25
+"2002-12-05",7,"Queensland",30.6
+"2002-12-05",8,"South Australia",20.92
+"2002-12-05",9,"Tasmania",10.32
+"2002-12-05",10,"Victoria",14.42
+"2002-12-05",11,"Western Australia",27.55
+"2002-12-06",1,"Ashmore and Cartier Islands",29.78
+"2002-12-06",2,"Australian Capital Territory",8.25
+"2002-12-06",3,"Coral Sea Islands",26.5
+"2002-12-06",4,"Jervis Bay Territory",16.06
+"2002-12-06",5,"New South Wales",16.58
+"2002-12-06",6,"Northern Territory",30.65
+"2002-12-06",7,"Queensland",29.15
+"2002-12-06",8,"South Australia",19.87
+"2002-12-06",9,"Tasmania",9.39
+"2002-12-06",10,"Victoria",11.7
+"2002-12-06",11,"Western Australia",28.82
+"2002-12-07",1,"Ashmore and Cartier Islands",30
+"2002-12-07",2,"Australian Capital Territory",14.21
+"2002-12-07",3,"Coral Sea Islands",26.33
+"2002-12-07",4,"Jervis Bay Territory",15.94
+"2002-12-07",5,"New South Wales",19.21
+"2002-12-07",6,"Northern Territory",30.16
+"2002-12-07",7,"Queensland",28.11
+"2002-12-07",8,"South Australia",24.64
+"2002-12-07",9,"Tasmania",12.11
+"2002-12-07",10,"Victoria",14.69
+"2002-12-07",11,"Western Australia",29.69
+"2002-12-08",1,"Ashmore and Cartier Islands",29.89
+"2002-12-08",2,"Australian Capital Territory",18.75
+"2002-12-08",3,"Coral Sea Islands",25.5
+"2002-12-08",4,"Jervis Bay Territory",20.79
+"2002-12-08",5,"New South Wales",25.81
+"2002-12-08",6,"Northern Territory",32.58
+"2002-12-08",7,"Queensland",30.02
+"2002-12-08",8,"South Australia",28.58
+"2002-12-08",9,"Tasmania",12.23
+"2002-12-08",10,"Victoria",21.08
+"2002-12-08",11,"Western Australia",27.7
+"2002-12-09",1,"Ashmore and Cartier Islands",29.69
+"2002-12-09",2,"Australian Capital Territory",19.55
+"2002-12-09",3,"Coral Sea Islands",25.79
+"2002-12-09",4,"Jervis Bay Territory",17.82
+"2002-12-09",5,"New South Wales",24.5
+"2002-12-09",6,"Northern Territory",32.34
+"2002-12-09",7,"Queensland",31.29
+"2002-12-09",8,"South Australia",19.03
+"2002-12-09",9,"Tasmania",10.82
+"2002-12-09",10,"Victoria",13.99
+"2002-12-09",11,"Western Australia",25.32
+"2002-12-10",1,"Ashmore and Cartier Islands",29.6
+"2002-12-10",2,"Australian Capital Territory",10
+"2002-12-10",3,"Coral Sea Islands",26.31
+"2002-12-10",4,"Jervis Bay Territory",15.23
+"2002-12-10",5,"New South Wales",16.87
+"2002-12-10",6,"Northern Territory",26.84
+"2002-12-10",7,"Queensland",27.6
+"2002-12-10",8,"South Australia",17.64
+"2002-12-10",9,"Tasmania",12.41
+"2002-12-10",10,"Victoria",14.71
+"2002-12-10",11,"Western Australia",25.15
+"2002-12-11",1,"Ashmore and Cartier Islands",29.33
+"2002-12-11",2,"Australian Capital Territory",15.67
+"2002-12-11",3,"Coral Sea Islands",26.65
+"2002-12-11",4,"Jervis Bay Territory",17.13
+"2002-12-11",5,"New South Wales",18.11
+"2002-12-11",6,"Northern Territory",26.64
+"2002-12-11",7,"Queensland",25.49
+"2002-12-11",8,"South Australia",21.3
+"2002-12-11",9,"Tasmania",14.59
+"2002-12-11",10,"Victoria",16.48
+"2002-12-11",11,"Western Australia",29.15
+"2002-12-12",1,"Ashmore and Cartier Islands",29.19
+"2002-12-12",2,"Australian Capital Territory",20.11
+"2002-12-12",3,"Coral Sea Islands",25.75
+"2002-12-12",4,"Jervis Bay Territory",18.45
+"2002-12-12",5,"New South Wales",21.86
+"2002-12-12",6,"Northern Territory",29.24
+"2002-12-12",7,"Queensland",28.54
+"2002-12-12",8,"South Australia",24.17
+"2002-12-12",9,"Tasmania",12.98
+"2002-12-12",10,"Victoria",15.6
+"2002-12-12",11,"Western Australia",31.85
+"2002-12-13",1,"Ashmore and Cartier Islands",28.87
+"2002-12-13",2,"Australian Capital Territory",20.17
+"2002-12-13",3,"Coral Sea Islands",25.57
+"2002-12-13",4,"Jervis Bay Territory",20.56
+"2002-12-13",5,"New South Wales",23.78
+"2002-12-13",6,"Northern Territory",31.65
+"2002-12-13",7,"Queensland",30.4
+"2002-12-13",8,"South Australia",26.84
+"2002-12-13",9,"Tasmania",12.58
+"2002-12-13",10,"Victoria",16.14
+"2002-12-13",11,"Western Australia",30.91
+"2002-12-14",1,"Ashmore and Cartier Islands",29.22
+"2002-12-14",2,"Australian Capital Territory",19.22
+"2002-12-14",3,"Coral Sea Islands",25.95
+"2002-12-14",4,"Jervis Bay Territory",19.78
+"2002-12-14",5,"New South Wales",26.33
+"2002-12-14",6,"Northern Territory",32.65
+"2002-12-14",7,"Queensland",30.85
+"2002-12-14",8,"South Australia",30.53
+"2002-12-14",9,"Tasmania",14.45
+"2002-12-14",10,"Victoria",19.28
+"2002-12-14",11,"Western Australia",30.25
+"2002-12-15",1,"Ashmore and Cartier Islands",29.15
+"2002-12-15",2,"Australian Capital Territory",23.46
+"2002-12-15",3,"Coral Sea Islands",26.14
+"2002-12-15",4,"Jervis Bay Territory",21.71
+"2002-12-15",5,"New South Wales",29.38
+"2002-12-15",6,"Northern Territory",33.49
+"2002-12-15",7,"Queensland",30.48
+"2002-12-15",8,"South Australia",33.92
+"2002-12-15",9,"Tasmania",15.71
+"2002-12-15",10,"Victoria",28.18
+"2002-12-15",11,"Western Australia",30.16
+"2002-12-16",1,"Ashmore and Cartier Islands",29.09
+"2002-12-16",2,"Australian Capital Territory",25.67
+"2002-12-16",3,"Coral Sea Islands",25.67
+"2002-12-16",4,"Jervis Bay Territory",23.07
+"2002-12-16",5,"New South Wales",31.05
+"2002-12-16",6,"Northern Territory",33.62
+"2002-12-16",7,"Queensland",30.89
+"2002-12-16",8,"South Australia",35.03
+"2002-12-16",9,"Tasmania",16.27
+"2002-12-16",10,"Victoria",27.02
+"2002-12-16",11,"Western Australia",31.64
+"2002-12-17",1,"Ashmore and Cartier Islands",29.24
+"2002-12-17",2,"Australian Capital Territory",24.7
+"2002-12-17",3,"Coral Sea Islands",25.88
+"2002-12-17",4,"Jervis Bay Territory",19.94
+"2002-12-17",5,"New South Wales",32.55
+"2002-12-17",6,"Northern Territory",33.56
+"2002-12-17",7,"Queensland",31.49
+"2002-12-17",8,"South Australia",36.74
+"2002-12-17",9,"Tasmania",17.49
+"2002-12-17",10,"Victoria",29.35
+"2002-12-17",11,"Western Australia",32.18
+"2002-12-18",1,"Ashmore and Cartier Islands",29.46
+"2002-12-18",2,"Australian Capital Territory",23.87
+"2002-12-18",3,"Coral Sea Islands",25.79
+"2002-12-18",4,"Jervis Bay Territory",19.66
+"2002-12-18",5,"New South Wales",31.9
+"2002-12-18",6,"Northern Territory",34.17
+"2002-12-18",7,"Queensland",31.35
+"2002-12-18",8,"South Australia",35.1
+"2002-12-18",9,"Tasmania",18.7
+"2002-12-18",10,"Victoria",27.13
+"2002-12-18",11,"Western Australia",31.47
+"2002-12-19",1,"Ashmore and Cartier Islands",30.35
+"2002-12-19",2,"Australian Capital Territory",19.95
+"2002-12-19",3,"Coral Sea Islands",25.57
+"2002-12-19",4,"Jervis Bay Territory",20.56
+"2002-12-19",5,"New South Wales",28.82
+"2002-12-19",6,"Northern Territory",33.08
+"2002-12-19",7,"Queensland",30.97
+"2002-12-19",8,"South Australia",33.95
+"2002-12-19",9,"Tasmania",19.24
+"2002-12-19",10,"Victoria",26.66
+"2002-12-19",11,"Western Australia",31.24
+"2002-12-20",1,"Ashmore and Cartier Islands",29.9
+"2002-12-20",2,"Australian Capital Territory",23.96
+"2002-12-20",3,"Coral Sea Islands",25.93
+"2002-12-20",4,"Jervis Bay Territory",22.4
+"2002-12-20",5,"New South Wales",28.71
+"2002-12-20",6,"Northern Territory",31.49
+"2002-12-20",7,"Queensland",30.48
+"2002-12-20",8,"South Australia",32.49
+"2002-12-20",9,"Tasmania",19.37
+"2002-12-20",10,"Victoria",27.24
+"2002-12-20",11,"Western Australia",30.44
+"2002-12-21",1,"Ashmore and Cartier Islands",29.7
+"2002-12-21",2,"Australian Capital Territory",25.89
+"2002-12-21",3,"Coral Sea Islands",25.5
+"2002-12-21",4,"Jervis Bay Territory",22.75
+"2002-12-21",5,"New South Wales",30.8
+"2002-12-21",6,"Northern Territory",32.23
+"2002-12-21",7,"Queensland",29.72
+"2002-12-21",8,"South Australia",34.45
+"2002-12-21",9,"Tasmania",20.38
+"2002-12-21",10,"Victoria",29.22
+"2002-12-21",11,"Western Australia",29.32
+"2002-12-22",1,"Ashmore and Cartier Islands",29.21
+"2002-12-22",2,"Australian Capital Territory",28.15
+"2002-12-22",3,"Coral Sea Islands",25.32
+"2002-12-22",4,"Jervis Bay Territory",24.33
+"2002-12-22",5,"New South Wales",31.71
+"2002-12-22",6,"Northern Territory",32.43
+"2002-12-22",7,"Queensland",28.77
+"2002-12-22",8,"South Australia",31.27
+"2002-12-22",9,"Tasmania",14.53
+"2002-12-22",10,"Victoria",21.71
+"2002-12-22",11,"Western Australia",27.15
+"2002-12-23",1,"Ashmore and Cartier Islands",29.38
+"2002-12-23",2,"Australian Capital Territory",16.64
+"2002-12-23",3,"Coral Sea Islands",25.27
+"2002-12-23",4,"Jervis Bay Territory",18.66
+"2002-12-23",5,"New South Wales",24
+"2002-12-23",6,"Northern Territory",31.75
+"2002-12-23",7,"Queensland",29.89
+"2002-12-23",8,"South Australia",26.47
+"2002-12-23",9,"Tasmania",12.93
+"2002-12-23",10,"Victoria",16.56
+"2002-12-23",11,"Western Australia",25.9
+"2002-12-24",1,"Ashmore and Cartier Islands",28.93
+"2002-12-24",2,"Australian Capital Territory",16.71
+"2002-12-24",3,"Coral Sea Islands",26.38
+"2002-12-24",4,"Jervis Bay Territory",18.44
+"2002-12-24",5,"New South Wales",22.52
+"2002-12-24",6,"Northern Territory",31.97
+"2002-12-24",7,"Queensland",30.63
+"2002-12-24",8,"South Australia",25.69
+"2002-12-24",9,"Tasmania",13.5
+"2002-12-24",10,"Victoria",17.31
+"2002-12-24",11,"Western Australia",26.59
+"2002-12-25",1,"Ashmore and Cartier Islands",29.29
+"2002-12-25",2,"Australian Capital Territory",17.4
+"2002-12-25",3,"Coral Sea Islands",26.66
+"2002-12-25",4,"Jervis Bay Territory",18.81
+"2002-12-25",5,"New South Wales",23.71
+"2002-12-25",6,"Northern Territory",30.51
+"2002-12-25",7,"Queensland",30.82
+"2002-12-25",8,"South Australia",26.66
+"2002-12-25",9,"Tasmania",12.14
+"2002-12-25",10,"Victoria",17.28
+"2002-12-25",11,"Western Australia",26.87
+"2002-12-26",1,"Ashmore and Cartier Islands",27.32
+"2002-12-26",2,"Australian Capital Territory",15.22
+"2002-12-26",3,"Coral Sea Islands",26.83
+"2002-12-26",4,"Jervis Bay Territory",18.02
+"2002-12-26",5,"New South Wales",22.86
+"2002-12-26",6,"Northern Territory",30.41
+"2002-12-26",7,"Queensland",30.01
+"2002-12-26",8,"South Australia",27.85
+"2002-12-26",9,"Tasmania",13.87
+"2002-12-26",10,"Victoria",18.6
+"2002-12-26",11,"Western Australia",28.84
+"2002-12-27",1,"Ashmore and Cartier Islands",27.58
+"2002-12-27",2,"Australian Capital Territory",19.06
+"2002-12-27",3,"Coral Sea Islands",26.62
+"2002-12-27",4,"Jervis Bay Territory",20.44
+"2002-12-27",5,"New South Wales",25.15
+"2002-12-27",6,"Northern Territory",32.19
+"2002-12-27",7,"Queensland",30.01
+"2002-12-27",8,"South Australia",30.54
+"2002-12-27",9,"Tasmania",16.03
+"2002-12-27",10,"Victoria",21.12
+"2002-12-27",11,"Western Australia",28.41
+"2002-12-28",1,"Ashmore and Cartier Islands",29.67
+"2002-12-28",2,"Australian Capital Territory",19.84
+"2002-12-28",3,"Coral Sea Islands",26.28
+"2002-12-28",4,"Jervis Bay Territory",20.86
+"2002-12-28",5,"New South Wales",27.98
+"2002-12-28",6,"Northern Territory",33.28
+"2002-12-28",7,"Queensland",30.84
+"2002-12-28",8,"South Australia",32.92
+"2002-12-28",9,"Tasmania",19.31
+"2002-12-28",10,"Victoria",27.03
+"2002-12-28",11,"Western Australia",28.47
+"2002-12-29",1,"Ashmore and Cartier Islands",29.92
+"2002-12-29",2,"Australian Capital Territory",22.54
+"2002-12-29",3,"Coral Sea Islands",25.79
+"2002-12-29",4,"Jervis Bay Territory",22
+"2002-12-29",5,"New South Wales",28.23
+"2002-12-29",6,"Northern Territory",33.92
+"2002-12-29",7,"Queensland",30.04
+"2002-12-29",8,"South Australia",31.96
+"2002-12-29",9,"Tasmania",21.58
+"2002-12-29",10,"Victoria",29.81
+"2002-12-29",11,"Western Australia",28.64
+"2002-12-30",1,"Ashmore and Cartier Islands",27.4
+"2002-12-30",2,"Australian Capital Territory",22.35
+"2002-12-30",3,"Coral Sea Islands",25.47
+"2002-12-30",4,"Jervis Bay Territory",22.45
+"2002-12-30",5,"New South Wales",27.71
+"2002-12-30",6,"Northern Territory",34.24
+"2002-12-30",7,"Queensland",30.12
+"2002-12-30",8,"South Australia",29.29
+"2002-12-30",9,"Tasmania",20.37
+"2002-12-30",10,"Victoria",25.69
+"2002-12-30",11,"Western Australia",26
+"2002-12-31",1,"Ashmore and Cartier Islands",28.09
+"2002-12-31",2,"Australian Capital Territory",22.19
+"2002-12-31",3,"Coral Sea Islands",25.53
+"2002-12-31",4,"Jervis Bay Territory",22.78
+"2002-12-31",5,"New South Wales",24.91
+"2002-12-31",6,"Northern Territory",28.98
+"2002-12-31",7,"Queensland",28.54
+"2002-12-31",8,"South Australia",20.01
+"2002-12-31",9,"Tasmania",20.05
+"2002-12-31",10,"Victoria",19.48
+"2002-12-31",11,"Western Australia",24.04

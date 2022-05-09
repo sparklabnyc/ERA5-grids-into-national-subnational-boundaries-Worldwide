@@ -1,0 +1,4381 @@
+"date","ID_1","NAME_1","t2m"
+"2003-01-01",1,"Abkhazia",3.55
+"2003-01-01",2,"Ajaria",-0.15
+"2003-01-01",3,"Guria",2.43
+"2003-01-01",4,"Imereti",1.38
+"2003-01-01",5,"Kakheti",-2.88
+"2003-01-01",6,"Kvemo Kartli",-3.89
+"2003-01-01",7,"Mtskheta-Mtianeti",-8.11
+"2003-01-01",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.92
+"2003-01-01",9,"Samegrelo-Zemo Svaneti",0.55
+"2003-01-01",10,"Samtskhe-Javakheti",-6.82
+"2003-01-01",11,"Shida Kartli",-1.33
+"2003-01-01",12,"Tbilisi",-2.16
+"2003-01-02",1,"Abkhazia",3.73
+"2003-01-02",2,"Ajaria",0.54
+"2003-01-02",3,"Guria",3.02
+"2003-01-02",4,"Imereti",1.7
+"2003-01-02",5,"Kakheti",-1.93
+"2003-01-02",6,"Kvemo Kartli",-3.54
+"2003-01-02",7,"Mtskheta-Mtianeti",-7.16
+"2003-01-02",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.88
+"2003-01-02",9,"Samegrelo-Zemo Svaneti",1.78
+"2003-01-02",10,"Samtskhe-Javakheti",-6.14
+"2003-01-02",11,"Shida Kartli",-2.81
+"2003-01-02",12,"Tbilisi",-4.7
+"2003-01-03",1,"Abkhazia",2.49
+"2003-01-03",2,"Ajaria",0.37
+"2003-01-03",3,"Guria",2.83
+"2003-01-03",4,"Imereti",1.17
+"2003-01-03",5,"Kakheti",-4.15
+"2003-01-03",6,"Kvemo Kartli",-4.4
+"2003-01-03",7,"Mtskheta-Mtianeti",-7.43
+"2003-01-03",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.03
+"2003-01-03",9,"Samegrelo-Zemo Svaneti",-0.17
+"2003-01-03",10,"Samtskhe-Javakheti",-4.69
+"2003-01-03",11,"Shida Kartli",-4.22
+"2003-01-03",12,"Tbilisi",-5.18
+"2003-01-04",1,"Abkhazia",3.25
+"2003-01-04",2,"Ajaria",-1.21
+"2003-01-04",3,"Guria",0.62
+"2003-01-04",4,"Imereti",-0.14
+"2003-01-04",5,"Kakheti",-3.44
+"2003-01-04",6,"Kvemo Kartli",-5.06
+"2003-01-04",7,"Mtskheta-Mtianeti",-7.79
+"2003-01-04",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.67
+"2003-01-04",9,"Samegrelo-Zemo Svaneti",-0.6
+"2003-01-04",10,"Samtskhe-Javakheti",-5.11
+"2003-01-04",11,"Shida Kartli",-4.39
+"2003-01-04",12,"Tbilisi",-6.95
+"2003-01-05",1,"Abkhazia",0.02
+"2003-01-05",2,"Ajaria",-0.9
+"2003-01-05",3,"Guria",1.48
+"2003-01-05",4,"Imereti",0.96
+"2003-01-05",5,"Kakheti",-2.5
+"2003-01-05",6,"Kvemo Kartli",-2.53
+"2003-01-05",7,"Mtskheta-Mtianeti",-7.1
+"2003-01-05",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.02
+"2003-01-05",9,"Samegrelo-Zemo Svaneti",-1.07
+"2003-01-05",10,"Samtskhe-Javakheti",-4.1
+"2003-01-05",11,"Shida Kartli",-1.99
+"2003-01-05",12,"Tbilisi",-1.01
+"2003-01-06",1,"Abkhazia",1.1
+"2003-01-06",2,"Ajaria",-0.86
+"2003-01-06",3,"Guria",2.41
+"2003-01-06",4,"Imereti",1.19
+"2003-01-06",5,"Kakheti",-1.08
+"2003-01-06",6,"Kvemo Kartli",-4.9
+"2003-01-06",7,"Mtskheta-Mtianeti",-5.11
+"2003-01-06",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.36
+"2003-01-06",9,"Samegrelo-Zemo Svaneti",-0.84
+"2003-01-06",10,"Samtskhe-Javakheti",-5.01
+"2003-01-06",11,"Shida Kartli",-3.07
+"2003-01-06",12,"Tbilisi",-3.8
+"2003-01-07",1,"Abkhazia",2
+"2003-01-07",2,"Ajaria",2.25
+"2003-01-07",3,"Guria",3.35
+"2003-01-07",4,"Imereti",1.85
+"2003-01-07",5,"Kakheti",0.88
+"2003-01-07",6,"Kvemo Kartli",-1.7
+"2003-01-07",7,"Mtskheta-Mtianeti",-3.56
+"2003-01-07",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.54
+"2003-01-07",9,"Samegrelo-Zemo Svaneti",0.09
+"2003-01-07",10,"Samtskhe-Javakheti",-1.46
+"2003-01-07",11,"Shida Kartli",-2.22
+"2003-01-07",12,"Tbilisi",-0.86
+"2003-01-08",1,"Abkhazia",2.28
+"2003-01-08",2,"Ajaria",1.09
+"2003-01-08",3,"Guria",3.47
+"2003-01-08",4,"Imereti",1.76
+"2003-01-08",5,"Kakheti",-3.05
+"2003-01-08",6,"Kvemo Kartli",-3.4
+"2003-01-08",7,"Mtskheta-Mtianeti",-7.83
+"2003-01-08",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.31
+"2003-01-08",9,"Samegrelo-Zemo Svaneti",1.24
+"2003-01-08",10,"Samtskhe-Javakheti",-2.6
+"2003-01-08",11,"Shida Kartli",-3.24
+"2003-01-08",12,"Tbilisi",-5.09
+"2003-01-09",1,"Abkhazia",2.76
+"2003-01-09",2,"Ajaria",2.16
+"2003-01-09",3,"Guria",3.14
+"2003-01-09",4,"Imereti",0.78
+"2003-01-09",5,"Kakheti",-0.33
+"2003-01-09",6,"Kvemo Kartli",-1.05
+"2003-01-09",7,"Mtskheta-Mtianeti",-5.45
+"2003-01-09",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.76
+"2003-01-09",9,"Samegrelo-Zemo Svaneti",1.05
+"2003-01-09",10,"Samtskhe-Javakheti",-4.26
+"2003-01-09",11,"Shida Kartli",-0.76
+"2003-01-09",12,"Tbilisi",-1.35
+"2003-01-10",1,"Abkhazia",-2.07
+"2003-01-10",2,"Ajaria",-0.35
+"2003-01-10",3,"Guria",2.24
+"2003-01-10",4,"Imereti",0.02
+"2003-01-10",5,"Kakheti",-1.31
+"2003-01-10",6,"Kvemo Kartli",-3.17
+"2003-01-10",7,"Mtskheta-Mtianeti",-7
+"2003-01-10",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.04
+"2003-01-10",9,"Samegrelo-Zemo Svaneti",-4.36
+"2003-01-10",10,"Samtskhe-Javakheti",-5.73
+"2003-01-10",11,"Shida Kartli",-3.8
+"2003-01-10",12,"Tbilisi",-1.42
+"2003-01-11",1,"Abkhazia",2.19
+"2003-01-11",2,"Ajaria",0.75
+"2003-01-11",3,"Guria",3.32
+"2003-01-11",4,"Imereti",0.75
+"2003-01-11",5,"Kakheti",-1.62
+"2003-01-11",6,"Kvemo Kartli",-3.28
+"2003-01-11",7,"Mtskheta-Mtianeti",-6.91
+"2003-01-11",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.67
+"2003-01-11",9,"Samegrelo-Zemo Svaneti",-0.11
+"2003-01-11",10,"Samtskhe-Javakheti",-6.24
+"2003-01-11",11,"Shida Kartli",-4.06
+"2003-01-11",12,"Tbilisi",-2.19
+"2003-01-12",1,"Abkhazia",4.51
+"2003-01-12",2,"Ajaria",2.74
+"2003-01-12",3,"Guria",4.28
+"2003-01-12",4,"Imereti",2.35
+"2003-01-12",5,"Kakheti",1.14
+"2003-01-12",6,"Kvemo Kartli",-1.26
+"2003-01-12",7,"Mtskheta-Mtianeti",-4.16
+"2003-01-12",8,"Racha-Lechkhumi-Kvemo Svaneti",1.03
+"2003-01-12",9,"Samegrelo-Zemo Svaneti",3.35
+"2003-01-12",10,"Samtskhe-Javakheti",-3.93
+"2003-01-12",11,"Shida Kartli",-2.15
+"2003-01-12",12,"Tbilisi",-2.39
+"2003-01-13",1,"Abkhazia",2.78
+"2003-01-13",2,"Ajaria",3.75
+"2003-01-13",3,"Guria",7.28
+"2003-01-13",4,"Imereti",3.7
+"2003-01-13",5,"Kakheti",0.04
+"2003-01-13",6,"Kvemo Kartli",0.35
+"2003-01-13",7,"Mtskheta-Mtianeti",-5.13
+"2003-01-13",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.21
+"2003-01-13",9,"Samegrelo-Zemo Svaneti",2.38
+"2003-01-13",10,"Samtskhe-Javakheti",-0.55
+"2003-01-13",11,"Shida Kartli",-0.99
+"2003-01-13",12,"Tbilisi",-1.94
+"2003-01-14",1,"Abkhazia",-2.32
+"2003-01-14",2,"Ajaria",-0.63
+"2003-01-14",3,"Guria",2.23
+"2003-01-14",4,"Imereti",0.41
+"2003-01-14",5,"Kakheti",-0.24
+"2003-01-14",6,"Kvemo Kartli",-0.01
+"2003-01-14",7,"Mtskheta-Mtianeti",-7.66
+"2003-01-14",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.01
+"2003-01-14",9,"Samegrelo-Zemo Svaneti",-2.59
+"2003-01-14",10,"Samtskhe-Javakheti",-3.12
+"2003-01-14",11,"Shida Kartli",-3.24
+"2003-01-14",12,"Tbilisi",-0.25
+"2003-01-15",1,"Abkhazia",-3.22
+"2003-01-15",2,"Ajaria",-3.13
+"2003-01-15",3,"Guria",0.82
+"2003-01-15",4,"Imereti",-0.97
+"2003-01-15",5,"Kakheti",-2.54
+"2003-01-15",6,"Kvemo Kartli",-4.73
+"2003-01-15",7,"Mtskheta-Mtianeti",-8.38
+"2003-01-15",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.83
+"2003-01-15",9,"Samegrelo-Zemo Svaneti",-5.74
+"2003-01-15",10,"Samtskhe-Javakheti",-8.09
+"2003-01-15",11,"Shida Kartli",-5.47
+"2003-01-15",12,"Tbilisi",-6
+"2003-01-16",1,"Abkhazia",-3.8
+"2003-01-16",2,"Ajaria",-2.8
+"2003-01-16",3,"Guria",1.25
+"2003-01-16",4,"Imereti",-1.38
+"2003-01-16",5,"Kakheti",-6.87
+"2003-01-16",6,"Kvemo Kartli",-7.65
+"2003-01-16",7,"Mtskheta-Mtianeti",-12
+"2003-01-16",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.52
+"2003-01-16",9,"Samegrelo-Zemo Svaneti",-6.91
+"2003-01-16",10,"Samtskhe-Javakheti",-10.75
+"2003-01-16",11,"Shida Kartli",-6.78
+"2003-01-16",12,"Tbilisi",-6.86
+"2003-01-17",1,"Abkhazia",-3.73
+"2003-01-17",2,"Ajaria",-6.11
+"2003-01-17",3,"Guria",-2.69
+"2003-01-17",4,"Imereti",-4.22
+"2003-01-17",5,"Kakheti",-8.54
+"2003-01-17",6,"Kvemo Kartli",-11.77
+"2003-01-17",7,"Mtskheta-Mtianeti",-14.4
+"2003-01-17",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.88
+"2003-01-17",9,"Samegrelo-Zemo Svaneti",-7.08
+"2003-01-17",10,"Samtskhe-Javakheti",-14.49
+"2003-01-17",11,"Shida Kartli",-9.7
+"2003-01-17",12,"Tbilisi",-9.61
+"2003-01-18",1,"Abkhazia",-2.34
+"2003-01-18",2,"Ajaria",-3.56
+"2003-01-18",3,"Guria",1.33
+"2003-01-18",4,"Imereti",-1.79
+"2003-01-18",5,"Kakheti",-6.52
+"2003-01-18",6,"Kvemo Kartli",-7.85
+"2003-01-18",7,"Mtskheta-Mtianeti",-11.86
+"2003-01-18",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.38
+"2003-01-18",9,"Samegrelo-Zemo Svaneti",-5.52
+"2003-01-18",10,"Samtskhe-Javakheti",-9.36
+"2003-01-18",11,"Shida Kartli",-7.46
+"2003-01-18",12,"Tbilisi",-5.81
+"2003-01-19",1,"Abkhazia",-4.31
+"2003-01-19",2,"Ajaria",-4.15
+"2003-01-19",3,"Guria",-0.63
+"2003-01-19",4,"Imereti",-1.51
+"2003-01-19",5,"Kakheti",-5.59
+"2003-01-19",6,"Kvemo Kartli",-7.29
+"2003-01-19",7,"Mtskheta-Mtianeti",-11.52
+"2003-01-19",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.2
+"2003-01-19",9,"Samegrelo-Zemo Svaneti",-8.21
+"2003-01-19",10,"Samtskhe-Javakheti",-9.17
+"2003-01-19",11,"Shida Kartli",-8.55
+"2003-01-19",12,"Tbilisi",-7.75
+"2003-01-20",1,"Abkhazia",-4.23
+"2003-01-20",2,"Ajaria",-5.21
+"2003-01-20",3,"Guria",-1.93
+"2003-01-20",4,"Imereti",-4
+"2003-01-20",5,"Kakheti",-8.36
+"2003-01-20",6,"Kvemo Kartli",-8.82
+"2003-01-20",7,"Mtskheta-Mtianeti",-15.02
+"2003-01-20",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.67
+"2003-01-20",9,"Samegrelo-Zemo Svaneti",-5.5
+"2003-01-20",10,"Samtskhe-Javakheti",-12.52
+"2003-01-20",11,"Shida Kartli",-9.84
+"2003-01-20",12,"Tbilisi",-7.19
+"2003-01-21",1,"Abkhazia",-5.77
+"2003-01-21",2,"Ajaria",-6.52
+"2003-01-21",3,"Guria",-3.59
+"2003-01-21",4,"Imereti",-6.5
+"2003-01-21",5,"Kakheti",-8.27
+"2003-01-21",6,"Kvemo Kartli",-10.68
+"2003-01-21",7,"Mtskheta-Mtianeti",-14.53
+"2003-01-21",8,"Racha-Lechkhumi-Kvemo Svaneti",-10.19
+"2003-01-21",9,"Samegrelo-Zemo Svaneti",-6.95
+"2003-01-21",10,"Samtskhe-Javakheti",-14.37
+"2003-01-21",11,"Shida Kartli",-11.28
+"2003-01-21",12,"Tbilisi",-8.77
+"2003-01-22",1,"Abkhazia",-6.01
+"2003-01-22",2,"Ajaria",-6.61
+"2003-01-22",3,"Guria",-3.34
+"2003-01-22",4,"Imereti",-7.15
+"2003-01-22",5,"Kakheti",-10.15
+"2003-01-22",6,"Kvemo Kartli",-12.04
+"2003-01-22",7,"Mtskheta-Mtianeti",-16.4
+"2003-01-22",8,"Racha-Lechkhumi-Kvemo Svaneti",-11.9
+"2003-01-22",9,"Samegrelo-Zemo Svaneti",-8.13
+"2003-01-22",10,"Samtskhe-Javakheti",-14.59
+"2003-01-22",11,"Shida Kartli",-13.15
+"2003-01-22",12,"Tbilisi",-10.61
+"2003-01-23",1,"Abkhazia",-5.02
+"2003-01-23",2,"Ajaria",-5.09
+"2003-01-23",3,"Guria",-1.43
+"2003-01-23",4,"Imereti",-5.06
+"2003-01-23",5,"Kakheti",-7.19
+"2003-01-23",6,"Kvemo Kartli",-9.04
+"2003-01-23",7,"Mtskheta-Mtianeti",-13.6
+"2003-01-23",8,"Racha-Lechkhumi-Kvemo Svaneti",-10.63
+"2003-01-23",9,"Samegrelo-Zemo Svaneti",-6.7
+"2003-01-23",10,"Samtskhe-Javakheti",-11.66
+"2003-01-23",11,"Shida Kartli",-10.4
+"2003-01-23",12,"Tbilisi",-7.23
+"2003-01-24",1,"Abkhazia",-2.2
+"2003-01-24",2,"Ajaria",-2.4
+"2003-01-24",3,"Guria",-0.13
+"2003-01-24",4,"Imereti",-3.98
+"2003-01-24",5,"Kakheti",-7.74
+"2003-01-24",6,"Kvemo Kartli",-8.82
+"2003-01-24",7,"Mtskheta-Mtianeti",-12.7
+"2003-01-24",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.5
+"2003-01-24",9,"Samegrelo-Zemo Svaneti",-5.48
+"2003-01-24",10,"Samtskhe-Javakheti",-9.86
+"2003-01-24",11,"Shida Kartli",-9.86
+"2003-01-24",12,"Tbilisi",-8.02
+"2003-01-25",1,"Abkhazia",-0.59
+"2003-01-25",2,"Ajaria",0.01
+"2003-01-25",3,"Guria",1.3
+"2003-01-25",4,"Imereti",-2.46
+"2003-01-25",5,"Kakheti",-5.08
+"2003-01-25",6,"Kvemo Kartli",-6.1
+"2003-01-25",7,"Mtskheta-Mtianeti",-10.16
+"2003-01-25",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.11
+"2003-01-25",9,"Samegrelo-Zemo Svaneti",-4.07
+"2003-01-25",10,"Samtskhe-Javakheti",-7.79
+"2003-01-25",11,"Shida Kartli",-7.72
+"2003-01-25",12,"Tbilisi",-6.51
+"2003-01-26",1,"Abkhazia",-1.76
+"2003-01-26",2,"Ajaria",0
+"2003-01-26",3,"Guria",4.88
+"2003-01-26",4,"Imereti",-0.57
+"2003-01-26",5,"Kakheti",-5.42
+"2003-01-26",6,"Kvemo Kartli",-6.32
+"2003-01-26",7,"Mtskheta-Mtianeti",-11.08
+"2003-01-26",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.48
+"2003-01-26",9,"Samegrelo-Zemo Svaneti",-4.38
+"2003-01-26",10,"Samtskhe-Javakheti",-9.17
+"2003-01-26",11,"Shida Kartli",-8.38
+"2003-01-26",12,"Tbilisi",-6.95
+"2003-01-27",1,"Abkhazia",-2
+"2003-01-27",2,"Ajaria",-2.99
+"2003-01-27",3,"Guria",0.36
+"2003-01-27",4,"Imereti",-0.58
+"2003-01-27",5,"Kakheti",-2.94
+"2003-01-27",6,"Kvemo Kartli",-3.98
+"2003-01-27",7,"Mtskheta-Mtianeti",-7.79
+"2003-01-27",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.3
+"2003-01-27",9,"Samegrelo-Zemo Svaneti",-5.77
+"2003-01-27",10,"Samtskhe-Javakheti",-8.22
+"2003-01-27",11,"Shida Kartli",-4.81
+"2003-01-27",12,"Tbilisi",-2.87
+"2003-01-28",1,"Abkhazia",-2.32
+"2003-01-28",2,"Ajaria",-3.53
+"2003-01-28",3,"Guria",-1.15
+"2003-01-28",4,"Imereti",-3.33
+"2003-01-28",5,"Kakheti",-5.4
+"2003-01-28",6,"Kvemo Kartli",-6.28
+"2003-01-28",7,"Mtskheta-Mtianeti",-10.94
+"2003-01-28",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.52
+"2003-01-28",9,"Samegrelo-Zemo Svaneti",-6.9
+"2003-01-28",10,"Samtskhe-Javakheti",-10.27
+"2003-01-28",11,"Shida Kartli",-8.56
+"2003-01-28",12,"Tbilisi",-5.35
+"2003-01-29",1,"Abkhazia",-2.41
+"2003-01-29",2,"Ajaria",-2.86
+"2003-01-29",3,"Guria",-0.06
+"2003-01-29",4,"Imereti",-1.89
+"2003-01-29",5,"Kakheti",-8.03
+"2003-01-29",6,"Kvemo Kartli",-9.63
+"2003-01-29",7,"Mtskheta-Mtianeti",-12.67
+"2003-01-29",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.41
+"2003-01-29",9,"Samegrelo-Zemo Svaneti",-6.41
+"2003-01-29",10,"Samtskhe-Javakheti",-12.12
+"2003-01-29",11,"Shida Kartli",-8.25
+"2003-01-29",12,"Tbilisi",-6.43
+"2003-01-30",1,"Abkhazia",-0.33
+"2003-01-30",2,"Ajaria",-4.11
+"2003-01-30",3,"Guria",-0.57
+"2003-01-30",4,"Imereti",-3.89
+"2003-01-30",5,"Kakheti",-6.56
+"2003-01-30",6,"Kvemo Kartli",-7.82
+"2003-01-30",7,"Mtskheta-Mtianeti",-12.74
+"2003-01-30",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.31
+"2003-01-30",9,"Samegrelo-Zemo Svaneti",-4.38
+"2003-01-30",10,"Samtskhe-Javakheti",-9.83
+"2003-01-30",11,"Shida Kartli",-10.02
+"2003-01-30",12,"Tbilisi",-8.35
+"2003-01-31",1,"Abkhazia",2.44
+"2003-01-31",2,"Ajaria",0.88
+"2003-01-31",3,"Guria",4.94
+"2003-01-31",4,"Imereti",1.94
+"2003-01-31",5,"Kakheti",-1.82
+"2003-01-31",6,"Kvemo Kartli",-3.08
+"2003-01-31",7,"Mtskheta-Mtianeti",-7.78
+"2003-01-31",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.31
+"2003-01-31",9,"Samegrelo-Zemo Svaneti",0.45
+"2003-01-31",10,"Samtskhe-Javakheti",-4.98
+"2003-01-31",11,"Shida Kartli",-4.6
+"2003-01-31",12,"Tbilisi",-3.88
+"2003-02-01",1,"Abkhazia",4.49
+"2003-02-01",2,"Ajaria",1.2
+"2003-02-01",3,"Guria",2.85
+"2003-02-01",4,"Imereti",1.59
+"2003-02-01",5,"Kakheti",0.23
+"2003-02-01",6,"Kvemo Kartli",-0.46
+"2003-02-01",7,"Mtskheta-Mtianeti",-4.71
+"2003-02-01",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.99
+"2003-02-01",9,"Samegrelo-Zemo Svaneti",2.2
+"2003-02-01",10,"Samtskhe-Javakheti",-1.91
+"2003-02-01",11,"Shida Kartli",-2.89
+"2003-02-01",12,"Tbilisi",-2.58
+"2003-02-02",1,"Abkhazia",2.19
+"2003-02-02",2,"Ajaria",1.51
+"2003-02-02",3,"Guria",4.64
+"2003-02-02",4,"Imereti",1.94
+"2003-02-02",5,"Kakheti",0.42
+"2003-02-02",6,"Kvemo Kartli",-0.65
+"2003-02-02",7,"Mtskheta-Mtianeti",-4.89
+"2003-02-02",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.7
+"2003-02-02",9,"Samegrelo-Zemo Svaneti",0.77
+"2003-02-02",10,"Samtskhe-Javakheti",-2.03
+"2003-02-02",11,"Shida Kartli",-2.18
+"2003-02-02",12,"Tbilisi",-0.31
+"2003-02-03",1,"Abkhazia",3.43
+"2003-02-03",2,"Ajaria",3.41
+"2003-02-03",3,"Guria",6.42
+"2003-02-03",4,"Imereti",2.85
+"2003-02-03",5,"Kakheti",-0.51
+"2003-02-03",6,"Kvemo Kartli",-2.25
+"2003-02-03",7,"Mtskheta-Mtianeti",-3.45
+"2003-02-03",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.78
+"2003-02-03",9,"Samegrelo-Zemo Svaneti",1.45
+"2003-02-03",10,"Samtskhe-Javakheti",-2.44
+"2003-02-03",11,"Shida Kartli",-1.72
+"2003-02-03",12,"Tbilisi",-0.93
+"2003-02-04",1,"Abkhazia",-0.06
+"2003-02-04",2,"Ajaria",-0.23
+"2003-02-04",3,"Guria",2.83
+"2003-02-04",4,"Imereti",1.3
+"2003-02-04",5,"Kakheti",-0.76
+"2003-02-04",6,"Kvemo Kartli",-1.61
+"2003-02-04",7,"Mtskheta-Mtianeti",-4.81
+"2003-02-04",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.58
+"2003-02-04",9,"Samegrelo-Zemo Svaneti",-1.38
+"2003-02-04",10,"Samtskhe-Javakheti",-2.65
+"2003-02-04",11,"Shida Kartli",-1.67
+"2003-02-04",12,"Tbilisi",-0.23
+"2003-02-05",1,"Abkhazia",1.17
+"2003-02-05",2,"Ajaria",0.83
+"2003-02-05",3,"Guria",4.11
+"2003-02-05",4,"Imereti",1.8
+"2003-02-05",5,"Kakheti",1.5
+"2003-02-05",6,"Kvemo Kartli",0.91
+"2003-02-05",7,"Mtskheta-Mtianeti",-2.91
+"2003-02-05",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.18
+"2003-02-05",9,"Samegrelo-Zemo Svaneti",-0.7
+"2003-02-05",10,"Samtskhe-Javakheti",-2.21
+"2003-02-05",11,"Shida Kartli",-1.17
+"2003-02-05",12,"Tbilisi",1.3
+"2003-02-06",1,"Abkhazia",0.72
+"2003-02-06",2,"Ajaria",1.15
+"2003-02-06",3,"Guria",3.54
+"2003-02-06",4,"Imereti",0.28
+"2003-02-06",5,"Kakheti",-3.46
+"2003-02-06",6,"Kvemo Kartli",-3.51
+"2003-02-06",7,"Mtskheta-Mtianeti",-9.98
+"2003-02-06",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.13
+"2003-02-06",9,"Samegrelo-Zemo Svaneti",-3.94
+"2003-02-06",10,"Samtskhe-Javakheti",-4.68
+"2003-02-06",11,"Shida Kartli",-6.53
+"2003-02-06",12,"Tbilisi",-3.01
+"2003-02-07",1,"Abkhazia",2.08
+"2003-02-07",2,"Ajaria",-0.45
+"2003-02-07",3,"Guria",1.23
+"2003-02-07",4,"Imereti",0.01
+"2003-02-07",5,"Kakheti",-2.39
+"2003-02-07",6,"Kvemo Kartli",-2.78
+"2003-02-07",7,"Mtskheta-Mtianeti",-8.21
+"2003-02-07",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.75
+"2003-02-07",9,"Samegrelo-Zemo Svaneti",-1.9
+"2003-02-07",10,"Samtskhe-Javakheti",-4.84
+"2003-02-07",11,"Shida Kartli",-5.47
+"2003-02-07",12,"Tbilisi",-2.97
+"2003-02-08",1,"Abkhazia",0.53
+"2003-02-08",2,"Ajaria",0.77
+"2003-02-08",3,"Guria",4.33
+"2003-02-08",4,"Imereti",2.64
+"2003-02-08",5,"Kakheti",-0.77
+"2003-02-08",6,"Kvemo Kartli",-2.3
+"2003-02-08",7,"Mtskheta-Mtianeti",-7.59
+"2003-02-08",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.69
+"2003-02-08",9,"Samegrelo-Zemo Svaneti",0.09
+"2003-02-08",10,"Samtskhe-Javakheti",-6.02
+"2003-02-08",11,"Shida Kartli",-3.21
+"2003-02-08",12,"Tbilisi",-1.97
+"2003-02-09",1,"Abkhazia",1.41
+"2003-02-09",2,"Ajaria",1.2
+"2003-02-09",3,"Guria",4.74
+"2003-02-09",4,"Imereti",1.77
+"2003-02-09",5,"Kakheti",-1.36
+"2003-02-09",6,"Kvemo Kartli",-2.54
+"2003-02-09",7,"Mtskheta-Mtianeti",-4.98
+"2003-02-09",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.61
+"2003-02-09",9,"Samegrelo-Zemo Svaneti",-1.05
+"2003-02-09",10,"Samtskhe-Javakheti",-5.28
+"2003-02-09",11,"Shida Kartli",-2.37
+"2003-02-09",12,"Tbilisi",-0.99
+"2003-02-10",1,"Abkhazia",-1.28
+"2003-02-10",2,"Ajaria",-1.75
+"2003-02-10",3,"Guria",2.01
+"2003-02-10",4,"Imereti",0.43
+"2003-02-10",5,"Kakheti",-0.87
+"2003-02-10",6,"Kvemo Kartli",-4
+"2003-02-10",7,"Mtskheta-Mtianeti",-5.96
+"2003-02-10",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.65
+"2003-02-10",9,"Samegrelo-Zemo Svaneti",-2.86
+"2003-02-10",10,"Samtskhe-Javakheti",-6.2
+"2003-02-10",11,"Shida Kartli",-3.15
+"2003-02-10",12,"Tbilisi",-1.37
+"2003-02-11",1,"Abkhazia",-3.03
+"2003-02-11",2,"Ajaria",-4.17
+"2003-02-11",3,"Guria",0.18
+"2003-02-11",4,"Imereti",-1.6
+"2003-02-11",5,"Kakheti",-1.79
+"2003-02-11",6,"Kvemo Kartli",-3.33
+"2003-02-11",7,"Mtskheta-Mtianeti",-7.28
+"2003-02-11",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.98
+"2003-02-11",9,"Samegrelo-Zemo Svaneti",-4.72
+"2003-02-11",10,"Samtskhe-Javakheti",-8.88
+"2003-02-11",11,"Shida Kartli",-5.44
+"2003-02-11",12,"Tbilisi",-1.79
+"2003-02-12",1,"Abkhazia",-5.21
+"2003-02-12",2,"Ajaria",-7.8
+"2003-02-12",3,"Guria",-3.84
+"2003-02-12",4,"Imereti",-5.03
+"2003-02-12",5,"Kakheti",-7.71
+"2003-02-12",6,"Kvemo Kartli",-10.23
+"2003-02-12",7,"Mtskheta-Mtianeti",-12.91
+"2003-02-12",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.3
+"2003-02-12",9,"Samegrelo-Zemo Svaneti",-6.4
+"2003-02-12",10,"Samtskhe-Javakheti",-16.09
+"2003-02-12",11,"Shida Kartli",-10.07
+"2003-02-12",12,"Tbilisi",-5.53
+"2003-02-13",1,"Abkhazia",-7.12
+"2003-02-13",2,"Ajaria",-7.54
+"2003-02-13",3,"Guria",-3.88
+"2003-02-13",4,"Imereti",-7.03
+"2003-02-13",5,"Kakheti",-10.51
+"2003-02-13",6,"Kvemo Kartli",-9.71
+"2003-02-13",7,"Mtskheta-Mtianeti",-15.73
+"2003-02-13",8,"Racha-Lechkhumi-Kvemo Svaneti",-10.03
+"2003-02-13",9,"Samegrelo-Zemo Svaneti",-7.85
+"2003-02-13",10,"Samtskhe-Javakheti",-14.49
+"2003-02-13",11,"Shida Kartli",-12.15
+"2003-02-13",12,"Tbilisi",-8.07
+"2003-02-14",1,"Abkhazia",-4.76
+"2003-02-14",2,"Ajaria",-1.44
+"2003-02-14",3,"Guria",0.78
+"2003-02-14",4,"Imereti",-3.66
+"2003-02-14",5,"Kakheti",-6.2
+"2003-02-14",6,"Kvemo Kartli",-6.12
+"2003-02-14",7,"Mtskheta-Mtianeti",-11.23
+"2003-02-14",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.13
+"2003-02-14",9,"Samegrelo-Zemo Svaneti",-7.03
+"2003-02-14",10,"Samtskhe-Javakheti",-7.57
+"2003-02-14",11,"Shida Kartli",-8.23
+"2003-02-14",12,"Tbilisi",-5.04
+"2003-02-15",1,"Abkhazia",-3.4
+"2003-02-15",2,"Ajaria",-3.13
+"2003-02-15",3,"Guria",0.91
+"2003-02-15",4,"Imereti",-1.26
+"2003-02-15",5,"Kakheti",-2.72
+"2003-02-15",6,"Kvemo Kartli",-3.91
+"2003-02-15",7,"Mtskheta-Mtianeti",-8.14
+"2003-02-15",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.23
+"2003-02-15",9,"Samegrelo-Zemo Svaneti",-5.17
+"2003-02-15",10,"Samtskhe-Javakheti",-7.09
+"2003-02-15",11,"Shida Kartli",-6.15
+"2003-02-15",12,"Tbilisi",-4.02
+"2003-02-16",1,"Abkhazia",-4.06
+"2003-02-16",2,"Ajaria",-4.01
+"2003-02-16",3,"Guria",-0.16
+"2003-02-16",4,"Imereti",-1.86
+"2003-02-16",5,"Kakheti",-4.2
+"2003-02-16",6,"Kvemo Kartli",-5.56
+"2003-02-16",7,"Mtskheta-Mtianeti",-10
+"2003-02-16",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.41
+"2003-02-16",9,"Samegrelo-Zemo Svaneti",-7.5
+"2003-02-16",10,"Samtskhe-Javakheti",-9.11
+"2003-02-16",11,"Shida Kartli",-7.11
+"2003-02-16",12,"Tbilisi",-4.32
+"2003-02-17",1,"Abkhazia",-4.83
+"2003-02-17",2,"Ajaria",-4.46
+"2003-02-17",3,"Guria",-0.12
+"2003-02-17",4,"Imereti",-2.85
+"2003-02-17",5,"Kakheti",-8.09
+"2003-02-17",6,"Kvemo Kartli",-7.24
+"2003-02-17",7,"Mtskheta-Mtianeti",-14.41
+"2003-02-17",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.9
+"2003-02-17",9,"Samegrelo-Zemo Svaneti",-7.9
+"2003-02-17",10,"Samtskhe-Javakheti",-10.81
+"2003-02-17",11,"Shida Kartli",-7.84
+"2003-02-17",12,"Tbilisi",-5.05
+"2003-02-18",1,"Abkhazia",-8.34
+"2003-02-18",2,"Ajaria",-8.14
+"2003-02-18",3,"Guria",-5.7
+"2003-02-18",4,"Imereti",-7.65
+"2003-02-18",5,"Kakheti",-10.1
+"2003-02-18",6,"Kvemo Kartli",-9.18
+"2003-02-18",7,"Mtskheta-Mtianeti",-14.67
+"2003-02-18",8,"Racha-Lechkhumi-Kvemo Svaneti",-11.75
+"2003-02-18",9,"Samegrelo-Zemo Svaneti",-11.26
+"2003-02-18",10,"Samtskhe-Javakheti",-15.96
+"2003-02-18",11,"Shida Kartli",-10.96
+"2003-02-18",12,"Tbilisi",-6.44
+"2003-02-19",1,"Abkhazia",-8.72
+"2003-02-19",2,"Ajaria",-6.29
+"2003-02-19",3,"Guria",-2.51
+"2003-02-19",4,"Imereti",-7.72
+"2003-02-19",5,"Kakheti",-9.85
+"2003-02-19",6,"Kvemo Kartli",-7.9
+"2003-02-19",7,"Mtskheta-Mtianeti",-17.31
+"2003-02-19",8,"Racha-Lechkhumi-Kvemo Svaneti",-13.71
+"2003-02-19",9,"Samegrelo-Zemo Svaneti",-11.27
+"2003-02-19",10,"Samtskhe-Javakheti",-11.28
+"2003-02-19",11,"Shida Kartli",-12.1
+"2003-02-19",12,"Tbilisi",-6.34
+"2003-02-20",1,"Abkhazia",-5.56
+"2003-02-20",2,"Ajaria",-5.5
+"2003-02-20",3,"Guria",-2.6
+"2003-02-20",4,"Imereti",-4.75
+"2003-02-20",5,"Kakheti",-4.38
+"2003-02-20",6,"Kvemo Kartli",-4.53
+"2003-02-20",7,"Mtskheta-Mtianeti",-10.12
+"2003-02-20",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.82
+"2003-02-20",9,"Samegrelo-Zemo Svaneti",-7.86
+"2003-02-20",10,"Samtskhe-Javakheti",-7.8
+"2003-02-20",11,"Shida Kartli",-7.24
+"2003-02-20",12,"Tbilisi",-2.77
+"2003-02-21",1,"Abkhazia",-5.62
+"2003-02-21",2,"Ajaria",-5.3
+"2003-02-21",3,"Guria",-1.43
+"2003-02-21",4,"Imereti",-2.98
+"2003-02-21",5,"Kakheti",-3.69
+"2003-02-21",6,"Kvemo Kartli",-5.34
+"2003-02-21",7,"Mtskheta-Mtianeti",-8.58
+"2003-02-21",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.2
+"2003-02-21",9,"Samegrelo-Zemo Svaneti",-7.4
+"2003-02-21",10,"Samtskhe-Javakheti",-9.36
+"2003-02-21",11,"Shida Kartli",-6.13
+"2003-02-21",12,"Tbilisi",-4.38
+"2003-02-22",1,"Abkhazia",-7.02
+"2003-02-22",2,"Ajaria",-4.7
+"2003-02-22",3,"Guria",-1.81
+"2003-02-22",4,"Imereti",-3.84
+"2003-02-22",5,"Kakheti",-4.61
+"2003-02-22",6,"Kvemo Kartli",-4.77
+"2003-02-22",7,"Mtskheta-Mtianeti",-10.57
+"2003-02-22",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.03
+"2003-02-22",9,"Samegrelo-Zemo Svaneti",-7.73
+"2003-02-22",10,"Samtskhe-Javakheti",-8.58
+"2003-02-22",11,"Shida Kartli",-6.7
+"2003-02-22",12,"Tbilisi",-3.75
+"2003-02-23",1,"Abkhazia",-9.39
+"2003-02-23",2,"Ajaria",-10.03
+"2003-02-23",3,"Guria",-8.82
+"2003-02-23",4,"Imereti",-9.14
+"2003-02-23",5,"Kakheti",-5.63
+"2003-02-23",6,"Kvemo Kartli",-6.92
+"2003-02-23",7,"Mtskheta-Mtianeti",-11.84
+"2003-02-23",8,"Racha-Lechkhumi-Kvemo Svaneti",-12.71
+"2003-02-23",9,"Samegrelo-Zemo Svaneti",-12.12
+"2003-02-23",10,"Samtskhe-Javakheti",-12.05
+"2003-02-23",11,"Shida Kartli",-9.49
+"2003-02-23",12,"Tbilisi",-5.16
+"2003-02-24",1,"Abkhazia",-9.65
+"2003-02-24",2,"Ajaria",-6.86
+"2003-02-24",3,"Guria",-5
+"2003-02-24",4,"Imereti",-5.76
+"2003-02-24",5,"Kakheti",-5.88
+"2003-02-24",6,"Kvemo Kartli",-6.16
+"2003-02-24",7,"Mtskheta-Mtianeti",-12.62
+"2003-02-24",8,"Racha-Lechkhumi-Kvemo Svaneti",-13.29
+"2003-02-24",9,"Samegrelo-Zemo Svaneti",-12.37
+"2003-02-24",10,"Samtskhe-Javakheti",-11.17
+"2003-02-24",11,"Shida Kartli",-9.58
+"2003-02-24",12,"Tbilisi",-8.34
+"2003-02-25",1,"Abkhazia",-3.52
+"2003-02-25",2,"Ajaria",-1.88
+"2003-02-25",3,"Guria",0.82
+"2003-02-25",4,"Imereti",-0.6
+"2003-02-25",5,"Kakheti",-3.67
+"2003-02-25",6,"Kvemo Kartli",-6.36
+"2003-02-25",7,"Mtskheta-Mtianeti",-8.78
+"2003-02-25",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.79
+"2003-02-25",9,"Samegrelo-Zemo Svaneti",-3.4
+"2003-02-25",10,"Samtskhe-Javakheti",-8.04
+"2003-02-25",11,"Shida Kartli",-6.18
+"2003-02-25",12,"Tbilisi",-6.67
+"2003-02-26",1,"Abkhazia",-1.61
+"2003-02-26",2,"Ajaria",-2.96
+"2003-02-26",3,"Guria",0.37
+"2003-02-26",4,"Imereti",-1.61
+"2003-02-26",5,"Kakheti",-3.98
+"2003-02-26",6,"Kvemo Kartli",-5.9
+"2003-02-26",7,"Mtskheta-Mtianeti",-7.8
+"2003-02-26",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.11
+"2003-02-26",9,"Samegrelo-Zemo Svaneti",-3.53
+"2003-02-26",10,"Samtskhe-Javakheti",-6.84
+"2003-02-26",11,"Shida Kartli",-6.14
+"2003-02-26",12,"Tbilisi",-4.49
+"2003-02-27",1,"Abkhazia",-3.23
+"2003-02-27",2,"Ajaria",-4.26
+"2003-02-27",3,"Guria",0.09
+"2003-02-27",4,"Imereti",-1.34
+"2003-02-27",5,"Kakheti",-4.11
+"2003-02-27",6,"Kvemo Kartli",-6.32
+"2003-02-27",7,"Mtskheta-Mtianeti",-8.86
+"2003-02-27",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.96
+"2003-02-27",9,"Samegrelo-Zemo Svaneti",-4.89
+"2003-02-27",10,"Samtskhe-Javakheti",-9.14
+"2003-02-27",11,"Shida Kartli",-5.27
+"2003-02-27",12,"Tbilisi",-3.25
+"2003-02-28",1,"Abkhazia",-2.63
+"2003-02-28",2,"Ajaria",-4.24
+"2003-02-28",3,"Guria",-1.18
+"2003-02-28",4,"Imereti",-1.39
+"2003-02-28",5,"Kakheti",-4.92
+"2003-02-28",6,"Kvemo Kartli",-6.37
+"2003-02-28",7,"Mtskheta-Mtianeti",-11.34
+"2003-02-28",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.07
+"2003-02-28",9,"Samegrelo-Zemo Svaneti",-4.43
+"2003-02-28",10,"Samtskhe-Javakheti",-10.12
+"2003-02-28",11,"Shida Kartli",-6.19
+"2003-02-28",12,"Tbilisi",-6.09
+"2003-03-01",1,"Abkhazia",-3.83
+"2003-03-01",2,"Ajaria",-6.62
+"2003-03-01",3,"Guria",-2.83
+"2003-03-01",4,"Imereti",-2.61
+"2003-03-01",5,"Kakheti",-4.4
+"2003-03-01",6,"Kvemo Kartli",-7.5
+"2003-03-01",7,"Mtskheta-Mtianeti",-12.35
+"2003-03-01",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.86
+"2003-03-01",9,"Samegrelo-Zemo Svaneti",-6.91
+"2003-03-01",10,"Samtskhe-Javakheti",-10.92
+"2003-03-01",11,"Shida Kartli",-7.83
+"2003-03-01",12,"Tbilisi",-6.73
+"2003-03-02",1,"Abkhazia",-6.3
+"2003-03-02",2,"Ajaria",-7.45
+"2003-03-02",3,"Guria",-4.52
+"2003-03-02",4,"Imereti",-7.23
+"2003-03-02",5,"Kakheti",-6.14
+"2003-03-02",6,"Kvemo Kartli",-9.3
+"2003-03-02",7,"Mtskheta-Mtianeti",-15.1
+"2003-03-02",8,"Racha-Lechkhumi-Kvemo Svaneti",-11.09
+"2003-03-02",9,"Samegrelo-Zemo Svaneti",-8.44
+"2003-03-02",10,"Samtskhe-Javakheti",-14.72
+"2003-03-02",11,"Shida Kartli",-13.73
+"2003-03-02",12,"Tbilisi",-5.17
+"2003-03-03",1,"Abkhazia",-3.36
+"2003-03-03",2,"Ajaria",-6.63
+"2003-03-03",3,"Guria",-2.54
+"2003-03-03",4,"Imereti",-5.25
+"2003-03-03",5,"Kakheti",-6.28
+"2003-03-03",6,"Kvemo Kartli",-8.71
+"2003-03-03",7,"Mtskheta-Mtianeti",-12.04
+"2003-03-03",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.37
+"2003-03-03",9,"Samegrelo-Zemo Svaneti",-5.01
+"2003-03-03",10,"Samtskhe-Javakheti",-12.11
+"2003-03-03",11,"Shida Kartli",-9.71
+"2003-03-03",12,"Tbilisi",-6.02
+"2003-03-04",1,"Abkhazia",0.55
+"2003-03-04",2,"Ajaria",-2.08
+"2003-03-04",3,"Guria",0.65
+"2003-03-04",4,"Imereti",-1.56
+"2003-03-04",5,"Kakheti",-4.53
+"2003-03-04",6,"Kvemo Kartli",-5.06
+"2003-03-04",7,"Mtskheta-Mtianeti",-8.64
+"2003-03-04",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.91
+"2003-03-04",9,"Samegrelo-Zemo Svaneti",-2.35
+"2003-03-04",10,"Samtskhe-Javakheti",-6.79
+"2003-03-04",11,"Shida Kartli",-6.3
+"2003-03-04",12,"Tbilisi",-5.26
+"2003-03-05",1,"Abkhazia",-0.32
+"2003-03-05",2,"Ajaria",-0.59
+"2003-03-05",3,"Guria",2.86
+"2003-03-05",4,"Imereti",1.39
+"2003-03-05",5,"Kakheti",-1.57
+"2003-03-05",6,"Kvemo Kartli",-2.1
+"2003-03-05",7,"Mtskheta-Mtianeti",-4.85
+"2003-03-05",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.2
+"2003-03-05",9,"Samegrelo-Zemo Svaneti",-1.82
+"2003-03-05",10,"Samtskhe-Javakheti",-4.59
+"2003-03-05",11,"Shida Kartli",-3.11
+"2003-03-05",12,"Tbilisi",-0.76
+"2003-03-06",1,"Abkhazia",-0.41
+"2003-03-06",2,"Ajaria",0.09
+"2003-03-06",3,"Guria",4.17
+"2003-03-06",4,"Imereti",1.91
+"2003-03-06",5,"Kakheti",-2.21
+"2003-03-06",6,"Kvemo Kartli",-0.52
+"2003-03-06",7,"Mtskheta-Mtianeti",-7.57
+"2003-03-06",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.35
+"2003-03-06",9,"Samegrelo-Zemo Svaneti",-0.8
+"2003-03-06",10,"Samtskhe-Javakheti",-3.53
+"2003-03-06",11,"Shida Kartli",-3.48
+"2003-03-06",12,"Tbilisi",-1.62
+"2003-03-07",1,"Abkhazia",3.03
+"2003-03-07",2,"Ajaria",2.2
+"2003-03-07",3,"Guria",4.74
+"2003-03-07",4,"Imereti",2.23
+"2003-03-07",5,"Kakheti",0.71
+"2003-03-07",6,"Kvemo Kartli",0.11
+"2003-03-07",7,"Mtskheta-Mtianeti",-3.62
+"2003-03-07",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.95
+"2003-03-07",9,"Samegrelo-Zemo Svaneti",0.61
+"2003-03-07",10,"Samtskhe-Javakheti",-2.82
+"2003-03-07",11,"Shida Kartli",-0.75
+"2003-03-07",12,"Tbilisi",0.38
+"2003-03-08",1,"Abkhazia",0.7
+"2003-03-08",2,"Ajaria",0.19
+"2003-03-08",3,"Guria",3.74
+"2003-03-08",4,"Imereti",1.52
+"2003-03-08",5,"Kakheti",-0.56
+"2003-03-08",6,"Kvemo Kartli",-1.09
+"2003-03-08",7,"Mtskheta-Mtianeti",-5.21
+"2003-03-08",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.83
+"2003-03-08",9,"Samegrelo-Zemo Svaneti",-1.27
+"2003-03-08",10,"Samtskhe-Javakheti",-3.36
+"2003-03-08",11,"Shida Kartli",-1.85
+"2003-03-08",12,"Tbilisi",1.35
+"2003-03-09",1,"Abkhazia",0.44
+"2003-03-09",2,"Ajaria",0.38
+"2003-03-09",3,"Guria",2.72
+"2003-03-09",4,"Imereti",2.42
+"2003-03-09",5,"Kakheti",1.98
+"2003-03-09",6,"Kvemo Kartli",1.65
+"2003-03-09",7,"Mtskheta-Mtianeti",-3.73
+"2003-03-09",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.61
+"2003-03-09",9,"Samegrelo-Zemo Svaneti",-0.53
+"2003-03-09",10,"Samtskhe-Javakheti",-3.99
+"2003-03-09",11,"Shida Kartli",-0.75
+"2003-03-09",12,"Tbilisi",3.04
+"2003-03-10",1,"Abkhazia",0.8
+"2003-03-10",2,"Ajaria",0.54
+"2003-03-10",3,"Guria",3.59
+"2003-03-10",4,"Imereti",0.9
+"2003-03-10",5,"Kakheti",-0.4
+"2003-03-10",6,"Kvemo Kartli",-0.04
+"2003-03-10",7,"Mtskheta-Mtianeti",-5.4
+"2003-03-10",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.84
+"2003-03-10",9,"Samegrelo-Zemo Svaneti",-1.59
+"2003-03-10",10,"Samtskhe-Javakheti",-3.57
+"2003-03-10",11,"Shida Kartli",-2.85
+"2003-03-10",12,"Tbilisi",-0.61
+"2003-03-11",1,"Abkhazia",0.4
+"2003-03-11",2,"Ajaria",-0.07
+"2003-03-11",3,"Guria",3.01
+"2003-03-11",4,"Imereti",1.32
+"2003-03-11",5,"Kakheti",2.1
+"2003-03-11",6,"Kvemo Kartli",1.34
+"2003-03-11",7,"Mtskheta-Mtianeti",-3.73
+"2003-03-11",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.09
+"2003-03-11",9,"Samegrelo-Zemo Svaneti",-1.45
+"2003-03-11",10,"Samtskhe-Javakheti",-2.29
+"2003-03-11",11,"Shida Kartli",-2.09
+"2003-03-11",12,"Tbilisi",0.84
+"2003-03-12",1,"Abkhazia",-0.14
+"2003-03-12",2,"Ajaria",-1.22
+"2003-03-12",3,"Guria",2.21
+"2003-03-12",4,"Imereti",0.32
+"2003-03-12",5,"Kakheti",1.05
+"2003-03-12",6,"Kvemo Kartli",-1.2
+"2003-03-12",7,"Mtskheta-Mtianeti",-4.96
+"2003-03-12",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.3
+"2003-03-12",9,"Samegrelo-Zemo Svaneti",-2.17
+"2003-03-12",10,"Samtskhe-Javakheti",-5
+"2003-03-12",11,"Shida Kartli",-3.74
+"2003-03-12",12,"Tbilisi",-1.18
+"2003-03-13",1,"Abkhazia",0.3
+"2003-03-13",2,"Ajaria",-1.27
+"2003-03-13",3,"Guria",2.14
+"2003-03-13",4,"Imereti",0.19
+"2003-03-13",5,"Kakheti",0.09
+"2003-03-13",6,"Kvemo Kartli",-0.21
+"2003-03-13",7,"Mtskheta-Mtianeti",-5.32
+"2003-03-13",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.73
+"2003-03-13",9,"Samegrelo-Zemo Svaneti",-2.38
+"2003-03-13",10,"Samtskhe-Javakheti",-5.89
+"2003-03-13",11,"Shida Kartli",-3.7
+"2003-03-13",12,"Tbilisi",1.17
+"2003-03-14",1,"Abkhazia",-0.2
+"2003-03-14",2,"Ajaria",-1.73
+"2003-03-14",3,"Guria",-0.23
+"2003-03-14",4,"Imereti",-2.1
+"2003-03-14",5,"Kakheti",-2.46
+"2003-03-14",6,"Kvemo Kartli",-3.98
+"2003-03-14",7,"Mtskheta-Mtianeti",-7.95
+"2003-03-14",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.57
+"2003-03-14",9,"Samegrelo-Zemo Svaneti",-3.81
+"2003-03-14",10,"Samtskhe-Javakheti",-7.16
+"2003-03-14",11,"Shida Kartli",-5.51
+"2003-03-14",12,"Tbilisi",-1.87
+"2003-03-15",1,"Abkhazia",1.51
+"2003-03-15",2,"Ajaria",0.73
+"2003-03-15",3,"Guria",2.96
+"2003-03-15",4,"Imereti",0.67
+"2003-03-15",5,"Kakheti",0.18
+"2003-03-15",6,"Kvemo Kartli",-0.96
+"2003-03-15",7,"Mtskheta-Mtianeti",-6.48
+"2003-03-15",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.16
+"2003-03-15",9,"Samegrelo-Zemo Svaneti",-1.15
+"2003-03-15",10,"Samtskhe-Javakheti",-2.96
+"2003-03-15",11,"Shida Kartli",-3.72
+"2003-03-15",12,"Tbilisi",-0.48
+"2003-03-16",1,"Abkhazia",0.96
+"2003-03-16",2,"Ajaria",2.48
+"2003-03-16",3,"Guria",5.41
+"2003-03-16",4,"Imereti",4.21
+"2003-03-16",5,"Kakheti",1.59
+"2003-03-16",6,"Kvemo Kartli",2.25
+"2003-03-16",7,"Mtskheta-Mtianeti",-4.43
+"2003-03-16",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.73
+"2003-03-16",9,"Samegrelo-Zemo Svaneti",0.81
+"2003-03-16",10,"Samtskhe-Javakheti",0.67
+"2003-03-16",11,"Shida Kartli",1.18
+"2003-03-16",12,"Tbilisi",1.62
+"2003-03-17",1,"Abkhazia",-2.65
+"2003-03-17",2,"Ajaria",-0.92
+"2003-03-17",3,"Guria",2.05
+"2003-03-17",4,"Imereti",-0.08
+"2003-03-17",5,"Kakheti",0.78
+"2003-03-17",6,"Kvemo Kartli",0.05
+"2003-03-17",7,"Mtskheta-Mtianeti",-5.5
+"2003-03-17",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.01
+"2003-03-17",9,"Samegrelo-Zemo Svaneti",-4.92
+"2003-03-17",10,"Samtskhe-Javakheti",-4.02
+"2003-03-17",11,"Shida Kartli",-3.49
+"2003-03-17",12,"Tbilisi",0.52
+"2003-03-18",1,"Abkhazia",-4.29
+"2003-03-18",2,"Ajaria",-4.24
+"2003-03-18",3,"Guria",-1.56
+"2003-03-18",4,"Imereti",-2.18
+"2003-03-18",5,"Kakheti",-2.37
+"2003-03-18",6,"Kvemo Kartli",-3.8
+"2003-03-18",7,"Mtskheta-Mtianeti",-8.42
+"2003-03-18",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.19
+"2003-03-18",9,"Samegrelo-Zemo Svaneti",-7.09
+"2003-03-18",10,"Samtskhe-Javakheti",-8.04
+"2003-03-18",11,"Shida Kartli",-6.5
+"2003-03-18",12,"Tbilisi",-2.61
+"2003-03-19",1,"Abkhazia",0.41
+"2003-03-19",2,"Ajaria",-0.88
+"2003-03-19",3,"Guria",2.12
+"2003-03-19",4,"Imereti",0.88
+"2003-03-19",5,"Kakheti",-2.55
+"2003-03-19",6,"Kvemo Kartli",-4.12
+"2003-03-19",7,"Mtskheta-Mtianeti",-6.2
+"2003-03-19",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.97
+"2003-03-19",9,"Samegrelo-Zemo Svaneti",-1.92
+"2003-03-19",10,"Samtskhe-Javakheti",-5.52
+"2003-03-19",11,"Shida Kartli",-4.17
+"2003-03-19",12,"Tbilisi",-2.35
+"2003-03-20",1,"Abkhazia",-2.62
+"2003-03-20",2,"Ajaria",-2.72
+"2003-03-20",3,"Guria",0.76
+"2003-03-20",4,"Imereti",-0.46
+"2003-03-20",5,"Kakheti",-2.49
+"2003-03-20",6,"Kvemo Kartli",-2.29
+"2003-03-20",7,"Mtskheta-Mtianeti",-7.26
+"2003-03-20",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.77
+"2003-03-20",9,"Samegrelo-Zemo Svaneti",-4.25
+"2003-03-20",10,"Samtskhe-Javakheti",-5.97
+"2003-03-20",11,"Shida Kartli",-3.66
+"2003-03-20",12,"Tbilisi",-0.72
+"2003-03-21",1,"Abkhazia",-3.79
+"2003-03-21",2,"Ajaria",-4.83
+"2003-03-21",3,"Guria",-1.1
+"2003-03-21",4,"Imereti",-2.81
+"2003-03-21",5,"Kakheti",-1.41
+"2003-03-21",6,"Kvemo Kartli",-3.21
+"2003-03-21",7,"Mtskheta-Mtianeti",-7.55
+"2003-03-21",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.19
+"2003-03-21",9,"Samegrelo-Zemo Svaneti",-6
+"2003-03-21",10,"Samtskhe-Javakheti",-9.77
+"2003-03-21",11,"Shida Kartli",-5.79
+"2003-03-21",12,"Tbilisi",-1.42
+"2003-03-22",1,"Abkhazia",-1.3
+"2003-03-22",2,"Ajaria",-0.75
+"2003-03-22",3,"Guria",2.52
+"2003-03-22",4,"Imereti",-2.2
+"2003-03-22",5,"Kakheti",-5.52
+"2003-03-22",6,"Kvemo Kartli",-7.64
+"2003-03-22",7,"Mtskheta-Mtianeti",-12.87
+"2003-03-22",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.95
+"2003-03-22",9,"Samegrelo-Zemo Svaneti",-3.04
+"2003-03-22",10,"Samtskhe-Javakheti",-9.68
+"2003-03-22",11,"Shida Kartli",-10.59
+"2003-03-22",12,"Tbilisi",-7.67
+"2003-03-23",1,"Abkhazia",-6.69
+"2003-03-23",2,"Ajaria",-6.03
+"2003-03-23",3,"Guria",-1.94
+"2003-03-23",4,"Imereti",-3.37
+"2003-03-23",5,"Kakheti",-1.16
+"2003-03-23",6,"Kvemo Kartli",-2.91
+"2003-03-23",7,"Mtskheta-Mtianeti",-7.39
+"2003-03-23",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.03
+"2003-03-23",9,"Samegrelo-Zemo Svaneti",-7.1
+"2003-03-23",10,"Samtskhe-Javakheti",-8.44
+"2003-03-23",11,"Shida Kartli",-6.26
+"2003-03-23",12,"Tbilisi",-2.18
+"2003-03-24",1,"Abkhazia",-3.5
+"2003-03-24",2,"Ajaria",-3.55
+"2003-03-24",3,"Guria",0.09
+"2003-03-24",4,"Imereti",-1.76
+"2003-03-24",5,"Kakheti",-0.7
+"2003-03-24",6,"Kvemo Kartli",-2.49
+"2003-03-24",7,"Mtskheta-Mtianeti",-5.17
+"2003-03-24",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.35
+"2003-03-24",9,"Samegrelo-Zemo Svaneti",-4.11
+"2003-03-24",10,"Samtskhe-Javakheti",-6.87
+"2003-03-24",11,"Shida Kartli",-3.55
+"2003-03-24",12,"Tbilisi",-0.84
+"2003-03-25",1,"Abkhazia",-1.87
+"2003-03-25",2,"Ajaria",-2.11
+"2003-03-25",3,"Guria",0.42
+"2003-03-25",4,"Imereti",-0.36
+"2003-03-25",5,"Kakheti",-0.54
+"2003-03-25",6,"Kvemo Kartli",-1.99
+"2003-03-25",7,"Mtskheta-Mtianeti",-4.2
+"2003-03-25",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.66
+"2003-03-25",9,"Samegrelo-Zemo Svaneti",-3.06
+"2003-03-25",10,"Samtskhe-Javakheti",-4.08
+"2003-03-25",11,"Shida Kartli",-2.39
+"2003-03-25",12,"Tbilisi",-0.89
+"2003-03-26",1,"Abkhazia",-1.72
+"2003-03-26",2,"Ajaria",-1.33
+"2003-03-26",3,"Guria",1.34
+"2003-03-26",4,"Imereti",0.17
+"2003-03-26",5,"Kakheti",-0.18
+"2003-03-26",6,"Kvemo Kartli",-0.63
+"2003-03-26",7,"Mtskheta-Mtianeti",-4.05
+"2003-03-26",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.34
+"2003-03-26",9,"Samegrelo-Zemo Svaneti",-2.86
+"2003-03-26",10,"Samtskhe-Javakheti",-2.73
+"2003-03-26",11,"Shida Kartli",-1.89
+"2003-03-26",12,"Tbilisi",-1.22
+"2003-03-27",1,"Abkhazia",-0.82
+"2003-03-27",2,"Ajaria",-3.47
+"2003-03-27",3,"Guria",1.34
+"2003-03-27",4,"Imereti",-0.68
+"2003-03-27",5,"Kakheti",-1.5
+"2003-03-27",6,"Kvemo Kartli",-2.13
+"2003-03-27",7,"Mtskheta-Mtianeti",-5.78
+"2003-03-27",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.72
+"2003-03-27",9,"Samegrelo-Zemo Svaneti",-2.83
+"2003-03-27",10,"Samtskhe-Javakheti",-7.44
+"2003-03-27",11,"Shida Kartli",-4.05
+"2003-03-27",12,"Tbilisi",-0.72
+"2003-03-28",1,"Abkhazia",-5.46
+"2003-03-28",2,"Ajaria",-6.03
+"2003-03-28",3,"Guria",-1.51
+"2003-03-28",4,"Imereti",-3.82
+"2003-03-28",5,"Kakheti",-3.12
+"2003-03-28",6,"Kvemo Kartli",-4.1
+"2003-03-28",7,"Mtskheta-Mtianeti",-8.84
+"2003-03-28",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.69
+"2003-03-28",9,"Samegrelo-Zemo Svaneti",-7.61
+"2003-03-28",10,"Samtskhe-Javakheti",-10.15
+"2003-03-28",11,"Shida Kartli",-6.64
+"2003-03-28",12,"Tbilisi",-3.17
+"2003-03-29",1,"Abkhazia",-6.46
+"2003-03-29",2,"Ajaria",-8.51
+"2003-03-29",3,"Guria",-6.44
+"2003-03-29",4,"Imereti",-6.16
+"2003-03-29",5,"Kakheti",-5.66
+"2003-03-29",6,"Kvemo Kartli",-10.05
+"2003-03-29",7,"Mtskheta-Mtianeti",-11.52
+"2003-03-29",8,"Racha-Lechkhumi-Kvemo Svaneti",-10.6
+"2003-03-29",9,"Samegrelo-Zemo Svaneti",-9.52
+"2003-03-29",10,"Samtskhe-Javakheti",-14.1
+"2003-03-29",11,"Shida Kartli",-10.24
+"2003-03-29",12,"Tbilisi",-12.48
+"2003-03-30",1,"Abkhazia",-6.92
+"2003-03-30",2,"Ajaria",-8.95
+"2003-03-30",3,"Guria",-5.57
+"2003-03-30",4,"Imereti",-8.72
+"2003-03-30",5,"Kakheti",-10.3
+"2003-03-30",6,"Kvemo Kartli",-12.17
+"2003-03-30",7,"Mtskheta-Mtianeti",-16.61
+"2003-03-30",8,"Racha-Lechkhumi-Kvemo Svaneti",-12.18
+"2003-03-30",9,"Samegrelo-Zemo Svaneti",-9.92
+"2003-03-30",10,"Samtskhe-Javakheti",-14.51
+"2003-03-30",11,"Shida Kartli",-14.93
+"2003-03-30",12,"Tbilisi",-14.12
+"2003-03-31",1,"Abkhazia",-4.55
+"2003-03-31",2,"Ajaria",-7.63
+"2003-03-31",3,"Guria",-5.21
+"2003-03-31",4,"Imereti",-5.67
+"2003-03-31",5,"Kakheti",-8.45
+"2003-03-31",6,"Kvemo Kartli",-9.44
+"2003-03-31",7,"Mtskheta-Mtianeti",-14.52
+"2003-03-31",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.41
+"2003-03-31",9,"Samegrelo-Zemo Svaneti",-7.47
+"2003-03-31",10,"Samtskhe-Javakheti",-12.36
+"2003-03-31",11,"Shida Kartli",-10.96
+"2003-03-31",12,"Tbilisi",-8.84
+"2003-04-01",1,"Abkhazia",-1.73
+"2003-04-01",2,"Ajaria",-3.72
+"2003-04-01",3,"Guria",-1.76
+"2003-04-01",4,"Imereti",-2.6
+"2003-04-01",5,"Kakheti",-4.54
+"2003-04-01",6,"Kvemo Kartli",-4.89
+"2003-04-01",7,"Mtskheta-Mtianeti",-8.36
+"2003-04-01",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.94
+"2003-04-01",9,"Samegrelo-Zemo Svaneti",-3.98
+"2003-04-01",10,"Samtskhe-Javakheti",-8.93
+"2003-04-01",11,"Shida Kartli",-6.48
+"2003-04-01",12,"Tbilisi",-2.99
+"2003-04-02",1,"Abkhazia",1.25
+"2003-04-02",2,"Ajaria",-0.08
+"2003-04-02",3,"Guria",0.83
+"2003-04-02",4,"Imereti",-1.7
+"2003-04-02",5,"Kakheti",-3.68
+"2003-04-02",6,"Kvemo Kartli",-3.56
+"2003-04-02",7,"Mtskheta-Mtianeti",-9.33
+"2003-04-02",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.59
+"2003-04-02",9,"Samegrelo-Zemo Svaneti",-1.96
+"2003-04-02",10,"Samtskhe-Javakheti",-5.54
+"2003-04-02",11,"Shida Kartli",-5.7
+"2003-04-02",12,"Tbilisi",-4.34
+"2003-04-03",1,"Abkhazia",-2.65
+"2003-04-03",2,"Ajaria",0.28
+"2003-04-03",3,"Guria",3.5
+"2003-04-03",4,"Imereti",0.63
+"2003-04-03",5,"Kakheti",0.61
+"2003-04-03",6,"Kvemo Kartli",0.84
+"2003-04-03",7,"Mtskheta-Mtianeti",-6.03
+"2003-04-03",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.7
+"2003-04-03",9,"Samegrelo-Zemo Svaneti",-4.26
+"2003-04-03",10,"Samtskhe-Javakheti",-1
+"2003-04-03",11,"Shida Kartli",-2.97
+"2003-04-03",12,"Tbilisi",0.31
+"2003-04-04",1,"Abkhazia",5.69
+"2003-04-04",2,"Ajaria",5.66
+"2003-04-04",3,"Guria",9.21
+"2003-04-04",4,"Imereti",5.62
+"2003-04-04",5,"Kakheti",2.63
+"2003-04-04",6,"Kvemo Kartli",2.51
+"2003-04-04",7,"Mtskheta-Mtianeti",-0.84
+"2003-04-04",8,"Racha-Lechkhumi-Kvemo Svaneti",0.72
+"2003-04-04",9,"Samegrelo-Zemo Svaneti",3.72
+"2003-04-04",10,"Samtskhe-Javakheti",2.77
+"2003-04-04",11,"Shida Kartli",1.78
+"2003-04-04",12,"Tbilisi",1.46
+"2003-04-05",1,"Abkhazia",3.97
+"2003-04-05",2,"Ajaria",4.38
+"2003-04-05",3,"Guria",7.43
+"2003-04-05",4,"Imereti",5.37
+"2003-04-05",5,"Kakheti",5.95
+"2003-04-05",6,"Kvemo Kartli",5.5
+"2003-04-05",7,"Mtskheta-Mtianeti",1.71
+"2003-04-05",8,"Racha-Lechkhumi-Kvemo Svaneti",2.18
+"2003-04-05",9,"Samegrelo-Zemo Svaneti",3.59
+"2003-04-05",10,"Samtskhe-Javakheti",2.07
+"2003-04-05",11,"Shida Kartli",2.81
+"2003-04-05",12,"Tbilisi",4.72
+"2003-04-06",1,"Abkhazia",9.07
+"2003-04-06",2,"Ajaria",7.56
+"2003-04-06",3,"Guria",11.12
+"2003-04-06",4,"Imereti",9.36
+"2003-04-06",5,"Kakheti",7.62
+"2003-04-06",6,"Kvemo Kartli",7.14
+"2003-04-06",7,"Mtskheta-Mtianeti",3.18
+"2003-04-06",8,"Racha-Lechkhumi-Kvemo Svaneti",4.24
+"2003-04-06",9,"Samegrelo-Zemo Svaneti",7.37
+"2003-04-06",10,"Samtskhe-Javakheti",5.71
+"2003-04-06",11,"Shida Kartli",5.31
+"2003-04-06",12,"Tbilisi",6.88
+"2003-04-07",1,"Abkhazia",4.17
+"2003-04-07",2,"Ajaria",4.35
+"2003-04-07",3,"Guria",7.87
+"2003-04-07",4,"Imereti",4.22
+"2003-04-07",5,"Kakheti",7.96
+"2003-04-07",6,"Kvemo Kartli",4.16
+"2003-04-07",7,"Mtskheta-Mtianeti",1.36
+"2003-04-07",8,"Racha-Lechkhumi-Kvemo Svaneti",1.73
+"2003-04-07",9,"Samegrelo-Zemo Svaneti",3.3
+"2003-04-07",10,"Samtskhe-Javakheti",2.93
+"2003-04-07",11,"Shida Kartli",1.87
+"2003-04-07",12,"Tbilisi",2.81
+"2003-04-08",1,"Abkhazia",3.85
+"2003-04-08",2,"Ajaria",3.36
+"2003-04-08",3,"Guria",5.98
+"2003-04-08",4,"Imereti",5.15
+"2003-04-08",5,"Kakheti",9.61
+"2003-04-08",6,"Kvemo Kartli",7.13
+"2003-04-08",7,"Mtskheta-Mtianeti",3.33
+"2003-04-08",8,"Racha-Lechkhumi-Kvemo Svaneti",0.98
+"2003-04-08",9,"Samegrelo-Zemo Svaneti",2.41
+"2003-04-08",10,"Samtskhe-Javakheti",1.5
+"2003-04-08",11,"Shida Kartli",3.81
+"2003-04-08",12,"Tbilisi",8.87
+"2003-04-09",1,"Abkhazia",6.28
+"2003-04-09",2,"Ajaria",3.59
+"2003-04-09",3,"Guria",7.57
+"2003-04-09",4,"Imereti",6.21
+"2003-04-09",5,"Kakheti",8.69
+"2003-04-09",6,"Kvemo Kartli",5.74
+"2003-04-09",7,"Mtskheta-Mtianeti",2.47
+"2003-04-09",8,"Racha-Lechkhumi-Kvemo Svaneti",3.26
+"2003-04-09",9,"Samegrelo-Zemo Svaneti",5.49
+"2003-04-09",10,"Samtskhe-Javakheti",2.37
+"2003-04-09",11,"Shida Kartli",3.25
+"2003-04-09",12,"Tbilisi",6.34
+"2003-04-10",1,"Abkhazia",0
+"2003-04-10",2,"Ajaria",-0.45
+"2003-04-10",3,"Guria",2.58
+"2003-04-10",4,"Imereti",0.25
+"2003-04-10",5,"Kakheti",5.2
+"2003-04-10",6,"Kvemo Kartli",3.35
+"2003-04-10",7,"Mtskheta-Mtianeti",-1.67
+"2003-04-10",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.19
+"2003-04-10",9,"Samegrelo-Zemo Svaneti",-0.19
+"2003-04-10",10,"Samtskhe-Javakheti",-2.66
+"2003-04-10",11,"Shida Kartli",-1.9
+"2003-04-10",12,"Tbilisi",2.47
+"2003-04-11",1,"Abkhazia",1.85
+"2003-04-11",2,"Ajaria",2.19
+"2003-04-11",3,"Guria",4.7
+"2003-04-11",4,"Imereti",2.82
+"2003-04-11",5,"Kakheti",7.22
+"2003-04-11",6,"Kvemo Kartli",4.85
+"2003-04-11",7,"Mtskheta-Mtianeti",1.28
+"2003-04-11",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.1
+"2003-04-11",9,"Samegrelo-Zemo Svaneti",1.16
+"2003-04-11",10,"Samtskhe-Javakheti",-0.26
+"2003-04-11",11,"Shida Kartli",1.3
+"2003-04-11",12,"Tbilisi",4.76
+"2003-04-12",1,"Abkhazia",-0.83
+"2003-04-12",2,"Ajaria",-2.45
+"2003-04-12",3,"Guria",-0.26
+"2003-04-12",4,"Imereti",-2.18
+"2003-04-12",5,"Kakheti",3.23
+"2003-04-12",6,"Kvemo Kartli",-1.33
+"2003-04-12",7,"Mtskheta-Mtianeti",-3.07
+"2003-04-12",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.59
+"2003-04-12",9,"Samegrelo-Zemo Svaneti",-2.82
+"2003-04-12",10,"Samtskhe-Javakheti",-9.21
+"2003-04-12",11,"Shida Kartli",-6.18
+"2003-04-12",12,"Tbilisi",-0.23
+"2003-04-13",1,"Abkhazia",0.57
+"2003-04-13",2,"Ajaria",0.07
+"2003-04-13",3,"Guria",2.15
+"2003-04-13",4,"Imereti",-0.52
+"2003-04-13",5,"Kakheti",3
+"2003-04-13",6,"Kvemo Kartli",-0.29
+"2003-04-13",7,"Mtskheta-Mtianeti",-5.33
+"2003-04-13",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.5
+"2003-04-13",9,"Samegrelo-Zemo Svaneti",-1.86
+"2003-04-13",10,"Samtskhe-Javakheti",-5.14
+"2003-04-13",11,"Shida Kartli",-5.35
+"2003-04-13",12,"Tbilisi",0.05
+"2003-04-14",1,"Abkhazia",2.37
+"2003-04-14",2,"Ajaria",2.48
+"2003-04-14",3,"Guria",5.85
+"2003-04-14",4,"Imereti",5.07
+"2003-04-14",5,"Kakheti",5.3
+"2003-04-14",6,"Kvemo Kartli",4.85
+"2003-04-14",7,"Mtskheta-Mtianeti",-2.38
+"2003-04-14",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.25
+"2003-04-14",9,"Samegrelo-Zemo Svaneti",0.71
+"2003-04-14",10,"Samtskhe-Javakheti",-0.62
+"2003-04-14",11,"Shida Kartli",-0.09
+"2003-04-14",12,"Tbilisi",4.94
+"2003-04-15",1,"Abkhazia",4.24
+"2003-04-15",2,"Ajaria",4.06
+"2003-04-15",3,"Guria",9.18
+"2003-04-15",4,"Imereti",7.84
+"2003-04-15",5,"Kakheti",6.5
+"2003-04-15",6,"Kvemo Kartli",5.36
+"2003-04-15",7,"Mtskheta-Mtianeti",2.04
+"2003-04-15",8,"Racha-Lechkhumi-Kvemo Svaneti",1.17
+"2003-04-15",9,"Samegrelo-Zemo Svaneti",4.25
+"2003-04-15",10,"Samtskhe-Javakheti",1.32
+"2003-04-15",11,"Shida Kartli",4.16
+"2003-04-15",12,"Tbilisi",6
+"2003-04-16",1,"Abkhazia",5.09
+"2003-04-16",2,"Ajaria",4.04
+"2003-04-16",3,"Guria",8.77
+"2003-04-16",4,"Imereti",7.55
+"2003-04-16",5,"Kakheti",5.13
+"2003-04-16",6,"Kvemo Kartli",4.47
+"2003-04-16",7,"Mtskheta-Mtianeti",0.24
+"2003-04-16",8,"Racha-Lechkhumi-Kvemo Svaneti",0.33
+"2003-04-16",9,"Samegrelo-Zemo Svaneti",3.48
+"2003-04-16",10,"Samtskhe-Javakheti",0.49
+"2003-04-16",11,"Shida Kartli",3.04
+"2003-04-16",12,"Tbilisi",6.09
+"2003-04-17",1,"Abkhazia",5.42
+"2003-04-17",2,"Ajaria",0.79
+"2003-04-17",3,"Guria",5.05
+"2003-04-17",4,"Imereti",4.1
+"2003-04-17",5,"Kakheti",2.17
+"2003-04-17",6,"Kvemo Kartli",1.3
+"2003-04-17",7,"Mtskheta-Mtianeti",-0.8
+"2003-04-17",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.27
+"2003-04-17",9,"Samegrelo-Zemo Svaneti",1.42
+"2003-04-17",10,"Samtskhe-Javakheti",-2.67
+"2003-04-17",11,"Shida Kartli",0.65
+"2003-04-17",12,"Tbilisi",2.84
+"2003-04-18",1,"Abkhazia",3.9
+"2003-04-18",2,"Ajaria",2.7
+"2003-04-18",3,"Guria",5.84
+"2003-04-18",4,"Imereti",4.48
+"2003-04-18",5,"Kakheti",1.18
+"2003-04-18",6,"Kvemo Kartli",0.62
+"2003-04-18",7,"Mtskheta-Mtianeti",-2.34
+"2003-04-18",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.41
+"2003-04-18",9,"Samegrelo-Zemo Svaneti",2.63
+"2003-04-18",10,"Samtskhe-Javakheti",-1.78
+"2003-04-18",11,"Shida Kartli",-0.35
+"2003-04-18",12,"Tbilisi",1.95
+"2003-04-19",1,"Abkhazia",5.35
+"2003-04-19",2,"Ajaria",4.4
+"2003-04-19",3,"Guria",8.2
+"2003-04-19",4,"Imereti",4.88
+"2003-04-19",5,"Kakheti",0.78
+"2003-04-19",6,"Kvemo Kartli",-0.89
+"2003-04-19",7,"Mtskheta-Mtianeti",-2.35
+"2003-04-19",8,"Racha-Lechkhumi-Kvemo Svaneti",0.36
+"2003-04-19",9,"Samegrelo-Zemo Svaneti",4.58
+"2003-04-19",10,"Samtskhe-Javakheti",-0.94
+"2003-04-19",11,"Shida Kartli",-0.59
+"2003-04-19",12,"Tbilisi",0.61
+"2003-04-20",1,"Abkhazia",5
+"2003-04-20",2,"Ajaria",2.93
+"2003-04-20",3,"Guria",7.16
+"2003-04-20",4,"Imereti",3.82
+"2003-04-20",5,"Kakheti",0.13
+"2003-04-20",6,"Kvemo Kartli",-2.15
+"2003-04-20",7,"Mtskheta-Mtianeti",-2.56
+"2003-04-20",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.39
+"2003-04-20",9,"Samegrelo-Zemo Svaneti",3.7
+"2003-04-20",10,"Samtskhe-Javakheti",0.02
+"2003-04-20",11,"Shida Kartli",-1.64
+"2003-04-20",12,"Tbilisi",-1.34
+"2003-04-21",1,"Abkhazia",4.02
+"2003-04-21",2,"Ajaria",2.25
+"2003-04-21",3,"Guria",6.04
+"2003-04-21",4,"Imereti",5.06
+"2003-04-21",5,"Kakheti",2.72
+"2003-04-21",6,"Kvemo Kartli",1.22
+"2003-04-21",7,"Mtskheta-Mtianeti",-0.78
+"2003-04-21",8,"Racha-Lechkhumi-Kvemo Svaneti",0.65
+"2003-04-21",9,"Samegrelo-Zemo Svaneti",2.87
+"2003-04-21",10,"Samtskhe-Javakheti",0.39
+"2003-04-21",11,"Shida Kartli",1.26
+"2003-04-21",12,"Tbilisi",0.11
+"2003-04-22",1,"Abkhazia",2.52
+"2003-04-22",2,"Ajaria",0.69
+"2003-04-22",3,"Guria",4.85
+"2003-04-22",4,"Imereti",4.14
+"2003-04-22",5,"Kakheti",1.96
+"2003-04-22",6,"Kvemo Kartli",0.48
+"2003-04-22",7,"Mtskheta-Mtianeti",-1.14
+"2003-04-22",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.42
+"2003-04-22",9,"Samegrelo-Zemo Svaneti",1.6
+"2003-04-22",10,"Samtskhe-Javakheti",-0.52
+"2003-04-22",11,"Shida Kartli",0.9
+"2003-04-22",12,"Tbilisi",1.83
+"2003-04-23",1,"Abkhazia",4.41
+"2003-04-23",2,"Ajaria",3.12
+"2003-04-23",3,"Guria",6.46
+"2003-04-23",4,"Imereti",4.97
+"2003-04-23",5,"Kakheti",5.69
+"2003-04-23",6,"Kvemo Kartli",5.41
+"2003-04-23",7,"Mtskheta-Mtianeti",0.9
+"2003-04-23",8,"Racha-Lechkhumi-Kvemo Svaneti",0.32
+"2003-04-23",9,"Samegrelo-Zemo Svaneti",2.96
+"2003-04-23",10,"Samtskhe-Javakheti",1.53
+"2003-04-23",11,"Shida Kartli",2.7
+"2003-04-23",12,"Tbilisi",6.5
+"2003-04-24",1,"Abkhazia",3.91
+"2003-04-24",2,"Ajaria",5.16
+"2003-04-24",3,"Guria",9.09
+"2003-04-24",4,"Imereti",6.14
+"2003-04-24",5,"Kakheti",4.93
+"2003-04-24",6,"Kvemo Kartli",3.39
+"2003-04-24",7,"Mtskheta-Mtianeti",-0.25
+"2003-04-24",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.61
+"2003-04-24",9,"Samegrelo-Zemo Svaneti",3.4
+"2003-04-24",10,"Samtskhe-Javakheti",1.56
+"2003-04-24",11,"Shida Kartli",1.17
+"2003-04-24",12,"Tbilisi",3.81
+"2003-04-25",1,"Abkhazia",5.89
+"2003-04-25",2,"Ajaria",5
+"2003-04-25",3,"Guria",9.49
+"2003-04-25",4,"Imereti",8.46
+"2003-04-25",5,"Kakheti",7.94
+"2003-04-25",6,"Kvemo Kartli",6.35
+"2003-04-25",7,"Mtskheta-Mtianeti",3.27
+"2003-04-25",8,"Racha-Lechkhumi-Kvemo Svaneti",2.04
+"2003-04-25",9,"Samegrelo-Zemo Svaneti",5.36
+"2003-04-25",10,"Samtskhe-Javakheti",2.84
+"2003-04-25",11,"Shida Kartli",4.97
+"2003-04-25",12,"Tbilisi",7.83
+"2003-04-26",1,"Abkhazia",4.98
+"2003-04-26",2,"Ajaria",3.69
+"2003-04-26",3,"Guria",7.47
+"2003-04-26",4,"Imereti",6.77
+"2003-04-26",5,"Kakheti",8.77
+"2003-04-26",6,"Kvemo Kartli",6.33
+"2003-04-26",7,"Mtskheta-Mtianeti",2.81
+"2003-04-26",8,"Racha-Lechkhumi-Kvemo Svaneti",2.53
+"2003-04-26",9,"Samegrelo-Zemo Svaneti",4.07
+"2003-04-26",10,"Samtskhe-Javakheti",3.21
+"2003-04-26",11,"Shida Kartli",4.71
+"2003-04-26",12,"Tbilisi",6.24
+"2003-04-27",1,"Abkhazia",3.49
+"2003-04-27",2,"Ajaria",3.26
+"2003-04-27",3,"Guria",7.37
+"2003-04-27",4,"Imereti",5.85
+"2003-04-27",5,"Kakheti",5.67
+"2003-04-27",6,"Kvemo Kartli",4.77
+"2003-04-27",7,"Mtskheta-Mtianeti",-0.09
+"2003-04-27",8,"Racha-Lechkhumi-Kvemo Svaneti",0.2
+"2003-04-27",9,"Samegrelo-Zemo Svaneti",2.72
+"2003-04-27",10,"Samtskhe-Javakheti",0.34
+"2003-04-27",11,"Shida Kartli",2.31
+"2003-04-27",12,"Tbilisi",5.2
+"2003-04-28",1,"Abkhazia",1.34
+"2003-04-28",2,"Ajaria",-0.16
+"2003-04-28",3,"Guria",3.82
+"2003-04-28",4,"Imereti",2.27
+"2003-04-28",5,"Kakheti",3.99
+"2003-04-28",6,"Kvemo Kartli",2.15
+"2003-04-28",7,"Mtskheta-Mtianeti",-4.25
+"2003-04-28",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.98
+"2003-04-28",9,"Samegrelo-Zemo Svaneti",-0.86
+"2003-04-28",10,"Samtskhe-Javakheti",-3.54
+"2003-04-28",11,"Shida Kartli",-1.96
+"2003-04-28",12,"Tbilisi",2.82
+"2003-04-29",1,"Abkhazia",1.41
+"2003-04-29",2,"Ajaria",-0.06
+"2003-04-29",3,"Guria",3.88
+"2003-04-29",4,"Imereti",3.05
+"2003-04-29",5,"Kakheti",0.6
+"2003-04-29",6,"Kvemo Kartli",-0.11
+"2003-04-29",7,"Mtskheta-Mtianeti",-3.31
+"2003-04-29",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.07
+"2003-04-29",9,"Samegrelo-Zemo Svaneti",0.28
+"2003-04-29",10,"Samtskhe-Javakheti",-4.8
+"2003-04-29",11,"Shida Kartli",-0.66
+"2003-04-29",12,"Tbilisi",1
+"2003-04-30",1,"Abkhazia",4.52
+"2003-04-30",2,"Ajaria",0.13
+"2003-04-30",3,"Guria",3.61
+"2003-04-30",4,"Imereti",5.4
+"2003-04-30",5,"Kakheti",1.92
+"2003-04-30",6,"Kvemo Kartli",1.55
+"2003-04-30",7,"Mtskheta-Mtianeti",-3.1
+"2003-04-30",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.39
+"2003-04-30",9,"Samegrelo-Zemo Svaneti",1.97
+"2003-04-30",10,"Samtskhe-Javakheti",0.85
+"2003-04-30",11,"Shida Kartli",0.91
+"2003-04-30",12,"Tbilisi",2.7
+"2003-05-01",1,"Abkhazia",3.27
+"2003-05-01",2,"Ajaria",1.78
+"2003-05-01",3,"Guria",5.43
+"2003-05-01",4,"Imereti",4.19
+"2003-05-01",5,"Kakheti",4.91
+"2003-05-01",6,"Kvemo Kartli",3.94
+"2003-05-01",7,"Mtskheta-Mtianeti",0.18
+"2003-05-01",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.93
+"2003-05-01",9,"Samegrelo-Zemo Svaneti",2.12
+"2003-05-01",10,"Samtskhe-Javakheti",-0.41
+"2003-05-01",11,"Shida Kartli",1.29
+"2003-05-01",12,"Tbilisi",6.58
+"2003-05-02",1,"Abkhazia",5.1
+"2003-05-02",2,"Ajaria",3.06
+"2003-05-02",3,"Guria",7.74
+"2003-05-02",4,"Imereti",6.55
+"2003-05-02",5,"Kakheti",5.15
+"2003-05-02",6,"Kvemo Kartli",3.79
+"2003-05-02",7,"Mtskheta-Mtianeti",-1.01
+"2003-05-02",8,"Racha-Lechkhumi-Kvemo Svaneti",0.39
+"2003-05-02",9,"Samegrelo-Zemo Svaneti",3.97
+"2003-05-02",10,"Samtskhe-Javakheti",-0.15
+"2003-05-02",11,"Shida Kartli",1.79
+"2003-05-02",12,"Tbilisi",6.16
+"2003-05-03",1,"Abkhazia",6.67
+"2003-05-03",2,"Ajaria",4.68
+"2003-05-03",3,"Guria",9.19
+"2003-05-03",4,"Imereti",9.32
+"2003-05-03",5,"Kakheti",7.1
+"2003-05-03",6,"Kvemo Kartli",4.16
+"2003-05-03",7,"Mtskheta-Mtianeti",1.39
+"2003-05-03",8,"Racha-Lechkhumi-Kvemo Svaneti",3.06
+"2003-05-03",9,"Samegrelo-Zemo Svaneti",5.64
+"2003-05-03",10,"Samtskhe-Javakheti",1.31
+"2003-05-03",11,"Shida Kartli",3.04
+"2003-05-03",12,"Tbilisi",5.12
+"2003-05-04",1,"Abkhazia",6.94
+"2003-05-04",2,"Ajaria",6.77
+"2003-05-04",3,"Guria",10.52
+"2003-05-04",4,"Imereti",10.06
+"2003-05-04",5,"Kakheti",9.35
+"2003-05-04",6,"Kvemo Kartli",8.06
+"2003-05-04",7,"Mtskheta-Mtianeti",4.27
+"2003-05-04",8,"Racha-Lechkhumi-Kvemo Svaneti",3.42
+"2003-05-04",9,"Samegrelo-Zemo Svaneti",5.5
+"2003-05-04",10,"Samtskhe-Javakheti",4.29
+"2003-05-04",11,"Shida Kartli",7.48
+"2003-05-04",12,"Tbilisi",9.75
+"2003-05-05",1,"Abkhazia",8.81
+"2003-05-05",2,"Ajaria",9.4
+"2003-05-05",3,"Guria",11.96
+"2003-05-05",4,"Imereti",10.57
+"2003-05-05",5,"Kakheti",8.89
+"2003-05-05",6,"Kvemo Kartli",7.77
+"2003-05-05",7,"Mtskheta-Mtianeti",2.85
+"2003-05-05",8,"Racha-Lechkhumi-Kvemo Svaneti",4.1
+"2003-05-05",9,"Samegrelo-Zemo Svaneti",7.06
+"2003-05-05",10,"Samtskhe-Javakheti",4.7
+"2003-05-05",11,"Shida Kartli",6.38
+"2003-05-05",12,"Tbilisi",9.69
+"2003-05-06",1,"Abkhazia",4.84
+"2003-05-06",2,"Ajaria",4.81
+"2003-05-06",3,"Guria",8.41
+"2003-05-06",4,"Imereti",7.75
+"2003-05-06",5,"Kakheti",10.56
+"2003-05-06",6,"Kvemo Kartli",8.85
+"2003-05-06",7,"Mtskheta-Mtianeti",3.63
+"2003-05-06",8,"Racha-Lechkhumi-Kvemo Svaneti",1.28
+"2003-05-06",9,"Samegrelo-Zemo Svaneti",2.25
+"2003-05-06",10,"Samtskhe-Javakheti",3.22
+"2003-05-06",11,"Shida Kartli",5.55
+"2003-05-06",12,"Tbilisi",10.44
+"2003-05-07",1,"Abkhazia",3.06
+"2003-05-07",2,"Ajaria",3.45
+"2003-05-07",3,"Guria",7.97
+"2003-05-07",4,"Imereti",6.33
+"2003-05-07",5,"Kakheti",7.11
+"2003-05-07",6,"Kvemo Kartli",5.72
+"2003-05-07",7,"Mtskheta-Mtianeti",0.78
+"2003-05-07",8,"Racha-Lechkhumi-Kvemo Svaneti",0.51
+"2003-05-07",9,"Samegrelo-Zemo Svaneti",2.87
+"2003-05-07",10,"Samtskhe-Javakheti",0.39
+"2003-05-07",11,"Shida Kartli",2.68
+"2003-05-07",12,"Tbilisi",6.82
+"2003-05-08",1,"Abkhazia",4.22
+"2003-05-08",2,"Ajaria",2.82
+"2003-05-08",3,"Guria",7.85
+"2003-05-08",4,"Imereti",6.02
+"2003-05-08",5,"Kakheti",5.37
+"2003-05-08",6,"Kvemo Kartli",2.73
+"2003-05-08",7,"Mtskheta-Mtianeti",-0.23
+"2003-05-08",8,"Racha-Lechkhumi-Kvemo Svaneti",0.03
+"2003-05-08",9,"Samegrelo-Zemo Svaneti",2.36
+"2003-05-08",10,"Samtskhe-Javakheti",-1.18
+"2003-05-08",11,"Shida Kartli",2.1
+"2003-05-08",12,"Tbilisi",5.18
+"2003-05-09",1,"Abkhazia",3.35
+"2003-05-09",2,"Ajaria",2.16
+"2003-05-09",3,"Guria",5.45
+"2003-05-09",4,"Imereti",5.63
+"2003-05-09",5,"Kakheti",5.66
+"2003-05-09",6,"Kvemo Kartli",3.3
+"2003-05-09",7,"Mtskheta-Mtianeti",-0.84
+"2003-05-09",8,"Racha-Lechkhumi-Kvemo Svaneti",0.59
+"2003-05-09",9,"Samegrelo-Zemo Svaneti",1.34
+"2003-05-09",10,"Samtskhe-Javakheti",-0.93
+"2003-05-09",11,"Shida Kartli",1.92
+"2003-05-09",12,"Tbilisi",4.96
+"2003-05-10",1,"Abkhazia",4.05
+"2003-05-10",2,"Ajaria",7.25
+"2003-05-10",3,"Guria",8.56
+"2003-05-10",4,"Imereti",6.56
+"2003-05-10",5,"Kakheti",8.68
+"2003-05-10",6,"Kvemo Kartli",6.68
+"2003-05-10",7,"Mtskheta-Mtianeti",1.88
+"2003-05-10",8,"Racha-Lechkhumi-Kvemo Svaneti",0.9
+"2003-05-10",9,"Samegrelo-Zemo Svaneti",2.63
+"2003-05-10",10,"Samtskhe-Javakheti",2.72
+"2003-05-10",11,"Shida Kartli",4.07
+"2003-05-10",12,"Tbilisi",8.42
+"2003-05-11",1,"Abkhazia",5.43
+"2003-05-11",2,"Ajaria",7.34
+"2003-05-11",3,"Guria",10
+"2003-05-11",4,"Imereti",8.46
+"2003-05-11",5,"Kakheti",9.36
+"2003-05-11",6,"Kvemo Kartli",8.74
+"2003-05-11",7,"Mtskheta-Mtianeti",2.48
+"2003-05-11",8,"Racha-Lechkhumi-Kvemo Svaneti",2.07
+"2003-05-11",9,"Samegrelo-Zemo Svaneti",3.5
+"2003-05-11",10,"Samtskhe-Javakheti",3.28
+"2003-05-11",11,"Shida Kartli",4.95
+"2003-05-11",12,"Tbilisi",8.74
+"2003-05-12",1,"Abkhazia",7.6
+"2003-05-12",2,"Ajaria",8.85
+"2003-05-12",3,"Guria",11.09
+"2003-05-12",4,"Imereti",9.84
+"2003-05-12",5,"Kakheti",9.28
+"2003-05-12",6,"Kvemo Kartli",8.01
+"2003-05-12",7,"Mtskheta-Mtianeti",3.59
+"2003-05-12",8,"Racha-Lechkhumi-Kvemo Svaneti",3.65
+"2003-05-12",9,"Samegrelo-Zemo Svaneti",5.19
+"2003-05-12",10,"Samtskhe-Javakheti",5.05
+"2003-05-12",11,"Shida Kartli",5.8
+"2003-05-12",12,"Tbilisi",11.14
+"2003-05-13",1,"Abkhazia",7.78
+"2003-05-13",2,"Ajaria",8.58
+"2003-05-13",3,"Guria",11.09
+"2003-05-13",4,"Imereti",11.96
+"2003-05-13",5,"Kakheti",10.15
+"2003-05-13",6,"Kvemo Kartli",10.29
+"2003-05-13",7,"Mtskheta-Mtianeti",4.59
+"2003-05-13",8,"Racha-Lechkhumi-Kvemo Svaneti",4.77
+"2003-05-13",9,"Samegrelo-Zemo Svaneti",6.09
+"2003-05-13",10,"Samtskhe-Javakheti",7.99
+"2003-05-13",11,"Shida Kartli",8.08
+"2003-05-13",12,"Tbilisi",10.99
+"2003-05-14",1,"Abkhazia",9.08
+"2003-05-14",2,"Ajaria",10.73
+"2003-05-14",3,"Guria",13.66
+"2003-05-14",4,"Imereti",13.14
+"2003-05-14",5,"Kakheti",11.62
+"2003-05-14",6,"Kvemo Kartli",12.85
+"2003-05-14",7,"Mtskheta-Mtianeti",6.32
+"2003-05-14",8,"Racha-Lechkhumi-Kvemo Svaneti",6.41
+"2003-05-14",9,"Samegrelo-Zemo Svaneti",7.49
+"2003-05-14",10,"Samtskhe-Javakheti",7.43
+"2003-05-14",11,"Shida Kartli",9.78
+"2003-05-14",12,"Tbilisi",12.94
+"2003-05-15",1,"Abkhazia",9.91
+"2003-05-15",2,"Ajaria",12.26
+"2003-05-15",3,"Guria",15.11
+"2003-05-15",4,"Imereti",13.38
+"2003-05-15",5,"Kakheti",10.57
+"2003-05-15",6,"Kvemo Kartli",10.96
+"2003-05-15",7,"Mtskheta-Mtianeti",6.63
+"2003-05-15",8,"Racha-Lechkhumi-Kvemo Svaneti",5.23
+"2003-05-15",9,"Samegrelo-Zemo Svaneti",7.99
+"2003-05-15",10,"Samtskhe-Javakheti",7.5
+"2003-05-15",11,"Shida Kartli",8.92
+"2003-05-15",12,"Tbilisi",11.79
+"2003-05-16",1,"Abkhazia",8.87
+"2003-05-16",2,"Ajaria",10.46
+"2003-05-16",3,"Guria",13.73
+"2003-05-16",4,"Imereti",12.32
+"2003-05-16",5,"Kakheti",11.72
+"2003-05-16",6,"Kvemo Kartli",9.99
+"2003-05-16",7,"Mtskheta-Mtianeti",6.92
+"2003-05-16",8,"Racha-Lechkhumi-Kvemo Svaneti",4.57
+"2003-05-16",9,"Samegrelo-Zemo Svaneti",6.8
+"2003-05-16",10,"Samtskhe-Javakheti",4.66
+"2003-05-16",11,"Shida Kartli",8.07
+"2003-05-16",12,"Tbilisi",13.74
+"2003-05-17",1,"Abkhazia",10.58
+"2003-05-17",2,"Ajaria",11.37
+"2003-05-17",3,"Guria",14.87
+"2003-05-17",4,"Imereti",14.3
+"2003-05-17",5,"Kakheti",13.05
+"2003-05-17",6,"Kvemo Kartli",13.65
+"2003-05-17",7,"Mtskheta-Mtianeti",7.21
+"2003-05-17",8,"Racha-Lechkhumi-Kvemo Svaneti",6.86
+"2003-05-17",9,"Samegrelo-Zemo Svaneti",8.58
+"2003-05-17",10,"Samtskhe-Javakheti",9.37
+"2003-05-17",11,"Shida Kartli",10.49
+"2003-05-17",12,"Tbilisi",14.2
+"2003-05-18",1,"Abkhazia",8.8
+"2003-05-18",2,"Ajaria",8.7
+"2003-05-18",3,"Guria",11.86
+"2003-05-18",4,"Imereti",12.42
+"2003-05-18",5,"Kakheti",10.17
+"2003-05-18",6,"Kvemo Kartli",9.37
+"2003-05-18",7,"Mtskheta-Mtianeti",2.8
+"2003-05-18",8,"Racha-Lechkhumi-Kvemo Svaneti",5.12
+"2003-05-18",9,"Samegrelo-Zemo Svaneti",6.33
+"2003-05-18",10,"Samtskhe-Javakheti",7.07
+"2003-05-18",11,"Shida Kartli",7.79
+"2003-05-18",12,"Tbilisi",9.88
+"2003-05-19",1,"Abkhazia",10.33
+"2003-05-19",2,"Ajaria",11.68
+"2003-05-19",3,"Guria",14.58
+"2003-05-19",4,"Imereti",13.28
+"2003-05-19",5,"Kakheti",11.17
+"2003-05-19",6,"Kvemo Kartli",12
+"2003-05-19",7,"Mtskheta-Mtianeti",6.04
+"2003-05-19",8,"Racha-Lechkhumi-Kvemo Svaneti",5.94
+"2003-05-19",9,"Samegrelo-Zemo Svaneti",7.82
+"2003-05-19",10,"Samtskhe-Javakheti",7.45
+"2003-05-19",11,"Shida Kartli",8.85
+"2003-05-19",12,"Tbilisi",12.62
+"2003-05-20",1,"Abkhazia",9.54
+"2003-05-20",2,"Ajaria",9.5
+"2003-05-20",3,"Guria",12.82
+"2003-05-20",4,"Imereti",13.6
+"2003-05-20",5,"Kakheti",12.35
+"2003-05-20",6,"Kvemo Kartli",13.7
+"2003-05-20",7,"Mtskheta-Mtianeti",6.15
+"2003-05-20",8,"Racha-Lechkhumi-Kvemo Svaneti",7.51
+"2003-05-20",9,"Samegrelo-Zemo Svaneti",8.11
+"2003-05-20",10,"Samtskhe-Javakheti",9.07
+"2003-05-20",11,"Shida Kartli",10.33
+"2003-05-20",12,"Tbilisi",14.7
+"2003-05-21",1,"Abkhazia",9.85
+"2003-05-21",2,"Ajaria",9.07
+"2003-05-21",3,"Guria",12.1
+"2003-05-21",4,"Imereti",11.18
+"2003-05-21",5,"Kakheti",11.98
+"2003-05-21",6,"Kvemo Kartli",10.7
+"2003-05-21",7,"Mtskheta-Mtianeti",5.49
+"2003-05-21",8,"Racha-Lechkhumi-Kvemo Svaneti",5.43
+"2003-05-21",9,"Samegrelo-Zemo Svaneti",7.62
+"2003-05-21",10,"Samtskhe-Javakheti",5.8
+"2003-05-21",11,"Shida Kartli",7.21
+"2003-05-21",12,"Tbilisi",12.16
+"2003-05-22",1,"Abkhazia",11.69
+"2003-05-22",2,"Ajaria",13.41
+"2003-05-22",3,"Guria",17.09
+"2003-05-22",4,"Imereti",15.42
+"2003-05-22",5,"Kakheti",13.22
+"2003-05-22",6,"Kvemo Kartli",14.88
+"2003-05-22",7,"Mtskheta-Mtianeti",6.96
+"2003-05-22",8,"Racha-Lechkhumi-Kvemo Svaneti",7.91
+"2003-05-22",9,"Samegrelo-Zemo Svaneti",10.87
+"2003-05-22",10,"Samtskhe-Javakheti",9.34
+"2003-05-22",11,"Shida Kartli",11.59
+"2003-05-22",12,"Tbilisi",14.95
+"2003-05-23",1,"Abkhazia",12.64
+"2003-05-23",2,"Ajaria",12.81
+"2003-05-23",3,"Guria",16.49
+"2003-05-23",4,"Imereti",14.96
+"2003-05-23",5,"Kakheti",13.73
+"2003-05-23",6,"Kvemo Kartli",13.15
+"2003-05-23",7,"Mtskheta-Mtianeti",8.31
+"2003-05-23",8,"Racha-Lechkhumi-Kvemo Svaneti",8.34
+"2003-05-23",9,"Samegrelo-Zemo Svaneti",10.93
+"2003-05-23",10,"Samtskhe-Javakheti",7.68
+"2003-05-23",11,"Shida Kartli",10.49
+"2003-05-23",12,"Tbilisi",13.94
+"2003-05-24",1,"Abkhazia",13.02
+"2003-05-24",2,"Ajaria",10.78
+"2003-05-24",3,"Guria",14.31
+"2003-05-24",4,"Imereti",13.42
+"2003-05-24",5,"Kakheti",11.44
+"2003-05-24",6,"Kvemo Kartli",10.79
+"2003-05-24",7,"Mtskheta-Mtianeti",5.51
+"2003-05-24",8,"Racha-Lechkhumi-Kvemo Svaneti",6.66
+"2003-05-24",9,"Samegrelo-Zemo Svaneti",9.26
+"2003-05-24",10,"Samtskhe-Javakheti",6.45
+"2003-05-24",11,"Shida Kartli",8.32
+"2003-05-24",12,"Tbilisi",12.12
+"2003-05-25",1,"Abkhazia",13.26
+"2003-05-25",2,"Ajaria",12.01
+"2003-05-25",3,"Guria",18.06
+"2003-05-25",4,"Imereti",15.41
+"2003-05-25",5,"Kakheti",11.64
+"2003-05-25",6,"Kvemo Kartli",11.8
+"2003-05-25",7,"Mtskheta-Mtianeti",7.32
+"2003-05-25",8,"Racha-Lechkhumi-Kvemo Svaneti",7.96
+"2003-05-25",9,"Samegrelo-Zemo Svaneti",11.55
+"2003-05-25",10,"Samtskhe-Javakheti",7.31
+"2003-05-25",11,"Shida Kartli",11.08
+"2003-05-25",12,"Tbilisi",11.89
+"2003-05-26",1,"Abkhazia",14.1
+"2003-05-26",2,"Ajaria",12.85
+"2003-05-26",3,"Guria",16.49
+"2003-05-26",4,"Imereti",16.16
+"2003-05-26",5,"Kakheti",12.57
+"2003-05-26",6,"Kvemo Kartli",13.1
+"2003-05-26",7,"Mtskheta-Mtianeti",6.37
+"2003-05-26",8,"Racha-Lechkhumi-Kvemo Svaneti",9.26
+"2003-05-26",9,"Samegrelo-Zemo Svaneti",12.15
+"2003-05-26",10,"Samtskhe-Javakheti",9.67
+"2003-05-26",11,"Shida Kartli",10.61
+"2003-05-26",12,"Tbilisi",12.48
+"2003-05-27",1,"Abkhazia",13.47
+"2003-05-27",2,"Ajaria",13.02
+"2003-05-27",3,"Guria",16.31
+"2003-05-27",4,"Imereti",14.52
+"2003-05-27",5,"Kakheti",12
+"2003-05-27",6,"Kvemo Kartli",13.3
+"2003-05-27",7,"Mtskheta-Mtianeti",6.49
+"2003-05-27",8,"Racha-Lechkhumi-Kvemo Svaneti",9.68
+"2003-05-27",9,"Samegrelo-Zemo Svaneti",11.74
+"2003-05-27",10,"Samtskhe-Javakheti",8.9
+"2003-05-27",11,"Shida Kartli",10.26
+"2003-05-27",12,"Tbilisi",13.64
+"2003-05-28",1,"Abkhazia",12.69
+"2003-05-28",2,"Ajaria",11.39
+"2003-05-28",3,"Guria",14.81
+"2003-05-28",4,"Imereti",14.19
+"2003-05-28",5,"Kakheti",12.84
+"2003-05-28",6,"Kvemo Kartli",12.83
+"2003-05-28",7,"Mtskheta-Mtianeti",7.61
+"2003-05-28",8,"Racha-Lechkhumi-Kvemo Svaneti",8.12
+"2003-05-28",9,"Samegrelo-Zemo Svaneti",10.1
+"2003-05-28",10,"Samtskhe-Javakheti",8.57
+"2003-05-28",11,"Shida Kartli",10.64
+"2003-05-28",12,"Tbilisi",13.46
+"2003-05-29",1,"Abkhazia",10.11
+"2003-05-29",2,"Ajaria",9.05
+"2003-05-29",3,"Guria",12.22
+"2003-05-29",4,"Imereti",11.67
+"2003-05-29",5,"Kakheti",11.62
+"2003-05-29",6,"Kvemo Kartli",11.52
+"2003-05-29",7,"Mtskheta-Mtianeti",6.6
+"2003-05-29",8,"Racha-Lechkhumi-Kvemo Svaneti",6.23
+"2003-05-29",9,"Samegrelo-Zemo Svaneti",8.04
+"2003-05-29",10,"Samtskhe-Javakheti",6.23
+"2003-05-29",11,"Shida Kartli",9.56
+"2003-05-29",12,"Tbilisi",11.98
+"2003-05-30",1,"Abkhazia",12.11
+"2003-05-30",2,"Ajaria",12.3
+"2003-05-30",3,"Guria",15.02
+"2003-05-30",4,"Imereti",14.14
+"2003-05-30",5,"Kakheti",12.49
+"2003-05-30",6,"Kvemo Kartli",11.43
+"2003-05-30",7,"Mtskheta-Mtianeti",8.17
+"2003-05-30",8,"Racha-Lechkhumi-Kvemo Svaneti",8.98
+"2003-05-30",9,"Samegrelo-Zemo Svaneti",10.36
+"2003-05-30",10,"Samtskhe-Javakheti",8.35
+"2003-05-30",11,"Shida Kartli",10.91
+"2003-05-30",12,"Tbilisi",13.69
+"2003-05-31",1,"Abkhazia",11.91
+"2003-05-31",2,"Ajaria",11.79
+"2003-05-31",3,"Guria",14.82
+"2003-05-31",4,"Imereti",12.97
+"2003-05-31",5,"Kakheti",11.49
+"2003-05-31",6,"Kvemo Kartli",12.25
+"2003-05-31",7,"Mtskheta-Mtianeti",6.88
+"2003-05-31",8,"Racha-Lechkhumi-Kvemo Svaneti",8.06
+"2003-05-31",9,"Samegrelo-Zemo Svaneti",9.94
+"2003-05-31",10,"Samtskhe-Javakheti",8.83
+"2003-05-31",11,"Shida Kartli",9.65
+"2003-05-31",12,"Tbilisi",12.1
+"2003-06-01",1,"Abkhazia",9.59
+"2003-06-01",2,"Ajaria",10.26
+"2003-06-01",3,"Guria",13.98
+"2003-06-01",4,"Imereti",12.25
+"2003-06-01",5,"Kakheti",11.77
+"2003-06-01",6,"Kvemo Kartli",11.52
+"2003-06-01",7,"Mtskheta-Mtianeti",6.59
+"2003-06-01",8,"Racha-Lechkhumi-Kvemo Svaneti",7.31
+"2003-06-01",9,"Samegrelo-Zemo Svaneti",8.55
+"2003-06-01",10,"Samtskhe-Javakheti",7.69
+"2003-06-01",11,"Shida Kartli",9.37
+"2003-06-01",12,"Tbilisi",11.78
+"2003-06-02",1,"Abkhazia",8.7
+"2003-06-02",2,"Ajaria",8.23
+"2003-06-02",3,"Guria",10.67
+"2003-06-02",4,"Imereti",10.92
+"2003-06-02",5,"Kakheti",11.67
+"2003-06-02",6,"Kvemo Kartli",11.38
+"2003-06-02",7,"Mtskheta-Mtianeti",6.09
+"2003-06-02",8,"Racha-Lechkhumi-Kvemo Svaneti",5.43
+"2003-06-02",9,"Samegrelo-Zemo Svaneti",6.23
+"2003-06-02",10,"Samtskhe-Javakheti",6.83
+"2003-06-02",11,"Shida Kartli",8.02
+"2003-06-02",12,"Tbilisi",12.11
+"2003-06-03",1,"Abkhazia",10.03
+"2003-06-03",2,"Ajaria",10.3
+"2003-06-03",3,"Guria",12.52
+"2003-06-03",4,"Imereti",11.27
+"2003-06-03",5,"Kakheti",11.81
+"2003-06-03",6,"Kvemo Kartli",11.42
+"2003-06-03",7,"Mtskheta-Mtianeti",5.31
+"2003-06-03",8,"Racha-Lechkhumi-Kvemo Svaneti",6.53
+"2003-06-03",9,"Samegrelo-Zemo Svaneti",8.33
+"2003-06-03",10,"Samtskhe-Javakheti",7.35
+"2003-06-03",11,"Shida Kartli",8.1
+"2003-06-03",12,"Tbilisi",12.01
+"2003-06-04",1,"Abkhazia",8.26
+"2003-06-04",2,"Ajaria",8.32
+"2003-06-04",3,"Guria",11.96
+"2003-06-04",4,"Imereti",11.19
+"2003-06-04",5,"Kakheti",11.39
+"2003-06-04",6,"Kvemo Kartli",10.11
+"2003-06-04",7,"Mtskheta-Mtianeti",6.05
+"2003-06-04",8,"Racha-Lechkhumi-Kvemo Svaneti",5.84
+"2003-06-04",9,"Samegrelo-Zemo Svaneti",7.57
+"2003-06-04",10,"Samtskhe-Javakheti",5.76
+"2003-06-04",11,"Shida Kartli",7.78
+"2003-06-04",12,"Tbilisi",11.07
+"2003-06-05",1,"Abkhazia",6.15
+"2003-06-05",2,"Ajaria",8.49
+"2003-06-05",3,"Guria",12.34
+"2003-06-05",4,"Imereti",10.01
+"2003-06-05",5,"Kakheti",10.65
+"2003-06-05",6,"Kvemo Kartli",9.83
+"2003-06-05",7,"Mtskheta-Mtianeti",4.24
+"2003-06-05",8,"Racha-Lechkhumi-Kvemo Svaneti",4.27
+"2003-06-05",9,"Samegrelo-Zemo Svaneti",5.61
+"2003-06-05",10,"Samtskhe-Javakheti",4.39
+"2003-06-05",11,"Shida Kartli",6.93
+"2003-06-05",12,"Tbilisi",10.91
+"2003-06-06",1,"Abkhazia",6.57
+"2003-06-06",2,"Ajaria",4.98
+"2003-06-06",3,"Guria",7.28
+"2003-06-06",4,"Imereti",7.26
+"2003-06-06",5,"Kakheti",7.29
+"2003-06-06",6,"Kvemo Kartli",5.22
+"2003-06-06",7,"Mtskheta-Mtianeti",0.06
+"2003-06-06",8,"Racha-Lechkhumi-Kvemo Svaneti",1.5
+"2003-06-06",9,"Samegrelo-Zemo Svaneti",3.6
+"2003-06-06",10,"Samtskhe-Javakheti",1.53
+"2003-06-06",11,"Shida Kartli",2.38
+"2003-06-06",12,"Tbilisi",5.63
+"2003-06-07",1,"Abkhazia",7.65
+"2003-06-07",2,"Ajaria",6.44
+"2003-06-07",3,"Guria",9.61
+"2003-06-07",4,"Imereti",6.73
+"2003-06-07",5,"Kakheti",6.56
+"2003-06-07",6,"Kvemo Kartli",6.05
+"2003-06-07",7,"Mtskheta-Mtianeti",2.36
+"2003-06-07",8,"Racha-Lechkhumi-Kvemo Svaneti",2.95
+"2003-06-07",9,"Samegrelo-Zemo Svaneti",4.79
+"2003-06-07",10,"Samtskhe-Javakheti",2.65
+"2003-06-07",11,"Shida Kartli",3.96
+"2003-06-07",12,"Tbilisi",6.53
+"2003-06-08",1,"Abkhazia",10.67
+"2003-06-08",2,"Ajaria",8.44
+"2003-06-08",3,"Guria",9.66
+"2003-06-08",4,"Imereti",10.24
+"2003-06-08",5,"Kakheti",10.53
+"2003-06-08",6,"Kvemo Kartli",9.61
+"2003-06-08",7,"Mtskheta-Mtianeti",5.87
+"2003-06-08",8,"Racha-Lechkhumi-Kvemo Svaneti",7.5
+"2003-06-08",9,"Samegrelo-Zemo Svaneti",8.54
+"2003-06-08",10,"Samtskhe-Javakheti",6.31
+"2003-06-08",11,"Shida Kartli",7.85
+"2003-06-08",12,"Tbilisi",10.38
+"2003-06-09",1,"Abkhazia",11.7
+"2003-06-09",2,"Ajaria",9.56
+"2003-06-09",3,"Guria",11.36
+"2003-06-09",4,"Imereti",10.16
+"2003-06-09",5,"Kakheti",13.76
+"2003-06-09",6,"Kvemo Kartli",9.95
+"2003-06-09",7,"Mtskheta-Mtianeti",8.54
+"2003-06-09",8,"Racha-Lechkhumi-Kvemo Svaneti",8.51
+"2003-06-09",9,"Samegrelo-Zemo Svaneti",9.91
+"2003-06-09",10,"Samtskhe-Javakheti",6.93
+"2003-06-09",11,"Shida Kartli",8.49
+"2003-06-09",12,"Tbilisi",10.36
+"2003-06-10",1,"Abkhazia",12.3
+"2003-06-10",2,"Ajaria",9.95
+"2003-06-10",3,"Guria",12.3
+"2003-06-10",4,"Imereti",12.43
+"2003-06-10",5,"Kakheti",14.2
+"2003-06-10",6,"Kvemo Kartli",11.8
+"2003-06-10",7,"Mtskheta-Mtianeti",7.99
+"2003-06-10",8,"Racha-Lechkhumi-Kvemo Svaneti",10.04
+"2003-06-10",9,"Samegrelo-Zemo Svaneti",9.71
+"2003-06-10",10,"Samtskhe-Javakheti",7.53
+"2003-06-10",11,"Shida Kartli",9.51
+"2003-06-10",12,"Tbilisi",12.27
+"2003-06-11",1,"Abkhazia",12.92
+"2003-06-11",2,"Ajaria",10.45
+"2003-06-11",3,"Guria",13.07
+"2003-06-11",4,"Imereti",13.14
+"2003-06-11",5,"Kakheti",12.32
+"2003-06-11",6,"Kvemo Kartli",11.9
+"2003-06-11",7,"Mtskheta-Mtianeti",8.36
+"2003-06-11",8,"Racha-Lechkhumi-Kvemo Svaneti",9.01
+"2003-06-11",9,"Samegrelo-Zemo Svaneti",10.11
+"2003-06-11",10,"Samtskhe-Javakheti",7.49
+"2003-06-11",11,"Shida Kartli",10.83
+"2003-06-11",12,"Tbilisi",12.88
+"2003-06-12",1,"Abkhazia",13.31
+"2003-06-12",2,"Ajaria",13.55
+"2003-06-12",3,"Guria",16.23
+"2003-06-12",4,"Imereti",14.99
+"2003-06-12",5,"Kakheti",11.49
+"2003-06-12",6,"Kvemo Kartli",11.91
+"2003-06-12",7,"Mtskheta-Mtianeti",6.05
+"2003-06-12",8,"Racha-Lechkhumi-Kvemo Svaneti",9.62
+"2003-06-12",9,"Samegrelo-Zemo Svaneti",11.38
+"2003-06-12",10,"Samtskhe-Javakheti",10.02
+"2003-06-12",11,"Shida Kartli",8.98
+"2003-06-12",12,"Tbilisi",12.6
+"2003-06-13",1,"Abkhazia",12.89
+"2003-06-13",2,"Ajaria",11.66
+"2003-06-13",3,"Guria",15.01
+"2003-06-13",4,"Imereti",14.61
+"2003-06-13",5,"Kakheti",15.3
+"2003-06-13",6,"Kvemo Kartli",14.77
+"2003-06-13",7,"Mtskheta-Mtianeti",10.97
+"2003-06-13",8,"Racha-Lechkhumi-Kvemo Svaneti",10.06
+"2003-06-13",9,"Samegrelo-Zemo Svaneti",11.74
+"2003-06-13",10,"Samtskhe-Javakheti",10.07
+"2003-06-13",11,"Shida Kartli",12.48
+"2003-06-13",12,"Tbilisi",15.99
+"2003-06-14",1,"Abkhazia",12.48
+"2003-06-14",2,"Ajaria",11.85
+"2003-06-14",3,"Guria",14.91
+"2003-06-14",4,"Imereti",13.52
+"2003-06-14",5,"Kakheti",11.45
+"2003-06-14",6,"Kvemo Kartli",11.21
+"2003-06-14",7,"Mtskheta-Mtianeti",6.39
+"2003-06-14",8,"Racha-Lechkhumi-Kvemo Svaneti",8.18
+"2003-06-14",9,"Samegrelo-Zemo Svaneti",9.23
+"2003-06-14",10,"Samtskhe-Javakheti",7.03
+"2003-06-14",11,"Shida Kartli",10.1
+"2003-06-14",12,"Tbilisi",13.2
+"2003-06-15",1,"Abkhazia",13.77
+"2003-06-15",2,"Ajaria",12.64
+"2003-06-15",3,"Guria",14.89
+"2003-06-15",4,"Imereti",14.33
+"2003-06-15",5,"Kakheti",13.09
+"2003-06-15",6,"Kvemo Kartli",12.95
+"2003-06-15",7,"Mtskheta-Mtianeti",8.49
+"2003-06-15",8,"Racha-Lechkhumi-Kvemo Svaneti",9.78
+"2003-06-15",9,"Samegrelo-Zemo Svaneti",11.47
+"2003-06-15",10,"Samtskhe-Javakheti",10.47
+"2003-06-15",11,"Shida Kartli",11.2
+"2003-06-15",12,"Tbilisi",13.28
+"2003-06-16",1,"Abkhazia",11.66
+"2003-06-16",2,"Ajaria",10.57
+"2003-06-16",3,"Guria",12.22
+"2003-06-16",4,"Imereti",11.04
+"2003-06-16",5,"Kakheti",14.56
+"2003-06-16",6,"Kvemo Kartli",13.46
+"2003-06-16",7,"Mtskheta-Mtianeti",6.23
+"2003-06-16",8,"Racha-Lechkhumi-Kvemo Svaneti",8.21
+"2003-06-16",9,"Samegrelo-Zemo Svaneti",9.81
+"2003-06-16",10,"Samtskhe-Javakheti",8.85
+"2003-06-16",11,"Shida Kartli",8.34
+"2003-06-16",12,"Tbilisi",13.06
+"2003-06-17",1,"Abkhazia",11.97
+"2003-06-17",2,"Ajaria",12.31
+"2003-06-17",3,"Guria",14.78
+"2003-06-17",4,"Imereti",13.81
+"2003-06-17",5,"Kakheti",14.99
+"2003-06-17",6,"Kvemo Kartli",14.67
+"2003-06-17",7,"Mtskheta-Mtianeti",9.25
+"2003-06-17",8,"Racha-Lechkhumi-Kvemo Svaneti",9.42
+"2003-06-17",9,"Samegrelo-Zemo Svaneti",10.65
+"2003-06-17",10,"Samtskhe-Javakheti",9.27
+"2003-06-17",11,"Shida Kartli",11.03
+"2003-06-17",12,"Tbilisi",14.41
+"2003-06-18",1,"Abkhazia",13.76
+"2003-06-18",2,"Ajaria",13.97
+"2003-06-18",3,"Guria",17.99
+"2003-06-18",4,"Imereti",16.02
+"2003-06-18",5,"Kakheti",17.22
+"2003-06-18",6,"Kvemo Kartli",15.31
+"2003-06-18",7,"Mtskheta-Mtianeti",11.6
+"2003-06-18",8,"Racha-Lechkhumi-Kvemo Svaneti",10.68
+"2003-06-18",9,"Samegrelo-Zemo Svaneti",13.13
+"2003-06-18",10,"Samtskhe-Javakheti",11.25
+"2003-06-18",11,"Shida Kartli",13.21
+"2003-06-18",12,"Tbilisi",16.52
+"2003-06-19",1,"Abkhazia",9.8
+"2003-06-19",2,"Ajaria",8.44
+"2003-06-19",3,"Guria",10.58
+"2003-06-19",4,"Imereti",10.36
+"2003-06-19",5,"Kakheti",13.24
+"2003-06-19",6,"Kvemo Kartli",10.37
+"2003-06-19",7,"Mtskheta-Mtianeti",6.32
+"2003-06-19",8,"Racha-Lechkhumi-Kvemo Svaneti",5.99
+"2003-06-19",9,"Samegrelo-Zemo Svaneti",7.78
+"2003-06-19",10,"Samtskhe-Javakheti",4.87
+"2003-06-19",11,"Shida Kartli",7.48
+"2003-06-19",12,"Tbilisi",11.04
+"2003-06-20",1,"Abkhazia",9.48
+"2003-06-20",2,"Ajaria",9.6
+"2003-06-20",3,"Guria",13.17
+"2003-06-20",4,"Imereti",10.98
+"2003-06-20",5,"Kakheti",11.37
+"2003-06-20",6,"Kvemo Kartli",10.75
+"2003-06-20",7,"Mtskheta-Mtianeti",6.22
+"2003-06-20",8,"Racha-Lechkhumi-Kvemo Svaneti",6.6
+"2003-06-20",9,"Samegrelo-Zemo Svaneti",8.34
+"2003-06-20",10,"Samtskhe-Javakheti",6
+"2003-06-20",11,"Shida Kartli",8.6
+"2003-06-20",12,"Tbilisi",12.21
+"2003-06-21",1,"Abkhazia",12.77
+"2003-06-21",2,"Ajaria",13.17
+"2003-06-21",3,"Guria",15.64
+"2003-06-21",4,"Imereti",14.13
+"2003-06-21",5,"Kakheti",12.65
+"2003-06-21",6,"Kvemo Kartli",12.29
+"2003-06-21",7,"Mtskheta-Mtianeti",6.3
+"2003-06-21",8,"Racha-Lechkhumi-Kvemo Svaneti",8.7
+"2003-06-21",9,"Samegrelo-Zemo Svaneti",11.59
+"2003-06-21",10,"Samtskhe-Javakheti",9.83
+"2003-06-21",11,"Shida Kartli",9.2
+"2003-06-21",12,"Tbilisi",11.4
+"2003-06-22",1,"Abkhazia",13.65
+"2003-06-22",2,"Ajaria",13.34
+"2003-06-22",3,"Guria",16.12
+"2003-06-22",4,"Imereti",15.62
+"2003-06-22",5,"Kakheti",14.82
+"2003-06-22",6,"Kvemo Kartli",14.02
+"2003-06-22",7,"Mtskheta-Mtianeti",10.11
+"2003-06-22",8,"Racha-Lechkhumi-Kvemo Svaneti",10.47
+"2003-06-22",9,"Samegrelo-Zemo Svaneti",12.72
+"2003-06-22",10,"Samtskhe-Javakheti",10.63
+"2003-06-22",11,"Shida Kartli",12
+"2003-06-22",12,"Tbilisi",14.97
+"2003-06-23",1,"Abkhazia",10.94
+"2003-06-23",2,"Ajaria",11.58
+"2003-06-23",3,"Guria",14.67
+"2003-06-23",4,"Imereti",13.49
+"2003-06-23",5,"Kakheti",13.69
+"2003-06-23",6,"Kvemo Kartli",12.32
+"2003-06-23",7,"Mtskheta-Mtianeti",7.54
+"2003-06-23",8,"Racha-Lechkhumi-Kvemo Svaneti",7.95
+"2003-06-23",9,"Samegrelo-Zemo Svaneti",9.83
+"2003-06-23",10,"Samtskhe-Javakheti",8.19
+"2003-06-23",11,"Shida Kartli",9.68
+"2003-06-23",12,"Tbilisi",12.91
+"2003-06-24",1,"Abkhazia",9.13
+"2003-06-24",2,"Ajaria",10.56
+"2003-06-24",3,"Guria",13.68
+"2003-06-24",4,"Imereti",12.59
+"2003-06-24",5,"Kakheti",13.6
+"2003-06-24",6,"Kvemo Kartli",11.84
+"2003-06-24",7,"Mtskheta-Mtianeti",6.51
+"2003-06-24",8,"Racha-Lechkhumi-Kvemo Svaneti",6.21
+"2003-06-24",9,"Samegrelo-Zemo Svaneti",8.13
+"2003-06-24",10,"Samtskhe-Javakheti",7.17
+"2003-06-24",11,"Shida Kartli",8.66
+"2003-06-24",12,"Tbilisi",12.51
+"2003-06-25",1,"Abkhazia",8.36
+"2003-06-25",2,"Ajaria",6.12
+"2003-06-25",3,"Guria",10.14
+"2003-06-25",4,"Imereti",9.99
+"2003-06-25",5,"Kakheti",9.34
+"2003-06-25",6,"Kvemo Kartli",7.35
+"2003-06-25",7,"Mtskheta-Mtianeti",2.62
+"2003-06-25",8,"Racha-Lechkhumi-Kvemo Svaneti",4.97
+"2003-06-25",9,"Samegrelo-Zemo Svaneti",5.96
+"2003-06-25",10,"Samtskhe-Javakheti",2.12
+"2003-06-25",11,"Shida Kartli",5.73
+"2003-06-25",12,"Tbilisi",9.34
+"2003-06-26",1,"Abkhazia",12.4
+"2003-06-26",2,"Ajaria",10.65
+"2003-06-26",3,"Guria",13.45
+"2003-06-26",4,"Imereti",11.16
+"2003-06-26",5,"Kakheti",9.72
+"2003-06-26",6,"Kvemo Kartli",10.68
+"2003-06-26",7,"Mtskheta-Mtianeti",4.54
+"2003-06-26",8,"Racha-Lechkhumi-Kvemo Svaneti",7.78
+"2003-06-26",9,"Samegrelo-Zemo Svaneti",10.45
+"2003-06-26",10,"Samtskhe-Javakheti",6.47
+"2003-06-26",11,"Shida Kartli",7.62
+"2003-06-26",12,"Tbilisi",10.57
+"2003-06-27",1,"Abkhazia",14.12
+"2003-06-27",2,"Ajaria",14.55
+"2003-06-27",3,"Guria",14.99
+"2003-06-27",4,"Imereti",14.74
+"2003-06-27",5,"Kakheti",13.67
+"2003-06-27",6,"Kvemo Kartli",13.38
+"2003-06-27",7,"Mtskheta-Mtianeti",8.18
+"2003-06-27",8,"Racha-Lechkhumi-Kvemo Svaneti",9.11
+"2003-06-27",9,"Samegrelo-Zemo Svaneti",10.79
+"2003-06-27",10,"Samtskhe-Javakheti",10.55
+"2003-06-27",11,"Shida Kartli",10.63
+"2003-06-27",12,"Tbilisi",12.72
+"2003-06-28",1,"Abkhazia",12.33
+"2003-06-28",2,"Ajaria",13.62
+"2003-06-28",3,"Guria",16.41
+"2003-06-28",4,"Imereti",15.45
+"2003-06-28",5,"Kakheti",15.9
+"2003-06-28",6,"Kvemo Kartli",14.19
+"2003-06-28",7,"Mtskheta-Mtianeti",9.21
+"2003-06-28",8,"Racha-Lechkhumi-Kvemo Svaneti",10.55
+"2003-06-28",9,"Samegrelo-Zemo Svaneti",11.63
+"2003-06-28",10,"Samtskhe-Javakheti",10.74
+"2003-06-28",11,"Shida Kartli",12.63
+"2003-06-28",12,"Tbilisi",15.31
+"2003-06-29",1,"Abkhazia",11.13
+"2003-06-29",2,"Ajaria",11.62
+"2003-06-29",3,"Guria",14.89
+"2003-06-29",4,"Imereti",14.58
+"2003-06-29",5,"Kakheti",16.17
+"2003-06-29",6,"Kvemo Kartli",13.88
+"2003-06-29",7,"Mtskheta-Mtianeti",6.95
+"2003-06-29",8,"Racha-Lechkhumi-Kvemo Svaneti",9.53
+"2003-06-29",9,"Samegrelo-Zemo Svaneti",10.72
+"2003-06-29",10,"Samtskhe-Javakheti",9.71
+"2003-06-29",11,"Shida Kartli",10.19
+"2003-06-29",12,"Tbilisi",14.11
+"2003-06-30",1,"Abkhazia",12
+"2003-06-30",2,"Ajaria",11.01
+"2003-06-30",3,"Guria",14.32
+"2003-06-30",4,"Imereti",13.46
+"2003-06-30",5,"Kakheti",13.47
+"2003-06-30",6,"Kvemo Kartli",11.99
+"2003-06-30",7,"Mtskheta-Mtianeti",8.28
+"2003-06-30",8,"Racha-Lechkhumi-Kvemo Svaneti",8.58
+"2003-06-30",9,"Samegrelo-Zemo Svaneti",10.17
+"2003-06-30",10,"Samtskhe-Javakheti",7.76
+"2003-06-30",11,"Shida Kartli",10.06
+"2003-06-30",12,"Tbilisi",12.49
+"2003-07-01",1,"Abkhazia",11.45
+"2003-07-01",2,"Ajaria",10.29
+"2003-07-01",3,"Guria",13.17
+"2003-07-01",4,"Imereti",12.64
+"2003-07-01",5,"Kakheti",13.19
+"2003-07-01",6,"Kvemo Kartli",11.43
+"2003-07-01",7,"Mtskheta-Mtianeti",5.58
+"2003-07-01",8,"Racha-Lechkhumi-Kvemo Svaneti",7.7
+"2003-07-01",9,"Samegrelo-Zemo Svaneti",9.74
+"2003-07-01",10,"Samtskhe-Javakheti",7.61
+"2003-07-01",11,"Shida Kartli",8.37
+"2003-07-01",12,"Tbilisi",11.71
+"2003-07-02",1,"Abkhazia",13.29
+"2003-07-02",2,"Ajaria",13.08
+"2003-07-02",3,"Guria",15.96
+"2003-07-02",4,"Imereti",14.82
+"2003-07-02",5,"Kakheti",13.35
+"2003-07-02",6,"Kvemo Kartli",13.43
+"2003-07-02",7,"Mtskheta-Mtianeti",8.97
+"2003-07-02",8,"Racha-Lechkhumi-Kvemo Svaneti",9.17
+"2003-07-02",9,"Samegrelo-Zemo Svaneti",11.34
+"2003-07-02",10,"Samtskhe-Javakheti",9.59
+"2003-07-02",11,"Shida Kartli",11.31
+"2003-07-02",12,"Tbilisi",14.92
+"2003-07-03",1,"Abkhazia",12.18
+"2003-07-03",2,"Ajaria",11.35
+"2003-07-03",3,"Guria",14.21
+"2003-07-03",4,"Imereti",13.33
+"2003-07-03",5,"Kakheti",13.18
+"2003-07-03",6,"Kvemo Kartli",11.96
+"2003-07-03",7,"Mtskheta-Mtianeti",7.68
+"2003-07-03",8,"Racha-Lechkhumi-Kvemo Svaneti",8.49
+"2003-07-03",9,"Samegrelo-Zemo Svaneti",10.39
+"2003-07-03",10,"Samtskhe-Javakheti",7.94
+"2003-07-03",11,"Shida Kartli",9.52
+"2003-07-03",12,"Tbilisi",12.64
+"2003-07-04",1,"Abkhazia",16.26
+"2003-07-04",2,"Ajaria",15.63
+"2003-07-04",3,"Guria",18.07
+"2003-07-04",4,"Imereti",16.67
+"2003-07-04",5,"Kakheti",14.73
+"2003-07-04",6,"Kvemo Kartli",15.48
+"2003-07-04",7,"Mtskheta-Mtianeti",9.57
+"2003-07-04",8,"Racha-Lechkhumi-Kvemo Svaneti",12.46
+"2003-07-04",9,"Samegrelo-Zemo Svaneti",14.84
+"2003-07-04",10,"Samtskhe-Javakheti",10.64
+"2003-07-04",11,"Shida Kartli",12.62
+"2003-07-04",12,"Tbilisi",16.4
+"2003-07-05",1,"Abkhazia",16.46
+"2003-07-05",2,"Ajaria",15.88
+"2003-07-05",3,"Guria",18.53
+"2003-07-05",4,"Imereti",16.8
+"2003-07-05",5,"Kakheti",15.88
+"2003-07-05",6,"Kvemo Kartli",15.58
+"2003-07-05",7,"Mtskheta-Mtianeti",10.8
+"2003-07-05",8,"Racha-Lechkhumi-Kvemo Svaneti",12.65
+"2003-07-05",9,"Samegrelo-Zemo Svaneti",15.03
+"2003-07-05",10,"Samtskhe-Javakheti",12.03
+"2003-07-05",11,"Shida Kartli",12.9
+"2003-07-05",12,"Tbilisi",16.83
+"2003-07-06",1,"Abkhazia",16.8
+"2003-07-06",2,"Ajaria",17.32
+"2003-07-06",3,"Guria",20.78
+"2003-07-06",4,"Imereti",18.05
+"2003-07-06",5,"Kakheti",16.95
+"2003-07-06",6,"Kvemo Kartli",16.83
+"2003-07-06",7,"Mtskheta-Mtianeti",11.46
+"2003-07-06",8,"Racha-Lechkhumi-Kvemo Svaneti",13.4
+"2003-07-06",9,"Samegrelo-Zemo Svaneti",16.15
+"2003-07-06",10,"Samtskhe-Javakheti",12.92
+"2003-07-06",11,"Shida Kartli",13.68
+"2003-07-06",12,"Tbilisi",18.98
+"2003-07-07",1,"Abkhazia",16.4
+"2003-07-07",2,"Ajaria",16.31
+"2003-07-07",3,"Guria",20.19
+"2003-07-07",4,"Imereti",18.82
+"2003-07-07",5,"Kakheti",18.99
+"2003-07-07",6,"Kvemo Kartli",18.67
+"2003-07-07",7,"Mtskheta-Mtianeti",14.23
+"2003-07-07",8,"Racha-Lechkhumi-Kvemo Svaneti",13.68
+"2003-07-07",9,"Samegrelo-Zemo Svaneti",15.62
+"2003-07-07",10,"Samtskhe-Javakheti",13.99
+"2003-07-07",11,"Shida Kartli",16.39
+"2003-07-07",12,"Tbilisi",20.36
+"2003-07-08",1,"Abkhazia",14.06
+"2003-07-08",2,"Ajaria",14.18
+"2003-07-08",3,"Guria",17.38
+"2003-07-08",4,"Imereti",15.77
+"2003-07-08",5,"Kakheti",17.38
+"2003-07-08",6,"Kvemo Kartli",15.22
+"2003-07-08",7,"Mtskheta-Mtianeti",10.6
+"2003-07-08",8,"Racha-Lechkhumi-Kvemo Svaneti",11.18
+"2003-07-08",9,"Samegrelo-Zemo Svaneti",13.01
+"2003-07-08",10,"Samtskhe-Javakheti",11.3
+"2003-07-08",11,"Shida Kartli",12.29
+"2003-07-08",12,"Tbilisi",15.45
+"2003-07-09",1,"Abkhazia",14.23
+"2003-07-09",2,"Ajaria",14.3
+"2003-07-09",3,"Guria",17.38
+"2003-07-09",4,"Imereti",15.44
+"2003-07-09",5,"Kakheti",16.72
+"2003-07-09",6,"Kvemo Kartli",15.03
+"2003-07-09",7,"Mtskheta-Mtianeti",9.88
+"2003-07-09",8,"Racha-Lechkhumi-Kvemo Svaneti",10.85
+"2003-07-09",9,"Samegrelo-Zemo Svaneti",12.51
+"2003-07-09",10,"Samtskhe-Javakheti",11
+"2003-07-09",11,"Shida Kartli",11.68
+"2003-07-09",12,"Tbilisi",14.7
+"2003-07-10",1,"Abkhazia",12.42
+"2003-07-10",2,"Ajaria",11.14
+"2003-07-10",3,"Guria",14.24
+"2003-07-10",4,"Imereti",14.39
+"2003-07-10",5,"Kakheti",15.52
+"2003-07-10",6,"Kvemo Kartli",13.79
+"2003-07-10",7,"Mtskheta-Mtianeti",8.76
+"2003-07-10",8,"Racha-Lechkhumi-Kvemo Svaneti",9.28
+"2003-07-10",9,"Samegrelo-Zemo Svaneti",10.32
+"2003-07-10",10,"Samtskhe-Javakheti",9.47
+"2003-07-10",11,"Shida Kartli",10.55
+"2003-07-10",12,"Tbilisi",13.59
+"2003-07-11",1,"Abkhazia",11.57
+"2003-07-11",2,"Ajaria",13.8
+"2003-07-11",3,"Guria",17.2
+"2003-07-11",4,"Imereti",16.21
+"2003-07-11",5,"Kakheti",15.05
+"2003-07-11",6,"Kvemo Kartli",13.52
+"2003-07-11",7,"Mtskheta-Mtianeti",8.09
+"2003-07-11",8,"Racha-Lechkhumi-Kvemo Svaneti",10.64
+"2003-07-11",9,"Samegrelo-Zemo Svaneti",11.15
+"2003-07-11",10,"Samtskhe-Javakheti",10.08
+"2003-07-11",11,"Shida Kartli",11.26
+"2003-07-11",12,"Tbilisi",13.94
+"2003-07-12",1,"Abkhazia",13.25
+"2003-07-12",2,"Ajaria",14.29
+"2003-07-12",3,"Guria",16.52
+"2003-07-12",4,"Imereti",14.77
+"2003-07-12",5,"Kakheti",17.37
+"2003-07-12",6,"Kvemo Kartli",17.59
+"2003-07-12",7,"Mtskheta-Mtianeti",10.25
+"2003-07-12",8,"Racha-Lechkhumi-Kvemo Svaneti",10.56
+"2003-07-12",9,"Samegrelo-Zemo Svaneti",12.17
+"2003-07-12",10,"Samtskhe-Javakheti",10.11
+"2003-07-12",11,"Shida Kartli",11.46
+"2003-07-12",12,"Tbilisi",17.28
+"2003-07-13",1,"Abkhazia",16.3
+"2003-07-13",2,"Ajaria",16.2
+"2003-07-13",3,"Guria",19.47
+"2003-07-13",4,"Imereti",17.82
+"2003-07-13",5,"Kakheti",16.97
+"2003-07-13",6,"Kvemo Kartli",16.36
+"2003-07-13",7,"Mtskheta-Mtianeti",11.65
+"2003-07-13",8,"Racha-Lechkhumi-Kvemo Svaneti",13.65
+"2003-07-13",9,"Samegrelo-Zemo Svaneti",15.54
+"2003-07-13",10,"Samtskhe-Javakheti",13.55
+"2003-07-13",11,"Shida Kartli",14.49
+"2003-07-13",12,"Tbilisi",16.88
+"2003-07-14",1,"Abkhazia",13.61
+"2003-07-14",2,"Ajaria",13.97
+"2003-07-14",3,"Guria",17.8
+"2003-07-14",4,"Imereti",16.49
+"2003-07-14",5,"Kakheti",18.81
+"2003-07-14",6,"Kvemo Kartli",14.75
+"2003-07-14",7,"Mtskheta-Mtianeti",10.98
+"2003-07-14",8,"Racha-Lechkhumi-Kvemo Svaneti",12.25
+"2003-07-14",9,"Samegrelo-Zemo Svaneti",13.04
+"2003-07-14",10,"Samtskhe-Javakheti",10.85
+"2003-07-14",11,"Shida Kartli",12.4
+"2003-07-14",12,"Tbilisi",15.6
+"2003-07-15",1,"Abkhazia",14.42
+"2003-07-15",2,"Ajaria",14.51
+"2003-07-15",3,"Guria",17.67
+"2003-07-15",4,"Imereti",16.55
+"2003-07-15",5,"Kakheti",18.41
+"2003-07-15",6,"Kvemo Kartli",17.23
+"2003-07-15",7,"Mtskheta-Mtianeti",11.66
+"2003-07-15",8,"Racha-Lechkhumi-Kvemo Svaneti",11.22
+"2003-07-15",9,"Samegrelo-Zemo Svaneti",12.49
+"2003-07-15",10,"Samtskhe-Javakheti",11.32
+"2003-07-15",11,"Shida Kartli",12.84
+"2003-07-15",12,"Tbilisi",19
+"2003-07-16",1,"Abkhazia",16.69
+"2003-07-16",2,"Ajaria",16.38
+"2003-07-16",3,"Guria",19.39
+"2003-07-16",4,"Imereti",18.28
+"2003-07-16",5,"Kakheti",18.65
+"2003-07-16",6,"Kvemo Kartli",18.4
+"2003-07-16",7,"Mtskheta-Mtianeti",12.77
+"2003-07-16",8,"Racha-Lechkhumi-Kvemo Svaneti",14.67
+"2003-07-16",9,"Samegrelo-Zemo Svaneti",15.65
+"2003-07-16",10,"Samtskhe-Javakheti",14.23
+"2003-07-16",11,"Shida Kartli",15.63
+"2003-07-16",12,"Tbilisi",18.92
+"2003-07-17",1,"Abkhazia",16.16
+"2003-07-17",2,"Ajaria",16.05
+"2003-07-17",3,"Guria",19.46
+"2003-07-17",4,"Imereti",17.78
+"2003-07-17",5,"Kakheti",19.84
+"2003-07-17",6,"Kvemo Kartli",18.15
+"2003-07-17",7,"Mtskheta-Mtianeti",13.54
+"2003-07-17",8,"Racha-Lechkhumi-Kvemo Svaneti",13.8
+"2003-07-17",9,"Samegrelo-Zemo Svaneti",15.59
+"2003-07-17",10,"Samtskhe-Javakheti",13.8
+"2003-07-17",11,"Shida Kartli",15.09
+"2003-07-17",12,"Tbilisi",18.63
+"2003-07-18",1,"Abkhazia",14.18
+"2003-07-18",2,"Ajaria",12.97
+"2003-07-18",3,"Guria",16.32
+"2003-07-18",4,"Imereti",15.07
+"2003-07-18",5,"Kakheti",16.96
+"2003-07-18",6,"Kvemo Kartli",15.25
+"2003-07-18",7,"Mtskheta-Mtianeti",10.94
+"2003-07-18",8,"Racha-Lechkhumi-Kvemo Svaneti",10.73
+"2003-07-18",9,"Samegrelo-Zemo Svaneti",12.44
+"2003-07-18",10,"Samtskhe-Javakheti",10.64
+"2003-07-18",11,"Shida Kartli",11.6
+"2003-07-18",12,"Tbilisi",15.26
+"2003-07-19",1,"Abkhazia",13.43
+"2003-07-19",2,"Ajaria",13.96
+"2003-07-19",3,"Guria",17.56
+"2003-07-19",4,"Imereti",15.72
+"2003-07-19",5,"Kakheti",16.53
+"2003-07-19",6,"Kvemo Kartli",14
+"2003-07-19",7,"Mtskheta-Mtianeti",9.95
+"2003-07-19",8,"Racha-Lechkhumi-Kvemo Svaneti",10.81
+"2003-07-19",9,"Samegrelo-Zemo Svaneti",12.5
+"2003-07-19",10,"Samtskhe-Javakheti",10.33
+"2003-07-19",11,"Shida Kartli",12.16
+"2003-07-19",12,"Tbilisi",15
+"2003-07-20",1,"Abkhazia",14.29
+"2003-07-20",2,"Ajaria",14.42
+"2003-07-20",3,"Guria",17.95
+"2003-07-20",4,"Imereti",16.57
+"2003-07-20",5,"Kakheti",18.32
+"2003-07-20",6,"Kvemo Kartli",15.63
+"2003-07-20",7,"Mtskheta-Mtianeti",10.67
+"2003-07-20",8,"Racha-Lechkhumi-Kvemo Svaneti",11.64
+"2003-07-20",9,"Samegrelo-Zemo Svaneti",13.3
+"2003-07-20",10,"Samtskhe-Javakheti",11.64
+"2003-07-20",11,"Shida Kartli",13.06
+"2003-07-20",12,"Tbilisi",15.82
+"2003-07-21",1,"Abkhazia",15.3
+"2003-07-21",2,"Ajaria",15.2
+"2003-07-21",3,"Guria",18.24
+"2003-07-21",4,"Imereti",16.64
+"2003-07-21",5,"Kakheti",16.75
+"2003-07-21",6,"Kvemo Kartli",15.36
+"2003-07-21",7,"Mtskheta-Mtianeti",10.74
+"2003-07-21",8,"Racha-Lechkhumi-Kvemo Svaneti",11.86
+"2003-07-21",9,"Samegrelo-Zemo Svaneti",13.96
+"2003-07-21",10,"Samtskhe-Javakheti",11.55
+"2003-07-21",11,"Shida Kartli",12.41
+"2003-07-21",12,"Tbilisi",16.07
+"2003-07-22",1,"Abkhazia",16.33
+"2003-07-22",2,"Ajaria",16.75
+"2003-07-22",3,"Guria",20.13
+"2003-07-22",4,"Imereti",18.41
+"2003-07-22",5,"Kakheti",17.82
+"2003-07-22",6,"Kvemo Kartli",17.22
+"2003-07-22",7,"Mtskheta-Mtianeti",12.44
+"2003-07-22",8,"Racha-Lechkhumi-Kvemo Svaneti",14.14
+"2003-07-22",9,"Samegrelo-Zemo Svaneti",15.85
+"2003-07-22",10,"Samtskhe-Javakheti",13.97
+"2003-07-22",11,"Shida Kartli",15.11
+"2003-07-22",12,"Tbilisi",18.04
+"2003-07-23",1,"Abkhazia",16.17
+"2003-07-23",2,"Ajaria",16.68
+"2003-07-23",3,"Guria",19.35
+"2003-07-23",4,"Imereti",17.91
+"2003-07-23",5,"Kakheti",16.96
+"2003-07-23",6,"Kvemo Kartli",16.12
+"2003-07-23",7,"Mtskheta-Mtianeti",11.55
+"2003-07-23",8,"Racha-Lechkhumi-Kvemo Svaneti",13.57
+"2003-07-23",9,"Samegrelo-Zemo Svaneti",15.37
+"2003-07-23",10,"Samtskhe-Javakheti",12.65
+"2003-07-23",11,"Shida Kartli",14.54
+"2003-07-23",12,"Tbilisi",17.73
+"2003-07-24",1,"Abkhazia",15.64
+"2003-07-24",2,"Ajaria",14.85
+"2003-07-24",3,"Guria",17.99
+"2003-07-24",4,"Imereti",16.49
+"2003-07-24",5,"Kakheti",15.24
+"2003-07-24",6,"Kvemo Kartli",13.91
+"2003-07-24",7,"Mtskheta-Mtianeti",11.28
+"2003-07-24",8,"Racha-Lechkhumi-Kvemo Svaneti",12.07
+"2003-07-24",9,"Samegrelo-Zemo Svaneti",13.9
+"2003-07-24",10,"Samtskhe-Javakheti",10.69
+"2003-07-24",11,"Shida Kartli",12.91
+"2003-07-24",12,"Tbilisi",15.56
+"2003-07-25",1,"Abkhazia",13.81
+"2003-07-25",2,"Ajaria",12.73
+"2003-07-25",3,"Guria",16.46
+"2003-07-25",4,"Imereti",16.03
+"2003-07-25",5,"Kakheti",14.24
+"2003-07-25",6,"Kvemo Kartli",13.33
+"2003-07-25",7,"Mtskheta-Mtianeti",9.7
+"2003-07-25",8,"Racha-Lechkhumi-Kvemo Svaneti",11.01
+"2003-07-25",9,"Samegrelo-Zemo Svaneti",13.12
+"2003-07-25",10,"Samtskhe-Javakheti",10.03
+"2003-07-25",11,"Shida Kartli",12.17
+"2003-07-25",12,"Tbilisi",13.38
+"2003-07-26",1,"Abkhazia",13.95
+"2003-07-26",2,"Ajaria",14.23
+"2003-07-26",3,"Guria",17.54
+"2003-07-26",4,"Imereti",16.12
+"2003-07-26",5,"Kakheti",16.04
+"2003-07-26",6,"Kvemo Kartli",15.22
+"2003-07-26",7,"Mtskheta-Mtianeti",10.69
+"2003-07-26",8,"Racha-Lechkhumi-Kvemo Svaneti",11.25
+"2003-07-26",9,"Samegrelo-Zemo Svaneti",12.94
+"2003-07-26",10,"Samtskhe-Javakheti",11.41
+"2003-07-26",11,"Shida Kartli",13
+"2003-07-26",12,"Tbilisi",16.58
+"2003-07-27",1,"Abkhazia",13.83
+"2003-07-27",2,"Ajaria",14.45
+"2003-07-27",3,"Guria",17.69
+"2003-07-27",4,"Imereti",16
+"2003-07-27",5,"Kakheti",14.32
+"2003-07-27",6,"Kvemo Kartli",13.84
+"2003-07-27",7,"Mtskheta-Mtianeti",8.69
+"2003-07-27",8,"Racha-Lechkhumi-Kvemo Svaneti",10.65
+"2003-07-27",9,"Samegrelo-Zemo Svaneti",13.05
+"2003-07-27",10,"Samtskhe-Javakheti",11.35
+"2003-07-27",11,"Shida Kartli",11.72
+"2003-07-27",12,"Tbilisi",13.54
+"2003-07-28",1,"Abkhazia",15.99
+"2003-07-28",2,"Ajaria",16.13
+"2003-07-28",3,"Guria",19.04
+"2003-07-28",4,"Imereti",17.85
+"2003-07-28",5,"Kakheti",15.48
+"2003-07-28",6,"Kvemo Kartli",15.83
+"2003-07-28",7,"Mtskheta-Mtianeti",10.56
+"2003-07-28",8,"Racha-Lechkhumi-Kvemo Svaneti",13.3
+"2003-07-28",9,"Samegrelo-Zemo Svaneti",15.38
+"2003-07-28",10,"Samtskhe-Javakheti",12.43
+"2003-07-28",11,"Shida Kartli",14.44
+"2003-07-28",12,"Tbilisi",15.86
+"2003-07-29",1,"Abkhazia",16.86
+"2003-07-29",2,"Ajaria",16.01
+"2003-07-29",3,"Guria",19.11
+"2003-07-29",4,"Imereti",18.5
+"2003-07-29",5,"Kakheti",17.57
+"2003-07-29",6,"Kvemo Kartli",16.22
+"2003-07-29",7,"Mtskheta-Mtianeti",12.78
+"2003-07-29",8,"Racha-Lechkhumi-Kvemo Svaneti",14.18
+"2003-07-29",9,"Samegrelo-Zemo Svaneti",15.66
+"2003-07-29",10,"Samtskhe-Javakheti",13.17
+"2003-07-29",11,"Shida Kartli",15.63
+"2003-07-29",12,"Tbilisi",17.14
+"2003-07-30",1,"Abkhazia",15.26
+"2003-07-30",2,"Ajaria",14.81
+"2003-07-30",3,"Guria",18.01
+"2003-07-30",4,"Imereti",16.64
+"2003-07-30",5,"Kakheti",16.75
+"2003-07-30",6,"Kvemo Kartli",15.52
+"2003-07-30",7,"Mtskheta-Mtianeti",11.88
+"2003-07-30",8,"Racha-Lechkhumi-Kvemo Svaneti",12.13
+"2003-07-30",9,"Samegrelo-Zemo Svaneti",13.74
+"2003-07-30",10,"Samtskhe-Javakheti",11.61
+"2003-07-30",11,"Shida Kartli",14.14
+"2003-07-30",12,"Tbilisi",16.88
+"2003-07-31",1,"Abkhazia",14.88
+"2003-07-31",2,"Ajaria",14.43
+"2003-07-31",3,"Guria",17.52
+"2003-07-31",4,"Imereti",16.86
+"2003-07-31",5,"Kakheti",15.29
+"2003-07-31",6,"Kvemo Kartli",15.88
+"2003-07-31",7,"Mtskheta-Mtianeti",10.88
+"2003-07-31",8,"Racha-Lechkhumi-Kvemo Svaneti",11.98
+"2003-07-31",9,"Samegrelo-Zemo Svaneti",13.56
+"2003-07-31",10,"Samtskhe-Javakheti",12.28
+"2003-07-31",11,"Shida Kartli",13.89
+"2003-07-31",12,"Tbilisi",16.22
+"2003-08-01",1,"Abkhazia",15.23
+"2003-08-01",2,"Ajaria",15.23
+"2003-08-01",3,"Guria",17.76
+"2003-08-01",4,"Imereti",17.35
+"2003-08-01",5,"Kakheti",15.77
+"2003-08-01",6,"Kvemo Kartli",15.85
+"2003-08-01",7,"Mtskheta-Mtianeti",10.55
+"2003-08-01",8,"Racha-Lechkhumi-Kvemo Svaneti",12.03
+"2003-08-01",9,"Samegrelo-Zemo Svaneti",13.74
+"2003-08-01",10,"Samtskhe-Javakheti",12.75
+"2003-08-01",11,"Shida Kartli",13.77
+"2003-08-01",12,"Tbilisi",17.06
+"2003-08-02",1,"Abkhazia",15.58
+"2003-08-02",2,"Ajaria",15.88
+"2003-08-02",3,"Guria",18.77
+"2003-08-02",4,"Imereti",16.77
+"2003-08-02",5,"Kakheti",16.72
+"2003-08-02",6,"Kvemo Kartli",17.26
+"2003-08-02",7,"Mtskheta-Mtianeti",11.74
+"2003-08-02",8,"Racha-Lechkhumi-Kvemo Svaneti",12.39
+"2003-08-02",9,"Samegrelo-Zemo Svaneti",14.63
+"2003-08-02",10,"Samtskhe-Javakheti",12.68
+"2003-08-02",11,"Shida Kartli",14.4
+"2003-08-02",12,"Tbilisi",17.38
+"2003-08-03",1,"Abkhazia",16.65
+"2003-08-03",2,"Ajaria",14.79
+"2003-08-03",3,"Guria",18.07
+"2003-08-03",4,"Imereti",18.07
+"2003-08-03",5,"Kakheti",17.48
+"2003-08-03",6,"Kvemo Kartli",16.21
+"2003-08-03",7,"Mtskheta-Mtianeti",11.33
+"2003-08-03",8,"Racha-Lechkhumi-Kvemo Svaneti",12.94
+"2003-08-03",9,"Samegrelo-Zemo Svaneti",14.84
+"2003-08-03",10,"Samtskhe-Javakheti",12.68
+"2003-08-03",11,"Shida Kartli",14.22
+"2003-08-03",12,"Tbilisi",17.62
+"2003-08-04",1,"Abkhazia",16.82
+"2003-08-04",2,"Ajaria",17.24
+"2003-08-04",3,"Guria",19.85
+"2003-08-04",4,"Imereti",18.55
+"2003-08-04",5,"Kakheti",16.36
+"2003-08-04",6,"Kvemo Kartli",17.49
+"2003-08-04",7,"Mtskheta-Mtianeti",10.97
+"2003-08-04",8,"Racha-Lechkhumi-Kvemo Svaneti",13.9
+"2003-08-04",9,"Samegrelo-Zemo Svaneti",15.74
+"2003-08-04",10,"Samtskhe-Javakheti",13.32
+"2003-08-04",11,"Shida Kartli",14.22
+"2003-08-04",12,"Tbilisi",17.4
+"2003-08-05",1,"Abkhazia",17.44
+"2003-08-05",2,"Ajaria",18.25
+"2003-08-05",3,"Guria",21.27
+"2003-08-05",4,"Imereti",19.87
+"2003-08-05",5,"Kakheti",18.33
+"2003-08-05",6,"Kvemo Kartli",17.86
+"2003-08-05",7,"Mtskheta-Mtianeti",12.74
+"2003-08-05",8,"Racha-Lechkhumi-Kvemo Svaneti",14.81
+"2003-08-05",9,"Samegrelo-Zemo Svaneti",16.65
+"2003-08-05",10,"Samtskhe-Javakheti",15.11
+"2003-08-05",11,"Shida Kartli",16.65
+"2003-08-05",12,"Tbilisi",18.42
+"2003-08-06",1,"Abkhazia",15.6
+"2003-08-06",2,"Ajaria",16.85
+"2003-08-06",3,"Guria",19.81
+"2003-08-06",4,"Imereti",18.5
+"2003-08-06",5,"Kakheti",18.02
+"2003-08-06",6,"Kvemo Kartli",17.06
+"2003-08-06",7,"Mtskheta-Mtianeti",12.4
+"2003-08-06",8,"Racha-Lechkhumi-Kvemo Svaneti",13.42
+"2003-08-06",9,"Samegrelo-Zemo Svaneti",14.97
+"2003-08-06",10,"Samtskhe-Javakheti",13.52
+"2003-08-06",11,"Shida Kartli",15.32
+"2003-08-06",12,"Tbilisi",17.52
+"2003-08-07",1,"Abkhazia",14.17
+"2003-08-07",2,"Ajaria",13.58
+"2003-08-07",3,"Guria",16.48
+"2003-08-07",4,"Imereti",16.56
+"2003-08-07",5,"Kakheti",15.82
+"2003-08-07",6,"Kvemo Kartli",14.83
+"2003-08-07",7,"Mtskheta-Mtianeti",10.53
+"2003-08-07",8,"Racha-Lechkhumi-Kvemo Svaneti",11.66
+"2003-08-07",9,"Samegrelo-Zemo Svaneti",13.36
+"2003-08-07",10,"Samtskhe-Javakheti",10.64
+"2003-08-07",11,"Shida Kartli",13.18
+"2003-08-07",12,"Tbilisi",15.05
+"2003-08-08",1,"Abkhazia",14.25
+"2003-08-08",2,"Ajaria",14.4
+"2003-08-08",3,"Guria",17.26
+"2003-08-08",4,"Imereti",16.05
+"2003-08-08",5,"Kakheti",16.04
+"2003-08-08",6,"Kvemo Kartli",15.03
+"2003-08-08",7,"Mtskheta-Mtianeti",9.19
+"2003-08-08",8,"Racha-Lechkhumi-Kvemo Svaneti",11.07
+"2003-08-08",9,"Samegrelo-Zemo Svaneti",12.39
+"2003-08-08",10,"Samtskhe-Javakheti",11.05
+"2003-08-08",11,"Shida Kartli",12.34
+"2003-08-08",12,"Tbilisi",15.55
+"2003-08-09",1,"Abkhazia",17.94
+"2003-08-09",2,"Ajaria",17.79
+"2003-08-09",3,"Guria",20.49
+"2003-08-09",4,"Imereti",19.11
+"2003-08-09",5,"Kakheti",17.97
+"2003-08-09",6,"Kvemo Kartli",17.25
+"2003-08-09",7,"Mtskheta-Mtianeti",12.56
+"2003-08-09",8,"Racha-Lechkhumi-Kvemo Svaneti",14.87
+"2003-08-09",9,"Samegrelo-Zemo Svaneti",16.5
+"2003-08-09",10,"Samtskhe-Javakheti",14.11
+"2003-08-09",11,"Shida Kartli",15.17
+"2003-08-09",12,"Tbilisi",17.98
+"2003-08-10",1,"Abkhazia",17.13
+"2003-08-10",2,"Ajaria",17.76
+"2003-08-10",3,"Guria",20.6
+"2003-08-10",4,"Imereti",18.96
+"2003-08-10",5,"Kakheti",18.96
+"2003-08-10",6,"Kvemo Kartli",17.81
+"2003-08-10",7,"Mtskheta-Mtianeti",12.52
+"2003-08-10",8,"Racha-Lechkhumi-Kvemo Svaneti",14.67
+"2003-08-10",9,"Samegrelo-Zemo Svaneti",16.37
+"2003-08-10",10,"Samtskhe-Javakheti",14.99
+"2003-08-10",11,"Shida Kartli",15.01
+"2003-08-10",12,"Tbilisi",17.76
+"2003-08-11",1,"Abkhazia",17.06
+"2003-08-11",2,"Ajaria",17.64
+"2003-08-11",3,"Guria",19.94
+"2003-08-11",4,"Imereti",18.56
+"2003-08-11",5,"Kakheti",19.26
+"2003-08-11",6,"Kvemo Kartli",17.66
+"2003-08-11",7,"Mtskheta-Mtianeti",13.02
+"2003-08-11",8,"Racha-Lechkhumi-Kvemo Svaneti",15.29
+"2003-08-11",9,"Samegrelo-Zemo Svaneti",15.43
+"2003-08-11",10,"Samtskhe-Javakheti",13.87
+"2003-08-11",11,"Shida Kartli",16.13
+"2003-08-11",12,"Tbilisi",18.05
+"2003-08-12",1,"Abkhazia",16.86
+"2003-08-12",2,"Ajaria",17.37
+"2003-08-12",3,"Guria",20.09
+"2003-08-12",4,"Imereti",18.88
+"2003-08-12",5,"Kakheti",21.1
+"2003-08-12",6,"Kvemo Kartli",18.99
+"2003-08-12",7,"Mtskheta-Mtianeti",14.62
+"2003-08-12",8,"Racha-Lechkhumi-Kvemo Svaneti",15.54
+"2003-08-12",9,"Samegrelo-Zemo Svaneti",15.96
+"2003-08-12",10,"Samtskhe-Javakheti",15.9
+"2003-08-12",11,"Shida Kartli",16.18
+"2003-08-12",12,"Tbilisi",19.59
+"2003-08-13",1,"Abkhazia",12.9
+"2003-08-13",2,"Ajaria",13.38
+"2003-08-13",3,"Guria",17.14
+"2003-08-13",4,"Imereti",15.46
+"2003-08-13",5,"Kakheti",18.93
+"2003-08-13",6,"Kvemo Kartli",15.53
+"2003-08-13",7,"Mtskheta-Mtianeti",11.35
+"2003-08-13",8,"Racha-Lechkhumi-Kvemo Svaneti",10.67
+"2003-08-13",9,"Samegrelo-Zemo Svaneti",12.11
+"2003-08-13",10,"Samtskhe-Javakheti",10.42
+"2003-08-13",11,"Shida Kartli",12.48
+"2003-08-13",12,"Tbilisi",16.54
+"2003-08-14",1,"Abkhazia",11.48
+"2003-08-14",2,"Ajaria",12.73
+"2003-08-14",3,"Guria",16.08
+"2003-08-14",4,"Imereti",14.17
+"2003-08-14",5,"Kakheti",18.19
+"2003-08-14",6,"Kvemo Kartli",13.91
+"2003-08-14",7,"Mtskheta-Mtianeti",8.72
+"2003-08-14",8,"Racha-Lechkhumi-Kvemo Svaneti",8.82
+"2003-08-14",9,"Samegrelo-Zemo Svaneti",9.62
+"2003-08-14",10,"Samtskhe-Javakheti",9.25
+"2003-08-14",11,"Shida Kartli",10.56
+"2003-08-14",12,"Tbilisi",14.48
+"2003-08-15",1,"Abkhazia",13.64
+"2003-08-15",2,"Ajaria",12.96
+"2003-08-15",3,"Guria",15.97
+"2003-08-15",4,"Imereti",14.52
+"2003-08-15",5,"Kakheti",17.38
+"2003-08-15",6,"Kvemo Kartli",13.7
+"2003-08-15",7,"Mtskheta-Mtianeti",10.17
+"2003-08-15",8,"Racha-Lechkhumi-Kvemo Svaneti",10.59
+"2003-08-15",9,"Samegrelo-Zemo Svaneti",11.79
+"2003-08-15",10,"Samtskhe-Javakheti",9.18
+"2003-08-15",11,"Shida Kartli",11.13
+"2003-08-15",12,"Tbilisi",13.82
+"2003-08-16",1,"Abkhazia",12.97
+"2003-08-16",2,"Ajaria",12
+"2003-08-16",3,"Guria",15.49
+"2003-08-16",4,"Imereti",13.32
+"2003-08-16",5,"Kakheti",15.9
+"2003-08-16",6,"Kvemo Kartli",15.45
+"2003-08-16",7,"Mtskheta-Mtianeti",9.39
+"2003-08-16",8,"Racha-Lechkhumi-Kvemo Svaneti",9.98
+"2003-08-16",9,"Samegrelo-Zemo Svaneti",10.7
+"2003-08-16",10,"Samtskhe-Javakheti",8.89
+"2003-08-16",11,"Shida Kartli",11.31
+"2003-08-16",12,"Tbilisi",15
+"2003-08-17",1,"Abkhazia",16.06
+"2003-08-17",2,"Ajaria",15.86
+"2003-08-17",3,"Guria",18.43
+"2003-08-17",4,"Imereti",15.22
+"2003-08-17",5,"Kakheti",16.03
+"2003-08-17",6,"Kvemo Kartli",14.02
+"2003-08-17",7,"Mtskheta-Mtianeti",9.43
+"2003-08-17",8,"Racha-Lechkhumi-Kvemo Svaneti",11.89
+"2003-08-17",9,"Samegrelo-Zemo Svaneti",13.92
+"2003-08-17",10,"Samtskhe-Javakheti",10.64
+"2003-08-17",11,"Shida Kartli",10.71
+"2003-08-17",12,"Tbilisi",14.81
+"2003-08-18",1,"Abkhazia",16.76
+"2003-08-18",2,"Ajaria",17.19
+"2003-08-18",3,"Guria",19.96
+"2003-08-18",4,"Imereti",18.68
+"2003-08-18",5,"Kakheti",16.02
+"2003-08-18",6,"Kvemo Kartli",16.38
+"2003-08-18",7,"Mtskheta-Mtianeti",11.26
+"2003-08-18",8,"Racha-Lechkhumi-Kvemo Svaneti",13.54
+"2003-08-18",9,"Samegrelo-Zemo Svaneti",15.04
+"2003-08-18",10,"Samtskhe-Javakheti",13.48
+"2003-08-18",11,"Shida Kartli",14.69
+"2003-08-18",12,"Tbilisi",17.75
+"2003-08-19",1,"Abkhazia",16.87
+"2003-08-19",2,"Ajaria",16.84
+"2003-08-19",3,"Guria",19.98
+"2003-08-19",4,"Imereti",18.67
+"2003-08-19",5,"Kakheti",17.41
+"2003-08-19",6,"Kvemo Kartli",17.5
+"2003-08-19",7,"Mtskheta-Mtianeti",12.11
+"2003-08-19",8,"Racha-Lechkhumi-Kvemo Svaneti",14.01
+"2003-08-19",9,"Samegrelo-Zemo Svaneti",16.03
+"2003-08-19",10,"Samtskhe-Javakheti",13.61
+"2003-08-19",11,"Shida Kartli",15.02
+"2003-08-19",12,"Tbilisi",18.33
+"2003-08-20",1,"Abkhazia",16.78
+"2003-08-20",2,"Ajaria",17.32
+"2003-08-20",3,"Guria",20.39
+"2003-08-20",4,"Imereti",19.07
+"2003-08-20",5,"Kakheti",18.23
+"2003-08-20",6,"Kvemo Kartli",17.83
+"2003-08-20",7,"Mtskheta-Mtianeti",13.17
+"2003-08-20",8,"Racha-Lechkhumi-Kvemo Svaneti",14.22
+"2003-08-20",9,"Samegrelo-Zemo Svaneti",15.67
+"2003-08-20",10,"Samtskhe-Javakheti",13.57
+"2003-08-20",11,"Shida Kartli",16.1
+"2003-08-20",12,"Tbilisi",18.76
+"2003-08-21",1,"Abkhazia",16.75
+"2003-08-21",2,"Ajaria",16.24
+"2003-08-21",3,"Guria",19.23
+"2003-08-21",4,"Imereti",17.85
+"2003-08-21",5,"Kakheti",17.07
+"2003-08-21",6,"Kvemo Kartli",16.24
+"2003-08-21",7,"Mtskheta-Mtianeti",12.05
+"2003-08-21",8,"Racha-Lechkhumi-Kvemo Svaneti",13.16
+"2003-08-21",9,"Samegrelo-Zemo Svaneti",15.07
+"2003-08-21",10,"Samtskhe-Javakheti",12.02
+"2003-08-21",11,"Shida Kartli",14.37
+"2003-08-21",12,"Tbilisi",16.97
+"2003-08-22",1,"Abkhazia",16.32
+"2003-08-22",2,"Ajaria",15.69
+"2003-08-22",3,"Guria",18.53
+"2003-08-22",4,"Imereti",17.19
+"2003-08-22",5,"Kakheti",16.18
+"2003-08-22",6,"Kvemo Kartli",15.47
+"2003-08-22",7,"Mtskheta-Mtianeti",11.33
+"2003-08-22",8,"Racha-Lechkhumi-Kvemo Svaneti",12.41
+"2003-08-22",9,"Samegrelo-Zemo Svaneti",14.73
+"2003-08-22",10,"Samtskhe-Javakheti",12.22
+"2003-08-22",11,"Shida Kartli",13.77
+"2003-08-22",12,"Tbilisi",16.16
+"2003-08-23",1,"Abkhazia",14.63
+"2003-08-23",2,"Ajaria",15.32
+"2003-08-23",3,"Guria",17.84
+"2003-08-23",4,"Imereti",16.56
+"2003-08-23",5,"Kakheti",15.81
+"2003-08-23",6,"Kvemo Kartli",14.64
+"2003-08-23",7,"Mtskheta-Mtianeti",9.97
+"2003-08-23",8,"Racha-Lechkhumi-Kvemo Svaneti",11.48
+"2003-08-23",9,"Samegrelo-Zemo Svaneti",13.68
+"2003-08-23",10,"Samtskhe-Javakheti",11.6
+"2003-08-23",11,"Shida Kartli",12.7
+"2003-08-23",12,"Tbilisi",15.19
+"2003-08-24",1,"Abkhazia",14.16
+"2003-08-24",2,"Ajaria",15.06
+"2003-08-24",3,"Guria",18.16
+"2003-08-24",4,"Imereti",16.67
+"2003-08-24",5,"Kakheti",14.82
+"2003-08-24",6,"Kvemo Kartli",15.15
+"2003-08-24",7,"Mtskheta-Mtianeti",9.49
+"2003-08-24",8,"Racha-Lechkhumi-Kvemo Svaneti",11.77
+"2003-08-24",9,"Samegrelo-Zemo Svaneti",13.45
+"2003-08-24",10,"Samtskhe-Javakheti",11.01
+"2003-08-24",11,"Shida Kartli",12.21
+"2003-08-24",12,"Tbilisi",15.37
+"2003-08-25",1,"Abkhazia",14.78
+"2003-08-25",2,"Ajaria",13.24
+"2003-08-25",3,"Guria",16.07
+"2003-08-25",4,"Imereti",14.52
+"2003-08-25",5,"Kakheti",14.18
+"2003-08-25",6,"Kvemo Kartli",13.59
+"2003-08-25",7,"Mtskheta-Mtianeti",8.26
+"2003-08-25",8,"Racha-Lechkhumi-Kvemo Svaneti",9.66
+"2003-08-25",9,"Samegrelo-Zemo Svaneti",11.81
+"2003-08-25",10,"Samtskhe-Javakheti",9.24
+"2003-08-25",11,"Shida Kartli",11.38
+"2003-08-25",12,"Tbilisi",14.19
+"2003-08-26",1,"Abkhazia",15.06
+"2003-08-26",2,"Ajaria",16.19
+"2003-08-26",3,"Guria",18.3
+"2003-08-26",4,"Imereti",17.25
+"2003-08-26",5,"Kakheti",16.74
+"2003-08-26",6,"Kvemo Kartli",16.27
+"2003-08-26",7,"Mtskheta-Mtianeti",10.8
+"2003-08-26",8,"Racha-Lechkhumi-Kvemo Svaneti",12.36
+"2003-08-26",9,"Samegrelo-Zemo Svaneti",14.15
+"2003-08-26",10,"Samtskhe-Javakheti",11.94
+"2003-08-26",11,"Shida Kartli",13.5
+"2003-08-26",12,"Tbilisi",17.14
+"2003-08-27",1,"Abkhazia",16.52
+"2003-08-27",2,"Ajaria",16.12
+"2003-08-27",3,"Guria",17.97
+"2003-08-27",4,"Imereti",17.73
+"2003-08-27",5,"Kakheti",17.05
+"2003-08-27",6,"Kvemo Kartli",15.93
+"2003-08-27",7,"Mtskheta-Mtianeti",10.79
+"2003-08-27",8,"Racha-Lechkhumi-Kvemo Svaneti",13.2
+"2003-08-27",9,"Samegrelo-Zemo Svaneti",14.4
+"2003-08-27",10,"Samtskhe-Javakheti",12.75
+"2003-08-27",11,"Shida Kartli",13.74
+"2003-08-27",12,"Tbilisi",17.18
+"2003-08-28",1,"Abkhazia",15.1
+"2003-08-28",2,"Ajaria",16.35
+"2003-08-28",3,"Guria",18.85
+"2003-08-28",4,"Imereti",17.97
+"2003-08-28",5,"Kakheti",17.83
+"2003-08-28",6,"Kvemo Kartli",16.86
+"2003-08-28",7,"Mtskheta-Mtianeti",10.64
+"2003-08-28",8,"Racha-Lechkhumi-Kvemo Svaneti",11.98
+"2003-08-28",9,"Samegrelo-Zemo Svaneti",14.2
+"2003-08-28",10,"Samtskhe-Javakheti",13.91
+"2003-08-28",11,"Shida Kartli",12.99
+"2003-08-28",12,"Tbilisi",17.67
+"2003-08-29",1,"Abkhazia",16.34
+"2003-08-29",2,"Ajaria",16.71
+"2003-08-29",3,"Guria",19.87
+"2003-08-29",4,"Imereti",17.8
+"2003-08-29",5,"Kakheti",17.5
+"2003-08-29",6,"Kvemo Kartli",16.52
+"2003-08-29",7,"Mtskheta-Mtianeti",11.44
+"2003-08-29",8,"Racha-Lechkhumi-Kvemo Svaneti",13.01
+"2003-08-29",9,"Samegrelo-Zemo Svaneti",15.17
+"2003-08-29",10,"Samtskhe-Javakheti",12.52
+"2003-08-29",11,"Shida Kartli",14.23
+"2003-08-29",12,"Tbilisi",16.85
+"2003-08-30",1,"Abkhazia",14.91
+"2003-08-30",2,"Ajaria",15.69
+"2003-08-30",3,"Guria",18.76
+"2003-08-30",4,"Imereti",17.42
+"2003-08-30",5,"Kakheti",16.6
+"2003-08-30",6,"Kvemo Kartli",17.62
+"2003-08-30",7,"Mtskheta-Mtianeti",9.73
+"2003-08-30",8,"Racha-Lechkhumi-Kvemo Svaneti",12.31
+"2003-08-30",9,"Samegrelo-Zemo Svaneti",13.59
+"2003-08-30",10,"Samtskhe-Javakheti",12.06
+"2003-08-30",11,"Shida Kartli",12.94
+"2003-08-30",12,"Tbilisi",16.02
+"2003-08-31",1,"Abkhazia",15.43
+"2003-08-31",2,"Ajaria",14.75
+"2003-08-31",3,"Guria",18.94
+"2003-08-31",4,"Imereti",17.26
+"2003-08-31",5,"Kakheti",17.98
+"2003-08-31",6,"Kvemo Kartli",16.17
+"2003-08-31",7,"Mtskheta-Mtianeti",11.37
+"2003-08-31",8,"Racha-Lechkhumi-Kvemo Svaneti",11.93
+"2003-08-31",9,"Samegrelo-Zemo Svaneti",14.49
+"2003-08-31",10,"Samtskhe-Javakheti",11
+"2003-08-31",11,"Shida Kartli",13.84
+"2003-08-31",12,"Tbilisi",16.6
+"2003-09-01",1,"Abkhazia",15.93
+"2003-09-01",2,"Ajaria",15.89
+"2003-09-01",3,"Guria",18.84
+"2003-09-01",4,"Imereti",16.48
+"2003-09-01",5,"Kakheti",15.35
+"2003-09-01",6,"Kvemo Kartli",14.64
+"2003-09-01",7,"Mtskheta-Mtianeti",9.23
+"2003-09-01",8,"Racha-Lechkhumi-Kvemo Svaneti",11.72
+"2003-09-01",9,"Samegrelo-Zemo Svaneti",14.08
+"2003-09-01",10,"Samtskhe-Javakheti",11.13
+"2003-09-01",11,"Shida Kartli",12.11
+"2003-09-01",12,"Tbilisi",14.36
+"2003-09-02",1,"Abkhazia",17.45
+"2003-09-02",2,"Ajaria",18.02
+"2003-09-02",3,"Guria",19.72
+"2003-09-02",4,"Imereti",16.91
+"2003-09-02",5,"Kakheti",15.6
+"2003-09-02",6,"Kvemo Kartli",15.34
+"2003-09-02",7,"Mtskheta-Mtianeti",9.48
+"2003-09-02",8,"Racha-Lechkhumi-Kvemo Svaneti",12.36
+"2003-09-02",9,"Samegrelo-Zemo Svaneti",14.72
+"2003-09-02",10,"Samtskhe-Javakheti",12.44
+"2003-09-02",11,"Shida Kartli",12.84
+"2003-09-02",12,"Tbilisi",14.88
+"2003-09-03",1,"Abkhazia",17.53
+"2003-09-03",2,"Ajaria",16.98
+"2003-09-03",3,"Guria",20.49
+"2003-09-03",4,"Imereti",18.69
+"2003-09-03",5,"Kakheti",16.83
+"2003-09-03",6,"Kvemo Kartli",16.39
+"2003-09-03",7,"Mtskheta-Mtianeti",10.34
+"2003-09-03",8,"Racha-Lechkhumi-Kvemo Svaneti",13.98
+"2003-09-03",9,"Samegrelo-Zemo Svaneti",15.81
+"2003-09-03",10,"Samtskhe-Javakheti",13.2
+"2003-09-03",11,"Shida Kartli",13.36
+"2003-09-03",12,"Tbilisi",15.87
+"2003-09-04",1,"Abkhazia",17.06
+"2003-09-04",2,"Ajaria",17.76
+"2003-09-04",3,"Guria",20.67
+"2003-09-04",4,"Imereti",19.56
+"2003-09-04",5,"Kakheti",17.4
+"2003-09-04",6,"Kvemo Kartli",18.4
+"2003-09-04",7,"Mtskheta-Mtianeti",11.21
+"2003-09-04",8,"Racha-Lechkhumi-Kvemo Svaneti",14.6
+"2003-09-04",9,"Samegrelo-Zemo Svaneti",15.6
+"2003-09-04",10,"Samtskhe-Javakheti",14.51
+"2003-09-04",11,"Shida Kartli",14.3
+"2003-09-04",12,"Tbilisi",16.53
+"2003-09-05",1,"Abkhazia",17.02
+"2003-09-05",2,"Ajaria",15.95
+"2003-09-05",3,"Guria",19.05
+"2003-09-05",4,"Imereti",17.97
+"2003-09-05",5,"Kakheti",17.52
+"2003-09-05",6,"Kvemo Kartli",16.7
+"2003-09-05",7,"Mtskheta-Mtianeti",11.79
+"2003-09-05",8,"Racha-Lechkhumi-Kvemo Svaneti",14.81
+"2003-09-05",9,"Samegrelo-Zemo Svaneti",15.46
+"2003-09-05",10,"Samtskhe-Javakheti",12.82
+"2003-09-05",11,"Shida Kartli",14.39
+"2003-09-05",12,"Tbilisi",16.09
+"2003-09-06",1,"Abkhazia",13.75
+"2003-09-06",2,"Ajaria",12.43
+"2003-09-06",3,"Guria",15.68
+"2003-09-06",4,"Imereti",14.28
+"2003-09-06",5,"Kakheti",17.44
+"2003-09-06",6,"Kvemo Kartli",15.08
+"2003-09-06",7,"Mtskheta-Mtianeti",11.31
+"2003-09-06",8,"Racha-Lechkhumi-Kvemo Svaneti",11.68
+"2003-09-06",9,"Samegrelo-Zemo Svaneti",13.01
+"2003-09-06",10,"Samtskhe-Javakheti",10.87
+"2003-09-06",11,"Shida Kartli",11.95
+"2003-09-06",12,"Tbilisi",16.17
+"2003-09-07",1,"Abkhazia",8.59
+"2003-09-07",2,"Ajaria",8.72
+"2003-09-07",3,"Guria",12.67
+"2003-09-07",4,"Imereti",10.68
+"2003-09-07",5,"Kakheti",13.62
+"2003-09-07",6,"Kvemo Kartli",10.79
+"2003-09-07",7,"Mtskheta-Mtianeti",6.34
+"2003-09-07",8,"Racha-Lechkhumi-Kvemo Svaneti",5.19
+"2003-09-07",9,"Samegrelo-Zemo Svaneti",6.61
+"2003-09-07",10,"Samtskhe-Javakheti",4.82
+"2003-09-07",11,"Shida Kartli",7.41
+"2003-09-07",12,"Tbilisi",11.24
+"2003-09-08",1,"Abkhazia",9.03
+"2003-09-08",2,"Ajaria",8.3
+"2003-09-08",3,"Guria",11.76
+"2003-09-08",4,"Imereti",10.38
+"2003-09-08",5,"Kakheti",11.74
+"2003-09-08",6,"Kvemo Kartli",8.77
+"2003-09-08",7,"Mtskheta-Mtianeti",4.1
+"2003-09-08",8,"Racha-Lechkhumi-Kvemo Svaneti",4.97
+"2003-09-08",9,"Samegrelo-Zemo Svaneti",7.04
+"2003-09-08",10,"Samtskhe-Javakheti",4.22
+"2003-09-08",11,"Shida Kartli",5.96
+"2003-09-08",12,"Tbilisi",9.66
+"2003-09-09",1,"Abkhazia",5.96
+"2003-09-09",2,"Ajaria",6.55
+"2003-09-09",3,"Guria",8.52
+"2003-09-09",4,"Imereti",7.68
+"2003-09-09",5,"Kakheti",8.97
+"2003-09-09",6,"Kvemo Kartli",8.08
+"2003-09-09",7,"Mtskheta-Mtianeti",2.11
+"2003-09-09",8,"Racha-Lechkhumi-Kvemo Svaneti",2.28
+"2003-09-09",9,"Samegrelo-Zemo Svaneti",3.65
+"2003-09-09",10,"Samtskhe-Javakheti",4.01
+"2003-09-09",11,"Shida Kartli",4.06
+"2003-09-09",12,"Tbilisi",8.09
+"2003-09-10",1,"Abkhazia",11.23
+"2003-09-10",2,"Ajaria",10.42
+"2003-09-10",3,"Guria",11.73
+"2003-09-10",4,"Imereti",10.69
+"2003-09-10",5,"Kakheti",11.68
+"2003-09-10",6,"Kvemo Kartli",9.81
+"2003-09-10",7,"Mtskheta-Mtianeti",4.82
+"2003-09-10",8,"Racha-Lechkhumi-Kvemo Svaneti",6.13
+"2003-09-10",9,"Samegrelo-Zemo Svaneti",7.64
+"2003-09-10",10,"Samtskhe-Javakheti",6.81
+"2003-09-10",11,"Shida Kartli",7.34
+"2003-09-10",12,"Tbilisi",11.11
+"2003-09-11",1,"Abkhazia",8.53
+"2003-09-11",2,"Ajaria",11.27
+"2003-09-11",3,"Guria",14.13
+"2003-09-11",4,"Imereti",11.83
+"2003-09-11",5,"Kakheti",12.02
+"2003-09-11",6,"Kvemo Kartli",10.19
+"2003-09-11",7,"Mtskheta-Mtianeti",5.74
+"2003-09-11",8,"Racha-Lechkhumi-Kvemo Svaneti",5.31
+"2003-09-11",9,"Samegrelo-Zemo Svaneti",6.13
+"2003-09-11",10,"Samtskhe-Javakheti",7.3
+"2003-09-11",11,"Shida Kartli",7.29
+"2003-09-11",12,"Tbilisi",11.05
+"2003-09-12",1,"Abkhazia",11.5
+"2003-09-12",2,"Ajaria",12.58
+"2003-09-12",3,"Guria",14.96
+"2003-09-12",4,"Imereti",12.98
+"2003-09-12",5,"Kakheti",13.51
+"2003-09-12",6,"Kvemo Kartli",12.37
+"2003-09-12",7,"Mtskheta-Mtianeti",7.32
+"2003-09-12",8,"Racha-Lechkhumi-Kvemo Svaneti",7.52
+"2003-09-12",9,"Samegrelo-Zemo Svaneti",10.51
+"2003-09-12",10,"Samtskhe-Javakheti",7.26
+"2003-09-12",11,"Shida Kartli",9.34
+"2003-09-12",12,"Tbilisi",13.94
+"2003-09-13",1,"Abkhazia",12.57
+"2003-09-13",2,"Ajaria",13.27
+"2003-09-13",3,"Guria",16.26
+"2003-09-13",4,"Imereti",14.8
+"2003-09-13",5,"Kakheti",13.82
+"2003-09-13",6,"Kvemo Kartli",13.54
+"2003-09-13",7,"Mtskheta-Mtianeti",9.43
+"2003-09-13",8,"Racha-Lechkhumi-Kvemo Svaneti",9.64
+"2003-09-13",9,"Samegrelo-Zemo Svaneti",11.27
+"2003-09-13",10,"Samtskhe-Javakheti",9.69
+"2003-09-13",11,"Shida Kartli",11.79
+"2003-09-13",12,"Tbilisi",14.65
+"2003-09-14",1,"Abkhazia",10.92
+"2003-09-14",2,"Ajaria",10.07
+"2003-09-14",3,"Guria",12.5
+"2003-09-14",4,"Imereti",12.38
+"2003-09-14",5,"Kakheti",13.04
+"2003-09-14",6,"Kvemo Kartli",12.25
+"2003-09-14",7,"Mtskheta-Mtianeti",8.74
+"2003-09-14",8,"Racha-Lechkhumi-Kvemo Svaneti",8.16
+"2003-09-14",9,"Samegrelo-Zemo Svaneti",9.76
+"2003-09-14",10,"Samtskhe-Javakheti",6.89
+"2003-09-14",11,"Shida Kartli",10.47
+"2003-09-14",12,"Tbilisi",13.87
+"2003-09-15",1,"Abkhazia",13.34
+"2003-09-15",2,"Ajaria",12.8
+"2003-09-15",3,"Guria",15.71
+"2003-09-15",4,"Imereti",13.81
+"2003-09-15",5,"Kakheti",12.81
+"2003-09-15",6,"Kvemo Kartli",12.01
+"2003-09-15",7,"Mtskheta-Mtianeti",8.18
+"2003-09-15",8,"Racha-Lechkhumi-Kvemo Svaneti",8.64
+"2003-09-15",9,"Samegrelo-Zemo Svaneti",11.72
+"2003-09-15",10,"Samtskhe-Javakheti",8.26
+"2003-09-15",11,"Shida Kartli",10.45
+"2003-09-15",12,"Tbilisi",13.58
+"2003-09-16",1,"Abkhazia",12.73
+"2003-09-16",2,"Ajaria",14.41
+"2003-09-16",3,"Guria",17.08
+"2003-09-16",4,"Imereti",13.62
+"2003-09-16",5,"Kakheti",13.62
+"2003-09-16",6,"Kvemo Kartli",12.06
+"2003-09-16",7,"Mtskheta-Mtianeti",8.3
+"2003-09-16",8,"Racha-Lechkhumi-Kvemo Svaneti",9.2
+"2003-09-16",9,"Samegrelo-Zemo Svaneti",11.79
+"2003-09-16",10,"Samtskhe-Javakheti",8.96
+"2003-09-16",11,"Shida Kartli",10.06
+"2003-09-16",12,"Tbilisi",13.72
+"2003-09-17",1,"Abkhazia",13.63
+"2003-09-17",2,"Ajaria",13.68
+"2003-09-17",3,"Guria",16.88
+"2003-09-17",4,"Imereti",14.46
+"2003-09-17",5,"Kakheti",12.59
+"2003-09-17",6,"Kvemo Kartli",11.12
+"2003-09-17",7,"Mtskheta-Mtianeti",7.82
+"2003-09-17",8,"Racha-Lechkhumi-Kvemo Svaneti",9.68
+"2003-09-17",9,"Samegrelo-Zemo Svaneti",12.51
+"2003-09-17",10,"Samtskhe-Javakheti",9.11
+"2003-09-17",11,"Shida Kartli",9.4
+"2003-09-17",12,"Tbilisi",11.15
+"2003-09-18",1,"Abkhazia",11.64
+"2003-09-18",2,"Ajaria",11.02
+"2003-09-18",3,"Guria",14.82
+"2003-09-18",4,"Imereti",13.89
+"2003-09-18",5,"Kakheti",13.9
+"2003-09-18",6,"Kvemo Kartli",13.39
+"2003-09-18",7,"Mtskheta-Mtianeti",8.97
+"2003-09-18",8,"Racha-Lechkhumi-Kvemo Svaneti",8.9
+"2003-09-18",9,"Samegrelo-Zemo Svaneti",10.57
+"2003-09-18",10,"Samtskhe-Javakheti",9.32
+"2003-09-18",11,"Shida Kartli",11.07
+"2003-09-18",12,"Tbilisi",14.09
+"2003-09-19",1,"Abkhazia",10.43
+"2003-09-19",2,"Ajaria",9.66
+"2003-09-19",3,"Guria",13.55
+"2003-09-19",4,"Imereti",11.75
+"2003-09-19",5,"Kakheti",11.03
+"2003-09-19",6,"Kvemo Kartli",8.61
+"2003-09-19",7,"Mtskheta-Mtianeti",6.14
+"2003-09-19",8,"Racha-Lechkhumi-Kvemo Svaneti",6.71
+"2003-09-19",9,"Samegrelo-Zemo Svaneti",9.02
+"2003-09-19",10,"Samtskhe-Javakheti",5.2
+"2003-09-19",11,"Shida Kartli",8.32
+"2003-09-19",12,"Tbilisi",11.6
+"2003-09-20",1,"Abkhazia",7.67
+"2003-09-20",2,"Ajaria",8.94
+"2003-09-20",3,"Guria",11.83
+"2003-09-20",4,"Imereti",11.65
+"2003-09-20",5,"Kakheti",10.77
+"2003-09-20",6,"Kvemo Kartli",8.75
+"2003-09-20",7,"Mtskheta-Mtianeti",4.35
+"2003-09-20",8,"Racha-Lechkhumi-Kvemo Svaneti",6.57
+"2003-09-20",9,"Samegrelo-Zemo Svaneti",7.63
+"2003-09-20",10,"Samtskhe-Javakheti",5.89
+"2003-09-20",11,"Shida Kartli",7.19
+"2003-09-20",12,"Tbilisi",9.62
+"2003-09-21",1,"Abkhazia",9.64
+"2003-09-21",2,"Ajaria",9.33
+"2003-09-21",3,"Guria",12.74
+"2003-09-21",4,"Imereti",11.7
+"2003-09-21",5,"Kakheti",10.03
+"2003-09-21",6,"Kvemo Kartli",9.32
+"2003-09-21",7,"Mtskheta-Mtianeti",5.79
+"2003-09-21",8,"Racha-Lechkhumi-Kvemo Svaneti",5.39
+"2003-09-21",9,"Samegrelo-Zemo Svaneti",6.77
+"2003-09-21",10,"Samtskhe-Javakheti",5.78
+"2003-09-21",11,"Shida Kartli",8.55
+"2003-09-21",12,"Tbilisi",11.01
+"2003-09-22",1,"Abkhazia",10.07
+"2003-09-22",2,"Ajaria",9.45
+"2003-09-22",3,"Guria",12.27
+"2003-09-22",4,"Imereti",12.53
+"2003-09-22",5,"Kakheti",10.24
+"2003-09-22",6,"Kvemo Kartli",8.71
+"2003-09-22",7,"Mtskheta-Mtianeti",4.38
+"2003-09-22",8,"Racha-Lechkhumi-Kvemo Svaneti",7.45
+"2003-09-22",9,"Samegrelo-Zemo Svaneti",7.87
+"2003-09-22",10,"Samtskhe-Javakheti",5.72
+"2003-09-22",11,"Shida Kartli",7.99
+"2003-09-22",12,"Tbilisi",10.57
+"2003-09-23",1,"Abkhazia",10.52
+"2003-09-23",2,"Ajaria",8.83
+"2003-09-23",3,"Guria",11.9
+"2003-09-23",4,"Imereti",12.12
+"2003-09-23",5,"Kakheti",11.24
+"2003-09-23",6,"Kvemo Kartli",10.5
+"2003-09-23",7,"Mtskheta-Mtianeti",6.09
+"2003-09-23",8,"Racha-Lechkhumi-Kvemo Svaneti",6.24
+"2003-09-23",9,"Samegrelo-Zemo Svaneti",8.42
+"2003-09-23",10,"Samtskhe-Javakheti",5.18
+"2003-09-23",11,"Shida Kartli",8.83
+"2003-09-23",12,"Tbilisi",12.02
+"2003-09-24",1,"Abkhazia",11.04
+"2003-09-24",2,"Ajaria",11.4
+"2003-09-24",3,"Guria",12.64
+"2003-09-24",4,"Imereti",11.55
+"2003-09-24",5,"Kakheti",10.16
+"2003-09-24",6,"Kvemo Kartli",11
+"2003-09-24",7,"Mtskheta-Mtianeti",5.31
+"2003-09-24",8,"Racha-Lechkhumi-Kvemo Svaneti",6.23
+"2003-09-24",9,"Samegrelo-Zemo Svaneti",9.25
+"2003-09-24",10,"Samtskhe-Javakheti",6.11
+"2003-09-24",11,"Shida Kartli",8.11
+"2003-09-24",12,"Tbilisi",12.62
+"2003-09-25",1,"Abkhazia",10.58
+"2003-09-25",2,"Ajaria",9.95
+"2003-09-25",3,"Guria",11.86
+"2003-09-25",4,"Imereti",9.77
+"2003-09-25",5,"Kakheti",10.37
+"2003-09-25",6,"Kvemo Kartli",9.7
+"2003-09-25",7,"Mtskheta-Mtianeti",4.75
+"2003-09-25",8,"Racha-Lechkhumi-Kvemo Svaneti",5.67
+"2003-09-25",9,"Samegrelo-Zemo Svaneti",8.55
+"2003-09-25",10,"Samtskhe-Javakheti",5.03
+"2003-09-25",11,"Shida Kartli",6.31
+"2003-09-25",12,"Tbilisi",10.17
+"2003-09-26",1,"Abkhazia",9.75
+"2003-09-26",2,"Ajaria",10.7
+"2003-09-26",3,"Guria",12.63
+"2003-09-26",4,"Imereti",10.67
+"2003-09-26",5,"Kakheti",10.57
+"2003-09-26",6,"Kvemo Kartli",10.68
+"2003-09-26",7,"Mtskheta-Mtianeti",4.56
+"2003-09-26",8,"Racha-Lechkhumi-Kvemo Svaneti",5.08
+"2003-09-26",9,"Samegrelo-Zemo Svaneti",7.9
+"2003-09-26",10,"Samtskhe-Javakheti",5.72
+"2003-09-26",11,"Shida Kartli",7.57
+"2003-09-26",12,"Tbilisi",11.91
+"2003-09-27",1,"Abkhazia",10.04
+"2003-09-27",2,"Ajaria",10.23
+"2003-09-27",3,"Guria",12.14
+"2003-09-27",4,"Imereti",10.71
+"2003-09-27",5,"Kakheti",8.74
+"2003-09-27",6,"Kvemo Kartli",9.38
+"2003-09-27",7,"Mtskheta-Mtianeti",3.23
+"2003-09-27",8,"Racha-Lechkhumi-Kvemo Svaneti",5.38
+"2003-09-27",9,"Samegrelo-Zemo Svaneti",7.78
+"2003-09-27",10,"Samtskhe-Javakheti",5.74
+"2003-09-27",11,"Shida Kartli",6.68
+"2003-09-27",12,"Tbilisi",9.63
+"2003-09-28",1,"Abkhazia",14.04
+"2003-09-28",2,"Ajaria",13.83
+"2003-09-28",3,"Guria",16.77
+"2003-09-28",4,"Imereti",13.14
+"2003-09-28",5,"Kakheti",10.55
+"2003-09-28",6,"Kvemo Kartli",10.92
+"2003-09-28",7,"Mtskheta-Mtianeti",4.95
+"2003-09-28",8,"Racha-Lechkhumi-Kvemo Svaneti",8.55
+"2003-09-28",9,"Samegrelo-Zemo Svaneti",11.16
+"2003-09-28",10,"Samtskhe-Javakheti",7.99
+"2003-09-28",11,"Shida Kartli",8.29
+"2003-09-28",12,"Tbilisi",10.91
+"2003-09-29",1,"Abkhazia",12.04
+"2003-09-29",2,"Ajaria",12.59
+"2003-09-29",3,"Guria",15.68
+"2003-09-29",4,"Imereti",13.61
+"2003-09-29",5,"Kakheti",13
+"2003-09-29",6,"Kvemo Kartli",12.6
+"2003-09-29",7,"Mtskheta-Mtianeti",8.2
+"2003-09-29",8,"Racha-Lechkhumi-Kvemo Svaneti",8.4
+"2003-09-29",9,"Samegrelo-Zemo Svaneti",10.78
+"2003-09-29",10,"Samtskhe-Javakheti",8.69
+"2003-09-29",11,"Shida Kartli",10.68
+"2003-09-29",12,"Tbilisi",12.94
+"2003-09-30",1,"Abkhazia",8.61
+"2003-09-30",2,"Ajaria",9.87
+"2003-09-30",3,"Guria",12.23
+"2003-09-30",4,"Imereti",11
+"2003-09-30",5,"Kakheti",10.84
+"2003-09-30",6,"Kvemo Kartli",12.01
+"2003-09-30",7,"Mtskheta-Mtianeti",5.85
+"2003-09-30",8,"Racha-Lechkhumi-Kvemo Svaneti",5.36
+"2003-09-30",9,"Samegrelo-Zemo Svaneti",7.15
+"2003-09-30",10,"Samtskhe-Javakheti",7.12
+"2003-09-30",11,"Shida Kartli",8.69
+"2003-09-30",12,"Tbilisi",12.31
+"2003-10-01",1,"Abkhazia",9.5
+"2003-10-01",2,"Ajaria",9.2
+"2003-10-01",3,"Guria",11.36
+"2003-10-01",4,"Imereti",9.41
+"2003-10-01",5,"Kakheti",9.1
+"2003-10-01",6,"Kvemo Kartli",10.21
+"2003-10-01",7,"Mtskheta-Mtianeti",3.98
+"2003-10-01",8,"Racha-Lechkhumi-Kvemo Svaneti",4.55
+"2003-10-01",9,"Samegrelo-Zemo Svaneti",6.42
+"2003-10-01",10,"Samtskhe-Javakheti",5.74
+"2003-10-01",11,"Shida Kartli",7.14
+"2003-10-01",12,"Tbilisi",9.98
+"2003-10-02",1,"Abkhazia",10.16
+"2003-10-02",2,"Ajaria",11.75
+"2003-10-02",3,"Guria",14.97
+"2003-10-02",4,"Imereti",11.28
+"2003-10-02",5,"Kakheti",11.87
+"2003-10-02",6,"Kvemo Kartli",11.88
+"2003-10-02",7,"Mtskheta-Mtianeti",6.37
+"2003-10-02",8,"Racha-Lechkhumi-Kvemo Svaneti",6
+"2003-10-02",9,"Samegrelo-Zemo Svaneti",9.34
+"2003-10-02",10,"Samtskhe-Javakheti",7.58
+"2003-10-02",11,"Shida Kartli",8.6
+"2003-10-02",12,"Tbilisi",12.99
+"2003-10-03",1,"Abkhazia",9.59
+"2003-10-03",2,"Ajaria",10.13
+"2003-10-03",3,"Guria",12.98
+"2003-10-03",4,"Imereti",10.53
+"2003-10-03",5,"Kakheti",9.85
+"2003-10-03",6,"Kvemo Kartli",10.09
+"2003-10-03",7,"Mtskheta-Mtianeti",5.44
+"2003-10-03",8,"Racha-Lechkhumi-Kvemo Svaneti",5.72
+"2003-10-03",9,"Samegrelo-Zemo Svaneti",7.86
+"2003-10-03",10,"Samtskhe-Javakheti",6.18
+"2003-10-03",11,"Shida Kartli",8.26
+"2003-10-03",12,"Tbilisi",11.05
+"2003-10-04",1,"Abkhazia",9.8
+"2003-10-04",2,"Ajaria",10.82
+"2003-10-04",3,"Guria",13.53
+"2003-10-04",4,"Imereti",11.88
+"2003-10-04",5,"Kakheti",8.97
+"2003-10-04",6,"Kvemo Kartli",9.86
+"2003-10-04",7,"Mtskheta-Mtianeti",4.33
+"2003-10-04",8,"Racha-Lechkhumi-Kvemo Svaneti",5.3
+"2003-10-04",9,"Samegrelo-Zemo Svaneti",8.52
+"2003-10-04",10,"Samtskhe-Javakheti",6.98
+"2003-10-04",11,"Shida Kartli",7.42
+"2003-10-04",12,"Tbilisi",10.3
+"2003-10-05",1,"Abkhazia",8.26
+"2003-10-05",2,"Ajaria",7.59
+"2003-10-05",3,"Guria",9.46
+"2003-10-05",4,"Imereti",8.77
+"2003-10-05",5,"Kakheti",8.76
+"2003-10-05",6,"Kvemo Kartli",6.28
+"2003-10-05",7,"Mtskheta-Mtianeti",3.88
+"2003-10-05",8,"Racha-Lechkhumi-Kvemo Svaneti",4.11
+"2003-10-05",9,"Samegrelo-Zemo Svaneti",6.44
+"2003-10-05",10,"Samtskhe-Javakheti",3.09
+"2003-10-05",11,"Shida Kartli",5.56
+"2003-10-05",12,"Tbilisi",8.1
+"2003-10-06",1,"Abkhazia",10.69
+"2003-10-06",2,"Ajaria",11.02
+"2003-10-06",3,"Guria",11.47
+"2003-10-06",4,"Imereti",9.49
+"2003-10-06",5,"Kakheti",9.13
+"2003-10-06",6,"Kvemo Kartli",7.69
+"2003-10-06",7,"Mtskheta-Mtianeti",3.12
+"2003-10-06",8,"Racha-Lechkhumi-Kvemo Svaneti",5.6
+"2003-10-06",9,"Samegrelo-Zemo Svaneti",8.28
+"2003-10-06",10,"Samtskhe-Javakheti",5.7
+"2003-10-06",11,"Shida Kartli",5.75
+"2003-10-06",12,"Tbilisi",8.19
+"2003-10-07",1,"Abkhazia",13.21
+"2003-10-07",2,"Ajaria",12.84
+"2003-10-07",3,"Guria",14.54
+"2003-10-07",4,"Imereti",12.87
+"2003-10-07",5,"Kakheti",10.92
+"2003-10-07",6,"Kvemo Kartli",9.83
+"2003-10-07",7,"Mtskheta-Mtianeti",6.37
+"2003-10-07",8,"Racha-Lechkhumi-Kvemo Svaneti",8.69
+"2003-10-07",9,"Samegrelo-Zemo Svaneti",11.66
+"2003-10-07",10,"Samtskhe-Javakheti",7.73
+"2003-10-07",11,"Shida Kartli",8.36
+"2003-10-07",12,"Tbilisi",11.69
+"2003-10-08",1,"Abkhazia",10.63
+"2003-10-08",2,"Ajaria",10.26
+"2003-10-08",3,"Guria",12.32
+"2003-10-08",4,"Imereti",12.06
+"2003-10-08",5,"Kakheti",12.26
+"2003-10-08",6,"Kvemo Kartli",9.91
+"2003-10-08",7,"Mtskheta-Mtianeti",5.43
+"2003-10-08",8,"Racha-Lechkhumi-Kvemo Svaneti",7.46
+"2003-10-08",9,"Samegrelo-Zemo Svaneti",8.58
+"2003-10-08",10,"Samtskhe-Javakheti",7.23
+"2003-10-08",11,"Shida Kartli",7.69
+"2003-10-08",12,"Tbilisi",10.03
+"2003-10-09",1,"Abkhazia",14.06
+"2003-10-09",2,"Ajaria",12.42
+"2003-10-09",3,"Guria",14.35
+"2003-10-09",4,"Imereti",13.48
+"2003-10-09",5,"Kakheti",11.98
+"2003-10-09",6,"Kvemo Kartli",11.56
+"2003-10-09",7,"Mtskheta-Mtianeti",7.17
+"2003-10-09",8,"Racha-Lechkhumi-Kvemo Svaneti",9.22
+"2003-10-09",9,"Samegrelo-Zemo Svaneti",11.56
+"2003-10-09",10,"Samtskhe-Javakheti",7.84
+"2003-10-09",11,"Shida Kartli",9.8
+"2003-10-09",12,"Tbilisi",11.08
+"2003-10-10",1,"Abkhazia",15.03
+"2003-10-10",2,"Ajaria",14.73
+"2003-10-10",3,"Guria",17.73
+"2003-10-10",4,"Imereti",14.26
+"2003-10-10",5,"Kakheti",13.27
+"2003-10-10",6,"Kvemo Kartli",12.02
+"2003-10-10",7,"Mtskheta-Mtianeti",8.32
+"2003-10-10",8,"Racha-Lechkhumi-Kvemo Svaneti",12.32
+"2003-10-10",9,"Samegrelo-Zemo Svaneti",14.65
+"2003-10-10",10,"Samtskhe-Javakheti",9.22
+"2003-10-10",11,"Shida Kartli",10.58
+"2003-10-10",12,"Tbilisi",12.25
+"2003-10-11",1,"Abkhazia",12.77
+"2003-10-11",2,"Ajaria",12.84
+"2003-10-11",3,"Guria",15.66
+"2003-10-11",4,"Imereti",14.02
+"2003-10-11",5,"Kakheti",16.05
+"2003-10-11",6,"Kvemo Kartli",14.55
+"2003-10-11",7,"Mtskheta-Mtianeti",9.22
+"2003-10-11",8,"Racha-Lechkhumi-Kvemo Svaneti",10.76
+"2003-10-11",9,"Samegrelo-Zemo Svaneti",11.76
+"2003-10-11",10,"Samtskhe-Javakheti",10.44
+"2003-10-11",11,"Shida Kartli",10.62
+"2003-10-11",12,"Tbilisi",13.26
+"2003-10-12",1,"Abkhazia",10.26
+"2003-10-12",2,"Ajaria",10.08
+"2003-10-12",3,"Guria",13.57
+"2003-10-12",4,"Imereti",12.64
+"2003-10-12",5,"Kakheti",12.15
+"2003-10-12",6,"Kvemo Kartli",14.16
+"2003-10-12",7,"Mtskheta-Mtianeti",8.66
+"2003-10-12",8,"Racha-Lechkhumi-Kvemo Svaneti",8.6
+"2003-10-12",9,"Samegrelo-Zemo Svaneti",10.04
+"2003-10-12",10,"Samtskhe-Javakheti",9.03
+"2003-10-12",11,"Shida Kartli",10.49
+"2003-10-12",12,"Tbilisi",15
+"2003-10-13",1,"Abkhazia",9.9
+"2003-10-13",2,"Ajaria",9.99
+"2003-10-13",3,"Guria",12.98
+"2003-10-13",4,"Imereti",11.41
+"2003-10-13",5,"Kakheti",12.92
+"2003-10-13",6,"Kvemo Kartli",12.18
+"2003-10-13",7,"Mtskheta-Mtianeti",7.41
+"2003-10-13",8,"Racha-Lechkhumi-Kvemo Svaneti",7.07
+"2003-10-13",9,"Samegrelo-Zemo Svaneti",8.75
+"2003-10-13",10,"Samtskhe-Javakheti",7.6
+"2003-10-13",11,"Shida Kartli",8.91
+"2003-10-13",12,"Tbilisi",12.59
+"2003-10-14",1,"Abkhazia",10.46
+"2003-10-14",2,"Ajaria",11.32
+"2003-10-14",3,"Guria",14.24
+"2003-10-14",4,"Imereti",13.01
+"2003-10-14",5,"Kakheti",10.99
+"2003-10-14",6,"Kvemo Kartli",11.99
+"2003-10-14",7,"Mtskheta-Mtianeti",6.1
+"2003-10-14",8,"Racha-Lechkhumi-Kvemo Svaneti",7.57
+"2003-10-14",9,"Samegrelo-Zemo Svaneti",9.43
+"2003-10-14",10,"Samtskhe-Javakheti",9.07
+"2003-10-14",11,"Shida Kartli",9.47
+"2003-10-14",12,"Tbilisi",11.45
+"2003-10-15",1,"Abkhazia",7.65
+"2003-10-15",2,"Ajaria",10.61
+"2003-10-15",3,"Guria",13.78
+"2003-10-15",4,"Imereti",11.84
+"2003-10-15",5,"Kakheti",10.89
+"2003-10-15",6,"Kvemo Kartli",11.07
+"2003-10-15",7,"Mtskheta-Mtianeti",4.11
+"2003-10-15",8,"Racha-Lechkhumi-Kvemo Svaneti",5.54
+"2003-10-15",9,"Samegrelo-Zemo Svaneti",6.55
+"2003-10-15",10,"Samtskhe-Javakheti",8.45
+"2003-10-15",11,"Shida Kartli",6.82
+"2003-10-15",12,"Tbilisi",10.58
+"2003-10-16",1,"Abkhazia",10.99
+"2003-10-16",2,"Ajaria",9.83
+"2003-10-16",3,"Guria",12.6
+"2003-10-16",4,"Imereti",11.03
+"2003-10-16",5,"Kakheti",10.84
+"2003-10-16",6,"Kvemo Kartli",12.7
+"2003-10-16",7,"Mtskheta-Mtianeti",6.22
+"2003-10-16",8,"Racha-Lechkhumi-Kvemo Svaneti",6.04
+"2003-10-16",9,"Samegrelo-Zemo Svaneti",8.27
+"2003-10-16",10,"Samtskhe-Javakheti",7.08
+"2003-10-16",11,"Shida Kartli",9.28
+"2003-10-16",12,"Tbilisi",12.92
+"2003-10-17",1,"Abkhazia",10.47
+"2003-10-17",2,"Ajaria",12.35
+"2003-10-17",3,"Guria",15.22
+"2003-10-17",4,"Imereti",13.58
+"2003-10-17",5,"Kakheti",11.62
+"2003-10-17",6,"Kvemo Kartli",11.11
+"2003-10-17",7,"Mtskheta-Mtianeti",6.87
+"2003-10-17",8,"Racha-Lechkhumi-Kvemo Svaneti",8.54
+"2003-10-17",9,"Samegrelo-Zemo Svaneti",9.33
+"2003-10-17",10,"Samtskhe-Javakheti",9.42
+"2003-10-17",11,"Shida Kartli",8.95
+"2003-10-17",12,"Tbilisi",11.96
+"2003-10-18",1,"Abkhazia",11.88
+"2003-10-18",2,"Ajaria",11.31
+"2003-10-18",3,"Guria",14.34
+"2003-10-18",4,"Imereti",13.29
+"2003-10-18",5,"Kakheti",12.09
+"2003-10-18",6,"Kvemo Kartli",11.28
+"2003-10-18",7,"Mtskheta-Mtianeti",7.7
+"2003-10-18",8,"Racha-Lechkhumi-Kvemo Svaneti",7.67
+"2003-10-18",9,"Samegrelo-Zemo Svaneti",9.79
+"2003-10-18",10,"Samtskhe-Javakheti",7.72
+"2003-10-18",11,"Shida Kartli",9.65
+"2003-10-18",12,"Tbilisi",12.14
+"2003-10-19",1,"Abkhazia",9.9
+"2003-10-19",2,"Ajaria",11.58
+"2003-10-19",3,"Guria",14.64
+"2003-10-19",4,"Imereti",12.52
+"2003-10-19",5,"Kakheti",10.18
+"2003-10-19",6,"Kvemo Kartli",10.05
+"2003-10-19",7,"Mtskheta-Mtianeti",5.69
+"2003-10-19",8,"Racha-Lechkhumi-Kvemo Svaneti",6.19
+"2003-10-19",9,"Samegrelo-Zemo Svaneti",8.33
+"2003-10-19",10,"Samtskhe-Javakheti",8.03
+"2003-10-19",11,"Shida Kartli",8.76
+"2003-10-19",12,"Tbilisi",10.49
+"2003-10-20",1,"Abkhazia",2.08
+"2003-10-20",2,"Ajaria",3.61
+"2003-10-20",3,"Guria",5.7
+"2003-10-20",4,"Imereti",3.88
+"2003-10-20",5,"Kakheti",4.14
+"2003-10-20",6,"Kvemo Kartli",3.15
+"2003-10-20",7,"Mtskheta-Mtianeti",-2.61
+"2003-10-20",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.83
+"2003-10-20",9,"Samegrelo-Zemo Svaneti",-4.39
+"2003-10-20",10,"Samtskhe-Javakheti",-0.71
+"2003-10-20",11,"Shida Kartli",-0.76
+"2003-10-20",12,"Tbilisi",3.22
+"2003-10-21",1,"Abkhazia",8.42
+"2003-10-21",2,"Ajaria",8.65
+"2003-10-21",3,"Guria",11.68
+"2003-10-21",4,"Imereti",9.14
+"2003-10-21",5,"Kakheti",6.71
+"2003-10-21",6,"Kvemo Kartli",6.01
+"2003-10-21",7,"Mtskheta-Mtianeti",3.12
+"2003-10-21",8,"Racha-Lechkhumi-Kvemo Svaneti",3.5
+"2003-10-21",9,"Samegrelo-Zemo Svaneti",5.87
+"2003-10-21",10,"Samtskhe-Javakheti",4.54
+"2003-10-21",11,"Shida Kartli",5.8
+"2003-10-21",12,"Tbilisi",6.55
+"2003-10-22",1,"Abkhazia",12.03
+"2003-10-22",2,"Ajaria",12.1
+"2003-10-22",3,"Guria",12.97
+"2003-10-22",4,"Imereti",11.28
+"2003-10-22",5,"Kakheti",9.95
+"2003-10-22",6,"Kvemo Kartli",9.53
+"2003-10-22",7,"Mtskheta-Mtianeti",5.5
+"2003-10-22",8,"Racha-Lechkhumi-Kvemo Svaneti",6.2
+"2003-10-22",9,"Samegrelo-Zemo Svaneti",9.29
+"2003-10-22",10,"Samtskhe-Javakheti",7.29
+"2003-10-22",11,"Shida Kartli",7.9
+"2003-10-22",12,"Tbilisi",10.02
+"2003-10-23",1,"Abkhazia",11
+"2003-10-23",2,"Ajaria",10.2
+"2003-10-23",3,"Guria",12.07
+"2003-10-23",4,"Imereti",11.03
+"2003-10-23",5,"Kakheti",10.45
+"2003-10-23",6,"Kvemo Kartli",9.66
+"2003-10-23",7,"Mtskheta-Mtianeti",6.13
+"2003-10-23",8,"Racha-Lechkhumi-Kvemo Svaneti",5.67
+"2003-10-23",9,"Samegrelo-Zemo Svaneti",8.44
+"2003-10-23",10,"Samtskhe-Javakheti",6.35
+"2003-10-23",11,"Shida Kartli",9.27
+"2003-10-23",12,"Tbilisi",11
+"2003-10-24",1,"Abkhazia",13.37
+"2003-10-24",2,"Ajaria",12.96
+"2003-10-24",3,"Guria",13.84
+"2003-10-24",4,"Imereti",12.23
+"2003-10-24",5,"Kakheti",11.87
+"2003-10-24",6,"Kvemo Kartli",10.41
+"2003-10-24",7,"Mtskheta-Mtianeti",6.61
+"2003-10-24",8,"Racha-Lechkhumi-Kvemo Svaneti",8.44
+"2003-10-24",9,"Samegrelo-Zemo Svaneti",10.9
+"2003-10-24",10,"Samtskhe-Javakheti",7.43
+"2003-10-24",11,"Shida Kartli",8.86
+"2003-10-24",12,"Tbilisi",11.14
+"2003-10-25",1,"Abkhazia",13.03
+"2003-10-25",2,"Ajaria",14.63
+"2003-10-25",3,"Guria",17.97
+"2003-10-25",4,"Imereti",16.05
+"2003-10-25",5,"Kakheti",13.13
+"2003-10-25",6,"Kvemo Kartli",11.76
+"2003-10-25",7,"Mtskheta-Mtianeti",8.51
+"2003-10-25",8,"Racha-Lechkhumi-Kvemo Svaneti",9.84
+"2003-10-25",9,"Samegrelo-Zemo Svaneti",12.15
+"2003-10-25",10,"Samtskhe-Javakheti",10.48
+"2003-10-25",11,"Shida Kartli",11.45
+"2003-10-25",12,"Tbilisi",12.9
+"2003-10-26",1,"Abkhazia",8.63
+"2003-10-26",2,"Ajaria",11.27
+"2003-10-26",3,"Guria",13.76
+"2003-10-26",4,"Imereti",12.85
+"2003-10-26",5,"Kakheti",12.75
+"2003-10-26",6,"Kvemo Kartli",11.16
+"2003-10-26",7,"Mtskheta-Mtianeti",8.36
+"2003-10-26",8,"Racha-Lechkhumi-Kvemo Svaneti",6.79
+"2003-10-26",9,"Samegrelo-Zemo Svaneti",8.03
+"2003-10-26",10,"Samtskhe-Javakheti",9.35
+"2003-10-26",11,"Shida Kartli",10.29
+"2003-10-26",12,"Tbilisi",12.46
+"2003-10-27",1,"Abkhazia",5.42
+"2003-10-27",2,"Ajaria",6.62
+"2003-10-27",3,"Guria",10.03
+"2003-10-27",4,"Imereti",8.61
+"2003-10-27",5,"Kakheti",7.4
+"2003-10-27",6,"Kvemo Kartli",6.71
+"2003-10-27",7,"Mtskheta-Mtianeti",2.47
+"2003-10-27",8,"Racha-Lechkhumi-Kvemo Svaneti",2.07
+"2003-10-27",9,"Samegrelo-Zemo Svaneti",4.15
+"2003-10-27",10,"Samtskhe-Javakheti",2.92
+"2003-10-27",11,"Shida Kartli",5.17
+"2003-10-27",12,"Tbilisi",8.18
+"2003-10-28",1,"Abkhazia",4.11
+"2003-10-28",2,"Ajaria",2.53
+"2003-10-28",3,"Guria",6.8
+"2003-10-28",4,"Imereti",5.64
+"2003-10-28",5,"Kakheti",5.03
+"2003-10-28",6,"Kvemo Kartli",4.05
+"2003-10-28",7,"Mtskheta-Mtianeti",-0.98
+"2003-10-28",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.39
+"2003-10-28",9,"Samegrelo-Zemo Svaneti",1.11
+"2003-10-28",10,"Samtskhe-Javakheti",-0.11
+"2003-10-28",11,"Shida Kartli",0.59
+"2003-10-28",12,"Tbilisi",3.69
+"2003-10-29",1,"Abkhazia",3.38
+"2003-10-29",2,"Ajaria",2.19
+"2003-10-29",3,"Guria",6.25
+"2003-10-29",4,"Imereti",3.99
+"2003-10-29",5,"Kakheti",5.56
+"2003-10-29",6,"Kvemo Kartli",3.09
+"2003-10-29",7,"Mtskheta-Mtianeti",-0.46
+"2003-10-29",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.98
+"2003-10-29",9,"Samegrelo-Zemo Svaneti",1.7
+"2003-10-29",10,"Samtskhe-Javakheti",-1.26
+"2003-10-29",11,"Shida Kartli",0.79
+"2003-10-29",12,"Tbilisi",5.14
+"2003-10-30",1,"Abkhazia",3.94
+"2003-10-30",2,"Ajaria",2.05
+"2003-10-30",3,"Guria",6.46
+"2003-10-30",4,"Imereti",3.65
+"2003-10-30",5,"Kakheti",7.66
+"2003-10-30",6,"Kvemo Kartli",5.23
+"2003-10-30",7,"Mtskheta-Mtianeti",2.31
+"2003-10-30",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.19
+"2003-10-30",9,"Samegrelo-Zemo Svaneti",2.08
+"2003-10-30",10,"Samtskhe-Javakheti",-0.47
+"2003-10-30",11,"Shida Kartli",3.35
+"2003-10-30",12,"Tbilisi",7.97
+"2003-10-31",1,"Abkhazia",3.13
+"2003-10-31",2,"Ajaria",0
+"2003-10-31",3,"Guria",4.31
+"2003-10-31",4,"Imereti",2.72
+"2003-10-31",5,"Kakheti",1.36
+"2003-10-31",6,"Kvemo Kartli",0.22
+"2003-10-31",7,"Mtskheta-Mtianeti",-5.54
+"2003-10-31",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.11
+"2003-10-31",9,"Samegrelo-Zemo Svaneti",0.81
+"2003-10-31",10,"Samtskhe-Javakheti",-5.76
+"2003-10-31",11,"Shida Kartli",-2.58
+"2003-10-31",12,"Tbilisi",2.73
+"2003-11-01",1,"Abkhazia",6.58
+"2003-11-01",2,"Ajaria",5.91
+"2003-11-01",3,"Guria",9.92
+"2003-11-01",4,"Imereti",8.54
+"2003-11-01",5,"Kakheti",4.79
+"2003-11-01",6,"Kvemo Kartli",5.25
+"2003-11-01",7,"Mtskheta-Mtianeti",-0.82
+"2003-11-01",8,"Racha-Lechkhumi-Kvemo Svaneti",1.38
+"2003-11-01",9,"Samegrelo-Zemo Svaneti",4.83
+"2003-11-01",10,"Samtskhe-Javakheti",2.44
+"2003-11-01",11,"Shida Kartli",4.3
+"2003-11-01",12,"Tbilisi",6.13
+"2003-11-02",1,"Abkhazia",6.34
+"2003-11-02",2,"Ajaria",8.18
+"2003-11-02",3,"Guria",11.99
+"2003-11-02",4,"Imereti",9.2
+"2003-11-02",5,"Kakheti",7.17
+"2003-11-02",6,"Kvemo Kartli",7.47
+"2003-11-02",7,"Mtskheta-Mtianeti",1.89
+"2003-11-02",8,"Racha-Lechkhumi-Kvemo Svaneti",3.35
+"2003-11-02",9,"Samegrelo-Zemo Svaneti",4.96
+"2003-11-02",10,"Samtskhe-Javakheti",2.96
+"2003-11-02",11,"Shida Kartli",5.69
+"2003-11-02",12,"Tbilisi",8.71
+"2003-11-03",1,"Abkhazia",3.9
+"2003-11-03",2,"Ajaria",6.11
+"2003-11-03",3,"Guria",9.5
+"2003-11-03",4,"Imereti",9.04
+"2003-11-03",5,"Kakheti",5.7
+"2003-11-03",6,"Kvemo Kartli",6.89
+"2003-11-03",7,"Mtskheta-Mtianeti",-0.3
+"2003-11-03",8,"Racha-Lechkhumi-Kvemo Svaneti",1.19
+"2003-11-03",9,"Samegrelo-Zemo Svaneti",1.5
+"2003-11-03",10,"Samtskhe-Javakheti",2.45
+"2003-11-03",11,"Shida Kartli",5.58
+"2003-11-03",12,"Tbilisi",9.31
+"2003-11-04",1,"Abkhazia",6.16
+"2003-11-04",2,"Ajaria",4.56
+"2003-11-04",3,"Guria",7.67
+"2003-11-04",4,"Imereti",6.26
+"2003-11-04",5,"Kakheti",5.65
+"2003-11-04",6,"Kvemo Kartli",3.72
+"2003-11-04",7,"Mtskheta-Mtianeti",-0.68
+"2003-11-04",8,"Racha-Lechkhumi-Kvemo Svaneti",1.94
+"2003-11-04",9,"Samegrelo-Zemo Svaneti",3.79
+"2003-11-04",10,"Samtskhe-Javakheti",-2.48
+"2003-11-04",11,"Shida Kartli",1.2
+"2003-11-04",12,"Tbilisi",6.67
+"2003-11-05",1,"Abkhazia",7.88
+"2003-11-05",2,"Ajaria",7.21
+"2003-11-05",3,"Guria",9.25
+"2003-11-05",4,"Imereti",8.59
+"2003-11-05",5,"Kakheti",6.68
+"2003-11-05",6,"Kvemo Kartli",5.12
+"2003-11-05",7,"Mtskheta-Mtianeti",1.8
+"2003-11-05",8,"Racha-Lechkhumi-Kvemo Svaneti",4.7
+"2003-11-05",9,"Samegrelo-Zemo Svaneti",5.79
+"2003-11-05",10,"Samtskhe-Javakheti",1.73
+"2003-11-05",11,"Shida Kartli",4.83
+"2003-11-05",12,"Tbilisi",5.6
+"2003-11-06",1,"Abkhazia",6.44
+"2003-11-06",2,"Ajaria",5.9
+"2003-11-06",3,"Guria",8.41
+"2003-11-06",4,"Imereti",6.43
+"2003-11-06",5,"Kakheti",6.82
+"2003-11-06",6,"Kvemo Kartli",5.85
+"2003-11-06",7,"Mtskheta-Mtianeti",1.7
+"2003-11-06",8,"Racha-Lechkhumi-Kvemo Svaneti",4.23
+"2003-11-06",9,"Samegrelo-Zemo Svaneti",4.65
+"2003-11-06",10,"Samtskhe-Javakheti",0.75
+"2003-11-06",11,"Shida Kartli",4.14
+"2003-11-06",12,"Tbilisi",5.28
+"2003-11-07",1,"Abkhazia",6.04
+"2003-11-07",2,"Ajaria",6.16
+"2003-11-07",3,"Guria",9.39
+"2003-11-07",4,"Imereti",8.06
+"2003-11-07",5,"Kakheti",6.71
+"2003-11-07",6,"Kvemo Kartli",5.41
+"2003-11-07",7,"Mtskheta-Mtianeti",0.75
+"2003-11-07",8,"Racha-Lechkhumi-Kvemo Svaneti",1.79
+"2003-11-07",9,"Samegrelo-Zemo Svaneti",4.67
+"2003-11-07",10,"Samtskhe-Javakheti",0.78
+"2003-11-07",11,"Shida Kartli",3.82
+"2003-11-07",12,"Tbilisi",6.78
+"2003-11-08",1,"Abkhazia",5.87
+"2003-11-08",2,"Ajaria",8.51
+"2003-11-08",3,"Guria",10.26
+"2003-11-08",4,"Imereti",6.28
+"2003-11-08",5,"Kakheti",5.16
+"2003-11-08",6,"Kvemo Kartli",5.72
+"2003-11-08",7,"Mtskheta-Mtianeti",-0.84
+"2003-11-08",8,"Racha-Lechkhumi-Kvemo Svaneti",0.28
+"2003-11-08",9,"Samegrelo-Zemo Svaneti",3.44
+"2003-11-08",10,"Samtskhe-Javakheti",2.54
+"2003-11-08",11,"Shida Kartli",2.16
+"2003-11-08",12,"Tbilisi",5.99
+"2003-11-09",1,"Abkhazia",5.93
+"2003-11-09",2,"Ajaria",5.14
+"2003-11-09",3,"Guria",8.64
+"2003-11-09",4,"Imereti",7.13
+"2003-11-09",5,"Kakheti",5.08
+"2003-11-09",6,"Kvemo Kartli",5.39
+"2003-11-09",7,"Mtskheta-Mtianeti",1.5
+"2003-11-09",8,"Racha-Lechkhumi-Kvemo Svaneti",1.71
+"2003-11-09",9,"Samegrelo-Zemo Svaneti",3.84
+"2003-11-09",10,"Samtskhe-Javakheti",1.41
+"2003-11-09",11,"Shida Kartli",3.92
+"2003-11-09",12,"Tbilisi",6.6
+"2003-11-10",1,"Abkhazia",3.03
+"2003-11-10",2,"Ajaria",2.6
+"2003-11-10",3,"Guria",6.36
+"2003-11-10",4,"Imereti",4.4
+"2003-11-10",5,"Kakheti",5.23
+"2003-11-10",6,"Kvemo Kartli",2.91
+"2003-11-10",7,"Mtskheta-Mtianeti",-0.47
+"2003-11-10",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.93
+"2003-11-10",9,"Samegrelo-Zemo Svaneti",1.29
+"2003-11-10",10,"Samtskhe-Javakheti",-0.94
+"2003-11-10",11,"Shida Kartli",1.15
+"2003-11-10",12,"Tbilisi",4.15
+"2003-11-11",1,"Abkhazia",4.05
+"2003-11-11",2,"Ajaria",4.97
+"2003-11-11",3,"Guria",7.03
+"2003-11-11",4,"Imereti",7.92
+"2003-11-11",5,"Kakheti",6.21
+"2003-11-11",6,"Kvemo Kartli",3.54
+"2003-11-11",7,"Mtskheta-Mtianeti",1.9
+"2003-11-11",8,"Racha-Lechkhumi-Kvemo Svaneti",1.93
+"2003-11-11",9,"Samegrelo-Zemo Svaneti",3.11
+"2003-11-11",10,"Samtskhe-Javakheti",0.8
+"2003-11-11",11,"Shida Kartli",3.77
+"2003-11-11",12,"Tbilisi",6.02
+"2003-11-12",1,"Abkhazia",6.44
+"2003-11-12",2,"Ajaria",4.94
+"2003-11-12",3,"Guria",9.24
+"2003-11-12",4,"Imereti",7.18
+"2003-11-12",5,"Kakheti",6.82
+"2003-11-12",6,"Kvemo Kartli",6.53
+"2003-11-12",7,"Mtskheta-Mtianeti",1.97
+"2003-11-12",8,"Racha-Lechkhumi-Kvemo Svaneti",2.4
+"2003-11-12",9,"Samegrelo-Zemo Svaneti",4.13
+"2003-11-12",10,"Samtskhe-Javakheti",2.49
+"2003-11-12",11,"Shida Kartli",5.02
+"2003-11-12",12,"Tbilisi",7.91
+"2003-11-13",1,"Abkhazia",2.59
+"2003-11-13",2,"Ajaria",1.78
+"2003-11-13",3,"Guria",5.91
+"2003-11-13",4,"Imereti",4.66
+"2003-11-13",5,"Kakheti",3.01
+"2003-11-13",6,"Kvemo Kartli",2.82
+"2003-11-13",7,"Mtskheta-Mtianeti",-2.92
+"2003-11-13",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.21
+"2003-11-13",9,"Samegrelo-Zemo Svaneti",0.86
+"2003-11-13",10,"Samtskhe-Javakheti",-1.68
+"2003-11-13",11,"Shida Kartli",0.5
+"2003-11-13",12,"Tbilisi",3.16
+"2003-11-14",1,"Abkhazia",-0.35
+"2003-11-14",2,"Ajaria",0.22
+"2003-11-14",3,"Guria",4.83
+"2003-11-14",4,"Imereti",3.19
+"2003-11-14",5,"Kakheti",0.56
+"2003-11-14",6,"Kvemo Kartli",0.91
+"2003-11-14",7,"Mtskheta-Mtianeti",-6.46
+"2003-11-14",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.42
+"2003-11-14",9,"Samegrelo-Zemo Svaneti",-1.33
+"2003-11-14",10,"Samtskhe-Javakheti",-4.87
+"2003-11-14",11,"Shida Kartli",-1.19
+"2003-11-14",12,"Tbilisi",2.32
+"2003-11-15",1,"Abkhazia",-0.52
+"2003-11-15",2,"Ajaria",1.78
+"2003-11-15",3,"Guria",6.04
+"2003-11-15",4,"Imereti",4.07
+"2003-11-15",5,"Kakheti",-0.97
+"2003-11-15",6,"Kvemo Kartli",-1.48
+"2003-11-15",7,"Mtskheta-Mtianeti",-6.74
+"2003-11-15",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.24
+"2003-11-15",9,"Samegrelo-Zemo Svaneti",-2.96
+"2003-11-15",10,"Samtskhe-Javakheti",-3.11
+"2003-11-15",11,"Shida Kartli",-1.08
+"2003-11-15",12,"Tbilisi",1.09
+"2003-11-16",1,"Abkhazia",-2.86
+"2003-11-16",2,"Ajaria",-4.47
+"2003-11-16",3,"Guria",-0.82
+"2003-11-16",4,"Imereti",-0.86
+"2003-11-16",5,"Kakheti",-1.14
+"2003-11-16",6,"Kvemo Kartli",-2.69
+"2003-11-16",7,"Mtskheta-Mtianeti",-9.17
+"2003-11-16",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.71
+"2003-11-16",9,"Samegrelo-Zemo Svaneti",-4.96
+"2003-11-16",10,"Samtskhe-Javakheti",-9.66
+"2003-11-16",11,"Shida Kartli",-5.34
+"2003-11-16",12,"Tbilisi",-0.49
+"2003-11-17",1,"Abkhazia",0.37
+"2003-11-17",2,"Ajaria",-2.88
+"2003-11-17",3,"Guria",0.79
+"2003-11-17",4,"Imereti",-1.58
+"2003-11-17",5,"Kakheti",-3.2
+"2003-11-17",6,"Kvemo Kartli",-5.14
+"2003-11-17",7,"Mtskheta-Mtianeti",-8.72
+"2003-11-17",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.73
+"2003-11-17",9,"Samegrelo-Zemo Svaneti",-3.75
+"2003-11-17",10,"Samtskhe-Javakheti",-7.43
+"2003-11-17",11,"Shida Kartli",-5.13
+"2003-11-17",12,"Tbilisi",-2.03
+"2003-11-18",1,"Abkhazia",3.24
+"2003-11-18",2,"Ajaria",-0.74
+"2003-11-18",3,"Guria",3.25
+"2003-11-18",4,"Imereti",2.46
+"2003-11-18",5,"Kakheti",-2.65
+"2003-11-18",6,"Kvemo Kartli",-3.36
+"2003-11-18",7,"Mtskheta-Mtianeti",-7.18
+"2003-11-18",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.85
+"2003-11-18",9,"Samegrelo-Zemo Svaneti",-0.1
+"2003-11-18",10,"Samtskhe-Javakheti",-6.91
+"2003-11-18",11,"Shida Kartli",-1.7
+"2003-11-18",12,"Tbilisi",-0.34
+"2003-11-19",1,"Abkhazia",2.68
+"2003-11-19",2,"Ajaria",2.93
+"2003-11-19",3,"Guria",6.4
+"2003-11-19",4,"Imereti",3.51
+"2003-11-19",5,"Kakheti",1.92
+"2003-11-19",6,"Kvemo Kartli",1.32
+"2003-11-19",7,"Mtskheta-Mtianeti",-2.61
+"2003-11-19",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.43
+"2003-11-19",9,"Samegrelo-Zemo Svaneti",0.69
+"2003-11-19",10,"Samtskhe-Javakheti",-1.91
+"2003-11-19",11,"Shida Kartli",-0.27
+"2003-11-19",12,"Tbilisi",3.14
+"2003-11-20",1,"Abkhazia",-0.37
+"2003-11-20",2,"Ajaria",-1.23
+"2003-11-20",3,"Guria",4.05
+"2003-11-20",4,"Imereti",0.66
+"2003-11-20",5,"Kakheti",0.34
+"2003-11-20",6,"Kvemo Kartli",-1.65
+"2003-11-20",7,"Mtskheta-Mtianeti",-7.51
+"2003-11-20",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.08
+"2003-11-20",9,"Samegrelo-Zemo Svaneti",-2.89
+"2003-11-20",10,"Samtskhe-Javakheti",-7.86
+"2003-11-20",11,"Shida Kartli",-3.53
+"2003-11-20",12,"Tbilisi",1
+"2003-11-21",1,"Abkhazia",2.35
+"2003-11-21",2,"Ajaria",3.68
+"2003-11-21",3,"Guria",8.33
+"2003-11-21",4,"Imereti",2.83
+"2003-11-21",5,"Kakheti",1.63
+"2003-11-21",6,"Kvemo Kartli",0.82
+"2003-11-21",7,"Mtskheta-Mtianeti",-3.21
+"2003-11-21",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.32
+"2003-11-21",9,"Samegrelo-Zemo Svaneti",0.25
+"2003-11-21",10,"Samtskhe-Javakheti",-1.73
+"2003-11-21",11,"Shida Kartli",-0.7
+"2003-11-21",12,"Tbilisi",1.98
+"2003-11-22",1,"Abkhazia",0.96
+"2003-11-22",2,"Ajaria",2.11
+"2003-11-22",3,"Guria",5.98
+"2003-11-22",4,"Imereti",3.02
+"2003-11-22",5,"Kakheti",2.04
+"2003-11-22",6,"Kvemo Kartli",0.47
+"2003-11-22",7,"Mtskheta-Mtianeti",-3.13
+"2003-11-22",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.96
+"2003-11-22",9,"Samegrelo-Zemo Svaneti",-0.71
+"2003-11-22",10,"Samtskhe-Javakheti",-4.33
+"2003-11-22",11,"Shida Kartli",0.16
+"2003-11-22",12,"Tbilisi",4.17
+"2003-11-23",1,"Abkhazia",-0.41
+"2003-11-23",2,"Ajaria",0.43
+"2003-11-23",3,"Guria",1.82
+"2003-11-23",4,"Imereti",-2.17
+"2003-11-23",5,"Kakheti",-2.33
+"2003-11-23",6,"Kvemo Kartli",-4.13
+"2003-11-23",7,"Mtskheta-Mtianeti",-8.66
+"2003-11-23",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.03
+"2003-11-23",9,"Samegrelo-Zemo Svaneti",-2.25
+"2003-11-23",10,"Samtskhe-Javakheti",-8.74
+"2003-11-23",11,"Shida Kartli",-6.74
+"2003-11-23",12,"Tbilisi",-1.09
+"2003-11-24",1,"Abkhazia",0.62
+"2003-11-24",2,"Ajaria",0.52
+"2003-11-24",3,"Guria",2
+"2003-11-24",4,"Imereti",-0.99
+"2003-11-24",5,"Kakheti",-1.78
+"2003-11-24",6,"Kvemo Kartli",-4.1
+"2003-11-24",7,"Mtskheta-Mtianeti",-6.91
+"2003-11-24",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.86
+"2003-11-24",9,"Samegrelo-Zemo Svaneti",-2.27
+"2003-11-24",10,"Samtskhe-Javakheti",-7.96
+"2003-11-24",11,"Shida Kartli",-5.62
+"2003-11-24",12,"Tbilisi",-2.12
+"2003-11-25",1,"Abkhazia",1.71
+"2003-11-25",2,"Ajaria",1.38
+"2003-11-25",3,"Guria",4.12
+"2003-11-25",4,"Imereti",1.8
+"2003-11-25",5,"Kakheti",0.69
+"2003-11-25",6,"Kvemo Kartli",-1.51
+"2003-11-25",7,"Mtskheta-Mtianeti",-4.25
+"2003-11-25",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.54
+"2003-11-25",9,"Samegrelo-Zemo Svaneti",-0.44
+"2003-11-25",10,"Samtskhe-Javakheti",-6.16
+"2003-11-25",11,"Shida Kartli",-2.81
+"2003-11-25",12,"Tbilisi",0.06
+"2003-11-26",1,"Abkhazia",3.7
+"2003-11-26",2,"Ajaria",1.97
+"2003-11-26",3,"Guria",5.41
+"2003-11-26",4,"Imereti",2.45
+"2003-11-26",5,"Kakheti",0.07
+"2003-11-26",6,"Kvemo Kartli",-0.32
+"2003-11-26",7,"Mtskheta-Mtianeti",-4.63
+"2003-11-26",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.6
+"2003-11-26",9,"Samegrelo-Zemo Svaneti",0.83
+"2003-11-26",10,"Samtskhe-Javakheti",-3.21
+"2003-11-26",11,"Shida Kartli",-1.46
+"2003-11-26",12,"Tbilisi",0.47
+"2003-11-27",1,"Abkhazia",5.67
+"2003-11-27",2,"Ajaria",4.12
+"2003-11-27",3,"Guria",6.49
+"2003-11-27",4,"Imereti",4.08
+"2003-11-27",5,"Kakheti",3.28
+"2003-11-27",6,"Kvemo Kartli",3.7
+"2003-11-27",7,"Mtskheta-Mtianeti",-0.45
+"2003-11-27",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.43
+"2003-11-27",9,"Samegrelo-Zemo Svaneti",2.68
+"2003-11-27",10,"Samtskhe-Javakheti",0.24
+"2003-11-27",11,"Shida Kartli",1.19
+"2003-11-27",12,"Tbilisi",3.76
+"2003-11-28",1,"Abkhazia",4.09
+"2003-11-28",2,"Ajaria",2.96
+"2003-11-28",3,"Guria",5.38
+"2003-11-28",4,"Imereti",3.23
+"2003-11-28",5,"Kakheti",1.99
+"2003-11-28",6,"Kvemo Kartli",1.6
+"2003-11-28",7,"Mtskheta-Mtianeti",-3.12
+"2003-11-28",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.53
+"2003-11-28",9,"Samegrelo-Zemo Svaneti",1.07
+"2003-11-28",10,"Samtskhe-Javakheti",-2.14
+"2003-11-28",11,"Shida Kartli",-0.87
+"2003-11-28",12,"Tbilisi",1.77
+"2003-11-29",1,"Abkhazia",1.89
+"2003-11-29",2,"Ajaria",2.58
+"2003-11-29",3,"Guria",4.42
+"2003-11-29",4,"Imereti",4.54
+"2003-11-29",5,"Kakheti",2.07
+"2003-11-29",6,"Kvemo Kartli",1.65
+"2003-11-29",7,"Mtskheta-Mtianeti",-2.57
+"2003-11-29",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.11
+"2003-11-29",9,"Samegrelo-Zemo Svaneti",-0.36
+"2003-11-29",10,"Samtskhe-Javakheti",-3.06
+"2003-11-29",11,"Shida Kartli",-0.22
+"2003-11-29",12,"Tbilisi",1.07
+"2003-11-30",1,"Abkhazia",1.27
+"2003-11-30",2,"Ajaria",1.54
+"2003-11-30",3,"Guria",4.7
+"2003-11-30",4,"Imereti",3.17
+"2003-11-30",5,"Kakheti",1.15
+"2003-11-30",6,"Kvemo Kartli",1.42
+"2003-11-30",7,"Mtskheta-Mtianeti",-5.13
+"2003-11-30",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.73
+"2003-11-30",9,"Samegrelo-Zemo Svaneti",-0.87
+"2003-11-30",10,"Samtskhe-Javakheti",-5.01
+"2003-11-30",11,"Shida Kartli",-1.41
+"2003-11-30",12,"Tbilisi",1.29
+"2003-12-01",1,"Abkhazia",-0.02
+"2003-12-01",2,"Ajaria",2.15
+"2003-12-01",3,"Guria",5.58
+"2003-12-01",4,"Imereti",2.99
+"2003-12-01",5,"Kakheti",2.58
+"2003-12-01",6,"Kvemo Kartli",1.41
+"2003-12-01",7,"Mtskheta-Mtianeti",-2.7
+"2003-12-01",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.8
+"2003-12-01",9,"Samegrelo-Zemo Svaneti",-1.01
+"2003-12-01",10,"Samtskhe-Javakheti",-4.67
+"2003-12-01",11,"Shida Kartli",-0.5
+"2003-12-01",12,"Tbilisi",3.14
+"2003-12-02",1,"Abkhazia",-0.2
+"2003-12-02",2,"Ajaria",1.11
+"2003-12-02",3,"Guria",4.28
+"2003-12-02",4,"Imereti",2.67
+"2003-12-02",5,"Kakheti",0.96
+"2003-12-02",6,"Kvemo Kartli",1.81
+"2003-12-02",7,"Mtskheta-Mtianeti",-5.26
+"2003-12-02",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.34
+"2003-12-02",9,"Samegrelo-Zemo Svaneti",-3.24
+"2003-12-02",10,"Samtskhe-Javakheti",-4.49
+"2003-12-02",11,"Shida Kartli",-1.76
+"2003-12-02",12,"Tbilisi",2.71
+"2003-12-03",1,"Abkhazia",-1.07
+"2003-12-03",2,"Ajaria",0.02
+"2003-12-03",3,"Guria",3.04
+"2003-12-03",4,"Imereti",0.69
+"2003-12-03",5,"Kakheti",0.55
+"2003-12-03",6,"Kvemo Kartli",1.11
+"2003-12-03",7,"Mtskheta-Mtianeti",-5.7
+"2003-12-03",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.65
+"2003-12-03",9,"Samegrelo-Zemo Svaneti",-3.7
+"2003-12-03",10,"Samtskhe-Javakheti",-6.23
+"2003-12-03",11,"Shida Kartli",-1.88
+"2003-12-03",12,"Tbilisi",2.33
+"2003-12-04",1,"Abkhazia",-1.33
+"2003-12-04",2,"Ajaria",0.13
+"2003-12-04",3,"Guria",2.38
+"2003-12-04",4,"Imereti",0.61
+"2003-12-04",5,"Kakheti",1.22
+"2003-12-04",6,"Kvemo Kartli",1.3
+"2003-12-04",7,"Mtskheta-Mtianeti",-3.47
+"2003-12-04",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.43
+"2003-12-04",9,"Samegrelo-Zemo Svaneti",-4.04
+"2003-12-04",10,"Samtskhe-Javakheti",-5.95
+"2003-12-04",11,"Shida Kartli",-0.9
+"2003-12-04",12,"Tbilisi",3.09
+"2003-12-05",1,"Abkhazia",-0.64
+"2003-12-05",2,"Ajaria",1.77
+"2003-12-05",3,"Guria",4.3
+"2003-12-05",4,"Imereti",3.25
+"2003-12-05",5,"Kakheti",1.47
+"2003-12-05",6,"Kvemo Kartli",1.03
+"2003-12-05",7,"Mtskheta-Mtianeti",-5.04
+"2003-12-05",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.58
+"2003-12-05",9,"Samegrelo-Zemo Svaneti",-3.99
+"2003-12-05",10,"Samtskhe-Javakheti",-1.64
+"2003-12-05",11,"Shida Kartli",-2.23
+"2003-12-05",12,"Tbilisi",2.38
+"2003-12-06",1,"Abkhazia",2.04
+"2003-12-06",2,"Ajaria",1.15
+"2003-12-06",3,"Guria",3.45
+"2003-12-06",4,"Imereti",3
+"2003-12-06",5,"Kakheti",0.59
+"2003-12-06",6,"Kvemo Kartli",0.21
+"2003-12-06",7,"Mtskheta-Mtianeti",-3.75
+"2003-12-06",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.43
+"2003-12-06",9,"Samegrelo-Zemo Svaneti",-2.08
+"2003-12-06",10,"Samtskhe-Javakheti",-2.77
+"2003-12-06",11,"Shida Kartli",0.45
+"2003-12-06",12,"Tbilisi",1.91
+"2003-12-07",1,"Abkhazia",2.22
+"2003-12-07",2,"Ajaria",-0.29
+"2003-12-07",3,"Guria",2.45
+"2003-12-07",4,"Imereti",0.65
+"2003-12-07",5,"Kakheti",0.21
+"2003-12-07",6,"Kvemo Kartli",-1.09
+"2003-12-07",7,"Mtskheta-Mtianeti",-4.85
+"2003-12-07",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.47
+"2003-12-07",9,"Samegrelo-Zemo Svaneti",-0.99
+"2003-12-07",10,"Samtskhe-Javakheti",-6.04
+"2003-12-07",11,"Shida Kartli",-1.73
+"2003-12-07",12,"Tbilisi",0.81
+"2003-12-08",1,"Abkhazia",3.93
+"2003-12-08",2,"Ajaria",0.04
+"2003-12-08",3,"Guria",2.21
+"2003-12-08",4,"Imereti",1.1
+"2003-12-08",5,"Kakheti",0.84
+"2003-12-08",6,"Kvemo Kartli",0.24
+"2003-12-08",7,"Mtskheta-Mtianeti",-3.7
+"2003-12-08",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.02
+"2003-12-08",9,"Samegrelo-Zemo Svaneti",0.55
+"2003-12-08",10,"Samtskhe-Javakheti",-4.1
+"2003-12-08",11,"Shida Kartli",-1.7
+"2003-12-08",12,"Tbilisi",0.92
+"2003-12-09",1,"Abkhazia",1.12
+"2003-12-09",2,"Ajaria",2.22
+"2003-12-09",3,"Guria",5.45
+"2003-12-09",4,"Imereti",2.66
+"2003-12-09",5,"Kakheti",4.1
+"2003-12-09",6,"Kvemo Kartli",3.48
+"2003-12-09",7,"Mtskheta-Mtianeti",-0.49
+"2003-12-09",8,"Racha-Lechkhumi-Kvemo Svaneti",-2.26
+"2003-12-09",9,"Samegrelo-Zemo Svaneti",0.13
+"2003-12-09",10,"Samtskhe-Javakheti",0.37
+"2003-12-09",11,"Shida Kartli",0.95
+"2003-12-09",12,"Tbilisi",4.2
+"2003-12-10",1,"Abkhazia",-1.31
+"2003-12-10",2,"Ajaria",0.78
+"2003-12-10",3,"Guria",4.47
+"2003-12-10",4,"Imereti",1.81
+"2003-12-10",5,"Kakheti",-0.64
+"2003-12-10",6,"Kvemo Kartli",-0.5
+"2003-12-10",7,"Mtskheta-Mtianeti",-6.07
+"2003-12-10",8,"Racha-Lechkhumi-Kvemo Svaneti",-4.82
+"2003-12-10",9,"Samegrelo-Zemo Svaneti",-2.03
+"2003-12-10",10,"Samtskhe-Javakheti",-4.29
+"2003-12-10",11,"Shida Kartli",-1.58
+"2003-12-10",12,"Tbilisi",2.21
+"2003-12-11",1,"Abkhazia",-8.61
+"2003-12-11",2,"Ajaria",-4.43
+"2003-12-11",3,"Guria",-1.27
+"2003-12-11",4,"Imereti",-2.44
+"2003-12-11",5,"Kakheti",-6.05
+"2003-12-11",6,"Kvemo Kartli",-6.46
+"2003-12-11",7,"Mtskheta-Mtianeti",-13.68
+"2003-12-11",8,"Racha-Lechkhumi-Kvemo Svaneti",-11.07
+"2003-12-11",9,"Samegrelo-Zemo Svaneti",-10.4
+"2003-12-11",10,"Samtskhe-Javakheti",-12.47
+"2003-12-11",11,"Shida Kartli",-10.07
+"2003-12-11",12,"Tbilisi",-3.45
+"2003-12-12",1,"Abkhazia",-3.23
+"2003-12-12",2,"Ajaria",-5.95
+"2003-12-12",3,"Guria",-3.26
+"2003-12-12",4,"Imereti",-5.77
+"2003-12-12",5,"Kakheti",-5.94
+"2003-12-12",6,"Kvemo Kartli",-6.33
+"2003-12-12",7,"Mtskheta-Mtianeti",-13.72
+"2003-12-12",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.24
+"2003-12-12",9,"Samegrelo-Zemo Svaneti",-5.32
+"2003-12-12",10,"Samtskhe-Javakheti",-12.25
+"2003-12-12",11,"Shida Kartli",-8.89
+"2003-12-12",12,"Tbilisi",-6.62
+"2003-12-13",1,"Abkhazia",-3.8
+"2003-12-13",2,"Ajaria",-6.28
+"2003-12-13",3,"Guria",-4.8
+"2003-12-13",4,"Imereti",-7.9
+"2003-12-13",5,"Kakheti",-7.5
+"2003-12-13",6,"Kvemo Kartli",-8.96
+"2003-12-13",7,"Mtskheta-Mtianeti",-12.85
+"2003-12-13",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.6
+"2003-12-13",9,"Samegrelo-Zemo Svaneti",-6.83
+"2003-12-13",10,"Samtskhe-Javakheti",-13.38
+"2003-12-13",11,"Shida Kartli",-11.55
+"2003-12-13",12,"Tbilisi",-8.41
+"2003-12-14",1,"Abkhazia",1.27
+"2003-12-14",2,"Ajaria",-1.06
+"2003-12-14",3,"Guria",-0.12
+"2003-12-14",4,"Imereti",-4.2
+"2003-12-14",5,"Kakheti",-4.94
+"2003-12-14",6,"Kvemo Kartli",-5.44
+"2003-12-14",7,"Mtskheta-Mtianeti",-8.77
+"2003-12-14",8,"Racha-Lechkhumi-Kvemo Svaneti",-5.11
+"2003-12-14",9,"Samegrelo-Zemo Svaneti",-2.13
+"2003-12-14",10,"Samtskhe-Javakheti",-8.88
+"2003-12-14",11,"Shida Kartli",-7.2
+"2003-12-14",12,"Tbilisi",-4
+"2003-12-15",1,"Abkhazia",0.75
+"2003-12-15",2,"Ajaria",-1.19
+"2003-12-15",3,"Guria",1.78
+"2003-12-15",4,"Imereti",1.12
+"2003-12-15",5,"Kakheti",-1
+"2003-12-15",6,"Kvemo Kartli",-3.4
+"2003-12-15",7,"Mtskheta-Mtianeti",-3.92
+"2003-12-15",8,"Racha-Lechkhumi-Kvemo Svaneti",-1.73
+"2003-12-15",9,"Samegrelo-Zemo Svaneti",0.3
+"2003-12-15",10,"Samtskhe-Javakheti",-7.3
+"2003-12-15",11,"Shida Kartli",-3.57
+"2003-12-15",12,"Tbilisi",-2.03
+"2003-12-16",1,"Abkhazia",2.73
+"2003-12-16",2,"Ajaria",0.91
+"2003-12-16",3,"Guria",3.06
+"2003-12-16",4,"Imereti",0.6
+"2003-12-16",5,"Kakheti",0.21
+"2003-12-16",6,"Kvemo Kartli",-0.5
+"2003-12-16",7,"Mtskheta-Mtianeti",-4.87
+"2003-12-16",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.68
+"2003-12-16",9,"Samegrelo-Zemo Svaneti",-1.08
+"2003-12-16",10,"Samtskhe-Javakheti",-3.03
+"2003-12-16",11,"Shida Kartli",-4.01
+"2003-12-16",12,"Tbilisi",-0.72
+"2003-12-17",1,"Abkhazia",4.84
+"2003-12-17",2,"Ajaria",3.92
+"2003-12-17",3,"Guria",7.43
+"2003-12-17",4,"Imereti",4.15
+"2003-12-17",5,"Kakheti",1.3
+"2003-12-17",6,"Kvemo Kartli",0.68
+"2003-12-17",7,"Mtskheta-Mtianeti",-3.82
+"2003-12-17",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.56
+"2003-12-17",9,"Samegrelo-Zemo Svaneti",2.87
+"2003-12-17",10,"Samtskhe-Javakheti",0.26
+"2003-12-17",11,"Shida Kartli",-1.76
+"2003-12-17",12,"Tbilisi",0.08
+"2003-12-18",1,"Abkhazia",6.86
+"2003-12-18",2,"Ajaria",4.79
+"2003-12-18",3,"Guria",7.59
+"2003-12-18",4,"Imereti",5.03
+"2003-12-18",5,"Kakheti",2.34
+"2003-12-18",6,"Kvemo Kartli",0.65
+"2003-12-18",7,"Mtskheta-Mtianeti",-1.7
+"2003-12-18",8,"Racha-Lechkhumi-Kvemo Svaneti",-0.66
+"2003-12-18",9,"Samegrelo-Zemo Svaneti",3.95
+"2003-12-18",10,"Samtskhe-Javakheti",0.7
+"2003-12-18",11,"Shida Kartli",-0.46
+"2003-12-18",12,"Tbilisi",0.63
+"2003-12-19",1,"Abkhazia",0.45
+"2003-12-19",2,"Ajaria",-0.97
+"2003-12-19",3,"Guria",2.99
+"2003-12-19",4,"Imereti",1.38
+"2003-12-19",5,"Kakheti",3.74
+"2003-12-19",6,"Kvemo Kartli",1.38
+"2003-12-19",7,"Mtskheta-Mtianeti",-2.88
+"2003-12-19",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.14
+"2003-12-19",9,"Samegrelo-Zemo Svaneti",-1.13
+"2003-12-19",10,"Samtskhe-Javakheti",-3.96
+"2003-12-19",11,"Shida Kartli",-1.61
+"2003-12-19",12,"Tbilisi",2.14
+"2003-12-20",1,"Abkhazia",-2.18
+"2003-12-20",2,"Ajaria",-1.94
+"2003-12-20",3,"Guria",1.86
+"2003-12-20",4,"Imereti",-0.71
+"2003-12-20",5,"Kakheti",-1.57
+"2003-12-20",6,"Kvemo Kartli",-4.57
+"2003-12-20",7,"Mtskheta-Mtianeti",-6.92
+"2003-12-20",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.39
+"2003-12-20",9,"Samegrelo-Zemo Svaneti",-3.97
+"2003-12-20",10,"Samtskhe-Javakheti",-8.33
+"2003-12-20",11,"Shida Kartli",-4.81
+"2003-12-20",12,"Tbilisi",-0.93
+"2003-12-21",1,"Abkhazia",-1.88
+"2003-12-21",2,"Ajaria",-3.1
+"2003-12-21",3,"Guria",1.12
+"2003-12-21",4,"Imereti",-0.87
+"2003-12-21",5,"Kakheti",-5.57
+"2003-12-21",6,"Kvemo Kartli",-6.86
+"2003-12-21",7,"Mtskheta-Mtianeti",-11.47
+"2003-12-21",8,"Racha-Lechkhumi-Kvemo Svaneti",-6.83
+"2003-12-21",9,"Samegrelo-Zemo Svaneti",-4.21
+"2003-12-21",10,"Samtskhe-Javakheti",-10.5
+"2003-12-21",11,"Shida Kartli",-6.11
+"2003-12-21",12,"Tbilisi",-5.2
+"2003-12-22",1,"Abkhazia",-3.24
+"2003-12-22",2,"Ajaria",-4.79
+"2003-12-22",3,"Guria",-2.23
+"2003-12-22",4,"Imereti",-6.01
+"2003-12-22",5,"Kakheti",-7.35
+"2003-12-22",6,"Kvemo Kartli",-10.39
+"2003-12-22",7,"Mtskheta-Mtianeti",-16.61
+"2003-12-22",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.44
+"2003-12-22",9,"Samegrelo-Zemo Svaneti",-6.23
+"2003-12-22",10,"Samtskhe-Javakheti",-12.65
+"2003-12-22",11,"Shida Kartli",-13.16
+"2003-12-22",12,"Tbilisi",-12.44
+"2003-12-23",1,"Abkhazia",-3.72
+"2003-12-23",2,"Ajaria",-6.18
+"2003-12-23",3,"Guria",-2.95
+"2003-12-23",4,"Imereti",-6.82
+"2003-12-23",5,"Kakheti",-8.4
+"2003-12-23",6,"Kvemo Kartli",-11.77
+"2003-12-23",7,"Mtskheta-Mtianeti",-15.66
+"2003-12-23",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.65
+"2003-12-23",9,"Samegrelo-Zemo Svaneti",-7.06
+"2003-12-23",10,"Samtskhe-Javakheti",-13.49
+"2003-12-23",11,"Shida Kartli",-11.94
+"2003-12-23",12,"Tbilisi",-14
+"2003-12-24",1,"Abkhazia",-4.14
+"2003-12-24",2,"Ajaria",-3.32
+"2003-12-24",3,"Guria",-1.85
+"2003-12-24",4,"Imereti",-6.23
+"2003-12-24",5,"Kakheti",-4.97
+"2003-12-24",6,"Kvemo Kartli",-6.53
+"2003-12-24",7,"Mtskheta-Mtianeti",-11.73
+"2003-12-24",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.16
+"2003-12-24",9,"Samegrelo-Zemo Svaneti",-6.79
+"2003-12-24",10,"Samtskhe-Javakheti",-9.08
+"2003-12-24",11,"Shida Kartli",-9.55
+"2003-12-24",12,"Tbilisi",-9.51
+"2003-12-25",1,"Abkhazia",-3.17
+"2003-12-25",2,"Ajaria",-3.91
+"2003-12-25",3,"Guria",-2.67
+"2003-12-25",4,"Imereti",-7.31
+"2003-12-25",5,"Kakheti",-8.06
+"2003-12-25",6,"Kvemo Kartli",-9.63
+"2003-12-25",7,"Mtskheta-Mtianeti",-14.54
+"2003-12-25",8,"Racha-Lechkhumi-Kvemo Svaneti",-10.21
+"2003-12-25",9,"Samegrelo-Zemo Svaneti",-6.88
+"2003-12-25",10,"Samtskhe-Javakheti",-11.94
+"2003-12-25",11,"Shida Kartli",-12.07
+"2003-12-25",12,"Tbilisi",-13.65
+"2003-12-26",1,"Abkhazia",-0.91
+"2003-12-26",2,"Ajaria",-2.48
+"2003-12-26",3,"Guria",1.22
+"2003-12-26",4,"Imereti",-2.32
+"2003-12-26",5,"Kakheti",-7.3
+"2003-12-26",6,"Kvemo Kartli",-8.05
+"2003-12-26",7,"Mtskheta-Mtianeti",-11.48
+"2003-12-26",8,"Racha-Lechkhumi-Kvemo Svaneti",-7.48
+"2003-12-26",9,"Samegrelo-Zemo Svaneti",-2.9
+"2003-12-26",10,"Samtskhe-Javakheti",-8.51
+"2003-12-26",11,"Shida Kartli",-7.35
+"2003-12-26",12,"Tbilisi",-11.05
+"2003-12-27",1,"Abkhazia",0.16
+"2003-12-27",2,"Ajaria",-0.07
+"2003-12-27",3,"Guria",3.44
+"2003-12-27",4,"Imereti",1.22
+"2003-12-27",5,"Kakheti",-2.73
+"2003-12-27",6,"Kvemo Kartli",-4.05
+"2003-12-27",7,"Mtskheta-Mtianeti",-4.61
+"2003-12-27",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.15
+"2003-12-27",9,"Samegrelo-Zemo Svaneti",-1.36
+"2003-12-27",10,"Samtskhe-Javakheti",-4.5
+"2003-12-27",11,"Shida Kartli",-2.54
+"2003-12-27",12,"Tbilisi",-4.16
+"2003-12-28",1,"Abkhazia",0.94
+"2003-12-28",2,"Ajaria",0.76
+"2003-12-28",3,"Guria",4.82
+"2003-12-28",4,"Imereti",2.24
+"2003-12-28",5,"Kakheti",-0.45
+"2003-12-28",6,"Kvemo Kartli",0.03
+"2003-12-28",7,"Mtskheta-Mtianeti",-3.8
+"2003-12-28",8,"Racha-Lechkhumi-Kvemo Svaneti",-3.55
+"2003-12-28",9,"Samegrelo-Zemo Svaneti",-1.67
+"2003-12-28",10,"Samtskhe-Javakheti",-3.66
+"2003-12-28",11,"Shida Kartli",-0.82
+"2003-12-28",12,"Tbilisi",2.53
+"2003-12-29",1,"Abkhazia",-2.24
+"2003-12-29",2,"Ajaria",-2.21
+"2003-12-29",3,"Guria",0.15
+"2003-12-29",4,"Imereti",-0.88
+"2003-12-29",5,"Kakheti",-2.42
+"2003-12-29",6,"Kvemo Kartli",-5.69
+"2003-12-29",7,"Mtskheta-Mtianeti",-9.51
+"2003-12-29",8,"Racha-Lechkhumi-Kvemo Svaneti",-6
+"2003-12-29",9,"Samegrelo-Zemo Svaneti",-6.59
+"2003-12-29",10,"Samtskhe-Javakheti",-9.73
+"2003-12-29",11,"Shida Kartli",-6.9
+"2003-12-29",12,"Tbilisi",-7.2
+"2003-12-30",1,"Abkhazia",-3.02
+"2003-12-30",2,"Ajaria",-3.5
+"2003-12-30",3,"Guria",-1.66
+"2003-12-30",4,"Imereti",-4.32
+"2003-12-30",5,"Kakheti",-4.82
+"2003-12-30",6,"Kvemo Kartli",-7.35
+"2003-12-30",7,"Mtskheta-Mtianeti",-14.89
+"2003-12-30",8,"Racha-Lechkhumi-Kvemo Svaneti",-8.03
+"2003-12-30",9,"Samegrelo-Zemo Svaneti",-6.26
+"2003-12-30",10,"Samtskhe-Javakheti",-11.42
+"2003-12-30",11,"Shida Kartli",-10.54
+"2003-12-30",12,"Tbilisi",-7.83
+"2003-12-31",1,"Abkhazia",-4.27
+"2003-12-31",2,"Ajaria",-6.03
+"2003-12-31",3,"Guria",-2.99
+"2003-12-31",4,"Imereti",-5.74
+"2003-12-31",5,"Kakheti",-6.65
+"2003-12-31",6,"Kvemo Kartli",-10.06
+"2003-12-31",7,"Mtskheta-Mtianeti",-13.98
+"2003-12-31",8,"Racha-Lechkhumi-Kvemo Svaneti",-9.38
+"2003-12-31",9,"Samegrelo-Zemo Svaneti",-6.84
+"2003-12-31",10,"Samtskhe-Javakheti",-13.03
+"2003-12-31",11,"Shida Kartli",-11.06
+"2003-12-31",12,"Tbilisi",-9.87

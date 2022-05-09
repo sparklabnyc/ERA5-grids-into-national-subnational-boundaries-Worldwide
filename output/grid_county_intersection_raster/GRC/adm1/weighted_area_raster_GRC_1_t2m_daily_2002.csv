@@ -1,0 +1,2921 @@
+"date","ID_1","NAME_1","t2m"
+"2002-01-01",1,"Aegean",15.98
+"2002-01-01",2,"Athos",13.16
+"2002-01-01",3,"Attica",12.14
+"2002-01-01",4,"Crete",13.43
+"2002-01-01",5,"Epirus and Western Macedonia",3.83
+"2002-01-01",6,"Macedonia and Thrace",3.14
+"2002-01-01",7,"Peloponnese, Western Greece and the Ionian Islands",11.71
+"2002-01-01",8,"Thessaly and Central Greece",7.57
+"2002-01-02",1,"Aegean",7.66
+"2002-01-02",2,"Athos",3.35
+"2002-01-02",3,"Attica",3.27
+"2002-01-02",4,"Crete",8.81
+"2002-01-02",5,"Epirus and Western Macedonia",-8.8
+"2002-01-02",6,"Macedonia and Thrace",-4.01
+"2002-01-02",7,"Peloponnese, Western Greece and the Ionian Islands",2.29
+"2002-01-02",8,"Thessaly and Central Greece",-2.04
+"2002-01-03",1,"Aegean",7.48
+"2002-01-03",2,"Athos",5.5
+"2002-01-03",3,"Attica",2.5
+"2002-01-03",4,"Crete",4.94
+"2002-01-03",5,"Epirus and Western Macedonia",-7.23
+"2002-01-03",6,"Macedonia and Thrace",-3.99
+"2002-01-03",7,"Peloponnese, Western Greece and the Ionian Islands",2.01
+"2002-01-03",8,"Thessaly and Central Greece",-2.84
+"2002-01-04",1,"Aegean",7.78
+"2002-01-04",2,"Athos",3.2
+"2002-01-04",3,"Attica",3.18
+"2002-01-04",4,"Crete",9.21
+"2002-01-04",5,"Epirus and Western Macedonia",-7.64
+"2002-01-04",6,"Macedonia and Thrace",-4.58
+"2002-01-04",7,"Peloponnese, Western Greece and the Ionian Islands",2.1
+"2002-01-04",8,"Thessaly and Central Greece",-1.33
+"2002-01-05",1,"Aegean",4.68
+"2002-01-05",2,"Athos",1.79
+"2002-01-05",3,"Attica",1.23
+"2002-01-05",4,"Crete",4.29
+"2002-01-05",5,"Epirus and Western Macedonia",-11.72
+"2002-01-05",6,"Macedonia and Thrace",-6.03
+"2002-01-05",7,"Peloponnese, Western Greece and the Ionian Islands",-2.69
+"2002-01-05",8,"Thessaly and Central Greece",-5.8
+"2002-01-06",1,"Aegean",4.06
+"2002-01-06",2,"Athos",1.65
+"2002-01-06",3,"Attica",-0.04
+"2002-01-06",4,"Crete",3.24
+"2002-01-06",5,"Epirus and Western Macedonia",-11.3
+"2002-01-06",6,"Macedonia and Thrace",-4.87
+"2002-01-06",7,"Peloponnese, Western Greece and the Ionian Islands",-4.63
+"2002-01-06",8,"Thessaly and Central Greece",-6.95
+"2002-01-07",1,"Aegean",5.42
+"2002-01-07",2,"Athos",3.21
+"2002-01-07",3,"Attica",0.06
+"2002-01-07",4,"Crete",4.38
+"2002-01-07",5,"Epirus and Western Macedonia",-8.58
+"2002-01-07",6,"Macedonia and Thrace",-3.37
+"2002-01-07",7,"Peloponnese, Western Greece and the Ionian Islands",-0.73
+"2002-01-07",8,"Thessaly and Central Greece",-4.75
+"2002-01-08",1,"Aegean",8.6
+"2002-01-08",2,"Athos",6.1
+"2002-01-08",3,"Attica",1.1
+"2002-01-08",4,"Crete",6.29
+"2002-01-08",5,"Epirus and Western Macedonia",-6.4
+"2002-01-08",6,"Macedonia and Thrace",-1.51
+"2002-01-08",7,"Peloponnese, Western Greece and the Ionian Islands",1.29
+"2002-01-08",8,"Thessaly and Central Greece",-2.27
+"2002-01-09",1,"Aegean",8.02
+"2002-01-09",2,"Athos",6.37
+"2002-01-09",3,"Attica",4.74
+"2002-01-09",4,"Crete",7.64
+"2002-01-09",5,"Epirus and Western Macedonia",-4.14
+"2002-01-09",6,"Macedonia and Thrace",0.81
+"2002-01-09",7,"Peloponnese, Western Greece and the Ionian Islands",2.4
+"2002-01-09",8,"Thessaly and Central Greece",0.73
+"2002-01-10",1,"Aegean",5.52
+"2002-01-10",2,"Athos",5.98
+"2002-01-10",3,"Attica",5.2
+"2002-01-10",4,"Crete",6.36
+"2002-01-10",5,"Epirus and Western Macedonia",-5.26
+"2002-01-10",6,"Macedonia and Thrace",-0.42
+"2002-01-10",7,"Peloponnese, Western Greece and the Ionian Islands",1.99
+"2002-01-10",8,"Thessaly and Central Greece",-0.59
+"2002-01-11",1,"Aegean",8.67
+"2002-01-11",2,"Athos",6.95
+"2002-01-11",3,"Attica",6.58
+"2002-01-11",4,"Crete",8.69
+"2002-01-11",5,"Epirus and Western Macedonia",-5.31
+"2002-01-11",6,"Macedonia and Thrace",-2.5
+"2002-01-11",7,"Peloponnese, Western Greece and the Ionian Islands",2.26
+"2002-01-11",8,"Thessaly and Central Greece",-0.57
+"2002-01-12",1,"Aegean",9.64
+"2002-01-12",2,"Athos",7.44
+"2002-01-12",3,"Attica",6.11
+"2002-01-12",4,"Crete",9.66
+"2002-01-12",5,"Epirus and Western Macedonia",-5.48
+"2002-01-12",6,"Macedonia and Thrace",-4.14
+"2002-01-12",7,"Peloponnese, Western Greece and the Ionian Islands",2.25
+"2002-01-12",8,"Thessaly and Central Greece",-0.56
+"2002-01-13",1,"Aegean",10.55
+"2002-01-13",2,"Athos",8.37
+"2002-01-13",3,"Attica",5.68
+"2002-01-13",4,"Crete",9.68
+"2002-01-13",5,"Epirus and Western Macedonia",-3.33
+"2002-01-13",6,"Macedonia and Thrace",-2.05
+"2002-01-13",7,"Peloponnese, Western Greece and the Ionian Islands",2.53
+"2002-01-13",8,"Thessaly and Central Greece",0.52
+"2002-01-14",1,"Aegean",11.02
+"2002-01-14",2,"Athos",5.9
+"2002-01-14",3,"Attica",6.64
+"2002-01-14",4,"Crete",9.68
+"2002-01-14",5,"Epirus and Western Macedonia",-2.81
+"2002-01-14",6,"Macedonia and Thrace",-0.8
+"2002-01-14",7,"Peloponnese, Western Greece and the Ionian Islands",4.05
+"2002-01-14",8,"Thessaly and Central Greece",2.18
+"2002-01-15",1,"Aegean",10.6
+"2002-01-15",2,"Athos",6.12
+"2002-01-15",3,"Attica",6.33
+"2002-01-15",4,"Crete",9.72
+"2002-01-15",5,"Epirus and Western Macedonia",0.21
+"2002-01-15",6,"Macedonia and Thrace",0.7
+"2002-01-15",7,"Peloponnese, Western Greece and the Ionian Islands",5.64
+"2002-01-15",8,"Thessaly and Central Greece",3.3
+"2002-01-16",1,"Aegean",10.02
+"2002-01-16",2,"Athos",6.66
+"2002-01-16",3,"Attica",6.41
+"2002-01-16",4,"Crete",9.78
+"2002-01-16",5,"Epirus and Western Macedonia",1.44
+"2002-01-16",6,"Macedonia and Thrace",1.62
+"2002-01-16",7,"Peloponnese, Western Greece and the Ionian Islands",5.8
+"2002-01-16",8,"Thessaly and Central Greece",3.74
+"2002-01-17",1,"Aegean",12.13
+"2002-01-17",2,"Athos",8.74
+"2002-01-17",3,"Attica",8.3
+"2002-01-17",4,"Crete",9.99
+"2002-01-17",5,"Epirus and Western Macedonia",0.99
+"2002-01-17",6,"Macedonia and Thrace",2.42
+"2002-01-17",7,"Peloponnese, Western Greece and the Ionian Islands",6.97
+"2002-01-17",8,"Thessaly and Central Greece",4.79
+"2002-01-18",1,"Aegean",13.45
+"2002-01-18",2,"Athos",10.9
+"2002-01-18",3,"Attica",10.4
+"2002-01-18",4,"Crete",10.95
+"2002-01-18",5,"Epirus and Western Macedonia",1.77
+"2002-01-18",6,"Macedonia and Thrace",4.1
+"2002-01-18",7,"Peloponnese, Western Greece and the Ionian Islands",7.76
+"2002-01-18",8,"Thessaly and Central Greece",5.68
+"2002-01-19",1,"Aegean",12.93
+"2002-01-19",2,"Athos",10.62
+"2002-01-19",3,"Attica",7.52
+"2002-01-19",4,"Crete",10.47
+"2002-01-19",5,"Epirus and Western Macedonia",1.62
+"2002-01-19",6,"Macedonia and Thrace",4.86
+"2002-01-19",7,"Peloponnese, Western Greece and the Ionian Islands",6.41
+"2002-01-19",8,"Thessaly and Central Greece",4.12
+"2002-01-20",1,"Aegean",10.79
+"2002-01-20",2,"Athos",8.86
+"2002-01-20",3,"Attica",7.84
+"2002-01-20",4,"Crete",9.27
+"2002-01-20",5,"Epirus and Western Macedonia",-0.54
+"2002-01-20",6,"Macedonia and Thrace",3.16
+"2002-01-20",7,"Peloponnese, Western Greece and the Ionian Islands",4.79
+"2002-01-20",8,"Thessaly and Central Greece",3.38
+"2002-01-21",1,"Aegean",11.55
+"2002-01-21",2,"Athos",8.74
+"2002-01-21",3,"Attica",6.41
+"2002-01-21",4,"Crete",9.05
+"2002-01-21",5,"Epirus and Western Macedonia",-2.49
+"2002-01-21",6,"Macedonia and Thrace",1.59
+"2002-01-21",7,"Peloponnese, Western Greece and the Ionian Islands",4.46
+"2002-01-21",8,"Thessaly and Central Greece",1.54
+"2002-01-22",1,"Aegean",12.56
+"2002-01-22",2,"Athos",10.33
+"2002-01-22",3,"Attica",7.53
+"2002-01-22",4,"Crete",10.1
+"2002-01-22",5,"Epirus and Western Macedonia",-1.52
+"2002-01-22",6,"Macedonia and Thrace",2.93
+"2002-01-22",7,"Peloponnese, Western Greece and the Ionian Islands",6.4
+"2002-01-22",8,"Thessaly and Central Greece",2.63
+"2002-01-23",1,"Aegean",12.96
+"2002-01-23",2,"Athos",11.49
+"2002-01-23",3,"Attica",9.2
+"2002-01-23",4,"Crete",10.16
+"2002-01-23",5,"Epirus and Western Macedonia",-0.85
+"2002-01-23",6,"Macedonia and Thrace",3.06
+"2002-01-23",7,"Peloponnese, Western Greece and the Ionian Islands",5.39
+"2002-01-23",8,"Thessaly and Central Greece",3.41
+"2002-01-24",1,"Aegean",13.53
+"2002-01-24",2,"Athos",11.68
+"2002-01-24",3,"Attica",7.8
+"2002-01-24",4,"Crete",10.39
+"2002-01-24",5,"Epirus and Western Macedonia",-1.42
+"2002-01-24",6,"Macedonia and Thrace",2.78
+"2002-01-24",7,"Peloponnese, Western Greece and the Ionian Islands",6.01
+"2002-01-24",8,"Thessaly and Central Greece",3.72
+"2002-01-25",1,"Aegean",13.38
+"2002-01-25",2,"Athos",12.15
+"2002-01-25",3,"Attica",9.74
+"2002-01-25",4,"Crete",9.9
+"2002-01-25",5,"Epirus and Western Macedonia",2.59
+"2002-01-25",6,"Macedonia and Thrace",5.93
+"2002-01-25",7,"Peloponnese, Western Greece and the Ionian Islands",6.75
+"2002-01-25",8,"Thessaly and Central Greece",4.48
+"2002-01-26",1,"Aegean",14.34
+"2002-01-26",2,"Athos",11.65
+"2002-01-26",3,"Attica",11.02
+"2002-01-26",4,"Crete",12.42
+"2002-01-26",5,"Epirus and Western Macedonia",3.32
+"2002-01-26",6,"Macedonia and Thrace",5.5
+"2002-01-26",7,"Peloponnese, Western Greece and the Ionian Islands",7.32
+"2002-01-26",8,"Thessaly and Central Greece",7.85
+"2002-01-27",1,"Aegean",13.7
+"2002-01-27",2,"Athos",11.07
+"2002-01-27",3,"Attica",8.69
+"2002-01-27",4,"Crete",11.68
+"2002-01-27",5,"Epirus and Western Macedonia",-0.35
+"2002-01-27",6,"Macedonia and Thrace",3.78
+"2002-01-27",7,"Peloponnese, Western Greece and the Ionian Islands",6.79
+"2002-01-27",8,"Thessaly and Central Greece",5.01
+"2002-01-28",1,"Aegean",13.26
+"2002-01-28",2,"Athos",11.05
+"2002-01-28",3,"Attica",8.29
+"2002-01-28",4,"Crete",10.85
+"2002-01-28",5,"Epirus and Western Macedonia",1.22
+"2002-01-28",6,"Macedonia and Thrace",3.98
+"2002-01-28",7,"Peloponnese, Western Greece and the Ionian Islands",7.54
+"2002-01-28",8,"Thessaly and Central Greece",4.86
+"2002-01-29",1,"Aegean",14.05
+"2002-01-29",2,"Athos",11.6
+"2002-01-29",3,"Attica",9.21
+"2002-01-29",4,"Crete",10.84
+"2002-01-29",5,"Epirus and Western Macedonia",1.21
+"2002-01-29",6,"Macedonia and Thrace",5.46
+"2002-01-29",7,"Peloponnese, Western Greece and the Ionian Islands",7.5
+"2002-01-29",8,"Thessaly and Central Greece",6.64
+"2002-01-30",1,"Aegean",14.18
+"2002-01-30",2,"Athos",12.13
+"2002-01-30",3,"Attica",9.55
+"2002-01-30",4,"Crete",11.47
+"2002-01-30",5,"Epirus and Western Macedonia",1.51
+"2002-01-30",6,"Macedonia and Thrace",5.23
+"2002-01-30",7,"Peloponnese, Western Greece and the Ionian Islands",7.62
+"2002-01-30",8,"Thessaly and Central Greece",6.44
+"2002-01-31",1,"Aegean",13.98
+"2002-01-31",2,"Athos",11.96
+"2002-01-31",3,"Attica",9.28
+"2002-01-31",4,"Crete",10.52
+"2002-01-31",5,"Epirus and Western Macedonia",1.4
+"2002-01-31",6,"Macedonia and Thrace",5.02
+"2002-01-31",7,"Peloponnese, Western Greece and the Ionian Islands",8.02
+"2002-01-31",8,"Thessaly and Central Greece",6.29
+"2002-02-01",1,"Aegean",14.16
+"2002-02-01",2,"Athos",12.02
+"2002-02-01",3,"Attica",10.58
+"2002-02-01",4,"Crete",10.53
+"2002-02-01",5,"Epirus and Western Macedonia",3.15
+"2002-02-01",6,"Macedonia and Thrace",5.76
+"2002-02-01",7,"Peloponnese, Western Greece and the Ionian Islands",8.94
+"2002-02-01",8,"Thessaly and Central Greece",6.8
+"2002-02-02",1,"Aegean",14.44
+"2002-02-02",2,"Athos",12.26
+"2002-02-02",3,"Attica",9.86
+"2002-02-02",4,"Crete",11.91
+"2002-02-02",5,"Epirus and Western Macedonia",2.61
+"2002-02-02",6,"Macedonia and Thrace",6.6
+"2002-02-02",7,"Peloponnese, Western Greece and the Ionian Islands",9.38
+"2002-02-02",8,"Thessaly and Central Greece",7.53
+"2002-02-03",1,"Aegean",14.31
+"2002-02-03",2,"Athos",12.7
+"2002-02-03",3,"Attica",11.42
+"2002-02-03",4,"Crete",11.92
+"2002-02-03",5,"Epirus and Western Macedonia",4.36
+"2002-02-03",6,"Macedonia and Thrace",6.16
+"2002-02-03",7,"Peloponnese, Western Greece and the Ionian Islands",10.03
+"2002-02-03",8,"Thessaly and Central Greece",9.17
+"2002-02-04",1,"Aegean",13.38
+"2002-02-04",2,"Athos",11.11
+"2002-02-04",3,"Attica",7.97
+"2002-02-04",4,"Crete",10.93
+"2002-02-04",5,"Epirus and Western Macedonia",-0.08
+"2002-02-04",6,"Macedonia and Thrace",3.47
+"2002-02-04",7,"Peloponnese, Western Greece and the Ionian Islands",5.85
+"2002-02-04",8,"Thessaly and Central Greece",4.15
+"2002-02-05",1,"Aegean",13.15
+"2002-02-05",2,"Athos",11.16
+"2002-02-05",3,"Attica",8.56
+"2002-02-05",4,"Crete",10.07
+"2002-02-05",5,"Epirus and Western Macedonia",1.31
+"2002-02-05",6,"Macedonia and Thrace",2.93
+"2002-02-05",7,"Peloponnese, Western Greece and the Ionian Islands",6.12
+"2002-02-05",8,"Thessaly and Central Greece",3.33
+"2002-02-06",1,"Aegean",13.84
+"2002-02-06",2,"Athos",12.24
+"2002-02-06",3,"Attica",9.58
+"2002-02-06",4,"Crete",11.05
+"2002-02-06",5,"Epirus and Western Macedonia",3.78
+"2002-02-06",6,"Macedonia and Thrace",5.14
+"2002-02-06",7,"Peloponnese, Western Greece and the Ionian Islands",7.61
+"2002-02-06",8,"Thessaly and Central Greece",5.56
+"2002-02-07",1,"Aegean",13.65
+"2002-02-07",2,"Athos",12.93
+"2002-02-07",3,"Attica",9.14
+"2002-02-07",4,"Crete",9.98
+"2002-02-07",5,"Epirus and Western Macedonia",5.7
+"2002-02-07",6,"Macedonia and Thrace",6
+"2002-02-07",7,"Peloponnese, Western Greece and the Ionian Islands",7.28
+"2002-02-07",8,"Thessaly and Central Greece",6.55
+"2002-02-08",1,"Aegean",13.37
+"2002-02-08",2,"Athos",12.14
+"2002-02-08",3,"Attica",9.45
+"2002-02-08",4,"Crete",10.63
+"2002-02-08",5,"Epirus and Western Macedonia",3.69
+"2002-02-08",6,"Macedonia and Thrace",5.12
+"2002-02-08",7,"Peloponnese, Western Greece and the Ionian Islands",7.94
+"2002-02-08",8,"Thessaly and Central Greece",6.72
+"2002-02-09",1,"Aegean",13.79
+"2002-02-09",2,"Athos",11.35
+"2002-02-09",3,"Attica",9.18
+"2002-02-09",4,"Crete",10.76
+"2002-02-09",5,"Epirus and Western Macedonia",1.68
+"2002-02-09",6,"Macedonia and Thrace",4.35
+"2002-02-09",7,"Peloponnese, Western Greece and the Ionian Islands",7.97
+"2002-02-09",8,"Thessaly and Central Greece",5.48
+"2002-02-10",1,"Aegean",14.32
+"2002-02-10",2,"Athos",12.09
+"2002-02-10",3,"Attica",9.06
+"2002-02-10",4,"Crete",12.06
+"2002-02-10",5,"Epirus and Western Macedonia",1.02
+"2002-02-10",6,"Macedonia and Thrace",4.99
+"2002-02-10",7,"Peloponnese, Western Greece and the Ionian Islands",7.2
+"2002-02-10",8,"Thessaly and Central Greece",5.14
+"2002-02-11",1,"Aegean",13.54
+"2002-02-11",2,"Athos",11.33
+"2002-02-11",3,"Attica",10.62
+"2002-02-11",4,"Crete",12.17
+"2002-02-11",5,"Epirus and Western Macedonia",4.99
+"2002-02-11",6,"Macedonia and Thrace",5.52
+"2002-02-11",7,"Peloponnese, Western Greece and the Ionian Islands",8.48
+"2002-02-11",8,"Thessaly and Central Greece",6.1
+"2002-02-12",1,"Aegean",12.33
+"2002-02-12",2,"Athos",10.75
+"2002-02-12",3,"Attica",9.43
+"2002-02-12",4,"Crete",10.95
+"2002-02-12",5,"Epirus and Western Macedonia",0.11
+"2002-02-12",6,"Macedonia and Thrace",4.38
+"2002-02-12",7,"Peloponnese, Western Greece and the Ionian Islands",5.79
+"2002-02-12",8,"Thessaly and Central Greece",3.72
+"2002-02-13",1,"Aegean",13.46
+"2002-02-13",2,"Athos",11.89
+"2002-02-13",3,"Attica",9.44
+"2002-02-13",4,"Crete",10.63
+"2002-02-13",5,"Epirus and Western Macedonia",1.86
+"2002-02-13",6,"Macedonia and Thrace",5.71
+"2002-02-13",7,"Peloponnese, Western Greece and the Ionian Islands",6.77
+"2002-02-13",8,"Thessaly and Central Greece",5.23
+"2002-02-14",1,"Aegean",14.69
+"2002-02-14",2,"Athos",12.13
+"2002-02-14",3,"Attica",11.35
+"2002-02-14",4,"Crete",11.34
+"2002-02-14",5,"Epirus and Western Macedonia",2.46
+"2002-02-14",6,"Macedonia and Thrace",6.46
+"2002-02-14",7,"Peloponnese, Western Greece and the Ionian Islands",8.06
+"2002-02-14",8,"Thessaly and Central Greece",6.21
+"2002-02-15",1,"Aegean",14.3
+"2002-02-15",2,"Athos",11.63
+"2002-02-15",3,"Attica",9.58
+"2002-02-15",4,"Crete",11.66
+"2002-02-15",5,"Epirus and Western Macedonia",3.58
+"2002-02-15",6,"Macedonia and Thrace",5.91
+"2002-02-15",7,"Peloponnese, Western Greece and the Ionian Islands",8.67
+"2002-02-15",8,"Thessaly and Central Greece",6.24
+"2002-02-16",1,"Aegean",13.41
+"2002-02-16",2,"Athos",8.16
+"2002-02-16",3,"Attica",13.01
+"2002-02-16",4,"Crete",12.1
+"2002-02-16",5,"Epirus and Western Macedonia",6.62
+"2002-02-16",6,"Macedonia and Thrace",6.15
+"2002-02-16",7,"Peloponnese, Western Greece and the Ionian Islands",9.91
+"2002-02-16",8,"Thessaly and Central Greece",9.41
+"2002-02-17",1,"Aegean",11.08
+"2002-02-17",2,"Athos",8.31
+"2002-02-17",3,"Attica",8.35
+"2002-02-17",4,"Crete",11.24
+"2002-02-17",5,"Epirus and Western Macedonia",4.12
+"2002-02-17",6,"Macedonia and Thrace",4.48
+"2002-02-17",7,"Peloponnese, Western Greece and the Ionian Islands",8.03
+"2002-02-17",8,"Thessaly and Central Greece",5.79
+"2002-02-18",1,"Aegean",12.47
+"2002-02-18",2,"Athos",9.38
+"2002-02-18",3,"Attica",7.34
+"2002-02-18",4,"Crete",9.81
+"2002-02-18",5,"Epirus and Western Macedonia",3.56
+"2002-02-18",6,"Macedonia and Thrace",4.16
+"2002-02-18",7,"Peloponnese, Western Greece and the Ionian Islands",8.28
+"2002-02-18",8,"Thessaly and Central Greece",5.24
+"2002-02-19",1,"Aegean",14.2
+"2002-02-19",2,"Athos",11.73
+"2002-02-19",3,"Attica",10.29
+"2002-02-19",4,"Crete",11.56
+"2002-02-19",5,"Epirus and Western Macedonia",5.88
+"2002-02-19",6,"Macedonia and Thrace",6.57
+"2002-02-19",7,"Peloponnese, Western Greece and the Ionian Islands",9.42
+"2002-02-19",8,"Thessaly and Central Greece",7.62
+"2002-02-20",1,"Aegean",15.3
+"2002-02-20",2,"Athos",12.36
+"2002-02-20",3,"Attica",12.89
+"2002-02-20",4,"Crete",13.05
+"2002-02-20",5,"Epirus and Western Macedonia",8.15
+"2002-02-20",6,"Macedonia and Thrace",9.07
+"2002-02-20",7,"Peloponnese, Western Greece and the Ionian Islands",11.13
+"2002-02-20",8,"Thessaly and Central Greece",10.29
+"2002-02-21",1,"Aegean",14.67
+"2002-02-21",2,"Athos",11.4
+"2002-02-21",3,"Attica",10.47
+"2002-02-21",4,"Crete",12.92
+"2002-02-21",5,"Epirus and Western Macedonia",3.88
+"2002-02-21",6,"Macedonia and Thrace",5.9
+"2002-02-21",7,"Peloponnese, Western Greece and the Ionian Islands",9
+"2002-02-21",8,"Thessaly and Central Greece",6.38
+"2002-02-22",1,"Aegean",14.8
+"2002-02-22",2,"Athos",12.32
+"2002-02-22",3,"Attica",11.22
+"2002-02-22",4,"Crete",11.41
+"2002-02-22",5,"Epirus and Western Macedonia",4.81
+"2002-02-22",6,"Macedonia and Thrace",7.29
+"2002-02-22",7,"Peloponnese, Western Greece and the Ionian Islands",7.39
+"2002-02-22",8,"Thessaly and Central Greece",5.55
+"2002-02-23",1,"Aegean",13.83
+"2002-02-23",2,"Athos",11.71
+"2002-02-23",3,"Attica",10.63
+"2002-02-23",4,"Crete",10.96
+"2002-02-23",5,"Epirus and Western Macedonia",4.23
+"2002-02-23",6,"Macedonia and Thrace",6.94
+"2002-02-23",7,"Peloponnese, Western Greece and the Ionian Islands",7.63
+"2002-02-23",8,"Thessaly and Central Greece",7.13
+"2002-02-24",1,"Aegean",12.55
+"2002-02-24",2,"Athos",11.61
+"2002-02-24",3,"Attica",8.85
+"2002-02-24",4,"Crete",10.3
+"2002-02-24",5,"Epirus and Western Macedonia",2.17
+"2002-02-24",6,"Macedonia and Thrace",6.68
+"2002-02-24",7,"Peloponnese, Western Greece and the Ionian Islands",7.78
+"2002-02-24",8,"Thessaly and Central Greece",5.56
+"2002-02-25",1,"Aegean",14.71
+"2002-02-25",2,"Athos",13.29
+"2002-02-25",3,"Attica",11.89
+"2002-02-25",4,"Crete",12.23
+"2002-02-25",5,"Epirus and Western Macedonia",4.06
+"2002-02-25",6,"Macedonia and Thrace",6.51
+"2002-02-25",7,"Peloponnese, Western Greece and the Ionian Islands",10.71
+"2002-02-25",8,"Thessaly and Central Greece",7.94
+"2002-02-26",1,"Aegean",10.33
+"2002-02-26",2,"Athos",10.2
+"2002-02-26",3,"Attica",6.86
+"2002-02-26",4,"Crete",9.06
+"2002-02-26",5,"Epirus and Western Macedonia",-0.4
+"2002-02-26",6,"Macedonia and Thrace",1.44
+"2002-02-26",7,"Peloponnese, Western Greece and the Ionian Islands",5.19
+"2002-02-26",8,"Thessaly and Central Greece",2.52
+"2002-02-27",1,"Aegean",13.43
+"2002-02-27",2,"Athos",12.49
+"2002-02-27",3,"Attica",9.49
+"2002-02-27",4,"Crete",9.97
+"2002-02-27",5,"Epirus and Western Macedonia",2.84
+"2002-02-27",6,"Macedonia and Thrace",4.14
+"2002-02-27",7,"Peloponnese, Western Greece and the Ionian Islands",8.91
+"2002-02-27",8,"Thessaly and Central Greece",6.19
+"2002-02-28",1,"Aegean",14.55
+"2002-02-28",2,"Athos",12.96
+"2002-02-28",3,"Attica",10.71
+"2002-02-28",4,"Crete",11.36
+"2002-02-28",5,"Epirus and Western Macedonia",3.72
+"2002-02-28",6,"Macedonia and Thrace",6.74
+"2002-02-28",7,"Peloponnese, Western Greece and the Ionian Islands",8.91
+"2002-02-28",8,"Thessaly and Central Greece",6.64
+"2002-03-01",1,"Aegean",15.05
+"2002-03-01",2,"Athos",12.88
+"2002-03-01",3,"Attica",10.92
+"2002-03-01",4,"Crete",11.56
+"2002-03-01",5,"Epirus and Western Macedonia",3.78
+"2002-03-01",6,"Macedonia and Thrace",7.53
+"2002-03-01",7,"Peloponnese, Western Greece and the Ionian Islands",9.35
+"2002-03-01",8,"Thessaly and Central Greece",7.7
+"2002-03-02",1,"Aegean",15.15
+"2002-03-02",2,"Athos",12.77
+"2002-03-02",3,"Attica",12.45
+"2002-03-02",4,"Crete",12.01
+"2002-03-02",5,"Epirus and Western Macedonia",4.77
+"2002-03-02",6,"Macedonia and Thrace",9.07
+"2002-03-02",7,"Peloponnese, Western Greece and the Ionian Islands",9.4
+"2002-03-02",8,"Thessaly and Central Greece",8.55
+"2002-03-03",1,"Aegean",15.32
+"2002-03-03",2,"Athos",13.14
+"2002-03-03",3,"Attica",12.05
+"2002-03-03",4,"Crete",11.81
+"2002-03-03",5,"Epirus and Western Macedonia",5.55
+"2002-03-03",6,"Macedonia and Thrace",9.59
+"2002-03-03",7,"Peloponnese, Western Greece and the Ionian Islands",9.3
+"2002-03-03",8,"Thessaly and Central Greece",8.37
+"2002-03-04",1,"Aegean",15.12
+"2002-03-04",2,"Athos",13.84
+"2002-03-04",3,"Attica",12.58
+"2002-03-04",4,"Crete",12.03
+"2002-03-04",5,"Epirus and Western Macedonia",6.26
+"2002-03-04",6,"Macedonia and Thrace",10.23
+"2002-03-04",7,"Peloponnese, Western Greece and the Ionian Islands",10.26
+"2002-03-04",8,"Thessaly and Central Greece",9.66
+"2002-03-05",1,"Aegean",15.09
+"2002-03-05",2,"Athos",12.46
+"2002-03-05",3,"Attica",12.96
+"2002-03-05",4,"Crete",13.66
+"2002-03-05",5,"Epirus and Western Macedonia",7.25
+"2002-03-05",6,"Macedonia and Thrace",9.82
+"2002-03-05",7,"Peloponnese, Western Greece and the Ionian Islands",12.07
+"2002-03-05",8,"Thessaly and Central Greece",11.07
+"2002-03-06",1,"Aegean",15.04
+"2002-03-06",2,"Athos",12.53
+"2002-03-06",3,"Attica",10.78
+"2002-03-06",4,"Crete",13.3
+"2002-03-06",5,"Epirus and Western Macedonia",5.88
+"2002-03-06",6,"Macedonia and Thrace",7.41
+"2002-03-06",7,"Peloponnese, Western Greece and the Ionian Islands",9.88
+"2002-03-06",8,"Thessaly and Central Greece",7.49
+"2002-03-07",1,"Aegean",15.97
+"2002-03-07",2,"Athos",12.67
+"2002-03-07",3,"Attica",12.71
+"2002-03-07",4,"Crete",15.12
+"2002-03-07",5,"Epirus and Western Macedonia",9.02
+"2002-03-07",6,"Macedonia and Thrace",10.13
+"2002-03-07",7,"Peloponnese, Western Greece and the Ionian Islands",11.13
+"2002-03-07",8,"Thessaly and Central Greece",10.04
+"2002-03-08",1,"Aegean",16.22
+"2002-03-08",2,"Athos",15
+"2002-03-08",3,"Attica",12.25
+"2002-03-08",4,"Crete",14.64
+"2002-03-08",5,"Epirus and Western Macedonia",8.23
+"2002-03-08",6,"Macedonia and Thrace",12.72
+"2002-03-08",7,"Peloponnese, Western Greece and the Ionian Islands",11.79
+"2002-03-08",8,"Thessaly and Central Greece",11.17
+"2002-03-09",1,"Aegean",16.71
+"2002-03-09",2,"Athos",14.78
+"2002-03-09",3,"Attica",15.65
+"2002-03-09",4,"Crete",15.75
+"2002-03-09",5,"Epirus and Western Macedonia",10.27
+"2002-03-09",6,"Macedonia and Thrace",12.35
+"2002-03-09",7,"Peloponnese, Western Greece and the Ionian Islands",14.82
+"2002-03-09",8,"Thessaly and Central Greece",13.93
+"2002-03-10",1,"Aegean",15.45
+"2002-03-10",2,"Athos",11.32
+"2002-03-10",3,"Attica",11.33
+"2002-03-10",4,"Crete",16.59
+"2002-03-10",5,"Epirus and Western Macedonia",5.72
+"2002-03-10",6,"Macedonia and Thrace",8.28
+"2002-03-10",7,"Peloponnese, Western Greece and the Ionian Islands",11.42
+"2002-03-10",8,"Thessaly and Central Greece",8.01
+"2002-03-11",1,"Aegean",17.21
+"2002-03-11",2,"Athos",13.05
+"2002-03-11",3,"Attica",12.75
+"2002-03-11",4,"Crete",17.02
+"2002-03-11",5,"Epirus and Western Macedonia",5.78
+"2002-03-11",6,"Macedonia and Thrace",8.85
+"2002-03-11",7,"Peloponnese, Western Greece and the Ionian Islands",10.99
+"2002-03-11",8,"Thessaly and Central Greece",8.71
+"2002-03-12",1,"Aegean",14.77
+"2002-03-12",2,"Athos",9.73
+"2002-03-12",3,"Attica",10.7
+"2002-03-12",4,"Crete",12.55
+"2002-03-12",5,"Epirus and Western Macedonia",3.58
+"2002-03-12",6,"Macedonia and Thrace",6.2
+"2002-03-12",7,"Peloponnese, Western Greece and the Ionian Islands",9.48
+"2002-03-12",8,"Thessaly and Central Greece",6.76
+"2002-03-13",1,"Aegean",12.99
+"2002-03-13",2,"Athos",10.38
+"2002-03-13",3,"Attica",10.74
+"2002-03-13",4,"Crete",11.7
+"2002-03-13",5,"Epirus and Western Macedonia",3.9
+"2002-03-13",6,"Macedonia and Thrace",7.48
+"2002-03-13",7,"Peloponnese, Western Greece and the Ionian Islands",8.91
+"2002-03-13",8,"Thessaly and Central Greece",7.72
+"2002-03-14",1,"Aegean",13.06
+"2002-03-14",2,"Athos",11.6
+"2002-03-14",3,"Attica",10.79
+"2002-03-14",4,"Crete",10.89
+"2002-03-14",5,"Epirus and Western Macedonia",3.26
+"2002-03-14",6,"Macedonia and Thrace",6.51
+"2002-03-14",7,"Peloponnese, Western Greece and the Ionian Islands",7.87
+"2002-03-14",8,"Thessaly and Central Greece",6.45
+"2002-03-15",1,"Aegean",12.94
+"2002-03-15",2,"Athos",12.08
+"2002-03-15",3,"Attica",10.68
+"2002-03-15",4,"Crete",10.85
+"2002-03-15",5,"Epirus and Western Macedonia",3.92
+"2002-03-15",6,"Macedonia and Thrace",6.8
+"2002-03-15",7,"Peloponnese, Western Greece and the Ionian Islands",7.36
+"2002-03-15",8,"Thessaly and Central Greece",6.24
+"2002-03-16",1,"Aegean",13.56
+"2002-03-16",2,"Athos",11.99
+"2002-03-16",3,"Attica",10.79
+"2002-03-16",4,"Crete",10.68
+"2002-03-16",5,"Epirus and Western Macedonia",4.73
+"2002-03-16",6,"Macedonia and Thrace",6.76
+"2002-03-16",7,"Peloponnese, Western Greece and the Ionian Islands",7.41
+"2002-03-16",8,"Thessaly and Central Greece",7.26
+"2002-03-17",1,"Aegean",13.52
+"2002-03-17",2,"Athos",9.88
+"2002-03-17",3,"Attica",12.13
+"2002-03-17",4,"Crete",12.66
+"2002-03-17",5,"Epirus and Western Macedonia",7.42
+"2002-03-17",6,"Macedonia and Thrace",9.03
+"2002-03-17",7,"Peloponnese, Western Greece and the Ionian Islands",10.18
+"2002-03-17",8,"Thessaly and Central Greece",10.17
+"2002-03-18",1,"Aegean",11.63
+"2002-03-18",2,"Athos",8.14
+"2002-03-18",3,"Attica",8.85
+"2002-03-18",4,"Crete",11.38
+"2002-03-18",5,"Epirus and Western Macedonia",5.36
+"2002-03-18",6,"Macedonia and Thrace",6.58
+"2002-03-18",7,"Peloponnese, Western Greece and the Ionian Islands",7.12
+"2002-03-18",8,"Thessaly and Central Greece",6.98
+"2002-03-19",1,"Aegean",11.39
+"2002-03-19",2,"Athos",9.94
+"2002-03-19",3,"Attica",7.06
+"2002-03-19",4,"Crete",9.89
+"2002-03-19",5,"Epirus and Western Macedonia",4.86
+"2002-03-19",6,"Macedonia and Thrace",5
+"2002-03-19",7,"Peloponnese, Western Greece and the Ionian Islands",6.64
+"2002-03-19",8,"Thessaly and Central Greece",4.68
+"2002-03-20",1,"Aegean",13.23
+"2002-03-20",2,"Athos",12.24
+"2002-03-20",3,"Attica",10.06
+"2002-03-20",4,"Crete",11.27
+"2002-03-20",5,"Epirus and Western Macedonia",7.63
+"2002-03-20",6,"Macedonia and Thrace",8.7
+"2002-03-20",7,"Peloponnese, Western Greece and the Ionian Islands",9.3
+"2002-03-20",8,"Thessaly and Central Greece",8.33
+"2002-03-21",1,"Aegean",15.19
+"2002-03-21",2,"Athos",13.93
+"2002-03-21",3,"Attica",12.35
+"2002-03-21",4,"Crete",13.04
+"2002-03-21",5,"Epirus and Western Macedonia",7.98
+"2002-03-21",6,"Macedonia and Thrace",10.38
+"2002-03-21",7,"Peloponnese, Western Greece and the Ionian Islands",10.73
+"2002-03-21",8,"Thessaly and Central Greece",10.69
+"2002-03-22",1,"Aegean",14.97
+"2002-03-22",2,"Athos",12.97
+"2002-03-22",3,"Attica",11.83
+"2002-03-22",4,"Crete",12.34
+"2002-03-22",5,"Epirus and Western Macedonia",8.78
+"2002-03-22",6,"Macedonia and Thrace",11.41
+"2002-03-22",7,"Peloponnese, Western Greece and the Ionian Islands",10.3
+"2002-03-22",8,"Thessaly and Central Greece",10.51
+"2002-03-23",1,"Aegean",14.86
+"2002-03-23",2,"Athos",11.86
+"2002-03-23",3,"Attica",12.7
+"2002-03-23",4,"Crete",13.52
+"2002-03-23",5,"Epirus and Western Macedonia",6.26
+"2002-03-23",6,"Macedonia and Thrace",8.44
+"2002-03-23",7,"Peloponnese, Western Greece and the Ionian Islands",10.66
+"2002-03-23",8,"Thessaly and Central Greece",9.66
+"2002-03-24",1,"Aegean",11.18
+"2002-03-24",2,"Athos",10.57
+"2002-03-24",3,"Attica",8.3
+"2002-03-24",4,"Crete",11.44
+"2002-03-24",5,"Epirus and Western Macedonia",2.06
+"2002-03-24",6,"Macedonia and Thrace",4.7
+"2002-03-24",7,"Peloponnese, Western Greece and the Ionian Islands",7.51
+"2002-03-24",8,"Thessaly and Central Greece",5.78
+"2002-03-25",1,"Aegean",9.78
+"2002-03-25",2,"Athos",9.98
+"2002-03-25",3,"Attica",6.58
+"2002-03-25",4,"Crete",8.17
+"2002-03-25",5,"Epirus and Western Macedonia",0.19
+"2002-03-25",6,"Macedonia and Thrace",5.54
+"2002-03-25",7,"Peloponnese, Western Greece and the Ionian Islands",4.2
+"2002-03-25",8,"Thessaly and Central Greece",2.76
+"2002-03-26",1,"Aegean",10.72
+"2002-03-26",2,"Athos",9.83
+"2002-03-26",3,"Attica",7.69
+"2002-03-26",4,"Crete",8.49
+"2002-03-26",5,"Epirus and Western Macedonia",0.5
+"2002-03-26",6,"Macedonia and Thrace",5.7
+"2002-03-26",7,"Peloponnese, Western Greece and the Ionian Islands",4.81
+"2002-03-26",8,"Thessaly and Central Greece",3.78
+"2002-03-27",1,"Aegean",10.58
+"2002-03-27",2,"Athos",8.29
+"2002-03-27",3,"Attica",7.91
+"2002-03-27",4,"Crete",8.9
+"2002-03-27",5,"Epirus and Western Macedonia",1.25
+"2002-03-27",6,"Macedonia and Thrace",4.87
+"2002-03-27",7,"Peloponnese, Western Greece and the Ionian Islands",5.95
+"2002-03-27",8,"Thessaly and Central Greece",4.96
+"2002-03-28",1,"Aegean",10.06
+"2002-03-28",2,"Athos",7.96
+"2002-03-28",3,"Attica",7.54
+"2002-03-28",4,"Crete",9.11
+"2002-03-28",5,"Epirus and Western Macedonia",2.71
+"2002-03-28",6,"Macedonia and Thrace",4.76
+"2002-03-28",7,"Peloponnese, Western Greece and the Ionian Islands",6.13
+"2002-03-28",8,"Thessaly and Central Greece",5.13
+"2002-03-29",1,"Aegean",10.95
+"2002-03-29",2,"Athos",9.1
+"2002-03-29",3,"Attica",8.04
+"2002-03-29",4,"Crete",9.52
+"2002-03-29",5,"Epirus and Western Macedonia",1.24
+"2002-03-29",6,"Macedonia and Thrace",5.22
+"2002-03-29",7,"Peloponnese, Western Greece and the Ionian Islands",5.97
+"2002-03-29",8,"Thessaly and Central Greece",4.1
+"2002-03-30",1,"Aegean",11.18
+"2002-03-30",2,"Athos",9.3
+"2002-03-30",3,"Attica",7.94
+"2002-03-30",4,"Crete",9.33
+"2002-03-30",5,"Epirus and Western Macedonia",2.71
+"2002-03-30",6,"Macedonia and Thrace",6.58
+"2002-03-30",7,"Peloponnese, Western Greece and the Ionian Islands",6.27
+"2002-03-30",8,"Thessaly and Central Greece",4.68
+"2002-03-31",1,"Aegean",10.86
+"2002-03-31",2,"Athos",8.41
+"2002-03-31",3,"Attica",7.39
+"2002-03-31",4,"Crete",9.94
+"2002-03-31",5,"Epirus and Western Macedonia",-1.15
+"2002-03-31",6,"Macedonia and Thrace",3.61
+"2002-03-31",7,"Peloponnese, Western Greece and the Ionian Islands",5.04
+"2002-03-31",8,"Thessaly and Central Greece",2.16
+"2002-04-01",1,"Aegean",11.78
+"2002-04-01",2,"Athos",10.87
+"2002-04-01",3,"Attica",8.42
+"2002-04-01",4,"Crete",8.85
+"2002-04-01",5,"Epirus and Western Macedonia",0.11
+"2002-04-01",6,"Macedonia and Thrace",4.82
+"2002-04-01",7,"Peloponnese, Western Greece and the Ionian Islands",4.85
+"2002-04-01",8,"Thessaly and Central Greece",3.29
+"2002-04-02",1,"Aegean",11.42
+"2002-04-02",2,"Athos",12.63
+"2002-04-02",3,"Attica",9.72
+"2002-04-02",4,"Crete",9.76
+"2002-04-02",5,"Epirus and Western Macedonia",2.25
+"2002-04-02",6,"Macedonia and Thrace",7.52
+"2002-04-02",7,"Peloponnese, Western Greece and the Ionian Islands",6.09
+"2002-04-02",8,"Thessaly and Central Greece",5.52
+"2002-04-03",1,"Aegean",13.77
+"2002-04-03",2,"Athos",12.67
+"2002-04-03",3,"Attica",10.65
+"2002-04-03",4,"Crete",11.49
+"2002-04-03",5,"Epirus and Western Macedonia",3.88
+"2002-04-03",6,"Macedonia and Thrace",7.34
+"2002-04-03",7,"Peloponnese, Western Greece and the Ionian Islands",7.31
+"2002-04-03",8,"Thessaly and Central Greece",6.47
+"2002-04-04",1,"Aegean",13.1
+"2002-04-04",2,"Athos",12.3
+"2002-04-04",3,"Attica",10.83
+"2002-04-04",4,"Crete",12.39
+"2002-04-04",5,"Epirus and Western Macedonia",5.66
+"2002-04-04",6,"Macedonia and Thrace",10.4
+"2002-04-04",7,"Peloponnese, Western Greece and the Ionian Islands",9.09
+"2002-04-04",8,"Thessaly and Central Greece",7.97
+"2002-04-05",1,"Aegean",14.19
+"2002-04-05",2,"Athos",9.87
+"2002-04-05",3,"Attica",11.33
+"2002-04-05",4,"Crete",12.58
+"2002-04-05",5,"Epirus and Western Macedonia",4.25
+"2002-04-05",6,"Macedonia and Thrace",6.72
+"2002-04-05",7,"Peloponnese, Western Greece and the Ionian Islands",10.08
+"2002-04-05",8,"Thessaly and Central Greece",8.1
+"2002-04-06",1,"Aegean",14.52
+"2002-04-06",2,"Athos",10.78
+"2002-04-06",3,"Attica",11.54
+"2002-04-06",4,"Crete",13.16
+"2002-04-06",5,"Epirus and Western Macedonia",5.77
+"2002-04-06",6,"Macedonia and Thrace",7.2
+"2002-04-06",7,"Peloponnese, Western Greece and the Ionian Islands",9.52
+"2002-04-06",8,"Thessaly and Central Greece",8.14
+"2002-04-07",1,"Aegean",14.06
+"2002-04-07",2,"Athos",11.71
+"2002-04-07",3,"Attica",10.25
+"2002-04-07",4,"Crete",12.24
+"2002-04-07",5,"Epirus and Western Macedonia",3.14
+"2002-04-07",6,"Macedonia and Thrace",6.34
+"2002-04-07",7,"Peloponnese, Western Greece and the Ionian Islands",8.13
+"2002-04-07",8,"Thessaly and Central Greece",6.92
+"2002-04-08",1,"Aegean",13.35
+"2002-04-08",2,"Athos",9.56
+"2002-04-08",3,"Attica",11.47
+"2002-04-08",4,"Crete",12.36
+"2002-04-08",5,"Epirus and Western Macedonia",2.89
+"2002-04-08",6,"Macedonia and Thrace",3.43
+"2002-04-08",7,"Peloponnese, Western Greece and the Ionian Islands",9.51
+"2002-04-08",8,"Thessaly and Central Greece",7.57
+"2002-04-09",1,"Aegean",12.66
+"2002-04-09",2,"Athos",10.2
+"2002-04-09",3,"Attica",9.62
+"2002-04-09",4,"Crete",12.17
+"2002-04-09",5,"Epirus and Western Macedonia",5.65
+"2002-04-09",6,"Macedonia and Thrace",6.8
+"2002-04-09",7,"Peloponnese, Western Greece and the Ionian Islands",9.28
+"2002-04-09",8,"Thessaly and Central Greece",7.63
+"2002-04-10",1,"Aegean",14.17
+"2002-04-10",2,"Athos",11.41
+"2002-04-10",3,"Attica",10.01
+"2002-04-10",4,"Crete",12.73
+"2002-04-10",5,"Epirus and Western Macedonia",6.93
+"2002-04-10",6,"Macedonia and Thrace",7.67
+"2002-04-10",7,"Peloponnese, Western Greece and the Ionian Islands",10.41
+"2002-04-10",8,"Thessaly and Central Greece",8.33
+"2002-04-11",1,"Aegean",14.42
+"2002-04-11",2,"Athos",10.74
+"2002-04-11",3,"Attica",9.98
+"2002-04-11",4,"Crete",13.28
+"2002-04-11",5,"Epirus and Western Macedonia",7.18
+"2002-04-11",6,"Macedonia and Thrace",8.1
+"2002-04-11",7,"Peloponnese, Western Greece and the Ionian Islands",9.41
+"2002-04-11",8,"Thessaly and Central Greece",7.6
+"2002-04-12",1,"Aegean",14.14
+"2002-04-12",2,"Athos",10.81
+"2002-04-12",3,"Attica",10.75
+"2002-04-12",4,"Crete",14.1
+"2002-04-12",5,"Epirus and Western Macedonia",7.99
+"2002-04-12",6,"Macedonia and Thrace",8.79
+"2002-04-12",7,"Peloponnese, Western Greece and the Ionian Islands",11.6
+"2002-04-12",8,"Thessaly and Central Greece",8.83
+"2002-04-13",1,"Aegean",15.69
+"2002-04-13",2,"Athos",12.71
+"2002-04-13",3,"Attica",13.41
+"2002-04-13",4,"Crete",17.09
+"2002-04-13",5,"Epirus and Western Macedonia",8.38
+"2002-04-13",6,"Macedonia and Thrace",8.9
+"2002-04-13",7,"Peloponnese, Western Greece and the Ionian Islands",13.37
+"2002-04-13",8,"Thessaly and Central Greece",9.9
+"2002-04-14",1,"Aegean",16.63
+"2002-04-14",2,"Athos",13.36
+"2002-04-14",3,"Attica",14.08
+"2002-04-14",4,"Crete",16.95
+"2002-04-14",5,"Epirus and Western Macedonia",10.27
+"2002-04-14",6,"Macedonia and Thrace",11.96
+"2002-04-14",7,"Peloponnese, Western Greece and the Ionian Islands",13.31
+"2002-04-14",8,"Thessaly and Central Greece",11.32
+"2002-04-15",1,"Aegean",15.3
+"2002-04-15",2,"Athos",13.29
+"2002-04-15",3,"Attica",13.5
+"2002-04-15",4,"Crete",16.16
+"2002-04-15",5,"Epirus and Western Macedonia",10.72
+"2002-04-15",6,"Macedonia and Thrace",12.02
+"2002-04-15",7,"Peloponnese, Western Greece and the Ionian Islands",13.27
+"2002-04-15",8,"Thessaly and Central Greece",12.45
+"2002-04-16",1,"Aegean",16.01
+"2002-04-16",2,"Athos",14.33
+"2002-04-16",3,"Attica",13.76
+"2002-04-16",4,"Crete",15.13
+"2002-04-16",5,"Epirus and Western Macedonia",8.92
+"2002-04-16",6,"Macedonia and Thrace",12.5
+"2002-04-16",7,"Peloponnese, Western Greece and the Ionian Islands",11.92
+"2002-04-16",8,"Thessaly and Central Greece",11.5
+"2002-04-17",1,"Aegean",14.27
+"2002-04-17",2,"Athos",13.38
+"2002-04-17",3,"Attica",12.71
+"2002-04-17",4,"Crete",13.9
+"2002-04-17",5,"Epirus and Western Macedonia",9.42
+"2002-04-17",6,"Macedonia and Thrace",12.31
+"2002-04-17",7,"Peloponnese, Western Greece and the Ionian Islands",11.32
+"2002-04-17",8,"Thessaly and Central Greece",10.99
+"2002-04-18",1,"Aegean",14.39
+"2002-04-18",2,"Athos",13.58
+"2002-04-18",3,"Attica",12.36
+"2002-04-18",4,"Crete",12.64
+"2002-04-18",5,"Epirus and Western Macedonia",6.87
+"2002-04-18",6,"Macedonia and Thrace",11.33
+"2002-04-18",7,"Peloponnese, Western Greece and the Ionian Islands",9.58
+"2002-04-18",8,"Thessaly and Central Greece",9.45
+"2002-04-19",1,"Aegean",14.3
+"2002-04-19",2,"Athos",13.17
+"2002-04-19",3,"Attica",11.98
+"2002-04-19",4,"Crete",12.84
+"2002-04-19",5,"Epirus and Western Macedonia",6.86
+"2002-04-19",6,"Macedonia and Thrace",10.94
+"2002-04-19",7,"Peloponnese, Western Greece and the Ionian Islands",9.99
+"2002-04-19",8,"Thessaly and Central Greece",9.35
+"2002-04-20",1,"Aegean",14.69
+"2002-04-20",2,"Athos",14.14
+"2002-04-20",3,"Attica",12.49
+"2002-04-20",4,"Crete",13.31
+"2002-04-20",5,"Epirus and Western Macedonia",6.48
+"2002-04-20",6,"Macedonia and Thrace",10.73
+"2002-04-20",7,"Peloponnese, Western Greece and the Ionian Islands",9.83
+"2002-04-20",8,"Thessaly and Central Greece",8.77
+"2002-04-21",1,"Aegean",14.58
+"2002-04-21",2,"Athos",13.94
+"2002-04-21",3,"Attica",13.25
+"2002-04-21",4,"Crete",13.46
+"2002-04-21",5,"Epirus and Western Macedonia",9.18
+"2002-04-21",6,"Macedonia and Thrace",12.19
+"2002-04-21",7,"Peloponnese, Western Greece and the Ionian Islands",10.36
+"2002-04-21",8,"Thessaly and Central Greece",11.13
+"2002-04-22",1,"Aegean",13.58
+"2002-04-22",2,"Athos",13.07
+"2002-04-22",3,"Attica",12.02
+"2002-04-22",4,"Crete",12.92
+"2002-04-22",5,"Epirus and Western Macedonia",4.49
+"2002-04-22",6,"Macedonia and Thrace",8.68
+"2002-04-22",7,"Peloponnese, Western Greece and the Ionian Islands",9.49
+"2002-04-22",8,"Thessaly and Central Greece",7.46
+"2002-04-23",1,"Aegean",13.69
+"2002-04-23",2,"Athos",13.35
+"2002-04-23",3,"Attica",9.88
+"2002-04-23",4,"Crete",11.84
+"2002-04-23",5,"Epirus and Western Macedonia",6.25
+"2002-04-23",6,"Macedonia and Thrace",10.45
+"2002-04-23",7,"Peloponnese, Western Greece and the Ionian Islands",7.82
+"2002-04-23",8,"Thessaly and Central Greece",7.12
+"2002-04-24",1,"Aegean",14.24
+"2002-04-24",2,"Athos",13.16
+"2002-04-24",3,"Attica",10.13
+"2002-04-24",4,"Crete",11.9
+"2002-04-24",5,"Epirus and Western Macedonia",6.42
+"2002-04-24",6,"Macedonia and Thrace",10.03
+"2002-04-24",7,"Peloponnese, Western Greece and the Ionian Islands",9.14
+"2002-04-24",8,"Thessaly and Central Greece",8.57
+"2002-04-25",1,"Aegean",14.03
+"2002-04-25",2,"Athos",12.82
+"2002-04-25",3,"Attica",10.91
+"2002-04-25",4,"Crete",12.5
+"2002-04-25",5,"Epirus and Western Macedonia",6.11
+"2002-04-25",6,"Macedonia and Thrace",7.76
+"2002-04-25",7,"Peloponnese, Western Greece and the Ionian Islands",9.57
+"2002-04-25",8,"Thessaly and Central Greece",7.81
+"2002-04-26",1,"Aegean",13.96
+"2002-04-26",2,"Athos",12.92
+"2002-04-26",3,"Attica",12.19
+"2002-04-26",4,"Crete",12.58
+"2002-04-26",5,"Epirus and Western Macedonia",5.02
+"2002-04-26",6,"Macedonia and Thrace",7.74
+"2002-04-26",7,"Peloponnese, Western Greece and the Ionian Islands",9.05
+"2002-04-26",8,"Thessaly and Central Greece",7.87
+"2002-04-27",1,"Aegean",14.57
+"2002-04-27",2,"Athos",13.5
+"2002-04-27",3,"Attica",11.19
+"2002-04-27",4,"Crete",12.52
+"2002-04-27",5,"Epirus and Western Macedonia",4.2
+"2002-04-27",6,"Macedonia and Thrace",7.69
+"2002-04-27",7,"Peloponnese, Western Greece and the Ionian Islands",8.52
+"2002-04-27",8,"Thessaly and Central Greece",7.03
+"2002-04-28",1,"Aegean",15.46
+"2002-04-28",2,"Athos",14.77
+"2002-04-28",3,"Attica",12.59
+"2002-04-28",4,"Crete",12.94
+"2002-04-28",5,"Epirus and Western Macedonia",9.07
+"2002-04-28",6,"Macedonia and Thrace",11.84
+"2002-04-28",7,"Peloponnese, Western Greece and the Ionian Islands",10.71
+"2002-04-28",8,"Thessaly and Central Greece",10
+"2002-04-29",1,"Aegean",15.75
+"2002-04-29",2,"Athos",14.36
+"2002-04-29",3,"Attica",13.1
+"2002-04-29",4,"Crete",13.74
+"2002-04-29",5,"Epirus and Western Macedonia",6.25
+"2002-04-29",6,"Macedonia and Thrace",9.56
+"2002-04-29",7,"Peloponnese, Western Greece and the Ionian Islands",11.35
+"2002-04-29",8,"Thessaly and Central Greece",9.11
+"2002-04-30",1,"Aegean",15.94
+"2002-04-30",2,"Athos",15.14
+"2002-04-30",3,"Attica",14.47
+"2002-04-30",4,"Crete",14.29
+"2002-04-30",5,"Epirus and Western Macedonia",8.92
+"2002-04-30",6,"Macedonia and Thrace",13.22
+"2002-04-30",7,"Peloponnese, Western Greece and the Ionian Islands",12.63
+"2002-04-30",8,"Thessaly and Central Greece",11.7
+"2002-05-01",1,"Aegean",16.25
+"2002-05-01",2,"Athos",15.43
+"2002-05-01",3,"Attica",15.11
+"2002-05-01",4,"Crete",14.65
+"2002-05-01",5,"Epirus and Western Macedonia",8.64
+"2002-05-01",6,"Macedonia and Thrace",11.96
+"2002-05-01",7,"Peloponnese, Western Greece and the Ionian Islands",12.79
+"2002-05-01",8,"Thessaly and Central Greece",12.84
+"2002-05-02",1,"Aegean",17.06
+"2002-05-02",2,"Athos",15.8
+"2002-05-02",3,"Attica",14.39
+"2002-05-02",4,"Crete",15.24
+"2002-05-02",5,"Epirus and Western Macedonia",10.35
+"2002-05-02",6,"Macedonia and Thrace",12.41
+"2002-05-02",7,"Peloponnese, Western Greece and the Ionian Islands",12.9
+"2002-05-02",8,"Thessaly and Central Greece",12.16
+"2002-05-03",1,"Aegean",16.69
+"2002-05-03",2,"Athos",16.2
+"2002-05-03",3,"Attica",13.88
+"2002-05-03",4,"Crete",14.75
+"2002-05-03",5,"Epirus and Western Macedonia",10.42
+"2002-05-03",6,"Macedonia and Thrace",12.96
+"2002-05-03",7,"Peloponnese, Western Greece and the Ionian Islands",13.15
+"2002-05-03",8,"Thessaly and Central Greece",12.08
+"2002-05-04",1,"Aegean",16.43
+"2002-05-04",2,"Athos",16.37
+"2002-05-04",3,"Attica",13.6
+"2002-05-04",4,"Crete",14.7
+"2002-05-04",5,"Epirus and Western Macedonia",11.09
+"2002-05-04",6,"Macedonia and Thrace",13.38
+"2002-05-04",7,"Peloponnese, Western Greece and the Ionian Islands",13.19
+"2002-05-04",8,"Thessaly and Central Greece",12.47
+"2002-05-05",1,"Aegean",17.13
+"2002-05-05",2,"Athos",16.53
+"2002-05-05",3,"Attica",15.09
+"2002-05-05",4,"Crete",15.09
+"2002-05-05",5,"Epirus and Western Macedonia",11.43
+"2002-05-05",6,"Macedonia and Thrace",13.92
+"2002-05-05",7,"Peloponnese, Western Greece and the Ionian Islands",14.21
+"2002-05-05",8,"Thessaly and Central Greece",12.94
+"2002-05-06",1,"Aegean",17.2
+"2002-05-06",2,"Athos",16.55
+"2002-05-06",3,"Attica",15.06
+"2002-05-06",4,"Crete",15.29
+"2002-05-06",5,"Epirus and Western Macedonia",10.03
+"2002-05-06",6,"Macedonia and Thrace",13.41
+"2002-05-06",7,"Peloponnese, Western Greece and the Ionian Islands",14.25
+"2002-05-06",8,"Thessaly and Central Greece",12.56
+"2002-05-07",1,"Aegean",17.45
+"2002-05-07",2,"Athos",16.64
+"2002-05-07",3,"Attica",15.65
+"2002-05-07",4,"Crete",16.59
+"2002-05-07",5,"Epirus and Western Macedonia",10.22
+"2002-05-07",6,"Macedonia and Thrace",12.87
+"2002-05-07",7,"Peloponnese, Western Greece and the Ionian Islands",14.92
+"2002-05-07",8,"Thessaly and Central Greece",12.94
+"2002-05-08",1,"Aegean",17.99
+"2002-05-08",2,"Athos",16.99
+"2002-05-08",3,"Attica",16.11
+"2002-05-08",4,"Crete",16.85
+"2002-05-08",5,"Epirus and Western Macedonia",11.12
+"2002-05-08",6,"Macedonia and Thrace",13.09
+"2002-05-08",7,"Peloponnese, Western Greece and the Ionian Islands",15.12
+"2002-05-08",8,"Thessaly and Central Greece",13.27
+"2002-05-09",1,"Aegean",17.48
+"2002-05-09",2,"Athos",17.03
+"2002-05-09",3,"Attica",13.73
+"2002-05-09",4,"Crete",15.11
+"2002-05-09",5,"Epirus and Western Macedonia",9.48
+"2002-05-09",6,"Macedonia and Thrace",13.67
+"2002-05-09",7,"Peloponnese, Western Greece and the Ionian Islands",12.49
+"2002-05-09",8,"Thessaly and Central Greece",10.96
+"2002-05-10",1,"Aegean",17.56
+"2002-05-10",2,"Athos",16.04
+"2002-05-10",3,"Attica",14.74
+"2002-05-10",4,"Crete",16.43
+"2002-05-10",5,"Epirus and Western Macedonia",10.34
+"2002-05-10",6,"Macedonia and Thrace",12.86
+"2002-05-10",7,"Peloponnese, Western Greece and the Ionian Islands",13.65
+"2002-05-10",8,"Thessaly and Central Greece",12.19
+"2002-05-11",1,"Aegean",16.68
+"2002-05-11",2,"Athos",16.08
+"2002-05-11",3,"Attica",15.8
+"2002-05-11",4,"Crete",15.93
+"2002-05-11",5,"Epirus and Western Macedonia",11.49
+"2002-05-11",6,"Macedonia and Thrace",12.91
+"2002-05-11",7,"Peloponnese, Western Greece and the Ionian Islands",14.35
+"2002-05-11",8,"Thessaly and Central Greece",12.91
+"2002-05-12",1,"Aegean",17.3
+"2002-05-12",2,"Athos",16.05
+"2002-05-12",3,"Attica",16.15
+"2002-05-12",4,"Crete",17.98
+"2002-05-12",5,"Epirus and Western Macedonia",11.43
+"2002-05-12",6,"Macedonia and Thrace",12.95
+"2002-05-12",7,"Peloponnese, Western Greece and the Ionian Islands",15.04
+"2002-05-12",8,"Thessaly and Central Greece",13.57
+"2002-05-13",1,"Aegean",17.41
+"2002-05-13",2,"Athos",16.99
+"2002-05-13",3,"Attica",16.43
+"2002-05-13",4,"Crete",16.07
+"2002-05-13",5,"Epirus and Western Macedonia",10.89
+"2002-05-13",6,"Macedonia and Thrace",13.93
+"2002-05-13",7,"Peloponnese, Western Greece and the Ionian Islands",14.32
+"2002-05-13",8,"Thessaly and Central Greece",13.68
+"2002-05-14",1,"Aegean",17.06
+"2002-05-14",2,"Athos",17.52
+"2002-05-14",3,"Attica",14.51
+"2002-05-14",4,"Crete",16.17
+"2002-05-14",5,"Epirus and Western Macedonia",9.34
+"2002-05-14",6,"Macedonia and Thrace",13.1
+"2002-05-14",7,"Peloponnese, Western Greece and the Ionian Islands",13.4
+"2002-05-14",8,"Thessaly and Central Greece",11.48
+"2002-05-15",1,"Aegean",17.23
+"2002-05-15",2,"Athos",17.59
+"2002-05-15",3,"Attica",14.73
+"2002-05-15",4,"Crete",16.25
+"2002-05-15",5,"Epirus and Western Macedonia",9.51
+"2002-05-15",6,"Macedonia and Thrace",12.31
+"2002-05-15",7,"Peloponnese, Western Greece and the Ionian Islands",13.1
+"2002-05-15",8,"Thessaly and Central Greece",12.13
+"2002-05-16",1,"Aegean",18.07
+"2002-05-16",2,"Athos",17.52
+"2002-05-16",3,"Attica",15.54
+"2002-05-16",4,"Crete",16.24
+"2002-05-16",5,"Epirus and Western Macedonia",11.31
+"2002-05-16",6,"Macedonia and Thrace",15.11
+"2002-05-16",7,"Peloponnese, Western Greece and the Ionian Islands",14.33
+"2002-05-16",8,"Thessaly and Central Greece",13.36
+"2002-05-17",1,"Aegean",18.56
+"2002-05-17",2,"Athos",18.67
+"2002-05-17",3,"Attica",16
+"2002-05-17",4,"Crete",15.29
+"2002-05-17",5,"Epirus and Western Macedonia",11.31
+"2002-05-17",6,"Macedonia and Thrace",15.4
+"2002-05-17",7,"Peloponnese, Western Greece and the Ionian Islands",14.7
+"2002-05-17",8,"Thessaly and Central Greece",14.01
+"2002-05-18",1,"Aegean",17.98
+"2002-05-18",2,"Athos",19.02
+"2002-05-18",3,"Attica",16.65
+"2002-05-18",4,"Crete",15.64
+"2002-05-18",5,"Epirus and Western Macedonia",9.98
+"2002-05-18",6,"Macedonia and Thrace",14.63
+"2002-05-18",7,"Peloponnese, Western Greece and the Ionian Islands",14.37
+"2002-05-18",8,"Thessaly and Central Greece",12.53
+"2002-05-19",1,"Aegean",18.13
+"2002-05-19",2,"Athos",19.19
+"2002-05-19",3,"Attica",16.75
+"2002-05-19",4,"Crete",16.45
+"2002-05-19",5,"Epirus and Western Macedonia",9.71
+"2002-05-19",6,"Macedonia and Thrace",14.91
+"2002-05-19",7,"Peloponnese, Western Greece and the Ionian Islands",14.62
+"2002-05-19",8,"Thessaly and Central Greece",13.34
+"2002-05-20",1,"Aegean",18.23
+"2002-05-20",2,"Athos",18.48
+"2002-05-20",3,"Attica",17.44
+"2002-05-20",4,"Crete",17.51
+"2002-05-20",5,"Epirus and Western Macedonia",11.8
+"2002-05-20",6,"Macedonia and Thrace",16.08
+"2002-05-20",7,"Peloponnese, Western Greece and the Ionian Islands",14.51
+"2002-05-20",8,"Thessaly and Central Greece",14.02
+"2002-05-21",1,"Aegean",18.52
+"2002-05-21",2,"Athos",18.69
+"2002-05-21",3,"Attica",17.64
+"2002-05-21",4,"Crete",16.31
+"2002-05-21",5,"Epirus and Western Macedonia",11.32
+"2002-05-21",6,"Macedonia and Thrace",16.18
+"2002-05-21",7,"Peloponnese, Western Greece and the Ionian Islands",14.47
+"2002-05-21",8,"Thessaly and Central Greece",14.36
+"2002-05-22",1,"Aegean",18
+"2002-05-22",2,"Athos",17.63
+"2002-05-22",3,"Attica",16.76
+"2002-05-22",4,"Crete",16.68
+"2002-05-22",5,"Epirus and Western Macedonia",10.46
+"2002-05-22",6,"Macedonia and Thrace",14.53
+"2002-05-22",7,"Peloponnese, Western Greece and the Ionian Islands",14.16
+"2002-05-22",8,"Thessaly and Central Greece",13.74
+"2002-05-23",1,"Aegean",17.73
+"2002-05-23",2,"Athos",17.28
+"2002-05-23",3,"Attica",15.71
+"2002-05-23",4,"Crete",16.76
+"2002-05-23",5,"Epirus and Western Macedonia",10.23
+"2002-05-23",6,"Macedonia and Thrace",13.48
+"2002-05-23",7,"Peloponnese, Western Greece and the Ionian Islands",14.97
+"2002-05-23",8,"Thessaly and Central Greece",12.98
+"2002-05-24",1,"Aegean",18.03
+"2002-05-24",2,"Athos",17.88
+"2002-05-24",3,"Attica",17.15
+"2002-05-24",4,"Crete",15.84
+"2002-05-24",5,"Epirus and Western Macedonia",12.53
+"2002-05-24",6,"Macedonia and Thrace",14.72
+"2002-05-24",7,"Peloponnese, Western Greece and the Ionian Islands",15.85
+"2002-05-24",8,"Thessaly and Central Greece",14.8
+"2002-05-25",1,"Aegean",18.64
+"2002-05-25",2,"Athos",18.37
+"2002-05-25",3,"Attica",17.48
+"2002-05-25",4,"Crete",18.53
+"2002-05-25",5,"Epirus and Western Macedonia",13.79
+"2002-05-25",6,"Macedonia and Thrace",16.14
+"2002-05-25",7,"Peloponnese, Western Greece and the Ionian Islands",16.87
+"2002-05-25",8,"Thessaly and Central Greece",16.08
+"2002-05-26",1,"Aegean",19.28
+"2002-05-26",2,"Athos",19.22
+"2002-05-26",3,"Attica",16.72
+"2002-05-26",4,"Crete",17.94
+"2002-05-26",5,"Epirus and Western Macedonia",9.04
+"2002-05-26",6,"Macedonia and Thrace",15.4
+"2002-05-26",7,"Peloponnese, Western Greece and the Ionian Islands",14.18
+"2002-05-26",8,"Thessaly and Central Greece",12.56
+"2002-05-27",1,"Aegean",18.42
+"2002-05-27",2,"Athos",18.89
+"2002-05-27",3,"Attica",15.53
+"2002-05-27",4,"Crete",16.44
+"2002-05-27",5,"Epirus and Western Macedonia",11.24
+"2002-05-27",6,"Macedonia and Thrace",13.91
+"2002-05-27",7,"Peloponnese, Western Greece and the Ionian Islands",13.76
+"2002-05-27",8,"Thessaly and Central Greece",11.88
+"2002-05-28",1,"Aegean",19.28
+"2002-05-28",2,"Athos",19.08
+"2002-05-28",3,"Attica",17.29
+"2002-05-28",4,"Crete",16.66
+"2002-05-28",5,"Epirus and Western Macedonia",10.92
+"2002-05-28",6,"Macedonia and Thrace",14.6
+"2002-05-28",7,"Peloponnese, Western Greece and the Ionian Islands",14.24
+"2002-05-28",8,"Thessaly and Central Greece",13.24
+"2002-05-29",1,"Aegean",20.18
+"2002-05-29",2,"Athos",19.43
+"2002-05-29",3,"Attica",19.48
+"2002-05-29",4,"Crete",20.06
+"2002-05-29",5,"Epirus and Western Macedonia",12.58
+"2002-05-29",6,"Macedonia and Thrace",16.3
+"2002-05-29",7,"Peloponnese, Western Greece and the Ionian Islands",16.85
+"2002-05-29",8,"Thessaly and Central Greece",16.42
+"2002-05-30",1,"Aegean",19.76
+"2002-05-30",2,"Athos",19.73
+"2002-05-30",3,"Attica",17.78
+"2002-05-30",4,"Crete",16.88
+"2002-05-30",5,"Epirus and Western Macedonia",12.24
+"2002-05-30",6,"Macedonia and Thrace",14.58
+"2002-05-30",7,"Peloponnese, Western Greece and the Ionian Islands",15.41
+"2002-05-30",8,"Thessaly and Central Greece",14.97
+"2002-05-31",1,"Aegean",19.24
+"2002-05-31",2,"Athos",19.86
+"2002-05-31",3,"Attica",18.82
+"2002-05-31",4,"Crete",17.43
+"2002-05-31",5,"Epirus and Western Macedonia",12
+"2002-05-31",6,"Macedonia and Thrace",16.45
+"2002-05-31",7,"Peloponnese, Western Greece and the Ionian Islands",15.63
+"2002-05-31",8,"Thessaly and Central Greece",15.65
+"2002-06-01",1,"Aegean",19.26
+"2002-06-01",2,"Athos",18.45
+"2002-06-01",3,"Attica",17.41
+"2002-06-01",4,"Crete",18.5
+"2002-06-01",5,"Epirus and Western Macedonia",10.44
+"2002-06-01",6,"Macedonia and Thrace",13.97
+"2002-06-01",7,"Peloponnese, Western Greece and the Ionian Islands",15.71
+"2002-06-01",8,"Thessaly and Central Greece",13.93
+"2002-06-02",1,"Aegean",19.44
+"2002-06-02",2,"Athos",19.46
+"2002-06-02",3,"Attica",17.64
+"2002-06-02",4,"Crete",17.4
+"2002-06-02",5,"Epirus and Western Macedonia",10.49
+"2002-06-02",6,"Macedonia and Thrace",13.71
+"2002-06-02",7,"Peloponnese, Western Greece and the Ionian Islands",15.25
+"2002-06-02",8,"Thessaly and Central Greece",15.21
+"2002-06-03",1,"Aegean",19.4
+"2002-06-03",2,"Athos",19.21
+"2002-06-03",3,"Attica",18.18
+"2002-06-03",4,"Crete",18.34
+"2002-06-03",5,"Epirus and Western Macedonia",11.07
+"2002-06-03",6,"Macedonia and Thrace",15.09
+"2002-06-03",7,"Peloponnese, Western Greece and the Ionian Islands",15.07
+"2002-06-03",8,"Thessaly and Central Greece",14.92
+"2002-06-04",1,"Aegean",19.13
+"2002-06-04",2,"Athos",18.77
+"2002-06-04",3,"Attica",17.33
+"2002-06-04",4,"Crete",16.96
+"2002-06-04",5,"Epirus and Western Macedonia",9.9
+"2002-06-04",6,"Macedonia and Thrace",13.98
+"2002-06-04",7,"Peloponnese, Western Greece and the Ionian Islands",14.47
+"2002-06-04",8,"Thessaly and Central Greece",13.55
+"2002-06-05",1,"Aegean",19.09
+"2002-06-05",2,"Athos",19.64
+"2002-06-05",3,"Attica",17.24
+"2002-06-05",4,"Crete",17.83
+"2002-06-05",5,"Epirus and Western Macedonia",11.63
+"2002-06-05",6,"Macedonia and Thrace",15.43
+"2002-06-05",7,"Peloponnese, Western Greece and the Ionian Islands",15.99
+"2002-06-05",8,"Thessaly and Central Greece",15.07
+"2002-06-06",1,"Aegean",20.04
+"2002-06-06",2,"Athos",20.59
+"2002-06-06",3,"Attica",19.53
+"2002-06-06",4,"Crete",19.12
+"2002-06-06",5,"Epirus and Western Macedonia",12.6
+"2002-06-06",6,"Macedonia and Thrace",16.72
+"2002-06-06",7,"Peloponnese, Western Greece and the Ionian Islands",16.76
+"2002-06-06",8,"Thessaly and Central Greece",16.09
+"2002-06-07",1,"Aegean",21.07
+"2002-06-07",2,"Athos",21.13
+"2002-06-07",3,"Attica",19.59
+"2002-06-07",4,"Crete",20.59
+"2002-06-07",5,"Epirus and Western Macedonia",16.25
+"2002-06-07",6,"Macedonia and Thrace",19.14
+"2002-06-07",7,"Peloponnese, Western Greece and the Ionian Islands",18.8
+"2002-06-07",8,"Thessaly and Central Greece",19.22
+"2002-06-08",1,"Aegean",21.57
+"2002-06-08",2,"Athos",20.91
+"2002-06-08",3,"Attica",19.69
+"2002-06-08",4,"Crete",20.41
+"2002-06-08",5,"Epirus and Western Macedonia",14.05
+"2002-06-08",6,"Macedonia and Thrace",18.66
+"2002-06-08",7,"Peloponnese, Western Greece and the Ionian Islands",18.38
+"2002-06-08",8,"Thessaly and Central Greece",18.22
+"2002-06-09",1,"Aegean",21.79
+"2002-06-09",2,"Athos",20.81
+"2002-06-09",3,"Attica",20.33
+"2002-06-09",4,"Crete",22.29
+"2002-06-09",5,"Epirus and Western Macedonia",13.68
+"2002-06-09",6,"Macedonia and Thrace",17.66
+"2002-06-09",7,"Peloponnese, Western Greece and the Ionian Islands",18.49
+"2002-06-09",8,"Thessaly and Central Greece",18.15
+"2002-06-10",1,"Aegean",22.29
+"2002-06-10",2,"Athos",21.15
+"2002-06-10",3,"Attica",18.78
+"2002-06-10",4,"Crete",21.09
+"2002-06-10",5,"Epirus and Western Macedonia",14.11
+"2002-06-10",6,"Macedonia and Thrace",18.27
+"2002-06-10",7,"Peloponnese, Western Greece and the Ionian Islands",17.51
+"2002-06-10",8,"Thessaly and Central Greece",17.87
+"2002-06-11",1,"Aegean",21.25
+"2002-06-11",2,"Athos",21.75
+"2002-06-11",3,"Attica",18.68
+"2002-06-11",4,"Crete",19.06
+"2002-06-11",5,"Epirus and Western Macedonia",12.14
+"2002-06-11",6,"Macedonia and Thrace",16.27
+"2002-06-11",7,"Peloponnese, Western Greece and the Ionian Islands",15.73
+"2002-06-11",8,"Thessaly and Central Greece",15.54
+"2002-06-12",1,"Aegean",20.9
+"2002-06-12",2,"Athos",20.57
+"2002-06-12",3,"Attica",20.08
+"2002-06-12",4,"Crete",18.64
+"2002-06-12",5,"Epirus and Western Macedonia",13.15
+"2002-06-12",6,"Macedonia and Thrace",16.8
+"2002-06-12",7,"Peloponnese, Western Greece and the Ionian Islands",16.34
+"2002-06-12",8,"Thessaly and Central Greece",17.18
+"2002-06-13",1,"Aegean",21.49
+"2002-06-13",2,"Athos",21.97
+"2002-06-13",3,"Attica",20.35
+"2002-06-13",4,"Crete",19.85
+"2002-06-13",5,"Epirus and Western Macedonia",14.49
+"2002-06-13",6,"Macedonia and Thrace",19.61
+"2002-06-13",7,"Peloponnese, Western Greece and the Ionian Islands",17.87
+"2002-06-13",8,"Thessaly and Central Greece",18.48
+"2002-06-14",1,"Aegean",22
+"2002-06-14",2,"Athos",22.5
+"2002-06-14",3,"Attica",21.57
+"2002-06-14",4,"Crete",20.5
+"2002-06-14",5,"Epirus and Western Macedonia",14.35
+"2002-06-14",6,"Macedonia and Thrace",18.99
+"2002-06-14",7,"Peloponnese, Western Greece and the Ionian Islands",18.93
+"2002-06-14",8,"Thessaly and Central Greece",18.01
+"2002-06-15",1,"Aegean",22.18
+"2002-06-15",2,"Athos",22.85
+"2002-06-15",3,"Attica",20.57
+"2002-06-15",4,"Crete",19.96
+"2002-06-15",5,"Epirus and Western Macedonia",15.72
+"2002-06-15",6,"Macedonia and Thrace",19.85
+"2002-06-15",7,"Peloponnese, Western Greece and the Ionian Islands",18.88
+"2002-06-15",8,"Thessaly and Central Greece",18.22
+"2002-06-16",1,"Aegean",23.03
+"2002-06-16",2,"Athos",23.78
+"2002-06-16",3,"Attica",23.43
+"2002-06-16",4,"Crete",21.34
+"2002-06-16",5,"Epirus and Western Macedonia",16.93
+"2002-06-16",6,"Macedonia and Thrace",21.47
+"2002-06-16",7,"Peloponnese, Western Greece and the Ionian Islands",20.71
+"2002-06-16",8,"Thessaly and Central Greece",20.85
+"2002-06-17",1,"Aegean",22.89
+"2002-06-17",2,"Athos",23.82
+"2002-06-17",3,"Attica",22.42
+"2002-06-17",4,"Crete",20.98
+"2002-06-17",5,"Epirus and Western Macedonia",16.19
+"2002-06-17",6,"Macedonia and Thrace",20.65
+"2002-06-17",7,"Peloponnese, Western Greece and the Ionian Islands",20.14
+"2002-06-17",8,"Thessaly and Central Greece",19.49
+"2002-06-18",1,"Aegean",24.04
+"2002-06-18",2,"Athos",23.99
+"2002-06-18",3,"Attica",23.46
+"2002-06-18",4,"Crete",22.6
+"2002-06-18",5,"Epirus and Western Macedonia",18.29
+"2002-06-18",6,"Macedonia and Thrace",22.2
+"2002-06-18",7,"Peloponnese, Western Greece and the Ionian Islands",20.83
+"2002-06-18",8,"Thessaly and Central Greece",22.05
+"2002-06-19",1,"Aegean",23.09
+"2002-06-19",2,"Athos",23.7
+"2002-06-19",3,"Attica",22.35
+"2002-06-19",4,"Crete",22.15
+"2002-06-19",5,"Epirus and Western Macedonia",17.85
+"2002-06-19",6,"Macedonia and Thrace",20.69
+"2002-06-19",7,"Peloponnese, Western Greece and the Ionian Islands",20.78
+"2002-06-19",8,"Thessaly and Central Greece",19.88
+"2002-06-20",1,"Aegean",22.37
+"2002-06-20",2,"Athos",23.32
+"2002-06-20",3,"Attica",21.81
+"2002-06-20",4,"Crete",21.08
+"2002-06-20",5,"Epirus and Western Macedonia",16.6
+"2002-06-20",6,"Macedonia and Thrace",19.48
+"2002-06-20",7,"Peloponnese, Western Greece and the Ionian Islands",19.87
+"2002-06-20",8,"Thessaly and Central Greece",19.31
+"2002-06-21",1,"Aegean",22.93
+"2002-06-21",2,"Athos",24.34
+"2002-06-21",3,"Attica",21.56
+"2002-06-21",4,"Crete",20.66
+"2002-06-21",5,"Epirus and Western Macedonia",15.65
+"2002-06-21",6,"Macedonia and Thrace",19.28
+"2002-06-21",7,"Peloponnese, Western Greece and the Ionian Islands",18.62
+"2002-06-21",8,"Thessaly and Central Greece",18.2
+"2002-06-22",1,"Aegean",23.38
+"2002-06-22",2,"Athos",25.55
+"2002-06-22",3,"Attica",22.78
+"2002-06-22",4,"Crete",21.56
+"2002-06-22",5,"Epirus and Western Macedonia",17.11
+"2002-06-22",6,"Macedonia and Thrace",20.69
+"2002-06-22",7,"Peloponnese, Western Greece and the Ionian Islands",19.86
+"2002-06-22",8,"Thessaly and Central Greece",18.85
+"2002-06-23",1,"Aegean",23.43
+"2002-06-23",2,"Athos",25.95
+"2002-06-23",3,"Attica",23.4
+"2002-06-23",4,"Crete",21.2
+"2002-06-23",5,"Epirus and Western Macedonia",19
+"2002-06-23",6,"Macedonia and Thrace",22.71
+"2002-06-23",7,"Peloponnese, Western Greece and the Ionian Islands",21.09
+"2002-06-23",8,"Thessaly and Central Greece",20.9
+"2002-06-24",1,"Aegean",23.68
+"2002-06-24",2,"Athos",25.82
+"2002-06-24",3,"Attica",23.11
+"2002-06-24",4,"Crete",22.42
+"2002-06-24",5,"Epirus and Western Macedonia",17.49
+"2002-06-24",6,"Macedonia and Thrace",23.15
+"2002-06-24",7,"Peloponnese, Western Greece and the Ionian Islands",20.98
+"2002-06-24",8,"Thessaly and Central Greece",20.56
+"2002-06-25",1,"Aegean",22.93
+"2002-06-25",2,"Athos",25.24
+"2002-06-25",3,"Attica",22.18
+"2002-06-25",4,"Crete",22.45
+"2002-06-25",5,"Epirus and Western Macedonia",18.76
+"2002-06-25",6,"Macedonia and Thrace",23.01
+"2002-06-25",7,"Peloponnese, Western Greece and the Ionian Islands",20.63
+"2002-06-25",8,"Thessaly and Central Greece",20.03
+"2002-06-26",1,"Aegean",22.99
+"2002-06-26",2,"Athos",25.42
+"2002-06-26",3,"Attica",23.31
+"2002-06-26",4,"Crete",22.91
+"2002-06-26",5,"Epirus and Western Macedonia",16.1
+"2002-06-26",6,"Macedonia and Thrace",21.48
+"2002-06-26",7,"Peloponnese, Western Greece and the Ionian Islands",20.55
+"2002-06-26",8,"Thessaly and Central Greece",20.49
+"2002-06-27",1,"Aegean",22.89
+"2002-06-27",2,"Athos",22.73
+"2002-06-27",3,"Attica",22.37
+"2002-06-27",4,"Crete",22.29
+"2002-06-27",5,"Epirus and Western Macedonia",17.39
+"2002-06-27",6,"Macedonia and Thrace",19.85
+"2002-06-27",7,"Peloponnese, Western Greece and the Ionian Islands",20.34
+"2002-06-27",8,"Thessaly and Central Greece",19.68
+"2002-06-28",1,"Aegean",22.55
+"2002-06-28",2,"Athos",23.34
+"2002-06-28",3,"Attica",21.11
+"2002-06-28",4,"Crete",21.54
+"2002-06-28",5,"Epirus and Western Macedonia",15.8
+"2002-06-28",6,"Macedonia and Thrace",18.28
+"2002-06-28",7,"Peloponnese, Western Greece and the Ionian Islands",19.96
+"2002-06-28",8,"Thessaly and Central Greece",18.22
+"2002-06-29",1,"Aegean",22.67
+"2002-06-29",2,"Athos",23.27
+"2002-06-29",3,"Attica",21.82
+"2002-06-29",4,"Crete",20.28
+"2002-06-29",5,"Epirus and Western Macedonia",16.73
+"2002-06-29",6,"Macedonia and Thrace",19.93
+"2002-06-29",7,"Peloponnese, Western Greece and the Ionian Islands",19.61
+"2002-06-29",8,"Thessaly and Central Greece",19.37
+"2002-06-30",1,"Aegean",22.78
+"2002-06-30",2,"Athos",23.27
+"2002-06-30",3,"Attica",22.89
+"2002-06-30",4,"Crete",22.43
+"2002-06-30",5,"Epirus and Western Macedonia",16.89
+"2002-06-30",6,"Macedonia and Thrace",21.25
+"2002-06-30",7,"Peloponnese, Western Greece and the Ionian Islands",20.45
+"2002-06-30",8,"Thessaly and Central Greece",20.09
+"2002-07-01",1,"Aegean",23.18
+"2002-07-01",2,"Athos",24.12
+"2002-07-01",3,"Attica",22.53
+"2002-07-01",4,"Crete",22.29
+"2002-07-01",5,"Epirus and Western Macedonia",18.36
+"2002-07-01",6,"Macedonia and Thrace",20.11
+"2002-07-01",7,"Peloponnese, Western Greece and the Ionian Islands",20.73
+"2002-07-01",8,"Thessaly and Central Greece",20.76
+"2002-07-02",1,"Aegean",23.1
+"2002-07-02",2,"Athos",23.1
+"2002-07-02",3,"Attica",22.52
+"2002-07-02",4,"Crete",22.73
+"2002-07-02",5,"Epirus and Western Macedonia",15.98
+"2002-07-02",6,"Macedonia and Thrace",18.12
+"2002-07-02",7,"Peloponnese, Western Greece and the Ionian Islands",19.79
+"2002-07-02",8,"Thessaly and Central Greece",19.18
+"2002-07-03",1,"Aegean",23.64
+"2002-07-03",2,"Athos",24.02
+"2002-07-03",3,"Attica",22.58
+"2002-07-03",4,"Crete",22.52
+"2002-07-03",5,"Epirus and Western Macedonia",18.57
+"2002-07-03",6,"Macedonia and Thrace",20.84
+"2002-07-03",7,"Peloponnese, Western Greece and the Ionian Islands",21.38
+"2002-07-03",8,"Thessaly and Central Greece",20.91
+"2002-07-04",1,"Aegean",23.97
+"2002-07-04",2,"Athos",23.98
+"2002-07-04",3,"Attica",23.59
+"2002-07-04",4,"Crete",23.51
+"2002-07-04",5,"Epirus and Western Macedonia",19.3
+"2002-07-04",6,"Macedonia and Thrace",21.73
+"2002-07-04",7,"Peloponnese, Western Greece and the Ionian Islands",21.83
+"2002-07-04",8,"Thessaly and Central Greece",21.69
+"2002-07-05",1,"Aegean",23.75
+"2002-07-05",2,"Athos",24.55
+"2002-07-05",3,"Attica",23.62
+"2002-07-05",4,"Crete",23.71
+"2002-07-05",5,"Epirus and Western Macedonia",18.47
+"2002-07-05",6,"Macedonia and Thrace",21.22
+"2002-07-05",7,"Peloponnese, Western Greece and the Ionian Islands",21.58
+"2002-07-05",8,"Thessaly and Central Greece",21.13
+"2002-07-06",1,"Aegean",23.95
+"2002-07-06",2,"Athos",25.28
+"2002-07-06",3,"Attica",23.81
+"2002-07-06",4,"Crete",22.85
+"2002-07-06",5,"Epirus and Western Macedonia",20.33
+"2002-07-06",6,"Macedonia and Thrace",23.06
+"2002-07-06",7,"Peloponnese, Western Greece and the Ionian Islands",22.87
+"2002-07-06",8,"Thessaly and Central Greece",22.25
+"2002-07-07",1,"Aegean",23.95
+"2002-07-07",2,"Athos",25.42
+"2002-07-07",3,"Attica",22.77
+"2002-07-07",4,"Crete",22.71
+"2002-07-07",5,"Epirus and Western Macedonia",17.87
+"2002-07-07",6,"Macedonia and Thrace",22.28
+"2002-07-07",7,"Peloponnese, Western Greece and the Ionian Islands",21.03
+"2002-07-07",8,"Thessaly and Central Greece",20.86
+"2002-07-08",1,"Aegean",24.13
+"2002-07-08",2,"Athos",25.98
+"2002-07-08",3,"Attica",23.62
+"2002-07-08",4,"Crete",23.85
+"2002-07-08",5,"Epirus and Western Macedonia",17.71
+"2002-07-08",6,"Macedonia and Thrace",21.47
+"2002-07-08",7,"Peloponnese, Western Greece and the Ionian Islands",21.08
+"2002-07-08",8,"Thessaly and Central Greece",21
+"2002-07-09",1,"Aegean",24.6
+"2002-07-09",2,"Athos",25.8
+"2002-07-09",3,"Attica",23.94
+"2002-07-09",4,"Crete",23.24
+"2002-07-09",5,"Epirus and Western Macedonia",18.2
+"2002-07-09",6,"Macedonia and Thrace",21.81
+"2002-07-09",7,"Peloponnese, Western Greece and the Ionian Islands",20.8
+"2002-07-09",8,"Thessaly and Central Greece",20.55
+"2002-07-10",1,"Aegean",24.14
+"2002-07-10",2,"Athos",25.47
+"2002-07-10",3,"Attica",23.21
+"2002-07-10",4,"Crete",23.49
+"2002-07-10",5,"Epirus and Western Macedonia",18.37
+"2002-07-10",6,"Macedonia and Thrace",22.33
+"2002-07-10",7,"Peloponnese, Western Greece and the Ionian Islands",21.35
+"2002-07-10",8,"Thessaly and Central Greece",21.05
+"2002-07-11",1,"Aegean",23.83
+"2002-07-11",2,"Athos",25.45
+"2002-07-11",3,"Attica",23.61
+"2002-07-11",4,"Crete",23.68
+"2002-07-11",5,"Epirus and Western Macedonia",17.5
+"2002-07-11",6,"Macedonia and Thrace",21.25
+"2002-07-11",7,"Peloponnese, Western Greece and the Ionian Islands",20.89
+"2002-07-11",8,"Thessaly and Central Greece",20.81
+"2002-07-12",1,"Aegean",24.7
+"2002-07-12",2,"Athos",27.04
+"2002-07-12",3,"Attica",24.89
+"2002-07-12",4,"Crete",24.82
+"2002-07-12",5,"Epirus and Western Macedonia",19.92
+"2002-07-12",6,"Macedonia and Thrace",23.1
+"2002-07-12",7,"Peloponnese, Western Greece and the Ionian Islands",21.89
+"2002-07-12",8,"Thessaly and Central Greece",22.5
+"2002-07-13",1,"Aegean",25.63
+"2002-07-13",2,"Athos",26.85
+"2002-07-13",3,"Attica",25.68
+"2002-07-13",4,"Crete",25.08
+"2002-07-13",5,"Epirus and Western Macedonia",20.17
+"2002-07-13",6,"Macedonia and Thrace",23.04
+"2002-07-13",7,"Peloponnese, Western Greece and the Ionian Islands",22.92
+"2002-07-13",8,"Thessaly and Central Greece",23.13
+"2002-07-14",1,"Aegean",25.18
+"2002-07-14",2,"Athos",27.01
+"2002-07-14",3,"Attica",24.51
+"2002-07-14",4,"Crete",24.17
+"2002-07-14",5,"Epirus and Western Macedonia",16.56
+"2002-07-14",6,"Macedonia and Thrace",22.23
+"2002-07-14",7,"Peloponnese, Western Greece and the Ionian Islands",21.65
+"2002-07-14",8,"Thessaly and Central Greece",20.92
+"2002-07-15",1,"Aegean",25.41
+"2002-07-15",2,"Athos",26.37
+"2002-07-15",3,"Attica",25.06
+"2002-07-15",4,"Crete",24.97
+"2002-07-15",5,"Epirus and Western Macedonia",18.53
+"2002-07-15",6,"Macedonia and Thrace",23.44
+"2002-07-15",7,"Peloponnese, Western Greece and the Ionian Islands",22.01
+"2002-07-15",8,"Thessaly and Central Greece",22.17
+"2002-07-16",1,"Aegean",25.97
+"2002-07-16",2,"Athos",26.74
+"2002-07-16",3,"Attica",25.51
+"2002-07-16",4,"Crete",25.99
+"2002-07-16",5,"Epirus and Western Macedonia",20.06
+"2002-07-16",6,"Macedonia and Thrace",23.75
+"2002-07-16",7,"Peloponnese, Western Greece and the Ionian Islands",23.04
+"2002-07-16",8,"Thessaly and Central Greece",23.14
+"2002-07-17",1,"Aegean",26.27
+"2002-07-17",2,"Athos",26.55
+"2002-07-17",3,"Attica",27.37
+"2002-07-17",4,"Crete",27.57
+"2002-07-17",5,"Epirus and Western Macedonia",17.8
+"2002-07-17",6,"Macedonia and Thrace",24.28
+"2002-07-17",7,"Peloponnese, Western Greece and the Ionian Islands",22.53
+"2002-07-17",8,"Thessaly and Central Greece",22.17
+"2002-07-18",1,"Aegean",25.39
+"2002-07-18",2,"Athos",27.86
+"2002-07-18",3,"Attica",23.99
+"2002-07-18",4,"Crete",25.08
+"2002-07-18",5,"Epirus and Western Macedonia",17.16
+"2002-07-18",6,"Macedonia and Thrace",23.58
+"2002-07-18",7,"Peloponnese, Western Greece and the Ionian Islands",20.89
+"2002-07-18",8,"Thessaly and Central Greece",20.7
+"2002-07-19",1,"Aegean",24.87
+"2002-07-19",2,"Athos",26.79
+"2002-07-19",3,"Attica",24.3
+"2002-07-19",4,"Crete",23.12
+"2002-07-19",5,"Epirus and Western Macedonia",15.82
+"2002-07-19",6,"Macedonia and Thrace",22.08
+"2002-07-19",7,"Peloponnese, Western Greece and the Ionian Islands",20.5
+"2002-07-19",8,"Thessaly and Central Greece",20.42
+"2002-07-20",1,"Aegean",24.85
+"2002-07-20",2,"Athos",26.29
+"2002-07-20",3,"Attica",23.74
+"2002-07-20",4,"Crete",22.6
+"2002-07-20",5,"Epirus and Western Macedonia",17.16
+"2002-07-20",6,"Macedonia and Thrace",23.64
+"2002-07-20",7,"Peloponnese, Western Greece and the Ionian Islands",20.45
+"2002-07-20",8,"Thessaly and Central Greece",20.76
+"2002-07-21",1,"Aegean",25.4
+"2002-07-21",2,"Athos",26.59
+"2002-07-21",3,"Attica",24.85
+"2002-07-21",4,"Crete",23.09
+"2002-07-21",5,"Epirus and Western Macedonia",17.35
+"2002-07-21",6,"Macedonia and Thrace",21.36
+"2002-07-21",7,"Peloponnese, Western Greece and the Ionian Islands",21.07
+"2002-07-21",8,"Thessaly and Central Greece",21.56
+"2002-07-22",1,"Aegean",25.79
+"2002-07-22",2,"Athos",26.69
+"2002-07-22",3,"Attica",24.64
+"2002-07-22",4,"Crete",24.32
+"2002-07-22",5,"Epirus and Western Macedonia",16.78
+"2002-07-22",6,"Macedonia and Thrace",21.64
+"2002-07-22",7,"Peloponnese, Western Greece and the Ionian Islands",21.71
+"2002-07-22",8,"Thessaly and Central Greece",21.35
+"2002-07-23",1,"Aegean",25.75
+"2002-07-23",2,"Athos",27
+"2002-07-23",3,"Attica",24.38
+"2002-07-23",4,"Crete",24.6
+"2002-07-23",5,"Epirus and Western Macedonia",18.76
+"2002-07-23",6,"Macedonia and Thrace",23.1
+"2002-07-23",7,"Peloponnese, Western Greece and the Ionian Islands",22.42
+"2002-07-23",8,"Thessaly and Central Greece",22.64
+"2002-07-24",1,"Aegean",26.34
+"2002-07-24",2,"Athos",26.87
+"2002-07-24",3,"Attica",24.8
+"2002-07-24",4,"Crete",24.93
+"2002-07-24",5,"Epirus and Western Macedonia",16.99
+"2002-07-24",6,"Macedonia and Thrace",19.93
+"2002-07-24",7,"Peloponnese, Western Greece and the Ionian Islands",21.81
+"2002-07-24",8,"Thessaly and Central Greece",22.4
+"2002-07-25",1,"Aegean",24.92
+"2002-07-25",2,"Athos",25.87
+"2002-07-25",3,"Attica",23.31
+"2002-07-25",4,"Crete",24.95
+"2002-07-25",5,"Epirus and Western Macedonia",20
+"2002-07-25",6,"Macedonia and Thrace",21.25
+"2002-07-25",7,"Peloponnese, Western Greece and the Ionian Islands",21.73
+"2002-07-25",8,"Thessaly and Central Greece",22.09
+"2002-07-26",1,"Aegean",24.79
+"2002-07-26",2,"Athos",25.01
+"2002-07-26",3,"Attica",24.36
+"2002-07-26",4,"Crete",24.62
+"2002-07-26",5,"Epirus and Western Macedonia",16.97
+"2002-07-26",6,"Macedonia and Thrace",19.69
+"2002-07-26",7,"Peloponnese, Western Greece and the Ionian Islands",21.48
+"2002-07-26",8,"Thessaly and Central Greece",20.79
+"2002-07-27",1,"Aegean",24.07
+"2002-07-27",2,"Athos",25.37
+"2002-07-27",3,"Attica",23.02
+"2002-07-27",4,"Crete",23.1
+"2002-07-27",5,"Epirus and Western Macedonia",15.78
+"2002-07-27",6,"Macedonia and Thrace",20.09
+"2002-07-27",7,"Peloponnese, Western Greece and the Ionian Islands",20.55
+"2002-07-27",8,"Thessaly and Central Greece",19.53
+"2002-07-28",1,"Aegean",23.72
+"2002-07-28",2,"Athos",21.53
+"2002-07-28",3,"Attica",21.3
+"2002-07-28",4,"Crete",23.43
+"2002-07-28",5,"Epirus and Western Macedonia",15.23
+"2002-07-28",6,"Macedonia and Thrace",18.8
+"2002-07-28",7,"Peloponnese, Western Greece and the Ionian Islands",18.42
+"2002-07-28",8,"Thessaly and Central Greece",17.43
+"2002-07-29",1,"Aegean",24.6
+"2002-07-29",2,"Athos",22.35
+"2002-07-29",3,"Attica",22.78
+"2002-07-29",4,"Crete",23.34
+"2002-07-29",5,"Epirus and Western Macedonia",15.27
+"2002-07-29",6,"Macedonia and Thrace",18.92
+"2002-07-29",7,"Peloponnese, Western Greece and the Ionian Islands",19.28
+"2002-07-29",8,"Thessaly and Central Greece",18.28
+"2002-07-30",1,"Aegean",24
+"2002-07-30",2,"Athos",23.58
+"2002-07-30",3,"Attica",22.63
+"2002-07-30",4,"Crete",23.02
+"2002-07-30",5,"Epirus and Western Macedonia",14.56
+"2002-07-30",6,"Macedonia and Thrace",18.32
+"2002-07-30",7,"Peloponnese, Western Greece and the Ionian Islands",19.29
+"2002-07-30",8,"Thessaly and Central Greece",18.34
+"2002-07-31",1,"Aegean",24.12
+"2002-07-31",2,"Athos",24.19
+"2002-07-31",3,"Attica",22.75
+"2002-07-31",4,"Crete",22.73
+"2002-07-31",5,"Epirus and Western Macedonia",16.06
+"2002-07-31",6,"Macedonia and Thrace",20.41
+"2002-07-31",7,"Peloponnese, Western Greece and the Ionian Islands",19.48
+"2002-07-31",8,"Thessaly and Central Greece",19.97
+"2002-08-01",1,"Aegean",24.72
+"2002-08-01",2,"Athos",24.66
+"2002-08-01",3,"Attica",23.09
+"2002-08-01",4,"Crete",23.1
+"2002-08-01",5,"Epirus and Western Macedonia",14.93
+"2002-08-01",6,"Macedonia and Thrace",19.56
+"2002-08-01",7,"Peloponnese, Western Greece and the Ionian Islands",19.63
+"2002-08-01",8,"Thessaly and Central Greece",19
+"2002-08-02",1,"Aegean",25.24
+"2002-08-02",2,"Athos",25.53
+"2002-08-02",3,"Attica",23.95
+"2002-08-02",4,"Crete",23.22
+"2002-08-02",5,"Epirus and Western Macedonia",15.84
+"2002-08-02",6,"Macedonia and Thrace",20.87
+"2002-08-02",7,"Peloponnese, Western Greece and the Ionian Islands",20.82
+"2002-08-02",8,"Thessaly and Central Greece",20.43
+"2002-08-03",1,"Aegean",25.78
+"2002-08-03",2,"Athos",26.08
+"2002-08-03",3,"Attica",24.24
+"2002-08-03",4,"Crete",24.6
+"2002-08-03",5,"Epirus and Western Macedonia",16.74
+"2002-08-03",6,"Macedonia and Thrace",20.95
+"2002-08-03",7,"Peloponnese, Western Greece and the Ionian Islands",21.02
+"2002-08-03",8,"Thessaly and Central Greece",21.2
+"2002-08-04",1,"Aegean",26.57
+"2002-08-04",2,"Athos",26.61
+"2002-08-04",3,"Attica",25.4
+"2002-08-04",4,"Crete",25.27
+"2002-08-04",5,"Epirus and Western Macedonia",18.06
+"2002-08-04",6,"Macedonia and Thrace",21.92
+"2002-08-04",7,"Peloponnese, Western Greece and the Ionian Islands",22.48
+"2002-08-04",8,"Thessaly and Central Greece",22.69
+"2002-08-05",1,"Aegean",26.32
+"2002-08-05",2,"Athos",26.68
+"2002-08-05",3,"Attica",25.94
+"2002-08-05",4,"Crete",25.5
+"2002-08-05",5,"Epirus and Western Macedonia",17.68
+"2002-08-05",6,"Macedonia and Thrace",22.42
+"2002-08-05",7,"Peloponnese, Western Greece and the Ionian Islands",22.83
+"2002-08-05",8,"Thessaly and Central Greece",22.4
+"2002-08-06",1,"Aegean",26.54
+"2002-08-06",2,"Athos",26.45
+"2002-08-06",3,"Attica",26.84
+"2002-08-06",4,"Crete",26.55
+"2002-08-06",5,"Epirus and Western Macedonia",17.84
+"2002-08-06",6,"Macedonia and Thrace",22.17
+"2002-08-06",7,"Peloponnese, Western Greece and the Ionian Islands",22.95
+"2002-08-06",8,"Thessaly and Central Greece",22.5
+"2002-08-07",1,"Aegean",25.9
+"2002-08-07",2,"Athos",26.32
+"2002-08-07",3,"Attica",25.56
+"2002-08-07",4,"Crete",25.49
+"2002-08-07",5,"Epirus and Western Macedonia",18.24
+"2002-08-07",6,"Macedonia and Thrace",22.34
+"2002-08-07",7,"Peloponnese, Western Greece and the Ionian Islands",22.7
+"2002-08-07",8,"Thessaly and Central Greece",22.29
+"2002-08-08",1,"Aegean",26.8
+"2002-08-08",2,"Athos",25.83
+"2002-08-08",3,"Attica",25.06
+"2002-08-08",4,"Crete",25.38
+"2002-08-08",5,"Epirus and Western Macedonia",16.42
+"2002-08-08",6,"Macedonia and Thrace",19.92
+"2002-08-08",7,"Peloponnese, Western Greece and the Ionian Islands",21.41
+"2002-08-08",8,"Thessaly and Central Greece",20.89
+"2002-08-09",1,"Aegean",25.04
+"2002-08-09",2,"Athos",25.94
+"2002-08-09",3,"Attica",23.86
+"2002-08-09",4,"Crete",23.41
+"2002-08-09",5,"Epirus and Western Macedonia",14.95
+"2002-08-09",6,"Macedonia and Thrace",19.99
+"2002-08-09",7,"Peloponnese, Western Greece and the Ionian Islands",20.07
+"2002-08-09",8,"Thessaly and Central Greece",20.21
+"2002-08-10",1,"Aegean",24.77
+"2002-08-10",2,"Athos",24.87
+"2002-08-10",3,"Attica",22.47
+"2002-08-10",4,"Crete",22.62
+"2002-08-10",5,"Epirus and Western Macedonia",15.55
+"2002-08-10",6,"Macedonia and Thrace",20.46
+"2002-08-10",7,"Peloponnese, Western Greece and the Ionian Islands",18.98
+"2002-08-10",8,"Thessaly and Central Greece",19.17
+"2002-08-11",1,"Aegean",25.21
+"2002-08-11",2,"Athos",25.48
+"2002-08-11",3,"Attica",23.13
+"2002-08-11",4,"Crete",25.31
+"2002-08-11",5,"Epirus and Western Macedonia",18.95
+"2002-08-11",6,"Macedonia and Thrace",20.67
+"2002-08-11",7,"Peloponnese, Western Greece and the Ionian Islands",22.4
+"2002-08-11",8,"Thessaly and Central Greece",21.93
+"2002-08-12",1,"Aegean",27.08
+"2002-08-12",2,"Athos",26.69
+"2002-08-12",3,"Attica",26.17
+"2002-08-12",4,"Crete",28.76
+"2002-08-12",5,"Epirus and Western Macedonia",21.25
+"2002-08-12",6,"Macedonia and Thrace",22.9
+"2002-08-12",7,"Peloponnese, Western Greece and the Ionian Islands",24.29
+"2002-08-12",8,"Thessaly and Central Greece",24.41
+"2002-08-13",1,"Aegean",26.15
+"2002-08-13",2,"Athos",24.95
+"2002-08-13",3,"Attica",23.32
+"2002-08-13",4,"Crete",24.82
+"2002-08-13",5,"Epirus and Western Macedonia",15.28
+"2002-08-13",6,"Macedonia and Thrace",19.87
+"2002-08-13",7,"Peloponnese, Western Greece and the Ionian Islands",19.95
+"2002-08-13",8,"Thessaly and Central Greece",19.8
+"2002-08-14",1,"Aegean",24.57
+"2002-08-14",2,"Athos",25.93
+"2002-08-14",3,"Attica",23.79
+"2002-08-14",4,"Crete",22.62
+"2002-08-14",5,"Epirus and Western Macedonia",15.89
+"2002-08-14",6,"Macedonia and Thrace",21.37
+"2002-08-14",7,"Peloponnese, Western Greece and the Ionian Islands",19.99
+"2002-08-14",8,"Thessaly and Central Greece",21.01
+"2002-08-15",1,"Aegean",25.31
+"2002-08-15",2,"Athos",25.23
+"2002-08-15",3,"Attica",23.7
+"2002-08-15",4,"Crete",22.91
+"2002-08-15",5,"Epirus and Western Macedonia",15.18
+"2002-08-15",6,"Macedonia and Thrace",18.93
+"2002-08-15",7,"Peloponnese, Western Greece and the Ionian Islands",20.13
+"2002-08-15",8,"Thessaly and Central Greece",20.91
+"2002-08-16",1,"Aegean",24.79
+"2002-08-16",2,"Athos",25.31
+"2002-08-16",3,"Attica",23.35
+"2002-08-16",4,"Crete",22.89
+"2002-08-16",5,"Epirus and Western Macedonia",15.69
+"2002-08-16",6,"Macedonia and Thrace",19.88
+"2002-08-16",7,"Peloponnese, Western Greece and the Ionian Islands",20.22
+"2002-08-16",8,"Thessaly and Central Greece",20.54
+"2002-08-17",1,"Aegean",24.69
+"2002-08-17",2,"Athos",24.1
+"2002-08-17",3,"Attica",22.42
+"2002-08-17",4,"Crete",22.73
+"2002-08-17",5,"Epirus and Western Macedonia",14.64
+"2002-08-17",6,"Macedonia and Thrace",19.31
+"2002-08-17",7,"Peloponnese, Western Greece and the Ionian Islands",19.16
+"2002-08-17",8,"Thessaly and Central Greece",18.75
+"2002-08-18",1,"Aegean",24.36
+"2002-08-18",2,"Athos",22.19
+"2002-08-18",3,"Attica",22.26
+"2002-08-18",4,"Crete",22.17
+"2002-08-18",5,"Epirus and Western Macedonia",16.13
+"2002-08-18",6,"Macedonia and Thrace",19.3
+"2002-08-18",7,"Peloponnese, Western Greece and the Ionian Islands",19.32
+"2002-08-18",8,"Thessaly and Central Greece",19.64
+"2002-08-19",1,"Aegean",24.24
+"2002-08-19",2,"Athos",23.29
+"2002-08-19",3,"Attica",21
+"2002-08-19",4,"Crete",22.53
+"2002-08-19",5,"Epirus and Western Macedonia",15.5
+"2002-08-19",6,"Macedonia and Thrace",19.46
+"2002-08-19",7,"Peloponnese, Western Greece and the Ionian Islands",18.95
+"2002-08-19",8,"Thessaly and Central Greece",18.49
+"2002-08-20",1,"Aegean",24.21
+"2002-08-20",2,"Athos",24.16
+"2002-08-20",3,"Attica",22.46
+"2002-08-20",4,"Crete",22.54
+"2002-08-20",5,"Epirus and Western Macedonia",15.11
+"2002-08-20",6,"Macedonia and Thrace",19.53
+"2002-08-20",7,"Peloponnese, Western Greece and the Ionian Islands",19.82
+"2002-08-20",8,"Thessaly and Central Greece",18.53
+"2002-08-21",1,"Aegean",23.93
+"2002-08-21",2,"Athos",23.97
+"2002-08-21",3,"Attica",20.89
+"2002-08-21",4,"Crete",21.98
+"2002-08-21",5,"Epirus and Western Macedonia",12.71
+"2002-08-21",6,"Macedonia and Thrace",18.55
+"2002-08-21",7,"Peloponnese, Western Greece and the Ionian Islands",18.35
+"2002-08-21",8,"Thessaly and Central Greece",16.57
+"2002-08-22",1,"Aegean",24.14
+"2002-08-22",2,"Athos",23.93
+"2002-08-22",3,"Attica",21.4
+"2002-08-22",4,"Crete",22.17
+"2002-08-22",5,"Epirus and Western Macedonia",13.87
+"2002-08-22",6,"Macedonia and Thrace",17.72
+"2002-08-22",7,"Peloponnese, Western Greece and the Ionian Islands",19.21
+"2002-08-22",8,"Thessaly and Central Greece",17.91
+"2002-08-23",1,"Aegean",24.14
+"2002-08-23",2,"Athos",24.03
+"2002-08-23",3,"Attica",22.7
+"2002-08-23",4,"Crete",22.39
+"2002-08-23",5,"Epirus and Western Macedonia",14.49
+"2002-08-23",6,"Macedonia and Thrace",18.23
+"2002-08-23",7,"Peloponnese, Western Greece and the Ionian Islands",19.39
+"2002-08-23",8,"Thessaly and Central Greece",18.63
+"2002-08-24",1,"Aegean",24.65
+"2002-08-24",2,"Athos",24.89
+"2002-08-24",3,"Attica",23.16
+"2002-08-24",4,"Crete",23.13
+"2002-08-24",5,"Epirus and Western Macedonia",15.52
+"2002-08-24",6,"Macedonia and Thrace",19.58
+"2002-08-24",7,"Peloponnese, Western Greece and the Ionian Islands",20.61
+"2002-08-24",8,"Thessaly and Central Greece",20.08
+"2002-08-25",1,"Aegean",24.8
+"2002-08-25",2,"Athos",25.44
+"2002-08-25",3,"Attica",22.22
+"2002-08-25",4,"Crete",23.13
+"2002-08-25",5,"Epirus and Western Macedonia",14.63
+"2002-08-25",6,"Macedonia and Thrace",19.14
+"2002-08-25",7,"Peloponnese, Western Greece and the Ionian Islands",19.97
+"2002-08-25",8,"Thessaly and Central Greece",18.58
+"2002-08-26",1,"Aegean",24.8
+"2002-08-26",2,"Athos",25.48
+"2002-08-26",3,"Attica",23.04
+"2002-08-26",4,"Crete",23.69
+"2002-08-26",5,"Epirus and Western Macedonia",16.21
+"2002-08-26",6,"Macedonia and Thrace",19.93
+"2002-08-26",7,"Peloponnese, Western Greece and the Ionian Islands",20.8
+"2002-08-26",8,"Thessaly and Central Greece",18.67
+"2002-08-27",1,"Aegean",24.04
+"2002-08-27",2,"Athos",24.02
+"2002-08-27",3,"Attica",21.7
+"2002-08-27",4,"Crete",22.72
+"2002-08-27",5,"Epirus and Western Macedonia",14.9
+"2002-08-27",6,"Macedonia and Thrace",19.36
+"2002-08-27",7,"Peloponnese, Western Greece and the Ionian Islands",19.15
+"2002-08-27",8,"Thessaly and Central Greece",17.72
+"2002-08-28",1,"Aegean",23.99
+"2002-08-28",2,"Athos",24.19
+"2002-08-28",3,"Attica",20.95
+"2002-08-28",4,"Crete",21.97
+"2002-08-28",5,"Epirus and Western Macedonia",14.69
+"2002-08-28",6,"Macedonia and Thrace",18.75
+"2002-08-28",7,"Peloponnese, Western Greece and the Ionian Islands",19.49
+"2002-08-28",8,"Thessaly and Central Greece",17.76
+"2002-08-29",1,"Aegean",23.95
+"2002-08-29",2,"Athos",23.69
+"2002-08-29",3,"Attica",20.01
+"2002-08-29",4,"Crete",21.2
+"2002-08-29",5,"Epirus and Western Macedonia",14.99
+"2002-08-29",6,"Macedonia and Thrace",18.68
+"2002-08-29",7,"Peloponnese, Western Greece and the Ionian Islands",19.58
+"2002-08-29",8,"Thessaly and Central Greece",17.4
+"2002-08-30",1,"Aegean",23.1
+"2002-08-30",2,"Athos",23
+"2002-08-30",3,"Attica",21.13
+"2002-08-30",4,"Crete",21.66
+"2002-08-30",5,"Epirus and Western Macedonia",14.55
+"2002-08-30",6,"Macedonia and Thrace",18.93
+"2002-08-30",7,"Peloponnese, Western Greece and the Ionian Islands",18.48
+"2002-08-30",8,"Thessaly and Central Greece",17.58
+"2002-08-31",1,"Aegean",23.38
+"2002-08-31",2,"Athos",22.37
+"2002-08-31",3,"Attica",20.82
+"2002-08-31",4,"Crete",21.51
+"2002-08-31",5,"Epirus and Western Macedonia",14.47
+"2002-08-31",6,"Macedonia and Thrace",18.85
+"2002-08-31",7,"Peloponnese, Western Greece and the Ionian Islands",18.76
+"2002-08-31",8,"Thessaly and Central Greece",17.38
+"2002-09-01",1,"Aegean",22.75
+"2002-09-01",2,"Athos",23.02
+"2002-09-01",3,"Attica",19.99
+"2002-09-01",4,"Crete",20.85
+"2002-09-01",5,"Epirus and Western Macedonia",14.34
+"2002-09-01",6,"Macedonia and Thrace",18.63
+"2002-09-01",7,"Peloponnese, Western Greece and the Ionian Islands",18.33
+"2002-09-01",8,"Thessaly and Central Greece",16.94
+"2002-09-02",1,"Aegean",22.92
+"2002-09-02",2,"Athos",23.35
+"2002-09-02",3,"Attica",19.73
+"2002-09-02",4,"Crete",21.12
+"2002-09-02",5,"Epirus and Western Macedonia",14.8
+"2002-09-02",6,"Macedonia and Thrace",18.7
+"2002-09-02",7,"Peloponnese, Western Greece and the Ionian Islands",17.83
+"2002-09-02",8,"Thessaly and Central Greece",17.69
+"2002-09-03",1,"Aegean",22.9
+"2002-09-03",2,"Athos",23.8
+"2002-09-03",3,"Attica",19.86
+"2002-09-03",4,"Crete",20.69
+"2002-09-03",5,"Epirus and Western Macedonia",15.11
+"2002-09-03",6,"Macedonia and Thrace",19.28
+"2002-09-03",7,"Peloponnese, Western Greece and the Ionian Islands",17.97
+"2002-09-03",8,"Thessaly and Central Greece",17.63
+"2002-09-04",1,"Aegean",23.15
+"2002-09-04",2,"Athos",23.11
+"2002-09-04",3,"Attica",20.47
+"2002-09-04",4,"Crete",21.35
+"2002-09-04",5,"Epirus and Western Macedonia",14.26
+"2002-09-04",6,"Macedonia and Thrace",18.8
+"2002-09-04",7,"Peloponnese, Western Greece and the Ionian Islands",17.7
+"2002-09-04",8,"Thessaly and Central Greece",16.93
+"2002-09-05",1,"Aegean",22.82
+"2002-09-05",2,"Athos",22.51
+"2002-09-05",3,"Attica",21.14
+"2002-09-05",4,"Crete",21.53
+"2002-09-05",5,"Epirus and Western Macedonia",12.89
+"2002-09-05",6,"Macedonia and Thrace",17.97
+"2002-09-05",7,"Peloponnese, Western Greece and the Ionian Islands",18.11
+"2002-09-05",8,"Thessaly and Central Greece",17.09
+"2002-09-06",1,"Aegean",22.85
+"2002-09-06",2,"Athos",22.49
+"2002-09-06",3,"Attica",20.37
+"2002-09-06",4,"Crete",21.52
+"2002-09-06",5,"Epirus and Western Macedonia",12.21
+"2002-09-06",6,"Macedonia and Thrace",17.22
+"2002-09-06",7,"Peloponnese, Western Greece and the Ionian Islands",17.68
+"2002-09-06",8,"Thessaly and Central Greece",16.63
+"2002-09-07",1,"Aegean",23.14
+"2002-09-07",2,"Athos",22.71
+"2002-09-07",3,"Attica",21.31
+"2002-09-07",4,"Crete",21.77
+"2002-09-07",5,"Epirus and Western Macedonia",13.19
+"2002-09-07",6,"Macedonia and Thrace",16.73
+"2002-09-07",7,"Peloponnese, Western Greece and the Ionian Islands",17.97
+"2002-09-07",8,"Thessaly and Central Greece",16.88
+"2002-09-08",1,"Aegean",23.29
+"2002-09-08",2,"Athos",22.55
+"2002-09-08",3,"Attica",21.32
+"2002-09-08",4,"Crete",21.72
+"2002-09-08",5,"Epirus and Western Macedonia",12.82
+"2002-09-08",6,"Macedonia and Thrace",17.01
+"2002-09-08",7,"Peloponnese, Western Greece and the Ionian Islands",18.03
+"2002-09-08",8,"Thessaly and Central Greece",16.8
+"2002-09-09",1,"Aegean",23.14
+"2002-09-09",2,"Athos",23.67
+"2002-09-09",3,"Attica",19.49
+"2002-09-09",4,"Crete",21.26
+"2002-09-09",5,"Epirus and Western Macedonia",12.48
+"2002-09-09",6,"Macedonia and Thrace",17.32
+"2002-09-09",7,"Peloponnese, Western Greece and the Ionian Islands",16.97
+"2002-09-09",8,"Thessaly and Central Greece",15.89
+"2002-09-10",1,"Aegean",23.42
+"2002-09-10",2,"Athos",23.13
+"2002-09-10",3,"Attica",19.49
+"2002-09-10",4,"Crete",20.47
+"2002-09-10",5,"Epirus and Western Macedonia",13.03
+"2002-09-10",6,"Macedonia and Thrace",17.44
+"2002-09-10",7,"Peloponnese, Western Greece and the Ionian Islands",17.31
+"2002-09-10",8,"Thessaly and Central Greece",15.76
+"2002-09-11",1,"Aegean",23.31
+"2002-09-11",2,"Athos",22.03
+"2002-09-11",3,"Attica",19.72
+"2002-09-11",4,"Crete",20.69
+"2002-09-11",5,"Epirus and Western Macedonia",11.18
+"2002-09-11",6,"Macedonia and Thrace",15.47
+"2002-09-11",7,"Peloponnese, Western Greece and the Ionian Islands",16.45
+"2002-09-11",8,"Thessaly and Central Greece",15.3
+"2002-09-12",1,"Aegean",22.71
+"2002-09-12",2,"Athos",22.31
+"2002-09-12",3,"Attica",19.36
+"2002-09-12",4,"Crete",20.64
+"2002-09-12",5,"Epirus and Western Macedonia",13.27
+"2002-09-12",6,"Macedonia and Thrace",16.35
+"2002-09-12",7,"Peloponnese, Western Greece and the Ionian Islands",16.79
+"2002-09-12",8,"Thessaly and Central Greece",16.13
+"2002-09-13",1,"Aegean",22.89
+"2002-09-13",2,"Athos",20.07
+"2002-09-13",3,"Attica",19.88
+"2002-09-13",4,"Crete",21.07
+"2002-09-13",5,"Epirus and Western Macedonia",11.18
+"2002-09-13",6,"Macedonia and Thrace",16.17
+"2002-09-13",7,"Peloponnese, Western Greece and the Ionian Islands",17.29
+"2002-09-13",8,"Thessaly and Central Greece",15.11
+"2002-09-14",1,"Aegean",22.64
+"2002-09-14",2,"Athos",19.06
+"2002-09-14",3,"Attica",19.63
+"2002-09-14",4,"Crete",21.12
+"2002-09-14",5,"Epirus and Western Macedonia",12.38
+"2002-09-14",6,"Macedonia and Thrace",15.5
+"2002-09-14",7,"Peloponnese, Western Greece and the Ionian Islands",17.24
+"2002-09-14",8,"Thessaly and Central Greece",15.61
+"2002-09-15",1,"Aegean",22.03
+"2002-09-15",2,"Athos",18.84
+"2002-09-15",3,"Attica",19.62
+"2002-09-15",4,"Crete",21.78
+"2002-09-15",5,"Epirus and Western Macedonia",11.29
+"2002-09-15",6,"Macedonia and Thrace",13.26
+"2002-09-15",7,"Peloponnese, Western Greece and the Ionian Islands",17.26
+"2002-09-15",8,"Thessaly and Central Greece",15.42
+"2002-09-16",1,"Aegean",23.06
+"2002-09-16",2,"Athos",19.01
+"2002-09-16",3,"Attica",18.8
+"2002-09-16",4,"Crete",23.34
+"2002-09-16",5,"Epirus and Western Macedonia",11.05
+"2002-09-16",6,"Macedonia and Thrace",14.76
+"2002-09-16",7,"Peloponnese, Western Greece and the Ionian Islands",17.06
+"2002-09-16",8,"Thessaly and Central Greece",15.65
+"2002-09-17",1,"Aegean",21.79
+"2002-09-17",2,"Athos",20.69
+"2002-09-17",3,"Attica",18.9
+"2002-09-17",4,"Crete",20.64
+"2002-09-17",5,"Epirus and Western Macedonia",9.89
+"2002-09-17",6,"Macedonia and Thrace",12.59
+"2002-09-17",7,"Peloponnese, Western Greece and the Ionian Islands",15.22
+"2002-09-17",8,"Thessaly and Central Greece",14.06
+"2002-09-18",1,"Aegean",21.24
+"2002-09-18",2,"Athos",20.55
+"2002-09-18",3,"Attica",18.36
+"2002-09-18",4,"Crete",20.17
+"2002-09-18",5,"Epirus and Western Macedonia",9.47
+"2002-09-18",6,"Macedonia and Thrace",12.06
+"2002-09-18",7,"Peloponnese, Western Greece and the Ionian Islands",15.04
+"2002-09-18",8,"Thessaly and Central Greece",13.67
+"2002-09-19",1,"Aegean",21.52
+"2002-09-19",2,"Athos",20.7
+"2002-09-19",3,"Attica",19.5
+"2002-09-19",4,"Crete",20.53
+"2002-09-19",5,"Epirus and Western Macedonia",9.78
+"2002-09-19",6,"Macedonia and Thrace",12.68
+"2002-09-19",7,"Peloponnese, Western Greece and the Ionian Islands",16.1
+"2002-09-19",8,"Thessaly and Central Greece",14.41
+"2002-09-20",1,"Aegean",21.92
+"2002-09-20",2,"Athos",20.84
+"2002-09-20",3,"Attica",20.61
+"2002-09-20",4,"Crete",20.48
+"2002-09-20",5,"Epirus and Western Macedonia",11.03
+"2002-09-20",6,"Macedonia and Thrace",14.53
+"2002-09-20",7,"Peloponnese, Western Greece and the Ionian Islands",16.37
+"2002-09-20",8,"Thessaly and Central Greece",15.52
+"2002-09-21",1,"Aegean",22.21
+"2002-09-21",2,"Athos",21.15
+"2002-09-21",3,"Attica",20.73
+"2002-09-21",4,"Crete",20.28
+"2002-09-21",5,"Epirus and Western Macedonia",13.68
+"2002-09-21",6,"Macedonia and Thrace",16.31
+"2002-09-21",7,"Peloponnese, Western Greece and the Ionian Islands",17.82
+"2002-09-21",8,"Thessaly and Central Greece",16.88
+"2002-09-22",1,"Aegean",22.72
+"2002-09-22",2,"Athos",21.96
+"2002-09-22",3,"Attica",20.91
+"2002-09-22",4,"Crete",20.77
+"2002-09-22",5,"Epirus and Western Macedonia",14.99
+"2002-09-22",6,"Macedonia and Thrace",16.63
+"2002-09-22",7,"Peloponnese, Western Greece and the Ionian Islands",18.84
+"2002-09-22",8,"Thessaly and Central Greece",17.46
+"2002-09-23",1,"Aegean",22.89
+"2002-09-23",2,"Athos",22.6
+"2002-09-23",3,"Attica",22
+"2002-09-23",4,"Crete",21.69
+"2002-09-23",5,"Epirus and Western Macedonia",17.02
+"2002-09-23",6,"Macedonia and Thrace",20.08
+"2002-09-23",7,"Peloponnese, Western Greece and the Ionian Islands",19.57
+"2002-09-23",8,"Thessaly and Central Greece",18.97
+"2002-09-24",1,"Aegean",23.96
+"2002-09-24",2,"Athos",24.1
+"2002-09-24",3,"Attica",24.22
+"2002-09-24",4,"Crete",24.25
+"2002-09-24",5,"Epirus and Western Macedonia",13.42
+"2002-09-24",6,"Macedonia and Thrace",18.35
+"2002-09-24",7,"Peloponnese, Western Greece and the Ionian Islands",20.74
+"2002-09-24",8,"Thessaly and Central Greece",18.38
+"2002-09-25",1,"Aegean",23.64
+"2002-09-25",2,"Athos",23.49
+"2002-09-25",3,"Attica",22.78
+"2002-09-25",4,"Crete",24.98
+"2002-09-25",5,"Epirus and Western Macedonia",14.01
+"2002-09-25",6,"Macedonia and Thrace",18.23
+"2002-09-25",7,"Peloponnese, Western Greece and the Ionian Islands",20.13
+"2002-09-25",8,"Thessaly and Central Greece",18.27
+"2002-09-26",1,"Aegean",23.56
+"2002-09-26",2,"Athos",22.74
+"2002-09-26",3,"Attica",21.78
+"2002-09-26",4,"Crete",23.28
+"2002-09-26",5,"Epirus and Western Macedonia",13.87
+"2002-09-26",6,"Macedonia and Thrace",17
+"2002-09-26",7,"Peloponnese, Western Greece and the Ionian Islands",19.26
+"2002-09-26",8,"Thessaly and Central Greece",17.67
+"2002-09-27",1,"Aegean",23.25
+"2002-09-27",2,"Athos",21.44
+"2002-09-27",3,"Attica",20.63
+"2002-09-27",4,"Crete",21.58
+"2002-09-27",5,"Epirus and Western Macedonia",10.74
+"2002-09-27",6,"Macedonia and Thrace",15.22
+"2002-09-27",7,"Peloponnese, Western Greece and the Ionian Islands",17
+"2002-09-27",8,"Thessaly and Central Greece",15.42
+"2002-09-28",1,"Aegean",22.3
+"2002-09-28",2,"Athos",20.79
+"2002-09-28",3,"Attica",18.83
+"2002-09-28",4,"Crete",20.63
+"2002-09-28",5,"Epirus and Western Macedonia",8.89
+"2002-09-28",6,"Macedonia and Thrace",13.39
+"2002-09-28",7,"Peloponnese, Western Greece and the Ionian Islands",14.73
+"2002-09-28",8,"Thessaly and Central Greece",13.16
+"2002-09-29",1,"Aegean",21.37
+"2002-09-29",2,"Athos",18.95
+"2002-09-29",3,"Attica",18.27
+"2002-09-29",4,"Crete",19.81
+"2002-09-29",5,"Epirus and Western Macedonia",11.08
+"2002-09-29",6,"Macedonia and Thrace",14.51
+"2002-09-29",7,"Peloponnese, Western Greece and the Ionian Islands",15.16
+"2002-09-29",8,"Thessaly and Central Greece",14.61
+"2002-09-30",1,"Aegean",21.49
+"2002-09-30",2,"Athos",18.31
+"2002-09-30",3,"Attica",16.89
+"2002-09-30",4,"Crete",19.89
+"2002-09-30",5,"Epirus and Western Macedonia",8.76
+"2002-09-30",6,"Macedonia and Thrace",13.63
+"2002-09-30",7,"Peloponnese, Western Greece and the Ionian Islands",13.48
+"2002-09-30",8,"Thessaly and Central Greece",12.53
+"2002-10-01",1,"Aegean",20.86
+"2002-10-01",2,"Athos",17.01
+"2002-10-01",3,"Attica",17.45
+"2002-10-01",4,"Crete",18.83
+"2002-10-01",5,"Epirus and Western Macedonia",6.84
+"2002-10-01",6,"Macedonia and Thrace",12.51
+"2002-10-01",7,"Peloponnese, Western Greece and the Ionian Islands",13.17
+"2002-10-01",8,"Thessaly and Central Greece",11.72
+"2002-10-02",1,"Aegean",19.01
+"2002-10-02",2,"Athos",15.75
+"2002-10-02",3,"Attica",16.74
+"2002-10-02",4,"Crete",18.59
+"2002-10-02",5,"Epirus and Western Macedonia",6.44
+"2002-10-02",6,"Macedonia and Thrace",10.69
+"2002-10-02",7,"Peloponnese, Western Greece and the Ionian Islands",12.84
+"2002-10-02",8,"Thessaly and Central Greece",11.29
+"2002-10-03",1,"Aegean",18.39
+"2002-10-03",2,"Athos",17.17
+"2002-10-03",3,"Attica",15.08
+"2002-10-03",4,"Crete",17.47
+"2002-10-03",5,"Epirus and Western Macedonia",5.39
+"2002-10-03",6,"Macedonia and Thrace",9.73
+"2002-10-03",7,"Peloponnese, Western Greece and the Ionian Islands",13.3
+"2002-10-03",8,"Thessaly and Central Greece",10.8
+"2002-10-04",1,"Aegean",19.69
+"2002-10-04",2,"Athos",18.14
+"2002-10-04",3,"Attica",15.48
+"2002-10-04",4,"Crete",18.39
+"2002-10-04",5,"Epirus and Western Macedonia",7.7
+"2002-10-04",6,"Macedonia and Thrace",10.43
+"2002-10-04",7,"Peloponnese, Western Greece and the Ionian Islands",13.77
+"2002-10-04",8,"Thessaly and Central Greece",11.12
+"2002-10-05",1,"Aegean",19.35
+"2002-10-05",2,"Athos",18.16
+"2002-10-05",3,"Attica",17.49
+"2002-10-05",4,"Crete",17.03
+"2002-10-05",5,"Epirus and Western Macedonia",7.72
+"2002-10-05",6,"Macedonia and Thrace",10.06
+"2002-10-05",7,"Peloponnese, Western Greece and the Ionian Islands",13.95
+"2002-10-05",8,"Thessaly and Central Greece",11.97
+"2002-10-06",1,"Aegean",19.67
+"2002-10-06",2,"Athos",18.8
+"2002-10-06",3,"Attica",17.96
+"2002-10-06",4,"Crete",18.54
+"2002-10-06",5,"Epirus and Western Macedonia",11.39
+"2002-10-06",6,"Macedonia and Thrace",13.32
+"2002-10-06",7,"Peloponnese, Western Greece and the Ionian Islands",15.84
+"2002-10-06",8,"Thessaly and Central Greece",14.87
+"2002-10-07",1,"Aegean",20.77
+"2002-10-07",2,"Athos",18.48
+"2002-10-07",3,"Attica",18.79
+"2002-10-07",4,"Crete",17.8
+"2002-10-07",5,"Epirus and Western Macedonia",11.33
+"2002-10-07",6,"Macedonia and Thrace",14.48
+"2002-10-07",7,"Peloponnese, Western Greece and the Ionian Islands",15.31
+"2002-10-07",8,"Thessaly and Central Greece",14.86
+"2002-10-08",1,"Aegean",21.41
+"2002-10-08",2,"Athos",20.21
+"2002-10-08",3,"Attica",18.81
+"2002-10-08",4,"Crete",19.23
+"2002-10-08",5,"Epirus and Western Macedonia",10.04
+"2002-10-08",6,"Macedonia and Thrace",13.28
+"2002-10-08",7,"Peloponnese, Western Greece and the Ionian Islands",15.51
+"2002-10-08",8,"Thessaly and Central Greece",14.23
+"2002-10-09",1,"Aegean",20.98
+"2002-10-09",2,"Athos",18.84
+"2002-10-09",3,"Attica",17.18
+"2002-10-09",4,"Crete",18.7
+"2002-10-09",5,"Epirus and Western Macedonia",8.16
+"2002-10-09",6,"Macedonia and Thrace",11.98
+"2002-10-09",7,"Peloponnese, Western Greece and the Ionian Islands",14.1
+"2002-10-09",8,"Thessaly and Central Greece",12.62
+"2002-10-10",1,"Aegean",20.49
+"2002-10-10",2,"Athos",19.06
+"2002-10-10",3,"Attica",17.1
+"2002-10-10",4,"Crete",18.63
+"2002-10-10",5,"Epirus and Western Macedonia",9.66
+"2002-10-10",6,"Macedonia and Thrace",12.79
+"2002-10-10",7,"Peloponnese, Western Greece and the Ionian Islands",14.49
+"2002-10-10",8,"Thessaly and Central Greece",12.61
+"2002-10-11",1,"Aegean",21.37
+"2002-10-11",2,"Athos",20.88
+"2002-10-11",3,"Attica",20.15
+"2002-10-11",4,"Crete",20.68
+"2002-10-11",5,"Epirus and Western Macedonia",15.16
+"2002-10-11",6,"Macedonia and Thrace",16.42
+"2002-10-11",7,"Peloponnese, Western Greece and the Ionian Islands",18.88
+"2002-10-11",8,"Thessaly and Central Greece",17.13
+"2002-10-12",1,"Aegean",21.84
+"2002-10-12",2,"Athos",21.79
+"2002-10-12",3,"Attica",21.48
+"2002-10-12",4,"Crete",21.78
+"2002-10-12",5,"Epirus and Western Macedonia",15.72
+"2002-10-12",6,"Macedonia and Thrace",17.38
+"2002-10-12",7,"Peloponnese, Western Greece and the Ionian Islands",19.47
+"2002-10-12",8,"Thessaly and Central Greece",18.27
+"2002-10-13",1,"Aegean",20.94
+"2002-10-13",2,"Athos",20.36
+"2002-10-13",3,"Attica",19.01
+"2002-10-13",4,"Crete",19.73
+"2002-10-13",5,"Epirus and Western Macedonia",13.07
+"2002-10-13",6,"Macedonia and Thrace",15.77
+"2002-10-13",7,"Peloponnese, Western Greece and the Ionian Islands",16.25
+"2002-10-13",8,"Thessaly and Central Greece",15.59
+"2002-10-14",1,"Aegean",20.18
+"2002-10-14",2,"Athos",19.39
+"2002-10-14",3,"Attica",17.26
+"2002-10-14",4,"Crete",18.02
+"2002-10-14",5,"Epirus and Western Macedonia",10.41
+"2002-10-14",6,"Macedonia and Thrace",15.12
+"2002-10-14",7,"Peloponnese, Western Greece and the Ionian Islands",13.95
+"2002-10-14",8,"Thessaly and Central Greece",13.37
+"2002-10-15",1,"Aegean",19.68
+"2002-10-15",2,"Athos",18.68
+"2002-10-15",3,"Attica",18.18
+"2002-10-15",4,"Crete",16.94
+"2002-10-15",5,"Epirus and Western Macedonia",9.87
+"2002-10-15",6,"Macedonia and Thrace",14.14
+"2002-10-15",7,"Peloponnese, Western Greece and the Ionian Islands",14.94
+"2002-10-15",8,"Thessaly and Central Greece",14.33
+"2002-10-16",1,"Aegean",19.75
+"2002-10-16",2,"Athos",18.43
+"2002-10-16",3,"Attica",16.58
+"2002-10-16",4,"Crete",18.59
+"2002-10-16",5,"Epirus and Western Macedonia",8.6
+"2002-10-16",6,"Macedonia and Thrace",13.63
+"2002-10-16",7,"Peloponnese, Western Greece and the Ionian Islands",14.76
+"2002-10-16",8,"Thessaly and Central Greece",13
+"2002-10-17",1,"Aegean",19.8
+"2002-10-17",2,"Athos",18.36
+"2002-10-17",3,"Attica",17.58
+"2002-10-17",4,"Crete",17.88
+"2002-10-17",5,"Epirus and Western Macedonia",10.08
+"2002-10-17",6,"Macedonia and Thrace",12.58
+"2002-10-17",7,"Peloponnese, Western Greece and the Ionian Islands",15.27
+"2002-10-17",8,"Thessaly and Central Greece",14.13
+"2002-10-18",1,"Aegean",20.16
+"2002-10-18",2,"Athos",18.75
+"2002-10-18",3,"Attica",17.87
+"2002-10-18",4,"Crete",17.81
+"2002-10-18",5,"Epirus and Western Macedonia",9.36
+"2002-10-18",6,"Macedonia and Thrace",13.25
+"2002-10-18",7,"Peloponnese, Western Greece and the Ionian Islands",14.41
+"2002-10-18",8,"Thessaly and Central Greece",13.46
+"2002-10-19",1,"Aegean",20.71
+"2002-10-19",2,"Athos",19.07
+"2002-10-19",3,"Attica",17.37
+"2002-10-19",4,"Crete",17.95
+"2002-10-19",5,"Epirus and Western Macedonia",11.28
+"2002-10-19",6,"Macedonia and Thrace",14.71
+"2002-10-19",7,"Peloponnese, Western Greece and the Ionian Islands",14.54
+"2002-10-19",8,"Thessaly and Central Greece",13.93
+"2002-10-20",1,"Aegean",20.87
+"2002-10-20",2,"Athos",18.36
+"2002-10-20",3,"Attica",18.26
+"2002-10-20",4,"Crete",18.76
+"2002-10-20",5,"Epirus and Western Macedonia",7.04
+"2002-10-20",6,"Macedonia and Thrace",12.49
+"2002-10-20",7,"Peloponnese, Western Greece and the Ionian Islands",15.12
+"2002-10-20",8,"Thessaly and Central Greece",13.23
+"2002-10-21",1,"Aegean",18.97
+"2002-10-21",2,"Athos",17.6
+"2002-10-21",3,"Attica",14.66
+"2002-10-21",4,"Crete",17.77
+"2002-10-21",5,"Epirus and Western Macedonia",4.82
+"2002-10-21",6,"Macedonia and Thrace",8.58
+"2002-10-21",7,"Peloponnese, Western Greece and the Ionian Islands",12.34
+"2002-10-21",8,"Thessaly and Central Greece",10.2
+"2002-10-22",1,"Aegean",18.89
+"2002-10-22",2,"Athos",17.9
+"2002-10-22",3,"Attica",16.76
+"2002-10-22",4,"Crete",17.16
+"2002-10-22",5,"Epirus and Western Macedonia",6.99
+"2002-10-22",6,"Macedonia and Thrace",9.85
+"2002-10-22",7,"Peloponnese, Western Greece and the Ionian Islands",13.56
+"2002-10-22",8,"Thessaly and Central Greece",11.09
+"2002-10-23",1,"Aegean",20.28
+"2002-10-23",2,"Athos",19.07
+"2002-10-23",3,"Attica",18.7
+"2002-10-23",4,"Crete",17.21
+"2002-10-23",5,"Epirus and Western Macedonia",10.45
+"2002-10-23",6,"Macedonia and Thrace",12.1
+"2002-10-23",7,"Peloponnese, Western Greece and the Ionian Islands",15.32
+"2002-10-23",8,"Thessaly and Central Greece",13.76
+"2002-10-24",1,"Aegean",21.1
+"2002-10-24",2,"Athos",19.3
+"2002-10-24",3,"Attica",18.55
+"2002-10-24",4,"Crete",18.46
+"2002-10-24",5,"Epirus and Western Macedonia",13.08
+"2002-10-24",6,"Macedonia and Thrace",13.36
+"2002-10-24",7,"Peloponnese, Western Greece and the Ionian Islands",16.36
+"2002-10-24",8,"Thessaly and Central Greece",15.15
+"2002-10-25",1,"Aegean",21.2
+"2002-10-25",2,"Athos",19.72
+"2002-10-25",3,"Attica",18.98
+"2002-10-25",4,"Crete",20.4
+"2002-10-25",5,"Epirus and Western Macedonia",8.38
+"2002-10-25",6,"Macedonia and Thrace",13.15
+"2002-10-25",7,"Peloponnese, Western Greece and the Ionian Islands",15.55
+"2002-10-25",8,"Thessaly and Central Greece",13.53
+"2002-10-26",1,"Aegean",19
+"2002-10-26",2,"Athos",17.8
+"2002-10-26",3,"Attica",15.67
+"2002-10-26",4,"Crete",17.31
+"2002-10-26",5,"Epirus and Western Macedonia",6.27
+"2002-10-26",6,"Macedonia and Thrace",11.25
+"2002-10-26",7,"Peloponnese, Western Greece and the Ionian Islands",13.04
+"2002-10-26",8,"Thessaly and Central Greece",11.22
+"2002-10-27",1,"Aegean",18.51
+"2002-10-27",2,"Athos",17.5
+"2002-10-27",3,"Attica",16.03
+"2002-10-27",4,"Crete",16.83
+"2002-10-27",5,"Epirus and Western Macedonia",6.91
+"2002-10-27",6,"Macedonia and Thrace",10.23
+"2002-10-27",7,"Peloponnese, Western Greece and the Ionian Islands",13
+"2002-10-27",8,"Thessaly and Central Greece",11.71
+"2002-10-28",1,"Aegean",19.51
+"2002-10-28",2,"Athos",18.41
+"2002-10-28",3,"Attica",14.97
+"2002-10-28",4,"Crete",17.69
+"2002-10-28",5,"Epirus and Western Macedonia",6.26
+"2002-10-28",6,"Macedonia and Thrace",9.87
+"2002-10-28",7,"Peloponnese, Western Greece and the Ionian Islands",12.55
+"2002-10-28",8,"Thessaly and Central Greece",10.03
+"2002-10-29",1,"Aegean",19.62
+"2002-10-29",2,"Athos",17.34
+"2002-10-29",3,"Attica",16.76
+"2002-10-29",4,"Crete",16.34
+"2002-10-29",5,"Epirus and Western Macedonia",6.37
+"2002-10-29",6,"Macedonia and Thrace",11.13
+"2002-10-29",7,"Peloponnese, Western Greece and the Ionian Islands",13.22
+"2002-10-29",8,"Thessaly and Central Greece",11.94
+"2002-10-30",1,"Aegean",16.49
+"2002-10-30",2,"Athos",15.06
+"2002-10-30",3,"Attica",13
+"2002-10-30",4,"Crete",15.56
+"2002-10-30",5,"Epirus and Western Macedonia",1.56
+"2002-10-30",6,"Macedonia and Thrace",5.69
+"2002-10-30",7,"Peloponnese, Western Greece and the Ionian Islands",10.3
+"2002-10-30",8,"Thessaly and Central Greece",7.41
+"2002-10-31",1,"Aegean",16.74
+"2002-10-31",2,"Athos",15.32
+"2002-10-31",3,"Attica",13.14
+"2002-10-31",4,"Crete",14.1
+"2002-10-31",5,"Epirus and Western Macedonia",2.8
+"2002-10-31",6,"Macedonia and Thrace",5.3
+"2002-10-31",7,"Peloponnese, Western Greece and the Ionian Islands",10.88
+"2002-10-31",8,"Thessaly and Central Greece",7.38
+"2002-11-01",1,"Aegean",17.68
+"2002-11-01",2,"Athos",16.8
+"2002-11-01",3,"Attica",14.03
+"2002-11-01",4,"Crete",15.27
+"2002-11-01",5,"Epirus and Western Macedonia",4.58
+"2002-11-01",6,"Macedonia and Thrace",8.24
+"2002-11-01",7,"Peloponnese, Western Greece and the Ionian Islands",10.75
+"2002-11-01",8,"Thessaly and Central Greece",9.51
+"2002-11-02",1,"Aegean",17.58
+"2002-11-02",2,"Athos",15.15
+"2002-11-02",3,"Attica",13.21
+"2002-11-02",4,"Crete",15.77
+"2002-11-02",5,"Epirus and Western Macedonia",4.21
+"2002-11-02",6,"Macedonia and Thrace",6.41
+"2002-11-02",7,"Peloponnese, Western Greece and the Ionian Islands",11.47
+"2002-11-02",8,"Thessaly and Central Greece",8.25
+"2002-11-03",1,"Aegean",16.97
+"2002-11-03",2,"Athos",16.54
+"2002-11-03",3,"Attica",13.81
+"2002-11-03",4,"Crete",15.18
+"2002-11-03",5,"Epirus and Western Macedonia",6.36
+"2002-11-03",6,"Macedonia and Thrace",8.44
+"2002-11-03",7,"Peloponnese, Western Greece and the Ionian Islands",11.72
+"2002-11-03",8,"Thessaly and Central Greece",9.29
+"2002-11-04",1,"Aegean",18.94
+"2002-11-04",2,"Athos",17.16
+"2002-11-04",3,"Attica",15.22
+"2002-11-04",4,"Crete",15.55
+"2002-11-04",5,"Epirus and Western Macedonia",6.94
+"2002-11-04",6,"Macedonia and Thrace",8.54
+"2002-11-04",7,"Peloponnese, Western Greece and the Ionian Islands",12.72
+"2002-11-04",8,"Thessaly and Central Greece",10.37
+"2002-11-05",1,"Aegean",19.32
+"2002-11-05",2,"Athos",18.21
+"2002-11-05",3,"Attica",17.8
+"2002-11-05",4,"Crete",16.55
+"2002-11-05",5,"Epirus and Western Macedonia",11.23
+"2002-11-05",6,"Macedonia and Thrace",14.02
+"2002-11-05",7,"Peloponnese, Western Greece and the Ionian Islands",15.01
+"2002-11-05",8,"Thessaly and Central Greece",14.44
+"2002-11-06",1,"Aegean",18.62
+"2002-11-06",2,"Athos",13.92
+"2002-11-06",3,"Attica",16.51
+"2002-11-06",4,"Crete",17.48
+"2002-11-06",5,"Epirus and Western Macedonia",7.74
+"2002-11-06",6,"Macedonia and Thrace",8.94
+"2002-11-06",7,"Peloponnese, Western Greece and the Ionian Islands",14.25
+"2002-11-06",8,"Thessaly and Central Greece",12.19
+"2002-11-07",1,"Aegean",19.27
+"2002-11-07",2,"Athos",11.55
+"2002-11-07",3,"Attica",14.38
+"2002-11-07",4,"Crete",19.13
+"2002-11-07",5,"Epirus and Western Macedonia",2.78
+"2002-11-07",6,"Macedonia and Thrace",5.76
+"2002-11-07",7,"Peloponnese, Western Greece and the Ionian Islands",12.9
+"2002-11-07",8,"Thessaly and Central Greece",8.93
+"2002-11-08",1,"Aegean",18.77
+"2002-11-08",2,"Athos",15.1
+"2002-11-08",3,"Attica",15.33
+"2002-11-08",4,"Crete",16.03
+"2002-11-08",5,"Epirus and Western Macedonia",5.65
+"2002-11-08",6,"Macedonia and Thrace",9.6
+"2002-11-08",7,"Peloponnese, Western Greece and the Ionian Islands",13.03
+"2002-11-08",8,"Thessaly and Central Greece",10.58
+"2002-11-09",1,"Aegean",17.33
+"2002-11-09",2,"Athos",13.96
+"2002-11-09",3,"Attica",14.43
+"2002-11-09",4,"Crete",15.44
+"2002-11-09",5,"Epirus and Western Macedonia",3.51
+"2002-11-09",6,"Macedonia and Thrace",8.07
+"2002-11-09",7,"Peloponnese, Western Greece and the Ionian Islands",11.9
+"2002-11-09",8,"Thessaly and Central Greece",10.04
+"2002-11-10",1,"Aegean",15.84
+"2002-11-10",2,"Athos",13.85
+"2002-11-10",3,"Attica",11.53
+"2002-11-10",4,"Crete",14.88
+"2002-11-10",5,"Epirus and Western Macedonia",2.96
+"2002-11-10",6,"Macedonia and Thrace",7.32
+"2002-11-10",7,"Peloponnese, Western Greece and the Ionian Islands",10.59
+"2002-11-10",8,"Thessaly and Central Greece",6.86
+"2002-11-11",1,"Aegean",16.12
+"2002-11-11",2,"Athos",11.72
+"2002-11-11",3,"Attica",14.22
+"2002-11-11",4,"Crete",15.44
+"2002-11-11",5,"Epirus and Western Macedonia",4.64
+"2002-11-11",6,"Macedonia and Thrace",6.97
+"2002-11-11",7,"Peloponnese, Western Greece and the Ionian Islands",12.03
+"2002-11-11",8,"Thessaly and Central Greece",9.99
+"2002-11-12",1,"Aegean",13.99
+"2002-11-12",2,"Athos",12.83
+"2002-11-12",3,"Attica",11.42
+"2002-11-12",4,"Crete",13.3
+"2002-11-12",5,"Epirus and Western Macedonia",2.56
+"2002-11-12",6,"Macedonia and Thrace",4.25
+"2002-11-12",7,"Peloponnese, Western Greece and the Ionian Islands",10.43
+"2002-11-12",8,"Thessaly and Central Greece",5.75
+"2002-11-13",1,"Aegean",15.93
+"2002-11-13",2,"Athos",15.35
+"2002-11-13",3,"Attica",11.9
+"2002-11-13",4,"Crete",14.87
+"2002-11-13",5,"Epirus and Western Macedonia",4.6
+"2002-11-13",6,"Macedonia and Thrace",5.55
+"2002-11-13",7,"Peloponnese, Western Greece and the Ionian Islands",10.37
+"2002-11-13",8,"Thessaly and Central Greece",8.53
+"2002-11-14",1,"Aegean",16.62
+"2002-11-14",2,"Athos",15.11
+"2002-11-14",3,"Attica",13.28
+"2002-11-14",4,"Crete",14.12
+"2002-11-14",5,"Epirus and Western Macedonia",9.17
+"2002-11-14",6,"Macedonia and Thrace",7.53
+"2002-11-14",7,"Peloponnese, Western Greece and the Ionian Islands",12.33
+"2002-11-14",8,"Thessaly and Central Greece",9.97
+"2002-11-15",1,"Aegean",17.97
+"2002-11-15",2,"Athos",16.63
+"2002-11-15",3,"Attica",14.37
+"2002-11-15",4,"Crete",14.78
+"2002-11-15",5,"Epirus and Western Macedonia",9.82
+"2002-11-15",6,"Macedonia and Thrace",9.67
+"2002-11-15",7,"Peloponnese, Western Greece and the Ionian Islands",12.62
+"2002-11-15",8,"Thessaly and Central Greece",10.82
+"2002-11-16",1,"Aegean",18.06
+"2002-11-16",2,"Athos",16.31
+"2002-11-16",3,"Attica",15.24
+"2002-11-16",4,"Crete",15.46
+"2002-11-16",5,"Epirus and Western Macedonia",8.65
+"2002-11-16",6,"Macedonia and Thrace",10.72
+"2002-11-16",7,"Peloponnese, Western Greece and the Ionian Islands",12.62
+"2002-11-16",8,"Thessaly and Central Greece",11.58
+"2002-11-17",1,"Aegean",17.63
+"2002-11-17",2,"Athos",15.21
+"2002-11-17",3,"Attica",14.38
+"2002-11-17",4,"Crete",15.22
+"2002-11-17",5,"Epirus and Western Macedonia",8.35
+"2002-11-17",6,"Macedonia and Thrace",10.37
+"2002-11-17",7,"Peloponnese, Western Greece and the Ionian Islands",12.25
+"2002-11-17",8,"Thessaly and Central Greece",10.89
+"2002-11-18",1,"Aegean",17.6
+"2002-11-18",2,"Athos",13.78
+"2002-11-18",3,"Attica",13.87
+"2002-11-18",4,"Crete",15.28
+"2002-11-18",5,"Epirus and Western Macedonia",8.09
+"2002-11-18",6,"Macedonia and Thrace",9.11
+"2002-11-18",7,"Peloponnese, Western Greece and the Ionian Islands",12.62
+"2002-11-18",8,"Thessaly and Central Greece",11.15
+"2002-11-19",1,"Aegean",18.07
+"2002-11-19",2,"Athos",14.92
+"2002-11-19",3,"Attica",13.8
+"2002-11-19",4,"Crete",15.41
+"2002-11-19",5,"Epirus and Western Macedonia",8.46
+"2002-11-19",6,"Macedonia and Thrace",10.18
+"2002-11-19",7,"Peloponnese, Western Greece and the Ionian Islands",12.35
+"2002-11-19",8,"Thessaly and Central Greece",10.61
+"2002-11-20",1,"Aegean",17.39
+"2002-11-20",2,"Athos",14.97
+"2002-11-20",3,"Attica",14.33
+"2002-11-20",4,"Crete",15.48
+"2002-11-20",5,"Epirus and Western Macedonia",8.36
+"2002-11-20",6,"Macedonia and Thrace",9.64
+"2002-11-20",7,"Peloponnese, Western Greece and the Ionian Islands",13.37
+"2002-11-20",8,"Thessaly and Central Greece",11.09
+"2002-11-21",1,"Aegean",17.18
+"2002-11-21",2,"Athos",13
+"2002-11-21",3,"Attica",13.3
+"2002-11-21",4,"Crete",14.53
+"2002-11-21",5,"Epirus and Western Macedonia",4.76
+"2002-11-21",6,"Macedonia and Thrace",6.81
+"2002-11-21",7,"Peloponnese, Western Greece and the Ionian Islands",9.69
+"2002-11-21",8,"Thessaly and Central Greece",8.52
+"2002-11-22",1,"Aegean",17.88
+"2002-11-22",2,"Athos",15.92
+"2002-11-22",3,"Attica",14.71
+"2002-11-22",4,"Crete",15.91
+"2002-11-22",5,"Epirus and Western Macedonia",7.96
+"2002-11-22",6,"Macedonia and Thrace",9.96
+"2002-11-22",7,"Peloponnese, Western Greece and the Ionian Islands",13.18
+"2002-11-22",8,"Thessaly and Central Greece",11.29
+"2002-11-23",1,"Aegean",17.24
+"2002-11-23",2,"Athos",15.35
+"2002-11-23",3,"Attica",13.71
+"2002-11-23",4,"Crete",15.31
+"2002-11-23",5,"Epirus and Western Macedonia",8.08
+"2002-11-23",6,"Macedonia and Thrace",11.38
+"2002-11-23",7,"Peloponnese, Western Greece and the Ionian Islands",12.47
+"2002-11-23",8,"Thessaly and Central Greece",10.42
+"2002-11-24",1,"Aegean",17.62
+"2002-11-24",2,"Athos",15.63
+"2002-11-24",3,"Attica",13.14
+"2002-11-24",4,"Crete",15.59
+"2002-11-24",5,"Epirus and Western Macedonia",3.9
+"2002-11-24",6,"Macedonia and Thrace",7.65
+"2002-11-24",7,"Peloponnese, Western Greece and the Ionian Islands",10.97
+"2002-11-24",8,"Thessaly and Central Greece",8.06
+"2002-11-25",1,"Aegean",16.33
+"2002-11-25",2,"Athos",15.61
+"2002-11-25",3,"Attica",13.28
+"2002-11-25",4,"Crete",13.44
+"2002-11-25",5,"Epirus and Western Macedonia",4.38
+"2002-11-25",6,"Macedonia and Thrace",6.96
+"2002-11-25",7,"Peloponnese, Western Greece and the Ionian Islands",10.3
+"2002-11-25",8,"Thessaly and Central Greece",7.93
+"2002-11-26",1,"Aegean",15.76
+"2002-11-26",2,"Athos",14.59
+"2002-11-26",3,"Attica",13.18
+"2002-11-26",4,"Crete",13.57
+"2002-11-26",5,"Epirus and Western Macedonia",3.83
+"2002-11-26",6,"Macedonia and Thrace",5.92
+"2002-11-26",7,"Peloponnese, Western Greece and the Ionian Islands",9.78
+"2002-11-26",8,"Thessaly and Central Greece",7.9
+"2002-11-27",1,"Aegean",15.51
+"2002-11-27",2,"Athos",14.06
+"2002-11-27",3,"Attica",12.83
+"2002-11-27",4,"Crete",14.13
+"2002-11-27",5,"Epirus and Western Macedonia",8.1
+"2002-11-27",6,"Macedonia and Thrace",9.69
+"2002-11-27",7,"Peloponnese, Western Greece and the Ionian Islands",11.7
+"2002-11-27",8,"Thessaly and Central Greece",10.81
+"2002-11-28",1,"Aegean",16.3
+"2002-11-28",2,"Athos",13.91
+"2002-11-28",3,"Attica",13.26
+"2002-11-28",4,"Crete",14.83
+"2002-11-28",5,"Epirus and Western Macedonia",7.06
+"2002-11-28",6,"Macedonia and Thrace",8.88
+"2002-11-28",7,"Peloponnese, Western Greece and the Ionian Islands",11.71
+"2002-11-28",8,"Thessaly and Central Greece",10.52
+"2002-11-29",1,"Aegean",16.16
+"2002-11-29",2,"Athos",13.7
+"2002-11-29",3,"Attica",12.92
+"2002-11-29",4,"Crete",14.3
+"2002-11-29",5,"Epirus and Western Macedonia",3.05
+"2002-11-29",6,"Macedonia and Thrace",6.38
+"2002-11-29",7,"Peloponnese, Western Greece and the Ionian Islands",10.78
+"2002-11-29",8,"Thessaly and Central Greece",8.52
+"2002-11-30",1,"Aegean",15.94
+"2002-11-30",2,"Athos",13.94
+"2002-11-30",3,"Attica",13
+"2002-11-30",4,"Crete",14.48
+"2002-11-30",5,"Epirus and Western Macedonia",3.94
+"2002-11-30",6,"Macedonia and Thrace",5.97
+"2002-11-30",7,"Peloponnese, Western Greece and the Ionian Islands",11.22
+"2002-11-30",8,"Thessaly and Central Greece",7.97
+"2002-12-01",1,"Aegean",16.5
+"2002-12-01",2,"Athos",15.22
+"2002-12-01",3,"Attica",14.22
+"2002-12-01",4,"Crete",14.81
+"2002-12-01",5,"Epirus and Western Macedonia",8.46
+"2002-12-01",6,"Macedonia and Thrace",10.1
+"2002-12-01",7,"Peloponnese, Western Greece and the Ionian Islands",11.65
+"2002-12-01",8,"Thessaly and Central Greece",10.86
+"2002-12-02",1,"Aegean",17.46
+"2002-12-02",2,"Athos",13.75
+"2002-12-02",3,"Attica",15.56
+"2002-12-02",4,"Crete",15.58
+"2002-12-02",5,"Epirus and Western Macedonia",8.67
+"2002-12-02",6,"Macedonia and Thrace",10.06
+"2002-12-02",7,"Peloponnese, Western Greece and the Ionian Islands",12.94
+"2002-12-02",8,"Thessaly and Central Greece",12.74
+"2002-12-03",1,"Aegean",15.23
+"2002-12-03",2,"Athos",14.25
+"2002-12-03",3,"Attica",13.11
+"2002-12-03",4,"Crete",13.59
+"2002-12-03",5,"Epirus and Western Macedonia",7.76
+"2002-12-03",6,"Macedonia and Thrace",9.81
+"2002-12-03",7,"Peloponnese, Western Greece and the Ionian Islands",10.55
+"2002-12-03",8,"Thessaly and Central Greece",10.7
+"2002-12-04",1,"Aegean",16.89
+"2002-12-04",2,"Athos",14.88
+"2002-12-04",3,"Attica",14.2
+"2002-12-04",4,"Crete",14.04
+"2002-12-04",5,"Epirus and Western Macedonia",8.58
+"2002-12-04",6,"Macedonia and Thrace",10.51
+"2002-12-04",7,"Peloponnese, Western Greece and the Ionian Islands",12.29
+"2002-12-04",8,"Thessaly and Central Greece",10.84
+"2002-12-05",1,"Aegean",16.85
+"2002-12-05",2,"Athos",14.84
+"2002-12-05",3,"Attica",13.17
+"2002-12-05",4,"Crete",14.3
+"2002-12-05",5,"Epirus and Western Macedonia",7.41
+"2002-12-05",6,"Macedonia and Thrace",11.59
+"2002-12-05",7,"Peloponnese, Western Greece and the Ionian Islands",9.82
+"2002-12-05",8,"Thessaly and Central Greece",9.86
+"2002-12-06",1,"Aegean",15.37
+"2002-12-06",2,"Athos",13.55
+"2002-12-06",3,"Attica",12.04
+"2002-12-06",4,"Crete",12.09
+"2002-12-06",5,"Epirus and Western Macedonia",5.83
+"2002-12-06",6,"Macedonia and Thrace",9.93
+"2002-12-06",7,"Peloponnese, Western Greece and the Ionian Islands",9.56
+"2002-12-06",8,"Thessaly and Central Greece",8.37
+"2002-12-07",1,"Aegean",15.64
+"2002-12-07",2,"Athos",12.34
+"2002-12-07",3,"Attica",13.19
+"2002-12-07",4,"Crete",13.76
+"2002-12-07",5,"Epirus and Western Macedonia",7.92
+"2002-12-07",6,"Macedonia and Thrace",9.31
+"2002-12-07",7,"Peloponnese, Western Greece and the Ionian Islands",12.07
+"2002-12-07",8,"Thessaly and Central Greece",10.82
+"2002-12-08",1,"Aegean",14.5
+"2002-12-08",2,"Athos",7.37
+"2002-12-08",3,"Attica",11.8
+"2002-12-08",4,"Crete",13.16
+"2002-12-08",5,"Epirus and Western Macedonia",2.87
+"2002-12-08",6,"Macedonia and Thrace",2.86
+"2002-12-08",7,"Peloponnese, Western Greece and the Ionian Islands",8.75
+"2002-12-08",8,"Thessaly and Central Greece",7.44
+"2002-12-09",1,"Aegean",11.58
+"2002-12-09",2,"Athos",5.23
+"2002-12-09",3,"Attica",8.82
+"2002-12-09",4,"Crete",12.73
+"2002-12-09",5,"Epirus and Western Macedonia",0.44
+"2002-12-09",6,"Macedonia and Thrace",-0.13
+"2002-12-09",7,"Peloponnese, Western Greece and the Ionian Islands",6.45
+"2002-12-09",8,"Thessaly and Central Greece",3.56
+"2002-12-10",1,"Aegean",9.16
+"2002-12-10",2,"Athos",4.2
+"2002-12-10",3,"Attica",6.16
+"2002-12-10",4,"Crete",9.72
+"2002-12-10",5,"Epirus and Western Macedonia",-2.18
+"2002-12-10",6,"Macedonia and Thrace",-2.87
+"2002-12-10",7,"Peloponnese, Western Greece and the Ionian Islands",4.15
+"2002-12-10",8,"Thessaly and Central Greece",1.83
+"2002-12-11",1,"Aegean",9.14
+"2002-12-11",2,"Athos",5.37
+"2002-12-11",3,"Attica",7.2
+"2002-12-11",4,"Crete",10.03
+"2002-12-11",5,"Epirus and Western Macedonia",-1.11
+"2002-12-11",6,"Macedonia and Thrace",-1.98
+"2002-12-11",7,"Peloponnese, Western Greece and the Ionian Islands",4.85
+"2002-12-11",8,"Thessaly and Central Greece",3.17
+"2002-12-12",1,"Aegean",10.32
+"2002-12-12",2,"Athos",8.12
+"2002-12-12",3,"Attica",9
+"2002-12-12",4,"Crete",10.26
+"2002-12-12",5,"Epirus and Western Macedonia",1.48
+"2002-12-12",6,"Macedonia and Thrace",0.97
+"2002-12-12",7,"Peloponnese, Western Greece and the Ionian Islands",7.67
+"2002-12-12",8,"Thessaly and Central Greece",5.04
+"2002-12-13",1,"Aegean",9.41
+"2002-12-13",2,"Athos",5.7
+"2002-12-13",3,"Attica",10.59
+"2002-12-13",4,"Crete",11.71
+"2002-12-13",5,"Epirus and Western Macedonia",3.13
+"2002-12-13",6,"Macedonia and Thrace",-0.09
+"2002-12-13",7,"Peloponnese, Western Greece and the Ionian Islands",9.33
+"2002-12-13",8,"Thessaly and Central Greece",6.57
+"2002-12-14",1,"Aegean",12.73
+"2002-12-14",2,"Athos",9.88
+"2002-12-14",3,"Attica",12.05
+"2002-12-14",4,"Crete",13.25
+"2002-12-14",5,"Epirus and Western Macedonia",2.72
+"2002-12-14",6,"Macedonia and Thrace",2.41
+"2002-12-14",7,"Peloponnese, Western Greece and the Ionian Islands",9.77
+"2002-12-14",8,"Thessaly and Central Greece",7.48
+"2002-12-15",1,"Aegean",12.12
+"2002-12-15",2,"Athos",8.23
+"2002-12-15",3,"Attica",10.9
+"2002-12-15",4,"Crete",12.18
+"2002-12-15",5,"Epirus and Western Macedonia",3.14
+"2002-12-15",6,"Macedonia and Thrace",3.99
+"2002-12-15",7,"Peloponnese, Western Greece and the Ionian Islands",9.45
+"2002-12-15",8,"Thessaly and Central Greece",7.29
+"2002-12-16",1,"Aegean",12.19
+"2002-12-16",2,"Athos",8.38
+"2002-12-16",3,"Attica",10.1
+"2002-12-16",4,"Crete",11.51
+"2002-12-16",5,"Epirus and Western Macedonia",4.43
+"2002-12-16",6,"Macedonia and Thrace",4.08
+"2002-12-16",7,"Peloponnese, Western Greece and the Ionian Islands",9.68
+"2002-12-16",8,"Thessaly and Central Greece",7.5
+"2002-12-17",1,"Aegean",11.47
+"2002-12-17",2,"Athos",8.47
+"2002-12-17",3,"Attica",9.74
+"2002-12-17",4,"Crete",12.48
+"2002-12-17",5,"Epirus and Western Macedonia",2.29
+"2002-12-17",6,"Macedonia and Thrace",3.09
+"2002-12-17",7,"Peloponnese, Western Greece and the Ionian Islands",8.94
+"2002-12-17",8,"Thessaly and Central Greece",6.41
+"2002-12-18",1,"Aegean",10.97
+"2002-12-18",2,"Athos",9.22
+"2002-12-18",3,"Attica",9.86
+"2002-12-18",4,"Crete",10.88
+"2002-12-18",5,"Epirus and Western Macedonia",3.97
+"2002-12-18",6,"Macedonia and Thrace",4.11
+"2002-12-18",7,"Peloponnese, Western Greece and the Ionian Islands",9.1
+"2002-12-18",8,"Thessaly and Central Greece",6.74
+"2002-12-19",1,"Aegean",13.49
+"2002-12-19",2,"Athos",8.68
+"2002-12-19",3,"Attica",12.35
+"2002-12-19",4,"Crete",14.74
+"2002-12-19",5,"Epirus and Western Macedonia",3.14
+"2002-12-19",6,"Macedonia and Thrace",3.71
+"2002-12-19",7,"Peloponnese, Western Greece and the Ionian Islands",11.75
+"2002-12-19",8,"Thessaly and Central Greece",7.46
+"2002-12-20",1,"Aegean",8.91
+"2002-12-20",2,"Athos",6.5
+"2002-12-20",3,"Attica",5.64
+"2002-12-20",4,"Crete",8.91
+"2002-12-20",5,"Epirus and Western Macedonia",-5.44
+"2002-12-20",6,"Macedonia and Thrace",-0.47
+"2002-12-20",7,"Peloponnese, Western Greece and the Ionian Islands",4.77
+"2002-12-20",8,"Thessaly and Central Greece",0.11
+"2002-12-21",1,"Aegean",5.48
+"2002-12-21",2,"Athos",4.65
+"2002-12-21",3,"Attica",3.39
+"2002-12-21",4,"Crete",6.48
+"2002-12-21",5,"Epirus and Western Macedonia",-10.01
+"2002-12-21",6,"Macedonia and Thrace",-5.66
+"2002-12-21",7,"Peloponnese, Western Greece and the Ionian Islands",0.62
+"2002-12-21",8,"Thessaly and Central Greece",-3.59
+"2002-12-22",1,"Aegean",9.2
+"2002-12-22",2,"Athos",6.97
+"2002-12-22",3,"Attica",5.28
+"2002-12-22",4,"Crete",7.56
+"2002-12-22",5,"Epirus and Western Macedonia",-5.79
+"2002-12-22",6,"Macedonia and Thrace",-3.55
+"2002-12-22",7,"Peloponnese, Western Greece and the Ionian Islands",3.15
+"2002-12-22",8,"Thessaly and Central Greece",-0.75
+"2002-12-23",1,"Aegean",11.19
+"2002-12-23",2,"Athos",9.85
+"2002-12-23",3,"Attica",5.74
+"2002-12-23",4,"Crete",10.37
+"2002-12-23",5,"Epirus and Western Macedonia",-4.49
+"2002-12-23",6,"Macedonia and Thrace",-0.58
+"2002-12-23",7,"Peloponnese, Western Greece and the Ionian Islands",3.83
+"2002-12-23",8,"Thessaly and Central Greece",0.05
+"2002-12-24",1,"Aegean",13.55
+"2002-12-24",2,"Athos",9.14
+"2002-12-24",3,"Attica",7.28
+"2002-12-24",4,"Crete",12.19
+"2002-12-24",5,"Epirus and Western Macedonia",1.25
+"2002-12-24",6,"Macedonia and Thrace",3.05
+"2002-12-24",7,"Peloponnese, Western Greece and the Ionian Islands",8.37
+"2002-12-24",8,"Thessaly and Central Greece",3.71
+"2002-12-25",1,"Aegean",12.08
+"2002-12-25",2,"Athos",8.32
+"2002-12-25",3,"Attica",10.76
+"2002-12-25",4,"Crete",11.21
+"2002-12-25",5,"Epirus and Western Macedonia",2.62
+"2002-12-25",6,"Macedonia and Thrace",3.67
+"2002-12-25",7,"Peloponnese, Western Greece and the Ionian Islands",8.51
+"2002-12-25",8,"Thessaly and Central Greece",7.18
+"2002-12-26",1,"Aegean",9.94
+"2002-12-26",2,"Athos",5.14
+"2002-12-26",3,"Attica",8.81
+"2002-12-26",4,"Crete",12.28
+"2002-12-26",5,"Epirus and Western Macedonia",2.54
+"2002-12-26",6,"Macedonia and Thrace",1.03
+"2002-12-26",7,"Peloponnese, Western Greece and the Ionian Islands",7.99
+"2002-12-26",8,"Thessaly and Central Greece",5.38
+"2002-12-27",1,"Aegean",9.91
+"2002-12-27",2,"Athos",5.11
+"2002-12-27",3,"Attica",6.54
+"2002-12-27",4,"Crete",10.83
+"2002-12-27",5,"Epirus and Western Macedonia",-0.21
+"2002-12-27",6,"Macedonia and Thrace",-0.55
+"2002-12-27",7,"Peloponnese, Western Greece and the Ionian Islands",4.75
+"2002-12-27",8,"Thessaly and Central Greece",3.19
+"2002-12-28",1,"Aegean",11.08
+"2002-12-28",2,"Athos",8.19
+"2002-12-28",3,"Attica",7.09
+"2002-12-28",4,"Crete",10.55
+"2002-12-28",5,"Epirus and Western Macedonia",0.56
+"2002-12-28",6,"Macedonia and Thrace",-1.35
+"2002-12-28",7,"Peloponnese, Western Greece and the Ionian Islands",5.63
+"2002-12-28",8,"Thessaly and Central Greece",1.32
+"2002-12-29",1,"Aegean",14.62
+"2002-12-29",2,"Athos",12.67
+"2002-12-29",3,"Attica",12.53
+"2002-12-29",4,"Crete",12
+"2002-12-29",5,"Epirus and Western Macedonia",5.18
+"2002-12-29",6,"Macedonia and Thrace",4.43
+"2002-12-29",7,"Peloponnese, Western Greece and the Ionian Islands",11.36
+"2002-12-29",8,"Thessaly and Central Greece",7.32
+"2002-12-30",1,"Aegean",14.26
+"2002-12-30",2,"Athos",11.5
+"2002-12-30",3,"Attica",9.76
+"2002-12-30",4,"Crete",11.79
+"2002-12-30",5,"Epirus and Western Macedonia",4.69
+"2002-12-30",6,"Macedonia and Thrace",5.97
+"2002-12-30",7,"Peloponnese, Western Greece and the Ionian Islands",8.78
+"2002-12-30",8,"Thessaly and Central Greece",6.49
+"2002-12-31",1,"Aegean",14.59
+"2002-12-31",2,"Athos",13.23
+"2002-12-31",3,"Attica",9.74
+"2002-12-31",4,"Crete",11.86
+"2002-12-31",5,"Epirus and Western Macedonia",1.37
+"2002-12-31",6,"Macedonia and Thrace",3.84
+"2002-12-31",7,"Peloponnese, Western Greece and the Ionian Islands",8.75
+"2002-12-31",8,"Thessaly and Central Greece",5.11
