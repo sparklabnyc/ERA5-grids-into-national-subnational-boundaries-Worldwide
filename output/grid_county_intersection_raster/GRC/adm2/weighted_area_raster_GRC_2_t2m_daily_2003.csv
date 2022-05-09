@@ -1,0 +1,5111 @@
+"date","ID_2","NAME_2","t2m"
+"2003-01-01",1,"North Aegean",14.86
+"2003-01-01",2,"South Aegean",15.86
+"2003-01-01",3,"Athos",14.06
+"2003-01-01",4,"Attica",13.78
+"2003-01-01",5,"Crete",13.65
+"2003-01-01",6,"Epirus",8.66
+"2003-01-01",7,"West Macedonia",5.89
+"2003-01-01",8,"Central Macedonia",7.95
+"2003-01-01",9,"East Macedonia and Thrace",8.67
+"2003-01-01",10,"Ionian Islands",13.4
+"2003-01-01",11,"Peloponnese",11.32
+"2003-01-01",12,"West Greece",10.98
+"2003-01-01",13,"Central Greece",9.93
+"2003-01-01",14,"Thessaly",9.26
+"2003-01-02",1,"North Aegean",11.54
+"2003-01-02",2,"South Aegean",14.65
+"2003-01-02",3,"Athos",7.36
+"2003-01-02",4,"Attica",11.56
+"2003-01-02",5,"Crete",12.16
+"2003-01-02",6,"Epirus",5.15
+"2003-01-02",7,"West Macedonia",3.22
+"2003-01-02",8,"Central Macedonia",5.81
+"2003-01-02",9,"East Macedonia and Thrace",1.94
+"2003-01-02",10,"Ionian Islands",13.53
+"2003-01-02",11,"Peloponnese",9.73
+"2003-01-02",12,"West Greece",9.77
+"2003-01-02",13,"Central Greece",8.58
+"2003-01-02",14,"Thessaly",6.84
+"2003-01-03",1,"North Aegean",10.34
+"2003-01-03",2,"South Aegean",13.97
+"2003-01-03",3,"Athos",10.73
+"2003-01-03",4,"Attica",9.48
+"2003-01-03",5,"Crete",10.85
+"2003-01-03",6,"Epirus",4.27
+"2003-01-03",7,"West Macedonia",1.45
+"2003-01-03",8,"Central Macedonia",3.02
+"2003-01-03",9,"East Macedonia and Thrace",2.75
+"2003-01-03",10,"Ionian Islands",14.63
+"2003-01-03",11,"Peloponnese",7.93
+"2003-01-03",12,"West Greece",8.39
+"2003-01-03",13,"Central Greece",6.07
+"2003-01-03",14,"Thessaly",4.91
+"2003-01-04",1,"North Aegean",15.17
+"2003-01-04",2,"South Aegean",16.91
+"2003-01-04",3,"Athos",12.27
+"2003-01-04",4,"Attica",12.48
+"2003-01-04",5,"Crete",14.26
+"2003-01-04",6,"Epirus",8.92
+"2003-01-04",7,"West Macedonia",6.34
+"2003-01-04",8,"Central Macedonia",7.03
+"2003-01-04",9,"East Macedonia and Thrace",5.55
+"2003-01-04",10,"Ionian Islands",15.8
+"2003-01-04",11,"Peloponnese",10.64
+"2003-01-04",12,"West Greece",11.85
+"2003-01-04",13,"Central Greece",9.43
+"2003-01-04",14,"Thessaly",8.52
+"2003-01-05",1,"North Aegean",14.79
+"2003-01-05",2,"South Aegean",16.72
+"2003-01-05",3,"Athos",13.05
+"2003-01-05",4,"Attica",11.98
+"2003-01-05",5,"Crete",13.83
+"2003-01-05",6,"Epirus",9
+"2003-01-05",7,"West Macedonia",4.88
+"2003-01-05",8,"Central Macedonia",6.14
+"2003-01-05",9,"East Macedonia and Thrace",4.91
+"2003-01-05",10,"Ionian Islands",15.56
+"2003-01-05",11,"Peloponnese",10.43
+"2003-01-05",12,"West Greece",11.24
+"2003-01-05",13,"Central Greece",9.32
+"2003-01-05",14,"Thessaly",8.65
+"2003-01-06",1,"North Aegean",15.54
+"2003-01-06",2,"South Aegean",16.67
+"2003-01-06",3,"Athos",13.95
+"2003-01-06",4,"Attica",12.57
+"2003-01-06",5,"Crete",12.96
+"2003-01-06",6,"Epirus",8.3
+"2003-01-06",7,"West Macedonia",6.06
+"2003-01-06",8,"Central Macedonia",6.89
+"2003-01-06",9,"East Macedonia and Thrace",6.03
+"2003-01-06",10,"Ionian Islands",15.35
+"2003-01-06",11,"Peloponnese",9.47
+"2003-01-06",12,"West Greece",10.63
+"2003-01-06",13,"Central Greece",9.45
+"2003-01-06",14,"Thessaly",8.15
+"2003-01-07",1,"North Aegean",14.44
+"2003-01-07",2,"South Aegean",16.14
+"2003-01-07",3,"Athos",13.62
+"2003-01-07",4,"Attica",11.93
+"2003-01-07",5,"Crete",11.71
+"2003-01-07",6,"Epirus",8.28
+"2003-01-07",7,"West Macedonia",5.32
+"2003-01-07",8,"Central Macedonia",7.34
+"2003-01-07",9,"East Macedonia and Thrace",5.36
+"2003-01-07",10,"Ionian Islands",15.35
+"2003-01-07",11,"Peloponnese",8.8
+"2003-01-07",12,"West Greece",10.04
+"2003-01-07",13,"Central Greece",8.84
+"2003-01-07",14,"Thessaly",8.14
+"2003-01-08",1,"North Aegean",16.23
+"2003-01-08",2,"South Aegean",16.84
+"2003-01-08",3,"Athos",14.37
+"2003-01-08",4,"Attica",12.89
+"2003-01-08",5,"Crete",13.3
+"2003-01-08",6,"Epirus",8.27
+"2003-01-08",7,"West Macedonia",5.95
+"2003-01-08",8,"Central Macedonia",6.85
+"2003-01-08",9,"East Macedonia and Thrace",8.85
+"2003-01-08",10,"Ionian Islands",14.37
+"2003-01-08",11,"Peloponnese",11
+"2003-01-08",12,"West Greece",11.09
+"2003-01-08",13,"Central Greece",9.99
+"2003-01-08",14,"Thessaly",9.65
+"2003-01-09",1,"North Aegean",14.09
+"2003-01-09",2,"South Aegean",15.76
+"2003-01-09",3,"Athos",13.07
+"2003-01-09",4,"Attica",10.95
+"2003-01-09",5,"Crete",12.14
+"2003-01-09",6,"Epirus",7.57
+"2003-01-09",7,"West Macedonia",4.23
+"2003-01-09",8,"Central Macedonia",5.87
+"2003-01-09",9,"East Macedonia and Thrace",5.53
+"2003-01-09",10,"Ionian Islands",15.24
+"2003-01-09",11,"Peloponnese",8.54
+"2003-01-09",12,"West Greece",9.72
+"2003-01-09",13,"Central Greece",7.24
+"2003-01-09",14,"Thessaly",7.47
+"2003-01-10",1,"North Aegean",15.66
+"2003-01-10",2,"South Aegean",16.4
+"2003-01-10",3,"Athos",15.1
+"2003-01-10",4,"Attica",15.06
+"2003-01-10",5,"Crete",14.03
+"2003-01-10",6,"Epirus",10.68
+"2003-01-10",7,"West Macedonia",6.7
+"2003-01-10",8,"Central Macedonia",9.96
+"2003-01-10",9,"East Macedonia and Thrace",9.12
+"2003-01-10",10,"Ionian Islands",16.45
+"2003-01-10",11,"Peloponnese",12.33
+"2003-01-10",12,"West Greece",13.49
+"2003-01-10",13,"Central Greece",11.16
+"2003-01-10",14,"Thessaly",8.24
+"2003-01-11",1,"North Aegean",15.94
+"2003-01-11",2,"South Aegean",16.38
+"2003-01-11",3,"Athos",14.57
+"2003-01-11",4,"Attica",13.74
+"2003-01-11",5,"Crete",15.1
+"2003-01-11",6,"Epirus",5.56
+"2003-01-11",7,"West Macedonia",3.15
+"2003-01-11",8,"Central Macedonia",8.09
+"2003-01-11",9,"East Macedonia and Thrace",9.67
+"2003-01-11",10,"Ionian Islands",14.79
+"2003-01-11",11,"Peloponnese",11.06
+"2003-01-11",12,"West Greece",10.22
+"2003-01-11",13,"Central Greece",9.87
+"2003-01-11",14,"Thessaly",8.54
+"2003-01-12",1,"North Aegean",15.51
+"2003-01-12",2,"South Aegean",17.72
+"2003-01-12",3,"Athos",8.65
+"2003-01-12",4,"Attica",14.58
+"2003-01-12",5,"Crete",15.49
+"2003-01-12",6,"Epirus",5.36
+"2003-01-12",7,"West Macedonia",-0.75
+"2003-01-12",8,"Central Macedonia",3.73
+"2003-01-12",9,"East Macedonia and Thrace",2.11
+"2003-01-12",10,"Ionian Islands",12.46
+"2003-01-12",11,"Peloponnese",9.93
+"2003-01-12",12,"West Greece",9.45
+"2003-01-12",13,"Central Greece",10.39
+"2003-01-12",14,"Thessaly",6.89
+"2003-01-13",1,"North Aegean",7.35
+"2003-01-13",2,"South Aegean",13.53
+"2003-01-13",3,"Athos",5.19
+"2003-01-13",4,"Attica",8.49
+"2003-01-13",5,"Crete",12.06
+"2003-01-13",6,"Epirus",1.85
+"2003-01-13",7,"West Macedonia",-4.32
+"2003-01-13",8,"Central Macedonia",0.58
+"2003-01-13",9,"East Macedonia and Thrace",-1.28
+"2003-01-13",10,"Ionian Islands",10.81
+"2003-01-13",11,"Peloponnese",7.43
+"2003-01-13",12,"West Greece",6.67
+"2003-01-13",13,"Central Greece",4.9
+"2003-01-13",14,"Thessaly",2.44
+"2003-01-14",1,"North Aegean",7.75
+"2003-01-14",2,"South Aegean",12.15
+"2003-01-14",3,"Athos",5.96
+"2003-01-14",4,"Attica",9.03
+"2003-01-14",5,"Crete",10.73
+"2003-01-14",6,"Epirus",2.32
+"2003-01-14",7,"West Macedonia",-2.18
+"2003-01-14",8,"Central Macedonia",-0.35
+"2003-01-14",9,"East Macedonia and Thrace",-1.79
+"2003-01-14",10,"Ionian Islands",11.03
+"2003-01-14",11,"Peloponnese",7.59
+"2003-01-14",12,"West Greece",6.53
+"2003-01-14",13,"Central Greece",5.77
+"2003-01-14",14,"Thessaly",3.3
+"2003-01-15",1,"North Aegean",7.14
+"2003-01-15",2,"South Aegean",10.99
+"2003-01-15",3,"Athos",6.48
+"2003-01-15",4,"Attica",6.73
+"2003-01-15",5,"Crete",9.67
+"2003-01-15",6,"Epirus",-0.06
+"2003-01-15",7,"West Macedonia",-5.2
+"2003-01-15",8,"Central Macedonia",-1.99
+"2003-01-15",9,"East Macedonia and Thrace",-3.08
+"2003-01-15",10,"Ionian Islands",11.67
+"2003-01-15",11,"Peloponnese",4.45
+"2003-01-15",12,"West Greece",3.88
+"2003-01-15",13,"Central Greece",3.05
+"2003-01-15",14,"Thessaly",1.34
+"2003-01-16",1,"North Aegean",10.14
+"2003-01-16",2,"South Aegean",13.04
+"2003-01-16",3,"Athos",9.6
+"2003-01-16",4,"Attica",7.93
+"2003-01-16",5,"Crete",8.96
+"2003-01-16",6,"Epirus",1.31
+"2003-01-16",7,"West Macedonia",-1.69
+"2003-01-16",8,"Central Macedonia",0.89
+"2003-01-16",9,"East Macedonia and Thrace",-0.24
+"2003-01-16",10,"Ionian Islands",12.35
+"2003-01-16",11,"Peloponnese",4.19
+"2003-01-16",12,"West Greece",3.53
+"2003-01-16",13,"Central Greece",3.57
+"2003-01-16",14,"Thessaly",3.02
+"2003-01-17",1,"North Aegean",12.24
+"2003-01-17",2,"South Aegean",14.31
+"2003-01-17",3,"Athos",10.47
+"2003-01-17",4,"Attica",8.03
+"2003-01-17",5,"Crete",10.43
+"2003-01-17",6,"Epirus",2.3
+"2003-01-17",7,"West Macedonia",-1.52
+"2003-01-17",8,"Central Macedonia",0.94
+"2003-01-17",9,"East Macedonia and Thrace",0.78
+"2003-01-17",10,"Ionian Islands",13.36
+"2003-01-17",11,"Peloponnese",6.54
+"2003-01-17",12,"West Greece",5.32
+"2003-01-17",13,"Central Greece",4.91
+"2003-01-17",14,"Thessaly",3.87
+"2003-01-18",1,"North Aegean",9.31
+"2003-01-18",2,"South Aegean",14.13
+"2003-01-18",3,"Athos",9.45
+"2003-01-18",4,"Attica",10.07
+"2003-01-18",5,"Crete",11.49
+"2003-01-18",6,"Epirus",4.55
+"2003-01-18",7,"West Macedonia",0.66
+"2003-01-18",8,"Central Macedonia",4.95
+"2003-01-18",9,"East Macedonia and Thrace",2.91
+"2003-01-18",10,"Ionian Islands",13.72
+"2003-01-18",11,"Peloponnese",8.53
+"2003-01-18",12,"West Greece",7.61
+"2003-01-18",13,"Central Greece",6.83
+"2003-01-18",14,"Thessaly",6.16
+"2003-01-19",1,"North Aegean",11.45
+"2003-01-19",2,"South Aegean",13.85
+"2003-01-19",3,"Athos",9.47
+"2003-01-19",4,"Attica",11.11
+"2003-01-19",5,"Crete",13.01
+"2003-01-19",6,"Epirus",4.87
+"2003-01-19",7,"West Macedonia",1.69
+"2003-01-19",8,"Central Macedonia",4.32
+"2003-01-19",9,"East Macedonia and Thrace",2.77
+"2003-01-19",10,"Ionian Islands",12.75
+"2003-01-19",11,"Peloponnese",9.79
+"2003-01-19",12,"West Greece",8.4
+"2003-01-19",13,"Central Greece",7.65
+"2003-01-19",14,"Thessaly",6.52
+"2003-01-20",1,"North Aegean",11.46
+"2003-01-20",2,"South Aegean",13.45
+"2003-01-20",3,"Athos",9.58
+"2003-01-20",4,"Attica",10.27
+"2003-01-20",5,"Crete",11.29
+"2003-01-20",6,"Epirus",3.92
+"2003-01-20",7,"West Macedonia",1.12
+"2003-01-20",8,"Central Macedonia",5.14
+"2003-01-20",9,"East Macedonia and Thrace",3.69
+"2003-01-20",10,"Ionian Islands",11.95
+"2003-01-20",11,"Peloponnese",7.63
+"2003-01-20",12,"West Greece",7.39
+"2003-01-20",13,"Central Greece",7.14
+"2003-01-20",14,"Thessaly",5.67
+"2003-01-21",1,"North Aegean",9.97
+"2003-01-21",2,"South Aegean",12.93
+"2003-01-21",3,"Athos",9.51
+"2003-01-21",4,"Attica",10.02
+"2003-01-21",5,"Crete",11.05
+"2003-01-21",6,"Epirus",4.1
+"2003-01-21",7,"West Macedonia",2.63
+"2003-01-21",8,"Central Macedonia",6.2
+"2003-01-21",9,"East Macedonia and Thrace",4.22
+"2003-01-21",10,"Ionian Islands",12.43
+"2003-01-21",11,"Peloponnese",8.67
+"2003-01-21",12,"West Greece",7.1
+"2003-01-21",13,"Central Greece",7.43
+"2003-01-21",14,"Thessaly",6.44
+"2003-01-22",1,"North Aegean",10.7
+"2003-01-22",2,"South Aegean",12.96
+"2003-01-22",3,"Athos",11.11
+"2003-01-22",4,"Attica",9.27
+"2003-01-22",5,"Crete",9.65
+"2003-01-22",6,"Epirus",5.19
+"2003-01-22",7,"West Macedonia",1.71
+"2003-01-22",8,"Central Macedonia",7.08
+"2003-01-22",9,"East Macedonia and Thrace",5.52
+"2003-01-22",10,"Ionian Islands",13.28
+"2003-01-22",11,"Peloponnese",7.43
+"2003-01-22",12,"West Greece",7.75
+"2003-01-22",13,"Central Greece",7.11
+"2003-01-22",14,"Thessaly",6.03
+"2003-01-23",1,"North Aegean",13.34
+"2003-01-23",2,"South Aegean",14.91
+"2003-01-23",3,"Athos",11.36
+"2003-01-23",4,"Attica",10.74
+"2003-01-23",5,"Crete",11.65
+"2003-01-23",6,"Epirus",5.01
+"2003-01-23",7,"West Macedonia",3.3
+"2003-01-23",8,"Central Macedonia",6.04
+"2003-01-23",9,"East Macedonia and Thrace",6.12
+"2003-01-23",10,"Ionian Islands",13.57
+"2003-01-23",11,"Peloponnese",8.67
+"2003-01-23",12,"West Greece",8.39
+"2003-01-23",13,"Central Greece",6.82
+"2003-01-23",14,"Thessaly",5.32
+"2003-01-24",1,"North Aegean",12.4
+"2003-01-24",2,"South Aegean",14.95
+"2003-01-24",3,"Athos",11.82
+"2003-01-24",4,"Attica",10.63
+"2003-01-24",5,"Crete",12.1
+"2003-01-24",6,"Epirus",4.17
+"2003-01-24",7,"West Macedonia",1.99
+"2003-01-24",8,"Central Macedonia",5.89
+"2003-01-24",9,"East Macedonia and Thrace",5.74
+"2003-01-24",10,"Ionian Islands",13.52
+"2003-01-24",11,"Peloponnese",8.15
+"2003-01-24",12,"West Greece",7.23
+"2003-01-24",13,"Central Greece",7.13
+"2003-01-24",14,"Thessaly",5.87
+"2003-01-25",1,"North Aegean",12.13
+"2003-01-25",2,"South Aegean",15.32
+"2003-01-25",3,"Athos",9.55
+"2003-01-25",4,"Attica",11.36
+"2003-01-25",5,"Crete",13.25
+"2003-01-25",6,"Epirus",5.38
+"2003-01-25",7,"West Macedonia",3.45
+"2003-01-25",8,"Central Macedonia",7.56
+"2003-01-25",9,"East Macedonia and Thrace",5.11
+"2003-01-25",10,"Ionian Islands",13.05
+"2003-01-25",11,"Peloponnese",10.11
+"2003-01-25",12,"West Greece",9.28
+"2003-01-25",13,"Central Greece",8.82
+"2003-01-25",14,"Thessaly",8.22
+"2003-01-26",1,"North Aegean",11.31
+"2003-01-26",2,"South Aegean",15.32
+"2003-01-26",3,"Athos",8.61
+"2003-01-26",4,"Attica",12.23
+"2003-01-26",5,"Crete",13.02
+"2003-01-26",6,"Epirus",3.24
+"2003-01-26",7,"West Macedonia",1.31
+"2003-01-26",8,"Central Macedonia",5.8
+"2003-01-26",9,"East Macedonia and Thrace",4.18
+"2003-01-26",10,"Ionian Islands",12.38
+"2003-01-26",11,"Peloponnese",9.69
+"2003-01-26",12,"West Greece",8.04
+"2003-01-26",13,"Central Greece",6.59
+"2003-01-26",14,"Thessaly",5.18
+"2003-01-27",1,"North Aegean",10.03
+"2003-01-27",2,"South Aegean",14
+"2003-01-27",3,"Athos",7.51
+"2003-01-27",4,"Attica",10.58
+"2003-01-27",5,"Crete",9.13
+"2003-01-27",6,"Epirus",3.91
+"2003-01-27",7,"West Macedonia",-0.13
+"2003-01-27",8,"Central Macedonia",3.66
+"2003-01-27",9,"East Macedonia and Thrace",2.5
+"2003-01-27",10,"Ionian Islands",11.35
+"2003-01-27",11,"Peloponnese",7.3
+"2003-01-27",12,"West Greece",7.83
+"2003-01-27",13,"Central Greece",7.08
+"2003-01-27",14,"Thessaly",5.76
+"2003-01-28",1,"North Aegean",8.57
+"2003-01-28",2,"South Aegean",11.96
+"2003-01-28",3,"Athos",7.56
+"2003-01-28",4,"Attica",8.53
+"2003-01-28",5,"Crete",10.43
+"2003-01-28",6,"Epirus",-1.1
+"2003-01-28",7,"West Macedonia",-4.31
+"2003-01-28",8,"Central Macedonia",1.17
+"2003-01-28",9,"East Macedonia and Thrace",0.73
+"2003-01-28",10,"Ionian Islands",9.58
+"2003-01-28",11,"Peloponnese",4.87
+"2003-01-28",12,"West Greece",4.22
+"2003-01-28",13,"Central Greece",4.44
+"2003-01-28",14,"Thessaly",2.32
+"2003-01-29",1,"North Aegean",7.75
+"2003-01-29",2,"South Aegean",11.51
+"2003-01-29",3,"Athos",8.64
+"2003-01-29",4,"Attica",5.46
+"2003-01-29",5,"Crete",8.42
+"2003-01-29",6,"Epirus",-1.4
+"2003-01-29",7,"West Macedonia",-5.62
+"2003-01-29",8,"Central Macedonia",0.55
+"2003-01-29",9,"East Macedonia and Thrace",1.37
+"2003-01-29",10,"Ionian Islands",11.62
+"2003-01-29",11,"Peloponnese",3.28
+"2003-01-29",12,"West Greece",3.17
+"2003-01-29",13,"Central Greece",0.51
+"2003-01-29",14,"Thessaly",-1.52
+"2003-01-30",1,"North Aegean",14.53
+"2003-01-30",2,"South Aegean",15.53
+"2003-01-30",3,"Athos",13.4
+"2003-01-30",4,"Attica",12.31
+"2003-01-30",5,"Crete",12.92
+"2003-01-30",6,"Epirus",6.07
+"2003-01-30",7,"West Macedonia",1.71
+"2003-01-30",8,"Central Macedonia",4.22
+"2003-01-30",9,"East Macedonia and Thrace",6.12
+"2003-01-30",10,"Ionian Islands",14.28
+"2003-01-30",11,"Peloponnese",10.06
+"2003-01-30",12,"West Greece",9.43
+"2003-01-30",13,"Central Greece",8.28
+"2003-01-30",14,"Thessaly",5.5
+"2003-01-31",1,"North Aegean",14.43
+"2003-01-31",2,"South Aegean",16.09
+"2003-01-31",3,"Athos",12.9
+"2003-01-31",4,"Attica",13.34
+"2003-01-31",5,"Crete",13.87
+"2003-01-31",6,"Epirus",3.94
+"2003-01-31",7,"West Macedonia",1.82
+"2003-01-31",8,"Central Macedonia",6.85
+"2003-01-31",9,"East Macedonia and Thrace",8.34
+"2003-01-31",10,"Ionian Islands",11.41
+"2003-01-31",11,"Peloponnese",10.74
+"2003-01-31",12,"West Greece",9.34
+"2003-01-31",13,"Central Greece",8.77
+"2003-01-31",14,"Thessaly",6.53
+"2003-02-01",1,"North Aegean",13.23
+"2003-02-01",2,"South Aegean",14.8
+"2003-02-01",3,"Athos",11.98
+"2003-02-01",4,"Attica",9.39
+"2003-02-01",5,"Crete",11.38
+"2003-02-01",6,"Epirus",2.91
+"2003-02-01",7,"West Macedonia",-0.55
+"2003-02-01",8,"Central Macedonia",4.17
+"2003-02-01",9,"East Macedonia and Thrace",4.14
+"2003-02-01",10,"Ionian Islands",10.91
+"2003-02-01",11,"Peloponnese",6.54
+"2003-02-01",12,"West Greece",6.4
+"2003-02-01",13,"Central Greece",5.39
+"2003-02-01",14,"Thessaly",3.32
+"2003-02-02",1,"North Aegean",11.06
+"2003-02-02",2,"South Aegean",13.24
+"2003-02-02",3,"Athos",8.61
+"2003-02-02",4,"Attica",8.34
+"2003-02-02",5,"Crete",9.61
+"2003-02-02",6,"Epirus",1.63
+"2003-02-02",7,"West Macedonia",-0.32
+"2003-02-02",8,"Central Macedonia",3.95
+"2003-02-02",9,"East Macedonia and Thrace",2.96
+"2003-02-02",10,"Ionian Islands",9.64
+"2003-02-02",11,"Peloponnese",5.15
+"2003-02-02",12,"West Greece",4.96
+"2003-02-02",13,"Central Greece",5.27
+"2003-02-02",14,"Thessaly",4.67
+"2003-02-03",1,"North Aegean",5.77
+"2003-02-03",2,"South Aegean",10.9
+"2003-02-03",3,"Athos",5.8
+"2003-02-03",4,"Attica",6.66
+"2003-02-03",5,"Crete",8.85
+"2003-02-03",6,"Epirus",-0.57
+"2003-02-03",7,"West Macedonia",-3.19
+"2003-02-03",8,"Central Macedonia",1.95
+"2003-02-03",9,"East Macedonia and Thrace",-0.9
+"2003-02-03",10,"Ionian Islands",8.86
+"2003-02-03",11,"Peloponnese",5
+"2003-02-03",12,"West Greece",4.1
+"2003-02-03",13,"Central Greece",3.22
+"2003-02-03",14,"Thessaly",1.8
+"2003-02-04",1,"North Aegean",6.49
+"2003-02-04",2,"South Aegean",10.47
+"2003-02-04",3,"Athos",6.89
+"2003-02-04",4,"Attica",5.28
+"2003-02-04",5,"Crete",7.81
+"2003-02-04",6,"Epirus",-0.24
+"2003-02-04",7,"West Macedonia",-5.77
+"2003-02-04",8,"Central Macedonia",0.6
+"2003-02-04",9,"East Macedonia and Thrace",-1.12
+"2003-02-04",10,"Ionian Islands",10.04
+"2003-02-04",11,"Peloponnese",3.41
+"2003-02-04",12,"West Greece",4.02
+"2003-02-04",13,"Central Greece",1.19
+"2003-02-04",14,"Thessaly",-0.94
+"2003-02-05",1,"North Aegean",13.19
+"2003-02-05",2,"South Aegean",14.73
+"2003-02-05",3,"Athos",13.48
+"2003-02-05",4,"Attica",11.85
+"2003-02-05",5,"Crete",12
+"2003-02-05",6,"Epirus",7.42
+"2003-02-05",7,"West Macedonia",3.43
+"2003-02-05",8,"Central Macedonia",7.13
+"2003-02-05",9,"East Macedonia and Thrace",6.92
+"2003-02-05",10,"Ionian Islands",13.83
+"2003-02-05",11,"Peloponnese",9.46
+"2003-02-05",12,"West Greece",9.66
+"2003-02-05",13,"Central Greece",8.34
+"2003-02-05",14,"Thessaly",6.47
+"2003-02-06",1,"North Aegean",12.76
+"2003-02-06",2,"South Aegean",14.67
+"2003-02-06",3,"Athos",11.19
+"2003-02-06",4,"Attica",9.94
+"2003-02-06",5,"Crete",11.28
+"2003-02-06",6,"Epirus",0.29
+"2003-02-06",7,"West Macedonia",-1.54
+"2003-02-06",8,"Central Macedonia",5.06
+"2003-02-06",9,"East Macedonia and Thrace",5.72
+"2003-02-06",10,"Ionian Islands",8.5
+"2003-02-06",11,"Peloponnese",6.5
+"2003-02-06",12,"West Greece",5.46
+"2003-02-06",13,"Central Greece",5.58
+"2003-02-06",14,"Thessaly",3.65
+"2003-02-07",1,"North Aegean",10.56
+"2003-02-07",2,"South Aegean",12.26
+"2003-02-07",3,"Athos",7.88
+"2003-02-07",4,"Attica",7.53
+"2003-02-07",5,"Crete",9.54
+"2003-02-07",6,"Epirus",-5.35
+"2003-02-07",7,"West Macedonia",-4.96
+"2003-02-07",8,"Central Macedonia",1.21
+"2003-02-07",9,"East Macedonia and Thrace",0.79
+"2003-02-07",10,"Ionian Islands",8.06
+"2003-02-07",11,"Peloponnese",4.38
+"2003-02-07",12,"West Greece",3.47
+"2003-02-07",13,"Central Greece",3.8
+"2003-02-07",14,"Thessaly",1.58
+"2003-02-08",1,"North Aegean",5.28
+"2003-02-08",2,"South Aegean",8.44
+"2003-02-08",3,"Athos",4.74
+"2003-02-08",4,"Attica",5.34
+"2003-02-08",5,"Crete",7.04
+"2003-02-08",6,"Epirus",-6.86
+"2003-02-08",7,"West Macedonia",-7.42
+"2003-02-08",8,"Central Macedonia",-1.82
+"2003-02-08",9,"East Macedonia and Thrace",-1.4
+"2003-02-08",10,"Ionian Islands",7.72
+"2003-02-08",11,"Peloponnese",2.26
+"2003-02-08",12,"West Greece",1.75
+"2003-02-08",13,"Central Greece",0.9
+"2003-02-08",14,"Thessaly",-2.13
+"2003-02-09",1,"North Aegean",4.97
+"2003-02-09",2,"South Aegean",8.52
+"2003-02-09",3,"Athos",4.52
+"2003-02-09",4,"Attica",2.76
+"2003-02-09",5,"Crete",7.12
+"2003-02-09",6,"Epirus",-7.82
+"2003-02-09",7,"West Macedonia",-7.07
+"2003-02-09",8,"Central Macedonia",-1.79
+"2003-02-09",9,"East Macedonia and Thrace",-1.31
+"2003-02-09",10,"Ionian Islands",7.8
+"2003-02-09",11,"Peloponnese",1.05
+"2003-02-09",12,"West Greece",-0.02
+"2003-02-09",13,"Central Greece",-0.55
+"2003-02-09",14,"Thessaly",-3.26
+"2003-02-10",1,"North Aegean",5.65
+"2003-02-10",2,"South Aegean",9.56
+"2003-02-10",3,"Athos",5.12
+"2003-02-10",4,"Attica",4.59
+"2003-02-10",5,"Crete",7.56
+"2003-02-10",6,"Epirus",-6.3
+"2003-02-10",7,"West Macedonia",-7.06
+"2003-02-10",8,"Central Macedonia",-1.5
+"2003-02-10",9,"East Macedonia and Thrace",-0.55
+"2003-02-10",10,"Ionian Islands",8.67
+"2003-02-10",11,"Peloponnese",2.5
+"2003-02-10",12,"West Greece",0.92
+"2003-02-10",13,"Central Greece",0.17
+"2003-02-10",14,"Thessaly",-2.52
+"2003-02-11",1,"North Aegean",6.09
+"2003-02-11",2,"South Aegean",10.29
+"2003-02-11",3,"Athos",5.99
+"2003-02-11",4,"Attica",5.68
+"2003-02-11",5,"Crete",9.52
+"2003-02-11",6,"Epirus",-1.96
+"2003-02-11",7,"West Macedonia",-4.01
+"2003-02-11",8,"Central Macedonia",-0.39
+"2003-02-11",9,"East Macedonia and Thrace",-1.38
+"2003-02-11",10,"Ionian Islands",7.54
+"2003-02-11",11,"Peloponnese",2.97
+"2003-02-11",12,"West Greece",3.02
+"2003-02-11",13,"Central Greece",2.24
+"2003-02-11",14,"Thessaly",0.42
+"2003-02-12",1,"North Aegean",7.37
+"2003-02-12",2,"South Aegean",11.69
+"2003-02-12",3,"Athos",4.76
+"2003-02-12",4,"Attica",6.33
+"2003-02-12",5,"Crete",9.36
+"2003-02-12",6,"Epirus",-1.48
+"2003-02-12",7,"West Macedonia",-2.67
+"2003-02-12",8,"Central Macedonia",0.54
+"2003-02-12",9,"East Macedonia and Thrace",-1.83
+"2003-02-12",10,"Ionian Islands",7.8
+"2003-02-12",11,"Peloponnese",3.45
+"2003-02-12",12,"West Greece",3.44
+"2003-02-12",13,"Central Greece",2.56
+"2003-02-12",14,"Thessaly",0.94
+"2003-02-13",1,"North Aegean",6.69
+"2003-02-13",2,"South Aegean",10.35
+"2003-02-13",3,"Athos",3.39
+"2003-02-13",4,"Attica",4.78
+"2003-02-13",5,"Crete",8.74
+"2003-02-13",6,"Epirus",-4.35
+"2003-02-13",7,"West Macedonia",-3.68
+"2003-02-13",8,"Central Macedonia",-0.01
+"2003-02-13",9,"East Macedonia and Thrace",-2.92
+"2003-02-13",10,"Ionian Islands",7.19
+"2003-02-13",11,"Peloponnese",2.3
+"2003-02-13",12,"West Greece",1.7
+"2003-02-13",13,"Central Greece",1.09
+"2003-02-13",14,"Thessaly",-0.68
+"2003-02-14",1,"North Aegean",4.34
+"2003-02-14",2,"South Aegean",9.53
+"2003-02-14",3,"Athos",3.28
+"2003-02-14",4,"Attica",4.37
+"2003-02-14",5,"Crete",7.32
+"2003-02-14",6,"Epirus",-3.78
+"2003-02-14",7,"West Macedonia",-3.48
+"2003-02-14",8,"Central Macedonia",-0.41
+"2003-02-14",9,"East Macedonia and Thrace",-4.28
+"2003-02-14",10,"Ionian Islands",7.5
+"2003-02-14",11,"Peloponnese",2.55
+"2003-02-14",12,"West Greece",1.31
+"2003-02-14",13,"Central Greece",0.42
+"2003-02-14",14,"Thessaly",-0.33
+"2003-02-15",1,"North Aegean",4.74
+"2003-02-15",2,"South Aegean",8.87
+"2003-02-15",3,"Athos",3.29
+"2003-02-15",4,"Attica",4.01
+"2003-02-15",5,"Crete",7.82
+"2003-02-15",6,"Epirus",-3.29
+"2003-02-15",7,"West Macedonia",-3.62
+"2003-02-15",8,"Central Macedonia",-1.13
+"2003-02-15",9,"East Macedonia and Thrace",-7.81
+"2003-02-15",10,"Ionian Islands",8.8
+"2003-02-15",11,"Peloponnese",3.84
+"2003-02-15",12,"West Greece",3.06
+"2003-02-15",13,"Central Greece",1.18
+"2003-02-15",14,"Thessaly",-0.75
+"2003-02-16",1,"North Aegean",5.23
+"2003-02-16",2,"South Aegean",9.79
+"2003-02-16",3,"Athos",5.48
+"2003-02-16",4,"Attica",6.59
+"2003-02-16",5,"Crete",8.57
+"2003-02-16",6,"Epirus",-1.33
+"2003-02-16",7,"West Macedonia",-2.58
+"2003-02-16",8,"Central Macedonia",-1.21
+"2003-02-16",9,"East Macedonia and Thrace",-5.88
+"2003-02-16",10,"Ionian Islands",9.92
+"2003-02-16",11,"Peloponnese",5.65
+"2003-02-16",12,"West Greece",4.46
+"2003-02-16",13,"Central Greece",3.04
+"2003-02-16",14,"Thessaly",0.62
+"2003-02-17",1,"North Aegean",6.83
+"2003-02-17",2,"South Aegean",10.54
+"2003-02-17",3,"Athos",4.4
+"2003-02-17",4,"Attica",5.09
+"2003-02-17",5,"Crete",10.5
+"2003-02-17",6,"Epirus",0.46
+"2003-02-17",7,"West Macedonia",-2.1
+"2003-02-17",8,"Central Macedonia",0.17
+"2003-02-17",9,"East Macedonia and Thrace",-2.69
+"2003-02-17",10,"Ionian Islands",7.22
+"2003-02-17",11,"Peloponnese",2.85
+"2003-02-17",12,"West Greece",3.15
+"2003-02-17",13,"Central Greece",2.57
+"2003-02-17",14,"Thessaly",1.6
+"2003-02-18",1,"North Aegean",7.61
+"2003-02-18",2,"South Aegean",13.66
+"2003-02-18",3,"Athos",3.87
+"2003-02-18",4,"Attica",4.67
+"2003-02-18",5,"Crete",11.62
+"2003-02-18",6,"Epirus",-1.41
+"2003-02-18",7,"West Macedonia",-4.3
+"2003-02-18",8,"Central Macedonia",-0.03
+"2003-02-18",9,"East Macedonia and Thrace",-1.73
+"2003-02-18",10,"Ionian Islands",6.32
+"2003-02-18",11,"Peloponnese",3.06
+"2003-02-18",12,"West Greece",2.64
+"2003-02-18",13,"Central Greece",1.44
+"2003-02-18",14,"Thessaly",-0.57
+"2003-02-19",1,"North Aegean",4.07
+"2003-02-19",2,"South Aegean",8.93
+"2003-02-19",3,"Athos",3.42
+"2003-02-19",4,"Attica",3.81
+"2003-02-19",5,"Crete",7.4
+"2003-02-19",6,"Epirus",-1.3
+"2003-02-19",7,"West Macedonia",-6.07
+"2003-02-19",8,"Central Macedonia",-1.95
+"2003-02-19",9,"East Macedonia and Thrace",-2.7
+"2003-02-19",10,"Ionian Islands",6.86
+"2003-02-19",11,"Peloponnese",2.17
+"2003-02-19",12,"West Greece",2.38
+"2003-02-19",13,"Central Greece",0.54
+"2003-02-19",14,"Thessaly",-0.71
+"2003-02-20",1,"North Aegean",3.67
+"2003-02-20",2,"South Aegean",7.97
+"2003-02-20",3,"Athos",3.42
+"2003-02-20",4,"Attica",3.31
+"2003-02-20",5,"Crete",5.74
+"2003-02-20",6,"Epirus",-1.63
+"2003-02-20",7,"West Macedonia",-8.79
+"2003-02-20",8,"Central Macedonia",-2.1
+"2003-02-20",9,"East Macedonia and Thrace",-2.33
+"2003-02-20",10,"Ionian Islands",7.09
+"2003-02-20",11,"Peloponnese",2.25
+"2003-02-20",12,"West Greece",2.62
+"2003-02-20",13,"Central Greece",0.59
+"2003-02-20",14,"Thessaly",-1.92
+"2003-02-21",1,"North Aegean",4.29
+"2003-02-21",2,"South Aegean",7.94
+"2003-02-21",3,"Athos",3.95
+"2003-02-21",4,"Attica",2.26
+"2003-02-21",5,"Crete",6.02
+"2003-02-21",6,"Epirus",-4.4
+"2003-02-21",7,"West Macedonia",-7.47
+"2003-02-21",8,"Central Macedonia",-3.17
+"2003-02-21",9,"East Macedonia and Thrace",-3.16
+"2003-02-21",10,"Ionian Islands",7.1
+"2003-02-21",11,"Peloponnese",1.34
+"2003-02-21",12,"West Greece",-0.13
+"2003-02-21",13,"Central Greece",-2.03
+"2003-02-21",14,"Thessaly",-4.17
+"2003-02-22",1,"North Aegean",5.76
+"2003-02-22",2,"South Aegean",8.85
+"2003-02-22",3,"Athos",6.17
+"2003-02-22",4,"Attica",2.79
+"2003-02-22",5,"Crete",6.8
+"2003-02-22",6,"Epirus",-4.88
+"2003-02-22",7,"West Macedonia",-7.6
+"2003-02-22",8,"Central Macedonia",-2.3
+"2003-02-22",9,"East Macedonia and Thrace",-2
+"2003-02-22",10,"Ionian Islands",8.8
+"2003-02-22",11,"Peloponnese",0.47
+"2003-02-22",12,"West Greece",-0.42
+"2003-02-22",13,"Central Greece",-2.02
+"2003-02-22",14,"Thessaly",-4.57
+"2003-02-23",1,"North Aegean",4.16
+"2003-02-23",2,"South Aegean",8.11
+"2003-02-23",3,"Athos",4.18
+"2003-02-23",4,"Attica",3.13
+"2003-02-23",5,"Crete",6.56
+"2003-02-23",6,"Epirus",-2.32
+"2003-02-23",7,"West Macedonia",-4.28
+"2003-02-23",8,"Central Macedonia",-1.27
+"2003-02-23",9,"East Macedonia and Thrace",-3.85
+"2003-02-23",10,"Ionian Islands",7.47
+"2003-02-23",11,"Peloponnese",0.73
+"2003-02-23",12,"West Greece",0.75
+"2003-02-23",13,"Central Greece",-0.73
+"2003-02-23",14,"Thessaly",-1.31
+"2003-02-24",1,"North Aegean",2.87
+"2003-02-24",2,"South Aegean",6.97
+"2003-02-24",3,"Athos",3.99
+"2003-02-24",4,"Attica",3.13
+"2003-02-24",5,"Crete",4.55
+"2003-02-24",6,"Epirus",-2.92
+"2003-02-24",7,"West Macedonia",-6.46
+"2003-02-24",8,"Central Macedonia",-2.25
+"2003-02-24",9,"East Macedonia and Thrace",-4.25
+"2003-02-24",10,"Ionian Islands",8.31
+"2003-02-24",11,"Peloponnese",0.24
+"2003-02-24",12,"West Greece",0.18
+"2003-02-24",13,"Central Greece",-1.68
+"2003-02-24",14,"Thessaly",-3.45
+"2003-02-25",1,"North Aegean",3.01
+"2003-02-25",2,"South Aegean",6.61
+"2003-02-25",3,"Athos",3.41
+"2003-02-25",4,"Attica",2.36
+"2003-02-25",5,"Crete",3.95
+"2003-02-25",6,"Epirus",-2.84
+"2003-02-25",7,"West Macedonia",-4.96
+"2003-02-25",8,"Central Macedonia",-0.71
+"2003-02-25",9,"East Macedonia and Thrace",-3.06
+"2003-02-25",10,"Ionian Islands",9.18
+"2003-02-25",11,"Peloponnese",-0.3
+"2003-02-25",12,"West Greece",-0.28
+"2003-02-25",13,"Central Greece",-1.36
+"2003-02-25",14,"Thessaly",-1.25
+"2003-02-26",1,"North Aegean",3.35
+"2003-02-26",2,"South Aegean",7.96
+"2003-02-26",3,"Athos",4.5
+"2003-02-26",4,"Attica",3.05
+"2003-02-26",5,"Crete",6.18
+"2003-02-26",6,"Epirus",-4.59
+"2003-02-26",7,"West Macedonia",-6.48
+"2003-02-26",8,"Central Macedonia",-2.61
+"2003-02-26",9,"East Macedonia and Thrace",-3.62
+"2003-02-26",10,"Ionian Islands",9.05
+"2003-02-26",11,"Peloponnese",-0.2
+"2003-02-26",12,"West Greece",-0.65
+"2003-02-26",13,"Central Greece",-1.95
+"2003-02-26",14,"Thessaly",-3.98
+"2003-02-27",1,"North Aegean",4.34
+"2003-02-27",2,"South Aegean",8.9
+"2003-02-27",3,"Athos",5.61
+"2003-02-27",4,"Attica",3.58
+"2003-02-27",5,"Crete",6.56
+"2003-02-27",6,"Epirus",-3.27
+"2003-02-27",7,"West Macedonia",-4.21
+"2003-02-27",8,"Central Macedonia",-1.09
+"2003-02-27",9,"East Macedonia and Thrace",-2.87
+"2003-02-27",10,"Ionian Islands",9.92
+"2003-02-27",11,"Peloponnese",1
+"2003-02-27",12,"West Greece",0.25
+"2003-02-27",13,"Central Greece",-1.27
+"2003-02-27",14,"Thessaly",-2.05
+"2003-02-28",1,"North Aegean",6.43
+"2003-02-28",2,"South Aegean",10.55
+"2003-02-28",3,"Athos",6.44
+"2003-02-28",4,"Attica",3.8
+"2003-02-28",5,"Crete",7.91
+"2003-02-28",6,"Epirus",-3.03
+"2003-02-28",7,"West Macedonia",-3.83
+"2003-02-28",8,"Central Macedonia",-0.9
+"2003-02-28",9,"East Macedonia and Thrace",-2.4
+"2003-02-28",10,"Ionian Islands",10.31
+"2003-02-28",11,"Peloponnese",1.73
+"2003-02-28",12,"West Greece",0.98
+"2003-02-28",13,"Central Greece",-0.85
+"2003-02-28",14,"Thessaly",-1.96
+"2003-03-01",1,"North Aegean",9.87
+"2003-03-01",2,"South Aegean",12.73
+"2003-03-01",3,"Athos",7.62
+"2003-03-01",4,"Attica",5.75
+"2003-03-01",5,"Crete",9.39
+"2003-03-01",6,"Epirus",-2.39
+"2003-03-01",7,"West Macedonia",-3.98
+"2003-03-01",8,"Central Macedonia",-1.17
+"2003-03-01",9,"East Macedonia and Thrace",-0.75
+"2003-03-01",10,"Ionian Islands",11.1
+"2003-03-01",11,"Peloponnese",3.4
+"2003-03-01",12,"West Greece",1.62
+"2003-03-01",13,"Central Greece",0.1
+"2003-03-01",14,"Thessaly",-2.26
+"2003-03-02",1,"North Aegean",11.03
+"2003-03-02",2,"South Aegean",12.97
+"2003-03-02",3,"Athos",8.3
+"2003-03-02",4,"Attica",7.39
+"2003-03-02",5,"Crete",11.32
+"2003-03-02",6,"Epirus",-0.67
+"2003-03-02",7,"West Macedonia",-2.24
+"2003-03-02",8,"Central Macedonia",0.15
+"2003-03-02",9,"East Macedonia and Thrace",-0.19
+"2003-03-02",10,"Ionian Islands",11.6
+"2003-03-02",11,"Peloponnese",4.66
+"2003-03-02",12,"West Greece",2.81
+"2003-03-02",13,"Central Greece",2.08
+"2003-03-02",14,"Thessaly",-0.11
+"2003-03-03",1,"North Aegean",9.92
+"2003-03-03",2,"South Aegean",12.58
+"2003-03-03",3,"Athos",9.36
+"2003-03-03",4,"Attica",6.8
+"2003-03-03",5,"Crete",10.42
+"2003-03-03",6,"Epirus",2.08
+"2003-03-03",7,"West Macedonia",-0.87
+"2003-03-03",8,"Central Macedonia",2.23
+"2003-03-03",9,"East Macedonia and Thrace",1.18
+"2003-03-03",10,"Ionian Islands",11.95
+"2003-03-03",11,"Peloponnese",5.06
+"2003-03-03",12,"West Greece",4.23
+"2003-03-03",13,"Central Greece",2.57
+"2003-03-03",14,"Thessaly",1.24
+"2003-03-04",1,"North Aegean",9.55
+"2003-03-04",2,"South Aegean",13.11
+"2003-03-04",3,"Athos",8.4
+"2003-03-04",4,"Attica",9.56
+"2003-03-04",5,"Crete",10.91
+"2003-03-04",6,"Epirus",3.61
+"2003-03-04",7,"West Macedonia",2.67
+"2003-03-04",8,"Central Macedonia",4.39
+"2003-03-04",9,"East Macedonia and Thrace",2.04
+"2003-03-04",10,"Ionian Islands",10.94
+"2003-03-04",11,"Peloponnese",8.59
+"2003-03-04",12,"West Greece",7.38
+"2003-03-04",13,"Central Greece",6.42
+"2003-03-04",14,"Thessaly",5.67
+"2003-03-05",1,"North Aegean",9.13
+"2003-03-05",2,"South Aegean",12.74
+"2003-03-05",3,"Athos",7.41
+"2003-03-05",4,"Attica",7
+"2003-03-05",5,"Crete",9.6
+"2003-03-05",6,"Epirus",1.4
+"2003-03-05",7,"West Macedonia",-0.08
+"2003-03-05",8,"Central Macedonia",2.81
+"2003-03-05",9,"East Macedonia and Thrace",1.37
+"2003-03-05",10,"Ionian Islands",11.35
+"2003-03-05",11,"Peloponnese",5.54
+"2003-03-05",12,"West Greece",6.14
+"2003-03-05",13,"Central Greece",4.69
+"2003-03-05",14,"Thessaly",3
+"2003-03-06",1,"North Aegean",7.78
+"2003-03-06",2,"South Aegean",11.02
+"2003-03-06",3,"Athos",7.1
+"2003-03-06",4,"Attica",7.79
+"2003-03-06",5,"Crete",8.69
+"2003-03-06",6,"Epirus",-0.08
+"2003-03-06",7,"West Macedonia",-2.09
+"2003-03-06",8,"Central Macedonia",2.13
+"2003-03-06",9,"East Macedonia and Thrace",1.16
+"2003-03-06",10,"Ionian Islands",12.36
+"2003-03-06",11,"Peloponnese",3.45
+"2003-03-06",12,"West Greece",3.03
+"2003-03-06",13,"Central Greece",3.19
+"2003-03-06",14,"Thessaly",1.18
+"2003-03-07",1,"North Aegean",8.2
+"2003-03-07",2,"South Aegean",11.76
+"2003-03-07",3,"Athos",8.77
+"2003-03-07",4,"Attica",7.51
+"2003-03-07",5,"Crete",8.21
+"2003-03-07",6,"Epirus",1.83
+"2003-03-07",7,"West Macedonia",-0.53
+"2003-03-07",8,"Central Macedonia",4
+"2003-03-07",9,"East Macedonia and Thrace",3.36
+"2003-03-07",10,"Ionian Islands",12.2
+"2003-03-07",11,"Peloponnese",4.35
+"2003-03-07",12,"West Greece",4.84
+"2003-03-07",13,"Central Greece",2.59
+"2003-03-07",14,"Thessaly",2.25
+"2003-03-08",1,"North Aegean",8.89
+"2003-03-08",2,"South Aegean",13.15
+"2003-03-08",3,"Athos",8.21
+"2003-03-08",4,"Attica",10.21
+"2003-03-08",5,"Crete",10.55
+"2003-03-08",6,"Epirus",5.18
+"2003-03-08",7,"West Macedonia",3.67
+"2003-03-08",8,"Central Macedonia",6.65
+"2003-03-08",9,"East Macedonia and Thrace",3
+"2003-03-08",10,"Ionian Islands",11.96
+"2003-03-08",11,"Peloponnese",8.18
+"2003-03-08",12,"West Greece",8.64
+"2003-03-08",13,"Central Greece",7.44
+"2003-03-08",14,"Thessaly",6.73
+"2003-03-09",1,"North Aegean",8.7
+"2003-03-09",2,"South Aegean",12.35
+"2003-03-09",3,"Athos",9.08
+"2003-03-09",4,"Attica",7.02
+"2003-03-09",5,"Crete",10.22
+"2003-03-09",6,"Epirus",2.22
+"2003-03-09",7,"West Macedonia",-0.06
+"2003-03-09",8,"Central Macedonia",2.56
+"2003-03-09",9,"East Macedonia and Thrace",2.02
+"2003-03-09",10,"Ionian Islands",12.26
+"2003-03-09",11,"Peloponnese",5.51
+"2003-03-09",12,"West Greece",5.66
+"2003-03-09",13,"Central Greece",4.09
+"2003-03-09",14,"Thessaly",3.58
+"2003-03-10",1,"North Aegean",8.37
+"2003-03-10",2,"South Aegean",11.92
+"2003-03-10",3,"Athos",9.2
+"2003-03-10",4,"Attica",6.36
+"2003-03-10",5,"Crete",9.65
+"2003-03-10",6,"Epirus",0.48
+"2003-03-10",7,"West Macedonia",-1.24
+"2003-03-10",8,"Central Macedonia",3.23
+"2003-03-10",9,"East Macedonia and Thrace",3.56
+"2003-03-10",10,"Ionian Islands",11.86
+"2003-03-10",11,"Peloponnese",6.63
+"2003-03-10",12,"West Greece",4.76
+"2003-03-10",13,"Central Greece",3.86
+"2003-03-10",14,"Thessaly",2.55
+"2003-03-11",1,"North Aegean",9.41
+"2003-03-11",2,"South Aegean",12.03
+"2003-03-11",3,"Athos",9.68
+"2003-03-11",4,"Attica",8.98
+"2003-03-11",5,"Crete",9.41
+"2003-03-11",6,"Epirus",2.88
+"2003-03-11",7,"West Macedonia",2.77
+"2003-03-11",8,"Central Macedonia",6.31
+"2003-03-11",9,"East Macedonia and Thrace",4.81
+"2003-03-11",10,"Ionian Islands",12.61
+"2003-03-11",11,"Peloponnese",6.91
+"2003-03-11",12,"West Greece",7
+"2003-03-11",13,"Central Greece",6.86
+"2003-03-11",14,"Thessaly",6.45
+"2003-03-12",1,"North Aegean",7.46
+"2003-03-12",2,"South Aegean",11.96
+"2003-03-12",3,"Athos",9.09
+"2003-03-12",4,"Attica",7.18
+"2003-03-12",5,"Crete",9.52
+"2003-03-12",6,"Epirus",1.28
+"2003-03-12",7,"West Macedonia",-0.79
+"2003-03-12",8,"Central Macedonia",3.65
+"2003-03-12",9,"East Macedonia and Thrace",2.58
+"2003-03-12",10,"Ionian Islands",12.99
+"2003-03-12",11,"Peloponnese",3.96
+"2003-03-12",12,"West Greece",4.45
+"2003-03-12",13,"Central Greece",3.65
+"2003-03-12",14,"Thessaly",2.13
+"2003-03-13",1,"North Aegean",10.07
+"2003-03-13",2,"South Aegean",13.88
+"2003-03-13",3,"Athos",11.24
+"2003-03-13",4,"Attica",8.83
+"2003-03-13",5,"Crete",9.68
+"2003-03-13",6,"Epirus",3
+"2003-03-13",7,"West Macedonia",0.95
+"2003-03-13",8,"Central Macedonia",5.54
+"2003-03-13",9,"East Macedonia and Thrace",5.43
+"2003-03-13",10,"Ionian Islands",12.68
+"2003-03-13",11,"Peloponnese",6.91
+"2003-03-13",12,"West Greece",6.46
+"2003-03-13",13,"Central Greece",5.88
+"2003-03-13",14,"Thessaly",5.4
+"2003-03-14",1,"North Aegean",11.82
+"2003-03-14",2,"South Aegean",15.08
+"2003-03-14",3,"Athos",9.31
+"2003-03-14",4,"Attica",10.21
+"2003-03-14",5,"Crete",11.24
+"2003-03-14",6,"Epirus",5.15
+"2003-03-14",7,"West Macedonia",0.69
+"2003-03-14",8,"Central Macedonia",5.31
+"2003-03-14",9,"East Macedonia and Thrace",5.22
+"2003-03-14",10,"Ionian Islands",13.2
+"2003-03-14",11,"Peloponnese",7.77
+"2003-03-14",12,"West Greece",8.76
+"2003-03-14",13,"Central Greece",7.16
+"2003-03-14",14,"Thessaly",6.16
+"2003-03-15",1,"North Aegean",8.14
+"2003-03-15",2,"South Aegean",12.62
+"2003-03-15",3,"Athos",7.85
+"2003-03-15",4,"Attica",8.58
+"2003-03-15",5,"Crete",11.85
+"2003-03-15",6,"Epirus",2.19
+"2003-03-15",7,"West Macedonia",0.04
+"2003-03-15",8,"Central Macedonia",3.55
+"2003-03-15",9,"East Macedonia and Thrace",0.72
+"2003-03-15",10,"Ionian Islands",10.64
+"2003-03-15",11,"Peloponnese",7.31
+"2003-03-15",12,"West Greece",7.04
+"2003-03-15",13,"Central Greece",4.97
+"2003-03-15",14,"Thessaly",3.93
+"2003-03-16",1,"North Aegean",8.13
+"2003-03-16",2,"South Aegean",12.24
+"2003-03-16",3,"Athos",7.4
+"2003-03-16",4,"Attica",8.29
+"2003-03-16",5,"Crete",10.69
+"2003-03-16",6,"Epirus",1.6
+"2003-03-16",7,"West Macedonia",0.25
+"2003-03-16",8,"Central Macedonia",4.12
+"2003-03-16",9,"East Macedonia and Thrace",2.51
+"2003-03-16",10,"Ionian Islands",9.49
+"2003-03-16",11,"Peloponnese",5.52
+"2003-03-16",12,"West Greece",5.48
+"2003-03-16",13,"Central Greece",4.97
+"2003-03-16",14,"Thessaly",3.82
+"2003-03-17",1,"North Aegean",7.81
+"2003-03-17",2,"South Aegean",11.62
+"2003-03-17",3,"Athos",7.13
+"2003-03-17",4,"Attica",7.64
+"2003-03-17",5,"Crete",9.08
+"2003-03-17",6,"Epirus",2.79
+"2003-03-17",7,"West Macedonia",-1.72
+"2003-03-17",8,"Central Macedonia",3.58
+"2003-03-17",9,"East Macedonia and Thrace",2.97
+"2003-03-17",10,"Ionian Islands",9.08
+"2003-03-17",11,"Peloponnese",4.44
+"2003-03-17",12,"West Greece",5.25
+"2003-03-17",13,"Central Greece",4.79
+"2003-03-17",14,"Thessaly",3.99
+"2003-03-18",1,"North Aegean",8.22
+"2003-03-18",2,"South Aegean",11.98
+"2003-03-18",3,"Athos",7.23
+"2003-03-18",4,"Attica",7.18
+"2003-03-18",5,"Crete",9.47
+"2003-03-18",6,"Epirus",1.04
+"2003-03-18",7,"West Macedonia",-2.8
+"2003-03-18",8,"Central Macedonia",1.47
+"2003-03-18",9,"East Macedonia and Thrace",1.36
+"2003-03-18",10,"Ionian Islands",10.22
+"2003-03-18",11,"Peloponnese",5.18
+"2003-03-18",12,"West Greece",5.19
+"2003-03-18",13,"Central Greece",4.36
+"2003-03-18",14,"Thessaly",1.85
+"2003-03-19",1,"North Aegean",8
+"2003-03-19",2,"South Aegean",11.07
+"2003-03-19",3,"Athos",9.82
+"2003-03-19",4,"Attica",6.97
+"2003-03-19",5,"Crete",8.84
+"2003-03-19",6,"Epirus",0.62
+"2003-03-19",7,"West Macedonia",-0.39
+"2003-03-19",8,"Central Macedonia",4.91
+"2003-03-19",9,"East Macedonia and Thrace",3.49
+"2003-03-19",10,"Ionian Islands",12.48
+"2003-03-19",11,"Peloponnese",2.47
+"2003-03-19",12,"West Greece",2.97
+"2003-03-19",13,"Central Greece",3.15
+"2003-03-19",14,"Thessaly",1.96
+"2003-03-20",1,"North Aegean",8.25
+"2003-03-20",2,"South Aegean",10.53
+"2003-03-20",3,"Athos",9.12
+"2003-03-20",4,"Attica",6.73
+"2003-03-20",5,"Crete",8.65
+"2003-03-20",6,"Epirus",0.15
+"2003-03-20",7,"West Macedonia",-1.34
+"2003-03-20",8,"Central Macedonia",4.15
+"2003-03-20",9,"East Macedonia and Thrace",3.69
+"2003-03-20",10,"Ionian Islands",11.95
+"2003-03-20",11,"Peloponnese",4.82
+"2003-03-20",12,"West Greece",4.2
+"2003-03-20",13,"Central Greece",3.03
+"2003-03-20",14,"Thessaly",1.97
+"2003-03-21",1,"North Aegean",9.91
+"2003-03-21",2,"South Aegean",11.78
+"2003-03-21",3,"Athos",10.5
+"2003-03-21",4,"Attica",8.08
+"2003-03-21",5,"Crete",7.84
+"2003-03-21",6,"Epirus",1.54
+"2003-03-21",7,"West Macedonia",-0.56
+"2003-03-21",8,"Central Macedonia",5.3
+"2003-03-21",9,"East Macedonia and Thrace",4.2
+"2003-03-21",10,"Ionian Islands",12.06
+"2003-03-21",11,"Peloponnese",5.4
+"2003-03-21",12,"West Greece",4.98
+"2003-03-21",13,"Central Greece",3.62
+"2003-03-21",14,"Thessaly",3.17
+"2003-03-22",1,"North Aegean",6.21
+"2003-03-22",2,"South Aegean",12.3
+"2003-03-22",3,"Athos",4.43
+"2003-03-22",4,"Attica",8.48
+"2003-03-22",5,"Crete",8.9
+"2003-03-22",6,"Epirus",1.51
+"2003-03-22",7,"West Macedonia",-2.26
+"2003-03-22",8,"Central Macedonia",1.3
+"2003-03-22",9,"East Macedonia and Thrace",-1.08
+"2003-03-22",10,"Ionian Islands",12.51
+"2003-03-22",11,"Peloponnese",5.85
+"2003-03-22",12,"West Greece",5.47
+"2003-03-22",13,"Central Greece",4.43
+"2003-03-22",14,"Thessaly",2.84
+"2003-03-23",1,"North Aegean",4.07
+"2003-03-23",2,"South Aegean",9.05
+"2003-03-23",3,"Athos",4.29
+"2003-03-23",4,"Attica",5.42
+"2003-03-23",5,"Crete",8.07
+"2003-03-23",6,"Epirus",1.4
+"2003-03-23",7,"West Macedonia",-1.79
+"2003-03-23",8,"Central Macedonia",0.33
+"2003-03-23",9,"East Macedonia and Thrace",-2.68
+"2003-03-23",10,"Ionian Islands",8.47
+"2003-03-23",11,"Peloponnese",3.78
+"2003-03-23",12,"West Greece",3.75
+"2003-03-23",13,"Central Greece",2.46
+"2003-03-23",14,"Thessaly",1.72
+"2003-03-24",1,"North Aegean",3.66
+"2003-03-24",2,"South Aegean",7.04
+"2003-03-24",3,"Athos",4.34
+"2003-03-24",4,"Attica",3.74
+"2003-03-24",5,"Crete",5.84
+"2003-03-24",6,"Epirus",-0.29
+"2003-03-24",7,"West Macedonia",-3.15
+"2003-03-24",8,"Central Macedonia",-1.03
+"2003-03-24",9,"East Macedonia and Thrace",-2.4
+"2003-03-24",10,"Ionian Islands",9.43
+"2003-03-24",11,"Peloponnese",0.68
+"2003-03-24",12,"West Greece",1.69
+"2003-03-24",13,"Central Greece",-0.08
+"2003-03-24",14,"Thessaly",-0.95
+"2003-03-25",1,"North Aegean",5.11
+"2003-03-25",2,"South Aegean",8.03
+"2003-03-25",3,"Athos",5.71
+"2003-03-25",4,"Attica",5.08
+"2003-03-25",5,"Crete",5.97
+"2003-03-25",6,"Epirus",0.57
+"2003-03-25",7,"West Macedonia",-1.76
+"2003-03-25",8,"Central Macedonia",0.64
+"2003-03-25",9,"East Macedonia and Thrace",-1.36
+"2003-03-25",10,"Ionian Islands",11.12
+"2003-03-25",11,"Peloponnese",1.27
+"2003-03-25",12,"West Greece",0.93
+"2003-03-25",13,"Central Greece",1.06
+"2003-03-25",14,"Thessaly",-0.4
+"2003-03-26",1,"North Aegean",10
+"2003-03-26",2,"South Aegean",12.92
+"2003-03-26",3,"Athos",9.91
+"2003-03-26",4,"Attica",7.58
+"2003-03-26",5,"Crete",10.23
+"2003-03-26",6,"Epirus",2.67
+"2003-03-26",7,"West Macedonia",1.18
+"2003-03-26",8,"Central Macedonia",3.16
+"2003-03-26",9,"East Macedonia and Thrace",1.71
+"2003-03-26",10,"Ionian Islands",13.01
+"2003-03-26",11,"Peloponnese",4.26
+"2003-03-26",12,"West Greece",4.25
+"2003-03-26",13,"Central Greece",5.11
+"2003-03-26",14,"Thessaly",3.14
+"2003-03-27",1,"North Aegean",11.63
+"2003-03-27",2,"South Aegean",14.64
+"2003-03-27",3,"Athos",10.91
+"2003-03-27",4,"Attica",9.28
+"2003-03-27",5,"Crete",10.23
+"2003-03-27",6,"Epirus",3.32
+"2003-03-27",7,"West Macedonia",3.84
+"2003-03-27",8,"Central Macedonia",5.72
+"2003-03-27",9,"East Macedonia and Thrace",4.57
+"2003-03-27",10,"Ionian Islands",12.94
+"2003-03-27",11,"Peloponnese",6
+"2003-03-27",12,"West Greece",5.3
+"2003-03-27",13,"Central Greece",6.86
+"2003-03-27",14,"Thessaly",3.92
+"2003-03-28",1,"North Aegean",10.12
+"2003-03-28",2,"South Aegean",13.83
+"2003-03-28",3,"Athos",9.59
+"2003-03-28",4,"Attica",9.46
+"2003-03-28",5,"Crete",10.14
+"2003-03-28",6,"Epirus",4.37
+"2003-03-28",7,"West Macedonia",2.28
+"2003-03-28",8,"Central Macedonia",6.24
+"2003-03-28",9,"East Macedonia and Thrace",5.06
+"2003-03-28",10,"Ionian Islands",13.12
+"2003-03-28",11,"Peloponnese",6.65
+"2003-03-28",12,"West Greece",6.73
+"2003-03-28",13,"Central Greece",6.48
+"2003-03-28",14,"Thessaly",5.16
+"2003-03-29",1,"North Aegean",9.86
+"2003-03-29",2,"South Aegean",13.43
+"2003-03-29",3,"Athos",9.74
+"2003-03-29",4,"Attica",9.85
+"2003-03-29",5,"Crete",9.52
+"2003-03-29",6,"Epirus",4.65
+"2003-03-29",7,"West Macedonia",4.01
+"2003-03-29",8,"Central Macedonia",6.7
+"2003-03-29",9,"East Macedonia and Thrace",4.35
+"2003-03-29",10,"Ionian Islands",12.26
+"2003-03-29",11,"Peloponnese",7.04
+"2003-03-29",12,"West Greece",6.54
+"2003-03-29",13,"Central Greece",6.75
+"2003-03-29",14,"Thessaly",5.35
+"2003-03-30",1,"North Aegean",10.32
+"2003-03-30",2,"South Aegean",13.72
+"2003-03-30",3,"Athos",10.04
+"2003-03-30",4,"Attica",9.06
+"2003-03-30",5,"Crete",10.15
+"2003-03-30",6,"Epirus",4.73
+"2003-03-30",7,"West Macedonia",4.07
+"2003-03-30",8,"Central Macedonia",7.22
+"2003-03-30",9,"East Macedonia and Thrace",4.53
+"2003-03-30",10,"Ionian Islands",12.62
+"2003-03-30",11,"Peloponnese",7.68
+"2003-03-30",12,"West Greece",6.96
+"2003-03-30",13,"Central Greece",7.28
+"2003-03-30",14,"Thessaly",5.8
+"2003-03-31",1,"North Aegean",11.12
+"2003-03-31",2,"South Aegean",14.13
+"2003-03-31",3,"Athos",10.38
+"2003-03-31",4,"Attica",10.45
+"2003-03-31",5,"Crete",10.23
+"2003-03-31",6,"Epirus",4.02
+"2003-03-31",7,"West Macedonia",3.83
+"2003-03-31",8,"Central Macedonia",7.48
+"2003-03-31",9,"East Macedonia and Thrace",5.29
+"2003-03-31",10,"Ionian Islands",13.07
+"2003-03-31",11,"Peloponnese",7.06
+"2003-03-31",12,"West Greece",6.63
+"2003-03-31",13,"Central Greece",6.55
+"2003-03-31",14,"Thessaly",5.51
+"2003-04-01",1,"North Aegean",14.15
+"2003-04-01",2,"South Aegean",14.64
+"2003-04-01",3,"Athos",11.54
+"2003-04-01",4,"Attica",12.64
+"2003-04-01",5,"Crete",12.24
+"2003-04-01",6,"Epirus",7.47
+"2003-04-01",7,"West Macedonia",6.74
+"2003-04-01",8,"Central Macedonia",10.98
+"2003-04-01",9,"East Macedonia and Thrace",9.64
+"2003-04-01",10,"Ionian Islands",13.78
+"2003-04-01",11,"Peloponnese",10.32
+"2003-04-01",12,"West Greece",10.11
+"2003-04-01",13,"Central Greece",9.9
+"2003-04-01",14,"Thessaly",9.17
+"2003-04-02",1,"North Aegean",10.67
+"2003-04-02",2,"South Aegean",13.39
+"2003-04-02",3,"Athos",8.6
+"2003-04-02",4,"Attica",11.31
+"2003-04-02",5,"Crete",11.75
+"2003-04-02",6,"Epirus",4.88
+"2003-04-02",7,"West Macedonia",2.87
+"2003-04-02",8,"Central Macedonia",6.32
+"2003-04-02",9,"East Macedonia and Thrace",2.2
+"2003-04-02",10,"Ionian Islands",13.87
+"2003-04-02",11,"Peloponnese",8.12
+"2003-04-02",12,"West Greece",8.74
+"2003-04-02",13,"Central Greece",8.65
+"2003-04-02",14,"Thessaly",6.66
+"2003-04-03",1,"North Aegean",11.22
+"2003-04-03",2,"South Aegean",12.9
+"2003-04-03",3,"Athos",10.17
+"2003-04-03",4,"Attica",7.51
+"2003-04-03",5,"Crete",10.69
+"2003-04-03",6,"Epirus",4.57
+"2003-04-03",7,"West Macedonia",2.37
+"2003-04-03",8,"Central Macedonia",5.75
+"2003-04-03",9,"East Macedonia and Thrace",4.32
+"2003-04-03",10,"Ionian Islands",12.94
+"2003-04-03",11,"Peloponnese",6.71
+"2003-04-03",12,"West Greece",7.48
+"2003-04-03",13,"Central Greece",5.37
+"2003-04-03",14,"Thessaly",4.58
+"2003-04-04",1,"North Aegean",12.52
+"2003-04-04",2,"South Aegean",14.03
+"2003-04-04",3,"Athos",10.75
+"2003-04-04",4,"Attica",9.82
+"2003-04-04",5,"Crete",10.7
+"2003-04-04",6,"Epirus",5.35
+"2003-04-04",7,"West Macedonia",3.42
+"2003-04-04",8,"Central Macedonia",6.56
+"2003-04-04",9,"East Macedonia and Thrace",6.03
+"2003-04-04",10,"Ionian Islands",13.82
+"2003-04-04",11,"Peloponnese",8.69
+"2003-04-04",12,"West Greece",8.44
+"2003-04-04",13,"Central Greece",7.48
+"2003-04-04",14,"Thessaly",6.41
+"2003-04-05",1,"North Aegean",12.92
+"2003-04-05",2,"South Aegean",15.23
+"2003-04-05",3,"Athos",11.34
+"2003-04-05",4,"Attica",10.5
+"2003-04-05",5,"Crete",12.16
+"2003-04-05",6,"Epirus",7.2
+"2003-04-05",7,"West Macedonia",6.13
+"2003-04-05",8,"Central Macedonia",10.65
+"2003-04-05",9,"East Macedonia and Thrace",7.72
+"2003-04-05",10,"Ionian Islands",12.36
+"2003-04-05",11,"Peloponnese",9.49
+"2003-04-05",12,"West Greece",9.66
+"2003-04-05",13,"Central Greece",8.18
+"2003-04-05",14,"Thessaly",8.28
+"2003-04-06",1,"North Aegean",9.55
+"2003-04-06",2,"South Aegean",12.71
+"2003-04-06",3,"Athos",9.86
+"2003-04-06",4,"Attica",10.33
+"2003-04-06",5,"Crete",11.96
+"2003-04-06",6,"Epirus",3.76
+"2003-04-06",7,"West Macedonia",1.54
+"2003-04-06",8,"Central Macedonia",5.25
+"2003-04-06",9,"East Macedonia and Thrace",3.64
+"2003-04-06",10,"Ionian Islands",12.91
+"2003-04-06",11,"Peloponnese",8.41
+"2003-04-06",12,"West Greece",8.98
+"2003-04-06",13,"Central Greece",7.72
+"2003-04-06",14,"Thessaly",5.19
+"2003-04-07",1,"North Aegean",10.96
+"2003-04-07",2,"South Aegean",13.83
+"2003-04-07",3,"Athos",8.14
+"2003-04-07",4,"Attica",9.27
+"2003-04-07",5,"Crete",10.99
+"2003-04-07",6,"Epirus",4.18
+"2003-04-07",7,"West Macedonia",-1.72
+"2003-04-07",8,"Central Macedonia",3.01
+"2003-04-07",9,"East Macedonia and Thrace",2.59
+"2003-04-07",10,"Ionian Islands",12.52
+"2003-04-07",11,"Peloponnese",5.82
+"2003-04-07",12,"West Greece",6.24
+"2003-04-07",13,"Central Greece",5.47
+"2003-04-07",14,"Thessaly",4.49
+"2003-04-08",1,"North Aegean",8.78
+"2003-04-08",2,"South Aegean",13.8
+"2003-04-08",3,"Athos",5.09
+"2003-04-08",4,"Attica",8.92
+"2003-04-08",5,"Crete",12.22
+"2003-04-08",6,"Epirus",-2.61
+"2003-04-08",7,"West Macedonia",-9
+"2003-04-08",8,"Central Macedonia",-3.19
+"2003-04-08",9,"East Macedonia and Thrace",-3.59
+"2003-04-08",10,"Ionian Islands",8.34
+"2003-04-08",11,"Peloponnese",6.47
+"2003-04-08",12,"West Greece",5.24
+"2003-04-08",13,"Central Greece",4.47
+"2003-04-08",14,"Thessaly",-0.71
+"2003-04-09",1,"North Aegean",7.02
+"2003-04-09",2,"South Aegean",10.26
+"2003-04-09",3,"Athos",7.73
+"2003-04-09",4,"Attica",3.77
+"2003-04-09",5,"Crete",8.68
+"2003-04-09",6,"Epirus",-6.23
+"2003-04-09",7,"West Macedonia",-9.42
+"2003-04-09",8,"Central Macedonia",-2.1
+"2003-04-09",9,"East Macedonia and Thrace",-3.82
+"2003-04-09",10,"Ionian Islands",8.77
+"2003-04-09",11,"Peloponnese",2.71
+"2003-04-09",12,"West Greece",2
+"2003-04-09",13,"Central Greece",0.97
+"2003-04-09",14,"Thessaly",-3.82
+"2003-04-10",1,"North Aegean",8.91
+"2003-04-10",2,"South Aegean",11.53
+"2003-04-10",3,"Athos",9.68
+"2003-04-10",4,"Attica",8.26
+"2003-04-10",5,"Crete",9.33
+"2003-04-10",6,"Epirus",3.06
+"2003-04-10",7,"West Macedonia",0.59
+"2003-04-10",8,"Central Macedonia",4.29
+"2003-04-10",9,"East Macedonia and Thrace",0.68
+"2003-04-10",10,"Ionian Islands",11.29
+"2003-04-10",11,"Peloponnese",5.48
+"2003-04-10",12,"West Greece",5.23
+"2003-04-10",13,"Central Greece",4.65
+"2003-04-10",14,"Thessaly",3.32
+"2003-04-11",1,"North Aegean",12.46
+"2003-04-11",2,"South Aegean",14.35
+"2003-04-11",3,"Athos",10.43
+"2003-04-11",4,"Attica",11.47
+"2003-04-11",5,"Crete",14.44
+"2003-04-11",6,"Epirus",9.62
+"2003-04-11",7,"West Macedonia",4.72
+"2003-04-11",8,"Central Macedonia",8.53
+"2003-04-11",9,"East Macedonia and Thrace",6.81
+"2003-04-11",10,"Ionian Islands",15.27
+"2003-04-11",11,"Peloponnese",11.64
+"2003-04-11",12,"West Greece",12.23
+"2003-04-11",13,"Central Greece",9.29
+"2003-04-11",14,"Thessaly",8.04
+"2003-04-12",1,"North Aegean",13.91
+"2003-04-12",2,"South Aegean",15.05
+"2003-04-12",3,"Athos",11.7
+"2003-04-12",4,"Attica",13.19
+"2003-04-12",5,"Crete",13.32
+"2003-04-12",6,"Epirus",11.93
+"2003-04-12",7,"West Macedonia",8.12
+"2003-04-12",8,"Central Macedonia",10.84
+"2003-04-12",9,"East Macedonia and Thrace",8.57
+"2003-04-12",10,"Ionian Islands",14.87
+"2003-04-12",11,"Peloponnese",12.47
+"2003-04-12",12,"West Greece",12.73
+"2003-04-12",13,"Central Greece",11.6
+"2003-04-12",14,"Thessaly",9.9
+"2003-04-13",1,"North Aegean",13.3
+"2003-04-13",2,"South Aegean",14.8
+"2003-04-13",3,"Athos",12.07
+"2003-04-13",4,"Attica",13.2
+"2003-04-13",5,"Crete",13.16
+"2003-04-13",6,"Epirus",8.73
+"2003-04-13",7,"West Macedonia",6.33
+"2003-04-13",8,"Central Macedonia",9.48
+"2003-04-13",9,"East Macedonia and Thrace",10.03
+"2003-04-13",10,"Ionian Islands",14.42
+"2003-04-13",11,"Peloponnese",11.87
+"2003-04-13",12,"West Greece",11.46
+"2003-04-13",13,"Central Greece",11.08
+"2003-04-13",14,"Thessaly",10.03
+"2003-04-14",1,"North Aegean",12.4
+"2003-04-14",2,"South Aegean",14.58
+"2003-04-14",3,"Athos",11.26
+"2003-04-14",4,"Attica",12.2
+"2003-04-14",5,"Crete",12.78
+"2003-04-14",6,"Epirus",6.37
+"2003-04-14",7,"West Macedonia",5.33
+"2003-04-14",8,"Central Macedonia",8.45
+"2003-04-14",9,"East Macedonia and Thrace",7.81
+"2003-04-14",10,"Ionian Islands",14.04
+"2003-04-14",11,"Peloponnese",9.72
+"2003-04-14",12,"West Greece",9.65
+"2003-04-14",13,"Central Greece",8.92
+"2003-04-14",14,"Thessaly",8.27
+"2003-04-15",1,"North Aegean",11.07
+"2003-04-15",2,"South Aegean",13.33
+"2003-04-15",3,"Athos",12.43
+"2003-04-15",4,"Attica",11.85
+"2003-04-15",5,"Crete",11.2
+"2003-04-15",6,"Epirus",6
+"2003-04-15",7,"West Macedonia",4.46
+"2003-04-15",8,"Central Macedonia",8.47
+"2003-04-15",9,"East Macedonia and Thrace",9
+"2003-04-15",10,"Ionian Islands",14.39
+"2003-04-15",11,"Peloponnese",8.78
+"2003-04-15",12,"West Greece",9.04
+"2003-04-15",13,"Central Greece",9.44
+"2003-04-15",14,"Thessaly",8.45
+"2003-04-16",1,"North Aegean",11.4
+"2003-04-16",2,"South Aegean",14.84
+"2003-04-16",3,"Athos",12.07
+"2003-04-16",4,"Attica",12.32
+"2003-04-16",5,"Crete",12.68
+"2003-04-16",6,"Epirus",6.78
+"2003-04-16",7,"West Macedonia",7.49
+"2003-04-16",8,"Central Macedonia",12
+"2003-04-16",9,"East Macedonia and Thrace",8.87
+"2003-04-16",10,"Ionian Islands",14.98
+"2003-04-16",11,"Peloponnese",10.28
+"2003-04-16",12,"West Greece",10.11
+"2003-04-16",13,"Central Greece",9.67
+"2003-04-16",14,"Thessaly",9.61
+"2003-04-17",1,"North Aegean",11.34
+"2003-04-17",2,"South Aegean",14.22
+"2003-04-17",3,"Athos",11.66
+"2003-04-17",4,"Attica",12.47
+"2003-04-17",5,"Crete",12.55
+"2003-04-17",6,"Epirus",9.49
+"2003-04-17",7,"West Macedonia",7.88
+"2003-04-17",8,"Central Macedonia",11.38
+"2003-04-17",9,"East Macedonia and Thrace",7.58
+"2003-04-17",10,"Ionian Islands",15.16
+"2003-04-17",11,"Peloponnese",11.24
+"2003-04-17",12,"West Greece",12.73
+"2003-04-17",13,"Central Greece",10.39
+"2003-04-17",14,"Thessaly",10.08
+"2003-04-18",1,"North Aegean",10.92
+"2003-04-18",2,"South Aegean",14.18
+"2003-04-18",3,"Athos",10.71
+"2003-04-18",4,"Attica",10.84
+"2003-04-18",5,"Crete",12.16
+"2003-04-18",6,"Epirus",8.42
+"2003-04-18",7,"West Macedonia",7.54
+"2003-04-18",8,"Central Macedonia",11.15
+"2003-04-18",9,"East Macedonia and Thrace",8.62
+"2003-04-18",10,"Ionian Islands",12.43
+"2003-04-18",11,"Peloponnese",7.73
+"2003-04-18",12,"West Greece",8.77
+"2003-04-18",13,"Central Greece",8.27
+"2003-04-18",14,"Thessaly",8.69
+"2003-04-19",1,"North Aegean",9.71
+"2003-04-19",2,"South Aegean",12.52
+"2003-04-19",3,"Athos",10.16
+"2003-04-19",4,"Attica",9.39
+"2003-04-19",5,"Crete",9.87
+"2003-04-19",6,"Epirus",5.16
+"2003-04-19",7,"West Macedonia",4.4
+"2003-04-19",8,"Central Macedonia",8.73
+"2003-04-19",9,"East Macedonia and Thrace",6.92
+"2003-04-19",10,"Ionian Islands",13.89
+"2003-04-19",11,"Peloponnese",6.33
+"2003-04-19",12,"West Greece",7.12
+"2003-04-19",13,"Central Greece",6.36
+"2003-04-19",14,"Thessaly",6.27
+"2003-04-20",1,"North Aegean",9.08
+"2003-04-20",2,"South Aegean",12.36
+"2003-04-20",3,"Athos",10.4
+"2003-04-20",4,"Attica",9.47
+"2003-04-20",5,"Crete",10.89
+"2003-04-20",6,"Epirus",5.64
+"2003-04-20",7,"West Macedonia",3.2
+"2003-04-20",8,"Central Macedonia",8.63
+"2003-04-20",9,"East Macedonia and Thrace",7.23
+"2003-04-20",10,"Ionian Islands",14.24
+"2003-04-20",11,"Peloponnese",8.35
+"2003-04-20",12,"West Greece",8.09
+"2003-04-20",13,"Central Greece",7.39
+"2003-04-20",14,"Thessaly",6.87
+"2003-04-21",1,"North Aegean",10.1
+"2003-04-21",2,"South Aegean",12.82
+"2003-04-21",3,"Athos",11.59
+"2003-04-21",4,"Attica",9.62
+"2003-04-21",5,"Crete",10.95
+"2003-04-21",6,"Epirus",6.23
+"2003-04-21",7,"West Macedonia",4.67
+"2003-04-21",8,"Central Macedonia",8.17
+"2003-04-21",9,"East Macedonia and Thrace",5.3
+"2003-04-21",10,"Ionian Islands",13.72
+"2003-04-21",11,"Peloponnese",9.8
+"2003-04-21",12,"West Greece",9.24
+"2003-04-21",13,"Central Greece",8.26
+"2003-04-21",14,"Thessaly",7.5
+"2003-04-22",1,"North Aegean",11.92
+"2003-04-22",2,"South Aegean",13.92
+"2003-04-22",3,"Athos",12.04
+"2003-04-22",4,"Attica",10.65
+"2003-04-22",5,"Crete",10.81
+"2003-04-22",6,"Epirus",6.42
+"2003-04-22",7,"West Macedonia",5.67
+"2003-04-22",8,"Central Macedonia",9.69
+"2003-04-22",9,"East Macedonia and Thrace",8.4
+"2003-04-22",10,"Ionian Islands",13.07
+"2003-04-22",11,"Peloponnese",9.23
+"2003-04-22",12,"West Greece",9.79
+"2003-04-22",13,"Central Greece",8.73
+"2003-04-22",14,"Thessaly",8.61
+"2003-04-23",1,"North Aegean",12.12
+"2003-04-23",2,"South Aegean",14.53
+"2003-04-23",3,"Athos",11.76
+"2003-04-23",4,"Attica",11.16
+"2003-04-23",5,"Crete",14.38
+"2003-04-23",6,"Epirus",7.88
+"2003-04-23",7,"West Macedonia",6.05
+"2003-04-23",8,"Central Macedonia",9.04
+"2003-04-23",9,"East Macedonia and Thrace",9.26
+"2003-04-23",10,"Ionian Islands",14.26
+"2003-04-23",11,"Peloponnese",9.8
+"2003-04-23",12,"West Greece",11.27
+"2003-04-23",13,"Central Greece",10.11
+"2003-04-23",14,"Thessaly",8.84
+"2003-04-24",1,"North Aegean",12.7
+"2003-04-24",2,"South Aegean",15
+"2003-04-24",3,"Athos",11.69
+"2003-04-24",4,"Attica",10.12
+"2003-04-24",5,"Crete",12.58
+"2003-04-24",6,"Epirus",6.54
+"2003-04-24",7,"West Macedonia",5.56
+"2003-04-24",8,"Central Macedonia",9.07
+"2003-04-24",9,"East Macedonia and Thrace",8.14
+"2003-04-24",10,"Ionian Islands",13.86
+"2003-04-24",11,"Peloponnese",9.67
+"2003-04-24",12,"West Greece",9.73
+"2003-04-24",13,"Central Greece",8.75
+"2003-04-24",14,"Thessaly",7.74
+"2003-04-25",1,"North Aegean",13.04
+"2003-04-25",2,"South Aegean",15.16
+"2003-04-25",3,"Athos",12.05
+"2003-04-25",4,"Attica",11.44
+"2003-04-25",5,"Crete",12.6
+"2003-04-25",6,"Epirus",7.09
+"2003-04-25",7,"West Macedonia",4.43
+"2003-04-25",8,"Central Macedonia",9.19
+"2003-04-25",9,"East Macedonia and Thrace",9.76
+"2003-04-25",10,"Ionian Islands",14.78
+"2003-04-25",11,"Peloponnese",10.06
+"2003-04-25",12,"West Greece",11.05
+"2003-04-25",13,"Central Greece",9.22
+"2003-04-25",14,"Thessaly",8.33
+"2003-04-26",1,"North Aegean",12.2
+"2003-04-26",2,"South Aegean",14.24
+"2003-04-26",3,"Athos",13.07
+"2003-04-26",4,"Attica",10.63
+"2003-04-26",5,"Crete",12.4
+"2003-04-26",6,"Epirus",6.24
+"2003-04-26",7,"West Macedonia",4.28
+"2003-04-26",8,"Central Macedonia",9.36
+"2003-04-26",9,"East Macedonia and Thrace",8.67
+"2003-04-26",10,"Ionian Islands",15
+"2003-04-26",11,"Peloponnese",8.53
+"2003-04-26",12,"West Greece",8.61
+"2003-04-26",13,"Central Greece",7.83
+"2003-04-26",14,"Thessaly",7
+"2003-04-27",1,"North Aegean",12.46
+"2003-04-27",2,"South Aegean",15.61
+"2003-04-27",3,"Athos",12.82
+"2003-04-27",4,"Attica",11.88
+"2003-04-27",5,"Crete",13.03
+"2003-04-27",6,"Epirus",7.27
+"2003-04-27",7,"West Macedonia",5.94
+"2003-04-27",8,"Central Macedonia",10.23
+"2003-04-27",9,"East Macedonia and Thrace",8.43
+"2003-04-27",10,"Ionian Islands",14.51
+"2003-04-27",11,"Peloponnese",9.83
+"2003-04-27",12,"West Greece",9.03
+"2003-04-27",13,"Central Greece",9.46
+"2003-04-27",14,"Thessaly",8.78
+"2003-04-28",1,"North Aegean",13.53
+"2003-04-28",2,"South Aegean",15.8
+"2003-04-28",3,"Athos",12.98
+"2003-04-28",4,"Attica",12.26
+"2003-04-28",5,"Crete",12.57
+"2003-04-28",6,"Epirus",8.5
+"2003-04-28",7,"West Macedonia",7.58
+"2003-04-28",8,"Central Macedonia",10.68
+"2003-04-28",9,"East Macedonia and Thrace",10.75
+"2003-04-28",10,"Ionian Islands",15.12
+"2003-04-28",11,"Peloponnese",10.04
+"2003-04-28",12,"West Greece",10.1
+"2003-04-28",13,"Central Greece",9.29
+"2003-04-28",14,"Thessaly",9.36
+"2003-04-29",1,"North Aegean",13.52
+"2003-04-29",2,"South Aegean",15.87
+"2003-04-29",3,"Athos",13.88
+"2003-04-29",4,"Attica",14.14
+"2003-04-29",5,"Crete",13.19
+"2003-04-29",6,"Epirus",9.69
+"2003-04-29",7,"West Macedonia",8.05
+"2003-04-29",8,"Central Macedonia",11.38
+"2003-04-29",9,"East Macedonia and Thrace",9.29
+"2003-04-29",10,"Ionian Islands",15.38
+"2003-04-29",11,"Peloponnese",11.56
+"2003-04-29",12,"West Greece",11.46
+"2003-04-29",13,"Central Greece",11.59
+"2003-04-29",14,"Thessaly",11.74
+"2003-04-30",1,"North Aegean",14.93
+"2003-04-30",2,"South Aegean",16.83
+"2003-04-30",3,"Athos",14.95
+"2003-04-30",4,"Attica",14.48
+"2003-04-30",5,"Crete",14.08
+"2003-04-30",6,"Epirus",9.09
+"2003-04-30",7,"West Macedonia",8.79
+"2003-04-30",8,"Central Macedonia",13.39
+"2003-04-30",9,"East Macedonia and Thrace",11.59
+"2003-04-30",10,"Ionian Islands",15.18
+"2003-04-30",11,"Peloponnese",11.86
+"2003-04-30",12,"West Greece",11.07
+"2003-04-30",13,"Central Greece",11.57
+"2003-04-30",14,"Thessaly",12.38
+"2003-05-01",1,"North Aegean",15.77
+"2003-05-01",2,"South Aegean",17.4
+"2003-05-01",3,"Athos",15.99
+"2003-05-01",4,"Attica",15.68
+"2003-05-01",5,"Crete",14.66
+"2003-05-01",6,"Epirus",11.56
+"2003-05-01",7,"West Macedonia",12.05
+"2003-05-01",8,"Central Macedonia",15.09
+"2003-05-01",9,"East Macedonia and Thrace",13.06
+"2003-05-01",10,"Ionian Islands",15.28
+"2003-05-01",11,"Peloponnese",13.48
+"2003-05-01",12,"West Greece",12.39
+"2003-05-01",13,"Central Greece",13.75
+"2003-05-01",14,"Thessaly",13.66
+"2003-05-02",1,"North Aegean",16.57
+"2003-05-02",2,"South Aegean",18.06
+"2003-05-02",3,"Athos",16.91
+"2003-05-02",4,"Attica",16.51
+"2003-05-02",5,"Crete",16.46
+"2003-05-02",6,"Epirus",13.24
+"2003-05-02",7,"West Macedonia",14.42
+"2003-05-02",8,"Central Macedonia",16.47
+"2003-05-02",9,"East Macedonia and Thrace",15.08
+"2003-05-02",10,"Ionian Islands",16.61
+"2003-05-02",11,"Peloponnese",14.47
+"2003-05-02",12,"West Greece",13.66
+"2003-05-02",13,"Central Greece",16.06
+"2003-05-02",14,"Thessaly",14.89
+"2003-05-03",1,"North Aegean",16.81
+"2003-05-03",2,"South Aegean",17.99
+"2003-05-03",3,"Athos",17.9
+"2003-05-03",4,"Attica",16.68
+"2003-05-03",5,"Crete",16.6
+"2003-05-03",6,"Epirus",13.32
+"2003-05-03",7,"West Macedonia",13.18
+"2003-05-03",8,"Central Macedonia",16.15
+"2003-05-03",9,"East Macedonia and Thrace",15.38
+"2003-05-03",10,"Ionian Islands",17.15
+"2003-05-03",11,"Peloponnese",14.6
+"2003-05-03",12,"West Greece",14.07
+"2003-05-03",13,"Central Greece",15.25
+"2003-05-03",14,"Thessaly",13.97
+"2003-05-04",1,"North Aegean",16.91
+"2003-05-04",2,"South Aegean",18.23
+"2003-05-04",3,"Athos",18.08
+"2003-05-04",4,"Attica",16.57
+"2003-05-04",5,"Crete",17.09
+"2003-05-04",6,"Epirus",12.76
+"2003-05-04",7,"West Macedonia",12.47
+"2003-05-04",8,"Central Macedonia",16.88
+"2003-05-04",9,"East Macedonia and Thrace",15.08
+"2003-05-04",10,"Ionian Islands",17.35
+"2003-05-04",11,"Peloponnese",15.18
+"2003-05-04",12,"West Greece",13.91
+"2003-05-04",13,"Central Greece",14.88
+"2003-05-04",14,"Thessaly",15.34
+"2003-05-05",1,"North Aegean",17.81
+"2003-05-05",2,"South Aegean",18.36
+"2003-05-05",3,"Athos",19.13
+"2003-05-05",4,"Attica",17.56
+"2003-05-05",5,"Crete",16.91
+"2003-05-05",6,"Epirus",13.21
+"2003-05-05",7,"West Macedonia",14.53
+"2003-05-05",8,"Central Macedonia",18.41
+"2003-05-05",9,"East Macedonia and Thrace",15.9
+"2003-05-05",10,"Ionian Islands",18.58
+"2003-05-05",11,"Peloponnese",15.94
+"2003-05-05",12,"West Greece",15.73
+"2003-05-05",13,"Central Greece",15.61
+"2003-05-05",14,"Thessaly",16.32
+"2003-05-06",1,"North Aegean",17.81
+"2003-05-06",2,"South Aegean",18.55
+"2003-05-06",3,"Athos",18.34
+"2003-05-06",4,"Attica",16.4
+"2003-05-06",5,"Crete",16.44
+"2003-05-06",6,"Epirus",12.21
+"2003-05-06",7,"West Macedonia",13.01
+"2003-05-06",8,"Central Macedonia",16.77
+"2003-05-06",9,"East Macedonia and Thrace",14.06
+"2003-05-06",10,"Ionian Islands",20.02
+"2003-05-06",11,"Peloponnese",14.97
+"2003-05-06",12,"West Greece",15.05
+"2003-05-06",13,"Central Greece",14.02
+"2003-05-06",14,"Thessaly",14.57
+"2003-05-07",1,"North Aegean",16.67
+"2003-05-07",2,"South Aegean",18.48
+"2003-05-07",3,"Athos",17.29
+"2003-05-07",4,"Attica",15.89
+"2003-05-07",5,"Crete",17.3
+"2003-05-07",6,"Epirus",10.74
+"2003-05-07",7,"West Macedonia",11.82
+"2003-05-07",8,"Central Macedonia",15.77
+"2003-05-07",9,"East Macedonia and Thrace",13.1
+"2003-05-07",10,"Ionian Islands",19.99
+"2003-05-07",11,"Peloponnese",14.46
+"2003-05-07",12,"West Greece",13.74
+"2003-05-07",13,"Central Greece",13.06
+"2003-05-07",14,"Thessaly",13.28
+"2003-05-08",1,"North Aegean",15.36
+"2003-05-08",2,"South Aegean",17.83
+"2003-05-08",3,"Athos",16.02
+"2003-05-08",4,"Attica",14.8
+"2003-05-08",5,"Crete",16.11
+"2003-05-08",6,"Epirus",13.58
+"2003-05-08",7,"West Macedonia",12.7
+"2003-05-08",8,"Central Macedonia",14.3
+"2003-05-08",9,"East Macedonia and Thrace",11.63
+"2003-05-08",10,"Ionian Islands",19.51
+"2003-05-08",11,"Peloponnese",13.64
+"2003-05-08",12,"West Greece",14.14
+"2003-05-08",13,"Central Greece",12.53
+"2003-05-08",14,"Thessaly",13.5
+"2003-05-09",1,"North Aegean",15.78
+"2003-05-09",2,"South Aegean",18.01
+"2003-05-09",3,"Athos",17.56
+"2003-05-09",4,"Attica",14.48
+"2003-05-09",5,"Crete",15.17
+"2003-05-09",6,"Epirus",13.79
+"2003-05-09",7,"West Macedonia",13.02
+"2003-05-09",8,"Central Macedonia",14.65
+"2003-05-09",9,"East Macedonia and Thrace",13.45
+"2003-05-09",10,"Ionian Islands",19.2
+"2003-05-09",11,"Peloponnese",13.9
+"2003-05-09",12,"West Greece",15.1
+"2003-05-09",13,"Central Greece",13.41
+"2003-05-09",14,"Thessaly",13.42
+"2003-05-10",1,"North Aegean",16.66
+"2003-05-10",2,"South Aegean",18.2
+"2003-05-10",3,"Athos",18.05
+"2003-05-10",4,"Attica",14.68
+"2003-05-10",5,"Crete",15.83
+"2003-05-10",6,"Epirus",13.37
+"2003-05-10",7,"West Macedonia",13.78
+"2003-05-10",8,"Central Macedonia",16.18
+"2003-05-10",9,"East Macedonia and Thrace",13.58
+"2003-05-10",10,"Ionian Islands",19.46
+"2003-05-10",11,"Peloponnese",14.4
+"2003-05-10",12,"West Greece",14.57
+"2003-05-10",13,"Central Greece",13.89
+"2003-05-10",14,"Thessaly",14.32
+"2003-05-11",1,"North Aegean",17.71
+"2003-05-11",2,"South Aegean",19.05
+"2003-05-11",3,"Athos",18.8
+"2003-05-11",4,"Attica",15.87
+"2003-05-11",5,"Crete",17
+"2003-05-11",6,"Epirus",13.85
+"2003-05-11",7,"West Macedonia",14.48
+"2003-05-11",8,"Central Macedonia",16.79
+"2003-05-11",9,"East Macedonia and Thrace",14.72
+"2003-05-11",10,"Ionian Islands",19.76
+"2003-05-11",11,"Peloponnese",14.1
+"2003-05-11",12,"West Greece",14.45
+"2003-05-11",13,"Central Greece",14.36
+"2003-05-11",14,"Thessaly",14.12
+"2003-05-12",1,"North Aegean",17.91
+"2003-05-12",2,"South Aegean",19.49
+"2003-05-12",3,"Athos",18.5
+"2003-05-12",4,"Attica",16.58
+"2003-05-12",5,"Crete",17.88
+"2003-05-12",6,"Epirus",11.96
+"2003-05-12",7,"West Macedonia",12.2
+"2003-05-12",8,"Central Macedonia",16.25
+"2003-05-12",9,"East Macedonia and Thrace",14.94
+"2003-05-12",10,"Ionian Islands",20.49
+"2003-05-12",11,"Peloponnese",14.9
+"2003-05-12",12,"West Greece",14.61
+"2003-05-12",13,"Central Greece",14.41
+"2003-05-12",14,"Thessaly",13.75
+"2003-05-13",1,"North Aegean",16.92
+"2003-05-13",2,"South Aegean",19.48
+"2003-05-13",3,"Athos",18.89
+"2003-05-13",4,"Attica",16.86
+"2003-05-13",5,"Crete",18.53
+"2003-05-13",6,"Epirus",14.96
+"2003-05-13",7,"West Macedonia",13.38
+"2003-05-13",8,"Central Macedonia",15.71
+"2003-05-13",9,"East Macedonia and Thrace",13.68
+"2003-05-13",10,"Ionian Islands",20.39
+"2003-05-13",11,"Peloponnese",15.74
+"2003-05-13",12,"West Greece",16.23
+"2003-05-13",13,"Central Greece",15.65
+"2003-05-13",14,"Thessaly",15.42
+"2003-05-14",1,"North Aegean",16.93
+"2003-05-14",2,"South Aegean",18.48
+"2003-05-14",3,"Athos",19.3
+"2003-05-14",4,"Attica",17.05
+"2003-05-14",5,"Crete",18.42
+"2003-05-14",6,"Epirus",13.37
+"2003-05-14",7,"West Macedonia",12.15
+"2003-05-14",8,"Central Macedonia",16.22
+"2003-05-14",9,"East Macedonia and Thrace",15.22
+"2003-05-14",10,"Ionian Islands",19.61
+"2003-05-14",11,"Peloponnese",14.82
+"2003-05-14",12,"West Greece",14.68
+"2003-05-14",13,"Central Greece",15.01
+"2003-05-14",14,"Thessaly",14.34
+"2003-05-15",1,"North Aegean",17.53
+"2003-05-15",2,"South Aegean",18.96
+"2003-05-15",3,"Athos",19.76
+"2003-05-15",4,"Attica",17.67
+"2003-05-15",5,"Crete",19.51
+"2003-05-15",6,"Epirus",12.52
+"2003-05-15",7,"West Macedonia",10.05
+"2003-05-15",8,"Central Macedonia",15.09
+"2003-05-15",9,"East Macedonia and Thrace",15.45
+"2003-05-15",10,"Ionian Islands",19.71
+"2003-05-15",11,"Peloponnese",14.58
+"2003-05-15",12,"West Greece",14.58
+"2003-05-15",13,"Central Greece",15.56
+"2003-05-15",14,"Thessaly",13.9
+"2003-05-16",1,"North Aegean",18.81
+"2003-05-16",2,"South Aegean",19.54
+"2003-05-16",3,"Athos",19.46
+"2003-05-16",4,"Attica",19.41
+"2003-05-16",5,"Crete",17.24
+"2003-05-16",6,"Epirus",14.6
+"2003-05-16",7,"West Macedonia",13.52
+"2003-05-16",8,"Central Macedonia",17.33
+"2003-05-16",9,"East Macedonia and Thrace",16.59
+"2003-05-16",10,"Ionian Islands",20.08
+"2003-05-16",11,"Peloponnese",16.28
+"2003-05-16",12,"West Greece",15.75
+"2003-05-16",13,"Central Greece",17.24
+"2003-05-16",14,"Thessaly",16.94
+"2003-05-17",1,"North Aegean",19.55
+"2003-05-17",2,"South Aegean",19.86
+"2003-05-17",3,"Athos",19.87
+"2003-05-17",4,"Attica",19.24
+"2003-05-17",5,"Crete",17.95
+"2003-05-17",6,"Epirus",14.47
+"2003-05-17",7,"West Macedonia",13.48
+"2003-05-17",8,"Central Macedonia",16.73
+"2003-05-17",9,"East Macedonia and Thrace",16.13
+"2003-05-17",10,"Ionian Islands",19.75
+"2003-05-17",11,"Peloponnese",16.57
+"2003-05-17",12,"West Greece",16.23
+"2003-05-17",13,"Central Greece",16.8
+"2003-05-17",14,"Thessaly",16.09
+"2003-05-18",1,"North Aegean",18.7
+"2003-05-18",2,"South Aegean",19.61
+"2003-05-18",3,"Athos",18.63
+"2003-05-18",4,"Attica",19
+"2003-05-18",5,"Crete",17.81
+"2003-05-18",6,"Epirus",12.75
+"2003-05-18",7,"West Macedonia",12.05
+"2003-05-18",8,"Central Macedonia",16.89
+"2003-05-18",9,"East Macedonia and Thrace",14.54
+"2003-05-18",10,"Ionian Islands",19.72
+"2003-05-18",11,"Peloponnese",16.62
+"2003-05-18",12,"West Greece",15.93
+"2003-05-18",13,"Central Greece",16.32
+"2003-05-18",14,"Thessaly",15.68
+"2003-05-19",1,"North Aegean",18.11
+"2003-05-19",2,"South Aegean",19.64
+"2003-05-19",3,"Athos",18.95
+"2003-05-19",4,"Attica",18.47
+"2003-05-19",5,"Crete",17.77
+"2003-05-19",6,"Epirus",14.18
+"2003-05-19",7,"West Macedonia",13.56
+"2003-05-19",8,"Central Macedonia",17.05
+"2003-05-19",9,"East Macedonia and Thrace",15.8
+"2003-05-19",10,"Ionian Islands",19.25
+"2003-05-19",11,"Peloponnese",16.74
+"2003-05-19",12,"West Greece",17.09
+"2003-05-19",13,"Central Greece",16.3
+"2003-05-19",14,"Thessaly",16.13
+"2003-05-20",1,"North Aegean",17.57
+"2003-05-20",2,"South Aegean",19.57
+"2003-05-20",3,"Athos",18.89
+"2003-05-20",4,"Attica",17.32
+"2003-05-20",5,"Crete",17.79
+"2003-05-20",6,"Epirus",12.78
+"2003-05-20",7,"West Macedonia",10.51
+"2003-05-20",8,"Central Macedonia",15.11
+"2003-05-20",9,"East Macedonia and Thrace",12.86
+"2003-05-20",10,"Ionian Islands",19.9
+"2003-05-20",11,"Peloponnese",15.67
+"2003-05-20",12,"West Greece",16
+"2003-05-20",13,"Central Greece",13.99
+"2003-05-20",14,"Thessaly",14.33
+"2003-05-21",1,"North Aegean",18.09
+"2003-05-21",2,"South Aegean",19.6
+"2003-05-21",3,"Athos",18.94
+"2003-05-21",4,"Attica",16.95
+"2003-05-21",5,"Crete",17.27
+"2003-05-21",6,"Epirus",14.52
+"2003-05-21",7,"West Macedonia",13.69
+"2003-05-21",8,"Central Macedonia",17.14
+"2003-05-21",9,"East Macedonia and Thrace",15.41
+"2003-05-21",10,"Ionian Islands",19.31
+"2003-05-21",11,"Peloponnese",15.44
+"2003-05-21",12,"West Greece",16.22
+"2003-05-21",13,"Central Greece",14.72
+"2003-05-21",14,"Thessaly",15.35
+"2003-05-22",1,"North Aegean",17.58
+"2003-05-22",2,"South Aegean",19.32
+"2003-05-22",3,"Athos",18.82
+"2003-05-22",4,"Attica",18.37
+"2003-05-22",5,"Crete",17.47
+"2003-05-22",6,"Epirus",13
+"2003-05-22",7,"West Macedonia",11.54
+"2003-05-22",8,"Central Macedonia",16.32
+"2003-05-22",9,"East Macedonia and Thrace",15.41
+"2003-05-22",10,"Ionian Islands",19.09
+"2003-05-22",11,"Peloponnese",15.67
+"2003-05-22",12,"West Greece",16.29
+"2003-05-22",13,"Central Greece",15.58
+"2003-05-22",14,"Thessaly",15.1
+"2003-05-23",1,"North Aegean",18.36
+"2003-05-23",2,"South Aegean",19.46
+"2003-05-23",3,"Athos",17.36
+"2003-05-23",4,"Attica",16.77
+"2003-05-23",5,"Crete",16.48
+"2003-05-23",6,"Epirus",9.98
+"2003-05-23",7,"West Macedonia",8.84
+"2003-05-23",8,"Central Macedonia",13.5
+"2003-05-23",9,"East Macedonia and Thrace",14.68
+"2003-05-23",10,"Ionian Islands",15.84
+"2003-05-23",11,"Peloponnese",12.26
+"2003-05-23",12,"West Greece",12.37
+"2003-05-23",13,"Central Greece",13.18
+"2003-05-23",14,"Thessaly",12.6
+"2003-05-24",1,"North Aegean",16.39
+"2003-05-24",2,"South Aegean",16.71
+"2003-05-24",3,"Athos",16.83
+"2003-05-24",4,"Attica",15.02
+"2003-05-24",5,"Crete",14.36
+"2003-05-24",6,"Epirus",9.79
+"2003-05-24",7,"West Macedonia",8.42
+"2003-05-24",8,"Central Macedonia",14.09
+"2003-05-24",9,"East Macedonia and Thrace",15.59
+"2003-05-24",10,"Ionian Islands",17.98
+"2003-05-24",11,"Peloponnese",11.48
+"2003-05-24",12,"West Greece",12.78
+"2003-05-24",13,"Central Greece",12.64
+"2003-05-24",14,"Thessaly",12.07
+"2003-05-25",1,"North Aegean",16.41
+"2003-05-25",2,"South Aegean",17.89
+"2003-05-25",3,"Athos",16.83
+"2003-05-25",4,"Attica",15.19
+"2003-05-25",5,"Crete",15.05
+"2003-05-25",6,"Epirus",11.7
+"2003-05-25",7,"West Macedonia",11.05
+"2003-05-25",8,"Central Macedonia",14.51
+"2003-05-25",9,"East Macedonia and Thrace",13.22
+"2003-05-25",10,"Ionian Islands",17.71
+"2003-05-25",11,"Peloponnese",11.74
+"2003-05-25",12,"West Greece",13.65
+"2003-05-25",13,"Central Greece",12.93
+"2003-05-25",14,"Thessaly",12.76
+"2003-05-26",1,"North Aegean",17.38
+"2003-05-26",2,"South Aegean",18.61
+"2003-05-26",3,"Athos",18.34
+"2003-05-26",4,"Attica",15.82
+"2003-05-26",5,"Crete",16.02
+"2003-05-26",6,"Epirus",11.64
+"2003-05-26",7,"West Macedonia",10.93
+"2003-05-26",8,"Central Macedonia",15.47
+"2003-05-26",9,"East Macedonia and Thrace",14.8
+"2003-05-26",10,"Ionian Islands",18.74
+"2003-05-26",11,"Peloponnese",13.31
+"2003-05-26",12,"West Greece",13.74
+"2003-05-26",13,"Central Greece",13.49
+"2003-05-26",14,"Thessaly",13.22
+"2003-05-27",1,"North Aegean",17.94
+"2003-05-27",2,"South Aegean",19.28
+"2003-05-27",3,"Athos",18.43
+"2003-05-27",4,"Attica",18.32
+"2003-05-27",5,"Crete",16.82
+"2003-05-27",6,"Epirus",13.97
+"2003-05-27",7,"West Macedonia",12.19
+"2003-05-27",8,"Central Macedonia",16.25
+"2003-05-27",9,"East Macedonia and Thrace",15.13
+"2003-05-27",10,"Ionian Islands",18.87
+"2003-05-27",11,"Peloponnese",15.43
+"2003-05-27",12,"West Greece",15.35
+"2003-05-27",13,"Central Greece",15.78
+"2003-05-27",14,"Thessaly",15.84
+"2003-05-28",1,"North Aegean",18.33
+"2003-05-28",2,"South Aegean",19.5
+"2003-05-28",3,"Athos",18.35
+"2003-05-28",4,"Attica",17.67
+"2003-05-28",5,"Crete",17.97
+"2003-05-28",6,"Epirus",13.48
+"2003-05-28",7,"West Macedonia",12.04
+"2003-05-28",8,"Central Macedonia",14.77
+"2003-05-28",9,"East Macedonia and Thrace",13.87
+"2003-05-28",10,"Ionian Islands",19.32
+"2003-05-28",11,"Peloponnese",15.99
+"2003-05-28",12,"West Greece",16.24
+"2003-05-28",13,"Central Greece",15.55
+"2003-05-28",14,"Thessaly",14.82
+"2003-05-29",1,"North Aegean",18.29
+"2003-05-29",2,"South Aegean",19.44
+"2003-05-29",3,"Athos",19.13
+"2003-05-29",4,"Attica",17.69
+"2003-05-29",5,"Crete",18.42
+"2003-05-29",6,"Epirus",14.56
+"2003-05-29",7,"West Macedonia",13.42
+"2003-05-29",8,"Central Macedonia",16.87
+"2003-05-29",9,"East Macedonia and Thrace",15.51
+"2003-05-29",10,"Ionian Islands",19.77
+"2003-05-29",11,"Peloponnese",16.74
+"2003-05-29",12,"West Greece",17.53
+"2003-05-29",13,"Central Greece",15.99
+"2003-05-29",14,"Thessaly",16.17
+"2003-05-30",1,"North Aegean",19.56
+"2003-05-30",2,"South Aegean",20.32
+"2003-05-30",3,"Athos",20.18
+"2003-05-30",4,"Attica",19.11
+"2003-05-30",5,"Crete",17.72
+"2003-05-30",6,"Epirus",14.86
+"2003-05-30",7,"West Macedonia",13.79
+"2003-05-30",8,"Central Macedonia",17.43
+"2003-05-30",9,"East Macedonia and Thrace",16.6
+"2003-05-30",10,"Ionian Islands",20.45
+"2003-05-30",11,"Peloponnese",15.45
+"2003-05-30",12,"West Greece",16.71
+"2003-05-30",13,"Central Greece",16.26
+"2003-05-30",14,"Thessaly",15.94
+"2003-05-31",1,"North Aegean",19.15
+"2003-05-31",2,"South Aegean",20.35
+"2003-05-31",3,"Athos",20.42
+"2003-05-31",4,"Attica",19.66
+"2003-05-31",5,"Crete",18.7
+"2003-05-31",6,"Epirus",15.15
+"2003-05-31",7,"West Macedonia",13.75
+"2003-05-31",8,"Central Macedonia",17.59
+"2003-05-31",9,"East Macedonia and Thrace",16.58
+"2003-05-31",10,"Ionian Islands",20.59
+"2003-05-31",11,"Peloponnese",17.25
+"2003-05-31",12,"West Greece",17.8
+"2003-05-31",13,"Central Greece",17.11
+"2003-05-31",14,"Thessaly",16.68
+"2003-06-01",1,"North Aegean",18.95
+"2003-06-01",2,"South Aegean",20.53
+"2003-06-01",3,"Athos",19.91
+"2003-06-01",4,"Attica",17.84
+"2003-06-01",5,"Crete",17.6
+"2003-06-01",6,"Epirus",12.68
+"2003-06-01",7,"West Macedonia",12.46
+"2003-06-01",8,"Central Macedonia",15.67
+"2003-06-01",9,"East Macedonia and Thrace",13.65
+"2003-06-01",10,"Ionian Islands",20.1
+"2003-06-01",11,"Peloponnese",15.78
+"2003-06-01",12,"West Greece",16.38
+"2003-06-01",13,"Central Greece",15.08
+"2003-06-01",14,"Thessaly",14.62
+"2003-06-02",1,"North Aegean",18.06
+"2003-06-02",2,"South Aegean",19.48
+"2003-06-02",3,"Athos",19.57
+"2003-06-02",4,"Attica",17.89
+"2003-06-02",5,"Crete",16.69
+"2003-06-02",6,"Epirus",12.64
+"2003-06-02",7,"West Macedonia",11.83
+"2003-06-02",8,"Central Macedonia",15.62
+"2003-06-02",9,"East Macedonia and Thrace",14.78
+"2003-06-02",10,"Ionian Islands",19.72
+"2003-06-02",11,"Peloponnese",15
+"2003-06-02",12,"West Greece",16.05
+"2003-06-02",13,"Central Greece",14.98
+"2003-06-02",14,"Thessaly",14.4
+"2003-06-03",1,"North Aegean",18.03
+"2003-06-03",2,"South Aegean",19.38
+"2003-06-03",3,"Athos",20.16
+"2003-06-03",4,"Attica",18.45
+"2003-06-03",5,"Crete",17.14
+"2003-06-03",6,"Epirus",13.83
+"2003-06-03",7,"West Macedonia",12.3
+"2003-06-03",8,"Central Macedonia",17.09
+"2003-06-03",9,"East Macedonia and Thrace",15.42
+"2003-06-03",10,"Ionian Islands",20.24
+"2003-06-03",11,"Peloponnese",16
+"2003-06-03",12,"West Greece",16.44
+"2003-06-03",13,"Central Greece",16.78
+"2003-06-03",14,"Thessaly",15.98
+"2003-06-04",1,"North Aegean",19.29
+"2003-06-04",2,"South Aegean",19.71
+"2003-06-04",3,"Athos",20.8
+"2003-06-04",4,"Attica",19.1
+"2003-06-04",5,"Crete",17.81
+"2003-06-04",6,"Epirus",13.2
+"2003-06-04",7,"West Macedonia",12.79
+"2003-06-04",8,"Central Macedonia",16.74
+"2003-06-04",9,"East Macedonia and Thrace",15.95
+"2003-06-04",10,"Ionian Islands",20.86
+"2003-06-04",11,"Peloponnese",16.17
+"2003-06-04",12,"West Greece",16.72
+"2003-06-04",13,"Central Greece",17.17
+"2003-06-04",14,"Thessaly",15.92
+"2003-06-05",1,"North Aegean",21.33
+"2003-06-05",2,"South Aegean",20.65
+"2003-06-05",3,"Athos",21.61
+"2003-06-05",4,"Attica",19.38
+"2003-06-05",5,"Crete",18.88
+"2003-06-05",6,"Epirus",14.65
+"2003-06-05",7,"West Macedonia",14.46
+"2003-06-05",8,"Central Macedonia",17.65
+"2003-06-05",9,"East Macedonia and Thrace",16.61
+"2003-06-05",10,"Ionian Islands",21.09
+"2003-06-05",11,"Peloponnese",17.3
+"2003-06-05",12,"West Greece",17.46
+"2003-06-05",13,"Central Greece",17.03
+"2003-06-05",14,"Thessaly",17.05
+"2003-06-06",1,"North Aegean",20.06
+"2003-06-06",2,"South Aegean",21.06
+"2003-06-06",3,"Athos",21.03
+"2003-06-06",4,"Attica",20.46
+"2003-06-06",5,"Crete",19.26
+"2003-06-06",6,"Epirus",14.27
+"2003-06-06",7,"West Macedonia",14.02
+"2003-06-06",8,"Central Macedonia",17.35
+"2003-06-06",9,"East Macedonia and Thrace",15.5
+"2003-06-06",10,"Ionian Islands",22.41
+"2003-06-06",11,"Peloponnese",18.32
+"2003-06-06",12,"West Greece",18.88
+"2003-06-06",13,"Central Greece",17.02
+"2003-06-06",14,"Thessaly",16.66
+"2003-06-07",1,"North Aegean",19.73
+"2003-06-07",2,"South Aegean",21.06
+"2003-06-07",3,"Athos",21.85
+"2003-06-07",4,"Attica",17.99
+"2003-06-07",5,"Crete",18.8
+"2003-06-07",6,"Epirus",14.94
+"2003-06-07",7,"West Macedonia",14.07
+"2003-06-07",8,"Central Macedonia",17.87
+"2003-06-07",9,"East Macedonia and Thrace",16.33
+"2003-06-07",10,"Ionian Islands",22.35
+"2003-06-07",11,"Peloponnese",16.51
+"2003-06-07",12,"West Greece",17.47
+"2003-06-07",13,"Central Greece",15.7
+"2003-06-07",14,"Thessaly",16
+"2003-06-08",1,"North Aegean",21.03
+"2003-06-08",2,"South Aegean",21.36
+"2003-06-08",3,"Athos",23.24
+"2003-06-08",4,"Attica",19.28
+"2003-06-08",5,"Crete",19.01
+"2003-06-08",6,"Epirus",15.49
+"2003-06-08",7,"West Macedonia",15.56
+"2003-06-08",8,"Central Macedonia",19.23
+"2003-06-08",9,"East Macedonia and Thrace",18.27
+"2003-06-08",10,"Ionian Islands",22.69
+"2003-06-08",11,"Peloponnese",17.14
+"2003-06-08",12,"West Greece",17.72
+"2003-06-08",13,"Central Greece",16.89
+"2003-06-08",14,"Thessaly",17.47
+"2003-06-09",1,"North Aegean",21.53
+"2003-06-09",2,"South Aegean",21.32
+"2003-06-09",3,"Athos",23.53
+"2003-06-09",4,"Attica",21.57
+"2003-06-09",5,"Crete",19.88
+"2003-06-09",6,"Epirus",17.39
+"2003-06-09",7,"West Macedonia",17.79
+"2003-06-09",8,"Central Macedonia",20.55
+"2003-06-09",9,"East Macedonia and Thrace",18.64
+"2003-06-09",10,"Ionian Islands",23.42
+"2003-06-09",11,"Peloponnese",19.24
+"2003-06-09",12,"West Greece",19.89
+"2003-06-09",13,"Central Greece",19.19
+"2003-06-09",14,"Thessaly",19.54
+"2003-06-10",1,"North Aegean",21.23
+"2003-06-10",2,"South Aegean",21.45
+"2003-06-10",3,"Athos",22.94
+"2003-06-10",4,"Attica",20.41
+"2003-06-10",5,"Crete",20.18
+"2003-06-10",6,"Epirus",16.11
+"2003-06-10",7,"West Macedonia",15.61
+"2003-06-10",8,"Central Macedonia",20.57
+"2003-06-10",9,"East Macedonia and Thrace",18.3
+"2003-06-10",10,"Ionian Islands",23.88
+"2003-06-10",11,"Peloponnese",18.02
+"2003-06-10",12,"West Greece",19.07
+"2003-06-10",13,"Central Greece",17.53
+"2003-06-10",14,"Thessaly",18.37
+"2003-06-11",1,"North Aegean",21.01
+"2003-06-11",2,"South Aegean",21.41
+"2003-06-11",3,"Athos",23.18
+"2003-06-11",4,"Attica",20.61
+"2003-06-11",5,"Crete",19.91
+"2003-06-11",6,"Epirus",17.3
+"2003-06-11",7,"West Macedonia",17.37
+"2003-06-11",8,"Central Macedonia",20.33
+"2003-06-11",9,"East Macedonia and Thrace",18.68
+"2003-06-11",10,"Ionian Islands",23.79
+"2003-06-11",11,"Peloponnese",17.97
+"2003-06-11",12,"West Greece",18.89
+"2003-06-11",13,"Central Greece",17.93
+"2003-06-11",14,"Thessaly",18.69
+"2003-06-12",1,"North Aegean",22.35
+"2003-06-12",2,"South Aegean",21.87
+"2003-06-12",3,"Athos",23.64
+"2003-06-12",4,"Attica",22.68
+"2003-06-12",5,"Crete",20.47
+"2003-06-12",6,"Epirus",18.15
+"2003-06-12",7,"West Macedonia",17.14
+"2003-06-12",8,"Central Macedonia",22.12
+"2003-06-12",9,"East Macedonia and Thrace",20.38
+"2003-06-12",10,"Ionian Islands",24.14
+"2003-06-12",11,"Peloponnese",20.16
+"2003-06-12",12,"West Greece",20.63
+"2003-06-12",13,"Central Greece",19.92
+"2003-06-12",14,"Thessaly",20.33
+"2003-06-13",1,"North Aegean",23
+"2003-06-13",2,"South Aegean",22.91
+"2003-06-13",3,"Athos",24.53
+"2003-06-13",4,"Attica",23.97
+"2003-06-13",5,"Crete",22.25
+"2003-06-13",6,"Epirus",19.01
+"2003-06-13",7,"West Macedonia",17.31
+"2003-06-13",8,"Central Macedonia",21.94
+"2003-06-13",9,"East Macedonia and Thrace",20.38
+"2003-06-13",10,"Ionian Islands",24.82
+"2003-06-13",11,"Peloponnese",21.84
+"2003-06-13",12,"West Greece",21.94
+"2003-06-13",13,"Central Greece",21.09
+"2003-06-13",14,"Thessaly",21.02
+"2003-06-14",1,"North Aegean",23.88
+"2003-06-14",2,"South Aegean",23.25
+"2003-06-14",3,"Athos",24.18
+"2003-06-14",4,"Attica",24.1
+"2003-06-14",5,"Crete",22.41
+"2003-06-14",6,"Epirus",18.83
+"2003-06-14",7,"West Macedonia",17.69
+"2003-06-14",8,"Central Macedonia",22.49
+"2003-06-14",9,"East Macedonia and Thrace",20.64
+"2003-06-14",10,"Ionian Islands",25.38
+"2003-06-14",11,"Peloponnese",21.65
+"2003-06-14",12,"West Greece",21.9
+"2003-06-14",13,"Central Greece",20.97
+"2003-06-14",14,"Thessaly",20.68
+"2003-06-15",1,"North Aegean",23.12
+"2003-06-15",2,"South Aegean",22.63
+"2003-06-15",3,"Athos",24.61
+"2003-06-15",4,"Attica",22.84
+"2003-06-15",5,"Crete",21.08
+"2003-06-15",6,"Epirus",19.4
+"2003-06-15",7,"West Macedonia",19.77
+"2003-06-15",8,"Central Macedonia",22.52
+"2003-06-15",9,"East Macedonia and Thrace",21.84
+"2003-06-15",10,"Ionian Islands",25.09
+"2003-06-15",11,"Peloponnese",20.91
+"2003-06-15",12,"West Greece",21.61
+"2003-06-15",13,"Central Greece",20.38
+"2003-06-15",14,"Thessaly",20.95
+"2003-06-16",1,"North Aegean",22.75
+"2003-06-16",2,"South Aegean",22.21
+"2003-06-16",3,"Athos",24.27
+"2003-06-16",4,"Attica",22.46
+"2003-06-16",5,"Crete",20.77
+"2003-06-16",6,"Epirus",20.72
+"2003-06-16",7,"West Macedonia",20.15
+"2003-06-16",8,"Central Macedonia",22.66
+"2003-06-16",9,"East Macedonia and Thrace",21.69
+"2003-06-16",10,"Ionian Islands",25.6
+"2003-06-16",11,"Peloponnese",21.04
+"2003-06-16",12,"West Greece",22.3
+"2003-06-16",13,"Central Greece",20.88
+"2003-06-16",14,"Thessaly",21.98
+"2003-06-17",1,"North Aegean",22.55
+"2003-06-17",2,"South Aegean",22.45
+"2003-06-17",3,"Athos",24.09
+"2003-06-17",4,"Attica",22.96
+"2003-06-17",5,"Crete",21.46
+"2003-06-17",6,"Epirus",17.91
+"2003-06-17",7,"West Macedonia",16.03
+"2003-06-17",8,"Central Macedonia",20.62
+"2003-06-17",9,"East Macedonia and Thrace",20.59
+"2003-06-17",10,"Ionian Islands",24.89
+"2003-06-17",11,"Peloponnese",20.87
+"2003-06-17",12,"West Greece",21.69
+"2003-06-17",13,"Central Greece",20.7
+"2003-06-17",14,"Thessaly",20.27
+"2003-06-18",1,"North Aegean",22.6
+"2003-06-18",2,"South Aegean",23.13
+"2003-06-18",3,"Athos",22.18
+"2003-06-18",4,"Attica",23.28
+"2003-06-18",5,"Crete",22.31
+"2003-06-18",6,"Epirus",18.16
+"2003-06-18",7,"West Macedonia",16.74
+"2003-06-18",8,"Central Macedonia",19.99
+"2003-06-18",9,"East Macedonia and Thrace",19.06
+"2003-06-18",10,"Ionian Islands",24.44
+"2003-06-18",11,"Peloponnese",20.85
+"2003-06-18",12,"West Greece",21.68
+"2003-06-18",13,"Central Greece",20.38
+"2003-06-18",14,"Thessaly",19.53
+"2003-06-19",1,"North Aegean",21.93
+"2003-06-19",2,"South Aegean",23.29
+"2003-06-19",3,"Athos",22.83
+"2003-06-19",4,"Attica",22.33
+"2003-06-19",5,"Crete",21.45
+"2003-06-19",6,"Epirus",17.46
+"2003-06-19",7,"West Macedonia",15.25
+"2003-06-19",8,"Central Macedonia",20
+"2003-06-19",9,"East Macedonia and Thrace",18.4
+"2003-06-19",10,"Ionian Islands",24.44
+"2003-06-19",11,"Peloponnese",19.95
+"2003-06-19",12,"West Greece",20.95
+"2003-06-19",13,"Central Greece",19.65
+"2003-06-19",14,"Thessaly",18.34
+"2003-06-20",1,"North Aegean",21.95
+"2003-06-20",2,"South Aegean",22.61
+"2003-06-20",3,"Athos",22.88
+"2003-06-20",4,"Attica",21.43
+"2003-06-20",5,"Crete",21.65
+"2003-06-20",6,"Epirus",15.75
+"2003-06-20",7,"West Macedonia",15.19
+"2003-06-20",8,"Central Macedonia",18.77
+"2003-06-20",9,"East Macedonia and Thrace",18.41
+"2003-06-20",10,"Ionian Islands",23.14
+"2003-06-20",11,"Peloponnese",19.76
+"2003-06-20",12,"West Greece",19.52
+"2003-06-20",13,"Central Greece",18.67
+"2003-06-20",14,"Thessaly",18.21
+"2003-06-21",1,"North Aegean",21.64
+"2003-06-21",2,"South Aegean",22.11
+"2003-06-21",3,"Athos",23.36
+"2003-06-21",4,"Attica",21.19
+"2003-06-21",5,"Crete",20.84
+"2003-06-21",6,"Epirus",16.38
+"2003-06-21",7,"West Macedonia",14.74
+"2003-06-21",8,"Central Macedonia",18.93
+"2003-06-21",9,"East Macedonia and Thrace",17.91
+"2003-06-21",10,"Ionian Islands",23.01
+"2003-06-21",11,"Peloponnese",18.51
+"2003-06-21",12,"West Greece",18.85
+"2003-06-21",13,"Central Greece",17.92
+"2003-06-21",14,"Thessaly",17.74
+"2003-06-22",1,"North Aegean",22.95
+"2003-06-22",2,"South Aegean",22.54
+"2003-06-22",3,"Athos",24.33
+"2003-06-22",4,"Attica",22.84
+"2003-06-22",5,"Crete",21.18
+"2003-06-22",6,"Epirus",16.39
+"2003-06-22",7,"West Macedonia",13.37
+"2003-06-22",8,"Central Macedonia",18.06
+"2003-06-22",9,"East Macedonia and Thrace",18.98
+"2003-06-22",10,"Ionian Islands",24.28
+"2003-06-22",11,"Peloponnese",19.5
+"2003-06-22",12,"West Greece",19.28
+"2003-06-22",13,"Central Greece",19.36
+"2003-06-22",14,"Thessaly",18.6
+"2003-06-23",1,"North Aegean",21.64
+"2003-06-23",2,"South Aegean",22.85
+"2003-06-23",3,"Athos",23.85
+"2003-06-23",4,"Attica",21.15
+"2003-06-23",5,"Crete",20.84
+"2003-06-23",6,"Epirus",16.68
+"2003-06-23",7,"West Macedonia",14.62
+"2003-06-23",8,"Central Macedonia",18
+"2003-06-23",9,"East Macedonia and Thrace",16.81
+"2003-06-23",10,"Ionian Islands",24.19
+"2003-06-23",11,"Peloponnese",18.85
+"2003-06-23",12,"West Greece",19.33
+"2003-06-23",13,"Central Greece",18.53
+"2003-06-23",14,"Thessaly",17.59
+"2003-06-24",1,"North Aegean",22.39
+"2003-06-24",2,"South Aegean",23.41
+"2003-06-24",3,"Athos",24.37
+"2003-06-24",4,"Attica",23.44
+"2003-06-24",5,"Crete",22.25
+"2003-06-24",6,"Epirus",18.19
+"2003-06-24",7,"West Macedonia",15.66
+"2003-06-24",8,"Central Macedonia",20.47
+"2003-06-24",9,"East Macedonia and Thrace",19.13
+"2003-06-24",10,"Ionian Islands",24.62
+"2003-06-24",11,"Peloponnese",21.28
+"2003-06-24",12,"West Greece",21.35
+"2003-06-24",13,"Central Greece",21.47
+"2003-06-24",14,"Thessaly",20.3
+"2003-06-25",1,"North Aegean",23.6
+"2003-06-25",2,"South Aegean",23.49
+"2003-06-25",3,"Athos",24.77
+"2003-06-25",4,"Attica",25.16
+"2003-06-25",5,"Crete",23.34
+"2003-06-25",6,"Epirus",19.13
+"2003-06-25",7,"West Macedonia",16.82
+"2003-06-25",8,"Central Macedonia",22.63
+"2003-06-25",9,"East Macedonia and Thrace",20.28
+"2003-06-25",10,"Ionian Islands",24.79
+"2003-06-25",11,"Peloponnese",22.46
+"2003-06-25",12,"West Greece",21.73
+"2003-06-25",13,"Central Greece",22.52
+"2003-06-25",14,"Thessaly",21.12
+"2003-06-26",1,"North Aegean",23.29
+"2003-06-26",2,"South Aegean",23.7
+"2003-06-26",3,"Athos",24.66
+"2003-06-26",4,"Attica",24.02
+"2003-06-26",5,"Crete",22.96
+"2003-06-26",6,"Epirus",18.55
+"2003-06-26",7,"West Macedonia",15.99
+"2003-06-26",8,"Central Macedonia",19.75
+"2003-06-26",9,"East Macedonia and Thrace",18.96
+"2003-06-26",10,"Ionian Islands",25.87
+"2003-06-26",11,"Peloponnese",21.08
+"2003-06-26",12,"West Greece",20.37
+"2003-06-26",13,"Central Greece",21.39
+"2003-06-26",14,"Thessaly",20.44
+"2003-06-27",1,"North Aegean",23.58
+"2003-06-27",2,"South Aegean",24.09
+"2003-06-27",3,"Athos",24.88
+"2003-06-27",4,"Attica",24.67
+"2003-06-27",5,"Crete",23.56
+"2003-06-27",6,"Epirus",19.09
+"2003-06-27",7,"West Macedonia",17.06
+"2003-06-27",8,"Central Macedonia",20.51
+"2003-06-27",9,"East Macedonia and Thrace",19.31
+"2003-06-27",10,"Ionian Islands",25.43
+"2003-06-27",11,"Peloponnese",21.75
+"2003-06-27",12,"West Greece",21.53
+"2003-06-27",13,"Central Greece",22.46
+"2003-06-27",14,"Thessaly",21.53
+"2003-06-28",1,"North Aegean",23.53
+"2003-06-28",2,"South Aegean",24.17
+"2003-06-28",3,"Athos",24.81
+"2003-06-28",4,"Attica",23.73
+"2003-06-28",5,"Crete",24.06
+"2003-06-28",6,"Epirus",17.67
+"2003-06-28",7,"West Macedonia",15.87
+"2003-06-28",8,"Central Macedonia",18.48
+"2003-06-28",9,"East Macedonia and Thrace",17.78
+"2003-06-28",10,"Ionian Islands",24.72
+"2003-06-28",11,"Peloponnese",21.78
+"2003-06-28",12,"West Greece",20.61
+"2003-06-28",13,"Central Greece",20.55
+"2003-06-28",14,"Thessaly",19.56
+"2003-06-29",1,"North Aegean",23.47
+"2003-06-29",2,"South Aegean",24.4
+"2003-06-29",3,"Athos",24.98
+"2003-06-29",4,"Attica",23.95
+"2003-06-29",5,"Crete",23.91
+"2003-06-29",6,"Epirus",18.83
+"2003-06-29",7,"West Macedonia",16.1
+"2003-06-29",8,"Central Macedonia",20.11
+"2003-06-29",9,"East Macedonia and Thrace",19.21
+"2003-06-29",10,"Ionian Islands",25.06
+"2003-06-29",11,"Peloponnese",20.93
+"2003-06-29",12,"West Greece",20.92
+"2003-06-29",13,"Central Greece",21.61
+"2003-06-29",14,"Thessaly",20.22
+"2003-06-30",1,"North Aegean",23.73
+"2003-06-30",2,"South Aegean",24.06
+"2003-06-30",3,"Athos",24.68
+"2003-06-30",4,"Attica",24.25
+"2003-06-30",5,"Crete",25.04
+"2003-06-30",6,"Epirus",18.74
+"2003-06-30",7,"West Macedonia",17.12
+"2003-06-30",8,"Central Macedonia",20.28
+"2003-06-30",9,"East Macedonia and Thrace",20.63
+"2003-06-30",10,"Ionian Islands",25.17
+"2003-06-30",11,"Peloponnese",22.25
+"2003-06-30",12,"West Greece",21.95
+"2003-06-30",13,"Central Greece",22.31
+"2003-06-30",14,"Thessaly",20.87
+"2003-07-01",1,"North Aegean",24.09
+"2003-07-01",2,"South Aegean",24.39
+"2003-07-01",3,"Athos",25.1
+"2003-07-01",4,"Attica",23.71
+"2003-07-01",5,"Crete",23.84
+"2003-07-01",6,"Epirus",18.8
+"2003-07-01",7,"West Macedonia",16.6
+"2003-07-01",8,"Central Macedonia",20.25
+"2003-07-01",9,"East Macedonia and Thrace",18.58
+"2003-07-01",10,"Ionian Islands",25.73
+"2003-07-01",11,"Peloponnese",21.98
+"2003-07-01",12,"West Greece",21.76
+"2003-07-01",13,"Central Greece",21.08
+"2003-07-01",14,"Thessaly",20.48
+"2003-07-02",1,"North Aegean",22.96
+"2003-07-02",2,"South Aegean",24.19
+"2003-07-02",3,"Athos",24.76
+"2003-07-02",4,"Attica",24.03
+"2003-07-02",5,"Crete",23.09
+"2003-07-02",6,"Epirus",18.15
+"2003-07-02",7,"West Macedonia",17.42
+"2003-07-02",8,"Central Macedonia",21.85
+"2003-07-02",9,"East Macedonia and Thrace",20
+"2003-07-02",10,"Ionian Islands",25.1
+"2003-07-02",11,"Peloponnese",21.31
+"2003-07-02",12,"West Greece",20.13
+"2003-07-02",13,"Central Greece",21.42
+"2003-07-02",14,"Thessaly",21.47
+"2003-07-03",1,"North Aegean",23.73
+"2003-07-03",2,"South Aegean",23.67
+"2003-07-03",3,"Athos",25.32
+"2003-07-03",4,"Attica",23.33
+"2003-07-03",5,"Crete",23.62
+"2003-07-03",6,"Epirus",19.21
+"2003-07-03",7,"West Macedonia",17.16
+"2003-07-03",8,"Central Macedonia",22.66
+"2003-07-03",9,"East Macedonia and Thrace",21.43
+"2003-07-03",10,"Ionian Islands",25.61
+"2003-07-03",11,"Peloponnese",21.96
+"2003-07-03",12,"West Greece",21.44
+"2003-07-03",13,"Central Greece",21.06
+"2003-07-03",14,"Thessaly",20.56
+"2003-07-04",1,"North Aegean",23.08
+"2003-07-04",2,"South Aegean",23.55
+"2003-07-04",3,"Athos",25.15
+"2003-07-04",4,"Attica",24.06
+"2003-07-04",5,"Crete",24.14
+"2003-07-04",6,"Epirus",19.29
+"2003-07-04",7,"West Macedonia",18.47
+"2003-07-04",8,"Central Macedonia",23.88
+"2003-07-04",9,"East Macedonia and Thrace",21.91
+"2003-07-04",10,"Ionian Islands",24.98
+"2003-07-04",11,"Peloponnese",22.38
+"2003-07-04",12,"West Greece",21.2
+"2003-07-04",13,"Central Greece",22.27
+"2003-07-04",14,"Thessaly",22.65
+"2003-07-05",1,"North Aegean",24.27
+"2003-07-05",2,"South Aegean",25.06
+"2003-07-05",3,"Athos",25.8
+"2003-07-05",4,"Attica",24.68
+"2003-07-05",5,"Crete",27.92
+"2003-07-05",6,"Epirus",17.91
+"2003-07-05",7,"West Macedonia",16.8
+"2003-07-05",8,"Central Macedonia",22.4
+"2003-07-05",9,"East Macedonia and Thrace",20.75
+"2003-07-05",10,"Ionian Islands",25
+"2003-07-05",11,"Peloponnese",23.21
+"2003-07-05",12,"West Greece",21.44
+"2003-07-05",13,"Central Greece",22.39
+"2003-07-05",14,"Thessaly",21.53
+"2003-07-06",1,"North Aegean",23.9
+"2003-07-06",2,"South Aegean",25.52
+"2003-07-06",3,"Athos",23.84
+"2003-07-06",4,"Attica",25.29
+"2003-07-06",5,"Crete",25.65
+"2003-07-06",6,"Epirus",17.72
+"2003-07-06",7,"West Macedonia",15.69
+"2003-07-06",8,"Central Macedonia",21.29
+"2003-07-06",9,"East Macedonia and Thrace",20.48
+"2003-07-06",10,"Ionian Islands",24.91
+"2003-07-06",11,"Peloponnese",21.48
+"2003-07-06",12,"West Greece",21.15
+"2003-07-06",13,"Central Greece",22.18
+"2003-07-06",14,"Thessaly",21.21
+"2003-07-07",1,"North Aegean",23.8
+"2003-07-07",2,"South Aegean",24.47
+"2003-07-07",3,"Athos",25.04
+"2003-07-07",4,"Attica",23.37
+"2003-07-07",5,"Crete",22.96
+"2003-07-07",6,"Epirus",16.52
+"2003-07-07",7,"West Macedonia",15.34
+"2003-07-07",8,"Central Macedonia",20.13
+"2003-07-07",9,"East Macedonia and Thrace",19.82
+"2003-07-07",10,"Ionian Islands",24.59
+"2003-07-07",11,"Peloponnese",20.31
+"2003-07-07",12,"West Greece",19.93
+"2003-07-07",13,"Central Greece",20.78
+"2003-07-07",14,"Thessaly",20.92
+"2003-07-08",1,"North Aegean",23.58
+"2003-07-08",2,"South Aegean",24.29
+"2003-07-08",3,"Athos",25.02
+"2003-07-08",4,"Attica",23.44
+"2003-07-08",5,"Crete",23.05
+"2003-07-08",6,"Epirus",17.36
+"2003-07-08",7,"West Macedonia",15.33
+"2003-07-08",8,"Central Macedonia",20.07
+"2003-07-08",9,"East Macedonia and Thrace",19.46
+"2003-07-08",10,"Ionian Islands",24.52
+"2003-07-08",11,"Peloponnese",21.2
+"2003-07-08",12,"West Greece",20.48
+"2003-07-08",13,"Central Greece",21.45
+"2003-07-08",14,"Thessaly",20.85
+"2003-07-09",1,"North Aegean",23.28
+"2003-07-09",2,"South Aegean",23.89
+"2003-07-09",3,"Athos",24.12
+"2003-07-09",4,"Attica",22.61
+"2003-07-09",5,"Crete",22.7
+"2003-07-09",6,"Epirus",15.91
+"2003-07-09",7,"West Macedonia",13.97
+"2003-07-09",8,"Central Macedonia",18.33
+"2003-07-09",9,"East Macedonia and Thrace",18.65
+"2003-07-09",10,"Ionian Islands",24.03
+"2003-07-09",11,"Peloponnese",20.06
+"2003-07-09",12,"West Greece",19.69
+"2003-07-09",13,"Central Greece",19.99
+"2003-07-09",14,"Thessaly",18.94
+"2003-07-10",1,"North Aegean",22.35
+"2003-07-10",2,"South Aegean",23.58
+"2003-07-10",3,"Athos",24.8
+"2003-07-10",4,"Attica",21.7
+"2003-07-10",5,"Crete",21.79
+"2003-07-10",6,"Epirus",15.87
+"2003-07-10",7,"West Macedonia",14.09
+"2003-07-10",8,"Central Macedonia",18.06
+"2003-07-10",9,"East Macedonia and Thrace",17.85
+"2003-07-10",10,"Ionian Islands",23.59
+"2003-07-10",11,"Peloponnese",18.96
+"2003-07-10",12,"West Greece",18.62
+"2003-07-10",13,"Central Greece",19.28
+"2003-07-10",14,"Thessaly",19.27
+"2003-07-11",1,"North Aegean",22.93
+"2003-07-11",2,"South Aegean",23.72
+"2003-07-11",3,"Athos",24.71
+"2003-07-11",4,"Attica",22.98
+"2003-07-11",5,"Crete",21.68
+"2003-07-11",6,"Epirus",16.89
+"2003-07-11",7,"West Macedonia",15.72
+"2003-07-11",8,"Central Macedonia",19.57
+"2003-07-11",9,"East Macedonia and Thrace",18.78
+"2003-07-11",10,"Ionian Islands",23.4
+"2003-07-11",11,"Peloponnese",18.73
+"2003-07-11",12,"West Greece",18.66
+"2003-07-11",13,"Central Greece",20.17
+"2003-07-11",14,"Thessaly",19.91
+"2003-07-12",1,"North Aegean",23.56
+"2003-07-12",2,"South Aegean",24.34
+"2003-07-12",3,"Athos",23.18
+"2003-07-12",4,"Attica",23.36
+"2003-07-12",5,"Crete",22.68
+"2003-07-12",6,"Epirus",16.98
+"2003-07-12",7,"West Macedonia",14.52
+"2003-07-12",8,"Central Macedonia",19.01
+"2003-07-12",9,"East Macedonia and Thrace",17.92
+"2003-07-12",10,"Ionian Islands",23.94
+"2003-07-12",11,"Peloponnese",20
+"2003-07-12",12,"West Greece",19.19
+"2003-07-12",13,"Central Greece",20.32
+"2003-07-12",14,"Thessaly",20.13
+"2003-07-13",1,"North Aegean",23.25
+"2003-07-13",2,"South Aegean",24.04
+"2003-07-13",3,"Athos",24.39
+"2003-07-13",4,"Attica",21.94
+"2003-07-13",5,"Crete",23.15
+"2003-07-13",6,"Epirus",17.17
+"2003-07-13",7,"West Macedonia",15.77
+"2003-07-13",8,"Central Macedonia",18.44
+"2003-07-13",9,"East Macedonia and Thrace",17.8
+"2003-07-13",10,"Ionian Islands",23.64
+"2003-07-13",11,"Peloponnese",20.34
+"2003-07-13",12,"West Greece",20.05
+"2003-07-13",13,"Central Greece",19.11
+"2003-07-13",14,"Thessaly",18.51
+"2003-07-14",1,"North Aegean",22.78
+"2003-07-14",2,"South Aegean",23.82
+"2003-07-14",3,"Athos",24.48
+"2003-07-14",4,"Attica",23.38
+"2003-07-14",5,"Crete",21.79
+"2003-07-14",6,"Epirus",17.69
+"2003-07-14",7,"West Macedonia",16.19
+"2003-07-14",8,"Central Macedonia",20.26
+"2003-07-14",9,"East Macedonia and Thrace",19.39
+"2003-07-14",10,"Ionian Islands",23.01
+"2003-07-14",11,"Peloponnese",19.99
+"2003-07-14",12,"West Greece",19.67
+"2003-07-14",13,"Central Greece",20.43
+"2003-07-14",14,"Thessaly",20.25
+"2003-07-15",1,"North Aegean",23.49
+"2003-07-15",2,"South Aegean",23.81
+"2003-07-15",3,"Athos",23.89
+"2003-07-15",4,"Attica",23.83
+"2003-07-15",5,"Crete",22.22
+"2003-07-15",6,"Epirus",18.85
+"2003-07-15",7,"West Macedonia",16.27
+"2003-07-15",8,"Central Macedonia",20.45
+"2003-07-15",9,"East Macedonia and Thrace",18.23
+"2003-07-15",10,"Ionian Islands",23.91
+"2003-07-15",11,"Peloponnese",21.2
+"2003-07-15",12,"West Greece",20.88
+"2003-07-15",13,"Central Greece",21.71
+"2003-07-15",14,"Thessaly",21.42
+"2003-07-16",1,"North Aegean",22.84
+"2003-07-16",2,"South Aegean",24.09
+"2003-07-16",3,"Athos",24.22
+"2003-07-16",4,"Attica",23.03
+"2003-07-16",5,"Crete",23.25
+"2003-07-16",6,"Epirus",15.91
+"2003-07-16",7,"West Macedonia",14.69
+"2003-07-16",8,"Central Macedonia",18.89
+"2003-07-16",9,"East Macedonia and Thrace",17.86
+"2003-07-16",10,"Ionian Islands",24.4
+"2003-07-16",11,"Peloponnese",19.94
+"2003-07-16",12,"West Greece",18.83
+"2003-07-16",13,"Central Greece",20.33
+"2003-07-16",14,"Thessaly",19.12
+"2003-07-17",1,"North Aegean",23.86
+"2003-07-17",2,"South Aegean",24.77
+"2003-07-17",3,"Athos",24.98
+"2003-07-17",4,"Attica",23.69
+"2003-07-17",5,"Crete",23.8
+"2003-07-17",6,"Epirus",18.66
+"2003-07-17",7,"West Macedonia",16.75
+"2003-07-17",8,"Central Macedonia",20.63
+"2003-07-17",9,"East Macedonia and Thrace",19.33
+"2003-07-17",10,"Ionian Islands",24.98
+"2003-07-17",11,"Peloponnese",21.27
+"2003-07-17",12,"West Greece",20.17
+"2003-07-17",13,"Central Greece",21.2
+"2003-07-17",14,"Thessaly",20.7
+"2003-07-18",1,"North Aegean",24.18
+"2003-07-18",2,"South Aegean",25.34
+"2003-07-18",3,"Athos",25.36
+"2003-07-18",4,"Attica",25.43
+"2003-07-18",5,"Crete",25.28
+"2003-07-18",6,"Epirus",19.94
+"2003-07-18",7,"West Macedonia",19.67
+"2003-07-18",8,"Central Macedonia",24.1
+"2003-07-18",9,"East Macedonia and Thrace",21.65
+"2003-07-18",10,"Ionian Islands",24.89
+"2003-07-18",11,"Peloponnese",23.3
+"2003-07-18",12,"West Greece",21.98
+"2003-07-18",13,"Central Greece",23.49
+"2003-07-18",14,"Thessaly",23.21
+"2003-07-19",1,"North Aegean",25.57
+"2003-07-19",2,"South Aegean",25.44
+"2003-07-19",3,"Athos",26.21
+"2003-07-19",4,"Attica",25.39
+"2003-07-19",5,"Crete",25.72
+"2003-07-19",6,"Epirus",21.56
+"2003-07-19",7,"West Macedonia",21.15
+"2003-07-19",8,"Central Macedonia",23.59
+"2003-07-19",9,"East Macedonia and Thrace",22.27
+"2003-07-19",10,"Ionian Islands",25.58
+"2003-07-19",11,"Peloponnese",22.33
+"2003-07-19",12,"West Greece",22.72
+"2003-07-19",13,"Central Greece",23.32
+"2003-07-19",14,"Thessaly",23.34
+"2003-07-20",1,"North Aegean",23.83
+"2003-07-20",2,"South Aegean",24.79
+"2003-07-20",3,"Athos",24.3
+"2003-07-20",4,"Attica",25.15
+"2003-07-20",5,"Crete",24.34
+"2003-07-20",6,"Epirus",19.95
+"2003-07-20",7,"West Macedonia",17.2
+"2003-07-20",8,"Central Macedonia",20.85
+"2003-07-20",9,"East Macedonia and Thrace",20.18
+"2003-07-20",10,"Ionian Islands",25.22
+"2003-07-20",11,"Peloponnese",22.93
+"2003-07-20",12,"West Greece",22.83
+"2003-07-20",13,"Central Greece",21.3
+"2003-07-20",14,"Thessaly",20.15
+"2003-07-21",1,"North Aegean",23.61
+"2003-07-21",2,"South Aegean",24.34
+"2003-07-21",3,"Athos",25.79
+"2003-07-21",4,"Attica",24.52
+"2003-07-21",5,"Crete",23.45
+"2003-07-21",6,"Epirus",18.43
+"2003-07-21",7,"West Macedonia",17.01
+"2003-07-21",8,"Central Macedonia",21.54
+"2003-07-21",9,"East Macedonia and Thrace",19.6
+"2003-07-21",10,"Ionian Islands",25.13
+"2003-07-21",11,"Peloponnese",21.16
+"2003-07-21",12,"West Greece",20.9
+"2003-07-21",13,"Central Greece",20.16
+"2003-07-21",14,"Thessaly",18.59
+"2003-07-22",1,"North Aegean",23.45
+"2003-07-22",2,"South Aegean",24.87
+"2003-07-22",3,"Athos",25.54
+"2003-07-22",4,"Attica",23.32
+"2003-07-22",5,"Crete",22.93
+"2003-07-22",6,"Epirus",18.46
+"2003-07-22",7,"West Macedonia",16.82
+"2003-07-22",8,"Central Macedonia",21.56
+"2003-07-22",9,"East Macedonia and Thrace",19.68
+"2003-07-22",10,"Ionian Islands",24.84
+"2003-07-22",11,"Peloponnese",20.04
+"2003-07-22",12,"West Greece",20.38
+"2003-07-22",13,"Central Greece",19.54
+"2003-07-22",14,"Thessaly",19
+"2003-07-23",1,"North Aegean",24.21
+"2003-07-23",2,"South Aegean",25.54
+"2003-07-23",3,"Athos",25.86
+"2003-07-23",4,"Attica",24.28
+"2003-07-23",5,"Crete",23.97
+"2003-07-23",6,"Epirus",19.32
+"2003-07-23",7,"West Macedonia",17.94
+"2003-07-23",8,"Central Macedonia",21.6
+"2003-07-23",9,"East Macedonia and Thrace",20.28
+"2003-07-23",10,"Ionian Islands",25.25
+"2003-07-23",11,"Peloponnese",21.69
+"2003-07-23",12,"West Greece",21.93
+"2003-07-23",13,"Central Greece",20.9
+"2003-07-23",14,"Thessaly",20.38
+"2003-07-24",1,"North Aegean",24.25
+"2003-07-24",2,"South Aegean",25.39
+"2003-07-24",3,"Athos",25.86
+"2003-07-24",4,"Attica",24.24
+"2003-07-24",5,"Crete",23.18
+"2003-07-24",6,"Epirus",21.49
+"2003-07-24",7,"West Macedonia",18.97
+"2003-07-24",8,"Central Macedonia",22.5
+"2003-07-24",9,"East Macedonia and Thrace",22.12
+"2003-07-24",10,"Ionian Islands",25.46
+"2003-07-24",11,"Peloponnese",22.51
+"2003-07-24",12,"West Greece",23.2
+"2003-07-24",13,"Central Greece",23.09
+"2003-07-24",14,"Thessaly",22.12
+"2003-07-25",1,"North Aegean",24.66
+"2003-07-25",2,"South Aegean",25.37
+"2003-07-25",3,"Athos",25.8
+"2003-07-25",4,"Attica",24.89
+"2003-07-25",5,"Crete",24.94
+"2003-07-25",6,"Epirus",19.47
+"2003-07-25",7,"West Macedonia",18.27
+"2003-07-25",8,"Central Macedonia",22.17
+"2003-07-25",9,"East Macedonia and Thrace",20.82
+"2003-07-25",10,"Ionian Islands",25.38
+"2003-07-25",11,"Peloponnese",22.75
+"2003-07-25",12,"West Greece",22.13
+"2003-07-25",13,"Central Greece",22.83
+"2003-07-25",14,"Thessaly",21.99
+"2003-07-26",1,"North Aegean",23.96
+"2003-07-26",2,"South Aegean",24.87
+"2003-07-26",3,"Athos",25.43
+"2003-07-26",4,"Attica",24.8
+"2003-07-26",5,"Crete",24.8
+"2003-07-26",6,"Epirus",20.27
+"2003-07-26",7,"West Macedonia",18.69
+"2003-07-26",8,"Central Macedonia",22.54
+"2003-07-26",9,"East Macedonia and Thrace",21.41
+"2003-07-26",10,"Ionian Islands",25.39
+"2003-07-26",11,"Peloponnese",22.34
+"2003-07-26",12,"West Greece",22.41
+"2003-07-26",13,"Central Greece",22.59
+"2003-07-26",14,"Thessaly",21.56
+"2003-07-27",1,"North Aegean",23.5
+"2003-07-27",2,"South Aegean",24.87
+"2003-07-27",3,"Athos",25.41
+"2003-07-27",4,"Attica",24.32
+"2003-07-27",5,"Crete",23.6
+"2003-07-27",6,"Epirus",20.66
+"2003-07-27",7,"West Macedonia",18.59
+"2003-07-27",8,"Central Macedonia",21
+"2003-07-27",9,"East Macedonia and Thrace",19.8
+"2003-07-27",10,"Ionian Islands",25.62
+"2003-07-27",11,"Peloponnese",22.67
+"2003-07-27",12,"West Greece",23.14
+"2003-07-27",13,"Central Greece",21.65
+"2003-07-27",14,"Thessaly",21.23
+"2003-07-28",1,"North Aegean",24.25
+"2003-07-28",2,"South Aegean",25.8
+"2003-07-28",3,"Athos",26.4
+"2003-07-28",4,"Attica",24.05
+"2003-07-28",5,"Crete",23.77
+"2003-07-28",6,"Epirus",19.67
+"2003-07-28",7,"West Macedonia",18.19
+"2003-07-28",8,"Central Macedonia",21.84
+"2003-07-28",9,"East Macedonia and Thrace",19.93
+"2003-07-28",10,"Ionian Islands",25.93
+"2003-07-28",11,"Peloponnese",21.92
+"2003-07-28",12,"West Greece",22.57
+"2003-07-28",13,"Central Greece",20.66
+"2003-07-28",14,"Thessaly",20.18
+"2003-07-29",1,"North Aegean",24.69
+"2003-07-29",2,"South Aegean",25.7
+"2003-07-29",3,"Athos",26.24
+"2003-07-29",4,"Attica",24.65
+"2003-07-29",5,"Crete",23.55
+"2003-07-29",6,"Epirus",19.26
+"2003-07-29",7,"West Macedonia",18.17
+"2003-07-29",8,"Central Macedonia",21.2
+"2003-07-29",9,"East Macedonia and Thrace",20.73
+"2003-07-29",10,"Ionian Islands",25.78
+"2003-07-29",11,"Peloponnese",22.68
+"2003-07-29",12,"West Greece",22.88
+"2003-07-29",13,"Central Greece",22.34
+"2003-07-29",14,"Thessaly",21.68
+"2003-07-30",1,"North Aegean",24.82
+"2003-07-30",2,"South Aegean",25.84
+"2003-07-30",3,"Athos",26.1
+"2003-07-30",4,"Attica",26.08
+"2003-07-30",5,"Crete",24.22
+"2003-07-30",6,"Epirus",20.23
+"2003-07-30",7,"West Macedonia",18.97
+"2003-07-30",8,"Central Macedonia",22.07
+"2003-07-30",9,"East Macedonia and Thrace",21.18
+"2003-07-30",10,"Ionian Islands",25.41
+"2003-07-30",11,"Peloponnese",23.13
+"2003-07-30",12,"West Greece",23.27
+"2003-07-30",13,"Central Greece",23.97
+"2003-07-30",14,"Thessaly",22.08
+"2003-07-31",1,"North Aegean",24.68
+"2003-07-31",2,"South Aegean",25.43
+"2003-07-31",3,"Athos",24.06
+"2003-07-31",4,"Attica",24.4
+"2003-07-31",5,"Crete",23.95
+"2003-07-31",6,"Epirus",19.53
+"2003-07-31",7,"West Macedonia",16.65
+"2003-07-31",8,"Central Macedonia",20.43
+"2003-07-31",9,"East Macedonia and Thrace",19.63
+"2003-07-31",10,"Ionian Islands",25.42
+"2003-07-31",11,"Peloponnese",21.66
+"2003-07-31",12,"West Greece",21.81
+"2003-07-31",13,"Central Greece",22.3
+"2003-07-31",14,"Thessaly",20.96
+"2003-08-01",1,"North Aegean",24.15
+"2003-08-01",2,"South Aegean",24.16
+"2003-08-01",3,"Athos",24.87
+"2003-08-01",4,"Attica",23.49
+"2003-08-01",5,"Crete",23.26
+"2003-08-01",6,"Epirus",17.46
+"2003-08-01",7,"West Macedonia",16.5
+"2003-08-01",8,"Central Macedonia",20.16
+"2003-08-01",9,"East Macedonia and Thrace",19.42
+"2003-08-01",10,"Ionian Islands",25.41
+"2003-08-01",11,"Peloponnese",21.2
+"2003-08-01",12,"West Greece",20.25
+"2003-08-01",13,"Central Greece",20.79
+"2003-08-01",14,"Thessaly",20.11
+"2003-08-02",1,"North Aegean",24.97
+"2003-08-02",2,"South Aegean",24.3
+"2003-08-02",3,"Athos",25.74
+"2003-08-02",4,"Attica",24.04
+"2003-08-02",5,"Crete",23.37
+"2003-08-02",6,"Epirus",18.3
+"2003-08-02",7,"West Macedonia",16
+"2003-08-02",8,"Central Macedonia",20.93
+"2003-08-02",9,"East Macedonia and Thrace",21.41
+"2003-08-02",10,"Ionian Islands",23.88
+"2003-08-02",11,"Peloponnese",21.63
+"2003-08-02",12,"West Greece",21.91
+"2003-08-02",13,"Central Greece",21.36
+"2003-08-02",14,"Thessaly",20.37
+"2003-08-03",1,"North Aegean",24.55
+"2003-08-03",2,"South Aegean",24.87
+"2003-08-03",3,"Athos",25.69
+"2003-08-03",4,"Attica",23.93
+"2003-08-03",5,"Crete",23.51
+"2003-08-03",6,"Epirus",18.07
+"2003-08-03",7,"West Macedonia",15.81
+"2003-08-03",8,"Central Macedonia",21.84
+"2003-08-03",9,"East Macedonia and Thrace",21.73
+"2003-08-03",10,"Ionian Islands",24.9
+"2003-08-03",11,"Peloponnese",21.08
+"2003-08-03",12,"West Greece",21.8
+"2003-08-03",13,"Central Greece",20.71
+"2003-08-03",14,"Thessaly",19.65
+"2003-08-04",1,"North Aegean",24.37
+"2003-08-04",2,"South Aegean",25.19
+"2003-08-04",3,"Athos",26
+"2003-08-04",4,"Attica",23.76
+"2003-08-04",5,"Crete",24.13
+"2003-08-04",6,"Epirus",18.31
+"2003-08-04",7,"West Macedonia",16.42
+"2003-08-04",8,"Central Macedonia",21.7
+"2003-08-04",9,"East Macedonia and Thrace",21.32
+"2003-08-04",10,"Ionian Islands",26.01
+"2003-08-04",11,"Peloponnese",21.53
+"2003-08-04",12,"West Greece",21.88
+"2003-08-04",13,"Central Greece",20.31
+"2003-08-04",14,"Thessaly",19.48
+"2003-08-05",1,"North Aegean",24.86
+"2003-08-05",2,"South Aegean",25.9
+"2003-08-05",3,"Athos",25.92
+"2003-08-05",4,"Attica",24.91
+"2003-08-05",5,"Crete",24.44
+"2003-08-05",6,"Epirus",19.41
+"2003-08-05",7,"West Macedonia",18.38
+"2003-08-05",8,"Central Macedonia",23.52
+"2003-08-05",9,"East Macedonia and Thrace",21.47
+"2003-08-05",10,"Ionian Islands",26.23
+"2003-08-05",11,"Peloponnese",21.85
+"2003-08-05",12,"West Greece",21.81
+"2003-08-05",13,"Central Greece",21.17
+"2003-08-05",14,"Thessaly",21.43
+"2003-08-06",1,"North Aegean",24.13
+"2003-08-06",2,"South Aegean",25.71
+"2003-08-06",3,"Athos",25.37
+"2003-08-06",4,"Attica",24.56
+"2003-08-06",5,"Crete",24.26
+"2003-08-06",6,"Epirus",19.31
+"2003-08-06",7,"West Macedonia",17.84
+"2003-08-06",8,"Central Macedonia",22.65
+"2003-08-06",9,"East Macedonia and Thrace",20.25
+"2003-08-06",10,"Ionian Islands",26.15
+"2003-08-06",11,"Peloponnese",22.21
+"2003-08-06",12,"West Greece",22.76
+"2003-08-06",13,"Central Greece",21.08
+"2003-08-06",14,"Thessaly",21.72
+"2003-08-07",1,"North Aegean",24.25
+"2003-08-07",2,"South Aegean",25.39
+"2003-08-07",3,"Athos",26.23
+"2003-08-07",4,"Attica",24.81
+"2003-08-07",5,"Crete",23.72
+"2003-08-07",6,"Epirus",18.77
+"2003-08-07",7,"West Macedonia",18.88
+"2003-08-07",8,"Central Macedonia",22.76
+"2003-08-07",9,"East Macedonia and Thrace",20.93
+"2003-08-07",10,"Ionian Islands",26.02
+"2003-08-07",11,"Peloponnese",21.63
+"2003-08-07",12,"West Greece",21.44
+"2003-08-07",13,"Central Greece",20.74
+"2003-08-07",14,"Thessaly",20.27
+"2003-08-08",1,"North Aegean",23.5
+"2003-08-08",2,"South Aegean",25.1
+"2003-08-08",3,"Athos",25.69
+"2003-08-08",4,"Attica",24.53
+"2003-08-08",5,"Crete",23.64
+"2003-08-08",6,"Epirus",19.27
+"2003-08-08",7,"West Macedonia",19.09
+"2003-08-08",8,"Central Macedonia",22.48
+"2003-08-08",9,"East Macedonia and Thrace",20.81
+"2003-08-08",10,"Ionian Islands",26.44
+"2003-08-08",11,"Peloponnese",22.01
+"2003-08-08",12,"West Greece",21.87
+"2003-08-08",13,"Central Greece",21.19
+"2003-08-08",14,"Thessaly",21.1
+"2003-08-09",1,"North Aegean",23.4
+"2003-08-09",2,"South Aegean",24.71
+"2003-08-09",3,"Athos",25.07
+"2003-08-09",4,"Attica",23.42
+"2003-08-09",5,"Crete",22.7
+"2003-08-09",6,"Epirus",18.03
+"2003-08-09",7,"West Macedonia",16.15
+"2003-08-09",8,"Central Macedonia",20.7
+"2003-08-09",9,"East Macedonia and Thrace",19.61
+"2003-08-09",10,"Ionian Islands",25.69
+"2003-08-09",11,"Peloponnese",21.19
+"2003-08-09",12,"West Greece",21.8
+"2003-08-09",13,"Central Greece",20.11
+"2003-08-09",14,"Thessaly",19.85
+"2003-08-10",1,"North Aegean",22.77
+"2003-08-10",2,"South Aegean",24.25
+"2003-08-10",3,"Athos",24.84
+"2003-08-10",4,"Attica",22.46
+"2003-08-10",5,"Crete",22.69
+"2003-08-10",6,"Epirus",17.45
+"2003-08-10",7,"West Macedonia",15.17
+"2003-08-10",8,"Central Macedonia",19.59
+"2003-08-10",9,"East Macedonia and Thrace",19.22
+"2003-08-10",10,"Ionian Islands",25.55
+"2003-08-10",11,"Peloponnese",20.67
+"2003-08-10",12,"West Greece",21.1
+"2003-08-10",13,"Central Greece",19.29
+"2003-08-10",14,"Thessaly",17.88
+"2003-08-11",1,"North Aegean",22.61
+"2003-08-11",2,"South Aegean",24.51
+"2003-08-11",3,"Athos",24.08
+"2003-08-11",4,"Attica",22.19
+"2003-08-11",5,"Crete",22.95
+"2003-08-11",6,"Epirus",16.11
+"2003-08-11",7,"West Macedonia",13.41
+"2003-08-11",8,"Central Macedonia",17.16
+"2003-08-11",9,"East Macedonia and Thrace",16.84
+"2003-08-11",10,"Ionian Islands",25.47
+"2003-08-11",11,"Peloponnese",20.69
+"2003-08-11",12,"West Greece",19.87
+"2003-08-11",13,"Central Greece",18.59
+"2003-08-11",14,"Thessaly",16.73
+"2003-08-12",1,"North Aegean",22.1
+"2003-08-12",2,"South Aegean",24.24
+"2003-08-12",3,"Athos",25.02
+"2003-08-12",4,"Attica",22.85
+"2003-08-12",5,"Crete",22.41
+"2003-08-12",6,"Epirus",18.34
+"2003-08-12",7,"West Macedonia",17.69
+"2003-08-12",8,"Central Macedonia",21.96
+"2003-08-12",9,"East Macedonia and Thrace",20.61
+"2003-08-12",10,"Ionian Islands",25.14
+"2003-08-12",11,"Peloponnese",20.54
+"2003-08-12",12,"West Greece",20.4
+"2003-08-12",13,"Central Greece",20.49
+"2003-08-12",14,"Thessaly",20.9
+"2003-08-13",1,"North Aegean",22.44
+"2003-08-13",2,"South Aegean",24.71
+"2003-08-13",3,"Athos",23.95
+"2003-08-13",4,"Attica",21.98
+"2003-08-13",5,"Crete",23.06
+"2003-08-13",6,"Epirus",17.84
+"2003-08-13",7,"West Macedonia",14.97
+"2003-08-13",8,"Central Macedonia",17.62
+"2003-08-13",9,"East Macedonia and Thrace",17.34
+"2003-08-13",10,"Ionian Islands",25.37
+"2003-08-13",11,"Peloponnese",21.28
+"2003-08-13",12,"West Greece",21.65
+"2003-08-13",13,"Central Greece",19.26
+"2003-08-13",14,"Thessaly",17.75
+"2003-08-14",1,"North Aegean",22.87
+"2003-08-14",2,"South Aegean",24.93
+"2003-08-14",3,"Athos",24.54
+"2003-08-14",4,"Attica",22.56
+"2003-08-14",5,"Crete",23.13
+"2003-08-14",6,"Epirus",18.01
+"2003-08-14",7,"West Macedonia",15.5
+"2003-08-14",8,"Central Macedonia",18.38
+"2003-08-14",9,"East Macedonia and Thrace",17.68
+"2003-08-14",10,"Ionian Islands",25.02
+"2003-08-14",11,"Peloponnese",21.42
+"2003-08-14",12,"West Greece",21.52
+"2003-08-14",13,"Central Greece",20.32
+"2003-08-14",14,"Thessaly",18.79
+"2003-08-15",1,"North Aegean",24.2
+"2003-08-15",2,"South Aegean",25.78
+"2003-08-15",3,"Athos",25.45
+"2003-08-15",4,"Attica",24.57
+"2003-08-15",5,"Crete",23.87
+"2003-08-15",6,"Epirus",19.56
+"2003-08-15",7,"West Macedonia",17.96
+"2003-08-15",8,"Central Macedonia",21.57
+"2003-08-15",9,"East Macedonia and Thrace",20.89
+"2003-08-15",10,"Ionian Islands",25.37
+"2003-08-15",11,"Peloponnese",22.43
+"2003-08-15",12,"West Greece",22.5
+"2003-08-15",13,"Central Greece",22.2
+"2003-08-15",14,"Thessaly",20.41
+"2003-08-16",1,"North Aegean",23.98
+"2003-08-16",2,"South Aegean",25.08
+"2003-08-16",3,"Athos",25.78
+"2003-08-16",4,"Attica",23.89
+"2003-08-16",5,"Crete",22.4
+"2003-08-16",6,"Epirus",19.87
+"2003-08-16",7,"West Macedonia",17.79
+"2003-08-16",8,"Central Macedonia",22.83
+"2003-08-16",9,"East Macedonia and Thrace",22.2
+"2003-08-16",10,"Ionian Islands",26.14
+"2003-08-16",11,"Peloponnese",21.78
+"2003-08-16",12,"West Greece",21.94
+"2003-08-16",13,"Central Greece",22.72
+"2003-08-16",14,"Thessaly",21.62
+"2003-08-17",1,"North Aegean",25.22
+"2003-08-17",2,"South Aegean",25.45
+"2003-08-17",3,"Athos",26.97
+"2003-08-17",4,"Attica",25.11
+"2003-08-17",5,"Crete",23.15
+"2003-08-17",6,"Epirus",20.03
+"2003-08-17",7,"West Macedonia",19.22
+"2003-08-17",8,"Central Macedonia",23.55
+"2003-08-17",9,"East Macedonia and Thrace",22.32
+"2003-08-17",10,"Ionian Islands",26.49
+"2003-08-17",11,"Peloponnese",23.56
+"2003-08-17",12,"West Greece",22.94
+"2003-08-17",13,"Central Greece",23.67
+"2003-08-17",14,"Thessaly",22.29
+"2003-08-18",1,"North Aegean",25.61
+"2003-08-18",2,"South Aegean",26.45
+"2003-08-18",3,"Athos",26.91
+"2003-08-18",4,"Attica",25.64
+"2003-08-18",5,"Crete",25.15
+"2003-08-18",6,"Epirus",19.8
+"2003-08-18",7,"West Macedonia",19.45
+"2003-08-18",8,"Central Macedonia",22.49
+"2003-08-18",9,"East Macedonia and Thrace",22.01
+"2003-08-18",10,"Ionian Islands",26.61
+"2003-08-18",11,"Peloponnese",23.67
+"2003-08-18",12,"West Greece",22.72
+"2003-08-18",13,"Central Greece",22.47
+"2003-08-18",14,"Thessaly",21.97
+"2003-08-19",1,"North Aegean",25.01
+"2003-08-19",2,"South Aegean",26.38
+"2003-08-19",3,"Athos",26.01
+"2003-08-19",4,"Attica",26.03
+"2003-08-19",5,"Crete",25.36
+"2003-08-19",6,"Epirus",19.92
+"2003-08-19",7,"West Macedonia",19.35
+"2003-08-19",8,"Central Macedonia",22.75
+"2003-08-19",9,"East Macedonia and Thrace",22.08
+"2003-08-19",10,"Ionian Islands",27.2
+"2003-08-19",11,"Peloponnese",24.02
+"2003-08-19",12,"West Greece",23.57
+"2003-08-19",13,"Central Greece",22.56
+"2003-08-19",14,"Thessaly",22.45
+"2003-08-20",1,"North Aegean",23.88
+"2003-08-20",2,"South Aegean",25.84
+"2003-08-20",3,"Athos",25.66
+"2003-08-20",4,"Attica",25.32
+"2003-08-20",5,"Crete",24.32
+"2003-08-20",6,"Epirus",20.69
+"2003-08-20",7,"West Macedonia",19
+"2003-08-20",8,"Central Macedonia",23.31
+"2003-08-20",9,"East Macedonia and Thrace",21.55
+"2003-08-20",10,"Ionian Islands",27.58
+"2003-08-20",11,"Peloponnese",23.65
+"2003-08-20",12,"West Greece",24.26
+"2003-08-20",13,"Central Greece",22.58
+"2003-08-20",14,"Thessaly",22.43
+"2003-08-21",1,"North Aegean",24.47
+"2003-08-21",2,"South Aegean",25.89
+"2003-08-21",3,"Athos",26.58
+"2003-08-21",4,"Attica",25.07
+"2003-08-21",5,"Crete",24.53
+"2003-08-21",6,"Epirus",20.32
+"2003-08-21",7,"West Macedonia",18.13
+"2003-08-21",8,"Central Macedonia",21.4
+"2003-08-21",9,"East Macedonia and Thrace",21.51
+"2003-08-21",10,"Ionian Islands",27.41
+"2003-08-21",11,"Peloponnese",23.56
+"2003-08-21",12,"West Greece",23.46
+"2003-08-21",13,"Central Greece",22.45
+"2003-08-21",14,"Thessaly",21.86
+"2003-08-22",1,"North Aegean",24.28
+"2003-08-22",2,"South Aegean",25.65
+"2003-08-22",3,"Athos",26.17
+"2003-08-22",4,"Attica",24.31
+"2003-08-22",5,"Crete",24.16
+"2003-08-22",6,"Epirus",19.15
+"2003-08-22",7,"West Macedonia",18.86
+"2003-08-22",8,"Central Macedonia",22.56
+"2003-08-22",9,"East Macedonia and Thrace",21.82
+"2003-08-22",10,"Ionian Islands",26.62
+"2003-08-22",11,"Peloponnese",22.78
+"2003-08-22",12,"West Greece",22.86
+"2003-08-22",13,"Central Greece",21.44
+"2003-08-22",14,"Thessaly",21.36
+"2003-08-23",1,"North Aegean",23.94
+"2003-08-23",2,"South Aegean",25.69
+"2003-08-23",3,"Athos",25.96
+"2003-08-23",4,"Attica",24.8
+"2003-08-23",5,"Crete",24.41
+"2003-08-23",6,"Epirus",19.71
+"2003-08-23",7,"West Macedonia",17.66
+"2003-08-23",8,"Central Macedonia",21.41
+"2003-08-23",9,"East Macedonia and Thrace",19.85
+"2003-08-23",10,"Ionian Islands",26.8
+"2003-08-23",11,"Peloponnese",23.51
+"2003-08-23",12,"West Greece",23.76
+"2003-08-23",13,"Central Greece",21.95
+"2003-08-23",14,"Thessaly",21.76
+"2003-08-24",1,"North Aegean",23.95
+"2003-08-24",2,"South Aegean",25.79
+"2003-08-24",3,"Athos",26.26
+"2003-08-24",4,"Attica",24.52
+"2003-08-24",5,"Crete",23.78
+"2003-08-24",6,"Epirus",20.64
+"2003-08-24",7,"West Macedonia",18.84
+"2003-08-24",8,"Central Macedonia",21.52
+"2003-08-24",9,"East Macedonia and Thrace",20.55
+"2003-08-24",10,"Ionian Islands",26.64
+"2003-08-24",11,"Peloponnese",23.18
+"2003-08-24",12,"West Greece",23.8
+"2003-08-24",13,"Central Greece",21.78
+"2003-08-24",14,"Thessaly",21.29
+"2003-08-25",1,"North Aegean",23.57
+"2003-08-25",2,"South Aegean",25.09
+"2003-08-25",3,"Athos",26.31
+"2003-08-25",4,"Attica",23.88
+"2003-08-25",5,"Crete",22.75
+"2003-08-25",6,"Epirus",17.52
+"2003-08-25",7,"West Macedonia",16.18
+"2003-08-25",8,"Central Macedonia",22.33
+"2003-08-25",9,"East Macedonia and Thrace",21.76
+"2003-08-25",10,"Ionian Islands",26.53
+"2003-08-25",11,"Peloponnese",21.8
+"2003-08-25",12,"West Greece",21.69
+"2003-08-25",13,"Central Greece",21.29
+"2003-08-25",14,"Thessaly",19.8
+"2003-08-26",1,"North Aegean",23.74
+"2003-08-26",2,"South Aegean",24.59
+"2003-08-26",3,"Athos",26.8
+"2003-08-26",4,"Attica",24.04
+"2003-08-26",5,"Crete",23.71
+"2003-08-26",6,"Epirus",19.76
+"2003-08-26",7,"West Macedonia",18.33
+"2003-08-26",8,"Central Macedonia",22.59
+"2003-08-26",9,"East Macedonia and Thrace",20.86
+"2003-08-26",10,"Ionian Islands",26.11
+"2003-08-26",11,"Peloponnese",21.64
+"2003-08-26",12,"West Greece",21.91
+"2003-08-26",13,"Central Greece",21.1
+"2003-08-26",14,"Thessaly",20.59
+"2003-08-27",1,"North Aegean",24.04
+"2003-08-27",2,"South Aegean",24.97
+"2003-08-27",3,"Athos",26.09
+"2003-08-27",4,"Attica",25.14
+"2003-08-27",5,"Crete",24.01
+"2003-08-27",6,"Epirus",19.68
+"2003-08-27",7,"West Macedonia",18.03
+"2003-08-27",8,"Central Macedonia",22.32
+"2003-08-27",9,"East Macedonia and Thrace",21.4
+"2003-08-27",10,"Ionian Islands",24.81
+"2003-08-27",11,"Peloponnese",22.91
+"2003-08-27",12,"West Greece",22.76
+"2003-08-27",13,"Central Greece",22.32
+"2003-08-27",14,"Thessaly",21.08
+"2003-08-28",1,"North Aegean",23.87
+"2003-08-28",2,"South Aegean",24.52
+"2003-08-28",3,"Athos",26.26
+"2003-08-28",4,"Attica",24.31
+"2003-08-28",5,"Crete",23.64
+"2003-08-28",6,"Epirus",17.15
+"2003-08-28",7,"West Macedonia",14.89
+"2003-08-28",8,"Central Macedonia",20.57
+"2003-08-28",9,"East Macedonia and Thrace",21.38
+"2003-08-28",10,"Ionian Islands",25.05
+"2003-08-28",11,"Peloponnese",21.79
+"2003-08-28",12,"West Greece",21.19
+"2003-08-28",13,"Central Greece",20.96
+"2003-08-28",14,"Thessaly",19.36
+"2003-08-29",1,"North Aegean",25.52
+"2003-08-29",2,"South Aegean",25.36
+"2003-08-29",3,"Athos",26.44
+"2003-08-29",4,"Attica",24.13
+"2003-08-29",5,"Crete",24.02
+"2003-08-29",6,"Epirus",18.27
+"2003-08-29",7,"West Macedonia",17.41
+"2003-08-29",8,"Central Macedonia",20.99
+"2003-08-29",9,"East Macedonia and Thrace",21.09
+"2003-08-29",10,"Ionian Islands",26.21
+"2003-08-29",11,"Peloponnese",22.22
+"2003-08-29",12,"West Greece",21.42
+"2003-08-29",13,"Central Greece",20.82
+"2003-08-29",14,"Thessaly",19.6
+"2003-08-30",1,"North Aegean",25.26
+"2003-08-30",2,"South Aegean",26.23
+"2003-08-30",3,"Athos",26.44
+"2003-08-30",4,"Attica",24.49
+"2003-08-30",5,"Crete",24.58
+"2003-08-30",6,"Epirus",18.95
+"2003-08-30",7,"West Macedonia",17.38
+"2003-08-30",8,"Central Macedonia",21.52
+"2003-08-30",9,"East Macedonia and Thrace",21.79
+"2003-08-30",10,"Ionian Islands",26.24
+"2003-08-30",11,"Peloponnese",22.7
+"2003-08-30",12,"West Greece",21.88
+"2003-08-30",13,"Central Greece",21.84
+"2003-08-30",14,"Thessaly",20.38
+"2003-08-31",1,"North Aegean",24.37
+"2003-08-31",2,"South Aegean",26.08
+"2003-08-31",3,"Athos",26.49
+"2003-08-31",4,"Attica",25.81
+"2003-08-31",5,"Crete",24.47
+"2003-08-31",6,"Epirus",20.68
+"2003-08-31",7,"West Macedonia",18.59
+"2003-08-31",8,"Central Macedonia",22.7
+"2003-08-31",9,"East Macedonia and Thrace",21.63
+"2003-08-31",10,"Ionian Islands",26.3
+"2003-08-31",11,"Peloponnese",23.93
+"2003-08-31",12,"West Greece",22.19
+"2003-08-31",13,"Central Greece",23.32
+"2003-08-31",14,"Thessaly",22.9
+"2003-09-01",1,"North Aegean",24.73
+"2003-09-01",2,"South Aegean",26.24
+"2003-09-01",3,"Athos",27.95
+"2003-09-01",4,"Attica",27.07
+"2003-09-01",5,"Crete",27.4
+"2003-09-01",6,"Epirus",20.97
+"2003-09-01",7,"West Macedonia",17.94
+"2003-09-01",8,"Central Macedonia",23.36
+"2003-09-01",9,"East Macedonia and Thrace",21.69
+"2003-09-01",10,"Ionian Islands",26.74
+"2003-09-01",11,"Peloponnese",25.71
+"2003-09-01",12,"West Greece",23.2
+"2003-09-01",13,"Central Greece",23.93
+"2003-09-01",14,"Thessaly",22.68
+"2003-09-02",1,"North Aegean",24.98
+"2003-09-02",2,"South Aegean",26.04
+"2003-09-02",3,"Athos",26.22
+"2003-09-02",4,"Attica",25.01
+"2003-09-02",5,"Crete",24.76
+"2003-09-02",6,"Epirus",18.63
+"2003-09-02",7,"West Macedonia",16.01
+"2003-09-02",8,"Central Macedonia",20.41
+"2003-09-02",9,"East Macedonia and Thrace",20
+"2003-09-02",10,"Ionian Islands",26.96
+"2003-09-02",11,"Peloponnese",22.56
+"2003-09-02",12,"West Greece",21.53
+"2003-09-02",13,"Central Greece",22.1
+"2003-09-02",14,"Thessaly",21.32
+"2003-09-03",1,"North Aegean",24.31
+"2003-09-03",2,"South Aegean",25.64
+"2003-09-03",3,"Athos",24.89
+"2003-09-03",4,"Attica",25.54
+"2003-09-03",5,"Crete",24.76
+"2003-09-03",6,"Epirus",19.61
+"2003-09-03",7,"West Macedonia",16.76
+"2003-09-03",8,"Central Macedonia",20.88
+"2003-09-03",9,"East Macedonia and Thrace",19.9
+"2003-09-03",10,"Ionian Islands",26.41
+"2003-09-03",11,"Peloponnese",23.03
+"2003-09-03",12,"West Greece",22.12
+"2003-09-03",13,"Central Greece",22.32
+"2003-09-03",14,"Thessaly",21.09
+"2003-09-04",1,"North Aegean",22.68
+"2003-09-04",2,"South Aegean",25.29
+"2003-09-04",3,"Athos",21.28
+"2003-09-04",4,"Attica",23.45
+"2003-09-04",5,"Crete",23.5
+"2003-09-04",6,"Epirus",16.76
+"2003-09-04",7,"West Macedonia",12.36
+"2003-09-04",8,"Central Macedonia",17.2
+"2003-09-04",9,"East Macedonia and Thrace",17.85
+"2003-09-04",10,"Ionian Islands",25.09
+"2003-09-04",11,"Peloponnese",21.61
+"2003-09-04",12,"West Greece",21.41
+"2003-09-04",13,"Central Greece",19.92
+"2003-09-04",14,"Thessaly",18.12
+"2003-09-05",1,"North Aegean",18.09
+"2003-09-05",2,"South Aegean",21.16
+"2003-09-05",3,"Athos",20.02
+"2003-09-05",4,"Attica",18.76
+"2003-09-05",5,"Crete",19.88
+"2003-09-05",6,"Epirus",12.39
+"2003-09-05",7,"West Macedonia",8.85
+"2003-09-05",8,"Central Macedonia",14.27
+"2003-09-05",9,"East Macedonia and Thrace",11.96
+"2003-09-05",10,"Ionian Islands",22.98
+"2003-09-05",11,"Peloponnese",16.63
+"2003-09-05",12,"West Greece",16.46
+"2003-09-05",13,"Central Greece",14.97
+"2003-09-05",14,"Thessaly",13.19
+"2003-09-06",1,"North Aegean",19.75
+"2003-09-06",2,"South Aegean",21.68
+"2003-09-06",3,"Athos",21.96
+"2003-09-06",4,"Attica",17.32
+"2003-09-06",5,"Crete",19.43
+"2003-09-06",6,"Epirus",12.08
+"2003-09-06",7,"West Macedonia",10.4
+"2003-09-06",8,"Central Macedonia",13.94
+"2003-09-06",9,"East Macedonia and Thrace",14.74
+"2003-09-06",10,"Ionian Islands",23.3
+"2003-09-06",11,"Peloponnese",16.6
+"2003-09-06",12,"West Greece",16.42
+"2003-09-06",13,"Central Greece",14.49
+"2003-09-06",14,"Thessaly",12.86
+"2003-09-07",1,"North Aegean",20.28
+"2003-09-07",2,"South Aegean",23.08
+"2003-09-07",3,"Athos",21.73
+"2003-09-07",4,"Attica",20.35
+"2003-09-07",5,"Crete",19.83
+"2003-09-07",6,"Epirus",13.42
+"2003-09-07",7,"West Macedonia",12.39
+"2003-09-07",8,"Central Macedonia",14.99
+"2003-09-07",9,"East Macedonia and Thrace",14.03
+"2003-09-07",10,"Ionian Islands",23.42
+"2003-09-07",11,"Peloponnese",18.63
+"2003-09-07",12,"West Greece",17.71
+"2003-09-07",13,"Central Greece",17.67
+"2003-09-07",14,"Thessaly",15.92
+"2003-09-08",1,"North Aegean",20.01
+"2003-09-08",2,"South Aegean",22.97
+"2003-09-08",3,"Athos",21.2
+"2003-09-08",4,"Attica",20.33
+"2003-09-08",5,"Crete",20.21
+"2003-09-08",6,"Epirus",16.72
+"2003-09-08",7,"West Macedonia",12.84
+"2003-09-08",8,"Central Macedonia",16.86
+"2003-09-08",9,"East Macedonia and Thrace",15.04
+"2003-09-08",10,"Ionian Islands",22.55
+"2003-09-08",11,"Peloponnese",19.86
+"2003-09-08",12,"West Greece",20.22
+"2003-09-08",13,"Central Greece",18.76
+"2003-09-08",14,"Thessaly",17.29
+"2003-09-09",1,"North Aegean",20.78
+"2003-09-09",2,"South Aegean",22.88
+"2003-09-09",3,"Athos",22.18
+"2003-09-09",4,"Attica",20.7
+"2003-09-09",5,"Crete",22.07
+"2003-09-09",6,"Epirus",15.12
+"2003-09-09",7,"West Macedonia",12.06
+"2003-09-09",8,"Central Macedonia",16.76
+"2003-09-09",9,"East Macedonia and Thrace",17.19
+"2003-09-09",10,"Ionian Islands",22.91
+"2003-09-09",11,"Peloponnese",18.83
+"2003-09-09",12,"West Greece",18.96
+"2003-09-09",13,"Central Greece",17.14
+"2003-09-09",14,"Thessaly",15.62
+"2003-09-10",1,"North Aegean",21.7
+"2003-09-10",2,"South Aegean",24.31
+"2003-09-10",3,"Athos",22.16
+"2003-09-10",4,"Attica",23.02
+"2003-09-10",5,"Crete",22.76
+"2003-09-10",6,"Epirus",15.65
+"2003-09-10",7,"West Macedonia",13.32
+"2003-09-10",8,"Central Macedonia",17.49
+"2003-09-10",9,"East Macedonia and Thrace",15.94
+"2003-09-10",10,"Ionian Islands",23.55
+"2003-09-10",11,"Peloponnese",19.79
+"2003-09-10",12,"West Greece",18.92
+"2003-09-10",13,"Central Greece",19.07
+"2003-09-10",14,"Thessaly",17.37
+"2003-09-11",1,"North Aegean",22.39
+"2003-09-11",2,"South Aegean",24.6
+"2003-09-11",3,"Athos",20.14
+"2003-09-11",4,"Attica",23.27
+"2003-09-11",5,"Crete",24.72
+"2003-09-11",6,"Epirus",15.06
+"2003-09-11",7,"West Macedonia",13.18
+"2003-09-11",8,"Central Macedonia",17.23
+"2003-09-11",9,"East Macedonia and Thrace",17.94
+"2003-09-11",10,"Ionian Islands",20.64
+"2003-09-11",11,"Peloponnese",20.74
+"2003-09-11",12,"West Greece",18.14
+"2003-09-11",13,"Central Greece",19.47
+"2003-09-11",14,"Thessaly",17.4
+"2003-09-12",1,"North Aegean",21.88
+"2003-09-12",2,"South Aegean",24.05
+"2003-09-12",3,"Athos",22.91
+"2003-09-12",4,"Attica",22.23
+"2003-09-12",5,"Crete",22.17
+"2003-09-12",6,"Epirus",16.3
+"2003-09-12",7,"West Macedonia",13.78
+"2003-09-12",8,"Central Macedonia",18.74
+"2003-09-12",9,"East Macedonia and Thrace",17.94
+"2003-09-12",10,"Ionian Islands",22.47
+"2003-09-12",11,"Peloponnese",19.01
+"2003-09-12",12,"West Greece",18.79
+"2003-09-12",13,"Central Greece",18.89
+"2003-09-12",14,"Thessaly",18.02
+"2003-09-13",1,"North Aegean",20.68
+"2003-09-13",2,"South Aegean",23.25
+"2003-09-13",3,"Athos",19.01
+"2003-09-13",4,"Attica",21.87
+"2003-09-13",5,"Crete",21.31
+"2003-09-13",6,"Epirus",14.23
+"2003-09-13",7,"West Macedonia",12.01
+"2003-09-13",8,"Central Macedonia",15.51
+"2003-09-13",9,"East Macedonia and Thrace",15.12
+"2003-09-13",10,"Ionian Islands",20.99
+"2003-09-13",11,"Peloponnese",18.45
+"2003-09-13",12,"West Greece",17.59
+"2003-09-13",13,"Central Greece",17.7
+"2003-09-13",14,"Thessaly",16.28
+"2003-09-14",1,"North Aegean",20.24
+"2003-09-14",2,"South Aegean",22.66
+"2003-09-14",3,"Athos",18.53
+"2003-09-14",4,"Attica",18.53
+"2003-09-14",5,"Crete",20.19
+"2003-09-14",6,"Epirus",11.04
+"2003-09-14",7,"West Macedonia",9.65
+"2003-09-14",8,"Central Macedonia",14.56
+"2003-09-14",9,"East Macedonia and Thrace",14.1
+"2003-09-14",10,"Ionian Islands",20.9
+"2003-09-14",11,"Peloponnese",15.57
+"2003-09-14",12,"West Greece",15.21
+"2003-09-14",13,"Central Greece",14.83
+"2003-09-14",14,"Thessaly",13.24
+"2003-09-15",1,"North Aegean",19.3
+"2003-09-15",2,"South Aegean",22.44
+"2003-09-15",3,"Athos",18.26
+"2003-09-15",4,"Attica",18.92
+"2003-09-15",5,"Crete",20.18
+"2003-09-15",6,"Epirus",12.81
+"2003-09-15",7,"West Macedonia",10.68
+"2003-09-15",8,"Central Macedonia",13.94
+"2003-09-15",9,"East Macedonia and Thrace",11.96
+"2003-09-15",10,"Ionian Islands",22.05
+"2003-09-15",11,"Peloponnese",17.05
+"2003-09-15",12,"West Greece",17.05
+"2003-09-15",13,"Central Greece",15.91
+"2003-09-15",14,"Thessaly",14.74
+"2003-09-16",1,"North Aegean",19.76
+"2003-09-16",2,"South Aegean",22.33
+"2003-09-16",3,"Athos",19.61
+"2003-09-16",4,"Attica",19.17
+"2003-09-16",5,"Crete",20
+"2003-09-16",6,"Epirus",14.44
+"2003-09-16",7,"West Macedonia",11.69
+"2003-09-16",8,"Central Macedonia",14.78
+"2003-09-16",9,"East Macedonia and Thrace",14.15
+"2003-09-16",10,"Ionian Islands",22.34
+"2003-09-16",11,"Peloponnese",18.24
+"2003-09-16",12,"West Greece",18.63
+"2003-09-16",13,"Central Greece",16.79
+"2003-09-16",14,"Thessaly",15.89
+"2003-09-17",1,"North Aegean",19.52
+"2003-09-17",2,"South Aegean",22.1
+"2003-09-17",3,"Athos",19.87
+"2003-09-17",4,"Attica",19.3
+"2003-09-17",5,"Crete",20.04
+"2003-09-17",6,"Epirus",11.91
+"2003-09-17",7,"West Macedonia",8.5
+"2003-09-17",8,"Central Macedonia",14.59
+"2003-09-17",9,"East Macedonia and Thrace",14.43
+"2003-09-17",10,"Ionian Islands",22.02
+"2003-09-17",11,"Peloponnese",17.44
+"2003-09-17",12,"West Greece",16.57
+"2003-09-17",13,"Central Greece",15.22
+"2003-09-17",14,"Thessaly",12.87
+"2003-09-18",1,"North Aegean",19.92
+"2003-09-18",2,"South Aegean",22.34
+"2003-09-18",3,"Athos",20.56
+"2003-09-18",4,"Attica",17.85
+"2003-09-18",5,"Crete",19.66
+"2003-09-18",6,"Epirus",11.8
+"2003-09-18",7,"West Macedonia",10.27
+"2003-09-18",8,"Central Macedonia",14.46
+"2003-09-18",9,"East Macedonia and Thrace",13.51
+"2003-09-18",10,"Ionian Islands",22.28
+"2003-09-18",11,"Peloponnese",16.64
+"2003-09-18",12,"West Greece",16.24
+"2003-09-18",13,"Central Greece",14.58
+"2003-09-18",14,"Thessaly",13.37
+"2003-09-19",1,"North Aegean",20.66
+"2003-09-19",2,"South Aegean",22.83
+"2003-09-19",3,"Athos",21.47
+"2003-09-19",4,"Attica",18.67
+"2003-09-19",5,"Crete",20.02
+"2003-09-19",6,"Epirus",11.66
+"2003-09-19",7,"West Macedonia",10.79
+"2003-09-19",8,"Central Macedonia",14.56
+"2003-09-19",9,"East Macedonia and Thrace",14.25
+"2003-09-19",10,"Ionian Islands",22.2
+"2003-09-19",11,"Peloponnese",16.58
+"2003-09-19",12,"West Greece",15.49
+"2003-09-19",13,"Central Greece",15
+"2003-09-19",14,"Thessaly",14.36
+"2003-09-20",1,"North Aegean",20.59
+"2003-09-20",2,"South Aegean",23.01
+"2003-09-20",3,"Athos",21.28
+"2003-09-20",4,"Attica",19.92
+"2003-09-20",5,"Crete",20.6
+"2003-09-20",6,"Epirus",13.28
+"2003-09-20",7,"West Macedonia",12.47
+"2003-09-20",8,"Central Macedonia",16.04
+"2003-09-20",9,"East Macedonia and Thrace",15.14
+"2003-09-20",10,"Ionian Islands",22.85
+"2003-09-20",11,"Peloponnese",17.84
+"2003-09-20",12,"West Greece",17.27
+"2003-09-20",13,"Central Greece",16.09
+"2003-09-20",14,"Thessaly",15.31
+"2003-09-21",1,"North Aegean",20.02
+"2003-09-21",2,"South Aegean",22.48
+"2003-09-21",3,"Athos",20.72
+"2003-09-21",4,"Attica",19.18
+"2003-09-21",5,"Crete",20.29
+"2003-09-21",6,"Epirus",12.1
+"2003-09-21",7,"West Macedonia",10.35
+"2003-09-21",8,"Central Macedonia",14.23
+"2003-09-21",9,"East Macedonia and Thrace",13.4
+"2003-09-21",10,"Ionian Islands",22.84
+"2003-09-21",11,"Peloponnese",17.23
+"2003-09-21",12,"West Greece",16.72
+"2003-09-21",13,"Central Greece",15.32
+"2003-09-21",14,"Thessaly",14.23
+"2003-09-22",1,"North Aegean",20.42
+"2003-09-22",2,"South Aegean",22.6
+"2003-09-22",3,"Athos",21.71
+"2003-09-22",4,"Attica",19.16
+"2003-09-22",5,"Crete",20.34
+"2003-09-22",6,"Epirus",10.88
+"2003-09-22",7,"West Macedonia",11.1
+"2003-09-22",8,"Central Macedonia",14.57
+"2003-09-22",9,"East Macedonia and Thrace",13.84
+"2003-09-22",10,"Ionian Islands",22.69
+"2003-09-22",11,"Peloponnese",16.84
+"2003-09-22",12,"West Greece",15.55
+"2003-09-22",13,"Central Greece",14.88
+"2003-09-22",14,"Thessaly",13.19
+"2003-09-23",1,"North Aegean",19.44
+"2003-09-23",2,"South Aegean",22.03
+"2003-09-23",3,"Athos",21.19
+"2003-09-23",4,"Attica",17.8
+"2003-09-23",5,"Crete",18.76
+"2003-09-23",6,"Epirus",11.08
+"2003-09-23",7,"West Macedonia",11.04
+"2003-09-23",8,"Central Macedonia",15.12
+"2003-09-23",9,"East Macedonia and Thrace",14.47
+"2003-09-23",10,"Ionian Islands",22.96
+"2003-09-23",11,"Peloponnese",15.55
+"2003-09-23",12,"West Greece",14.83
+"2003-09-23",13,"Central Greece",13.99
+"2003-09-23",14,"Thessaly",12.92
+"2003-09-24",1,"North Aegean",20.02
+"2003-09-24",2,"South Aegean",21.36
+"2003-09-24",3,"Athos",20.62
+"2003-09-24",4,"Attica",18.89
+"2003-09-24",5,"Crete",19.34
+"2003-09-24",6,"Epirus",12.76
+"2003-09-24",7,"West Macedonia",10.97
+"2003-09-24",8,"Central Macedonia",14.48
+"2003-09-24",9,"East Macedonia and Thrace",14.14
+"2003-09-24",10,"Ionian Islands",22.17
+"2003-09-24",11,"Peloponnese",16.57
+"2003-09-24",12,"West Greece",16.61
+"2003-09-24",13,"Central Greece",14.77
+"2003-09-24",14,"Thessaly",13.55
+"2003-09-25",1,"North Aegean",20.49
+"2003-09-25",2,"South Aegean",21.98
+"2003-09-25",3,"Athos",21.07
+"2003-09-25",4,"Attica",18.28
+"2003-09-25",5,"Crete",19.35
+"2003-09-25",6,"Epirus",13.46
+"2003-09-25",7,"West Macedonia",12.57
+"2003-09-25",8,"Central Macedonia",17.17
+"2003-09-25",9,"East Macedonia and Thrace",15.6
+"2003-09-25",10,"Ionian Islands",22.41
+"2003-09-25",11,"Peloponnese",16.68
+"2003-09-25",12,"West Greece",16.29
+"2003-09-25",13,"Central Greece",16.29
+"2003-09-25",14,"Thessaly",15.65
+"2003-09-26",1,"North Aegean",20.01
+"2003-09-26",2,"South Aegean",22.02
+"2003-09-26",3,"Athos",21.01
+"2003-09-26",4,"Attica",19.73
+"2003-09-26",5,"Crete",19.78
+"2003-09-26",6,"Epirus",15.46
+"2003-09-26",7,"West Macedonia",13.23
+"2003-09-26",8,"Central Macedonia",17.58
+"2003-09-26",9,"East Macedonia and Thrace",16.66
+"2003-09-26",10,"Ionian Islands",22.89
+"2003-09-26",11,"Peloponnese",18.25
+"2003-09-26",12,"West Greece",18.84
+"2003-09-26",13,"Central Greece",17.04
+"2003-09-26",14,"Thessaly",17.18
+"2003-09-27",1,"North Aegean",19.31
+"2003-09-27",2,"South Aegean",21.54
+"2003-09-27",3,"Athos",20.03
+"2003-09-27",4,"Attica",18.7
+"2003-09-27",5,"Crete",19.64
+"2003-09-27",6,"Epirus",11.63
+"2003-09-27",7,"West Macedonia",10.46
+"2003-09-27",8,"Central Macedonia",15.41
+"2003-09-27",9,"East Macedonia and Thrace",14.34
+"2003-09-27",10,"Ionian Islands",22.66
+"2003-09-27",11,"Peloponnese",16.31
+"2003-09-27",12,"West Greece",16.51
+"2003-09-27",13,"Central Greece",14.56
+"2003-09-27",14,"Thessaly",13.75
+"2003-09-28",1,"North Aegean",19.23
+"2003-09-28",2,"South Aegean",21.63
+"2003-09-28",3,"Athos",19.86
+"2003-09-28",4,"Attica",17.63
+"2003-09-28",5,"Crete",19.02
+"2003-09-28",6,"Epirus",11.65
+"2003-09-28",7,"West Macedonia",10.03
+"2003-09-28",8,"Central Macedonia",13.35
+"2003-09-28",9,"East Macedonia and Thrace",12.28
+"2003-09-28",10,"Ionian Islands",21.59
+"2003-09-28",11,"Peloponnese",16.74
+"2003-09-28",12,"West Greece",15.85
+"2003-09-28",13,"Central Greece",14.91
+"2003-09-28",14,"Thessaly",13.14
+"2003-09-29",1,"North Aegean",19.23
+"2003-09-29",2,"South Aegean",21.49
+"2003-09-29",3,"Athos",20.14
+"2003-09-29",4,"Attica",19.22
+"2003-09-29",5,"Crete",19.09
+"2003-09-29",6,"Epirus",11.65
+"2003-09-29",7,"West Macedonia",10.39
+"2003-09-29",8,"Central Macedonia",14.34
+"2003-09-29",9,"East Macedonia and Thrace",13
+"2003-09-29",10,"Ionian Islands",21.73
+"2003-09-29",11,"Peloponnese",16.14
+"2003-09-29",12,"West Greece",15.42
+"2003-09-29",13,"Central Greece",15.59
+"2003-09-29",14,"Thessaly",13.6
+"2003-09-30",1,"North Aegean",18.83
+"2003-09-30",2,"South Aegean",20.99
+"2003-09-30",3,"Athos",20.35
+"2003-09-30",4,"Attica",18.36
+"2003-09-30",5,"Crete",19.29
+"2003-09-30",6,"Epirus",13.57
+"2003-09-30",7,"West Macedonia",12.22
+"2003-09-30",8,"Central Macedonia",16.78
+"2003-09-30",9,"East Macedonia and Thrace",14.43
+"2003-09-30",10,"Ionian Islands",21.1
+"2003-09-30",11,"Peloponnese",17.82
+"2003-09-30",12,"West Greece",17.32
+"2003-09-30",13,"Central Greece",16.53
+"2003-09-30",14,"Thessaly",15.83
+"2003-10-01",1,"North Aegean",19.91
+"2003-10-01",2,"South Aegean",21.65
+"2003-10-01",3,"Athos",20.74
+"2003-10-01",4,"Attica",20.11
+"2003-10-01",5,"Crete",20.29
+"2003-10-01",6,"Epirus",12.74
+"2003-10-01",7,"West Macedonia",11.63
+"2003-10-01",8,"Central Macedonia",15.72
+"2003-10-01",9,"East Macedonia and Thrace",16.06
+"2003-10-01",10,"Ionian Islands",21.77
+"2003-10-01",11,"Peloponnese",17.35
+"2003-10-01",12,"West Greece",17.18
+"2003-10-01",13,"Central Greece",17.31
+"2003-10-01",14,"Thessaly",16.13
+"2003-10-02",1,"North Aegean",19.51
+"2003-10-02",2,"South Aegean",21.82
+"2003-10-02",3,"Athos",21.32
+"2003-10-02",4,"Attica",18.48
+"2003-10-02",5,"Crete",20.19
+"2003-10-02",6,"Epirus",11.66
+"2003-10-02",7,"West Macedonia",10.71
+"2003-10-02",8,"Central Macedonia",14.77
+"2003-10-02",9,"East Macedonia and Thrace",13.91
+"2003-10-02",10,"Ionian Islands",22.07
+"2003-10-02",11,"Peloponnese",17.22
+"2003-10-02",12,"West Greece",16.26
+"2003-10-02",13,"Central Greece",15.04
+"2003-10-02",14,"Thessaly",13.64
+"2003-10-03",1,"North Aegean",19.61
+"2003-10-03",2,"South Aegean",21.99
+"2003-10-03",3,"Athos",20.7
+"2003-10-03",4,"Attica",19.02
+"2003-10-03",5,"Crete",19.87
+"2003-10-03",6,"Epirus",13.42
+"2003-10-03",7,"West Macedonia",12.18
+"2003-10-03",8,"Central Macedonia",15.41
+"2003-10-03",9,"East Macedonia and Thrace",14.28
+"2003-10-03",10,"Ionian Islands",22.01
+"2003-10-03",11,"Peloponnese",17.61
+"2003-10-03",12,"West Greece",16.56
+"2003-10-03",13,"Central Greece",16.5
+"2003-10-03",14,"Thessaly",15.02
+"2003-10-04",1,"North Aegean",19.91
+"2003-10-04",2,"South Aegean",22.46
+"2003-10-04",3,"Athos",21.66
+"2003-10-04",4,"Attica",20.34
+"2003-10-04",5,"Crete",19.95
+"2003-10-04",6,"Epirus",14.56
+"2003-10-04",7,"West Macedonia",13.45
+"2003-10-04",8,"Central Macedonia",17.63
+"2003-10-04",9,"East Macedonia and Thrace",15.86
+"2003-10-04",10,"Ionian Islands",22.59
+"2003-10-04",11,"Peloponnese",18.43
+"2003-10-04",12,"West Greece",17.13
+"2003-10-04",13,"Central Greece",17.39
+"2003-10-04",14,"Thessaly",17.37
+"2003-10-05",1,"North Aegean",21.3
+"2003-10-05",2,"South Aegean",22.73
+"2003-10-05",3,"Athos",21.52
+"2003-10-05",4,"Attica",21.17
+"2003-10-05",5,"Crete",21.09
+"2003-10-05",6,"Epirus",16.88
+"2003-10-05",7,"West Macedonia",15.06
+"2003-10-05",8,"Central Macedonia",18.06
+"2003-10-05",9,"East Macedonia and Thrace",17.78
+"2003-10-05",10,"Ionian Islands",23.22
+"2003-10-05",11,"Peloponnese",19.6
+"2003-10-05",12,"West Greece",18.71
+"2003-10-05",13,"Central Greece",18.54
+"2003-10-05",14,"Thessaly",17.87
+"2003-10-06",1,"North Aegean",21.47
+"2003-10-06",2,"South Aegean",22.31
+"2003-10-06",3,"Athos",22.54
+"2003-10-06",4,"Attica",21.6
+"2003-10-06",5,"Crete",20.87
+"2003-10-06",6,"Epirus",19.27
+"2003-10-06",7,"West Macedonia",17.75
+"2003-10-06",8,"Central Macedonia",20.49
+"2003-10-06",9,"East Macedonia and Thrace",20.65
+"2003-10-06",10,"Ionian Islands",23.6
+"2003-10-06",11,"Peloponnese",19.91
+"2003-10-06",12,"West Greece",20.68
+"2003-10-06",13,"Central Greece",19.99
+"2003-10-06",14,"Thessaly",19.61
+"2003-10-07",1,"North Aegean",21.21
+"2003-10-07",2,"South Aegean",23.12
+"2003-10-07",3,"Athos",21.8
+"2003-10-07",4,"Attica",21
+"2003-10-07",5,"Crete",21.94
+"2003-10-07",6,"Epirus",9.84
+"2003-10-07",7,"West Macedonia",7.44
+"2003-10-07",8,"Central Macedonia",13.29
+"2003-10-07",9,"East Macedonia and Thrace",14.18
+"2003-10-07",10,"Ionian Islands",20.71
+"2003-10-07",11,"Peloponnese",18.29
+"2003-10-07",12,"West Greece",15.97
+"2003-10-07",13,"Central Greece",15.49
+"2003-10-07",14,"Thessaly",13.1
+"2003-10-08",1,"North Aegean",19.63
+"2003-10-08",2,"South Aegean",22.46
+"2003-10-08",3,"Athos",20.48
+"2003-10-08",4,"Attica",20.03
+"2003-10-08",5,"Crete",21.17
+"2003-10-08",6,"Epirus",13.41
+"2003-10-08",7,"West Macedonia",12.55
+"2003-10-08",8,"Central Macedonia",14.13
+"2003-10-08",9,"East Macedonia and Thrace",12.51
+"2003-10-08",10,"Ionian Islands",21.99
+"2003-10-08",11,"Peloponnese",17.09
+"2003-10-08",12,"West Greece",17.12
+"2003-10-08",13,"Central Greece",16.15
+"2003-10-08",14,"Thessaly",15.32
+"2003-10-09",1,"North Aegean",20.86
+"2003-10-09",2,"South Aegean",22.78
+"2003-10-09",3,"Athos",14.21
+"2003-10-09",4,"Attica",20.02
+"2003-10-09",5,"Crete",22.27
+"2003-10-09",6,"Epirus",8.74
+"2003-10-09",7,"West Macedonia",5.42
+"2003-10-09",8,"Central Macedonia",8.69
+"2003-10-09",9,"East Macedonia and Thrace",12.53
+"2003-10-09",10,"Ionian Islands",17.84
+"2003-10-09",11,"Peloponnese",16.14
+"2003-10-09",12,"West Greece",13.59
+"2003-10-09",13,"Central Greece",15.09
+"2003-10-09",14,"Thessaly",12.11
+"2003-10-10",1,"North Aegean",16.74
+"2003-10-10",2,"South Aegean",19.75
+"2003-10-10",3,"Athos",18.1
+"2003-10-10",4,"Attica",15.4
+"2003-10-10",5,"Crete",16.82
+"2003-10-10",6,"Epirus",7.38
+"2003-10-10",7,"West Macedonia",6.51
+"2003-10-10",8,"Central Macedonia",11.25
+"2003-10-10",9,"East Macedonia and Thrace",10.39
+"2003-10-10",10,"Ionian Islands",19.83
+"2003-10-10",11,"Peloponnese",12.12
+"2003-10-10",12,"West Greece",11.27
+"2003-10-10",13,"Central Greece",10.99
+"2003-10-10",14,"Thessaly",10.42
+"2003-10-11",1,"North Aegean",15.59
+"2003-10-11",2,"South Aegean",18.51
+"2003-10-11",3,"Athos",17.15
+"2003-10-11",4,"Attica",13.8
+"2003-10-11",5,"Crete",17.2
+"2003-10-11",6,"Epirus",5.88
+"2003-10-11",7,"West Macedonia",3.42
+"2003-10-11",8,"Central Macedonia",7.27
+"2003-10-11",9,"East Macedonia and Thrace",6.8
+"2003-10-11",10,"Ionian Islands",19.92
+"2003-10-11",11,"Peloponnese",12.86
+"2003-10-11",12,"West Greece",11.41
+"2003-10-11",13,"Central Greece",9.95
+"2003-10-11",14,"Thessaly",7.97
+"2003-10-12",1,"North Aegean",16.8
+"2003-10-12",2,"South Aegean",19.74
+"2003-10-12",3,"Athos",18.32
+"2003-10-12",4,"Attica",14.79
+"2003-10-12",5,"Crete",17.06
+"2003-10-12",6,"Epirus",7.56
+"2003-10-12",7,"West Macedonia",6.47
+"2003-10-12",8,"Central Macedonia",10.48
+"2003-10-12",9,"East Macedonia and Thrace",9.34
+"2003-10-12",10,"Ionian Islands",19.96
+"2003-10-12",11,"Peloponnese",12.7
+"2003-10-12",12,"West Greece",11.75
+"2003-10-12",13,"Central Greece",11.84
+"2003-10-12",14,"Thessaly",10.18
+"2003-10-13",1,"North Aegean",18.19
+"2003-10-13",2,"South Aegean",21.01
+"2003-10-13",3,"Athos",18.54
+"2003-10-13",4,"Attica",17.06
+"2003-10-13",5,"Crete",18.39
+"2003-10-13",6,"Epirus",8.82
+"2003-10-13",7,"West Macedonia",8.46
+"2003-10-13",8,"Central Macedonia",11.53
+"2003-10-13",9,"East Macedonia and Thrace",10.33
+"2003-10-13",10,"Ionian Islands",20.32
+"2003-10-13",11,"Peloponnese",14.6
+"2003-10-13",12,"West Greece",13.05
+"2003-10-13",13,"Central Greece",13.74
+"2003-10-13",14,"Thessaly",12.41
+"2003-10-14",1,"North Aegean",17.86
+"2003-10-14",2,"South Aegean",20.87
+"2003-10-14",3,"Athos",18.06
+"2003-10-14",4,"Attica",17.42
+"2003-10-14",5,"Crete",17.92
+"2003-10-14",6,"Epirus",10.07
+"2003-10-14",7,"West Macedonia",10.64
+"2003-10-14",8,"Central Macedonia",14.86
+"2003-10-14",9,"East Macedonia and Thrace",13.1
+"2003-10-14",10,"Ionian Islands",20.09
+"2003-10-14",11,"Peloponnese",15.75
+"2003-10-14",12,"West Greece",14.19
+"2003-10-14",13,"Central Greece",14.72
+"2003-10-14",14,"Thessaly",14.31
+"2003-10-15",1,"North Aegean",17.99
+"2003-10-15",2,"South Aegean",20.74
+"2003-10-15",3,"Athos",18.15
+"2003-10-15",4,"Attica",17.38
+"2003-10-15",5,"Crete",16.97
+"2003-10-15",6,"Epirus",10.67
+"2003-10-15",7,"West Macedonia",10.48
+"2003-10-15",8,"Central Macedonia",15.14
+"2003-10-15",9,"East Macedonia and Thrace",13.73
+"2003-10-15",10,"Ionian Islands",20.31
+"2003-10-15",11,"Peloponnese",15.63
+"2003-10-15",12,"West Greece",15.19
+"2003-10-15",13,"Central Greece",14.68
+"2003-10-15",14,"Thessaly",13.94
+"2003-10-16",1,"North Aegean",17.13
+"2003-10-16",2,"South Aegean",20.1
+"2003-10-16",3,"Athos",16
+"2003-10-16",4,"Attica",17.35
+"2003-10-16",5,"Crete",17
+"2003-10-16",6,"Epirus",12.96
+"2003-10-16",7,"West Macedonia",9.4
+"2003-10-16",8,"Central Macedonia",12.76
+"2003-10-16",9,"East Macedonia and Thrace",11.9
+"2003-10-16",10,"Ionian Islands",20.54
+"2003-10-16",11,"Peloponnese",15.79
+"2003-10-16",12,"West Greece",16.66
+"2003-10-16",13,"Central Greece",15.1
+"2003-10-16",14,"Thessaly",13.87
+"2003-10-17",1,"North Aegean",17.66
+"2003-10-17",2,"South Aegean",19.84
+"2003-10-17",3,"Athos",16.06
+"2003-10-17",4,"Attica",16.99
+"2003-10-17",5,"Crete",18.2
+"2003-10-17",6,"Epirus",10.87
+"2003-10-17",7,"West Macedonia",6.74
+"2003-10-17",8,"Central Macedonia",11.1
+"2003-10-17",9,"East Macedonia and Thrace",11.13
+"2003-10-17",10,"Ionian Islands",19.13
+"2003-10-17",11,"Peloponnese",15.81
+"2003-10-17",12,"West Greece",14.79
+"2003-10-17",13,"Central Greece",13.95
+"2003-10-17",14,"Thessaly",12.31
+"2003-10-18",1,"North Aegean",17.41
+"2003-10-18",2,"South Aegean",19.59
+"2003-10-18",3,"Athos",15.59
+"2003-10-18",4,"Attica",17.44
+"2003-10-18",5,"Crete",17.98
+"2003-10-18",6,"Epirus",10.86
+"2003-10-18",7,"West Macedonia",6.09
+"2003-10-18",8,"Central Macedonia",10.21
+"2003-10-18",9,"East Macedonia and Thrace",11.2
+"2003-10-18",10,"Ionian Islands",18.83
+"2003-10-18",11,"Peloponnese",15.9
+"2003-10-18",12,"West Greece",15.56
+"2003-10-18",13,"Central Greece",13.78
+"2003-10-18",14,"Thessaly",11.96
+"2003-10-19",1,"North Aegean",17.33
+"2003-10-19",2,"South Aegean",20.21
+"2003-10-19",3,"Athos",14.83
+"2003-10-19",4,"Attica",18.19
+"2003-10-19",5,"Crete",19.46
+"2003-10-19",6,"Epirus",10.11
+"2003-10-19",7,"West Macedonia",6.21
+"2003-10-19",8,"Central Macedonia",10.53
+"2003-10-19",9,"East Macedonia and Thrace",8.49
+"2003-10-19",10,"Ionian Islands",19.94
+"2003-10-19",11,"Peloponnese",16.67
+"2003-10-19",12,"West Greece",14.79
+"2003-10-19",13,"Central Greece",13.7
+"2003-10-19",14,"Thessaly",11.34
+"2003-10-20",1,"North Aegean",19.99
+"2003-10-20",2,"South Aegean",22.04
+"2003-10-20",3,"Athos",17.63
+"2003-10-20",4,"Attica",19.23
+"2003-10-20",5,"Crete",21.81
+"2003-10-20",6,"Epirus",14.36
+"2003-10-20",7,"West Macedonia",10.42
+"2003-10-20",8,"Central Macedonia",11.7
+"2003-10-20",9,"East Macedonia and Thrace",11.55
+"2003-10-20",10,"Ionian Islands",20.55
+"2003-10-20",11,"Peloponnese",17.78
+"2003-10-20",12,"West Greece",17.83
+"2003-10-20",13,"Central Greece",15.5
+"2003-10-20",14,"Thessaly",13.63
+"2003-10-21",1,"North Aegean",20.52
+"2003-10-21",2,"South Aegean",22.34
+"2003-10-21",3,"Athos",19.01
+"2003-10-21",4,"Attica",18.89
+"2003-10-21",5,"Crete",22.81
+"2003-10-21",6,"Epirus",15.03
+"2003-10-21",7,"West Macedonia",11.9
+"2003-10-21",8,"Central Macedonia",14.49
+"2003-10-21",9,"East Macedonia and Thrace",13.54
+"2003-10-21",10,"Ionian Islands",20.92
+"2003-10-21",11,"Peloponnese",16.84
+"2003-10-21",12,"West Greece",16.57
+"2003-10-21",13,"Central Greece",15.74
+"2003-10-21",14,"Thessaly",14.97
+"2003-10-22",1,"North Aegean",20.17
+"2003-10-22",2,"South Aegean",21.82
+"2003-10-22",3,"Athos",21.02
+"2003-10-22",4,"Attica",20.15
+"2003-10-22",5,"Crete",21.36
+"2003-10-22",6,"Epirus",17.01
+"2003-10-22",7,"West Macedonia",15.23
+"2003-10-22",8,"Central Macedonia",17.32
+"2003-10-22",9,"East Macedonia and Thrace",16.88
+"2003-10-22",10,"Ionian Islands",21.14
+"2003-10-22",11,"Peloponnese",17.62
+"2003-10-22",12,"West Greece",16.83
+"2003-10-22",13,"Central Greece",17.16
+"2003-10-22",14,"Thessaly",17.28
+"2003-10-23",1,"North Aegean",21.4
+"2003-10-23",2,"South Aegean",22.84
+"2003-10-23",3,"Athos",20.84
+"2003-10-23",4,"Attica",22.21
+"2003-10-23",5,"Crete",23.56
+"2003-10-23",6,"Epirus",18.9
+"2003-10-23",7,"West Macedonia",15.51
+"2003-10-23",8,"Central Macedonia",17.8
+"2003-10-23",9,"East Macedonia and Thrace",16.83
+"2003-10-23",10,"Ionian Islands",22.55
+"2003-10-23",11,"Peloponnese",20.02
+"2003-10-23",12,"West Greece",21.02
+"2003-10-23",13,"Central Greece",19.21
+"2003-10-23",14,"Thessaly",18.02
+"2003-10-24",1,"North Aegean",21.87
+"2003-10-24",2,"South Aegean",23.67
+"2003-10-24",3,"Athos",21.6
+"2003-10-24",4,"Attica",23.25
+"2003-10-24",5,"Crete",24.15
+"2003-10-24",6,"Epirus",16.14
+"2003-10-24",7,"West Macedonia",14.18
+"2003-10-24",8,"Central Macedonia",16.72
+"2003-10-24",9,"East Macedonia and Thrace",17.33
+"2003-10-24",10,"Ionian Islands",21.08
+"2003-10-24",11,"Peloponnese",20.16
+"2003-10-24",12,"West Greece",19.15
+"2003-10-24",13,"Central Greece",18.95
+"2003-10-24",14,"Thessaly",17.66
+"2003-10-25",1,"North Aegean",21.15
+"2003-10-25",2,"South Aegean",22.99
+"2003-10-25",3,"Athos",18.71
+"2003-10-25",4,"Attica",22.57
+"2003-10-25",5,"Crete",23.24
+"2003-10-25",6,"Epirus",12.4
+"2003-10-25",7,"West Macedonia",9.5
+"2003-10-25",8,"Central Macedonia",14.36
+"2003-10-25",9,"East Macedonia and Thrace",13.92
+"2003-10-25",10,"Ionian Islands",19.12
+"2003-10-25",11,"Peloponnese",19.36
+"2003-10-25",12,"West Greece",18.12
+"2003-10-25",13,"Central Greece",18.64
+"2003-10-25",14,"Thessaly",15.34
+"2003-10-26",1,"North Aegean",17.17
+"2003-10-26",2,"South Aegean",20.78
+"2003-10-26",3,"Athos",14.93
+"2003-10-26",4,"Attica",18.26
+"2003-10-26",5,"Crete",20.14
+"2003-10-26",6,"Epirus",6.87
+"2003-10-26",7,"West Macedonia",3.82
+"2003-10-26",8,"Central Macedonia",9.92
+"2003-10-26",9,"East Macedonia and Thrace",10
+"2003-10-26",10,"Ionian Islands",17.64
+"2003-10-26",11,"Peloponnese",13.83
+"2003-10-26",12,"West Greece",12.21
+"2003-10-26",13,"Central Greece",13.44
+"2003-10-26",14,"Thessaly",11.09
+"2003-10-27",1,"North Aegean",15.35
+"2003-10-27",2,"South Aegean",19.26
+"2003-10-27",3,"Athos",14.86
+"2003-10-27",4,"Attica",15.4
+"2003-10-27",5,"Crete",17.71
+"2003-10-27",6,"Epirus",5.98
+"2003-10-27",7,"West Macedonia",3.12
+"2003-10-27",8,"Central Macedonia",7.23
+"2003-10-27",9,"East Macedonia and Thrace",7.34
+"2003-10-27",10,"Ionian Islands",17.56
+"2003-10-27",11,"Peloponnese",11.97
+"2003-10-27",12,"West Greece",11.06
+"2003-10-27",13,"Central Greece",10.18
+"2003-10-27",14,"Thessaly",8.23
+"2003-10-28",1,"North Aegean",17.67
+"2003-10-28",2,"South Aegean",21.38
+"2003-10-28",3,"Athos",13.83
+"2003-10-28",4,"Attica",19.47
+"2003-10-28",5,"Crete",20.71
+"2003-10-28",6,"Epirus",11.97
+"2003-10-28",7,"West Macedonia",7.74
+"2003-10-28",8,"Central Macedonia",8.92
+"2003-10-28",9,"East Macedonia and Thrace",6.88
+"2003-10-28",10,"Ionian Islands",18.52
+"2003-10-28",11,"Peloponnese",17.44
+"2003-10-28",12,"West Greece",15.95
+"2003-10-28",13,"Central Greece",14.97
+"2003-10-28",14,"Thessaly",12.76
+"2003-10-29",1,"North Aegean",9.48
+"2003-10-29",2,"South Aegean",13.66
+"2003-10-29",3,"Athos",10.87
+"2003-10-29",4,"Attica",12.23
+"2003-10-29",5,"Crete",14.33
+"2003-10-29",6,"Epirus",7.49
+"2003-10-29",7,"West Macedonia",4.11
+"2003-10-29",8,"Central Macedonia",6.7
+"2003-10-29",9,"East Macedonia and Thrace",3.37
+"2003-10-29",10,"Ionian Islands",17.03
+"2003-10-29",11,"Peloponnese",11.27
+"2003-10-29",12,"West Greece",11.03
+"2003-10-29",13,"Central Greece",9.36
+"2003-10-29",14,"Thessaly",8.15
+"2003-10-30",1,"North Aegean",11.91
+"2003-10-30",2,"South Aegean",14.91
+"2003-10-30",3,"Athos",12.43
+"2003-10-30",4,"Attica",13.35
+"2003-10-30",5,"Crete",14.62
+"2003-10-30",6,"Epirus",10.33
+"2003-10-30",7,"West Macedonia",6.36
+"2003-10-30",8,"Central Macedonia",9.33
+"2003-10-30",9,"East Macedonia and Thrace",6.61
+"2003-10-30",10,"Ionian Islands",17.91
+"2003-10-30",11,"Peloponnese",12.4
+"2003-10-30",12,"West Greece",12.74
+"2003-10-30",13,"Central Greece",11.13
+"2003-10-30",14,"Thessaly",10.09
+"2003-10-31",1,"North Aegean",18.54
+"2003-10-31",2,"South Aegean",20.71
+"2003-10-31",3,"Athos",17.53
+"2003-10-31",4,"Attica",16.29
+"2003-10-31",5,"Crete",20.92
+"2003-10-31",6,"Epirus",13.91
+"2003-10-31",7,"West Macedonia",10.41
+"2003-10-31",8,"Central Macedonia",11.47
+"2003-10-31",9,"East Macedonia and Thrace",12.25
+"2003-10-31",10,"Ionian Islands",18.52
+"2003-10-31",11,"Peloponnese",15.25
+"2003-10-31",12,"West Greece",15.75
+"2003-10-31",13,"Central Greece",13.93
+"2003-10-31",14,"Thessaly",13.39
+"2003-11-01",1,"North Aegean",18.82
+"2003-11-01",2,"South Aegean",20.57
+"2003-11-01",3,"Athos",18.08
+"2003-11-01",4,"Attica",16.06
+"2003-11-01",5,"Crete",17.91
+"2003-11-01",6,"Epirus",10.61
+"2003-11-01",7,"West Macedonia",6.22
+"2003-11-01",8,"Central Macedonia",10.32
+"2003-11-01",9,"East Macedonia and Thrace",10.08
+"2003-11-01",10,"Ionian Islands",19.11
+"2003-11-01",11,"Peloponnese",13.17
+"2003-11-01",12,"West Greece",12.75
+"2003-11-01",13,"Central Greece",11.81
+"2003-11-01",14,"Thessaly",10.22
+"2003-11-02",1,"North Aegean",18.33
+"2003-11-02",2,"South Aegean",20.16
+"2003-11-02",3,"Athos",18.49
+"2003-11-02",4,"Attica",17.37
+"2003-11-02",5,"Crete",18.27
+"2003-11-02",6,"Epirus",14.24
+"2003-11-02",7,"West Macedonia",11.54
+"2003-11-02",8,"Central Macedonia",13.18
+"2003-11-02",9,"East Macedonia and Thrace",12.12
+"2003-11-02",10,"Ionian Islands",21.2
+"2003-11-02",11,"Peloponnese",15.97
+"2003-11-02",12,"West Greece",15.15
+"2003-11-02",13,"Central Greece",14.89
+"2003-11-02",14,"Thessaly",13.98
+"2003-11-03",1,"North Aegean",18.89
+"2003-11-03",2,"South Aegean",20.55
+"2003-11-03",3,"Athos",18.95
+"2003-11-03",4,"Attica",17.12
+"2003-11-03",5,"Crete",20.8
+"2003-11-03",6,"Epirus",14.95
+"2003-11-03",7,"West Macedonia",12.83
+"2003-11-03",8,"Central Macedonia",14.99
+"2003-11-03",9,"East Macedonia and Thrace",13.96
+"2003-11-03",10,"Ionian Islands",20.72
+"2003-11-03",11,"Peloponnese",16.46
+"2003-11-03",12,"West Greece",16.48
+"2003-11-03",13,"Central Greece",14.78
+"2003-11-03",14,"Thessaly",14.59
+"2003-11-04",1,"North Aegean",18.95
+"2003-11-04",2,"South Aegean",20.15
+"2003-11-04",3,"Athos",18.85
+"2003-11-04",4,"Attica",17.56
+"2003-11-04",5,"Crete",18.63
+"2003-11-04",6,"Epirus",12.5
+"2003-11-04",7,"West Macedonia",11.91
+"2003-11-04",8,"Central Macedonia",15.22
+"2003-11-04",9,"East Macedonia and Thrace",14.98
+"2003-11-04",10,"Ionian Islands",18.29
+"2003-11-04",11,"Peloponnese",14.66
+"2003-11-04",12,"West Greece",14.41
+"2003-11-04",13,"Central Greece",15.51
+"2003-11-04",14,"Thessaly",15.04
+"2003-11-05",1,"North Aegean",17.7
+"2003-11-05",2,"South Aegean",20.28
+"2003-11-05",3,"Athos",17.6
+"2003-11-05",4,"Attica",18.19
+"2003-11-05",5,"Crete",18.01
+"2003-11-05",6,"Epirus",13.72
+"2003-11-05",7,"West Macedonia",11.12
+"2003-11-05",8,"Central Macedonia",13.96
+"2003-11-05",9,"East Macedonia and Thrace",14.51
+"2003-11-05",10,"Ionian Islands",20.56
+"2003-11-05",11,"Peloponnese",15.91
+"2003-11-05",12,"West Greece",16.28
+"2003-11-05",13,"Central Greece",16
+"2003-11-05",14,"Thessaly",15.44
+"2003-11-06",1,"North Aegean",15.54
+"2003-11-06",2,"South Aegean",17.66
+"2003-11-06",3,"Athos",14.82
+"2003-11-06",4,"Attica",15.23
+"2003-11-06",5,"Crete",16.85
+"2003-11-06",6,"Epirus",10.15
+"2003-11-06",7,"West Macedonia",6.64
+"2003-11-06",8,"Central Macedonia",11.28
+"2003-11-06",9,"East Macedonia and Thrace",10.69
+"2003-11-06",10,"Ionian Islands",18.06
+"2003-11-06",11,"Peloponnese",13.27
+"2003-11-06",12,"West Greece",13.62
+"2003-11-06",13,"Central Greece",12.73
+"2003-11-06",14,"Thessaly",11.63
+"2003-11-07",1,"North Aegean",13.28
+"2003-11-07",2,"South Aegean",16.81
+"2003-11-07",3,"Athos",14.01
+"2003-11-07",4,"Attica",12.66
+"2003-11-07",5,"Crete",15.21
+"2003-11-07",6,"Epirus",7.88
+"2003-11-07",7,"West Macedonia",5.42
+"2003-11-07",8,"Central Macedonia",8.8
+"2003-11-07",9,"East Macedonia and Thrace",8.03
+"2003-11-07",10,"Ionian Islands",16.49
+"2003-11-07",11,"Peloponnese",10.43
+"2003-11-07",12,"West Greece",10.95
+"2003-11-07",13,"Central Greece",10.04
+"2003-11-07",14,"Thessaly",9.6
+"2003-11-08",1,"North Aegean",14.33
+"2003-11-08",2,"South Aegean",17.56
+"2003-11-08",3,"Athos",14.6
+"2003-11-08",4,"Attica",12.99
+"2003-11-08",5,"Crete",16.33
+"2003-11-08",6,"Epirus",8.41
+"2003-11-08",7,"West Macedonia",4.9
+"2003-11-08",8,"Central Macedonia",6.32
+"2003-11-08",9,"East Macedonia and Thrace",7.49
+"2003-11-08",10,"Ionian Islands",17.93
+"2003-11-08",11,"Peloponnese",10.56
+"2003-11-08",12,"West Greece",11.82
+"2003-11-08",13,"Central Greece",9.78
+"2003-11-08",14,"Thessaly",8.85
+"2003-11-09",1,"North Aegean",12.12
+"2003-11-09",2,"South Aegean",16.12
+"2003-11-09",3,"Athos",12.56
+"2003-11-09",4,"Attica",12.66
+"2003-11-09",5,"Crete",14.24
+"2003-11-09",6,"Epirus",4.67
+"2003-11-09",7,"West Macedonia",1.76
+"2003-11-09",8,"Central Macedonia",6.94
+"2003-11-09",9,"East Macedonia and Thrace",5.5
+"2003-11-09",10,"Ionian Islands",17.94
+"2003-11-09",11,"Peloponnese",9.71
+"2003-11-09",12,"West Greece",9.14
+"2003-11-09",13,"Central Greece",8.25
+"2003-11-09",14,"Thessaly",6.56
+"2003-11-10",1,"North Aegean",10.61
+"2003-11-10",2,"South Aegean",14.68
+"2003-11-10",3,"Athos",11.07
+"2003-11-10",4,"Attica",12.31
+"2003-11-10",5,"Crete",13.89
+"2003-11-10",6,"Epirus",5.8
+"2003-11-10",7,"West Macedonia",3.19
+"2003-11-10",8,"Central Macedonia",8.33
+"2003-11-10",9,"East Macedonia and Thrace",6.65
+"2003-11-10",10,"Ionian Islands",17.42
+"2003-11-10",11,"Peloponnese",10.56
+"2003-11-10",12,"West Greece",10.48
+"2003-11-10",13,"Central Greece",9.17
+"2003-11-10",14,"Thessaly",7.75
+"2003-11-11",1,"North Aegean",8.7
+"2003-11-11",2,"South Aegean",12.55
+"2003-11-11",3,"Athos",9.07
+"2003-11-11",4,"Attica",8.99
+"2003-11-11",5,"Crete",11.51
+"2003-11-11",6,"Epirus",2.81
+"2003-11-11",7,"West Macedonia",0.21
+"2003-11-11",8,"Central Macedonia",5.33
+"2003-11-11",9,"East Macedonia and Thrace",3.4
+"2003-11-11",10,"Ionian Islands",13.48
+"2003-11-11",11,"Peloponnese",6.49
+"2003-11-11",12,"West Greece",6.35
+"2003-11-11",13,"Central Greece",6.02
+"2003-11-11",14,"Thessaly",5.57
+"2003-11-12",1,"North Aegean",9.56
+"2003-11-12",2,"South Aegean",13.49
+"2003-11-12",3,"Athos",9.49
+"2003-11-12",4,"Attica",9.18
+"2003-11-12",5,"Crete",12.06
+"2003-11-12",6,"Epirus",4.31
+"2003-11-12",7,"West Macedonia",1.27
+"2003-11-12",8,"Central Macedonia",4.48
+"2003-11-12",9,"East Macedonia and Thrace",1.19
+"2003-11-12",10,"Ionian Islands",12.95
+"2003-11-12",11,"Peloponnese",8.3
+"2003-11-12",12,"West Greece",8.45
+"2003-11-12",13,"Central Greece",6.55
+"2003-11-12",14,"Thessaly",5.54
+"2003-11-13",1,"North Aegean",10.7
+"2003-11-13",2,"South Aegean",14.69
+"2003-11-13",3,"Athos",10.48
+"2003-11-13",4,"Attica",10.88
+"2003-11-13",5,"Crete",14.76
+"2003-11-13",6,"Epirus",5.15
+"2003-11-13",7,"West Macedonia",2.52
+"2003-11-13",8,"Central Macedonia",5.94
+"2003-11-13",9,"East Macedonia and Thrace",1.35
+"2003-11-13",10,"Ionian Islands",15.37
+"2003-11-13",11,"Peloponnese",9.81
+"2003-11-13",12,"West Greece",9.22
+"2003-11-13",13,"Central Greece",8.47
+"2003-11-13",14,"Thessaly",7.57
+"2003-11-14",1,"North Aegean",10.87
+"2003-11-14",2,"South Aegean",16.14
+"2003-11-14",3,"Athos",11.38
+"2003-11-14",4,"Attica",11.97
+"2003-11-14",5,"Crete",14.63
+"2003-11-14",6,"Epirus",6.64
+"2003-11-14",7,"West Macedonia",4.9
+"2003-11-14",8,"Central Macedonia",7.9
+"2003-11-14",9,"East Macedonia and Thrace",3.27
+"2003-11-14",10,"Ionian Islands",15.42
+"2003-11-14",11,"Peloponnese",10.73
+"2003-11-14",12,"West Greece",11.16
+"2003-11-14",13,"Central Greece",9.83
+"2003-11-14",14,"Thessaly",9.06
+"2003-11-15",1,"North Aegean",11.35
+"2003-11-15",2,"South Aegean",16.41
+"2003-11-15",3,"Athos",12.33
+"2003-11-15",4,"Attica",11.97
+"2003-11-15",5,"Crete",14.8
+"2003-11-15",6,"Epirus",6.33
+"2003-11-15",7,"West Macedonia",5.51
+"2003-11-15",8,"Central Macedonia",8.76
+"2003-11-15",9,"East Macedonia and Thrace",3.97
+"2003-11-15",10,"Ionian Islands",15.16
+"2003-11-15",11,"Peloponnese",10.25
+"2003-11-15",12,"West Greece",9.99
+"2003-11-15",13,"Central Greece",9.08
+"2003-11-15",14,"Thessaly",8.54
+"2003-11-16",1,"North Aegean",13.1
+"2003-11-16",2,"South Aegean",16.88
+"2003-11-16",3,"Athos",14.25
+"2003-11-16",4,"Attica",11.13
+"2003-11-16",5,"Crete",15.3
+"2003-11-16",6,"Epirus",5.87
+"2003-11-16",7,"West Macedonia",3.45
+"2003-11-16",8,"Central Macedonia",7.79
+"2003-11-16",9,"East Macedonia and Thrace",4.45
+"2003-11-16",10,"Ionian Islands",16.68
+"2003-11-16",11,"Peloponnese",10.36
+"2003-11-16",12,"West Greece",9.51
+"2003-11-16",13,"Central Greece",8.94
+"2003-11-16",14,"Thessaly",7.19
+"2003-11-17",1,"North Aegean",13.91
+"2003-11-17",2,"South Aegean",17.42
+"2003-11-17",3,"Athos",14.4
+"2003-11-17",4,"Attica",12.77
+"2003-11-17",5,"Crete",15.24
+"2003-11-17",6,"Epirus",6.24
+"2003-11-17",7,"West Macedonia",2.59
+"2003-11-17",8,"Central Macedonia",6.27
+"2003-11-17",9,"East Macedonia and Thrace",5.14
+"2003-11-17",10,"Ionian Islands",17.58
+"2003-11-17",11,"Peloponnese",10.19
+"2003-11-17",12,"West Greece",9.5
+"2003-11-17",13,"Central Greece",8.66
+"2003-11-17",14,"Thessaly",7.28
+"2003-11-18",1,"North Aegean",14.71
+"2003-11-18",2,"South Aegean",17.76
+"2003-11-18",3,"Athos",15.03
+"2003-11-18",4,"Attica",13.17
+"2003-11-18",5,"Crete",15.25
+"2003-11-18",6,"Epirus",10.14
+"2003-11-18",7,"West Macedonia",6.79
+"2003-11-18",8,"Central Macedonia",8.66
+"2003-11-18",9,"East Macedonia and Thrace",8.96
+"2003-11-18",10,"Ionian Islands",18.4
+"2003-11-18",11,"Peloponnese",11.33
+"2003-11-18",12,"West Greece",11.86
+"2003-11-18",13,"Central Greece",11
+"2003-11-18",14,"Thessaly",10.21
+"2003-11-19",1,"North Aegean",14.89
+"2003-11-19",2,"South Aegean",18.15
+"2003-11-19",3,"Athos",15.12
+"2003-11-19",4,"Attica",13.73
+"2003-11-19",5,"Crete",16.93
+"2003-11-19",6,"Epirus",7.85
+"2003-11-19",7,"West Macedonia",5.29
+"2003-11-19",8,"Central Macedonia",7.98
+"2003-11-19",9,"East Macedonia and Thrace",7.47
+"2003-11-19",10,"Ionian Islands",17.56
+"2003-11-19",11,"Peloponnese",12.39
+"2003-11-19",12,"West Greece",11.61
+"2003-11-19",13,"Central Greece",11.19
+"2003-11-19",14,"Thessaly",9.6
+"2003-11-20",1,"North Aegean",14.46
+"2003-11-20",2,"South Aegean",17.57
+"2003-11-20",3,"Athos",15.07
+"2003-11-20",4,"Attica",14.06
+"2003-11-20",5,"Crete",14.86
+"2003-11-20",6,"Epirus",6.41
+"2003-11-20",7,"West Macedonia",3.46
+"2003-11-20",8,"Central Macedonia",7.72
+"2003-11-20",9,"East Macedonia and Thrace",7.43
+"2003-11-20",10,"Ionian Islands",17
+"2003-11-20",11,"Peloponnese",11.39
+"2003-11-20",12,"West Greece",10.41
+"2003-11-20",13,"Central Greece",9.53
+"2003-11-20",14,"Thessaly",7.82
+"2003-11-21",1,"North Aegean",15.29
+"2003-11-21",2,"South Aegean",17.97
+"2003-11-21",3,"Athos",15.71
+"2003-11-21",4,"Attica",13.48
+"2003-11-21",5,"Crete",14.8
+"2003-11-21",6,"Epirus",5.96
+"2003-11-21",7,"West Macedonia",4.36
+"2003-11-21",8,"Central Macedonia",7.23
+"2003-11-21",9,"East Macedonia and Thrace",6.79
+"2003-11-21",10,"Ionian Islands",16.25
+"2003-11-21",11,"Peloponnese",10.21
+"2003-11-21",12,"West Greece",8.96
+"2003-11-21",13,"Central Greece",9.09
+"2003-11-21",14,"Thessaly",8.33
+"2003-11-22",1,"North Aegean",15.07
+"2003-11-22",2,"South Aegean",17.38
+"2003-11-22",3,"Athos",14.47
+"2003-11-22",4,"Attica",14.39
+"2003-11-22",5,"Crete",15.56
+"2003-11-22",6,"Epirus",8.52
+"2003-11-22",7,"West Macedonia",5.51
+"2003-11-22",8,"Central Macedonia",8.56
+"2003-11-22",9,"East Macedonia and Thrace",6.95
+"2003-11-22",10,"Ionian Islands",17.48
+"2003-11-22",11,"Peloponnese",12.04
+"2003-11-22",12,"West Greece",12.04
+"2003-11-22",13,"Central Greece",11.31
+"2003-11-22",14,"Thessaly",10.99
+"2003-11-23",1,"North Aegean",15.52
+"2003-11-23",2,"South Aegean",17.69
+"2003-11-23",3,"Athos",14.96
+"2003-11-23",4,"Attica",14.3
+"2003-11-23",5,"Crete",15.24
+"2003-11-23",6,"Epirus",7.24
+"2003-11-23",7,"West Macedonia",3.95
+"2003-11-23",8,"Central Macedonia",8.49
+"2003-11-23",9,"East Macedonia and Thrace",8.67
+"2003-11-23",10,"Ionian Islands",17.33
+"2003-11-23",11,"Peloponnese",10.97
+"2003-11-23",12,"West Greece",10.17
+"2003-11-23",13,"Central Greece",10.44
+"2003-11-23",14,"Thessaly",9.14
+"2003-11-24",1,"North Aegean",14.46
+"2003-11-24",2,"South Aegean",17.5
+"2003-11-24",3,"Athos",13.82
+"2003-11-24",4,"Attica",13.26
+"2003-11-24",5,"Crete",14.54
+"2003-11-24",6,"Epirus",5.84
+"2003-11-24",7,"West Macedonia",4.23
+"2003-11-24",8,"Central Macedonia",6.82
+"2003-11-24",9,"East Macedonia and Thrace",7.24
+"2003-11-24",10,"Ionian Islands",17.26
+"2003-11-24",11,"Peloponnese",9.88
+"2003-11-24",12,"West Greece",9.46
+"2003-11-24",13,"Central Greece",9.21
+"2003-11-24",14,"Thessaly",8.17
+"2003-11-25",1,"North Aegean",14.33
+"2003-11-25",2,"South Aegean",16.51
+"2003-11-25",3,"Athos",12.9
+"2003-11-25",4,"Attica",13.45
+"2003-11-25",5,"Crete",14.78
+"2003-11-25",6,"Epirus",7.69
+"2003-11-25",7,"West Macedonia",4.1
+"2003-11-25",8,"Central Macedonia",6.67
+"2003-11-25",9,"East Macedonia and Thrace",7.39
+"2003-11-25",10,"Ionian Islands",17.5
+"2003-11-25",11,"Peloponnese",11.91
+"2003-11-25",12,"West Greece",10.66
+"2003-11-25",13,"Central Greece",10.38
+"2003-11-25",14,"Thessaly",8.44
+"2003-11-26",1,"North Aegean",13.5
+"2003-11-26",2,"South Aegean",16.05
+"2003-11-26",3,"Athos",13.85
+"2003-11-26",4,"Attica",14.23
+"2003-11-26",5,"Crete",15.01
+"2003-11-26",6,"Epirus",8.22
+"2003-11-26",7,"West Macedonia",5.57
+"2003-11-26",8,"Central Macedonia",8.93
+"2003-11-26",9,"East Macedonia and Thrace",8.13
+"2003-11-26",10,"Ionian Islands",17.79
+"2003-11-26",11,"Peloponnese",12.24
+"2003-11-26",12,"West Greece",10.92
+"2003-11-26",13,"Central Greece",10.78
+"2003-11-26",14,"Thessaly",9.33
+"2003-11-27",1,"North Aegean",14.52
+"2003-11-27",2,"South Aegean",16.5
+"2003-11-27",3,"Athos",14.19
+"2003-11-27",4,"Attica",14.42
+"2003-11-27",5,"Crete",15.21
+"2003-11-27",6,"Epirus",9.56
+"2003-11-27",7,"West Macedonia",7.53
+"2003-11-27",8,"Central Macedonia",11.14
+"2003-11-27",9,"East Macedonia and Thrace",9.15
+"2003-11-27",10,"Ionian Islands",18.06
+"2003-11-27",11,"Peloponnese",13.08
+"2003-11-27",12,"West Greece",12.31
+"2003-11-27",13,"Central Greece",11.95
+"2003-11-27",14,"Thessaly",11.16
+"2003-11-28",1,"North Aegean",14.91
+"2003-11-28",2,"South Aegean",17.33
+"2003-11-28",3,"Athos",15.37
+"2003-11-28",4,"Attica",14.63
+"2003-11-28",5,"Crete",14.7
+"2003-11-28",6,"Epirus",10.68
+"2003-11-28",7,"West Macedonia",8.53
+"2003-11-28",8,"Central Macedonia",11.93
+"2003-11-28",9,"East Macedonia and Thrace",9.88
+"2003-11-28",10,"Ionian Islands",16
+"2003-11-28",11,"Peloponnese",11.87
+"2003-11-28",12,"West Greece",11.89
+"2003-11-28",13,"Central Greece",11.26
+"2003-11-28",14,"Thessaly",11.02
+"2003-11-29",1,"North Aegean",15.59
+"2003-11-29",2,"South Aegean",17.94
+"2003-11-29",3,"Athos",16.4
+"2003-11-29",4,"Attica",16.12
+"2003-11-29",5,"Crete",15.17
+"2003-11-29",6,"Epirus",10.28
+"2003-11-29",7,"West Macedonia",8.05
+"2003-11-29",8,"Central Macedonia",12.65
+"2003-11-29",9,"East Macedonia and Thrace",10.3
+"2003-11-29",10,"Ionian Islands",16.75
+"2003-11-29",11,"Peloponnese",13.22
+"2003-11-29",12,"West Greece",13.44
+"2003-11-29",13,"Central Greece",12.7
+"2003-11-29",14,"Thessaly",11.6
+"2003-11-30",1,"North Aegean",16.11
+"2003-11-30",2,"South Aegean",18.3
+"2003-11-30",3,"Athos",15.26
+"2003-11-30",4,"Attica",14.64
+"2003-11-30",5,"Crete",15.03
+"2003-11-30",6,"Epirus",8.08
+"2003-11-30",7,"West Macedonia",5.7
+"2003-11-30",8,"Central Macedonia",11.02
+"2003-11-30",9,"East Macedonia and Thrace",10.06
+"2003-11-30",10,"Ionian Islands",14.34
+"2003-11-30",11,"Peloponnese",11.73
+"2003-11-30",12,"West Greece",11.61
+"2003-11-30",13,"Central Greece",11.49
+"2003-11-30",14,"Thessaly",10.7
+"2003-12-01",1,"North Aegean",14.77
+"2003-12-01",2,"South Aegean",16.02
+"2003-12-01",3,"Athos",13.64
+"2003-12-01",4,"Attica",12.79
+"2003-12-01",5,"Crete",13.87
+"2003-12-01",6,"Epirus",4.03
+"2003-12-01",7,"West Macedonia",4.99
+"2003-12-01",8,"Central Macedonia",10.82
+"2003-12-01",9,"East Macedonia and Thrace",9.91
+"2003-12-01",10,"Ionian Islands",14.49
+"2003-12-01",11,"Peloponnese",9.32
+"2003-12-01",12,"West Greece",8.65
+"2003-12-01",13,"Central Greece",9.58
+"2003-12-01",14,"Thessaly",8.24
+"2003-12-02",1,"North Aegean",13.59
+"2003-12-02",2,"South Aegean",16.32
+"2003-12-02",3,"Athos",12.87
+"2003-12-02",4,"Attica",13.98
+"2003-12-02",5,"Crete",13.5
+"2003-12-02",6,"Epirus",6.78
+"2003-12-02",7,"West Macedonia",6.96
+"2003-12-02",8,"Central Macedonia",10.22
+"2003-12-02",9,"East Macedonia and Thrace",8.44
+"2003-12-02",10,"Ionian Islands",16.3
+"2003-12-02",11,"Peloponnese",11.13
+"2003-12-02",12,"West Greece",10.4
+"2003-12-02",13,"Central Greece",11.03
+"2003-12-02",14,"Thessaly",10.13
+"2003-12-03",1,"North Aegean",11.36
+"2003-12-03",2,"South Aegean",14.75
+"2003-12-03",3,"Athos",10.94
+"2003-12-03",4,"Attica",11.82
+"2003-12-03",5,"Crete",13.18
+"2003-12-03",6,"Epirus",5.14
+"2003-12-03",7,"West Macedonia",5.92
+"2003-12-03",8,"Central Macedonia",10.13
+"2003-12-03",9,"East Macedonia and Thrace",6.09
+"2003-12-03",10,"Ionian Islands",15.91
+"2003-12-03",11,"Peloponnese",9.62
+"2003-12-03",12,"West Greece",9.39
+"2003-12-03",13,"Central Greece",9.08
+"2003-12-03",14,"Thessaly",9.2
+"2003-12-04",1,"North Aegean",10.46
+"2003-12-04",2,"South Aegean",14
+"2003-12-04",3,"Athos",10.36
+"2003-12-04",4,"Attica",10.23
+"2003-12-04",5,"Crete",12.78
+"2003-12-04",6,"Epirus",1.88
+"2003-12-04",7,"West Macedonia",2.86
+"2003-12-04",8,"Central Macedonia",6.62
+"2003-12-04",9,"East Macedonia and Thrace",4.15
+"2003-12-04",10,"Ionian Islands",14.9
+"2003-12-04",11,"Peloponnese",7.06
+"2003-12-04",12,"West Greece",6.2
+"2003-12-04",13,"Central Greece",6.42
+"2003-12-04",14,"Thessaly",6.27
+"2003-12-05",1,"North Aegean",9.98
+"2003-12-05",2,"South Aegean",14.4
+"2003-12-05",3,"Athos",10.81
+"2003-12-05",4,"Attica",9.09
+"2003-12-05",5,"Crete",12.43
+"2003-12-05",6,"Epirus",1.75
+"2003-12-05",7,"West Macedonia",0.02
+"2003-12-05",8,"Central Macedonia",3.25
+"2003-12-05",9,"East Macedonia and Thrace",2.14
+"2003-12-05",10,"Ionian Islands",15.1
+"2003-12-05",11,"Peloponnese",5.23
+"2003-12-05",12,"West Greece",5.34
+"2003-12-05",13,"Central Greece",5.11
+"2003-12-05",14,"Thessaly",3.98
+"2003-12-06",1,"North Aegean",11.66
+"2003-12-06",2,"South Aegean",14.97
+"2003-12-06",3,"Athos",12.34
+"2003-12-06",4,"Attica",10.62
+"2003-12-06",5,"Crete",12.18
+"2003-12-06",6,"Epirus",3.77
+"2003-12-06",7,"West Macedonia",0.06
+"2003-12-06",8,"Central Macedonia",4.81
+"2003-12-06",9,"East Macedonia and Thrace",2.92
+"2003-12-06",10,"Ionian Islands",16.09
+"2003-12-06",11,"Peloponnese",8.67
+"2003-12-06",12,"West Greece",8.26
+"2003-12-06",13,"Central Greece",5.88
+"2003-12-06",14,"Thessaly",4.6
+"2003-12-07",1,"North Aegean",15.42
+"2003-12-07",2,"South Aegean",17.2
+"2003-12-07",3,"Athos",13.64
+"2003-12-07",4,"Attica",11.51
+"2003-12-07",5,"Crete",13.94
+"2003-12-07",6,"Epirus",7.34
+"2003-12-07",7,"West Macedonia",3.18
+"2003-12-07",8,"Central Macedonia",6.16
+"2003-12-07",9,"East Macedonia and Thrace",5.12
+"2003-12-07",10,"Ionian Islands",16.44
+"2003-12-07",11,"Peloponnese",10.36
+"2003-12-07",12,"West Greece",10.81
+"2003-12-07",13,"Central Greece",8.45
+"2003-12-07",14,"Thessaly",6.85
+"2003-12-08",1,"North Aegean",9.57
+"2003-12-08",2,"South Aegean",16.47
+"2003-12-08",3,"Athos",6.51
+"2003-12-08",4,"Attica",9.18
+"2003-12-08",5,"Crete",14.24
+"2003-12-08",6,"Epirus",0.76
+"2003-12-08",7,"West Macedonia",-3.33
+"2003-12-08",8,"Central Macedonia",1.2
+"2003-12-08",9,"East Macedonia and Thrace",-0.14
+"2003-12-08",10,"Ionian Islands",10.7
+"2003-12-08",11,"Peloponnese",6.89
+"2003-12-08",12,"West Greece",6.19
+"2003-12-08",13,"Central Greece",4.57
+"2003-12-08",14,"Thessaly",2.07
+"2003-12-09",1,"North Aegean",9.37
+"2003-12-09",2,"South Aegean",14
+"2003-12-09",3,"Athos",6.82
+"2003-12-09",4,"Attica",9.12
+"2003-12-09",5,"Crete",12.86
+"2003-12-09",6,"Epirus",1.05
+"2003-12-09",7,"West Macedonia",-2.45
+"2003-12-09",8,"Central Macedonia",-1.37
+"2003-12-09",9,"East Macedonia and Thrace",-4.61
+"2003-12-09",10,"Ionian Islands",10.55
+"2003-12-09",11,"Peloponnese",6.14
+"2003-12-09",12,"West Greece",5.34
+"2003-12-09",13,"Central Greece",4.75
+"2003-12-09",14,"Thessaly",2.56
+"2003-12-10",1,"North Aegean",10.16
+"2003-12-10",2,"South Aegean",14.38
+"2003-12-10",3,"Athos",7.83
+"2003-12-10",4,"Attica",10.02
+"2003-12-10",5,"Crete",12.9
+"2003-12-10",6,"Epirus",1.81
+"2003-12-10",7,"West Macedonia",-1.11
+"2003-12-10",8,"Central Macedonia",0.14
+"2003-12-10",9,"East Macedonia and Thrace",-1.4
+"2003-12-10",10,"Ionian Islands",12.09
+"2003-12-10",11,"Peloponnese",6.96
+"2003-12-10",12,"West Greece",6.13
+"2003-12-10",13,"Central Greece",5.94
+"2003-12-10",14,"Thessaly",3.07
+"2003-12-11",1,"North Aegean",12.02
+"2003-12-11",2,"South Aegean",15.19
+"2003-12-11",3,"Athos",9.27
+"2003-12-11",4,"Attica",10.32
+"2003-12-11",5,"Crete",14.03
+"2003-12-11",6,"Epirus",4.08
+"2003-12-11",7,"West Macedonia",0.6
+"2003-12-11",8,"Central Macedonia",3.54
+"2003-12-11",9,"East Macedonia and Thrace",2.82
+"2003-12-11",10,"Ionian Islands",12.9
+"2003-12-11",11,"Peloponnese",7.46
+"2003-12-11",12,"West Greece",7.3
+"2003-12-11",13,"Central Greece",6.99
+"2003-12-11",14,"Thessaly",5.29
+"2003-12-12",1,"North Aegean",12.84
+"2003-12-12",2,"South Aegean",16.17
+"2003-12-12",3,"Athos",10.66
+"2003-12-12",4,"Attica",10.83
+"2003-12-12",5,"Crete",14.87
+"2003-12-12",6,"Epirus",5.03
+"2003-12-12",7,"West Macedonia",2.48
+"2003-12-12",8,"Central Macedonia",3.99
+"2003-12-12",9,"East Macedonia and Thrace",2.46
+"2003-12-12",10,"Ionian Islands",14.1
+"2003-12-12",11,"Peloponnese",9.7
+"2003-12-12",12,"West Greece",9.03
+"2003-12-12",13,"Central Greece",7.91
+"2003-12-12",14,"Thessaly",6.38
+"2003-12-13",1,"North Aegean",13.7
+"2003-12-13",2,"South Aegean",17.3
+"2003-12-13",3,"Athos",11.26
+"2003-12-13",4,"Attica",12.4
+"2003-12-13",5,"Crete",15.89
+"2003-12-13",6,"Epirus",6.88
+"2003-12-13",7,"West Macedonia",4.13
+"2003-12-13",8,"Central Macedonia",6.79
+"2003-12-13",9,"East Macedonia and Thrace",5.11
+"2003-12-13",10,"Ionian Islands",15.43
+"2003-12-13",11,"Peloponnese",10.34
+"2003-12-13",12,"West Greece",10.23
+"2003-12-13",13,"Central Greece",9.3
+"2003-12-13",14,"Thessaly",7.84
+"2003-12-14",1,"North Aegean",12.92
+"2003-12-14",2,"South Aegean",17.52
+"2003-12-14",3,"Athos",10.95
+"2003-12-14",4,"Attica",13.06
+"2003-12-14",5,"Crete",15.38
+"2003-12-14",6,"Epirus",6.1
+"2003-12-14",7,"West Macedonia",5.69
+"2003-12-14",8,"Central Macedonia",9.07
+"2003-12-14",9,"East Macedonia and Thrace",5.71
+"2003-12-14",10,"Ionian Islands",14.92
+"2003-12-14",11,"Peloponnese",11.25
+"2003-12-14",12,"West Greece",10.21
+"2003-12-14",13,"Central Greece",9.98
+"2003-12-14",14,"Thessaly",8.89
+"2003-12-15",1,"North Aegean",14.16
+"2003-12-15",2,"South Aegean",14.97
+"2003-12-15",3,"Athos",12.3
+"2003-12-15",4,"Attica",10.88
+"2003-12-15",5,"Crete",11.83
+"2003-12-15",6,"Epirus",8.35
+"2003-12-15",7,"West Macedonia",4.87
+"2003-12-15",8,"Central Macedonia",8.88
+"2003-12-15",9,"East Macedonia and Thrace",6.85
+"2003-12-15",10,"Ionian Islands",15.43
+"2003-12-15",11,"Peloponnese",8.74
+"2003-12-15",12,"West Greece",9.37
+"2003-12-15",13,"Central Greece",7.82
+"2003-12-15",14,"Thessaly",7.31
+"2003-12-16",1,"North Aegean",13.14
+"2003-12-16",2,"South Aegean",16.57
+"2003-12-16",3,"Athos",9.36
+"2003-12-16",4,"Attica",12.15
+"2003-12-16",5,"Crete",14.15
+"2003-12-16",6,"Epirus",4.46
+"2003-12-16",7,"West Macedonia",0.92
+"2003-12-16",8,"Central Macedonia",4.46
+"2003-12-16",9,"East Macedonia and Thrace",4.27
+"2003-12-16",10,"Ionian Islands",12.74
+"2003-12-16",11,"Peloponnese",10.16
+"2003-12-16",12,"West Greece",9.02
+"2003-12-16",13,"Central Greece",7.97
+"2003-12-16",14,"Thessaly",5.74
+"2003-12-17",1,"North Aegean",7.54
+"2003-12-17",2,"South Aegean",11.42
+"2003-12-17",3,"Athos",5.81
+"2003-12-17",4,"Attica",4.68
+"2003-12-17",5,"Crete",9.77
+"2003-12-17",6,"Epirus",-1.75
+"2003-12-17",7,"West Macedonia",-4.39
+"2003-12-17",8,"Central Macedonia",-0.47
+"2003-12-17",9,"East Macedonia and Thrace",0.17
+"2003-12-17",10,"Ionian Islands",8.71
+"2003-12-17",11,"Peloponnese",3.07
+"2003-12-17",12,"West Greece",2.32
+"2003-12-17",13,"Central Greece",1.54
+"2003-12-17",14,"Thessaly",-0.14
+"2003-12-18",1,"North Aegean",6.01
+"2003-12-18",2,"South Aegean",9.27
+"2003-12-18",3,"Athos",5.9
+"2003-12-18",4,"Attica",4.74
+"2003-12-18",5,"Crete",5.93
+"2003-12-18",6,"Epirus",-2.49
+"2003-12-18",7,"West Macedonia",-5.1
+"2003-12-18",8,"Central Macedonia",-1.3
+"2003-12-18",9,"East Macedonia and Thrace",-1.04
+"2003-12-18",10,"Ionian Islands",8.79
+"2003-12-18",11,"Peloponnese",1.53
+"2003-12-18",12,"West Greece",0.96
+"2003-12-18",13,"Central Greece",0.26
+"2003-12-18",14,"Thessaly",-2.07
+"2003-12-19",1,"North Aegean",5.98
+"2003-12-19",2,"South Aegean",9.18
+"2003-12-19",3,"Athos",6.56
+"2003-12-19",4,"Attica",4.26
+"2003-12-19",5,"Crete",7.44
+"2003-12-19",6,"Epirus",-3.24
+"2003-12-19",7,"West Macedonia",-4.35
+"2003-12-19",8,"Central Macedonia",-1.07
+"2003-12-19",9,"East Macedonia and Thrace",-1.49
+"2003-12-19",10,"Ionian Islands",10.71
+"2003-12-19",11,"Peloponnese",1.72
+"2003-12-19",12,"West Greece",0.44
+"2003-12-19",13,"Central Greece",0.49
+"2003-12-19",14,"Thessaly",-1.71
+"2003-12-20",1,"North Aegean",8.34
+"2003-12-20",2,"South Aegean",11.83
+"2003-12-20",3,"Athos",8.73
+"2003-12-20",4,"Attica",6.81
+"2003-12-20",5,"Crete",9.63
+"2003-12-20",6,"Epirus",-2.02
+"2003-12-20",7,"West Macedonia",-4.1
+"2003-12-20",8,"Central Macedonia",-1.45
+"2003-12-20",9,"East Macedonia and Thrace",-0.03
+"2003-12-20",10,"Ionian Islands",11.98
+"2003-12-20",11,"Peloponnese",2.54
+"2003-12-20",12,"West Greece",1.3
+"2003-12-20",13,"Central Greece",1.23
+"2003-12-20",14,"Thessaly",-0.89
+"2003-12-21",1,"North Aegean",10.73
+"2003-12-21",2,"South Aegean",13.26
+"2003-12-21",3,"Athos",10.1
+"2003-12-21",4,"Attica",8.45
+"2003-12-21",5,"Crete",10.33
+"2003-12-21",6,"Epirus",-1.8
+"2003-12-21",7,"West Macedonia",-3.27
+"2003-12-21",8,"Central Macedonia",-0.69
+"2003-12-21",9,"East Macedonia and Thrace",0.68
+"2003-12-21",10,"Ionian Islands",12.43
+"2003-12-21",11,"Peloponnese",4.28
+"2003-12-21",12,"West Greece",2.13
+"2003-12-21",13,"Central Greece",2.29
+"2003-12-21",14,"Thessaly",-0.23
+"2003-12-22",1,"North Aegean",13.34
+"2003-12-22",2,"South Aegean",14.81
+"2003-12-22",3,"Athos",10.54
+"2003-12-22",4,"Attica",8.89
+"2003-12-22",5,"Crete",10.95
+"2003-12-22",6,"Epirus",3.68
+"2003-12-22",7,"West Macedonia",-0.11
+"2003-12-22",8,"Central Macedonia",1.12
+"2003-12-22",9,"East Macedonia and Thrace",4.24
+"2003-12-22",10,"Ionian Islands",13.44
+"2003-12-22",11,"Peloponnese",5.77
+"2003-12-22",12,"West Greece",6.66
+"2003-12-22",13,"Central Greece",4.87
+"2003-12-22",14,"Thessaly",3.14
+"2003-12-23",1,"North Aegean",13.48
+"2003-12-23",2,"South Aegean",14.71
+"2003-12-23",3,"Athos",14.27
+"2003-12-23",4,"Attica",12.74
+"2003-12-23",5,"Crete",11.44
+"2003-12-23",6,"Epirus",6.48
+"2003-12-23",7,"West Macedonia",4
+"2003-12-23",8,"Central Macedonia",7.81
+"2003-12-23",9,"East Macedonia and Thrace",9.64
+"2003-12-23",10,"Ionian Islands",13.59
+"2003-12-23",11,"Peloponnese",9.96
+"2003-12-23",12,"West Greece",9.73
+"2003-12-23",13,"Central Greece",8.35
+"2003-12-23",14,"Thessaly",6.94
+"2003-12-24",1,"North Aegean",13.89
+"2003-12-24",2,"South Aegean",15.59
+"2003-12-24",3,"Athos",12.04
+"2003-12-24",4,"Attica",12.18
+"2003-12-24",5,"Crete",13.63
+"2003-12-24",6,"Epirus",3.42
+"2003-12-24",7,"West Macedonia",-1.2
+"2003-12-24",8,"Central Macedonia",4.2
+"2003-12-24",9,"East Macedonia and Thrace",9.81
+"2003-12-24",10,"Ionian Islands",13.08
+"2003-12-24",11,"Peloponnese",7.98
+"2003-12-24",12,"West Greece",7.51
+"2003-12-24",13,"Central Greece",7.53
+"2003-12-24",14,"Thessaly",5.17
+"2003-12-25",1,"North Aegean",12.18
+"2003-12-25",2,"South Aegean",13.68
+"2003-12-25",3,"Athos",9.01
+"2003-12-25",4,"Attica",8.77
+"2003-12-25",5,"Crete",10.27
+"2003-12-25",6,"Epirus",2.81
+"2003-12-25",7,"West Macedonia",-1.1
+"2003-12-25",8,"Central Macedonia",3.91
+"2003-12-25",9,"East Macedonia and Thrace",2.49
+"2003-12-25",10,"Ionian Islands",11.28
+"2003-12-25",11,"Peloponnese",7.52
+"2003-12-25",12,"West Greece",6.8
+"2003-12-25",13,"Central Greece",5.07
+"2003-12-25",14,"Thessaly",3.17
+"2003-12-26",1,"North Aegean",10.42
+"2003-12-26",2,"South Aegean",12.24
+"2003-12-26",3,"Athos",7.53
+"2003-12-26",4,"Attica",8.61
+"2003-12-26",5,"Crete",9.63
+"2003-12-26",6,"Epirus",0.8
+"2003-12-26",7,"West Macedonia",-1.81
+"2003-12-26",8,"Central Macedonia",2.66
+"2003-12-26",9,"East Macedonia and Thrace",1.77
+"2003-12-26",10,"Ionian Islands",11.4
+"2003-12-26",11,"Peloponnese",6.08
+"2003-12-26",12,"West Greece",5.36
+"2003-12-26",13,"Central Greece",4.21
+"2003-12-26",14,"Thessaly",2.86
+"2003-12-27",1,"North Aegean",7.7
+"2003-12-27",2,"South Aegean",12.4
+"2003-12-27",3,"Athos",8.38
+"2003-12-27",4,"Attica",7.45
+"2003-12-27",5,"Crete",9.97
+"2003-12-27",6,"Epirus",-1.97
+"2003-12-27",7,"West Macedonia",-6.78
+"2003-12-27",8,"Central Macedonia",-1.72
+"2003-12-27",9,"East Macedonia and Thrace",-0.8
+"2003-12-27",10,"Ionian Islands",11.7
+"2003-12-27",11,"Peloponnese",4.3
+"2003-12-27",12,"West Greece",2.4
+"2003-12-27",13,"Central Greece",2.4
+"2003-12-27",14,"Thessaly",-1.19
+"2003-12-28",1,"North Aegean",9.26
+"2003-12-28",2,"South Aegean",12.95
+"2003-12-28",3,"Athos",8.84
+"2003-12-28",4,"Attica",8.06
+"2003-12-28",5,"Crete",10.09
+"2003-12-28",6,"Epirus",0.63
+"2003-12-28",7,"West Macedonia",-5.05
+"2003-12-28",8,"Central Macedonia",-2.42
+"2003-12-28",9,"East Macedonia and Thrace",-0.99
+"2003-12-28",10,"Ionian Islands",12.62
+"2003-12-28",11,"Peloponnese",4.88
+"2003-12-28",12,"West Greece",4.04
+"2003-12-28",13,"Central Greece",2.77
+"2003-12-28",14,"Thessaly",-0.23
+"2003-12-29",1,"North Aegean",10.31
+"2003-12-29",2,"South Aegean",13.93
+"2003-12-29",3,"Athos",10.92
+"2003-12-29",4,"Attica",9.4
+"2003-12-29",5,"Crete",9.91
+"2003-12-29",6,"Epirus",4.18
+"2003-12-29",7,"West Macedonia",-1.21
+"2003-12-29",8,"Central Macedonia",0.2
+"2003-12-29",9,"East Macedonia and Thrace",1.21
+"2003-12-29",10,"Ionian Islands",13.43
+"2003-12-29",11,"Peloponnese",6.03
+"2003-12-29",12,"West Greece",5.3
+"2003-12-29",13,"Central Greece",3.71
+"2003-12-29",14,"Thessaly",1.82
+"2003-12-30",1,"North Aegean",12.9
+"2003-12-30",2,"South Aegean",15.2
+"2003-12-30",3,"Athos",13.64
+"2003-12-30",4,"Attica",10.83
+"2003-12-30",5,"Crete",12.33
+"2003-12-30",6,"Epirus",6.06
+"2003-12-30",7,"West Macedonia",2.54
+"2003-12-30",8,"Central Macedonia",5.84
+"2003-12-30",9,"East Macedonia and Thrace",4.29
+"2003-12-30",10,"Ionian Islands",13.14
+"2003-12-30",11,"Peloponnese",9.35
+"2003-12-30",12,"West Greece",8.93
+"2003-12-30",13,"Central Greece",7.87
+"2003-12-30",14,"Thessaly",6.88
+"2003-12-31",1,"North Aegean",12.39
+"2003-12-31",2,"South Aegean",14.82
+"2003-12-31",3,"Athos",13.49
+"2003-12-31",4,"Attica",9.74
+"2003-12-31",5,"Crete",12.01
+"2003-12-31",6,"Epirus",5.2
+"2003-12-31",7,"West Macedonia",3.32
+"2003-12-31",8,"Central Macedonia",7.19
+"2003-12-31",9,"East Macedonia and Thrace",5.71
+"2003-12-31",10,"Ionian Islands",11.86
+"2003-12-31",11,"Peloponnese",6.65
+"2003-12-31",12,"West Greece",6.52
+"2003-12-31",13,"Central Greece",6.33
+"2003-12-31",14,"Thessaly",6.22

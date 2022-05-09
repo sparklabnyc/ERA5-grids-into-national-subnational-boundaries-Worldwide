@@ -1,0 +1,2605 @@
+"date","ID_2","NAME_2","t2m"
+"2022-01-01",1,"North Karelia",-5.55
+"2022-01-01",2,"North Savonia",-6.05
+"2022-01-01",3,"Päijänne Tavastia",-4.37
+"2022-01-01",4,"Southern Savonia",-4.13
+"2022-01-01",5,"Lapland",-11.72
+"2022-01-01",6,"Kainuu",-7.53
+"2022-01-01",7,"Northern Ostrobothnia",-9.54
+"2022-01-01",8,"Eastern Uusimaa",-2.53
+"2022-01-01",9,"Kymenlaakso",-3.29
+"2022-01-01",10,"Päijänne Tavastia",-3.46
+"2022-01-01",11,"South Karelia",-3.16
+"2022-01-01",12,"Uusimaa",-1.56
+"2022-01-01",13,"Central Finland",-5.36
+"2022-01-01",14,"Central Ostrobothnia",-7.26
+"2022-01-01",15,"Finland Proper",-1.51
+"2022-01-01",16,"Ostrobothnia",-3.51
+"2022-01-01",17,"Päijänne Tavastia",-4.25
+"2022-01-01",18,"Pirkanmaa",-4.72
+"2022-01-01",19,"Satakunta",-4.8
+"2022-01-01",20,"Southern Ostrobothnia",-4.89
+"2022-01-01",21,"Tavastia Proper",-3.53
+"2022-01-02",1,"North Karelia",-11.23
+"2022-01-02",2,"North Savonia",-11.62
+"2022-01-02",3,"Päijänne Tavastia",-10.9
+"2022-01-02",4,"Southern Savonia",-9.64
+"2022-01-02",5,"Lapland",-13.95
+"2022-01-02",6,"Kainuu",-13.46
+"2022-01-02",7,"Northern Ostrobothnia",-13.86
+"2022-01-02",8,"Eastern Uusimaa",-11.35
+"2022-01-02",9,"Kymenlaakso",-10.38
+"2022-01-02",10,"Päijänne Tavastia",-12
+"2022-01-02",11,"South Karelia",-9.55
+"2022-01-02",12,"Uusimaa",-10.86
+"2022-01-02",13,"Central Finland",-11.37
+"2022-01-02",14,"Central Ostrobothnia",-12.4
+"2022-01-02",15,"Finland Proper",-8.27
+"2022-01-02",16,"Ostrobothnia",-11.58
+"2022-01-02",17,"Päijänne Tavastia",-11.75
+"2022-01-02",18,"Pirkanmaa",-13.17
+"2022-01-02",19,"Satakunta",-9.91
+"2022-01-02",20,"Southern Ostrobothnia",-14.38
+"2022-01-02",21,"Tavastia Proper",-12.5
+"2022-01-03",1,"North Karelia",-15.47
+"2022-01-03",2,"North Savonia",-11.82
+"2022-01-03",3,"Päijänne Tavastia",-5.43
+"2022-01-03",4,"Southern Savonia",-7.83
+"2022-01-03",5,"Lapland",-16.52
+"2022-01-03",6,"Kainuu",-17.43
+"2022-01-03",7,"Northern Ostrobothnia",-14.23
+"2022-01-03",8,"Eastern Uusimaa",-3.85
+"2022-01-03",9,"Kymenlaakso",-5.07
+"2022-01-03",10,"Päijänne Tavastia",-4.63
+"2022-01-03",11,"South Karelia",-6.79
+"2022-01-03",12,"Uusimaa",-2.65
+"2022-01-03",13,"Central Finland",-7.25
+"2022-01-03",14,"Central Ostrobothnia",-7.63
+"2022-01-03",15,"Finland Proper",-0.73
+"2022-01-03",16,"Ostrobothnia",-4.63
+"2022-01-03",17,"Päijänne Tavastia",-5.05
+"2022-01-03",18,"Pirkanmaa",-4.71
+"2022-01-03",19,"Satakunta",-2.64
+"2022-01-03",20,"Southern Ostrobothnia",-5.33
+"2022-01-03",21,"Tavastia Proper",-4.28
+"2022-01-04",1,"North Karelia",-14.86
+"2022-01-04",2,"North Savonia",-11.03
+"2022-01-04",3,"Päijänne Tavastia",-6.77
+"2022-01-04",4,"Southern Savonia",-7.58
+"2022-01-04",5,"Lapland",-14.59
+"2022-01-04",6,"Kainuu",-16.4
+"2022-01-04",7,"Northern Ostrobothnia",-13.25
+"2022-01-04",8,"Eastern Uusimaa",-3.31
+"2022-01-04",9,"Kymenlaakso",-5.61
+"2022-01-04",10,"Päijänne Tavastia",-4.88
+"2022-01-04",11,"South Karelia",-6.99
+"2022-01-04",12,"Uusimaa",-1.69
+"2022-01-04",13,"Central Finland",-7.35
+"2022-01-04",14,"Central Ostrobothnia",-7.15
+"2022-01-04",15,"Finland Proper",-0.21
+"2022-01-04",16,"Ostrobothnia",-5.13
+"2022-01-04",17,"Päijänne Tavastia",-5.96
+"2022-01-04",18,"Pirkanmaa",-5.66
+"2022-01-04",19,"Satakunta",-2.95
+"2022-01-04",20,"Southern Ostrobothnia",-6.15
+"2022-01-04",21,"Tavastia Proper",-4.48
+"2022-01-05",1,"North Karelia",-10.01
+"2022-01-05",2,"North Savonia",-8.81
+"2022-01-05",3,"Päijänne Tavastia",-2.04
+"2022-01-05",4,"Southern Savonia",-4.55
+"2022-01-05",5,"Lapland",-12.7
+"2022-01-05",6,"Kainuu",-12.93
+"2022-01-05",7,"Northern Ostrobothnia",-11.4
+"2022-01-05",8,"Eastern Uusimaa",-0.7
+"2022-01-05",9,"Kymenlaakso",-1.09
+"2022-01-05",10,"Päijänne Tavastia",-1.1
+"2022-01-05",11,"South Karelia",-2.46
+"2022-01-05",12,"Uusimaa",-0.57
+"2022-01-05",13,"Central Finland",-5.04
+"2022-01-05",14,"Central Ostrobothnia",-6.49
+"2022-01-05",15,"Finland Proper",-0.64
+"2022-01-05",16,"Ostrobothnia",-2.67
+"2022-01-05",17,"Päijänne Tavastia",-1.52
+"2022-01-05",18,"Pirkanmaa",-1.61
+"2022-01-05",19,"Satakunta",-0.82
+"2022-01-05",20,"Southern Ostrobothnia",-2.74
+"2022-01-05",21,"Tavastia Proper",-1.48
+"2022-01-06",1,"North Karelia",-7.48
+"2022-01-06",2,"North Savonia",-6.6
+"2022-01-06",3,"Päijänne Tavastia",-3.4
+"2022-01-06",4,"Southern Savonia",-4.26
+"2022-01-06",5,"Lapland",-18.59
+"2022-01-06",6,"Kainuu",-9.85
+"2022-01-06",7,"Northern Ostrobothnia",-13.4
+"2022-01-06",8,"Eastern Uusimaa",-3.06
+"2022-01-06",9,"Kymenlaakso",-3.69
+"2022-01-06",10,"Päijänne Tavastia",-3.84
+"2022-01-06",11,"South Karelia",-4.29
+"2022-01-06",12,"Uusimaa",-2.56
+"2022-01-06",13,"Central Finland",-6.86
+"2022-01-06",14,"Central Ostrobothnia",-11.41
+"2022-01-06",15,"Finland Proper",-2.92
+"2022-01-06",16,"Ostrobothnia",-7.33
+"2022-01-06",17,"Päijänne Tavastia",-3.56
+"2022-01-06",18,"Pirkanmaa",-5.7
+"2022-01-06",19,"Satakunta",-5.82
+"2022-01-06",20,"Southern Ostrobothnia",-8.85
+"2022-01-06",21,"Tavastia Proper",-2.87
+"2022-01-07",1,"North Karelia",-17.25
+"2022-01-07",2,"North Savonia",-17.8
+"2022-01-07",3,"Päijänne Tavastia",-11.81
+"2022-01-07",4,"Southern Savonia",-14.17
+"2022-01-07",5,"Lapland",-12.3
+"2022-01-07",6,"Kainuu",-15.56
+"2022-01-07",7,"Northern Ostrobothnia",-14.88
+"2022-01-07",8,"Eastern Uusimaa",-7.91
+"2022-01-07",9,"Kymenlaakso",-9.95
+"2022-01-07",10,"Päijänne Tavastia",-9.23
+"2022-01-07",11,"South Karelia",-11.68
+"2022-01-07",12,"Uusimaa",-6.44
+"2022-01-07",13,"Central Finland",-14.6
+"2022-01-07",14,"Central Ostrobothnia",-13.91
+"2022-01-07",15,"Finland Proper",-5.1
+"2022-01-07",16,"Ostrobothnia",-7.99
+"2022-01-07",17,"Päijänne Tavastia",-10.5
+"2022-01-07",18,"Pirkanmaa",-10.34
+"2022-01-07",19,"Satakunta",-7.14
+"2022-01-07",20,"Southern Ostrobothnia",-11.12
+"2022-01-07",21,"Tavastia Proper",-8.88
+"2022-01-08",1,"North Karelia",-13.66
+"2022-01-08",2,"North Savonia",-13.24
+"2022-01-08",3,"Päijänne Tavastia",-9.64
+"2022-01-08",4,"Southern Savonia",-12.96
+"2022-01-08",5,"Lapland",-20.35
+"2022-01-08",6,"Kainuu",-14.54
+"2022-01-08",7,"Northern Ostrobothnia",-18.29
+"2022-01-08",8,"Eastern Uusimaa",-9.49
+"2022-01-08",9,"Kymenlaakso",-9.58
+"2022-01-08",10,"Päijänne Tavastia",-9.24
+"2022-01-08",11,"South Karelia",-12.31
+"2022-01-08",12,"Uusimaa",-11.16
+"2022-01-08",13,"Central Finland",-11.93
+"2022-01-08",14,"Central Ostrobothnia",-16.87
+"2022-01-08",15,"Finland Proper",-12.93
+"2022-01-08",16,"Ostrobothnia",-12.56
+"2022-01-08",17,"Päijänne Tavastia",-9.23
+"2022-01-08",18,"Pirkanmaa",-10.73
+"2022-01-08",19,"Satakunta",-13.98
+"2022-01-08",20,"Southern Ostrobothnia",-12.36
+"2022-01-08",21,"Tavastia Proper",-11.89
+"2022-01-09",1,"North Karelia",-17.34
+"2022-01-09",2,"North Savonia",-18.14
+"2022-01-09",3,"Päijänne Tavastia",-11.05
+"2022-01-09",4,"Southern Savonia",-14.27
+"2022-01-09",5,"Lapland",-16.65
+"2022-01-09",6,"Kainuu",-19.81
+"2022-01-09",7,"Northern Ostrobothnia",-18.63
+"2022-01-09",8,"Eastern Uusimaa",-4.59
+"2022-01-09",9,"Kymenlaakso",-7.7
+"2022-01-09",10,"Päijänne Tavastia",-6.85
+"2022-01-09",11,"South Karelia",-11.2
+"2022-01-09",12,"Uusimaa",-3.53
+"2022-01-09",13,"Central Finland",-15.82
+"2022-01-09",14,"Central Ostrobothnia",-17.58
+"2022-01-09",15,"Finland Proper",-3.95
+"2022-01-09",16,"Ostrobothnia",-13.06
+"2022-01-09",17,"Päijänne Tavastia",-8.93
+"2022-01-09",18,"Pirkanmaa",-9.98
+"2022-01-09",19,"Satakunta",-7.48
+"2022-01-09",20,"Southern Ostrobothnia",-13.76
+"2022-01-09",21,"Tavastia Proper",-7.03
+"2022-01-10",1,"North Karelia",-21.24
+"2022-01-10",2,"North Savonia",-22.58
+"2022-01-10",3,"Päijänne Tavastia",-13.4
+"2022-01-10",4,"Southern Savonia",-17.95
+"2022-01-10",5,"Lapland",-21.35
+"2022-01-10",6,"Kainuu",-21.91
+"2022-01-10",7,"Northern Ostrobothnia",-20.76
+"2022-01-10",8,"Eastern Uusimaa",-8.52
+"2022-01-10",9,"Kymenlaakso",-10.68
+"2022-01-10",10,"Päijänne Tavastia",-9.87
+"2022-01-10",11,"South Karelia",-13.57
+"2022-01-10",12,"Uusimaa",-7.19
+"2022-01-10",13,"Central Finland",-19.73
+"2022-01-10",14,"Central Ostrobothnia",-20.83
+"2022-01-10",15,"Finland Proper",-7.13
+"2022-01-10",16,"Ostrobothnia",-17.34
+"2022-01-10",17,"Päijänne Tavastia",-11.2
+"2022-01-10",18,"Pirkanmaa",-13.09
+"2022-01-10",19,"Satakunta",-10.95
+"2022-01-10",20,"Southern Ostrobothnia",-18.86
+"2022-01-10",21,"Tavastia Proper",-9.3
+"2022-01-11",1,"North Karelia",-23.45
+"2022-01-11",2,"North Savonia",-21.64
+"2022-01-11",3,"Päijänne Tavastia",-23.04
+"2022-01-11",4,"Southern Savonia",-23.18
+"2022-01-11",5,"Lapland",-15.15
+"2022-01-11",6,"Kainuu",-18.85
+"2022-01-11",7,"Northern Ostrobothnia",-15.32
+"2022-01-11",8,"Eastern Uusimaa",-19.47
+"2022-01-11",9,"Kymenlaakso",-21.54
+"2022-01-11",10,"Päijänne Tavastia",-21.49
+"2022-01-11",11,"South Karelia",-21.97
+"2022-01-11",12,"Uusimaa",-17.32
+"2022-01-11",13,"Central Finland",-23.21
+"2022-01-11",14,"Central Ostrobothnia",-17.09
+"2022-01-11",15,"Finland Proper",-16.45
+"2022-01-11",16,"Ostrobothnia",-12.45
+"2022-01-11",17,"Päijänne Tavastia",-22
+"2022-01-11",18,"Pirkanmaa",-22.55
+"2022-01-11",19,"Satakunta",-18.3
+"2022-01-11",20,"Southern Ostrobothnia",-18.82
+"2022-01-11",21,"Tavastia Proper",-21.58
+"2022-01-12",1,"North Karelia",-12.21
+"2022-01-12",2,"North Savonia",-6.88
+"2022-01-12",3,"Päijänne Tavastia",-6.02
+"2022-01-12",4,"Southern Savonia",-9.35
+"2022-01-12",5,"Lapland",-3.7
+"2022-01-12",6,"Kainuu",-6.93
+"2022-01-12",7,"Northern Ostrobothnia",-2.47
+"2022-01-12",8,"Eastern Uusimaa",-5.61
+"2022-01-12",9,"Kymenlaakso",-7.94
+"2022-01-12",10,"Päijänne Tavastia",-5.78
+"2022-01-12",11,"South Karelia",-10.9
+"2022-01-12",12,"Uusimaa",-3.04
+"2022-01-12",13,"Central Finland",-3.39
+"2022-01-12",14,"Central Ostrobothnia",-0.76
+"2022-01-12",15,"Finland Proper",0.06
+"2022-01-12",16,"Ostrobothnia",-0.01
+"2022-01-12",17,"Päijänne Tavastia",-5.26
+"2022-01-12",18,"Pirkanmaa",-1.52
+"2022-01-12",19,"Satakunta",-0.25
+"2022-01-12",20,"Southern Ostrobothnia",-0.8
+"2022-01-12",21,"Tavastia Proper",-2.72
+"2022-01-13",1,"North Karelia",-0.73
+"2022-01-13",2,"North Savonia",0.77
+"2022-01-13",3,"Päijänne Tavastia",1.1
+"2022-01-13",4,"Southern Savonia",0.49
+"2022-01-13",5,"Lapland",-0.87
+"2022-01-13",6,"Kainuu",0.32
+"2022-01-13",7,"Northern Ostrobothnia",0.6
+"2022-01-13",8,"Eastern Uusimaa",1.77
+"2022-01-13",9,"Kymenlaakso",1.14
+"2022-01-13",10,"Päijänne Tavastia",1.54
+"2022-01-13",11,"South Karelia",0.42
+"2022-01-13",12,"Uusimaa",2
+"2022-01-13",13,"Central Finland",1.82
+"2022-01-13",14,"Central Ostrobothnia",2.44
+"2022-01-13",15,"Finland Proper",2.57
+"2022-01-13",16,"Ostrobothnia",4.05
+"2022-01-13",17,"Päijänne Tavastia",1.26
+"2022-01-13",18,"Pirkanmaa",2.26
+"2022-01-13",19,"Satakunta",3.46
+"2022-01-13",20,"Southern Ostrobothnia",2.94
+"2022-01-13",21,"Tavastia Proper",1.59
+"2022-01-14",1,"North Karelia",-1.06
+"2022-01-14",2,"North Savonia",0.22
+"2022-01-14",3,"Päijänne Tavastia",2.24
+"2022-01-14",4,"Southern Savonia",1.4
+"2022-01-14",5,"Lapland",-6.24
+"2022-01-14",6,"Kainuu",-3.77
+"2022-01-14",7,"Northern Ostrobothnia",-3.88
+"2022-01-14",8,"Eastern Uusimaa",3.48
+"2022-01-14",9,"Kymenlaakso",2.87
+"2022-01-14",10,"Päijänne Tavastia",3.07
+"2022-01-14",11,"South Karelia",1.94
+"2022-01-14",12,"Uusimaa",3.44
+"2022-01-14",13,"Central Finland",0.8
+"2022-01-14",14,"Central Ostrobothnia",-0.13
+"2022-01-14",15,"Finland Proper",3.19
+"2022-01-14",16,"Ostrobothnia",1
+"2022-01-14",17,"Päijänne Tavastia",2.48
+"2022-01-14",18,"Pirkanmaa",1.56
+"2022-01-14",19,"Satakunta",2.48
+"2022-01-14",20,"Southern Ostrobothnia",0.62
+"2022-01-14",21,"Tavastia Proper",2.61
+"2022-01-15",1,"North Karelia",-2.2
+"2022-01-15",2,"North Savonia",-3.09
+"2022-01-15",3,"Päijänne Tavastia",-0.27
+"2022-01-15",4,"Southern Savonia",-1.54
+"2022-01-15",5,"Lapland",-4.26
+"2022-01-15",6,"Kainuu",-3.7
+"2022-01-15",7,"Northern Ostrobothnia",-4.22
+"2022-01-15",8,"Eastern Uusimaa",0.86
+"2022-01-15",9,"Kymenlaakso",-0.1
+"2022-01-15",10,"Päijänne Tavastia",0.53
+"2022-01-15",11,"South Karelia",-1.14
+"2022-01-15",12,"Uusimaa",1.68
+"2022-01-15",13,"Central Finland",-0.97
+"2022-01-15",14,"Central Ostrobothnia",-0.24
+"2022-01-15",15,"Finland Proper",2.43
+"2022-01-15",16,"Ostrobothnia",1.63
+"2022-01-15",17,"Päijänne Tavastia",0.19
+"2022-01-15",18,"Pirkanmaa",1
+"2022-01-15",19,"Satakunta",2.01
+"2022-01-15",20,"Southern Ostrobothnia",1.09
+"2022-01-15",21,"Tavastia Proper",1.11
+"2022-01-16",1,"North Karelia",-9.06
+"2022-01-16",2,"North Savonia",-7.63
+"2022-01-16",3,"Päijänne Tavastia",-5.82
+"2022-01-16",4,"Southern Savonia",-7.66
+"2022-01-16",5,"Lapland",-5.46
+"2022-01-16",6,"Kainuu",-8.65
+"2022-01-16",7,"Northern Ostrobothnia",-5.14
+"2022-01-16",8,"Eastern Uusimaa",-4.6
+"2022-01-16",9,"Kymenlaakso",-6.61
+"2022-01-16",10,"Päijänne Tavastia",-5.46
+"2022-01-16",11,"South Karelia",-7.69
+"2022-01-16",12,"Uusimaa",-2.46
+"2022-01-16",13,"Central Finland",-5.52
+"2022-01-16",14,"Central Ostrobothnia",-2.39
+"2022-01-16",15,"Finland Proper",-0.99
+"2022-01-16",16,"Ostrobothnia",-0.34
+"2022-01-16",17,"Päijänne Tavastia",-5.01
+"2022-01-16",18,"Pirkanmaa",-3.1
+"2022-01-16",19,"Satakunta",-0.99
+"2022-01-16",20,"Southern Ostrobothnia",-2.13
+"2022-01-16",21,"Tavastia Proper",-3.41
+"2022-01-17",1,"North Karelia",-3.21
+"2022-01-17",2,"North Savonia",-4.1
+"2022-01-17",3,"Päijänne Tavastia",-1.62
+"2022-01-17",4,"Southern Savonia",-2.01
+"2022-01-17",5,"Lapland",-5.96
+"2022-01-17",6,"Kainuu",-4.47
+"2022-01-17",7,"Northern Ostrobothnia",-3.94
+"2022-01-17",8,"Eastern Uusimaa",-1.49
+"2022-01-17",9,"Kymenlaakso",-1.4
+"2022-01-17",10,"Päijänne Tavastia",-1.88
+"2022-01-17",11,"South Karelia",-1.16
+"2022-01-17",12,"Uusimaa",-0.82
+"2022-01-17",13,"Central Finland",-3.25
+"2022-01-17",14,"Central Ostrobothnia",-3.62
+"2022-01-17",15,"Finland Proper",-0.07
+"2022-01-17",16,"Ostrobothnia",-1.87
+"2022-01-17",17,"Päijänne Tavastia",-1.81
+"2022-01-17",18,"Pirkanmaa",-2.38
+"2022-01-17",19,"Satakunta",-0.64
+"2022-01-17",20,"Southern Ostrobothnia",-2.79
+"2022-01-17",21,"Tavastia Proper",-2.11
+"2022-01-18",1,"North Karelia",-7.75
+"2022-01-18",2,"North Savonia",-6.69
+"2022-01-18",3,"Päijänne Tavastia",-4.93
+"2022-01-18",4,"Southern Savonia",-5.82
+"2022-01-18",5,"Lapland",-9.82
+"2022-01-18",6,"Kainuu",-8.63
+"2022-01-18",7,"Northern Ostrobothnia",-7.82
+"2022-01-18",8,"Eastern Uusimaa",-3.96
+"2022-01-18",9,"Kymenlaakso",-4.31
+"2022-01-18",10,"Päijänne Tavastia",-4.43
+"2022-01-18",11,"South Karelia",-5.49
+"2022-01-18",12,"Uusimaa",-3.86
+"2022-01-18",13,"Central Finland",-5.6
+"2022-01-18",14,"Central Ostrobothnia",-4.76
+"2022-01-18",15,"Finland Proper",-2.52
+"2022-01-18",16,"Ostrobothnia",-3.76
+"2022-01-18",17,"Päijänne Tavastia",-4.88
+"2022-01-18",18,"Pirkanmaa",-5.38
+"2022-01-18",19,"Satakunta",-3.79
+"2022-01-18",20,"Southern Ostrobothnia",-5.35
+"2022-01-18",21,"Tavastia Proper",-4.98
+"2022-01-19",1,"North Karelia",-4.96
+"2022-01-19",2,"North Savonia",-1.24
+"2022-01-19",3,"Päijänne Tavastia",-0.77
+"2022-01-19",4,"Southern Savonia",-2.17
+"2022-01-19",5,"Lapland",-1.8
+"2022-01-19",6,"Kainuu",-2.47
+"2022-01-19",7,"Northern Ostrobothnia",-0.19
+"2022-01-19",8,"Eastern Uusimaa",-0.55
+"2022-01-19",9,"Kymenlaakso",-0.73
+"2022-01-19",10,"Päijänne Tavastia",-0.85
+"2022-01-19",11,"South Karelia",-2.19
+"2022-01-19",12,"Uusimaa",-1.36
+"2022-01-19",13,"Central Finland",0.09
+"2022-01-19",14,"Central Ostrobothnia",1.31
+"2022-01-19",15,"Finland Proper",-1.29
+"2022-01-19",16,"Ostrobothnia",2.23
+"2022-01-19",17,"Päijänne Tavastia",-1.08
+"2022-01-19",18,"Pirkanmaa",-1.02
+"2022-01-19",19,"Satakunta",-0.1
+"2022-01-19",20,"Southern Ostrobothnia",1.16
+"2022-01-19",21,"Tavastia Proper",-2.11
+"2022-01-20",1,"North Karelia",0.7
+"2022-01-20",2,"North Savonia",0.75
+"2022-01-20",3,"Päijänne Tavastia",1.71
+"2022-01-20",4,"Southern Savonia",1.38
+"2022-01-20",5,"Lapland",-5.57
+"2022-01-20",6,"Kainuu",0.13
+"2022-01-20",7,"Northern Ostrobothnia",-0.01
+"2022-01-20",8,"Eastern Uusimaa",1.27
+"2022-01-20",9,"Kymenlaakso",1.6
+"2022-01-20",10,"Päijänne Tavastia",1.33
+"2022-01-20",11,"South Karelia",1.62
+"2022-01-20",12,"Uusimaa",1.06
+"2022-01-20",13,"Central Finland",1.02
+"2022-01-20",14,"Central Ostrobothnia",0.3
+"2022-01-20",15,"Finland Proper",0.78
+"2022-01-20",16,"Ostrobothnia",0.34
+"2022-01-20",17,"Päijänne Tavastia",1.41
+"2022-01-20",18,"Pirkanmaa",0.8
+"2022-01-20",19,"Satakunta",0.34
+"2022-01-20",20,"Southern Ostrobothnia",0.31
+"2022-01-20",21,"Tavastia Proper",1.1
+"2022-01-21",1,"North Karelia",-3.86
+"2022-01-21",2,"North Savonia",-5.93
+"2022-01-21",3,"Päijänne Tavastia",-4.33
+"2022-01-21",4,"Southern Savonia",-3.54
+"2022-01-21",5,"Lapland",-4.48
+"2022-01-21",6,"Kainuu",-7.8
+"2022-01-21",7,"Northern Ostrobothnia",-6.06
+"2022-01-21",8,"Eastern Uusimaa",-2.77
+"2022-01-21",9,"Kymenlaakso",-2.59
+"2022-01-21",10,"Päijänne Tavastia",-3.48
+"2022-01-21",11,"South Karelia",-1.73
+"2022-01-21",12,"Uusimaa",-2.82
+"2022-01-21",13,"Central Finland",-4.96
+"2022-01-21",14,"Central Ostrobothnia",-2.99
+"2022-01-21",15,"Finland Proper",-2.1
+"2022-01-21",16,"Ostrobothnia",-1.05
+"2022-01-21",17,"Päijänne Tavastia",-4.07
+"2022-01-21",18,"Pirkanmaa",-3.24
+"2022-01-21",19,"Satakunta",-1.87
+"2022-01-21",20,"Southern Ostrobothnia",-2.32
+"2022-01-21",21,"Tavastia Proper",-3.67
+"2022-01-22",1,"North Karelia",-4.81
+"2022-01-22",2,"North Savonia",-5.94
+"2022-01-22",3,"Päijänne Tavastia",-4.54
+"2022-01-22",4,"Southern Savonia",-4.12
+"2022-01-22",5,"Lapland",-17.17
+"2022-01-22",6,"Kainuu",-8.89
+"2022-01-22",7,"Northern Ostrobothnia",-12.76
+"2022-01-22",8,"Eastern Uusimaa",-3.1
+"2022-01-22",9,"Kymenlaakso",-3.07
+"2022-01-22",10,"Päijänne Tavastia",-3.57
+"2022-01-22",11,"South Karelia",-3.38
+"2022-01-22",12,"Uusimaa",-4.41
+"2022-01-22",13,"Central Finland",-7.38
+"2022-01-22",14,"Central Ostrobothnia",-10.84
+"2022-01-22",15,"Finland Proper",-5.39
+"2022-01-22",16,"Ostrobothnia",-7.37
+"2022-01-22",17,"Päijänne Tavastia",-4.6
+"2022-01-22",18,"Pirkanmaa",-7.72
+"2022-01-22",19,"Satakunta",-7.17
+"2022-01-22",20,"Southern Ostrobothnia",-9.59
+"2022-01-22",21,"Tavastia Proper",-5.69
+"2022-01-23",1,"North Karelia",-6.98
+"2022-01-23",2,"North Savonia",-10.04
+"2022-01-23",3,"Päijänne Tavastia",-10.08
+"2022-01-23",4,"Southern Savonia",-8.26
+"2022-01-23",5,"Lapland",-4.55
+"2022-01-23",6,"Kainuu",-9.28
+"2022-01-23",7,"Northern Ostrobothnia",-6.61
+"2022-01-23",8,"Eastern Uusimaa",-9.21
+"2022-01-23",9,"Kymenlaakso",-7.38
+"2022-01-23",10,"Päijänne Tavastia",-10.72
+"2022-01-23",11,"South Karelia",-6.19
+"2022-01-23",12,"Uusimaa",-9.7
+"2022-01-23",13,"Central Finland",-9.63
+"2022-01-23",14,"Central Ostrobothnia",-4.58
+"2022-01-23",15,"Finland Proper",-4.38
+"2022-01-23",16,"Ostrobothnia",-1.81
+"2022-01-23",17,"Päijänne Tavastia",-10.65
+"2022-01-23",18,"Pirkanmaa",-7.32
+"2022-01-23",19,"Satakunta",-3.32
+"2022-01-23",20,"Southern Ostrobothnia",-4.42
+"2022-01-23",21,"Tavastia Proper",-10.5
+"2022-01-24",1,"North Karelia",-1.71
+"2022-01-24",2,"North Savonia",-0.14
+"2022-01-24",3,"Päijänne Tavastia",-0.31
+"2022-01-24",4,"Southern Savonia",-0.8
+"2022-01-24",5,"Lapland",3.12
+"2022-01-24",6,"Kainuu",0.81
+"2022-01-24",7,"Northern Ostrobothnia",2.14
+"2022-01-24",8,"Eastern Uusimaa",0.88
+"2022-01-24",9,"Kymenlaakso",0.37
+"2022-01-24",10,"Päijänne Tavastia",0.59
+"2022-01-24",11,"South Karelia",-0.32
+"2022-01-24",12,"Uusimaa",1.04
+"2022-01-24",13,"Central Finland",-0.3
+"2022-01-24",14,"Central Ostrobothnia",0.87
+"2022-01-24",15,"Finland Proper",0.65
+"2022-01-24",16,"Ostrobothnia",-0.17
+"2022-01-24",17,"Päijänne Tavastia",0.01
+"2022-01-24",18,"Pirkanmaa",-1.17
+"2022-01-24",19,"Satakunta",-0.61
+"2022-01-24",20,"Southern Ostrobothnia",-0.68
+"2022-01-24",21,"Tavastia Proper",0.06
+"2022-01-25",1,"North Karelia",-0.21
+"2022-01-25",2,"North Savonia",-0.79
+"2022-01-25",3,"Päijänne Tavastia",-0.6
+"2022-01-25",4,"Southern Savonia",-0.18
+"2022-01-25",5,"Lapland",-5.44
+"2022-01-25",6,"Kainuu",-1.24
+"2022-01-25",7,"Northern Ostrobothnia",-1.69
+"2022-01-25",8,"Eastern Uusimaa",-0.11
+"2022-01-25",9,"Kymenlaakso",-0.22
+"2022-01-25",10,"Päijänne Tavastia",-0.54
+"2022-01-25",11,"South Karelia",0.22
+"2022-01-25",12,"Uusimaa",-0.12
+"2022-01-25",13,"Central Finland",-0.55
+"2022-01-25",14,"Central Ostrobothnia",-0.76
+"2022-01-25",15,"Finland Proper",-0.51
+"2022-01-25",16,"Ostrobothnia",0.39
+"2022-01-25",17,"Päijänne Tavastia",-0.71
+"2022-01-25",18,"Pirkanmaa",-0.47
+"2022-01-25",19,"Satakunta",0.7
+"2022-01-25",20,"Southern Ostrobothnia",0.03
+"2022-01-25",21,"Tavastia Proper",-1.23
+"2022-01-26",1,"North Karelia",-12.08
+"2022-01-26",2,"North Savonia",-11.49
+"2022-01-26",3,"Päijänne Tavastia",-9.73
+"2022-01-26",4,"Southern Savonia",-10.83
+"2022-01-26",5,"Lapland",-10.86
+"2022-01-26",6,"Kainuu",-11.7
+"2022-01-26",7,"Northern Ostrobothnia",-10.78
+"2022-01-26",8,"Eastern Uusimaa",-8.87
+"2022-01-26",9,"Kymenlaakso",-10.09
+"2022-01-26",10,"Päijänne Tavastia",-9.74
+"2022-01-26",11,"South Karelia",-10.18
+"2022-01-26",12,"Uusimaa",-6.84
+"2022-01-26",13,"Central Finland",-10.73
+"2022-01-26",14,"Central Ostrobothnia",-8.65
+"2022-01-26",15,"Finland Proper",-4.49
+"2022-01-26",16,"Ostrobothnia",-5.94
+"2022-01-26",17,"Päijänne Tavastia",-9.37
+"2022-01-26",18,"Pirkanmaa",-8.78
+"2022-01-26",19,"Satakunta",-5.2
+"2022-01-26",20,"Southern Ostrobothnia",-8.35
+"2022-01-26",21,"Tavastia Proper",-8.55
+"2022-01-27",1,"North Karelia",-4.89
+"2022-01-27",2,"North Savonia",-3.26
+"2022-01-27",3,"Päijänne Tavastia",-0.57
+"2022-01-27",4,"Southern Savonia",-2.68
+"2022-01-27",5,"Lapland",-8.64
+"2022-01-27",6,"Kainuu",-6.21
+"2022-01-27",7,"Northern Ostrobothnia",-5.88
+"2022-01-27",8,"Eastern Uusimaa",0.06
+"2022-01-27",9,"Kymenlaakso",-1.32
+"2022-01-27",10,"Päijänne Tavastia",-0.32
+"2022-01-27",11,"South Karelia",-3.65
+"2022-01-27",12,"Uusimaa",0.37
+"2022-01-27",13,"Central Finland",-1.14
+"2022-01-27",14,"Central Ostrobothnia",-2.1
+"2022-01-27",15,"Finland Proper",-0.39
+"2022-01-27",16,"Ostrobothnia",-2.5
+"2022-01-27",17,"Päijänne Tavastia",-0.35
+"2022-01-27",18,"Pirkanmaa",-0.55
+"2022-01-27",19,"Satakunta",-0.78
+"2022-01-27",20,"Southern Ostrobothnia",-1.57
+"2022-01-27",21,"Tavastia Proper",-0.06
+"2022-01-28",1,"North Karelia",-5.78
+"2022-01-28",2,"North Savonia",-3.42
+"2022-01-28",3,"Päijänne Tavastia",-1.69
+"2022-01-28",4,"Southern Savonia",-3.65
+"2022-01-28",5,"Lapland",-8.61
+"2022-01-28",6,"Kainuu",-4.88
+"2022-01-28",7,"Northern Ostrobothnia",-6.01
+"2022-01-28",8,"Eastern Uusimaa",-0.35
+"2022-01-28",9,"Kymenlaakso",-1.34
+"2022-01-28",10,"Päijänne Tavastia",-0.74
+"2022-01-28",11,"South Karelia",-3.11
+"2022-01-28",12,"Uusimaa",0.09
+"2022-01-28",13,"Central Finland",-2.31
+"2022-01-28",14,"Central Ostrobothnia",-2.64
+"2022-01-28",15,"Finland Proper",0.13
+"2022-01-28",16,"Ostrobothnia",-2.02
+"2022-01-28",17,"Päijänne Tavastia",-1.12
+"2022-01-28",18,"Pirkanmaa",-0.87
+"2022-01-28",19,"Satakunta",-0.42
+"2022-01-28",20,"Southern Ostrobothnia",-1.41
+"2022-01-28",21,"Tavastia Proper",-0.53
+"2022-01-29",1,"North Karelia",-6.25
+"2022-01-29",2,"North Savonia",-8.04
+"2022-01-29",3,"Päijänne Tavastia",-6.19
+"2022-01-29",4,"Southern Savonia",-5.11
+"2022-01-29",5,"Lapland",-13.37
+"2022-01-29",6,"Kainuu",-9.46
+"2022-01-29",7,"Northern Ostrobothnia",-11.65
+"2022-01-29",8,"Eastern Uusimaa",-4.4
+"2022-01-29",9,"Kymenlaakso",-3.66
+"2022-01-29",10,"Päijänne Tavastia",-5.36
+"2022-01-29",11,"South Karelia",-4.14
+"2022-01-29",12,"Uusimaa",-6.24
+"2022-01-29",13,"Central Finland",-9.47
+"2022-01-29",14,"Central Ostrobothnia",-10.19
+"2022-01-29",15,"Finland Proper",-6.34
+"2022-01-29",16,"Ostrobothnia",-7.05
+"2022-01-29",17,"Päijänne Tavastia",-6.77
+"2022-01-29",18,"Pirkanmaa",-10.69
+"2022-01-29",19,"Satakunta",-6.75
+"2022-01-29",20,"Southern Ostrobothnia",-9.82
+"2022-01-29",21,"Tavastia Proper",-9.24
+"2022-01-30",1,"North Karelia",-5.14
+"2022-01-30",2,"North Savonia",-4.25
+"2022-01-30",3,"Päijänne Tavastia",-3.27
+"2022-01-30",4,"Southern Savonia",-4.12
+"2022-01-30",5,"Lapland",-14.06
+"2022-01-30",6,"Kainuu",-5.15
+"2022-01-30",7,"Northern Ostrobothnia",-4.87
+"2022-01-30",8,"Eastern Uusimaa",-1.56
+"2022-01-30",9,"Kymenlaakso",-3.07
+"2022-01-30",10,"Päijänne Tavastia",-2.39
+"2022-01-30",11,"South Karelia",-3.96
+"2022-01-30",12,"Uusimaa",-0.35
+"2022-01-30",13,"Central Finland",-3.34
+"2022-01-30",14,"Central Ostrobothnia",-2.21
+"2022-01-30",15,"Finland Proper",0.3
+"2022-01-30",16,"Ostrobothnia",-0.91
+"2022-01-30",17,"Päijänne Tavastia",-2.8
+"2022-01-30",18,"Pirkanmaa",-2.02
+"2022-01-30",19,"Satakunta",-0.69
+"2022-01-30",20,"Southern Ostrobothnia",-1.72
+"2022-01-30",21,"Tavastia Proper",-1.78
+"2022-01-31",1,"North Karelia",-6.87
+"2022-01-31",2,"North Savonia",-7.26
+"2022-01-31",3,"Päijänne Tavastia",-6.23
+"2022-01-31",4,"Southern Savonia",-5.95
+"2022-01-31",5,"Lapland",-19.23
+"2022-01-31",6,"Kainuu",-10.32
+"2022-01-31",7,"Northern Ostrobothnia",-12.62
+"2022-01-31",8,"Eastern Uusimaa",-4.71
+"2022-01-31",9,"Kymenlaakso",-4.89
+"2022-01-31",10,"Päijänne Tavastia",-5.46
+"2022-01-31",11,"South Karelia",-4.97
+"2022-01-31",12,"Uusimaa",-5.05
+"2022-01-31",13,"Central Finland",-6.69
+"2022-01-31",14,"Central Ostrobothnia",-9.15
+"2022-01-31",15,"Finland Proper",-5.12
+"2022-01-31",16,"Ostrobothnia",-8.11
+"2022-01-31",17,"Päijänne Tavastia",-6.1
+"2022-01-31",18,"Pirkanmaa",-5.99
+"2022-01-31",19,"Satakunta",-6.23
+"2022-01-31",20,"Southern Ostrobothnia",-7.93
+"2022-01-31",21,"Tavastia Proper",-5.86
+"2022-02-01",1,"North Karelia",-8.14
+"2022-02-01",2,"North Savonia",-10.94
+"2022-02-01",3,"Päijänne Tavastia",-8.91
+"2022-02-01",4,"Southern Savonia",-7.98
+"2022-02-01",5,"Lapland",-22.68
+"2022-02-01",6,"Kainuu",-13.22
+"2022-02-01",7,"Northern Ostrobothnia",-15.68
+"2022-02-01",8,"Eastern Uusimaa",-7.73
+"2022-02-01",9,"Kymenlaakso",-7.46
+"2022-02-01",10,"Päijänne Tavastia",-8.67
+"2022-02-01",11,"South Karelia",-6.55
+"2022-02-01",12,"Uusimaa",-8.74
+"2022-02-01",13,"Central Finland",-11.63
+"2022-02-01",14,"Central Ostrobothnia",-14.43
+"2022-02-01",15,"Finland Proper",-9.69
+"2022-02-01",16,"Ostrobothnia",-13.19
+"2022-02-01",17,"Päijänne Tavastia",-9.09
+"2022-02-01",18,"Pirkanmaa",-10.98
+"2022-02-01",19,"Satakunta",-11.38
+"2022-02-01",20,"Southern Ostrobothnia",-13.25
+"2022-02-01",21,"Tavastia Proper",-9.85
+"2022-02-02",1,"North Karelia",-9.33
+"2022-02-02",2,"North Savonia",-9.13
+"2022-02-02",3,"Päijänne Tavastia",-9.34
+"2022-02-02",4,"Southern Savonia",-8.35
+"2022-02-02",5,"Lapland",-17.39
+"2022-02-02",6,"Kainuu",-9.4
+"2022-02-02",7,"Northern Ostrobothnia",-10.31
+"2022-02-02",8,"Eastern Uusimaa",-8.52
+"2022-02-02",9,"Kymenlaakso",-7.6
+"2022-02-02",10,"Päijänne Tavastia",-9.53
+"2022-02-02",11,"South Karelia",-7.11
+"2022-02-02",12,"Uusimaa",-10.14
+"2022-02-02",13,"Central Finland",-11
+"2022-02-02",14,"Central Ostrobothnia",-11.94
+"2022-02-02",15,"Finland Proper",-11.84
+"2022-02-02",16,"Ostrobothnia",-13.27
+"2022-02-02",17,"Päijänne Tavastia",-9.98
+"2022-02-02",18,"Pirkanmaa",-12.59
+"2022-02-02",19,"Satakunta",-13.56
+"2022-02-02",20,"Southern Ostrobothnia",-13.95
+"2022-02-02",21,"Tavastia Proper",-12
+"2022-02-03",1,"North Karelia",-14.48
+"2022-02-03",2,"North Savonia",-15.28
+"2022-02-03",3,"Päijänne Tavastia",-13.39
+"2022-02-03",4,"Southern Savonia",-13.92
+"2022-02-03",5,"Lapland",-15.78
+"2022-02-03",6,"Kainuu",-14.92
+"2022-02-03",7,"Northern Ostrobothnia",-15.06
+"2022-02-03",8,"Eastern Uusimaa",-10.16
+"2022-02-03",9,"Kymenlaakso",-12.41
+"2022-02-03",10,"Päijänne Tavastia",-11.65
+"2022-02-03",11,"South Karelia",-12.68
+"2022-02-03",12,"Uusimaa",-11.16
+"2022-02-03",13,"Central Finland",-14.66
+"2022-02-03",14,"Central Ostrobothnia",-15.43
+"2022-02-03",15,"Finland Proper",-14.16
+"2022-02-03",16,"Ostrobothnia",-14.44
+"2022-02-03",17,"Päijänne Tavastia",-12.17
+"2022-02-03",18,"Pirkanmaa",-12.96
+"2022-02-03",19,"Satakunta",-14.81
+"2022-02-03",20,"Southern Ostrobothnia",-15.29
+"2022-02-03",21,"Tavastia Proper",-11.96
+"2022-02-04",1,"North Karelia",-18.69
+"2022-02-04",2,"North Savonia",-18.97
+"2022-02-04",3,"Päijänne Tavastia",-12.83
+"2022-02-04",4,"Southern Savonia",-16.18
+"2022-02-04",5,"Lapland",-19.13
+"2022-02-04",6,"Kainuu",-20.59
+"2022-02-04",7,"Northern Ostrobothnia",-19.8
+"2022-02-04",8,"Eastern Uusimaa",-9.27
+"2022-02-04",9,"Kymenlaakso",-12.94
+"2022-02-04",10,"Päijänne Tavastia",-11.05
+"2022-02-04",11,"South Karelia",-15.11
+"2022-02-04",12,"Uusimaa",-8.15
+"2022-02-04",13,"Central Finland",-14.51
+"2022-02-04",14,"Central Ostrobothnia",-15.69
+"2022-02-04",15,"Finland Proper",-9.34
+"2022-02-04",16,"Ostrobothnia",-15.41
+"2022-02-04",17,"Päijänne Tavastia",-11.7
+"2022-02-04",18,"Pirkanmaa",-13.34
+"2022-02-04",19,"Satakunta",-13.57
+"2022-02-04",20,"Southern Ostrobothnia",-15.15
+"2022-02-04",21,"Tavastia Proper",-12.19
+"2022-02-05",1,"North Karelia",-8.57
+"2022-02-05",2,"North Savonia",-6.95
+"2022-02-05",3,"Päijänne Tavastia",-5.89
+"2022-02-05",4,"Southern Savonia",-6.93
+"2022-02-05",5,"Lapland",-9.2
+"2022-02-05",6,"Kainuu",-8.11
+"2022-02-05",7,"Northern Ostrobothnia",-6.54
+"2022-02-05",8,"Eastern Uusimaa",-4.1
+"2022-02-05",9,"Kymenlaakso",-6.11
+"2022-02-05",10,"Päijänne Tavastia",-4.73
+"2022-02-05",11,"South Karelia",-6.97
+"2022-02-05",12,"Uusimaa",-1.39
+"2022-02-05",13,"Central Finland",-5.53
+"2022-02-05",14,"Central Ostrobothnia",-2.98
+"2022-02-05",15,"Finland Proper",0.4
+"2022-02-05",16,"Ostrobothnia",-0.22
+"2022-02-05",17,"Päijänne Tavastia",-4.76
+"2022-02-05",18,"Pirkanmaa",-1.77
+"2022-02-05",19,"Satakunta",0.13
+"2022-02-05",20,"Southern Ostrobothnia",-1.56
+"2022-02-05",21,"Tavastia Proper",-2.02
+"2022-02-06",1,"North Karelia",-6.67
+"2022-02-06",2,"North Savonia",-5.71
+"2022-02-06",3,"Päijänne Tavastia",-2.65
+"2022-02-06",4,"Southern Savonia",-4.78
+"2022-02-06",5,"Lapland",-5.17
+"2022-02-06",6,"Kainuu",-7.33
+"2022-02-06",7,"Northern Ostrobothnia",-5.23
+"2022-02-06",8,"Eastern Uusimaa",-1.92
+"2022-02-06",9,"Kymenlaakso",-2.61
+"2022-02-06",10,"Päijänne Tavastia",-2.57
+"2022-02-06",11,"South Karelia",-4.14
+"2022-02-06",12,"Uusimaa",-2.17
+"2022-02-06",13,"Central Finland",-3.04
+"2022-02-06",14,"Central Ostrobothnia",-2.7
+"2022-02-06",15,"Finland Proper",-3.4
+"2022-02-06",16,"Ostrobothnia",-3.24
+"2022-02-06",17,"Päijänne Tavastia",-2.61
+"2022-02-06",18,"Pirkanmaa",-3.05
+"2022-02-06",19,"Satakunta",-3.78
+"2022-02-06",20,"Southern Ostrobothnia",-3.04
+"2022-02-06",21,"Tavastia Proper",-3.4
+"2022-02-07",1,"North Karelia",-2.47
+"2022-02-07",2,"North Savonia",-1.2
+"2022-02-07",3,"Päijänne Tavastia",0.01
+"2022-02-07",4,"Southern Savonia",-0.66
+"2022-02-07",5,"Lapland",-6.31
+"2022-02-07",6,"Kainuu",-3
+"2022-02-07",7,"Northern Ostrobothnia",-2.22
+"2022-02-07",8,"Eastern Uusimaa",0.37
+"2022-02-07",9,"Kymenlaakso",-0.13
+"2022-02-07",10,"Päijänne Tavastia",0.21
+"2022-02-07",11,"South Karelia",-0.43
+"2022-02-07",12,"Uusimaa",0.18
+"2022-02-07",13,"Central Finland",-0.74
+"2022-02-07",14,"Central Ostrobothnia",-0.56
+"2022-02-07",15,"Finland Proper",-1.6
+"2022-02-07",16,"Ostrobothnia",-1.27
+"2022-02-07",17,"Päijänne Tavastia",0.12
+"2022-02-07",18,"Pirkanmaa",-0.62
+"2022-02-07",19,"Satakunta",-2
+"2022-02-07",20,"Southern Ostrobothnia",-0.76
+"2022-02-07",21,"Tavastia Proper",-0.25
+"2022-02-08",1,"North Karelia",-2.9
+"2022-02-08",2,"North Savonia",-2.53
+"2022-02-08",3,"Päijänne Tavastia",-1.73
+"2022-02-08",4,"Southern Savonia",-2.2
+"2022-02-08",5,"Lapland",-6.29
+"2022-02-08",6,"Kainuu",-3.2
+"2022-02-08",7,"Northern Ostrobothnia",-2.91
+"2022-02-08",8,"Eastern Uusimaa",-1.05
+"2022-02-08",9,"Kymenlaakso",-1.91
+"2022-02-08",10,"Päijänne Tavastia",-1.17
+"2022-02-08",11,"South Karelia",-1.54
+"2022-02-08",12,"Uusimaa",-1
+"2022-02-08",13,"Central Finland",-2.11
+"2022-02-08",14,"Central Ostrobothnia",-5.13
+"2022-02-08",15,"Finland Proper",-2.78
+"2022-02-08",16,"Ostrobothnia",-6.68
+"2022-02-08",17,"Päijänne Tavastia",-1.16
+"2022-02-08",18,"Pirkanmaa",-2.44
+"2022-02-08",19,"Satakunta",-4.58
+"2022-02-08",20,"Southern Ostrobothnia",-4.9
+"2022-02-08",21,"Tavastia Proper",-1.42
+"2022-02-09",1,"North Karelia",-3.64
+"2022-02-09",2,"North Savonia",-2.78
+"2022-02-09",3,"Päijänne Tavastia",-1.36
+"2022-02-09",4,"Southern Savonia",-2.14
+"2022-02-09",5,"Lapland",-5.67
+"2022-02-09",6,"Kainuu",-4.23
+"2022-02-09",7,"Northern Ostrobothnia",-3.66
+"2022-02-09",8,"Eastern Uusimaa",-0.59
+"2022-02-09",9,"Kymenlaakso",-0.95
+"2022-02-09",10,"Päijänne Tavastia",-0.85
+"2022-02-09",11,"South Karelia",-1.92
+"2022-02-09",12,"Uusimaa",-1.53
+"2022-02-09",13,"Central Finland",-2.13
+"2022-02-09",14,"Central Ostrobothnia",-3.46
+"2022-02-09",15,"Finland Proper",-1.68
+"2022-02-09",16,"Ostrobothnia",-2.26
+"2022-02-09",17,"Päijänne Tavastia",-1.38
+"2022-02-09",18,"Pirkanmaa",-2.68
+"2022-02-09",19,"Satakunta",-1.63
+"2022-02-09",20,"Southern Ostrobothnia",-2.66
+"2022-02-09",21,"Tavastia Proper",-2.24
+"2022-02-10",1,"North Karelia",-1.7
+"2022-02-10",2,"North Savonia",-2.14
+"2022-02-10",3,"Päijänne Tavastia",-0.18
+"2022-02-10",4,"Southern Savonia",-0.51
+"2022-02-10",5,"Lapland",-5.03
+"2022-02-10",6,"Kainuu",-3.16
+"2022-02-10",7,"Northern Ostrobothnia",-3.72
+"2022-02-10",8,"Eastern Uusimaa",0.43
+"2022-02-10",9,"Kymenlaakso",0.5
+"2022-02-10",10,"Päijänne Tavastia",0.32
+"2022-02-10",11,"South Karelia",0.22
+"2022-02-10",12,"Uusimaa",0.33
+"2022-02-10",13,"Central Finland",-2.24
+"2022-02-10",14,"Central Ostrobothnia",-3.46
+"2022-02-10",15,"Finland Proper",0.12
+"2022-02-10",16,"Ostrobothnia",-1.84
+"2022-02-10",17,"Päijänne Tavastia",-0.01
+"2022-02-10",18,"Pirkanmaa",-1.72
+"2022-02-10",19,"Satakunta",-0.86
+"2022-02-10",20,"Southern Ostrobothnia",-2.48
+"2022-02-10",21,"Tavastia Proper",-0.37
+"2022-02-11",1,"North Karelia",-2.45
+"2022-02-11",2,"North Savonia",-3.38
+"2022-02-11",3,"Päijänne Tavastia",-3.95
+"2022-02-11",4,"Southern Savonia",-3.3
+"2022-02-11",5,"Lapland",-6.97
+"2022-02-11",6,"Kainuu",-2.62
+"2022-02-11",7,"Northern Ostrobothnia",-3.05
+"2022-02-11",8,"Eastern Uusimaa",-3.06
+"2022-02-11",9,"Kymenlaakso",-3.38
+"2022-02-11",10,"Päijänne Tavastia",-3.97
+"2022-02-11",11,"South Karelia",-2.93
+"2022-02-11",12,"Uusimaa",-2.85
+"2022-02-11",13,"Central Finland",-3.7
+"2022-02-11",14,"Central Ostrobothnia",-3.2
+"2022-02-11",15,"Finland Proper",-2.92
+"2022-02-11",16,"Ostrobothnia",-2.01
+"2022-02-11",17,"Päijänne Tavastia",-4.12
+"2022-02-11",18,"Pirkanmaa",-3.57
+"2022-02-11",19,"Satakunta",-2.35
+"2022-02-11",20,"Southern Ostrobothnia",-3.05
+"2022-02-11",21,"Tavastia Proper",-4.14
+"2022-02-12",1,"North Karelia",-8.44
+"2022-02-12",2,"North Savonia",-10.1
+"2022-02-12",3,"Päijänne Tavastia",-8.04
+"2022-02-12",4,"Southern Savonia",-8.66
+"2022-02-12",5,"Lapland",-13.61
+"2022-02-12",6,"Kainuu",-10.8
+"2022-02-12",7,"Northern Ostrobothnia",-11.73
+"2022-02-12",8,"Eastern Uusimaa",-6.05
+"2022-02-12",9,"Kymenlaakso",-7
+"2022-02-12",10,"Päijänne Tavastia",-6.95
+"2022-02-12",11,"South Karelia",-7.38
+"2022-02-12",12,"Uusimaa",-5.09
+"2022-02-12",13,"Central Finland",-9.82
+"2022-02-12",14,"Central Ostrobothnia",-10.56
+"2022-02-12",15,"Finland Proper",-4.96
+"2022-02-12",16,"Ostrobothnia",-6.18
+"2022-02-12",17,"Päijänne Tavastia",-7.39
+"2022-02-12",18,"Pirkanmaa",-7.76
+"2022-02-12",19,"Satakunta",-5.42
+"2022-02-12",20,"Southern Ostrobothnia",-8.23
+"2022-02-12",21,"Tavastia Proper",-6.92
+"2022-02-13",1,"North Karelia",-9.04
+"2022-02-13",2,"North Savonia",-11.33
+"2022-02-13",3,"Päijänne Tavastia",-2.62
+"2022-02-13",4,"Southern Savonia",-6.09
+"2022-02-13",5,"Lapland",-21.28
+"2022-02-13",6,"Kainuu",-11.27
+"2022-02-13",7,"Northern Ostrobothnia",-13.61
+"2022-02-13",8,"Eastern Uusimaa",0.9
+"2022-02-13",9,"Kymenlaakso",-1.04
+"2022-02-13",10,"Päijänne Tavastia",0.45
+"2022-02-13",11,"South Karelia",-3.56
+"2022-02-13",12,"Uusimaa",1
+"2022-02-13",13,"Central Finland",-7.89
+"2022-02-13",14,"Central Ostrobothnia",-10.69
+"2022-02-13",15,"Finland Proper",0.89
+"2022-02-13",16,"Ostrobothnia",-6.08
+"2022-02-13",17,"Päijänne Tavastia",-0.54
+"2022-02-13",18,"Pirkanmaa",-2.05
+"2022-02-13",19,"Satakunta",0.16
+"2022-02-13",20,"Southern Ostrobothnia",-6.21
+"2022-02-13",21,"Tavastia Proper",0.41
+"2022-02-14",1,"North Karelia",0.33
+"2022-02-14",2,"North Savonia",0.94
+"2022-02-14",3,"Päijänne Tavastia",1.43
+"2022-02-14",4,"Southern Savonia",1.02
+"2022-02-14",5,"Lapland",-10.22
+"2022-02-14",6,"Kainuu",-0.8
+"2022-02-14",7,"Northern Ostrobothnia",-0.57
+"2022-02-14",8,"Eastern Uusimaa",1.73
+"2022-02-14",9,"Kymenlaakso",1.37
+"2022-02-14",10,"Päijänne Tavastia",1.76
+"2022-02-14",11,"South Karelia",0.94
+"2022-02-14",12,"Uusimaa",1.82
+"2022-02-14",13,"Central Finland",1.46
+"2022-02-14",14,"Central Ostrobothnia",1.58
+"2022-02-14",15,"Finland Proper",2.06
+"2022-02-14",16,"Ostrobothnia",0.98
+"2022-02-14",17,"Päijänne Tavastia",1.57
+"2022-02-14",18,"Pirkanmaa",1.81
+"2022-02-14",19,"Satakunta",2.32
+"2022-02-14",20,"Southern Ostrobothnia",1.44
+"2022-02-14",21,"Tavastia Proper",1.82
+"2022-02-15",1,"North Karelia",-2.14
+"2022-02-15",2,"North Savonia",-3.95
+"2022-02-15",3,"Päijänne Tavastia",0.01
+"2022-02-15",4,"Southern Savonia",-0.16
+"2022-02-15",5,"Lapland",-13.27
+"2022-02-15",6,"Kainuu",-12.35
+"2022-02-15",7,"Northern Ostrobothnia",-15.68
+"2022-02-15",8,"Eastern Uusimaa",1.1
+"2022-02-15",9,"Kymenlaakso",0.67
+"2022-02-15",10,"Päijänne Tavastia",0.54
+"2022-02-15",11,"South Karelia",0.44
+"2022-02-15",12,"Uusimaa",1.27
+"2022-02-15",13,"Central Finland",-1.89
+"2022-02-15",14,"Central Ostrobothnia",-8.19
+"2022-02-15",15,"Finland Proper",0.61
+"2022-02-15",16,"Ostrobothnia",-5.65
+"2022-02-15",17,"Päijänne Tavastia",0.17
+"2022-02-15",18,"Pirkanmaa",-0.21
+"2022-02-15",19,"Satakunta",-0.32
+"2022-02-15",20,"Southern Ostrobothnia",-2.28
+"2022-02-15",21,"Tavastia Proper",0.29
+"2022-02-16",1,"North Karelia",-0.62
+"2022-02-16",2,"North Savonia",-0.69
+"2022-02-16",3,"Päijänne Tavastia",1.09
+"2022-02-16",4,"Southern Savonia",0.71
+"2022-02-16",5,"Lapland",-15.73
+"2022-02-16",6,"Kainuu",-6.18
+"2022-02-16",7,"Northern Ostrobothnia",-6.7
+"2022-02-16",8,"Eastern Uusimaa",1.86
+"2022-02-16",9,"Kymenlaakso",1.33
+"2022-02-16",10,"Päijänne Tavastia",1.48
+"2022-02-16",11,"South Karelia",1.02
+"2022-02-16",12,"Uusimaa",1.74
+"2022-02-16",13,"Central Finland",0.67
+"2022-02-16",14,"Central Ostrobothnia",-0.24
+"2022-02-16",15,"Finland Proper",1.5
+"2022-02-16",16,"Ostrobothnia",0.94
+"2022-02-16",17,"Päijänne Tavastia",1.26
+"2022-02-16",18,"Pirkanmaa",1.34
+"2022-02-16",19,"Satakunta",1.29
+"2022-02-16",20,"Southern Ostrobothnia",1.12
+"2022-02-16",21,"Tavastia Proper",1.58
+"2022-02-17",1,"North Karelia",-0.17
+"2022-02-17",2,"North Savonia",0.04
+"2022-02-17",3,"Päijänne Tavastia",0.3
+"2022-02-17",4,"Southern Savonia",0.38
+"2022-02-17",5,"Lapland",-10.15
+"2022-02-17",6,"Kainuu",-1.86
+"2022-02-17",7,"Northern Ostrobothnia",-2.86
+"2022-02-17",8,"Eastern Uusimaa",0.3
+"2022-02-17",9,"Kymenlaakso",0.3
+"2022-02-17",10,"Päijänne Tavastia",0.24
+"2022-02-17",11,"South Karelia",0.33
+"2022-02-17",12,"Uusimaa",0.27
+"2022-02-17",13,"Central Finland",0.11
+"2022-02-17",14,"Central Ostrobothnia",0.06
+"2022-02-17",15,"Finland Proper",0.5
+"2022-02-17",16,"Ostrobothnia",0.41
+"2022-02-17",17,"Päijänne Tavastia",0.23
+"2022-02-17",18,"Pirkanmaa",0.31
+"2022-02-17",19,"Satakunta",0.59
+"2022-02-17",20,"Southern Ostrobothnia",0.33
+"2022-02-17",21,"Tavastia Proper",0.28
+"2022-02-18",1,"North Karelia",-0.04
+"2022-02-18",2,"North Savonia",-0.74
+"2022-02-18",3,"Päijänne Tavastia",-0.61
+"2022-02-18",4,"Southern Savonia",-0.13
+"2022-02-18",5,"Lapland",-5.85
+"2022-02-18",6,"Kainuu",-1.71
+"2022-02-18",7,"Northern Ostrobothnia",-3.61
+"2022-02-18",8,"Eastern Uusimaa",0.22
+"2022-02-18",9,"Kymenlaakso",0.34
+"2022-02-18",10,"Päijänne Tavastia",-0.09
+"2022-02-18",11,"South Karelia",0.12
+"2022-02-18",12,"Uusimaa",-0.95
+"2022-02-18",13,"Central Finland",-1.6
+"2022-02-18",14,"Central Ostrobothnia",-4.41
+"2022-02-18",15,"Finland Proper",-1.7
+"2022-02-18",16,"Ostrobothnia",-4.99
+"2022-02-18",17,"Päijänne Tavastia",-0.91
+"2022-02-18",18,"Pirkanmaa",-2.95
+"2022-02-18",19,"Satakunta",-2.96
+"2022-02-18",20,"Southern Ostrobothnia",-4.89
+"2022-02-18",21,"Tavastia Proper",-1.69
+"2022-02-19",1,"North Karelia",-5.44
+"2022-02-19",2,"North Savonia",-5.52
+"2022-02-19",3,"Päijänne Tavastia",-4.44
+"2022-02-19",4,"Southern Savonia",-4.28
+"2022-02-19",5,"Lapland",-4.41
+"2022-02-19",6,"Kainuu",-5.72
+"2022-02-19",7,"Northern Ostrobothnia",-4.57
+"2022-02-19",8,"Eastern Uusimaa",-3.07
+"2022-02-19",9,"Kymenlaakso",-2.94
+"2022-02-19",10,"Päijänne Tavastia",-4.19
+"2022-02-19",11,"South Karelia",-2.81
+"2022-02-19",12,"Uusimaa",-2.8
+"2022-02-19",13,"Central Finland",-5.73
+"2022-02-19",14,"Central Ostrobothnia",-5.97
+"2022-02-19",15,"Finland Proper",-5.21
+"2022-02-19",16,"Ostrobothnia",-6.64
+"2022-02-19",17,"Päijänne Tavastia",-4.7
+"2022-02-19",18,"Pirkanmaa",-6.09
+"2022-02-19",19,"Satakunta",-5.98
+"2022-02-19",20,"Southern Ostrobothnia",-7.2
+"2022-02-19",21,"Tavastia Proper",-5.42
+"2022-02-20",1,"North Karelia",-6.3
+"2022-02-20",2,"North Savonia",-5.97
+"2022-02-20",3,"Päijänne Tavastia",-6.33
+"2022-02-20",4,"Southern Savonia",-5.56
+"2022-02-20",5,"Lapland",-9.07
+"2022-02-20",6,"Kainuu",-6.91
+"2022-02-20",7,"Northern Ostrobothnia",-5.69
+"2022-02-20",8,"Eastern Uusimaa",-3.62
+"2022-02-20",9,"Kymenlaakso",-4.53
+"2022-02-20",10,"Päijänne Tavastia",-4.3
+"2022-02-20",11,"South Karelia",-4.4
+"2022-02-20",12,"Uusimaa",-2.72
+"2022-02-20",13,"Central Finland",-7.02
+"2022-02-20",14,"Central Ostrobothnia",-7.01
+"2022-02-20",15,"Finland Proper",-3.15
+"2022-02-20",16,"Ostrobothnia",-8.78
+"2022-02-20",17,"Päijänne Tavastia",-5.17
+"2022-02-20",18,"Pirkanmaa",-5.46
+"2022-02-20",19,"Satakunta",-3.76
+"2022-02-20",20,"Southern Ostrobothnia",-8.59
+"2022-02-20",21,"Tavastia Proper",-3.51
+"2022-02-21",1,"North Karelia",-6.41
+"2022-02-21",2,"North Savonia",-6.08
+"2022-02-21",3,"Päijänne Tavastia",-4.65
+"2022-02-21",4,"Southern Savonia",-4.97
+"2022-02-21",5,"Lapland",-13.79
+"2022-02-21",6,"Kainuu",-8.48
+"2022-02-21",7,"Northern Ostrobothnia",-9.79
+"2022-02-21",8,"Eastern Uusimaa",-4.19
+"2022-02-21",9,"Kymenlaakso",-5.03
+"2022-02-21",10,"Päijänne Tavastia",-5.01
+"2022-02-21",11,"South Karelia",-4.43
+"2022-02-21",12,"Uusimaa",-2.2
+"2022-02-21",13,"Central Finland",-5.92
+"2022-02-21",14,"Central Ostrobothnia",-7.08
+"2022-02-21",15,"Finland Proper",-3.85
+"2022-02-21",16,"Ostrobothnia",-4.86
+"2022-02-21",17,"Päijänne Tavastia",-4.39
+"2022-02-21",18,"Pirkanmaa",-4.73
+"2022-02-21",19,"Satakunta",-4.69
+"2022-02-21",20,"Southern Ostrobothnia",-4.86
+"2022-02-21",21,"Tavastia Proper",-3.68
+"2022-02-22",1,"North Karelia",-8.59
+"2022-02-22",2,"North Savonia",-8.61
+"2022-02-22",3,"Päijänne Tavastia",-2.94
+"2022-02-22",4,"Southern Savonia",-4.27
+"2022-02-22",5,"Lapland",-15.99
+"2022-02-22",6,"Kainuu",-12.97
+"2022-02-22",7,"Northern Ostrobothnia",-13.53
+"2022-02-22",8,"Eastern Uusimaa",-0.74
+"2022-02-22",9,"Kymenlaakso",-1.45
+"2022-02-22",10,"Päijänne Tavastia",-1.64
+"2022-02-22",11,"South Karelia",-2.26
+"2022-02-22",12,"Uusimaa",-0.75
+"2022-02-22",13,"Central Finland",-6.09
+"2022-02-22",14,"Central Ostrobothnia",-8.75
+"2022-02-22",15,"Finland Proper",-1.8
+"2022-02-22",16,"Ostrobothnia",-7.29
+"2022-02-22",17,"Päijänne Tavastia",-2.46
+"2022-02-22",18,"Pirkanmaa",-4.04
+"2022-02-22",19,"Satakunta",-3.75
+"2022-02-22",20,"Southern Ostrobothnia",-6.35
+"2022-02-22",21,"Tavastia Proper",-2.31
+"2022-02-23",1,"North Karelia",-14.66
+"2022-02-23",2,"North Savonia",-17.64
+"2022-02-23",3,"Päijänne Tavastia",-13.08
+"2022-02-23",4,"Southern Savonia",-12.9
+"2022-02-23",5,"Lapland",-18.92
+"2022-02-23",6,"Kainuu",-19.45
+"2022-02-23",7,"Northern Ostrobothnia",-21.8
+"2022-02-23",8,"Eastern Uusimaa",-9.63
+"2022-02-23",9,"Kymenlaakso",-9.96
+"2022-02-23",10,"Päijänne Tavastia",-11.17
+"2022-02-23",11,"South Karelia",-10.2
+"2022-02-23",12,"Uusimaa",-10.3
+"2022-02-23",13,"Central Finland",-15.95
+"2022-02-23",14,"Central Ostrobothnia",-17.79
+"2022-02-23",15,"Finland Proper",-11.51
+"2022-02-23",16,"Ostrobothnia",-16.6
+"2022-02-23",17,"Päijänne Tavastia",-12.67
+"2022-02-23",18,"Pirkanmaa",-15.13
+"2022-02-23",19,"Satakunta",-14.85
+"2022-02-23",20,"Southern Ostrobothnia",-16.82
+"2022-02-23",21,"Tavastia Proper",-13.02
+"2022-02-24",1,"North Karelia",-10.78
+"2022-02-24",2,"North Savonia",-8.86
+"2022-02-24",3,"Päijänne Tavastia",-4.16
+"2022-02-24",4,"Southern Savonia",-7.62
+"2022-02-24",5,"Lapland",-11.3
+"2022-02-24",6,"Kainuu",-11.22
+"2022-02-24",7,"Northern Ostrobothnia",-8.66
+"2022-02-24",8,"Eastern Uusimaa",-1.8
+"2022-02-24",9,"Kymenlaakso",-3.8
+"2022-02-24",10,"Päijänne Tavastia",-2.55
+"2022-02-24",11,"South Karelia",-6.53
+"2022-02-24",12,"Uusimaa",-0.33
+"2022-02-24",13,"Central Finland",-5.05
+"2022-02-24",14,"Central Ostrobothnia",-2.87
+"2022-02-24",15,"Finland Proper",1.1
+"2022-02-24",16,"Ostrobothnia",0.07
+"2022-02-24",17,"Päijänne Tavastia",-3.03
+"2022-02-24",18,"Pirkanmaa",-1.77
+"2022-02-24",19,"Satakunta",0.52
+"2022-02-24",20,"Southern Ostrobothnia",-1.41
+"2022-02-24",21,"Tavastia Proper",-1.14
+"2022-02-25",1,"North Karelia",1.15
+"2022-02-25",2,"North Savonia",1.25
+"2022-02-25",3,"Päijänne Tavastia",1.53
+"2022-02-25",4,"Southern Savonia",1.5
+"2022-02-25",5,"Lapland",-2.94
+"2022-02-25",6,"Kainuu",0.23
+"2022-02-25",7,"Northern Ostrobothnia",-0.43
+"2022-02-25",8,"Eastern Uusimaa",2.21
+"2022-02-25",9,"Kymenlaakso",2.05
+"2022-02-25",10,"Päijänne Tavastia",2.09
+"2022-02-25",11,"South Karelia",1.88
+"2022-02-25",12,"Uusimaa",1.95
+"2022-02-25",13,"Central Finland",1.12
+"2022-02-25",14,"Central Ostrobothnia",0.66
+"2022-02-25",15,"Finland Proper",1.51
+"2022-02-25",16,"Ostrobothnia",0.41
+"2022-02-25",17,"Päijänne Tavastia",1.57
+"2022-02-25",18,"Pirkanmaa",0.89
+"2022-02-25",19,"Satakunta",0.62
+"2022-02-25",20,"Southern Ostrobothnia",0.81
+"2022-02-25",21,"Tavastia Proper",1.41
+"2022-02-26",1,"North Karelia",-1.24
+"2022-02-26",2,"North Savonia",-3.48
+"2022-02-26",3,"Päijänne Tavastia",-1.73
+"2022-02-26",4,"Southern Savonia",-1.09
+"2022-02-26",5,"Lapland",-7.53
+"2022-02-26",6,"Kainuu",-3.95
+"2022-02-26",7,"Northern Ostrobothnia",-4.46
+"2022-02-26",8,"Eastern Uusimaa",-0.55
+"2022-02-26",9,"Kymenlaakso",-0.26
+"2022-02-26",10,"Päijänne Tavastia",-0.81
+"2022-02-26",11,"South Karelia",0.23
+"2022-02-26",12,"Uusimaa",-1.26
+"2022-02-26",13,"Central Finland",-3.46
+"2022-02-26",14,"Central Ostrobothnia",-5.8
+"2022-02-26",15,"Finland Proper",-1.69
+"2022-02-26",16,"Ostrobothnia",-3.83
+"2022-02-26",17,"Päijänne Tavastia",-1.56
+"2022-02-26",18,"Pirkanmaa",-3
+"2022-02-26",19,"Satakunta",-2.55
+"2022-02-26",20,"Southern Ostrobothnia",-4.11
+"2022-02-26",21,"Tavastia Proper",-1.99
+"2022-02-27",1,"North Karelia",-13.84
+"2022-02-27",2,"North Savonia",-11.33
+"2022-02-27",3,"Päijänne Tavastia",-9.79
+"2022-02-27",4,"Southern Savonia",-11.64
+"2022-02-27",5,"Lapland",-5.52
+"2022-02-27",6,"Kainuu",-11.41
+"2022-02-27",7,"Northern Ostrobothnia",-6.86
+"2022-02-27",8,"Eastern Uusimaa",-10.48
+"2022-02-27",9,"Kymenlaakso",-11.23
+"2022-02-27",10,"Päijänne Tavastia",-10.99
+"2022-02-27",11,"South Karelia",-11.64
+"2022-02-27",12,"Uusimaa",-7.32
+"2022-02-27",13,"Central Finland",-8.47
+"2022-02-27",14,"Central Ostrobothnia",-4.23
+"2022-02-27",15,"Finland Proper",-5.22
+"2022-02-27",16,"Ostrobothnia",-1.35
+"2022-02-27",17,"Päijänne Tavastia",-9.71
+"2022-02-27",18,"Pirkanmaa",-7.27
+"2022-02-27",19,"Satakunta",-4.2
+"2022-02-27",20,"Southern Ostrobothnia",-4.12
+"2022-02-27",21,"Tavastia Proper",-8.88
+"2022-02-28",1,"North Karelia",-1.43
+"2022-02-28",2,"North Savonia",-1.45
+"2022-02-28",3,"Päijänne Tavastia",-2.19
+"2022-02-28",4,"Southern Savonia",-1.66
+"2022-02-28",5,"Lapland",1.48
+"2022-02-28",6,"Kainuu",-0.94
+"2022-02-28",7,"Northern Ostrobothnia",-0.48
+"2022-02-28",8,"Eastern Uusimaa",-1.22
+"2022-02-28",9,"Kymenlaakso",-1.65
+"2022-02-28",10,"Päijänne Tavastia",-2.03
+"2022-02-28",11,"South Karelia",-1.65
+"2022-02-28",12,"Uusimaa",-1.15
+"2022-02-28",13,"Central Finland",-1.86
+"2022-02-28",14,"Central Ostrobothnia",-1.57
+"2022-02-28",15,"Finland Proper",-1.08
+"2022-02-28",16,"Ostrobothnia",-1.35
+"2022-02-28",17,"Päijänne Tavastia",-2.22
+"2022-02-28",18,"Pirkanmaa",-2.19
+"2022-02-28",19,"Satakunta",-1.33
+"2022-02-28",20,"Southern Ostrobothnia",-1.92
+"2022-02-28",21,"Tavastia Proper",-2.21
+"2022-03-01",1,"North Karelia",-4.66
+"2022-03-01",2,"North Savonia",-3.66
+"2022-03-01",3,"Päijänne Tavastia",-3.42
+"2022-03-01",4,"Southern Savonia",-4.35
+"2022-03-01",5,"Lapland",-3.75
+"2022-03-01",6,"Kainuu",-4
+"2022-03-01",7,"Northern Ostrobothnia",-2.86
+"2022-03-01",8,"Eastern Uusimaa",-2.05
+"2022-03-01",9,"Kymenlaakso",-3.67
+"2022-03-01",10,"Päijänne Tavastia",-2.89
+"2022-03-01",11,"South Karelia",-4.59
+"2022-03-01",12,"Uusimaa",-1.15
+"2022-03-01",13,"Central Finland",-2.56
+"2022-03-01",14,"Central Ostrobothnia",-1.03
+"2022-03-01",15,"Finland Proper",-0.66
+"2022-03-01",16,"Ostrobothnia",0.14
+"2022-03-01",17,"Päijänne Tavastia",-2.87
+"2022-03-01",18,"Pirkanmaa",-1.67
+"2022-03-01",19,"Satakunta",-0.62
+"2022-03-01",20,"Southern Ostrobothnia",-0.54
+"2022-03-01",21,"Tavastia Proper",-2.23
+"2022-03-02",1,"North Karelia",-0.98
+"2022-03-02",2,"North Savonia",-0.98
+"2022-03-02",3,"Päijänne Tavastia",-0.11
+"2022-03-02",4,"Southern Savonia",-0.73
+"2022-03-02",5,"Lapland",-2.48
+"2022-03-02",6,"Kainuu",-0.7
+"2022-03-02",7,"Northern Ostrobothnia",-0.45
+"2022-03-02",8,"Eastern Uusimaa",-0.18
+"2022-03-02",9,"Kymenlaakso",-0.94
+"2022-03-02",10,"Päijänne Tavastia",-0.52
+"2022-03-02",11,"South Karelia",-1.3
+"2022-03-02",12,"Uusimaa",0.4
+"2022-03-02",13,"Central Finland",-0.4
+"2022-03-02",14,"Central Ostrobothnia",-0.18
+"2022-03-02",15,"Finland Proper",0.25
+"2022-03-02",16,"Ostrobothnia",0.17
+"2022-03-02",17,"Päijänne Tavastia",-0.16
+"2022-03-02",18,"Pirkanmaa",-0.04
+"2022-03-02",19,"Satakunta",-0.08
+"2022-03-02",20,"Southern Ostrobothnia",-0.22
+"2022-03-02",21,"Tavastia Proper",-0.03
+"2022-03-03",1,"North Karelia",-0.6
+"2022-03-03",2,"North Savonia",-0.22
+"2022-03-03",3,"Päijänne Tavastia",-2.7
+"2022-03-03",4,"Southern Savonia",-1.88
+"2022-03-03",5,"Lapland",-1.99
+"2022-03-03",6,"Kainuu",-0.18
+"2022-03-03",7,"Northern Ostrobothnia",-0.5
+"2022-03-03",8,"Eastern Uusimaa",-2.44
+"2022-03-03",9,"Kymenlaakso",-2.73
+"2022-03-03",10,"Päijänne Tavastia",-2.93
+"2022-03-03",11,"South Karelia",-2.27
+"2022-03-03",12,"Uusimaa",-2.31
+"2022-03-03",13,"Central Finland",-0.67
+"2022-03-03",14,"Central Ostrobothnia",0.47
+"2022-03-03",15,"Finland Proper",-1.04
+"2022-03-03",16,"Ostrobothnia",0.88
+"2022-03-03",17,"Päijänne Tavastia",-2.87
+"2022-03-03",18,"Pirkanmaa",-1.53
+"2022-03-03",19,"Satakunta",-0.75
+"2022-03-03",20,"Southern Ostrobothnia",-0.17
+"2022-03-03",21,"Tavastia Proper",-2.72
+"2022-03-04",1,"North Karelia",-4.38
+"2022-03-04",2,"North Savonia",-7.47
+"2022-03-04",3,"Päijänne Tavastia",-6.21
+"2022-03-04",4,"Southern Savonia",-4.83
+"2022-03-04",5,"Lapland",-10.95
+"2022-03-04",6,"Kainuu",-9.26
+"2022-03-04",7,"Northern Ostrobothnia",-10.53
+"2022-03-04",8,"Eastern Uusimaa",-4.05
+"2022-03-04",9,"Kymenlaakso",-4.21
+"2022-03-04",10,"Päijänne Tavastia",-4.88
+"2022-03-04",11,"South Karelia",-3.3
+"2022-03-04",12,"Uusimaa",-4.11
+"2022-03-04",13,"Central Finland",-8.46
+"2022-03-04",14,"Central Ostrobothnia",-10.71
+"2022-03-04",15,"Finland Proper",-5.14
+"2022-03-04",16,"Ostrobothnia",-7.48
+"2022-03-04",17,"Päijänne Tavastia",-5.81
+"2022-03-04",18,"Pirkanmaa",-7.27
+"2022-03-04",19,"Satakunta",-6.48
+"2022-03-04",20,"Southern Ostrobothnia",-9.41
+"2022-03-04",21,"Tavastia Proper",-6.01
+"2022-03-05",1,"North Karelia",-14.22
+"2022-03-05",2,"North Savonia",-14.24
+"2022-03-05",3,"Päijänne Tavastia",-11.06
+"2022-03-05",4,"Southern Savonia",-12.3
+"2022-03-05",5,"Lapland",-9.14
+"2022-03-05",6,"Kainuu",-14.8
+"2022-03-05",7,"Northern Ostrobothnia",-12.01
+"2022-03-05",8,"Eastern Uusimaa",-10.29
+"2022-03-05",9,"Kymenlaakso",-10.93
+"2022-03-05",10,"Päijänne Tavastia",-11.28
+"2022-03-05",11,"South Karelia",-10.94
+"2022-03-05",12,"Uusimaa",-8.27
+"2022-03-05",13,"Central Finland",-12.48
+"2022-03-05",14,"Central Ostrobothnia",-10.26
+"2022-03-05",15,"Finland Proper",-8.11
+"2022-03-05",16,"Ostrobothnia",-7.7
+"2022-03-05",17,"Päijänne Tavastia",-10.71
+"2022-03-05",18,"Pirkanmaa",-10.81
+"2022-03-05",19,"Satakunta",-8.89
+"2022-03-05",20,"Southern Ostrobothnia",-9.69
+"2022-03-05",21,"Tavastia Proper",-10.34
+"2022-03-06",1,"North Karelia",-5.31
+"2022-03-06",2,"North Savonia",-3.43
+"2022-03-06",3,"Päijänne Tavastia",-4.63
+"2022-03-06",4,"Southern Savonia",-4.95
+"2022-03-06",5,"Lapland",-7.71
+"2022-03-06",6,"Kainuu",-3.82
+"2022-03-06",7,"Northern Ostrobothnia",-4.37
+"2022-03-06",8,"Eastern Uusimaa",-3.43
+"2022-03-06",9,"Kymenlaakso",-4.45
+"2022-03-06",10,"Päijänne Tavastia",-4.24
+"2022-03-06",11,"South Karelia",-4.95
+"2022-03-06",12,"Uusimaa",-3.17
+"2022-03-06",13,"Central Finland",-3.4
+"2022-03-06",14,"Central Ostrobothnia",-3.04
+"2022-03-06",15,"Finland Proper",-2.79
+"2022-03-06",16,"Ostrobothnia",-2.07
+"2022-03-06",17,"Päijänne Tavastia",-4.41
+"2022-03-06",18,"Pirkanmaa",-3.55
+"2022-03-06",19,"Satakunta",-2.28
+"2022-03-06",20,"Southern Ostrobothnia",-3.04
+"2022-03-06",21,"Tavastia Proper",-4.13
+"2022-03-07",1,"North Karelia",-6.08
+"2022-03-07",2,"North Savonia",-4.61
+"2022-03-07",3,"Päijänne Tavastia",-1.51
+"2022-03-07",4,"Southern Savonia",-2.5
+"2022-03-07",5,"Lapland",-9.91
+"2022-03-07",6,"Kainuu",-8.16
+"2022-03-07",7,"Northern Ostrobothnia",-7.47
+"2022-03-07",8,"Eastern Uusimaa",-0.97
+"2022-03-07",9,"Kymenlaakso",-1.35
+"2022-03-07",10,"Päijänne Tavastia",-1.26
+"2022-03-07",11,"South Karelia",-1.82
+"2022-03-07",12,"Uusimaa",-0.53
+"2022-03-07",13,"Central Finland",-1.95
+"2022-03-07",14,"Central Ostrobothnia",-4.53
+"2022-03-07",15,"Finland Proper",-0.22
+"2022-03-07",16,"Ostrobothnia",-3.94
+"2022-03-07",17,"Päijänne Tavastia",-1.32
+"2022-03-07",18,"Pirkanmaa",-1.29
+"2022-03-07",19,"Satakunta",-1.32
+"2022-03-07",20,"Southern Ostrobothnia",-2.85
+"2022-03-07",21,"Tavastia Proper",-1
+"2022-03-08",1,"North Karelia",-16.35
+"2022-03-08",2,"North Savonia",-11.34
+"2022-03-08",3,"Päijänne Tavastia",-8.47
+"2022-03-08",4,"Southern Savonia",-11.82
+"2022-03-08",5,"Lapland",-9.16
+"2022-03-08",6,"Kainuu",-12.89
+"2022-03-08",7,"Northern Ostrobothnia",-8.82
+"2022-03-08",8,"Eastern Uusimaa",-6.35
+"2022-03-08",9,"Kymenlaakso",-9.52
+"2022-03-08",10,"Päijänne Tavastia",-7.22
+"2022-03-08",11,"South Karelia",-12.39
+"2022-03-08",12,"Uusimaa",-3.5
+"2022-03-08",13,"Central Finland",-7.73
+"2022-03-08",14,"Central Ostrobothnia",-4.01
+"2022-03-08",15,"Finland Proper",-1.36
+"2022-03-08",16,"Ostrobothnia",-0.96
+"2022-03-08",17,"Päijänne Tavastia",-7.27
+"2022-03-08",18,"Pirkanmaa",-4.07
+"2022-03-08",19,"Satakunta",-1.66
+"2022-03-08",20,"Southern Ostrobothnia",-2.89
+"2022-03-08",21,"Tavastia Proper",-4.86
+"2022-03-09",1,"North Karelia",-9.96
+"2022-03-09",2,"North Savonia",-7.67
+"2022-03-09",3,"Päijänne Tavastia",-5.89
+"2022-03-09",4,"Southern Savonia",-7.12
+"2022-03-09",5,"Lapland",-8.76
+"2022-03-09",6,"Kainuu",-8.85
+"2022-03-09",7,"Northern Ostrobothnia",-8.89
+"2022-03-09",8,"Eastern Uusimaa",-4.91
+"2022-03-09",9,"Kymenlaakso",-6.03
+"2022-03-09",10,"Päijänne Tavastia",-5.4
+"2022-03-09",11,"South Karelia",-7.53
+"2022-03-09",12,"Uusimaa",-2.73
+"2022-03-09",13,"Central Finland",-5.66
+"2022-03-09",14,"Central Ostrobothnia",-4.8
+"2022-03-09",15,"Finland Proper",-0.82
+"2022-03-09",16,"Ostrobothnia",-2.6
+"2022-03-09",17,"Päijänne Tavastia",-5.4
+"2022-03-09",18,"Pirkanmaa",-2.62
+"2022-03-09",19,"Satakunta",-1.2
+"2022-03-09",20,"Southern Ostrobothnia",-2.16
+"2022-03-09",21,"Tavastia Proper",-3.53
+"2022-03-10",1,"North Karelia",-11.14
+"2022-03-10",2,"North Savonia",-8
+"2022-03-10",3,"Päijänne Tavastia",-10.76
+"2022-03-10",4,"Southern Savonia",-11.39
+"2022-03-10",5,"Lapland",-5.83
+"2022-03-10",6,"Kainuu",-7.76
+"2022-03-10",7,"Northern Ostrobothnia",-6.22
+"2022-03-10",8,"Eastern Uusimaa",-9.29
+"2022-03-10",9,"Kymenlaakso",-11.41
+"2022-03-10",10,"Päijänne Tavastia",-10.81
+"2022-03-10",11,"South Karelia",-12.14
+"2022-03-10",12,"Uusimaa",-7.12
+"2022-03-10",13,"Central Finland",-6.97
+"2022-03-10",14,"Central Ostrobothnia",-4.55
+"2022-03-10",15,"Finland Proper",-4.78
+"2022-03-10",16,"Ostrobothnia",-2.42
+"2022-03-10",17,"Päijänne Tavastia",-10.58
+"2022-03-10",18,"Pirkanmaa",-6.86
+"2022-03-10",19,"Satakunta",-3.95
+"2022-03-10",20,"Southern Ostrobothnia",-4.24
+"2022-03-10",21,"Tavastia Proper",-9.31
+"2022-03-11",1,"North Karelia",-0.79
+"2022-03-11",2,"North Savonia",0.22
+"2022-03-11",3,"Päijänne Tavastia",-0.22
+"2022-03-11",4,"Southern Savonia",-0.42
+"2022-03-11",5,"Lapland",-2.35
+"2022-03-11",6,"Kainuu",-0.93
+"2022-03-11",7,"Northern Ostrobothnia",-1.15
+"2022-03-11",8,"Eastern Uusimaa",-1.16
+"2022-03-11",9,"Kymenlaakso",-1.63
+"2022-03-11",10,"Päijänne Tavastia",-0.81
+"2022-03-11",11,"South Karelia",-1.81
+"2022-03-11",12,"Uusimaa",-0.37
+"2022-03-11",13,"Central Finland",0.39
+"2022-03-11",14,"Central Ostrobothnia",0.03
+"2022-03-11",15,"Finland Proper",-0.17
+"2022-03-11",16,"Ostrobothnia",0.36
+"2022-03-11",17,"Päijänne Tavastia",-0.32
+"2022-03-11",18,"Pirkanmaa",0.23
+"2022-03-11",19,"Satakunta",0.32
+"2022-03-11",20,"Southern Ostrobothnia",0.5
+"2022-03-11",21,"Tavastia Proper",-0.38
+"2022-03-12",1,"North Karelia",-2.85
+"2022-03-12",2,"North Savonia",-2.85
+"2022-03-12",3,"Päijänne Tavastia",-2.16
+"2022-03-12",4,"Southern Savonia",-1.86
+"2022-03-12",5,"Lapland",-1.49
+"2022-03-12",6,"Kainuu",-4.08
+"2022-03-12",7,"Northern Ostrobothnia",-3.4
+"2022-03-12",8,"Eastern Uusimaa",-1.42
+"2022-03-12",9,"Kymenlaakso",-1.46
+"2022-03-12",10,"Päijänne Tavastia",-1.47
+"2022-03-12",11,"South Karelia",-1.55
+"2022-03-12",12,"Uusimaa",-2.28
+"2022-03-12",13,"Central Finland",-2.7
+"2022-03-12",14,"Central Ostrobothnia",-3
+"2022-03-12",15,"Finland Proper",-2.62
+"2022-03-12",16,"Ostrobothnia",-3.02
+"2022-03-12",17,"Päijänne Tavastia",-1.9
+"2022-03-12",18,"Pirkanmaa",-3.8
+"2022-03-12",19,"Satakunta",-3.93
+"2022-03-12",20,"Southern Ostrobothnia",-3.68
+"2022-03-12",21,"Tavastia Proper",-2.88
+"2022-03-13",1,"North Karelia",-3.64
+"2022-03-13",2,"North Savonia",-5.71
+"2022-03-13",3,"Päijänne Tavastia",-4.35
+"2022-03-13",4,"Southern Savonia",-3.66
+"2022-03-13",5,"Lapland",-4.56
+"2022-03-13",6,"Kainuu",-5.98
+"2022-03-13",7,"Northern Ostrobothnia",-5.8
+"2022-03-13",8,"Eastern Uusimaa",-4.13
+"2022-03-13",9,"Kymenlaakso",-3.76
+"2022-03-13",10,"Päijänne Tavastia",-3.73
+"2022-03-13",11,"South Karelia",-2.91
+"2022-03-13",12,"Uusimaa",-4.65
+"2022-03-13",13,"Central Finland",-5.57
+"2022-03-13",14,"Central Ostrobothnia",-4.78
+"2022-03-13",15,"Finland Proper",-4.98
+"2022-03-13",16,"Ostrobothnia",-4.09
+"2022-03-13",17,"Päijänne Tavastia",-4.08
+"2022-03-13",18,"Pirkanmaa",-5.98
+"2022-03-13",19,"Satakunta",-5.39
+"2022-03-13",20,"Southern Ostrobothnia",-5.23
+"2022-03-13",21,"Tavastia Proper",-5.92
+"2022-03-14",1,"North Karelia",-6.49
+"2022-03-14",2,"North Savonia",-8.74
+"2022-03-14",3,"Päijänne Tavastia",-6.19
+"2022-03-14",4,"Southern Savonia",-6.76
+"2022-03-14",5,"Lapland",-9.47
+"2022-03-14",6,"Kainuu",-7.4
+"2022-03-14",7,"Northern Ostrobothnia",-7.17
+"2022-03-14",8,"Eastern Uusimaa",-3.14
+"2022-03-14",9,"Kymenlaakso",-4.82
+"2022-03-14",10,"Päijänne Tavastia",-3.63
+"2022-03-14",11,"South Karelia",-5.37
+"2022-03-14",12,"Uusimaa",-2.89
+"2022-03-14",13,"Central Finland",-7.25
+"2022-03-14",14,"Central Ostrobothnia",-5.38
+"2022-03-14",15,"Finland Proper",-4.76
+"2022-03-14",16,"Ostrobothnia",-3.32
+"2022-03-14",17,"Päijänne Tavastia",-4.37
+"2022-03-14",18,"Pirkanmaa",-5.16
+"2022-03-14",19,"Satakunta",-4.56
+"2022-03-14",20,"Southern Ostrobothnia",-4.26
+"2022-03-14",21,"Tavastia Proper",-3.96
+"2022-03-15",1,"North Karelia",-6.86
+"2022-03-15",2,"North Savonia",-7.41
+"2022-03-15",3,"Päijänne Tavastia",-4.79
+"2022-03-15",4,"Southern Savonia",-5.68
+"2022-03-15",5,"Lapland",-9.04
+"2022-03-15",6,"Kainuu",-8.61
+"2022-03-15",7,"Northern Ostrobothnia",-7.29
+"2022-03-15",8,"Eastern Uusimaa",-4.85
+"2022-03-15",9,"Kymenlaakso",-4.93
+"2022-03-15",10,"Päijänne Tavastia",-4.25
+"2022-03-15",11,"South Karelia",-4.95
+"2022-03-15",12,"Uusimaa",-3.89
+"2022-03-15",13,"Central Finland",-4.7
+"2022-03-15",14,"Central Ostrobothnia",-3.58
+"2022-03-15",15,"Finland Proper",-3.25
+"2022-03-15",16,"Ostrobothnia",-2.13
+"2022-03-15",17,"Päijänne Tavastia",-4.02
+"2022-03-15",18,"Pirkanmaa",-4.49
+"2022-03-15",19,"Satakunta",-2.84
+"2022-03-15",20,"Southern Ostrobothnia",-3.07
+"2022-03-15",21,"Tavastia Proper",-4.41
+"2022-03-16",1,"North Karelia",-6.26
+"2022-03-16",2,"North Savonia",-6.86
+"2022-03-16",3,"Päijänne Tavastia",-5.84
+"2022-03-16",4,"Southern Savonia",-5.91
+"2022-03-16",5,"Lapland",-9.6
+"2022-03-16",6,"Kainuu",-6.8
+"2022-03-16",7,"Northern Ostrobothnia",-5.71
+"2022-03-16",8,"Eastern Uusimaa",-5.03
+"2022-03-16",9,"Kymenlaakso",-6.64
+"2022-03-16",10,"Päijänne Tavastia",-4.1
+"2022-03-16",11,"South Karelia",-6.88
+"2022-03-16",12,"Uusimaa",-3.8
+"2022-03-16",13,"Central Finland",-5.51
+"2022-03-16",14,"Central Ostrobothnia",-4.02
+"2022-03-16",15,"Finland Proper",-3.52
+"2022-03-16",16,"Ostrobothnia",-3.4
+"2022-03-16",17,"Päijänne Tavastia",-4.6
+"2022-03-16",18,"Pirkanmaa",-4.74
+"2022-03-16",19,"Satakunta",-3.66
+"2022-03-16",20,"Southern Ostrobothnia",-4.04
+"2022-03-16",21,"Tavastia Proper",-4.84
+"2022-03-17",1,"North Karelia",-7.43
+"2022-03-17",2,"North Savonia",-6.17
+"2022-03-17",3,"Päijänne Tavastia",-5.76
+"2022-03-17",4,"Southern Savonia",-6.39
+"2022-03-17",5,"Lapland",-3.62
+"2022-03-17",6,"Kainuu",-5.27
+"2022-03-17",7,"Northern Ostrobothnia",-2.96
+"2022-03-17",8,"Eastern Uusimaa",-5.4
+"2022-03-17",9,"Kymenlaakso",-6.92
+"2022-03-17",10,"Päijänne Tavastia",-6.51
+"2022-03-17",11,"South Karelia",-6.86
+"2022-03-17",12,"Uusimaa",-3.31
+"2022-03-17",13,"Central Finland",-4.91
+"2022-03-17",14,"Central Ostrobothnia",-2.49
+"2022-03-17",15,"Finland Proper",-2.46
+"2022-03-17",16,"Ostrobothnia",-1.86
+"2022-03-17",17,"Päijänne Tavastia",-5.14
+"2022-03-17",18,"Pirkanmaa",-3.86
+"2022-03-17",19,"Satakunta",-3.17
+"2022-03-17",20,"Southern Ostrobothnia",-2.95
+"2022-03-17",21,"Tavastia Proper",-3.88
+"2022-03-18",1,"North Karelia",-5.2
+"2022-03-18",2,"North Savonia",-2.63
+"2022-03-18",3,"Päijänne Tavastia",-2.84
+"2022-03-18",4,"Southern Savonia",-4.42
+"2022-03-18",5,"Lapland",0.29
+"2022-03-18",6,"Kainuu",-2.74
+"2022-03-18",7,"Northern Ostrobothnia",-0.3
+"2022-03-18",8,"Eastern Uusimaa",-2.13
+"2022-03-18",9,"Kymenlaakso",-3.54
+"2022-03-18",10,"Päijänne Tavastia",-2.82
+"2022-03-18",11,"South Karelia",-4.76
+"2022-03-18",12,"Uusimaa",-1.04
+"2022-03-18",13,"Central Finland",-1.52
+"2022-03-18",14,"Central Ostrobothnia",0.57
+"2022-03-18",15,"Finland Proper",-0.12
+"2022-03-18",16,"Ostrobothnia",0.85
+"2022-03-18",17,"Päijänne Tavastia",-2.51
+"2022-03-18",18,"Pirkanmaa",-1.54
+"2022-03-18",19,"Satakunta",-0.55
+"2022-03-18",20,"Southern Ostrobothnia",-0.1
+"2022-03-18",21,"Tavastia Proper",-1.88
+"2022-03-19",1,"North Karelia",0.85
+"2022-03-19",2,"North Savonia",0.02
+"2022-03-19",3,"Päijänne Tavastia",1.73
+"2022-03-19",4,"Southern Savonia",1.5
+"2022-03-19",5,"Lapland",-2.39
+"2022-03-19",6,"Kainuu",-1.55
+"2022-03-19",7,"Northern Ostrobothnia",-2.85
+"2022-03-19",8,"Eastern Uusimaa",1.38
+"2022-03-19",9,"Kymenlaakso",1.25
+"2022-03-19",10,"Päijänne Tavastia",1.59
+"2022-03-19",11,"South Karelia",1.04
+"2022-03-19",12,"Uusimaa",1.47
+"2022-03-19",13,"Central Finland",-0.1
+"2022-03-19",14,"Central Ostrobothnia",-2.35
+"2022-03-19",15,"Finland Proper",0.81
+"2022-03-19",16,"Ostrobothnia",-1.75
+"2022-03-19",17,"Päijänne Tavastia",1.74
+"2022-03-19",18,"Pirkanmaa",0.06
+"2022-03-19",19,"Satakunta",-0.59
+"2022-03-19",20,"Southern Ostrobothnia",-1.88
+"2022-03-19",21,"Tavastia Proper",1.62
+"2022-03-20",1,"North Karelia",1.68
+"2022-03-20",2,"North Savonia",2.5
+"2022-03-20",3,"Päijänne Tavastia",0.71
+"2022-03-20",4,"Southern Savonia",0.97
+"2022-03-20",5,"Lapland",3.03
+"2022-03-20",6,"Kainuu",3.3
+"2022-03-20",7,"Northern Ostrobothnia",4.05
+"2022-03-20",8,"Eastern Uusimaa",-0.23
+"2022-03-20",9,"Kymenlaakso",-0.22
+"2022-03-20",10,"Päijänne Tavastia",-0.18
+"2022-03-20",11,"South Karelia",0.18
+"2022-03-20",12,"Uusimaa",0.05
+"2022-03-20",13,"Central Finland",2.44
+"2022-03-20",14,"Central Ostrobothnia",2.73
+"2022-03-20",15,"Finland Proper",0.29
+"2022-03-20",16,"Ostrobothnia",2.94
+"2022-03-20",17,"Päijänne Tavastia",0.32
+"2022-03-20",18,"Pirkanmaa",1.4
+"2022-03-20",19,"Satakunta",1.97
+"2022-03-20",20,"Southern Ostrobothnia",2.42
+"2022-03-20",21,"Tavastia Proper",-0.29
+"2022-03-21",1,"North Karelia",0.52
+"2022-03-21",2,"North Savonia",-0.06
+"2022-03-21",3,"Päijänne Tavastia",-0.65
+"2022-03-21",4,"Southern Savonia",-0.02
+"2022-03-21",5,"Lapland",2.61
+"2022-03-21",6,"Kainuu",-0.19
+"2022-03-21",7,"Northern Ostrobothnia",-0.03
+"2022-03-21",8,"Eastern Uusimaa",-1.09
+"2022-03-21",9,"Kymenlaakso",-0.3
+"2022-03-21",10,"Päijänne Tavastia",-0.26
+"2022-03-21",11,"South Karelia",0.01
+"2022-03-21",12,"Uusimaa",-1
+"2022-03-21",13,"Central Finland",-0.16
+"2022-03-21",14,"Central Ostrobothnia",0.17
+"2022-03-21",15,"Finland Proper",-0.86
+"2022-03-21",16,"Ostrobothnia",0.45
+"2022-03-21",17,"Päijänne Tavastia",-0.28
+"2022-03-21",18,"Pirkanmaa",-1.11
+"2022-03-21",19,"Satakunta",-0.83
+"2022-03-21",20,"Southern Ostrobothnia",-0.03
+"2022-03-21",21,"Tavastia Proper",-1.31
+"2022-03-22",1,"North Karelia",0.03
+"2022-03-22",2,"North Savonia",-0.8
+"2022-03-22",3,"Päijänne Tavastia",-0.63
+"2022-03-22",4,"Southern Savonia",-0.38
+"2022-03-22",5,"Lapland",-1.56
+"2022-03-22",6,"Kainuu",-1.09
+"2022-03-22",7,"Northern Ostrobothnia",-1.57
+"2022-03-22",8,"Eastern Uusimaa",-0.86
+"2022-03-22",9,"Kymenlaakso",-0.49
+"2022-03-22",10,"Päijänne Tavastia",-0.78
+"2022-03-22",11,"South Karelia",-0.14
+"2022-03-22",12,"Uusimaa",-0.95
+"2022-03-22",13,"Central Finland",-1.28
+"2022-03-22",14,"Central Ostrobothnia",-2.05
+"2022-03-22",15,"Finland Proper",-0.81
+"2022-03-22",16,"Ostrobothnia",-1.57
+"2022-03-22",17,"Päijänne Tavastia",-0.65
+"2022-03-22",18,"Pirkanmaa",-1.55
+"2022-03-22",19,"Satakunta",-0.6
+"2022-03-22",20,"Southern Ostrobothnia",-2.03
+"2022-03-22",21,"Tavastia Proper",-1.45
+"2022-03-23",1,"North Karelia",-2.83
+"2022-03-23",2,"North Savonia",-2.78
+"2022-03-23",3,"Päijänne Tavastia",-2.54
+"2022-03-23",4,"Southern Savonia",-2.76
+"2022-03-23",5,"Lapland",-1.65
+"2022-03-23",6,"Kainuu",-2.95
+"2022-03-23",7,"Northern Ostrobothnia",-3.29
+"2022-03-23",8,"Eastern Uusimaa",-0.94
+"2022-03-23",9,"Kymenlaakso",-1.94
+"2022-03-23",10,"Päijänne Tavastia",-2.06
+"2022-03-23",11,"South Karelia",-2.65
+"2022-03-23",12,"Uusimaa",-0.59
+"2022-03-23",13,"Central Finland",-2.64
+"2022-03-23",14,"Central Ostrobothnia",-2.87
+"2022-03-23",15,"Finland Proper",-0.32
+"2022-03-23",16,"Ostrobothnia",-2.26
+"2022-03-23",17,"Päijänne Tavastia",-2.32
+"2022-03-23",18,"Pirkanmaa",-2.74
+"2022-03-23",19,"Satakunta",-1.5
+"2022-03-23",20,"Southern Ostrobothnia",-2.62
+"2022-03-23",21,"Tavastia Proper",-2.24
+"2022-03-24",1,"North Karelia",-0.48
+"2022-03-24",2,"North Savonia",1.03
+"2022-03-24",3,"Päijänne Tavastia",-0.77
+"2022-03-24",4,"Southern Savonia",-0.67
+"2022-03-24",5,"Lapland",-0.72
+"2022-03-24",6,"Kainuu",1.87
+"2022-03-24",7,"Northern Ostrobothnia",2.73
+"2022-03-24",8,"Eastern Uusimaa",-1.57
+"2022-03-24",9,"Kymenlaakso",-1.82
+"2022-03-24",10,"Päijänne Tavastia",-1.55
+"2022-03-24",11,"South Karelia",-1.61
+"2022-03-24",12,"Uusimaa",-1.16
+"2022-03-24",13,"Central Finland",1
+"2022-03-24",14,"Central Ostrobothnia",2.66
+"2022-03-24",15,"Finland Proper",-0.08
+"2022-03-24",16,"Ostrobothnia",3
+"2022-03-24",17,"Päijänne Tavastia",-0.96
+"2022-03-24",18,"Pirkanmaa",-0.02
+"2022-03-24",19,"Satakunta",0.92
+"2022-03-24",20,"Southern Ostrobothnia",1.86
+"2022-03-24",21,"Tavastia Proper",-1.08
+"2022-03-25",1,"North Karelia",-3.74
+"2022-03-25",2,"North Savonia",-1.58
+"2022-03-25",3,"Päijänne Tavastia",2.02
+"2022-03-25",4,"Southern Savonia",0.66
+"2022-03-25",5,"Lapland",-5.3
+"2022-03-25",6,"Kainuu",-4.91
+"2022-03-25",7,"Northern Ostrobothnia",-3.49
+"2022-03-25",8,"Eastern Uusimaa",1.66
+"2022-03-25",9,"Kymenlaakso",1.77
+"2022-03-25",10,"Päijänne Tavastia",1.76
+"2022-03-25",11,"South Karelia",1
+"2022-03-25",12,"Uusimaa",2.43
+"2022-03-25",13,"Central Finland",0.81
+"2022-03-25",14,"Central Ostrobothnia",0.05
+"2022-03-25",15,"Finland Proper",2.5
+"2022-03-25",16,"Ostrobothnia",0.58
+"2022-03-25",17,"Päijänne Tavastia",1.97
+"2022-03-25",18,"Pirkanmaa",1.97
+"2022-03-25",19,"Satakunta",1.83
+"2022-03-25",20,"Southern Ostrobothnia",1.12
+"2022-03-25",21,"Tavastia Proper",2.33
+"2022-03-26",1,"North Karelia",0.05
+"2022-03-26",2,"North Savonia",0
+"2022-03-26",3,"Päijänne Tavastia",2.17
+"2022-03-26",4,"Southern Savonia",1.74
+"2022-03-26",5,"Lapland",-6.52
+"2022-03-26",6,"Kainuu",-3.78
+"2022-03-26",7,"Northern Ostrobothnia",-3.37
+"2022-03-26",8,"Eastern Uusimaa",3.12
+"2022-03-26",9,"Kymenlaakso",2.71
+"2022-03-26",10,"Päijänne Tavastia",2.82
+"2022-03-26",11,"South Karelia",2.38
+"2022-03-26",12,"Uusimaa",3.08
+"2022-03-26",13,"Central Finland",0.99
+"2022-03-26",14,"Central Ostrobothnia",-0.71
+"2022-03-26",15,"Finland Proper",3.23
+"2022-03-26",16,"Ostrobothnia",1.45
+"2022-03-26",17,"Päijänne Tavastia",2.33
+"2022-03-26",18,"Pirkanmaa",1.79
+"2022-03-26",19,"Satakunta",2.1
+"2022-03-26",20,"Southern Ostrobothnia",1.1
+"2022-03-26",21,"Tavastia Proper",2.41
+"2022-03-27",1,"North Karelia",-7.81
+"2022-03-27",2,"North Savonia",-7.83
+"2022-03-27",3,"Päijänne Tavastia",-5.19
+"2022-03-27",4,"Southern Savonia",-6.12
+"2022-03-27",5,"Lapland",-11.64
+"2022-03-27",6,"Kainuu",-10.16
+"2022-03-27",7,"Northern Ostrobothnia",-9.83
+"2022-03-27",8,"Eastern Uusimaa",-3.56
+"2022-03-27",9,"Kymenlaakso",-4.32
+"2022-03-27",10,"Päijänne Tavastia",-4.12
+"2022-03-27",11,"South Karelia",-5.2
+"2022-03-27",12,"Uusimaa",-3.77
+"2022-03-27",13,"Central Finland",-6.84
+"2022-03-27",14,"Central Ostrobothnia",-8.43
+"2022-03-27",15,"Finland Proper",-3.21
+"2022-03-27",16,"Ostrobothnia",-6.23
+"2022-03-27",17,"Päijänne Tavastia",-4.74
+"2022-03-27",18,"Pirkanmaa",-5.51
+"2022-03-27",19,"Satakunta",-4.01
+"2022-03-27",20,"Southern Ostrobothnia",-7.61
+"2022-03-27",21,"Tavastia Proper",-4.98
+"2022-03-28",1,"North Karelia",-7.72
+"2022-03-28",2,"North Savonia",-6.16
+"2022-03-28",3,"Päijänne Tavastia",-3.6
+"2022-03-28",4,"Southern Savonia",-5.19
+"2022-03-28",5,"Lapland",-13.05
+"2022-03-28",6,"Kainuu",-9.54
+"2022-03-28",7,"Northern Ostrobothnia",-8.21
+"2022-03-28",8,"Eastern Uusimaa",-0.18
+"2022-03-28",9,"Kymenlaakso",-2.79
+"2022-03-28",10,"Päijänne Tavastia",-1.54
+"2022-03-28",11,"South Karelia",-4.64
+"2022-03-28",12,"Uusimaa",1.71
+"2022-03-28",13,"Central Finland",-4.53
+"2022-03-28",14,"Central Ostrobothnia",-4.04
+"2022-03-28",15,"Finland Proper",4.22
+"2022-03-28",16,"Ostrobothnia",2.67
+"2022-03-28",17,"Päijänne Tavastia",-2.06
+"2022-03-28",18,"Pirkanmaa",1.54
+"2022-03-28",19,"Satakunta",3.91
+"2022-03-28",20,"Southern Ostrobothnia",1.37
+"2022-03-28",21,"Tavastia Proper",1.24
+"2022-03-29",1,"North Karelia",-13.22
+"2022-03-29",2,"North Savonia",-13.35
+"2022-03-29",3,"Päijänne Tavastia",-7.55
+"2022-03-29",4,"Southern Savonia",-10.4
+"2022-03-29",5,"Lapland",-10.4
+"2022-03-29",6,"Kainuu",-15.05
+"2022-03-29",7,"Northern Ostrobothnia",-13.44
+"2022-03-29",8,"Eastern Uusimaa",-4.16
+"2022-03-29",9,"Kymenlaakso",-6.17
+"2022-03-29",10,"Päijänne Tavastia",-4.91
+"2022-03-29",11,"South Karelia",-8.74
+"2022-03-29",12,"Uusimaa",-3.72
+"2022-03-29",13,"Central Finland",-10.29
+"2022-03-29",14,"Central Ostrobothnia",-12.3
+"2022-03-29",15,"Finland Proper",-2.98
+"2022-03-29",16,"Ostrobothnia",-8.14
+"2022-03-29",17,"Päijänne Tavastia",-5.95
+"2022-03-29",18,"Pirkanmaa",-6.17
+"2022-03-29",19,"Satakunta",-4.63
+"2022-03-29",20,"Southern Ostrobothnia",-9.42
+"2022-03-29",21,"Tavastia Proper",-5.36
+"2022-03-30",1,"North Karelia",-8.69
+"2022-03-30",2,"North Savonia",-6.63
+"2022-03-30",3,"Päijänne Tavastia",-6.3
+"2022-03-30",4,"Southern Savonia",-7.35
+"2022-03-30",5,"Lapland",-5.75
+"2022-03-30",6,"Kainuu",-7.19
+"2022-03-30",7,"Northern Ostrobothnia",-5.64
+"2022-03-30",8,"Eastern Uusimaa",-6.68
+"2022-03-30",9,"Kymenlaakso",-6.98
+"2022-03-30",10,"Päijänne Tavastia",-7.18
+"2022-03-30",11,"South Karelia",-7.82
+"2022-03-30",12,"Uusimaa",-6.37
+"2022-03-30",13,"Central Finland",-6.07
+"2022-03-30",14,"Central Ostrobothnia",-5.34
+"2022-03-30",15,"Finland Proper",-4.07
+"2022-03-30",16,"Ostrobothnia",-3.9
+"2022-03-30",17,"Päijänne Tavastia",-6.64
+"2022-03-30",18,"Pirkanmaa",-5.98
+"2022-03-30",19,"Satakunta",-4.03
+"2022-03-30",20,"Southern Ostrobothnia",-5.86
+"2022-03-30",21,"Tavastia Proper",-7.23
+"2022-03-31",1,"North Karelia",-10.23
+"2022-03-31",2,"North Savonia",-8.92
+"2022-03-31",3,"Päijänne Tavastia",-6.9
+"2022-03-31",4,"Southern Savonia",-7.51
+"2022-03-31",5,"Lapland",-7.95
+"2022-03-31",6,"Kainuu",-10.69
+"2022-03-31",7,"Northern Ostrobothnia",-8.22
+"2022-03-31",8,"Eastern Uusimaa",-6.95
+"2022-03-31",9,"Kymenlaakso",-7.43
+"2022-03-31",10,"Päijänne Tavastia",-7.85
+"2022-03-31",11,"South Karelia",-7.29
+"2022-03-31",12,"Uusimaa",-6.74
+"2022-03-31",13,"Central Finland",-7.92
+"2022-03-31",14,"Central Ostrobothnia",-8.91
+"2022-03-31",15,"Finland Proper",-5.94
+"2022-03-31",16,"Ostrobothnia",-6.53
+"2022-03-31",17,"Päijänne Tavastia",-7.38
+"2022-03-31",18,"Pirkanmaa",-8.08
+"2022-03-31",19,"Satakunta",-5.8
+"2022-03-31",20,"Southern Ostrobothnia",-8.6
+"2022-03-31",21,"Tavastia Proper",-8.25
+"2022-04-01",1,"North Karelia",-13.98
+"2022-04-01",2,"North Savonia",-13.6
+"2022-04-01",3,"Päijänne Tavastia",-9.55
+"2022-04-01",4,"Southern Savonia",-10.42
+"2022-04-01",5,"Lapland",-10.66
+"2022-04-01",6,"Kainuu",-14.03
+"2022-04-01",7,"Northern Ostrobothnia",-12.22
+"2022-04-01",8,"Eastern Uusimaa",-7.88
+"2022-04-01",9,"Kymenlaakso",-9.78
+"2022-04-01",10,"Päijänne Tavastia",-9.48
+"2022-04-01",11,"South Karelia",-9.5
+"2022-04-01",12,"Uusimaa",-6.85
+"2022-04-01",13,"Central Finland",-11.51
+"2022-04-01",14,"Central Ostrobothnia",-13.24
+"2022-04-01",15,"Finland Proper",-5.42
+"2022-04-01",16,"Ostrobothnia",-10.82
+"2022-04-01",17,"Päijänne Tavastia",-8.75
+"2022-04-01",18,"Pirkanmaa",-9.11
+"2022-04-01",19,"Satakunta",-6.97
+"2022-04-01",20,"Southern Ostrobothnia",-12.31
+"2022-04-01",21,"Tavastia Proper",-8.4
+"2022-04-02",1,"North Karelia",-12.71
+"2022-04-02",2,"North Savonia",-13.28
+"2022-04-02",3,"Päijänne Tavastia",-9.31
+"2022-04-02",4,"Southern Savonia",-10.3
+"2022-04-02",5,"Lapland",-8.49
+"2022-04-02",6,"Kainuu",-11.52
+"2022-04-02",7,"Northern Ostrobothnia",-9.23
+"2022-04-02",8,"Eastern Uusimaa",-6.81
+"2022-04-02",9,"Kymenlaakso",-7.2
+"2022-04-02",10,"Päijänne Tavastia",-8.24
+"2022-04-02",11,"South Karelia",-8.06
+"2022-04-02",12,"Uusimaa",-7.48
+"2022-04-02",13,"Central Finland",-11.11
+"2022-04-02",14,"Central Ostrobothnia",-9.49
+"2022-04-02",15,"Finland Proper",-5.97
+"2022-04-02",16,"Ostrobothnia",-7.72
+"2022-04-02",17,"Päijänne Tavastia",-9.06
+"2022-04-02",18,"Pirkanmaa",-8.85
+"2022-04-02",19,"Satakunta",-6.54
+"2022-04-02",20,"Southern Ostrobothnia",-10.89
+"2022-04-02",21,"Tavastia Proper",-9.93
+"2022-04-03",1,"North Karelia",-7.32
+"2022-04-03",2,"North Savonia",-4.61
+"2022-04-03",3,"Päijänne Tavastia",-4.82
+"2022-04-03",4,"Southern Savonia",-6.05
+"2022-04-03",5,"Lapland",-8.97
+"2022-04-03",6,"Kainuu",-5.5
+"2022-04-03",7,"Northern Ostrobothnia",-6.54
+"2022-04-03",8,"Eastern Uusimaa",-4.99
+"2022-04-03",9,"Kymenlaakso",-6.56
+"2022-04-03",10,"Päijänne Tavastia",-5.79
+"2022-04-03",11,"South Karelia",-7.52
+"2022-04-03",12,"Uusimaa",-3.56
+"2022-04-03",13,"Central Finland",-4.27
+"2022-04-03",14,"Central Ostrobothnia",-5.72
+"2022-04-03",15,"Finland Proper",-2.38
+"2022-04-03",16,"Ostrobothnia",-3.21
+"2022-04-03",17,"Päijänne Tavastia",-4.9
+"2022-04-03",18,"Pirkanmaa",-4.03
+"2022-04-03",19,"Satakunta",-2.32
+"2022-04-03",20,"Southern Ostrobothnia",-4.19
+"2022-04-03",21,"Tavastia Proper",-4.91
+"2022-04-04",1,"North Karelia",-8.44
+"2022-04-04",2,"North Savonia",-9.01
+"2022-04-04",3,"Päijänne Tavastia",-3.71
+"2022-04-04",4,"Southern Savonia",-5.29
+"2022-04-04",5,"Lapland",-10.09
+"2022-04-04",6,"Kainuu",-12.36
+"2022-04-04",7,"Northern Ostrobothnia",-11.79
+"2022-04-04",8,"Eastern Uusimaa",-1.51
+"2022-04-04",9,"Kymenlaakso",-3.1
+"2022-04-04",10,"Päijänne Tavastia",-2.64
+"2022-04-04",11,"South Karelia",-4.66
+"2022-04-04",12,"Uusimaa",-0.51
+"2022-04-04",13,"Central Finland",-6.52
+"2022-04-04",14,"Central Ostrobothnia",-8.3
+"2022-04-04",15,"Finland Proper",0.33
+"2022-04-04",16,"Ostrobothnia",-4.08
+"2022-04-04",17,"Päijänne Tavastia",-3.08
+"2022-04-04",18,"Pirkanmaa",-3.22
+"2022-04-04",19,"Satakunta",-1.18
+"2022-04-04",20,"Southern Ostrobothnia",-4.9
+"2022-04-04",21,"Tavastia Proper",-2.45
+"2022-04-05",1,"North Karelia",-0.92
+"2022-04-05",2,"North Savonia",-1.06
+"2022-04-05",3,"Päijänne Tavastia",0.12
+"2022-04-05",4,"Southern Savonia",-0.18
+"2022-04-05",5,"Lapland",-9.07
+"2022-04-05",6,"Kainuu",-1.73
+"2022-04-05",7,"Northern Ostrobothnia",-3.89
+"2022-04-05",8,"Eastern Uusimaa",0.75
+"2022-04-05",9,"Kymenlaakso",0.48
+"2022-04-05",10,"Päijänne Tavastia",0.45
+"2022-04-05",11,"South Karelia",0.25
+"2022-04-05",12,"Uusimaa",0.48
+"2022-04-05",13,"Central Finland",-1.52
+"2022-04-05",14,"Central Ostrobothnia",-4.49
+"2022-04-05",15,"Finland Proper",0.13
+"2022-04-05",16,"Ostrobothnia",-4.57
+"2022-04-05",17,"Päijänne Tavastia",0.16
+"2022-04-05",18,"Pirkanmaa",-0.99
+"2022-04-05",19,"Satakunta",-1.31
+"2022-04-05",20,"Southern Ostrobothnia",-3.35
+"2022-04-05",21,"Tavastia Proper",0.08
+"2022-04-06",1,"North Karelia",-1.97
+"2022-04-06",2,"North Savonia",-1.99
+"2022-04-06",3,"Päijänne Tavastia",-5.2
+"2022-04-06",4,"Southern Savonia",-4.33
+"2022-04-06",5,"Lapland",-2.36
+"2022-04-06",6,"Kainuu",-0.43
+"2022-04-06",7,"Northern Ostrobothnia",-0.69
+"2022-04-06",8,"Eastern Uusimaa",-4.1
+"2022-04-06",9,"Kymenlaakso",-4.17
+"2022-04-06",10,"Päijänne Tavastia",-5
+"2022-04-06",11,"South Karelia",-4.13
+"2022-04-06",12,"Uusimaa",-4.9
+"2022-04-06",13,"Central Finland",-5.05
+"2022-04-06",14,"Central Ostrobothnia",-5.26
+"2022-04-06",15,"Finland Proper",-5
+"2022-04-06",16,"Ostrobothnia",-4.52
+"2022-04-06",17,"Päijänne Tavastia",-5.34
+"2022-04-06",18,"Pirkanmaa",-5.79
+"2022-04-06",19,"Satakunta",-4.29
+"2022-04-06",20,"Southern Ostrobothnia",-5.4
+"2022-04-06",21,"Tavastia Proper",-6.43
+"2022-04-07",1,"North Karelia",-5.57
+"2022-04-07",2,"North Savonia",-4.12
+"2022-04-07",3,"Päijänne Tavastia",-3.97
+"2022-04-07",4,"Southern Savonia",-3.57
+"2022-04-07",5,"Lapland",-4.45
+"2022-04-07",6,"Kainuu",-8.08
+"2022-04-07",7,"Northern Ostrobothnia",-6.38
+"2022-04-07",8,"Eastern Uusimaa",-1.73
+"2022-04-07",9,"Kymenlaakso",-2.9
+"2022-04-07",10,"Päijänne Tavastia",-3.35
+"2022-04-07",11,"South Karelia",-3.69
+"2022-04-07",12,"Uusimaa",-1.91
+"2022-04-07",13,"Central Finland",-2.96
+"2022-04-07",14,"Central Ostrobothnia",-3.69
+"2022-04-07",15,"Finland Proper",-1.89
+"2022-04-07",16,"Ostrobothnia",-4.65
+"2022-04-07",17,"Päijänne Tavastia",-4.02
+"2022-04-07",18,"Pirkanmaa",-3.78
+"2022-04-07",19,"Satakunta",-2.43
+"2022-04-07",20,"Southern Ostrobothnia",-2.99
+"2022-04-07",21,"Tavastia Proper",-3.98
+"2022-04-08",1,"North Karelia",-0.41
+"2022-04-08",2,"North Savonia",-0.58
+"2022-04-08",3,"Päijänne Tavastia",0.6
+"2022-04-08",4,"Southern Savonia",0.33
+"2022-04-08",5,"Lapland",-6.14
+"2022-04-08",6,"Kainuu",-3.08
+"2022-04-08",7,"Northern Ostrobothnia",-3.98
+"2022-04-08",8,"Eastern Uusimaa",2.46
+"2022-04-08",9,"Kymenlaakso",1.89
+"2022-04-08",10,"Päijänne Tavastia",1.93
+"2022-04-08",11,"South Karelia",1.61
+"2022-04-08",12,"Uusimaa",2.82
+"2022-04-08",13,"Central Finland",-0.51
+"2022-04-08",14,"Central Ostrobothnia",-1.48
+"2022-04-08",15,"Finland Proper",2.7
+"2022-04-08",16,"Ostrobothnia",-1.61
+"2022-04-08",17,"Päijänne Tavastia",1.05
+"2022-04-08",18,"Pirkanmaa",0.01
+"2022-04-08",19,"Satakunta",0.71
+"2022-04-08",20,"Southern Ostrobothnia",-0.93
+"2022-04-08",21,"Tavastia Proper",1.57
+"2022-04-09",1,"North Karelia",2.3
+"2022-04-09",2,"North Savonia",1.46
+"2022-04-09",3,"Päijänne Tavastia",-0.09
+"2022-04-09",4,"Southern Savonia",0.67
+"2022-04-09",5,"Lapland",-0.87
+"2022-04-09",6,"Kainuu",1.89
+"2022-04-09",7,"Northern Ostrobothnia",1.6
+"2022-04-09",8,"Eastern Uusimaa",0.91
+"2022-04-09",9,"Kymenlaakso",0.22
+"2022-04-09",10,"Päijänne Tavastia",0.58
+"2022-04-09",11,"South Karelia",0.28
+"2022-04-09",12,"Uusimaa",0.29
+"2022-04-09",13,"Central Finland",-0.07
+"2022-04-09",14,"Central Ostrobothnia",0.9
+"2022-04-09",15,"Finland Proper",-0.55
+"2022-04-09",16,"Ostrobothnia",0.51
+"2022-04-09",17,"Päijänne Tavastia",0.15
+"2022-04-09",18,"Pirkanmaa",-0.58
+"2022-04-09",19,"Satakunta",-0.62
+"2022-04-09",20,"Southern Ostrobothnia",-0.22
+"2022-04-09",21,"Tavastia Proper",0.01
+"2022-04-10",1,"North Karelia",-0.33
+"2022-04-10",2,"North Savonia",-0.66
+"2022-04-10",3,"Päijänne Tavastia",-0.06
+"2022-04-10",4,"Southern Savonia",-0.46
+"2022-04-10",5,"Lapland",-1.23
+"2022-04-10",6,"Kainuu",-0.5
+"2022-04-10",7,"Northern Ostrobothnia",-0.93
+"2022-04-10",8,"Eastern Uusimaa",0.77
+"2022-04-10",9,"Kymenlaakso",0.08
+"2022-04-10",10,"Päijänne Tavastia",0.39
+"2022-04-10",11,"South Karelia",-0.67
+"2022-04-10",12,"Uusimaa",0.62
+"2022-04-10",13,"Central Finland",-0.51
+"2022-04-10",14,"Central Ostrobothnia",-1.6
+"2022-04-10",15,"Finland Proper",0.01
+"2022-04-10",16,"Ostrobothnia",-2.27
+"2022-04-10",17,"Päijänne Tavastia",0.06
+"2022-04-10",18,"Pirkanmaa",-0.79
+"2022-04-10",19,"Satakunta",-0.88
+"2022-04-10",20,"Southern Ostrobothnia",-1.26
+"2022-04-10",21,"Tavastia Proper",0.03
+"2022-04-11",1,"North Karelia",0.58
+"2022-04-11",2,"North Savonia",0.96
+"2022-04-11",3,"Päijänne Tavastia",1.7
+"2022-04-11",4,"Southern Savonia",1.3
+"2022-04-11",5,"Lapland",-1.37
+"2022-04-11",6,"Kainuu",-0.33
+"2022-04-11",7,"Northern Ostrobothnia",-0.78
+"2022-04-11",8,"Eastern Uusimaa",1.9
+"2022-04-11",9,"Kymenlaakso",1.48
+"2022-04-11",10,"Päijänne Tavastia",1.49
+"2022-04-11",11,"South Karelia",1.12
+"2022-04-11",12,"Uusimaa",2.15
+"2022-04-11",13,"Central Finland",1.63
+"2022-04-11",14,"Central Ostrobothnia",-0.33
+"2022-04-11",15,"Finland Proper",2.8
+"2022-04-11",16,"Ostrobothnia",0.58
+"2022-04-11",17,"Päijänne Tavastia",1.57
+"2022-04-11",18,"Pirkanmaa",2.07
+"2022-04-11",19,"Satakunta",2.98
+"2022-04-11",20,"Southern Ostrobothnia",1.69
+"2022-04-11",21,"Tavastia Proper",1.78
+"2022-04-12",1,"North Karelia",0.75
+"2022-04-12",2,"North Savonia",-0.38
+"2022-04-12",3,"Päijänne Tavastia",0.39
+"2022-04-12",4,"Southern Savonia",0.65
+"2022-04-12",5,"Lapland",-0.87
+"2022-04-12",6,"Kainuu",-1.78
+"2022-04-12",7,"Northern Ostrobothnia",-1.99
+"2022-04-12",8,"Eastern Uusimaa",-0.39
+"2022-04-12",9,"Kymenlaakso",-0.42
+"2022-04-12",10,"Päijänne Tavastia",-0.35
+"2022-04-12",11,"South Karelia",0.56
+"2022-04-12",12,"Uusimaa",-0.07
+"2022-04-12",13,"Central Finland",-0.38
+"2022-04-12",14,"Central Ostrobothnia",-2.3
+"2022-04-12",15,"Finland Proper",0.4
+"2022-04-12",16,"Ostrobothnia",-1.47
+"2022-04-12",17,"Päijänne Tavastia",0.36
+"2022-04-12",18,"Pirkanmaa",-0.09
+"2022-04-12",19,"Satakunta",0.73
+"2022-04-12",20,"Southern Ostrobothnia",-1.16
+"2022-04-12",21,"Tavastia Proper",0.06
+"2022-04-13",1,"North Karelia",-0.77
+"2022-04-13",2,"North Savonia",-0.78
+"2022-04-13",3,"Päijänne Tavastia",-0.76
+"2022-04-13",4,"Southern Savonia",-0.4
+"2022-04-13",5,"Lapland",-3.8
+"2022-04-13",6,"Kainuu",-2.49
+"2022-04-13",7,"Northern Ostrobothnia",-2.84
+"2022-04-13",8,"Eastern Uusimaa",-0.22
+"2022-04-13",9,"Kymenlaakso",-0.66
+"2022-04-13",10,"Päijänne Tavastia",-0.68
+"2022-04-13",11,"South Karelia",-0.54
+"2022-04-13",12,"Uusimaa",-0.79
+"2022-04-13",13,"Central Finland",-1.78
+"2022-04-13",14,"Central Ostrobothnia",-4.02
+"2022-04-13",15,"Finland Proper",-1.58
+"2022-04-13",16,"Ostrobothnia",-3.94
+"2022-04-13",17,"Päijänne Tavastia",-0.86
+"2022-04-13",18,"Pirkanmaa",-2.65
+"2022-04-13",19,"Satakunta",-1.8
+"2022-04-13",20,"Southern Ostrobothnia",-4.82
+"2022-04-13",21,"Tavastia Proper",-1.94
+"2022-04-14",1,"North Karelia",-1.74
+"2022-04-14",2,"North Savonia",-0.27
+"2022-04-14",3,"Päijänne Tavastia",0.16
+"2022-04-14",4,"Southern Savonia",-0.8
+"2022-04-14",5,"Lapland",-3.65
+"2022-04-14",6,"Kainuu",-0.57
+"2022-04-14",7,"Northern Ostrobothnia",0.94
+"2022-04-14",8,"Eastern Uusimaa",0.84
+"2022-04-14",9,"Kymenlaakso",-0.62
+"2022-04-14",10,"Päijänne Tavastia",0.42
+"2022-04-14",11,"South Karelia",-1.92
+"2022-04-14",12,"Uusimaa",1.36
+"2022-04-14",13,"Central Finland",0.76
+"2022-04-14",14,"Central Ostrobothnia",2.19
+"2022-04-14",15,"Finland Proper",1.93
+"2022-04-14",16,"Ostrobothnia",2.58
+"2022-04-14",17,"Päijänne Tavastia",0.56
+"2022-04-14",18,"Pirkanmaa",1.25
+"2022-04-14",19,"Satakunta",1.89
+"2022-04-14",20,"Southern Ostrobothnia",1.81
+"2022-04-14",21,"Tavastia Proper",0.87
+"2022-04-15",1,"North Karelia",0.4
+"2022-04-15",2,"North Savonia",1.04
+"2022-04-15",3,"Päijänne Tavastia",1.37
+"2022-04-15",4,"Southern Savonia",0.91
+"2022-04-15",5,"Lapland",-4.14
+"2022-04-15",6,"Kainuu",-0.52
+"2022-04-15",7,"Northern Ostrobothnia",-1.64
+"2022-04-15",8,"Eastern Uusimaa",1.07
+"2022-04-15",9,"Kymenlaakso",1.11
+"2022-04-15",10,"Päijänne Tavastia",1.39
+"2022-04-15",11,"South Karelia",0.9
+"2022-04-15",12,"Uusimaa",1.57
+"2022-04-15",13,"Central Finland",0.58
+"2022-04-15",14,"Central Ostrobothnia",-1.59
+"2022-04-15",15,"Finland Proper",1.85
+"2022-04-15",16,"Ostrobothnia",-1.82
+"2022-04-15",17,"Päijänne Tavastia",1.48
+"2022-04-15",18,"Pirkanmaa",0.08
+"2022-04-15",19,"Satakunta",-0.35
+"2022-04-15",20,"Southern Ostrobothnia",-1.64
+"2022-04-15",21,"Tavastia Proper",1.49
+"2022-04-16",1,"North Karelia",-3.18
+"2022-04-16",2,"North Savonia",-2.5
+"2022-04-16",3,"Päijänne Tavastia",-1.76
+"2022-04-16",4,"Southern Savonia",-1.95
+"2022-04-16",5,"Lapland",-4.44
+"2022-04-16",6,"Kainuu",-3.44
+"2022-04-16",7,"Northern Ostrobothnia",-3.11
+"2022-04-16",8,"Eastern Uusimaa",-0.11
+"2022-04-16",9,"Kymenlaakso",-0.57
+"2022-04-16",10,"Päijänne Tavastia",-1
+"2022-04-16",11,"South Karelia",-0.39
+"2022-04-16",12,"Uusimaa",-0.14
+"2022-04-16",13,"Central Finland",-1.78
+"2022-04-16",14,"Central Ostrobothnia",-3.12
+"2022-04-16",15,"Finland Proper",0.47
+"2022-04-16",16,"Ostrobothnia",-4.28
+"2022-04-16",17,"Päijänne Tavastia",-1.45
+"2022-04-16",18,"Pirkanmaa",-1.74
+"2022-04-16",19,"Satakunta",-1.38
+"2022-04-16",20,"Southern Ostrobothnia",-4.11
+"2022-04-16",21,"Tavastia Proper",-1.44
+"2022-04-17",1,"North Karelia",-3.08
+"2022-04-17",2,"North Savonia",-2.11
+"2022-04-17",3,"Päijänne Tavastia",-1.67
+"2022-04-17",4,"Southern Savonia",-2.6
+"2022-04-17",5,"Lapland",1.8
+"2022-04-17",6,"Kainuu",-1.57
+"2022-04-17",7,"Northern Ostrobothnia",-1.07
+"2022-04-17",8,"Eastern Uusimaa",-3.14
+"2022-04-17",9,"Kymenlaakso",-3.97
+"2022-04-17",10,"Päijänne Tavastia",-3.54
+"2022-04-17",11,"South Karelia",-3.9
+"2022-04-17",12,"Uusimaa",-0.27
+"2022-04-17",13,"Central Finland",-1.62
+"2022-04-17",14,"Central Ostrobothnia",-1.22
+"2022-04-17",15,"Finland Proper",0.47
+"2022-04-17",16,"Ostrobothnia",-0.34
+"2022-04-17",17,"Päijänne Tavastia",-1.51
+"2022-04-17",18,"Pirkanmaa",-1.4
+"2022-04-17",19,"Satakunta",0.1
+"2022-04-17",20,"Southern Ostrobothnia",-1.22
+"2022-04-17",21,"Tavastia Proper",-1.01
+"2022-04-18",1,"North Karelia",0.17
+"2022-04-18",2,"North Savonia",0.42
+"2022-04-18",3,"Päijänne Tavastia",1.39
+"2022-04-18",4,"Southern Savonia",1.11
+"2022-04-18",5,"Lapland",1.74
+"2022-04-18",6,"Kainuu",0.69
+"2022-04-18",7,"Northern Ostrobothnia",0.72
+"2022-04-18",8,"Eastern Uusimaa",1.2
+"2022-04-18",9,"Kymenlaakso",1.05
+"2022-04-18",10,"Päijänne Tavastia",1.03
+"2022-04-18",11,"South Karelia",0.98
+"2022-04-18",12,"Uusimaa",1.03
+"2022-04-18",13,"Central Finland",0.93
+"2022-04-18",14,"Central Ostrobothnia",0.38
+"2022-04-18",15,"Finland Proper",0.51
+"2022-04-18",16,"Ostrobothnia",0.24
+"2022-04-18",17,"Päijänne Tavastia",1.19
+"2022-04-18",18,"Pirkanmaa",0.26
+"2022-04-18",19,"Satakunta",0.57
+"2022-04-18",20,"Southern Ostrobothnia",-0.02
+"2022-04-18",21,"Tavastia Proper",0.52
+"2022-04-19",1,"North Karelia",-0.62
+"2022-04-19",2,"North Savonia",-1.31
+"2022-04-19",3,"Päijänne Tavastia",-0.77
+"2022-04-19",4,"Southern Savonia",0.11
+"2022-04-19",5,"Lapland",0.88
+"2022-04-19",6,"Kainuu",0.63
+"2022-04-19",7,"Northern Ostrobothnia",0.95
+"2022-04-19",8,"Eastern Uusimaa",1.16
+"2022-04-19",9,"Kymenlaakso",-0.44
+"2022-04-19",10,"Päijänne Tavastia",-0.18
+"2022-04-19",11,"South Karelia",0.2
+"2022-04-19",12,"Uusimaa",1.59
+"2022-04-19",13,"Central Finland",-0.4
+"2022-04-19",14,"Central Ostrobothnia",0.56
+"2022-04-19",15,"Finland Proper",1.14
+"2022-04-19",16,"Ostrobothnia",-0.16
+"2022-04-19",17,"Päijänne Tavastia",-0.83
+"2022-04-19",18,"Pirkanmaa",-0.44
+"2022-04-19",19,"Satakunta",1.18
+"2022-04-19",20,"Southern Ostrobothnia",0.19
+"2022-04-19",21,"Tavastia Proper",-1.11
+"2022-04-20",1,"North Karelia",-0.22
+"2022-04-20",2,"North Savonia",-0.77
+"2022-04-20",3,"Päijänne Tavastia",-1.27
+"2022-04-20",4,"Southern Savonia",0.25
+"2022-04-20",5,"Lapland",0.45
+"2022-04-20",6,"Kainuu",-0.03
+"2022-04-20",7,"Northern Ostrobothnia",-0.26
+"2022-04-20",8,"Eastern Uusimaa",2.16
+"2022-04-20",9,"Kymenlaakso",0.58
+"2022-04-20",10,"Päijänne Tavastia",0.94
+"2022-04-20",11,"South Karelia",0.25
+"2022-04-20",12,"Uusimaa",2.11
+"2022-04-20",13,"Central Finland",-0.08
+"2022-04-20",14,"Central Ostrobothnia",0.17
+"2022-04-20",15,"Finland Proper",3.1
+"2022-04-20",16,"Ostrobothnia",0.37
+"2022-04-20",17,"Päijänne Tavastia",-0.39
+"2022-04-20",18,"Pirkanmaa",0.28
+"2022-04-20",19,"Satakunta",2.23
+"2022-04-20",20,"Southern Ostrobothnia",0.74
+"2022-04-20",21,"Tavastia Proper",-0.47
+"2022-04-21",1,"North Karelia",0.48
+"2022-04-21",2,"North Savonia",1.29
+"2022-04-21",3,"Päijänne Tavastia",1.96
+"2022-04-21",4,"Southern Savonia",1.93
+"2022-04-21",5,"Lapland",-0.66
+"2022-04-21",6,"Kainuu",0.95
+"2022-04-21",7,"Northern Ostrobothnia",1.17
+"2022-04-21",8,"Eastern Uusimaa",4.13
+"2022-04-21",9,"Kymenlaakso",2.99
+"2022-04-21",10,"Päijänne Tavastia",2.77
+"2022-04-21",11,"South Karelia",2.44
+"2022-04-21",12,"Uusimaa",3.79
+"2022-04-21",13,"Central Finland",1.07
+"2022-04-21",14,"Central Ostrobothnia",2.25
+"2022-04-21",15,"Finland Proper",4.72
+"2022-04-21",16,"Ostrobothnia",2.4
+"2022-04-21",17,"Päijänne Tavastia",2.03
+"2022-04-21",18,"Pirkanmaa",1.16
+"2022-04-21",19,"Satakunta",2.5
+"2022-04-21",20,"Southern Ostrobothnia",1.05
+"2022-04-21",21,"Tavastia Proper",2.53
+"2022-04-22",1,"North Karelia",-1.01
+"2022-04-22",2,"North Savonia",-0.28
+"2022-04-22",3,"Päijänne Tavastia",-1.23
+"2022-04-22",4,"Southern Savonia",-0.92
+"2022-04-22",5,"Lapland",0.59
+"2022-04-22",6,"Kainuu",2.7
+"2022-04-22",7,"Northern Ostrobothnia",1.61
+"2022-04-22",8,"Eastern Uusimaa",1.92
+"2022-04-22",9,"Kymenlaakso",0.07
+"2022-04-22",10,"Päijänne Tavastia",0.13
+"2022-04-22",11,"South Karelia",-0.86
+"2022-04-22",12,"Uusimaa",1.86
+"2022-04-22",13,"Central Finland",-0.96
+"2022-04-22",14,"Central Ostrobothnia",2.06
+"2022-04-22",15,"Finland Proper",2.41
+"2022-04-22",16,"Ostrobothnia",3.83
+"2022-04-22",17,"Päijänne Tavastia",-0.7
+"2022-04-22",18,"Pirkanmaa",-0.98
+"2022-04-22",19,"Satakunta",1.41
+"2022-04-22",20,"Southern Ostrobothnia",1.41
+"2022-04-22",21,"Tavastia Proper",-0.13
+"2022-04-23",1,"North Karelia",1.48
+"2022-04-23",2,"North Savonia",2.34
+"2022-04-23",3,"Päijänne Tavastia",3.79
+"2022-04-23",4,"Southern Savonia",3.81
+"2022-04-23",5,"Lapland",0.37
+"2022-04-23",6,"Kainuu",1.92
+"2022-04-23",7,"Northern Ostrobothnia",2.02
+"2022-04-23",8,"Eastern Uusimaa",3.83
+"2022-04-23",9,"Kymenlaakso",3.35
+"2022-04-23",10,"Päijänne Tavastia",3.15
+"2022-04-23",11,"South Karelia",3.35
+"2022-04-23",12,"Uusimaa",3.69
+"2022-04-23",13,"Central Finland",2.77
+"2022-04-23",14,"Central Ostrobothnia",2.83
+"2022-04-23",15,"Finland Proper",5.49
+"2022-04-23",16,"Ostrobothnia",4.24
+"2022-04-23",17,"Päijänne Tavastia",3.13
+"2022-04-23",18,"Pirkanmaa",3.08
+"2022-04-23",19,"Satakunta",4.79
+"2022-04-23",20,"Southern Ostrobothnia",3.85
+"2022-04-23",21,"Tavastia Proper",3.5
+"2022-04-24",1,"North Karelia",-0.21
+"2022-04-24",2,"North Savonia",1.06
+"2022-04-24",3,"Päijänne Tavastia",2.06
+"2022-04-24",4,"Southern Savonia",1.57
+"2022-04-24",5,"Lapland",-0.49
+"2022-04-24",6,"Kainuu",-0.5
+"2022-04-24",7,"Northern Ostrobothnia",-0.3
+"2022-04-24",8,"Eastern Uusimaa",3.15
+"2022-04-24",9,"Kymenlaakso",1.95
+"2022-04-24",10,"Päijänne Tavastia",2.02
+"2022-04-24",11,"South Karelia",0.63
+"2022-04-24",12,"Uusimaa",2.95
+"2022-04-24",13,"Central Finland",2.15
+"2022-04-24",14,"Central Ostrobothnia",2.02
+"2022-04-24",15,"Finland Proper",3.78
+"2022-04-24",16,"Ostrobothnia",3.34
+"2022-04-24",17,"Päijänne Tavastia",1.71
+"2022-04-24",18,"Pirkanmaa",2.03
+"2022-04-24",19,"Satakunta",3.06
+"2022-04-24",20,"Southern Ostrobothnia",3.56
+"2022-04-24",21,"Tavastia Proper",2.41
+"2022-04-25",1,"North Karelia",-2.57
+"2022-04-25",2,"North Savonia",-2.72
+"2022-04-25",3,"Päijänne Tavastia",-0.27
+"2022-04-25",4,"Southern Savonia",-0.51
+"2022-04-25",5,"Lapland",0.26
+"2022-04-25",6,"Kainuu",-2.69
+"2022-04-25",7,"Northern Ostrobothnia",-1.82
+"2022-04-25",8,"Eastern Uusimaa",3.18
+"2022-04-25",9,"Kymenlaakso",2.09
+"2022-04-25",10,"Päijänne Tavastia",1.28
+"2022-04-25",11,"South Karelia",1.32
+"2022-04-25",12,"Uusimaa",2.18
+"2022-04-25",13,"Central Finland",-2.39
+"2022-04-25",14,"Central Ostrobothnia",-1.63
+"2022-04-25",15,"Finland Proper",1.96
+"2022-04-25",16,"Ostrobothnia",0.15
+"2022-04-25",17,"Päijänne Tavastia",-0.12
+"2022-04-25",18,"Pirkanmaa",-1.9
+"2022-04-25",19,"Satakunta",-0.08
+"2022-04-25",20,"Southern Ostrobothnia",-1.83
+"2022-04-25",21,"Tavastia Proper",0.39
+"2022-04-26",1,"North Karelia",-0.16
+"2022-04-26",2,"North Savonia",0.62
+"2022-04-26",3,"Päijänne Tavastia",2.17
+"2022-04-26",4,"Southern Savonia",1.48
+"2022-04-26",5,"Lapland",-2.26
+"2022-04-26",6,"Kainuu",0.34
+"2022-04-26",7,"Northern Ostrobothnia",0.78
+"2022-04-26",8,"Eastern Uusimaa",3.67
+"2022-04-26",9,"Kymenlaakso",2.56
+"2022-04-26",10,"Päijänne Tavastia",2.82
+"2022-04-26",11,"South Karelia",2.02
+"2022-04-26",12,"Uusimaa",3.15
+"2022-04-26",13,"Central Finland",1.74
+"2022-04-26",14,"Central Ostrobothnia",1.83
+"2022-04-26",15,"Finland Proper",3.93
+"2022-04-26",16,"Ostrobothnia",3.44
+"2022-04-26",17,"Päijänne Tavastia",2.53
+"2022-04-26",18,"Pirkanmaa",2.69
+"2022-04-26",19,"Satakunta",3.6
+"2022-04-26",20,"Southern Ostrobothnia",3.24
+"2022-04-26",21,"Tavastia Proper",3.01
+"2022-04-27",1,"North Karelia",-3
+"2022-04-27",2,"North Savonia",-3.75
+"2022-04-27",3,"Päijänne Tavastia",-2.74
+"2022-04-27",4,"Southern Savonia",-1.95
+"2022-04-27",5,"Lapland",-9.54
+"2022-04-27",6,"Kainuu",-5.17
+"2022-04-27",7,"Northern Ostrobothnia",-5.64
+"2022-04-27",8,"Eastern Uusimaa",-0.49
+"2022-04-27",9,"Kymenlaakso",-1.08
+"2022-04-27",10,"Päijänne Tavastia",-1.71
+"2022-04-27",11,"South Karelia",-1.19
+"2022-04-27",12,"Uusimaa",-0.34
+"2022-04-27",13,"Central Finland",-4.3
+"2022-04-27",14,"Central Ostrobothnia",-3.73
+"2022-04-27",15,"Finland Proper",-0.31
+"2022-04-27",16,"Ostrobothnia",-1.74
+"2022-04-27",17,"Päijänne Tavastia",-2.74
+"2022-04-27",18,"Pirkanmaa",-3.64
+"2022-04-27",19,"Satakunta",-1.98
+"2022-04-27",20,"Southern Ostrobothnia",-3.16
+"2022-04-27",21,"Tavastia Proper",-2.51
+"2022-04-28",1,"North Karelia",-4.04
+"2022-04-28",2,"North Savonia",-4.5
+"2022-04-28",3,"Päijänne Tavastia",-3.33
+"2022-04-28",4,"Southern Savonia",-3.18
+"2022-04-28",5,"Lapland",-5.1
+"2022-04-28",6,"Kainuu",-5.57
+"2022-04-28",7,"Northern Ostrobothnia",-4.35
+"2022-04-28",8,"Eastern Uusimaa",-0.97
+"2022-04-28",9,"Kymenlaakso",-1.45
+"2022-04-28",10,"Päijänne Tavastia",-1.65
+"2022-04-28",11,"South Karelia",-2.5
+"2022-04-28",12,"Uusimaa",-2.05
+"2022-04-28",13,"Central Finland",-4.54
+"2022-04-28",14,"Central Ostrobothnia",-2.67
+"2022-04-28",15,"Finland Proper",-2.05
+"2022-04-28",16,"Ostrobothnia",-0.75
+"2022-04-28",17,"Päijänne Tavastia",-2.35
+"2022-04-28",18,"Pirkanmaa",-3.7
+"2022-04-28",19,"Satakunta",-1.93
+"2022-04-28",20,"Southern Ostrobothnia",-2.42
+"2022-04-28",21,"Tavastia Proper",-2.79
+"2022-04-29",1,"North Karelia",-1.82
+"2022-04-29",2,"North Savonia",-3.63
+"2022-04-29",3,"Päijänne Tavastia",-1.11
+"2022-04-29",4,"Southern Savonia",-0.59
+"2022-04-29",5,"Lapland",-6.37
+"2022-04-29",6,"Kainuu",-5.45
+"2022-04-29",7,"Northern Ostrobothnia",-5.4
+"2022-04-29",8,"Eastern Uusimaa",1.08
+"2022-04-29",9,"Kymenlaakso",0.61
+"2022-04-29",10,"Päijänne Tavastia",0.25
+"2022-04-29",11,"South Karelia",0.28
+"2022-04-29",12,"Uusimaa",0.38
+"2022-04-29",13,"Central Finland",-3.67
+"2022-04-29",14,"Central Ostrobothnia",-4.41
+"2022-04-29",15,"Finland Proper",-0.08
+"2022-04-29",16,"Ostrobothnia",-1.93
+"2022-04-29",17,"Päijänne Tavastia",-0.8
+"2022-04-29",18,"Pirkanmaa",-2.56
+"2022-04-29",19,"Satakunta",-1.33
+"2022-04-29",20,"Southern Ostrobothnia",-3.66
+"2022-04-29",21,"Tavastia Proper",-1.1
+"2022-04-30",1,"North Karelia",-4.1
+"2022-04-30",2,"North Savonia",-4.8
+"2022-04-30",3,"Päijänne Tavastia",-2.79
+"2022-04-30",4,"Southern Savonia",-3.27
+"2022-04-30",5,"Lapland",-4.52
+"2022-04-30",6,"Kainuu",-4.78
+"2022-04-30",7,"Northern Ostrobothnia",-2.86
+"2022-04-30",8,"Eastern Uusimaa",-1.08
+"2022-04-30",9,"Kymenlaakso",-1.69
+"2022-04-30",10,"Päijänne Tavastia",-2
+"2022-04-30",11,"South Karelia",-2.22
+"2022-04-30",12,"Uusimaa",-1.57
+"2022-04-30",13,"Central Finland",-3.84
+"2022-04-30",14,"Central Ostrobothnia",-0.85
+"2022-04-30",15,"Finland Proper",-1.92
+"2022-04-30",16,"Ostrobothnia",1.29
+"2022-04-30",17,"Päijänne Tavastia",-2.21
+"2022-04-30",18,"Pirkanmaa",-2.56
+"2022-04-30",19,"Satakunta",-0.7
+"2022-04-30",20,"Southern Ostrobothnia",-1.24
+"2022-04-30",21,"Tavastia Proper",-2.55
+"2022-05-01",1,"North Karelia",-1.91
+"2022-05-01",2,"North Savonia",-1.68
+"2022-05-01",3,"Päijänne Tavastia",2.17
+"2022-05-01",4,"Southern Savonia",0.78
+"2022-05-01",5,"Lapland",-4.67
+"2022-05-01",6,"Kainuu",-3.75
+"2022-05-01",7,"Northern Ostrobothnia",-2.96
+"2022-05-01",8,"Eastern Uusimaa",3.05
+"2022-05-01",9,"Kymenlaakso",2.95
+"2022-05-01",10,"Päijänne Tavastia",2.56
+"2022-05-01",11,"South Karelia",1.95
+"2022-05-01",12,"Uusimaa",2.87
+"2022-05-01",13,"Central Finland",-0.66
+"2022-05-01",14,"Central Ostrobothnia",-1.3
+"2022-05-01",15,"Finland Proper",3.29
+"2022-05-01",16,"Ostrobothnia",1.52
+"2022-05-01",17,"Päijänne Tavastia",2.47
+"2022-05-01",18,"Pirkanmaa",1.91
+"2022-05-01",19,"Satakunta",3.39
+"2022-05-01",20,"Southern Ostrobothnia",0.51
+"2022-05-01",21,"Tavastia Proper",2.11
+"2022-05-02",1,"North Karelia",0.54
+"2022-05-02",2,"North Savonia",1.15
+"2022-05-02",3,"Päijänne Tavastia",0.77
+"2022-05-02",4,"Southern Savonia",0.72
+"2022-05-02",5,"Lapland",-1.25
+"2022-05-02",6,"Kainuu",0.84
+"2022-05-02",7,"Northern Ostrobothnia",1.23
+"2022-05-02",8,"Eastern Uusimaa",1.48
+"2022-05-02",9,"Kymenlaakso",1.29
+"2022-05-02",10,"Päijänne Tavastia",0.93
+"2022-05-02",11,"South Karelia",1.31
+"2022-05-02",12,"Uusimaa",0.96
+"2022-05-02",13,"Central Finland",1.44
+"2022-05-02",14,"Central Ostrobothnia",3.01
+"2022-05-02",15,"Finland Proper",2.03
+"2022-05-02",16,"Ostrobothnia",4.14
+"2022-05-02",17,"Päijänne Tavastia",0.94
+"2022-05-02",18,"Pirkanmaa",1.47
+"2022-05-02",19,"Satakunta",2.25
+"2022-05-02",20,"Southern Ostrobothnia",2.68
+"2022-05-02",21,"Tavastia Proper",1.12
+"2022-05-03",1,"North Karelia",1.03
+"2022-05-03",2,"North Savonia",0.36
+"2022-05-03",3,"Päijänne Tavastia",2.57
+"2022-05-03",4,"Southern Savonia",2.4
+"2022-05-03",5,"Lapland",-2.54
+"2022-05-03",6,"Kainuu",-1.39
+"2022-05-03",7,"Northern Ostrobothnia",-1.22
+"2022-05-03",8,"Eastern Uusimaa",4.59
+"2022-05-03",9,"Kymenlaakso",4.5
+"2022-05-03",10,"Päijänne Tavastia",4.03
+"2022-05-03",11,"South Karelia",4.06
+"2022-05-03",12,"Uusimaa",3.37
+"2022-05-03",13,"Central Finland",0.77
+"2022-05-03",14,"Central Ostrobothnia",1.36
+"2022-05-03",15,"Finland Proper",4.19
+"2022-05-03",16,"Ostrobothnia",3.19
+"2022-05-03",17,"Päijänne Tavastia",3.13
+"2022-05-03",18,"Pirkanmaa",2.47
+"2022-05-03",19,"Satakunta",3.8
+"2022-05-03",20,"Southern Ostrobothnia",2.29
+"2022-05-03",21,"Tavastia Proper",2.89
+"2022-05-04",1,"North Karelia",-1.52
+"2022-05-04",2,"North Savonia",-2.44
+"2022-05-04",3,"Päijänne Tavastia",-1.56
+"2022-05-04",4,"Southern Savonia",-1.25
+"2022-05-04",5,"Lapland",-6.51
+"2022-05-04",6,"Kainuu",-3.18
+"2022-05-04",7,"Northern Ostrobothnia",-3.68
+"2022-05-04",8,"Eastern Uusimaa",-0.4
+"2022-05-04",9,"Kymenlaakso",-0.41
+"2022-05-04",10,"Päijänne Tavastia",-1.28
+"2022-05-04",11,"South Karelia",-0.3
+"2022-05-04",12,"Uusimaa",-0.57
+"2022-05-04",13,"Central Finland",-3.38
+"2022-05-04",14,"Central Ostrobothnia",-2.47
+"2022-05-04",15,"Finland Proper",-0.17
+"2022-05-04",16,"Ostrobothnia",-1.14
+"2022-05-04",17,"Päijänne Tavastia",-1.33
+"2022-05-04",18,"Pirkanmaa",-2.38
+"2022-05-04",19,"Satakunta",-1.19
+"2022-05-04",20,"Southern Ostrobothnia",-3.34
+"2022-05-04",21,"Tavastia Proper",-1.85
