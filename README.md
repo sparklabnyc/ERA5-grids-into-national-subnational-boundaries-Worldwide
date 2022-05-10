@@ -56,7 +56,6 @@ Work in progress by Robbie M Parks.
 [Lithuania](output/grid_county_intersection_raster/LTU/adm1/) (LTU)\
 [Luxembourg](output/grid_county_intersection_raster/LUX/adm1/) (LUX)\
 [Latvia](output/grid_county_intersection_raster/LVA/adm1/) (LVA)\
-[Malta](output/grid_county_intersection_raster/MLT/adm1/) (MLT)\
 [Montenegro](output/grid_county_intersection_raster/MNE/adm1/) (MNE)\
 [Malawi](output/grid_county_intersection_raster/MWI/adm1/) (MWI)\
 [Nigeria](output/grid_county_intersection_raster/NGA/adm1/) (NGA)\
