@@ -82,7 +82,6 @@ Work in progress by Robbie M Parks.
 ### 2nd-order administrative units (ADM2):
 
 [Albania](output/grid_county_intersection_raster/ALB/adm2/) (ALB)\
-[Armenia](output/grid_county_intersection_raster/ARM/adm2/) (ARM)\
 [Australia](output/grid_county_intersection_raster/AUS/adm2/) (AUS)\
 [Austria](output/grid_county_intersection_raster/AUT/adm2/) (AUT)\
 [Belgium](output/grid_county_intersection_raster/BEL/adm2/) (BEL)\
@@ -92,7 +91,6 @@ Work in progress by Robbie M Parks.
 [Switzerland](output/grid_county_intersection_raster/CHE/adm2/) (CHE)\
 [Chile](output/grid_county_intersection_raster/CHL/adm2/) (CHL)\
 [Cameroon](output/grid_county_intersection_raster/CMR/adm2/) (CMR)\
-[Cyprus](output/grid_county_intersection_raster/CYP/adm2/) (CYP)\
 [Czech Republic](output/grid_county_intersection_raster/CZE/adm2/) (CZE)\
 [Germany](output/grid_county_intersection_raster/DEU/adm2/) (DEU)\
 [Denmark](output/grid_county_intersection_raster/DNK/adm2/) (DNK)\
@@ -112,12 +110,9 @@ Work in progress by Robbie M Parks.
 [Kenya](output/grid_county_intersection_raster/KEN/adm2/) (KEN)\
 [Republic of Korea](output/grid_county_intersection_raster/KOR/adm2/) (KOR)\
 [Liberia](output/grid_county_intersection_raster/LBR/adm2/) (LBR)\
-[Liechtenstein](output/grid_county_intersection_raster/LIE/adm2/) (LIE)\
-[Lesotho](output/grid_county_intersection_raster/LSO/adm2/) (LSO)\
 [Lithuania](output/grid_county_intersection_raster/LTU/adm2/) (LTU)\
 [Luxembourg](output/grid_county_intersection_raster/LUX/adm2/) (LUX)\
 [Latvia](output/grid_county_intersection_raster/LVA/adm2/) (LVA)\
-[Montenegro](output/grid_county_intersection_raster/MNE/adm2/) (MNE)\
 [Malawi](output/grid_county_intersection_raster/MWI/adm2/) (MWI)\
 [Nigeria](output/grid_county_intersection_raster/NGA/adm2/) (NGA)\
 [Netherlands](output/grid_county_intersection_raster/NLD/adm2/) (NLD)\
