@@ -79,6 +79,67 @@ Work in progress by Robbie M Parks.
 [Zambia](output/grid_county_intersection_raster/ZMB/adm1/) (ZMB)\
 [Zimbabwe](output/grid_county_intersection_raster/ZWE/adm1/) (ZWE)
 
+### 2nd-order administrative units (ADM2):
+
+[Albania](output/grid_county_intersection_raster/ALB/adm2/) (ALB)\
+[Armenia](output/grid_county_intersection_raster/ARM/adm2/) (ARM)\
+[Australia](output/grid_county_intersection_raster/AUS/adm2/) (AUS)\
+[Austria](output/grid_county_intersection_raster/AUT/adm2/) (AUT)\
+[Belgium](output/grid_county_intersection_raster/BEL/adm2/) (BEL)\
+[Bulgaria](output/grid_county_intersection_raster/BGR/adm2/) (BGR)\
+[Botswana](output/grid_county_intersection_raster/BWA/adm2/) (BWA)\
+[Canada](output/grid_county_intersection_raster/CAN/adm2/) (CAN)\
+[Switzerland](output/grid_county_intersection_raster/CHE/adm2/) (CHE)\
+[Chile](output/grid_county_intersection_raster/CHL/adm2/) (CHL)\
+[Cameroon](output/grid_county_intersection_raster/CMR/adm2/) (CMR)\
+[Cyprus](output/grid_county_intersection_raster/CYP/adm2/) (CYP)\
+[Czech Republic](output/grid_county_intersection_raster/CZE/adm2/) (CZE)\
+[Germany](output/grid_county_intersection_raster/DEU/adm2/) (DEU)\
+[Denmark](output/grid_county_intersection_raster/DNK/adm2/) (DNK)\
+[Spain](output/grid_county_intersection_raster/ESP/adm2/) (ESP)\
+[Estonia](output/grid_county_intersection_raster/EST/adm2/) (EST)\
+[Ethiopia](output/grid_county_intersection_raster/ETH/adm2/) (ETH)\
+[Finland](output/grid_county_intersection_raster/FIN/adm2/) (FIN)\
+[France](output/grid_county_intersection_raster/FRA/adm2/) (FRA)\
+[United Kingdom](output/grid_county_intersection_raster/GBR/adm2/) (GBR)\
+[Georgia](output/grid_county_intersection_raster/GEO/adm2/) (GEO)\
+[Ghana](output/grid_county_intersection_raster/GHA/adm2/) (GHA)\
+[Greece](output/grid_county_intersection_raster/GRC/adm2/) (GRC)\
+[Croatia](output/grid_county_intersection_raster/HRV/adm2/) (HRV)\
+[Hungary](output/grid_county_intersection_raster/HUN/adm2/) (HUN)\
+[Iceland](output/grid_county_intersection_raster/ISL/adm2/) (ISL)\
+[Italy](output/grid_county_intersection_raster/ITA/adm2/) (ITA)\
+[Kenya](output/grid_county_intersection_raster/KEN/adm2/) (KEN)\
+[Republic of Korea](output/grid_county_intersection_raster/KOR/adm2/) (KOR)\
+[Liberia](output/grid_county_intersection_raster/LBR/adm2/) (LBR)\
+[Liechtenstein](output/grid_county_intersection_raster/LIE/adm2/) (LIE)\
+[Lesotho](output/grid_county_intersection_raster/LSO/adm2/) (LSO)\
+[Lithuania](output/grid_county_intersection_raster/LTU/adm2/) (LTU)\
+[Luxembourg](output/grid_county_intersection_raster/LUX/adm2/) (LUX)\
+[Latvia](output/grid_county_intersection_raster/LVA/adm2/) (LVA)\
+[Montenegro](output/grid_county_intersection_raster/MNE/adm2/) (MNE)\
+[Malawi](output/grid_county_intersection_raster/MWI/adm2/) (MWI)\
+[Nigeria](output/grid_county_intersection_raster/NGA/adm2/) (NGA)\
+[Netherlands](output/grid_county_intersection_raster/NLD/adm2/) (NLD)\
+[Norway](output/grid_county_intersection_raster/NOR/adm2/) (NOR)\
+[New Zealand](output/grid_county_intersection_raster/NZL/adm2/) (NZL)\
+[Poland](output/grid_county_intersection_raster/POL/adm2/) (POL)\
+[Portugal](output/grid_county_intersection_raster/PRT/adm2/) (PRT)\
+[Romania](output/grid_county_intersection_raster/ROU/adm2/) (ROU)\
+[Rwanda](output/grid_county_intersection_raster/RWA/adm2/) (RWA)\
+[Sierra Leone](output/grid_county_intersection_raster/SLE/adm2/) (SLE)\
+[Serbia](output/grid_county_intersection_raster/SRB/adm2/) (SRB)\
+[Slovakia](output/grid_county_intersection_raster/SVK/adm2/) (SVK)\
+[Slovenia](output/grid_county_intersection_raster/SVN/adm2/) (SVN)\
+[Sweden](output/grid_county_intersection_raster/SWE/adm2/) (SWE)\
+[Taiwan](output/grid_county_intersection_raster/TWN/adm2/) (TWN)\
+[Tanzania](output/grid_county_intersection_raster/TZA/adm2/) (TZA)\
+[Uganda](output/grid_county_intersection_raster/UGA/adm2/) (UGA)\
+[USA](output/grid_county_intersection_raster/USA/adm2/) (USA)\
+[South Africa](output/grid_county_intersection_raster/ZAF/adm2/) (ZAF)\
+[Zambia](output/grid_county_intersection_raster/ZMB/adm2/) (ZMB)\
+[Zimbabwe](output/grid_county_intersection_raster/ZWE/adm2/) (ZWE)
+
 Let me know if you'd like me to run any other specific countries, but others in progress.
 
 ## Code
