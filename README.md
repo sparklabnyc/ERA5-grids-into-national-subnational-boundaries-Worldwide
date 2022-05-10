@@ -18,7 +18,7 @@ Work in progress by Robbie M Parks.
 
 `t2m` - 2-metre temperature
 
-### 1st-order administrative units (ADM1):
+### [1st-order administrative units](https://en.wikipedia.org/wiki/Category:First-level_administrative_divisions_by_country) (ADM1):
 
 [Albania](output/grid_county_intersection_raster/ALB/adm1/) (ALB)\
 [Armenia](output/grid_county_intersection_raster/ARM/adm1/) (ARM)\
@@ -79,7 +79,7 @@ Work in progress by Robbie M Parks.
 [Zambia](output/grid_county_intersection_raster/ZMB/adm1/) (ZMB)\
 [Zimbabwe](output/grid_county_intersection_raster/ZWE/adm1/) (ZWE)
 
-### 2nd-order administrative units (ADM2):
+### [2nd-order administrative units](https://en.wikipedia.org/wiki/Category:Second-level_administrative_divisions_by_country) (ADM2):
 
 [Albania](output/grid_county_intersection_raster/ALB/adm2/) (ALB)\
 [Australia](output/grid_county_intersection_raster/AUS/adm2/) (AUS)\
