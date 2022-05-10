@@ -1,0 +1,12 @@
+#!/bin/sh
+#PBS -l walltime=24:00:00
+#PBS -l select=1:ncpus=4:mem=20gb
+#PBS -J 1-1357
+
+cd $HOME/git/ERA5-grids-into-national-subnational-boundaries-Worldwide/
+module load anaconda3/personal
+R --slave --args ${PBS_ARRAY_INDEX} < $HOME/git/ERA5-grids-into-national-subnational-boundaries-Worldwide/prog/01_extract_netcdf/all_countries_run_previous_years_adm0.R
+
+# to run type
+# qsub -q med-bio all_countries_run_previous_years_adm0.run
+# THIS WILL RUN PREVIOUS YEARS FOR ERA5 PROCESSING IN ALL COUNTRIES FOR ADM1

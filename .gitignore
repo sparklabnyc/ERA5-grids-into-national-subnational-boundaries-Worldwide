@@ -51,7 +51,7 @@ README.html
 prog/00_bash/*
 
 # old processing files
-prog/01_extract_netcdf/*
+prog/01_extract_netcdf/zz_legacy/*
 
 # African-specific work for previous specialised study
 output/grid_county_intersection_raster/AFR/*
