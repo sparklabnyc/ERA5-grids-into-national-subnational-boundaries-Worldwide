@@ -15,13 +15,23 @@ if(country.id=='MLT'){space.res="0"}
 dir.output = paste0(project.folder,"output/grid_county_intersection_raster/",country.id,'/adm',space.res,'/')
 ifelse(!dir.exists(dir.output), dir.create(dir.output, recursive=TRUE), FALSE)
 
-# shapefiles downloaded from
-# http://www.diva-gis.org/gdata
+# single country shapefiles downloaded from http://www.diva-gis.org/gdata
 
 # load shapefile of chosen country
 shapefile <- readOGR(dsn=paste0("~/data/climate/shapefiles/",country.id,"_adm"),layer=paste0(country.id,"_adm",space.res))
 
-# transform into WSG84 (via https://rpubs.com/nickbearman/r-google-map-making)
+# ALTERNATIVE METHODS UNDER DEVELOPMENT
+world_marker=0
+if(world_marker==1){
+# global shapefile downloaded from https://gadm.org/data.html (same source as above just )
+    shapefile_world <- readOGR(dsn=paste0("~/data/climate/shapefiles/gadm404-shp"),layer=paste0("gadm404"))
+    shapefile_single_country = subset(shapefile_world, GID_0==country.id)
+    
+    # now match the selected adm
+    # TO DO
+
+}
+# transform into WSG84 (via https://rpubs.com/nickbearman/r-google-map-making) (not used here)
 # shapefile <- sp::spTransform(shapefile, sp::CRS("+init=epsg:4326"))
 
 # get projection of shapefile
