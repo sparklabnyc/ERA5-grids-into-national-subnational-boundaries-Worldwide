@@ -23,7 +23,7 @@ shapefile <- readOGR(dsn=paste0("~/data/climate/shapefiles/",country.id,"_adm"),
 # ALTERNATIVE METHODS UNDER DEVELOPMENT
 world_marker=0
 if(world_marker==1){
-# global shapefile downloaded from https://gadm.org/data.html (same source as above just )
+# global shapefile downloaded from https://gadm.org/data.html (same source as above just entire world)
     shapefile_world <- readOGR(dsn=paste0("~/data/climate/shapefiles/gadm404-shp"),layer=paste0("gadm404"))
     shapefile_single_country = subset(shapefile_world, GID_0==country.id)
     

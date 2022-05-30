@@ -4,7 +4,7 @@ years_current <- c(2022)
 # total years of analysis
 years_total <- c(2000:2022)
 
-# list of locations currently incluing in analysis
+# list of locations currently including in analysis
 countries <- c('ALB', # Albania
                'ARM', # Armenia
                'AUS', # Australia
@@ -48,6 +48,7 @@ countries <- c('ALB', # Albania
                'NLD', # Netherlands
                'NOR', # Norway
                'NZL', # New Zealand
+               'PHL', # Philippines
                'POL', # Poland
                'PRT', # Portugal
                'ROU', # Romania
