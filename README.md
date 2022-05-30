@@ -62,6 +62,7 @@ Work in progress by Robbie M Parks.
 [Netherlands](output/grid_county_intersection_raster/NLD/adm1/) (NLD)\
 [Norway](output/grid_county_intersection_raster/NOR/adm1/) (NOR)\
 [New Zealand](output/grid_county_intersection_raster/NZL/adm1/) (NZL)\
+[Philippines](output/grid_county_intersection_raster/PHL/adm1) (PHL)\
 [Poland](output/grid_county_intersection_raster/POL/adm1/) (POL)\
 [Portugal](output/grid_county_intersection_raster/PRT/adm1/) (PRT)\
 [Romania](output/grid_county_intersection_raster/ROU/adm1/) (ROU)\
@@ -118,6 +119,7 @@ Work in progress by Robbie M Parks.
 [Netherlands](output/grid_county_intersection_raster/NLD/adm2/) (NLD)\
 [Norway](output/grid_county_intersection_raster/NOR/adm2/) (NOR)\
 [New Zealand](output/grid_county_intersection_raster/NZL/adm2/) (NZL)\
+[Philippines](output/grid_county_intersection_raster/PHL/adm2) (PHL)\
 [Poland](output/grid_county_intersection_raster/POL/adm2/) (POL)\
 [Portugal](output/grid_county_intersection_raster/PRT/adm2/) (PRT)\
 [Romania](output/grid_county_intersection_raster/ROU/adm2/) (ROU)\
