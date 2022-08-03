@@ -1,0 +1,2509 @@
+"date","ID_1","NAME_1","t2m"
+"2022-01-01",1,"North East (England)",10.93
+"2022-01-01",2,"North West (England)",10.78
+"2022-01-01",3,"Yorkshire and The Humber",11.4
+"2022-01-01",4,"East Midlands (England)",12.21
+"2022-01-01",5,"West Midlands (England)",11.66
+"2022-01-01",6,"East of England",12.43
+"2022-01-01",7,"London",12.78
+"2022-01-01",8,"South East (England)",12.66
+"2022-01-01",9,"South West (England)",12.36
+"2022-01-01",10,"Wales",11.32
+"2022-01-01",11,"Scotland",9.7
+"2022-01-01",12,"Northern Ireland",10.27
+"2022-01-02",1,"North East (England)",8.42
+"2022-01-02",2,"North West (England)",8.6
+"2022-01-02",3,"Yorkshire and The Humber",8.48
+"2022-01-02",4,"East Midlands (England)",8.69
+"2022-01-02",5,"West Midlands (England)",8.82
+"2022-01-02",6,"East of England",9.87
+"2022-01-02",7,"London",10.4
+"2022-01-02",8,"South East (England)",10.18
+"2022-01-02",9,"South West (England)",9.96
+"2022-01-02",10,"Wales",9.18
+"2022-01-02",11,"Scotland",7.64
+"2022-01-02",12,"Northern Ireland",9.14
+"2022-01-03",1,"North East (England)",3.92
+"2022-01-03",2,"North West (England)",6.66
+"2022-01-03",3,"Yorkshire and The Humber",7.21
+"2022-01-03",4,"East Midlands (England)",7.78
+"2022-01-03",5,"West Midlands (England)",7.69
+"2022-01-03",6,"East of England",8.41
+"2022-01-03",7,"London",8.72
+"2022-01-03",8,"South East (England)",9.09
+"2022-01-03",9,"South West (England)",9.2
+"2022-01-03",10,"Wales",8.2
+"2022-01-03",11,"Scotland",2.07
+"2022-01-03",12,"Northern Ireland",4.36
+"2022-01-04",1,"North East (England)",0.93
+"2022-01-04",2,"North West (England)",1.94
+"2022-01-04",3,"Yorkshire and The Humber",1.11
+"2022-01-04",4,"East Midlands (England)",1.63
+"2022-01-04",5,"West Midlands (England)",2.07
+"2022-01-04",6,"East of England",1.8
+"2022-01-04",7,"London",1.91
+"2022-01-04",8,"South East (England)",2.48
+"2022-01-04",9,"South West (England)",3.37
+"2022-01-04",10,"Wales",2.71
+"2022-01-04",11,"Scotland",2.44
+"2022-01-04",12,"Northern Ireland",2.88
+"2022-01-05",1,"North East (England)",1.01
+"2022-01-05",2,"North West (England)",0.26
+"2022-01-05",3,"Yorkshire and The Humber",1.17
+"2022-01-05",4,"East Midlands (England)",1.86
+"2022-01-05",5,"West Midlands (England)",1.84
+"2022-01-05",6,"East of England",3.37
+"2022-01-05",7,"London",2.7
+"2022-01-05",8,"South East (England)",3.38
+"2022-01-05",9,"South West (England)",3.68
+"2022-01-05",10,"Wales",2.8
+"2022-01-05",11,"Scotland",1.51
+"2022-01-05",12,"Northern Ireland",3.4
+"2022-01-06",1,"North East (England)",4.4
+"2022-01-06",2,"North West (England)",5.32
+"2022-01-06",3,"Yorkshire and The Humber",4.48
+"2022-01-06",4,"East Midlands (England)",5.14
+"2022-01-06",5,"West Midlands (England)",6.31
+"2022-01-06",6,"East of England",5.33
+"2022-01-06",7,"London",5.95
+"2022-01-06",8,"South East (England)",6.6
+"2022-01-06",9,"South West (England)",7.78
+"2022-01-06",10,"Wales",6.33
+"2022-01-06",11,"Scotland",4.1
+"2022-01-06",12,"Northern Ireland",3.79
+"2022-01-07",1,"North East (England)",1.06
+"2022-01-07",2,"North West (England)",2
+"2022-01-07",3,"Yorkshire and The Humber",1.41
+"2022-01-07",4,"East Midlands (England)",1.92
+"2022-01-07",5,"West Midlands (England)",1.95
+"2022-01-07",6,"East of England",3.1
+"2022-01-07",7,"London",2.69
+"2022-01-07",8,"South East (England)",2.51
+"2022-01-07",9,"South West (England)",4.51
+"2022-01-07",10,"Wales",3.48
+"2022-01-07",11,"Scotland",1.76
+"2022-01-07",12,"Northern Ireland",2.69
+"2022-01-08",1,"North East (England)",3.7
+"2022-01-08",2,"North West (England)",4.67
+"2022-01-08",3,"Yorkshire and The Humber",4.95
+"2022-01-08",4,"East Midlands (England)",6.01
+"2022-01-08",5,"West Midlands (England)",5.65
+"2022-01-08",6,"East of England",7.21
+"2022-01-08",7,"London",7.34
+"2022-01-08",8,"South East (England)",7.37
+"2022-01-08",9,"South West (England)",6.64
+"2022-01-08",10,"Wales",5.4
+"2022-01-08",11,"Scotland",3.23
+"2022-01-08",12,"Northern Ireland",4.01
+"2022-01-09",1,"North East (England)",5.32
+"2022-01-09",2,"North West (England)",5.85
+"2022-01-09",3,"Yorkshire and The Humber",5.31
+"2022-01-09",4,"East Midlands (England)",4.53
+"2022-01-09",5,"West Midlands (England)",4.85
+"2022-01-09",6,"East of England",4.32
+"2022-01-09",7,"London",4.9
+"2022-01-09",8,"South East (England)",5.15
+"2022-01-09",9,"South West (England)",7.04
+"2022-01-09",10,"Wales",6.34
+"2022-01-09",11,"Scotland",2.33
+"2022-01-09",12,"Northern Ireland",6.78
+"2022-01-10",1,"North East (England)",7.5
+"2022-01-10",2,"North West (England)",7.72
+"2022-01-10",3,"Yorkshire and The Humber",6.98
+"2022-01-10",4,"East Midlands (England)",7.02
+"2022-01-10",5,"West Midlands (England)",8.17
+"2022-01-10",6,"East of England",6.49
+"2022-01-10",7,"London",7.35
+"2022-01-10",8,"South East (England)",7.86
+"2022-01-10",9,"South West (England)",9.74
+"2022-01-10",10,"Wales",9.24
+"2022-01-10",11,"Scotland",8.07
+"2022-01-10",12,"Northern Ireland",9.49
+"2022-01-11",1,"North East (England)",4.15
+"2022-01-11",2,"North West (England)",3.51
+"2022-01-11",3,"Yorkshire and The Humber",3.01
+"2022-01-11",4,"East Midlands (England)",5.63
+"2022-01-11",5,"West Midlands (England)",5.67
+"2022-01-11",6,"East of England",8.04
+"2022-01-11",7,"London",9.23
+"2022-01-11",8,"South East (England)",9.08
+"2022-01-11",9,"South West (England)",8.72
+"2022-01-11",10,"Wales",5.53
+"2022-01-11",11,"Scotland",6.02
+"2022-01-11",12,"Northern Ireland",5.84
+"2022-01-12",1,"North East (England)",6.85
+"2022-01-12",2,"North West (England)",5.87
+"2022-01-12",3,"Yorkshire and The Humber",6.32
+"2022-01-12",4,"East Midlands (England)",4.91
+"2022-01-12",5,"West Midlands (England)",3.84
+"2022-01-12",6,"East of England",4.08
+"2022-01-12",7,"London",3.67
+"2022-01-12",8,"South East (England)",3.67
+"2022-01-12",9,"South West (England)",4.23
+"2022-01-12",10,"Wales",4.57
+"2022-01-12",11,"Scotland",8.41
+"2022-01-12",12,"Northern Ireland",7.14
+"2022-01-13",1,"North East (England)",4.81
+"2022-01-13",2,"North West (England)",4.64
+"2022-01-13",3,"Yorkshire and The Humber",4.86
+"2022-01-13",4,"East Midlands (England)",3.93
+"2022-01-13",5,"West Midlands (England)",3.09
+"2022-01-13",6,"East of England",4.17
+"2022-01-13",7,"London",4.15
+"2022-01-13",8,"South East (England)",4
+"2022-01-13",9,"South West (England)",4.03
+"2022-01-13",10,"Wales",3.89
+"2022-01-13",11,"Scotland",7.76
+"2022-01-13",12,"Northern Ireland",6.59
+"2022-01-14",1,"North East (England)",4.26
+"2022-01-14",2,"North West (England)",2.97
+"2022-01-14",3,"Yorkshire and The Humber",2.02
+"2022-01-14",4,"East Midlands (England)",1.47
+"2022-01-14",5,"West Midlands (England)",1.23
+"2022-01-14",6,"East of England",3.44
+"2022-01-14",7,"London",2.17
+"2022-01-14",8,"South East (England)",3.18
+"2022-01-14",9,"South West (England)",4.92
+"2022-01-14",10,"Wales",2.8
+"2022-01-14",11,"Scotland",6.18
+"2022-01-14",12,"Northern Ireland",4.31
+"2022-01-15",1,"North East (England)",2.13
+"2022-01-15",2,"North West (England)",3.04
+"2022-01-15",3,"Yorkshire and The Humber",1.81
+"2022-01-15",4,"East Midlands (England)",3.04
+"2022-01-15",5,"West Midlands (England)",3.67
+"2022-01-15",6,"East of England",3.55
+"2022-01-15",7,"London",4.02
+"2022-01-15",8,"South East (England)",4.43
+"2022-01-15",9,"South West (England)",6.14
+"2022-01-15",10,"Wales",5.38
+"2022-01-15",11,"Scotland",5.27
+"2022-01-15",12,"Northern Ireland",6.07
+"2022-01-16",1,"North East (England)",3.74
+"2022-01-16",2,"North West (England)",4.28
+"2022-01-16",3,"Yorkshire and The Humber",4.73
+"2022-01-16",4,"East Midlands (England)",6.17
+"2022-01-16",5,"West Midlands (England)",5.32
+"2022-01-16",6,"East of England",6.83
+"2022-01-16",7,"London",6.76
+"2022-01-16",8,"South East (England)",6.74
+"2022-01-16",9,"South West (England)",7.82
+"2022-01-16",10,"Wales",5.54
+"2022-01-16",11,"Scotland",6.17
+"2022-01-16",12,"Northern Ireland",5.98
+"2022-01-17",1,"North East (England)",3.81
+"2022-01-17",2,"North West (England)",3.55
+"2022-01-17",3,"Yorkshire and The Humber",3.08
+"2022-01-17",4,"East Midlands (England)",3.28
+"2022-01-17",5,"West Midlands (England)",3.78
+"2022-01-17",6,"East of England",3.52
+"2022-01-17",7,"London",2.99
+"2022-01-17",8,"South East (England)",3.43
+"2022-01-17",9,"South West (England)",3.59
+"2022-01-17",10,"Wales",2.78
+"2022-01-17",11,"Scotland",4.75
+"2022-01-17",12,"Northern Ireland",2.97
+"2022-01-18",1,"North East (England)",5.24
+"2022-01-18",2,"North West (England)",4.68
+"2022-01-18",3,"Yorkshire and The Humber",4.09
+"2022-01-18",4,"East Midlands (England)",3.5
+"2022-01-18",5,"West Midlands (England)",3.66
+"2022-01-18",6,"East of England",4.05
+"2022-01-18",7,"London",4.27
+"2022-01-18",8,"South East (England)",4.44
+"2022-01-18",9,"South West (England)",5.75
+"2022-01-18",10,"Wales",5.29
+"2022-01-18",11,"Scotland",7.19
+"2022-01-18",12,"Northern Ireland",8.39
+"2022-01-19",1,"North East (England)",4.8
+"2022-01-19",2,"North West (England)",4.82
+"2022-01-19",3,"Yorkshire and The Humber",4.59
+"2022-01-19",4,"East Midlands (England)",5
+"2022-01-19",5,"West Midlands (England)",5.37
+"2022-01-19",6,"East of England",5.67
+"2022-01-19",7,"London",5.56
+"2022-01-19",8,"South East (England)",5.99
+"2022-01-19",9,"South West (England)",6.67
+"2022-01-19",10,"Wales",6.12
+"2022-01-19",11,"Scotland",4.61
+"2022-01-19",12,"Northern Ireland",6.63
+"2022-01-20",1,"North East (England)",2.19
+"2022-01-20",2,"North West (England)",0.81
+"2022-01-20",3,"Yorkshire and The Humber",1.82
+"2022-01-20",4,"East Midlands (England)",1.61
+"2022-01-20",5,"West Midlands (England)",0.75
+"2022-01-20",6,"East of England",3.03
+"2022-01-20",7,"London",2.01
+"2022-01-20",8,"South East (England)",2.21
+"2022-01-20",9,"South West (England)",3.06
+"2022-01-20",10,"Wales",1.76
+"2022-01-20",11,"Scotland",4.12
+"2022-01-20",12,"Northern Ireland",6.46
+"2022-01-21",1,"North East (England)",5.35
+"2022-01-21",2,"North West (England)",5.55
+"2022-01-21",3,"Yorkshire and The Humber",4.61
+"2022-01-21",4,"East Midlands (England)",4.47
+"2022-01-21",5,"West Midlands (England)",4.42
+"2022-01-21",6,"East of England",4.36
+"2022-01-21",7,"London",4.09
+"2022-01-21",8,"South East (England)",4.09
+"2022-01-21",9,"South West (England)",4.15
+"2022-01-21",10,"Wales",4.82
+"2022-01-21",11,"Scotland",6.04
+"2022-01-21",12,"Northern Ireland",6.6
+"2022-01-22",1,"North East (England)",6.55
+"2022-01-22",2,"North West (England)",6.3
+"2022-01-22",3,"Yorkshire and The Humber",5.55
+"2022-01-22",4,"East Midlands (England)",5.72
+"2022-01-22",5,"West Midlands (England)",6.15
+"2022-01-22",6,"East of England",5.5
+"2022-01-22",7,"London",5.25
+"2022-01-22",8,"South East (England)",5.15
+"2022-01-22",9,"South West (England)",5.41
+"2022-01-22",10,"Wales",5.85
+"2022-01-22",11,"Scotland",7.91
+"2022-01-22",12,"Northern Ireland",7.47
+"2022-01-23",1,"North East (England)",4.84
+"2022-01-23",2,"North West (England)",4.77
+"2022-01-23",3,"Yorkshire and The Humber",4.04
+"2022-01-23",4,"East Midlands (England)",3.9
+"2022-01-23",5,"West Midlands (England)",3.4
+"2022-01-23",6,"East of England",4.88
+"2022-01-23",7,"London",4.42
+"2022-01-23",8,"South East (England)",4.6
+"2022-01-23",9,"South West (England)",4.57
+"2022-01-23",10,"Wales",4.13
+"2022-01-23",11,"Scotland",6.48
+"2022-01-23",12,"Northern Ireland",6.4
+"2022-01-24",1,"North East (England)",4.48
+"2022-01-24",2,"North West (England)",3.26
+"2022-01-24",3,"Yorkshire and The Humber",2.06
+"2022-01-24",4,"East Midlands (England)",2.73
+"2022-01-24",5,"West Midlands (England)",2.54
+"2022-01-24",6,"East of England",4.06
+"2022-01-24",7,"London",3.14
+"2022-01-24",8,"South East (England)",3.82
+"2022-01-24",9,"South West (England)",4.79
+"2022-01-24",10,"Wales",2.68
+"2022-01-24",11,"Scotland",6.48
+"2022-01-24",12,"Northern Ireland",6.27
+"2022-01-25",1,"North East (England)",3.77
+"2022-01-25",2,"North West (England)",3.11
+"2022-01-25",3,"Yorkshire and The Humber",1.75
+"2022-01-25",4,"East Midlands (England)",1.85
+"2022-01-25",5,"West Midlands (England)",2.73
+"2022-01-25",6,"East of England",2.09
+"2022-01-25",7,"London",1.85
+"2022-01-25",8,"South East (England)",2.25
+"2022-01-25",9,"South West (England)",3.79
+"2022-01-25",10,"Wales",4.1
+"2022-01-25",11,"Scotland",6.1
+"2022-01-25",12,"Northern Ireland",6.29
+"2022-01-26",1,"North East (England)",7.59
+"2022-01-26",2,"North West (England)",7.02
+"2022-01-26",3,"Yorkshire and The Humber",6.47
+"2022-01-26",4,"East Midlands (England)",6.64
+"2022-01-26",5,"West Midlands (England)",6.94
+"2022-01-26",6,"East of England",6.08
+"2022-01-26",7,"London",6.03
+"2022-01-26",8,"South East (England)",6.06
+"2022-01-26",9,"South West (England)",6.8
+"2022-01-26",10,"Wales",7.14
+"2022-01-26",11,"Scotland",9.29
+"2022-01-26",12,"Northern Ireland",9.8
+"2022-01-27",1,"North East (England)",5.56
+"2022-01-27",2,"North West (England)",6.76
+"2022-01-27",3,"Yorkshire and The Humber",6.32
+"2022-01-27",4,"East Midlands (England)",7.24
+"2022-01-27",5,"West Midlands (England)",6.97
+"2022-01-27",6,"East of England",7.18
+"2022-01-27",7,"London",7.19
+"2022-01-27",8,"South East (England)",7.73
+"2022-01-27",9,"South West (England)",7.64
+"2022-01-27",10,"Wales",6.66
+"2022-01-27",11,"Scotland",5.25
+"2022-01-27",12,"Northern Ireland",7.5
+"2022-01-28",1,"North East (England)",8.77
+"2022-01-28",2,"North West (England)",8.88
+"2022-01-28",3,"Yorkshire and The Humber",8.97
+"2022-01-28",4,"East Midlands (England)",8.11
+"2022-01-28",5,"West Midlands (England)",9.07
+"2022-01-28",6,"East of England",6.85
+"2022-01-28",7,"London",6.91
+"2022-01-28",8,"South East (England)",7.19
+"2022-01-28",9,"South West (England)",9.23
+"2022-01-28",10,"Wales",9.31
+"2022-01-28",11,"Scotland",9.59
+"2022-01-28",12,"Northern Ireland",9.96
+"2022-01-29",1,"North East (England)",6.18
+"2022-01-29",2,"North West (England)",6.93
+"2022-01-29",3,"Yorkshire and The Humber",7.11
+"2022-01-29",4,"East Midlands (England)",8
+"2022-01-29",5,"West Midlands (England)",7.57
+"2022-01-29",6,"East of England",8.57
+"2022-01-29",7,"London",10.08
+"2022-01-29",8,"South East (England)",9.97
+"2022-01-29",9,"South West (England)",9.42
+"2022-01-29",10,"Wales",7.37
+"2022-01-29",11,"Scotland",5.05
+"2022-01-29",12,"Northern Ireland",6.68
+"2022-01-30",1,"North East (England)",5.11
+"2022-01-30",2,"North West (England)",6.07
+"2022-01-30",3,"Yorkshire and The Humber",5.37
+"2022-01-30",4,"East Midlands (England)",5.89
+"2022-01-30",5,"West Midlands (England)",6.33
+"2022-01-30",6,"East of England",5.45
+"2022-01-30",7,"London",5.82
+"2022-01-30",8,"South East (England)",6.01
+"2022-01-30",9,"South West (England)",7.34
+"2022-01-30",10,"Wales",7.33
+"2022-01-30",11,"Scotland",5.38
+"2022-01-30",12,"Northern Ireland",7.1
+"2022-01-31",1,"North East (England)",4.52
+"2022-01-31",2,"North West (England)",5.68
+"2022-01-31",3,"Yorkshire and The Humber",4.57
+"2022-01-31",4,"East Midlands (England)",4.88
+"2022-01-31",5,"West Midlands (England)",6.06
+"2022-01-31",6,"East of England",4.71
+"2022-01-31",7,"London",5.13
+"2022-01-31",8,"South East (England)",5.43
+"2022-01-31",9,"South West (England)",6.88
+"2022-01-31",10,"Wales",6.68
+"2022-01-31",11,"Scotland",4.96
+"2022-01-31",12,"Northern Ireland",7.63
+"2022-02-01",1,"North East (England)",8.58
+"2022-02-01",2,"North West (England)",9.19
+"2022-02-01",3,"Yorkshire and The Humber",9.44
+"2022-02-01",4,"East Midlands (England)",10.35
+"2022-02-01",5,"West Midlands (England)",10.55
+"2022-02-01",6,"East of England",10.53
+"2022-02-01",7,"London",11.25
+"2022-02-01",8,"South East (England)",10.99
+"2022-02-01",9,"South West (England)",10.36
+"2022-02-01",10,"Wales",9.9
+"2022-02-01",11,"Scotland",6.83
+"2022-02-01",12,"Northern Ireland",9.52
+"2022-02-02",1,"North East (England)",9.1
+"2022-02-02",2,"North West (England)",8.56
+"2022-02-02",3,"Yorkshire and The Humber",8.85
+"2022-02-02",4,"East Midlands (England)",9.55
+"2022-02-02",5,"West Midlands (England)",9.35
+"2022-02-02",6,"East of England",9.01
+"2022-02-02",7,"London",8.55
+"2022-02-02",8,"South East (England)",8.88
+"2022-02-02",9,"South West (England)",9.12
+"2022-02-02",10,"Wales",8.3
+"2022-02-02",11,"Scotland",8.73
+"2022-02-02",12,"Northern Ireland",9.04
+"2022-02-03",1,"North East (England)",8.65
+"2022-02-03",2,"North West (England)",8.82
+"2022-02-03",3,"Yorkshire and The Humber",8.9
+"2022-02-03",4,"East Midlands (England)",9.26
+"2022-02-03",5,"West Midlands (England)",9.87
+"2022-02-03",6,"East of England",8.48
+"2022-02-03",7,"London",8.69
+"2022-02-03",8,"South East (England)",8.72
+"2022-02-03",9,"South West (England)",9.19
+"2022-02-03",10,"Wales",9.08
+"2022-02-03",11,"Scotland",6.12
+"2022-02-03",12,"Northern Ireland",8.06
+"2022-02-04",1,"North East (England)",2.57
+"2022-02-04",2,"North West (England)",3.59
+"2022-02-04",3,"Yorkshire and The Humber",3.63
+"2022-02-04",4,"East Midlands (England)",4.34
+"2022-02-04",5,"West Midlands (England)",4.67
+"2022-02-04",6,"East of England",5.22
+"2022-02-04",7,"London",5.45
+"2022-02-04",8,"South East (England)",5.62
+"2022-02-04",9,"South West (England)",6.14
+"2022-02-04",10,"Wales",4.99
+"2022-02-04",11,"Scotland",2.25
+"2022-02-04",12,"Northern Ireland",3.47
+"2022-02-05",1,"North East (England)",6.97
+"2022-02-05",2,"North West (England)",7.94
+"2022-02-05",3,"Yorkshire and The Humber",8.14
+"2022-02-05",4,"East Midlands (England)",8.63
+"2022-02-05",5,"West Midlands (England)",8.67
+"2022-02-05",6,"East of England",8.92
+"2022-02-05",7,"London",9.14
+"2022-02-05",8,"South East (England)",9.07
+"2022-02-05",9,"South West (England)",9.58
+"2022-02-05",10,"Wales",8.74
+"2022-02-05",11,"Scotland",3.81
+"2022-02-05",12,"Northern Ireland",6.95
+"2022-02-06",1,"North East (England)",2.48
+"2022-02-06",2,"North West (England)",4.06
+"2022-02-06",3,"Yorkshire and The Humber",3.58
+"2022-02-06",4,"East Midlands (England)",5.29
+"2022-02-06",5,"West Midlands (England)",6.15
+"2022-02-06",6,"East of England",6.65
+"2022-02-06",7,"London",8.16
+"2022-02-06",8,"South East (England)",8.36
+"2022-02-06",9,"South West (England)",8.67
+"2022-02-06",10,"Wales",6.26
+"2022-02-06",11,"Scotland",2.35
+"2022-02-06",12,"Northern Ireland",4.95
+"2022-02-07",1,"North East (England)",8.78
+"2022-02-07",2,"North West (England)",9.08
+"2022-02-07",3,"Yorkshire and The Humber",9.19
+"2022-02-07",4,"East Midlands (England)",9.39
+"2022-02-07",5,"West Midlands (England)",9.91
+"2022-02-07",6,"East of England",8.48
+"2022-02-07",7,"London",8.67
+"2022-02-07",8,"South East (England)",9.02
+"2022-02-07",9,"South West (England)",10.06
+"2022-02-07",10,"Wales",9.39
+"2022-02-07",11,"Scotland",8.96
+"2022-02-07",12,"Northern Ireland",10.6
+"2022-02-08",1,"North East (England)",7.35
+"2022-02-08",2,"North West (England)",8.57
+"2022-02-08",3,"Yorkshire and The Humber",9.64
+"2022-02-08",4,"East Midlands (England)",11.31
+"2022-02-08",5,"West Midlands (England)",10.84
+"2022-02-08",6,"East of England",11.02
+"2022-02-08",7,"London",10.38
+"2022-02-08",8,"South East (England)",10.12
+"2022-02-08",9,"South West (England)",10.06
+"2022-02-08",10,"Wales",9.51
+"2022-02-08",11,"Scotland",5.09
+"2022-02-08",12,"Northern Ireland",7.62
+"2022-02-09",1,"North East (England)",3.94
+"2022-02-09",2,"North West (England)",5.06
+"2022-02-09",3,"Yorkshire and The Humber",4.96
+"2022-02-09",4,"East Midlands (England)",7.11
+"2022-02-09",5,"West Midlands (England)",7.02
+"2022-02-09",6,"East of England",8.85
+"2022-02-09",7,"London",9.9
+"2022-02-09",8,"South East (England)",9.26
+"2022-02-09",9,"South West (England)",8.86
+"2022-02-09",10,"Wales",5.77
+"2022-02-09",11,"Scotland",2.43
+"2022-02-09",12,"Northern Ireland",3.86
+"2022-02-10",1,"North East (England)",5.09
+"2022-02-10",2,"North West (England)",4.88
+"2022-02-10",3,"Yorkshire and The Humber",4.63
+"2022-02-10",4,"East Midlands (England)",4.61
+"2022-02-10",5,"West Midlands (England)",4.46
+"2022-02-10",6,"East of England",5.01
+"2022-02-10",7,"London",5.18
+"2022-02-10",8,"South East (England)",5.32
+"2022-02-10",9,"South West (England)",5.36
+"2022-02-10",10,"Wales",4.74
+"2022-02-10",11,"Scotland",3.12
+"2022-02-10",12,"Northern Ireland",4.34
+"2022-02-11",1,"North East (England)",3.8
+"2022-02-11",2,"North West (England)",4.41
+"2022-02-11",3,"Yorkshire and The Humber",3.93
+"2022-02-11",4,"East Midlands (England)",4.83
+"2022-02-11",5,"West Midlands (England)",4.67
+"2022-02-11",6,"East of England",4.31
+"2022-02-11",7,"London",4.91
+"2022-02-11",8,"South East (England)",4.71
+"2022-02-11",9,"South West (England)",5.51
+"2022-02-11",10,"Wales",5.14
+"2022-02-11",11,"Scotland",4.56
+"2022-02-11",12,"Northern Ireland",6.72
+"2022-02-12",1,"North East (England)",7.65
+"2022-02-12",2,"North West (England)",7.47
+"2022-02-12",3,"Yorkshire and The Humber",7
+"2022-02-12",4,"East Midlands (England)",6.74
+"2022-02-12",5,"West Midlands (England)",7.45
+"2022-02-12",6,"East of England",6
+"2022-02-12",7,"London",5.34
+"2022-02-12",8,"South East (England)",6.19
+"2022-02-12",9,"South West (England)",8.08
+"2022-02-12",10,"Wales",8.08
+"2022-02-12",11,"Scotland",6.53
+"2022-02-12",12,"Northern Ireland",7.95
+"2022-02-13",1,"North East (England)",7.1
+"2022-02-13",2,"North West (England)",7.97
+"2022-02-13",3,"Yorkshire and The Humber",7.93
+"2022-02-13",4,"East Midlands (England)",8.73
+"2022-02-13",5,"West Midlands (England)",9.33
+"2022-02-13",6,"East of England",8.16
+"2022-02-13",7,"London",8.82
+"2022-02-13",8,"South East (England)",9.23
+"2022-02-13",9,"South West (England)",9.31
+"2022-02-13",10,"Wales",8.13
+"2022-02-13",11,"Scotland",5.17
+"2022-02-13",12,"Northern Ireland",6.04
+"2022-02-14",1,"North East (England)",6.08
+"2022-02-14",2,"North West (England)",5.98
+"2022-02-14",3,"Yorkshire and The Humber",5.78
+"2022-02-14",4,"East Midlands (England)",5.92
+"2022-02-14",5,"West Midlands (England)",6.18
+"2022-02-14",6,"East of England",6.07
+"2022-02-14",7,"London",6.85
+"2022-02-14",8,"South East (England)",7.08
+"2022-02-14",9,"South West (England)",6.88
+"2022-02-14",10,"Wales",6.01
+"2022-02-14",11,"Scotland",4.33
+"2022-02-14",12,"Northern Ireland",5.34
+"2022-02-15",1,"North East (England)",4.75
+"2022-02-15",2,"North West (England)",5.9
+"2022-02-15",3,"Yorkshire and The Humber",5.7
+"2022-02-15",4,"East Midlands (England)",6.51
+"2022-02-15",5,"West Midlands (England)",7.12
+"2022-02-15",6,"East of England",7.42
+"2022-02-15",7,"London",8.74
+"2022-02-15",8,"South East (England)",8.85
+"2022-02-15",9,"South West (England)",9.18
+"2022-02-15",10,"Wales",7.55
+"2022-02-15",11,"Scotland",3.65
+"2022-02-15",12,"Northern Ireland",6.18
+"2022-02-16",1,"North East (England)",8.54
+"2022-02-16",2,"North West (England)",9.58
+"2022-02-16",3,"Yorkshire and The Humber",10.36
+"2022-02-16",4,"East Midlands (England)",12.72
+"2022-02-16",5,"West Midlands (England)",12.45
+"2022-02-16",6,"East of England",13.66
+"2022-02-16",7,"London",13.62
+"2022-02-16",8,"South East (England)",12.87
+"2022-02-16",9,"South West (England)",12.77
+"2022-02-16",10,"Wales",10.9
+"2022-02-16",11,"Scotland",5.5
+"2022-02-16",12,"Northern Ireland",8.15
+"2022-02-17",1,"North East (England)",4.04
+"2022-02-17",2,"North West (England)",4.5
+"2022-02-17",3,"Yorkshire and The Humber",3.98
+"2022-02-17",4,"East Midlands (England)",5.85
+"2022-02-17",5,"West Midlands (England)",6.91
+"2022-02-17",6,"East of England",7.66
+"2022-02-17",7,"London",8.68
+"2022-02-17",8,"South East (England)",8.73
+"2022-02-17",9,"South West (England)",8.74
+"2022-02-17",10,"Wales",7.14
+"2022-02-17",11,"Scotland",3.17
+"2022-02-17",12,"Northern Ireland",4.43
+"2022-02-18",1,"North East (England)",3.08
+"2022-02-18",2,"North West (England)",3.65
+"2022-02-18",3,"Yorkshire and The Humber",4.32
+"2022-02-18",4,"East Midlands (England)",4.88
+"2022-02-18",5,"West Midlands (England)",4
+"2022-02-18",6,"East of England",6.12
+"2022-02-18",7,"London",5.79
+"2022-02-18",8,"South East (England)",5.76
+"2022-02-18",9,"South West (England)",5.14
+"2022-02-18",10,"Wales",3.62
+"2022-02-18",11,"Scotland",2.39
+"2022-02-18",12,"Northern Ireland",2.82
+"2022-02-19",1,"North East (England)",2.17
+"2022-02-19",2,"North West (England)",2.26
+"2022-02-19",3,"Yorkshire and The Humber",2.11
+"2022-02-19",4,"East Midlands (England)",3.38
+"2022-02-19",5,"West Midlands (England)",5.29
+"2022-02-19",6,"East of England",6.7
+"2022-02-19",7,"London",8.61
+"2022-02-19",8,"South East (England)",8.65
+"2022-02-19",9,"South West (England)",8.78
+"2022-02-19",10,"Wales",6.15
+"2022-02-19",11,"Scotland",2.47
+"2022-02-19",12,"Northern Ireland",4.54
+"2022-02-20",1,"North East (England)",4.58
+"2022-02-20",2,"North West (England)",4.97
+"2022-02-20",3,"Yorkshire and The Humber",5.96
+"2022-02-20",4,"East Midlands (England)",7.29
+"2022-02-20",5,"West Midlands (England)",7.02
+"2022-02-20",6,"East of England",10.65
+"2022-02-20",7,"London",11.14
+"2022-02-20",8,"South East (England)",10.72
+"2022-02-20",9,"South West (England)",9.17
+"2022-02-20",10,"Wales",5.93
+"2022-02-20",11,"Scotland",3.14
+"2022-02-20",12,"Northern Ireland",3.59
+"2022-02-21",1,"North East (England)",6.17
+"2022-02-21",2,"North West (England)",6.69
+"2022-02-21",3,"Yorkshire and The Humber",7.16
+"2022-02-21",4,"East Midlands (England)",7.95
+"2022-02-21",5,"West Midlands (England)",8.06
+"2022-02-21",6,"East of England",8.61
+"2022-02-21",7,"London",9.47
+"2022-02-21",8,"South East (England)",9.3
+"2022-02-21",9,"South West (England)",8.56
+"2022-02-21",10,"Wales",7.84
+"2022-02-21",11,"Scotland",4.67
+"2022-02-21",12,"Northern Ireland",7.64
+"2022-02-22",1,"North East (England)",5.41
+"2022-02-22",2,"North West (England)",6.25
+"2022-02-22",3,"Yorkshire and The Humber",6.37
+"2022-02-22",4,"East Midlands (England)",7.74
+"2022-02-22",5,"West Midlands (England)",7.6
+"2022-02-22",6,"East of England",8.63
+"2022-02-22",7,"London",9.45
+"2022-02-22",8,"South East (England)",9.38
+"2022-02-22",9,"South West (England)",8.36
+"2022-02-22",10,"Wales",7.39
+"2022-02-22",11,"Scotland",4.29
+"2022-02-22",12,"Northern Ireland",6.4
+"2022-02-23",1,"North East (England)",7.68
+"2022-02-23",2,"North West (England)",7.93
+"2022-02-23",3,"Yorkshire and The Humber",8.52
+"2022-02-23",4,"East Midlands (England)",8.52
+"2022-02-23",5,"West Midlands (England)",8.46
+"2022-02-23",6,"East of England",8.46
+"2022-02-23",7,"London",8.41
+"2022-02-23",8,"South East (England)",8.26
+"2022-02-23",9,"South West (England)",8.66
+"2022-02-23",10,"Wales",8.46
+"2022-02-23",11,"Scotland",3.07
+"2022-02-23",12,"Northern Ireland",4.57
+"2022-02-24",1,"North East (England)",3.35
+"2022-02-24",2,"North West (England)",4.08
+"2022-02-24",3,"Yorkshire and The Humber",3.87
+"2022-02-24",4,"East Midlands (England)",3.91
+"2022-02-24",5,"West Midlands (England)",3.89
+"2022-02-24",6,"East of England",4.25
+"2022-02-24",7,"London",4.47
+"2022-02-24",8,"South East (England)",4.71
+"2022-02-24",9,"South West (England)",4.94
+"2022-02-24",10,"Wales",4.28
+"2022-02-24",11,"Scotland",2.75
+"2022-02-24",12,"Northern Ireland",4.05
+"2022-02-25",1,"North East (England)",5.63
+"2022-02-25",2,"North West (England)",5.37
+"2022-02-25",3,"Yorkshire and The Humber",5.73
+"2022-02-25",4,"East Midlands (England)",6.32
+"2022-02-25",5,"West Midlands (England)",5.88
+"2022-02-25",6,"East of England",6.52
+"2022-02-25",7,"London",6.61
+"2022-02-25",8,"South East (England)",6.98
+"2022-02-25",9,"South West (England)",7.1
+"2022-02-25",10,"Wales",6.35
+"2022-02-25",11,"Scotland",5.61
+"2022-02-25",12,"Northern Ireland",8.32
+"2022-02-26",1,"North East (England)",7.5
+"2022-02-26",2,"North West (England)",7.57
+"2022-02-26",3,"Yorkshire and The Humber",7.63
+"2022-02-26",4,"East Midlands (England)",7.47
+"2022-02-26",5,"West Midlands (England)",7.49
+"2022-02-26",6,"East of England",6.39
+"2022-02-26",7,"London",6.1
+"2022-02-26",8,"South East (England)",6.59
+"2022-02-26",9,"South West (England)",7.24
+"2022-02-26",10,"Wales",7.47
+"2022-02-26",11,"Scotland",7.6
+"2022-02-26",12,"Northern Ireland",8.91
+"2022-02-27",1,"North East (England)",6.26
+"2022-02-27",2,"North West (England)",7.2
+"2022-02-27",3,"Yorkshire and The Humber",6.42
+"2022-02-27",4,"East Midlands (England)",6.58
+"2022-02-27",5,"West Midlands (England)",7.58
+"2022-02-27",6,"East of England",6.19
+"2022-02-27",7,"London",6.15
+"2022-02-27",8,"South East (England)",6.9
+"2022-02-27",9,"South West (England)",7.91
+"2022-02-27",10,"Wales",8.16
+"2022-02-27",11,"Scotland",6.33
+"2022-02-27",12,"Northern Ireland",8.92
+"2022-02-28",1,"North East (England)",6.93
+"2022-02-28",2,"North West (England)",6.7
+"2022-02-28",3,"Yorkshire and The Humber",7.75
+"2022-02-28",4,"East Midlands (England)",8.55
+"2022-02-28",5,"West Midlands (England)",8.49
+"2022-02-28",6,"East of England",9.07
+"2022-02-28",7,"London",9.38
+"2022-02-28",8,"South East (England)",9.29
+"2022-02-28",9,"South West (England)",9.33
+"2022-02-28",10,"Wales",7.04
+"2022-02-28",11,"Scotland",5.16
+"2022-02-28",12,"Northern Ireland",5.95
+"2022-03-01",1,"North East (England)",3.5
+"2022-03-01",2,"North West (England)",5.17
+"2022-03-01",3,"Yorkshire and The Humber",4.76
+"2022-03-01",4,"East Midlands (England)",6.3
+"2022-03-01",5,"West Midlands (England)",7.12
+"2022-03-01",6,"East of England",6.78
+"2022-03-01",7,"London",7.3
+"2022-03-01",8,"South East (England)",7.66
+"2022-03-01",9,"South West (England)",7.53
+"2022-03-01",10,"Wales",7.04
+"2022-03-01",11,"Scotland",5.12
+"2022-03-01",12,"Northern Ireland",5.5
+"2022-03-02",1,"North East (England)",5.27
+"2022-03-02",2,"North West (England)",6.26
+"2022-03-02",3,"Yorkshire and The Humber",5.61
+"2022-03-02",4,"East Midlands (England)",6.09
+"2022-03-02",5,"West Midlands (England)",6.74
+"2022-03-02",6,"East of England",6.11
+"2022-03-02",7,"London",6.48
+"2022-03-02",8,"South East (England)",7.12
+"2022-03-02",9,"South West (England)",8.46
+"2022-03-02",10,"Wales",7.81
+"2022-03-02",11,"Scotland",5.77
+"2022-03-02",12,"Northern Ireland",8.43
+"2022-03-03",1,"North East (England)",6.57
+"2022-03-03",2,"North West (England)",6.95
+"2022-03-03",3,"Yorkshire and The Humber",7.11
+"2022-03-03",4,"East Midlands (England)",8.72
+"2022-03-03",5,"West Midlands (England)",8.77
+"2022-03-03",6,"East of England",8.51
+"2022-03-03",7,"London",9.71
+"2022-03-03",8,"South East (England)",9.32
+"2022-03-03",9,"South West (England)",8.23
+"2022-03-03",10,"Wales",6.5
+"2022-03-03",11,"Scotland",6.06
+"2022-03-03",12,"Northern Ireland",6.96
+"2022-03-04",1,"North East (England)",5.26
+"2022-03-04",2,"North West (England)",5.8
+"2022-03-04",3,"Yorkshire and The Humber",5.51
+"2022-03-04",4,"East Midlands (England)",5.7
+"2022-03-04",5,"West Midlands (England)",6.44
+"2022-03-04",6,"East of England",6.45
+"2022-03-04",7,"London",6.19
+"2022-03-04",8,"South East (England)",6.91
+"2022-03-04",9,"South West (England)",6.85
+"2022-03-04",10,"Wales",5.53
+"2022-03-04",11,"Scotland",4.66
+"2022-03-04",12,"Northern Ireland",5.44
+"2022-03-05",1,"North East (England)",4.97
+"2022-03-05",2,"North West (England)",5.52
+"2022-03-05",3,"Yorkshire and The Humber",5.16
+"2022-03-05",4,"East Midlands (England)",5.73
+"2022-03-05",5,"West Midlands (England)",6.07
+"2022-03-05",6,"East of England",5.13
+"2022-03-05",7,"London",5.66
+"2022-03-05",8,"South East (England)",6.19
+"2022-03-05",9,"South West (England)",6.74
+"2022-03-05",10,"Wales",5.56
+"2022-03-05",11,"Scotland",5.55
+"2022-03-05",12,"Northern Ireland",6.5
+"2022-03-06",1,"North East (England)",4.67
+"2022-03-06",2,"North West (England)",4.69
+"2022-03-06",3,"Yorkshire and The Humber",4.48
+"2022-03-06",4,"East Midlands (England)",5.05
+"2022-03-06",5,"West Midlands (England)",5.43
+"2022-03-06",6,"East of England",5.35
+"2022-03-06",7,"London",5
+"2022-03-06",8,"South East (England)",5.03
+"2022-03-06",9,"South West (England)",5.71
+"2022-03-06",10,"Wales",5.64
+"2022-03-06",11,"Scotland",4.84
+"2022-03-06",12,"Northern Ireland",5.55
+"2022-03-07",1,"North East (England)",4.41
+"2022-03-07",2,"North West (England)",5.26
+"2022-03-07",3,"Yorkshire and The Humber",4.38
+"2022-03-07",4,"East Midlands (England)",4.38
+"2022-03-07",5,"West Midlands (England)",5.21
+"2022-03-07",6,"East of England",3.93
+"2022-03-07",7,"London",3.92
+"2022-03-07",8,"South East (England)",4.25
+"2022-03-07",9,"South West (England)",4.75
+"2022-03-07",10,"Wales",5.3
+"2022-03-07",11,"Scotland",4.22
+"2022-03-07",12,"Northern Ireland",5.1
+"2022-03-08",1,"North East (England)",6.65
+"2022-03-08",2,"North West (England)",8.73
+"2022-03-08",3,"Yorkshire and The Humber",7.29
+"2022-03-08",4,"East Midlands (England)",7.89
+"2022-03-08",5,"West Midlands (England)",9.05
+"2022-03-08",6,"East of England",7.25
+"2022-03-08",7,"London",8.67
+"2022-03-08",8,"South East (England)",8.97
+"2022-03-08",9,"South West (England)",8.91
+"2022-03-08",10,"Wales",8.33
+"2022-03-08",11,"Scotland",6.48
+"2022-03-08",12,"Northern Ireland",7.24
+"2022-03-09",1,"North East (England)",9.48
+"2022-03-09",2,"North West (England)",9.46
+"2022-03-09",3,"Yorkshire and The Humber",9.64
+"2022-03-09",4,"East Midlands (England)",9.64
+"2022-03-09",5,"West Midlands (England)",9.73
+"2022-03-09",6,"East of England",9.43
+"2022-03-09",7,"London",9.59
+"2022-03-09",8,"South East (England)",9.94
+"2022-03-09",9,"South West (England)",9.89
+"2022-03-09",10,"Wales",9.14
+"2022-03-09",11,"Scotland",6.16
+"2022-03-09",12,"Northern Ireland",4.77
+"2022-03-10",1,"North East (England)",10.51
+"2022-03-10",2,"North West (England)",9.13
+"2022-03-10",3,"Yorkshire and The Humber",11.47
+"2022-03-10",4,"East Midlands (England)",12.38
+"2022-03-10",5,"West Midlands (England)",10.38
+"2022-03-10",6,"East of England",11.33
+"2022-03-10",7,"London",12.3
+"2022-03-10",8,"South East (England)",11.58
+"2022-03-10",9,"South West (England)",8.91
+"2022-03-10",10,"Wales",7.67
+"2022-03-10",11,"Scotland",8.01
+"2022-03-10",12,"Northern Ireland",7.64
+"2022-03-11",1,"North East (England)",8.58
+"2022-03-11",2,"North West (England)",8.92
+"2022-03-11",3,"Yorkshire and The Humber",9.05
+"2022-03-11",4,"East Midlands (England)",9.44
+"2022-03-11",5,"West Midlands (England)",9.02
+"2022-03-11",6,"East of England",9.7
+"2022-03-11",7,"London",9.22
+"2022-03-11",8,"South East (England)",9.45
+"2022-03-11",9,"South West (England)",9.44
+"2022-03-11",10,"Wales",8.41
+"2022-03-11",11,"Scotland",8.4
+"2022-03-11",12,"Northern Ireland",8.56
+"2022-03-12",1,"North East (England)",8.55
+"2022-03-12",2,"North West (England)",9.05
+"2022-03-12",3,"Yorkshire and The Humber",9.52
+"2022-03-12",4,"East Midlands (England)",9.44
+"2022-03-12",5,"West Midlands (England)",9.13
+"2022-03-12",6,"East of England",9.44
+"2022-03-12",7,"London",9.85
+"2022-03-12",8,"South East (England)",9.8
+"2022-03-12",9,"South West (England)",9.1
+"2022-03-12",10,"Wales",8.16
+"2022-03-12",11,"Scotland",6.48
+"2022-03-12",12,"Northern Ireland",7.09
+"2022-03-13",1,"North East (England)",9.67
+"2022-03-13",2,"North West (England)",9
+"2022-03-13",3,"Yorkshire and The Humber",9.83
+"2022-03-13",4,"East Midlands (England)",9.74
+"2022-03-13",5,"West Midlands (England)",8.93
+"2022-03-13",6,"East of England",8.88
+"2022-03-13",7,"London",8.76
+"2022-03-13",8,"South East (England)",8.81
+"2022-03-13",9,"South West (England)",8.27
+"2022-03-13",10,"Wales",7.84
+"2022-03-13",11,"Scotland",8.32
+"2022-03-13",12,"Northern Ireland",8.42
+"2022-03-14",1,"North East (England)",6.58
+"2022-03-14",2,"North West (England)",7.64
+"2022-03-14",3,"Yorkshire and The Humber",8.82
+"2022-03-14",4,"East Midlands (England)",9.7
+"2022-03-14",5,"West Midlands (England)",9.06
+"2022-03-14",6,"East of England",9.85
+"2022-03-14",7,"London",9.88
+"2022-03-14",8,"South East (England)",9.32
+"2022-03-14",9,"South West (England)",9.12
+"2022-03-14",10,"Wales",7.65
+"2022-03-14",11,"Scotland",7.11
+"2022-03-14",12,"Northern Ireland",8.44
+"2022-03-15",1,"North East (England)",9.57
+"2022-03-15",2,"North West (England)",10.14
+"2022-03-15",3,"Yorkshire and The Humber",10.84
+"2022-03-15",4,"East Midlands (England)",11.45
+"2022-03-15",5,"West Midlands (England)",11.34
+"2022-03-15",6,"East of England",10.18
+"2022-03-15",7,"London",10.94
+"2022-03-15",8,"South East (England)",10.38
+"2022-03-15",9,"South West (England)",10.21
+"2022-03-15",10,"Wales",10.04
+"2022-03-15",11,"Scotland",7.4
+"2022-03-15",12,"Northern Ireland",8.14
+"2022-03-16",1,"North East (England)",5.93
+"2022-03-16",2,"North West (England)",5.82
+"2022-03-16",3,"Yorkshire and The Humber",6.81
+"2022-03-16",4,"East Midlands (England)",7.72
+"2022-03-16",5,"West Midlands (England)",6.11
+"2022-03-16",6,"East of England",9.28
+"2022-03-16",7,"London",9.48
+"2022-03-16",8,"South East (England)",9.13
+"2022-03-16",9,"South West (England)",7.54
+"2022-03-16",10,"Wales",5.97
+"2022-03-16",11,"Scotland",5.91
+"2022-03-16",12,"Northern Ireland",7.42
+"2022-03-17",1,"North East (England)",9.03
+"2022-03-17",2,"North West (England)",9.23
+"2022-03-17",3,"Yorkshire and The Humber",10.17
+"2022-03-17",4,"East Midlands (England)",11.07
+"2022-03-17",5,"West Midlands (England)",10.56
+"2022-03-17",6,"East of England",10.54
+"2022-03-17",7,"London",10.16
+"2022-03-17",8,"South East (England)",10.08
+"2022-03-17",9,"South West (England)",10.7
+"2022-03-17",10,"Wales",9.42
+"2022-03-17",11,"Scotland",5.54
+"2022-03-17",12,"Northern Ireland",7.85
+"2022-03-18",1,"North East (England)",10.61
+"2022-03-18",2,"North West (England)",11.32
+"2022-03-18",3,"Yorkshire and The Humber",10.35
+"2022-03-18",4,"East Midlands (England)",11.23
+"2022-03-18",5,"West Midlands (England)",12.42
+"2022-03-18",6,"East of England",10.33
+"2022-03-18",7,"London",10.96
+"2022-03-18",8,"South East (England)",11.46
+"2022-03-18",9,"South West (England)",11.73
+"2022-03-18",10,"Wales",12.05
+"2022-03-18",11,"Scotland",9.5
+"2022-03-18",12,"Northern Ireland",10.69
+"2022-03-19",1,"North East (England)",8.28
+"2022-03-19",2,"North West (England)",10.77
+"2022-03-19",3,"Yorkshire and The Humber",8.14
+"2022-03-19",4,"East Midlands (England)",9.17
+"2022-03-19",5,"West Midlands (England)",11.33
+"2022-03-19",6,"East of England",8.96
+"2022-03-19",7,"London",9.95
+"2022-03-19",8,"South East (England)",10.55
+"2022-03-19",9,"South West (England)",10.95
+"2022-03-19",10,"Wales",11.83
+"2022-03-19",11,"Scotland",10.41
+"2022-03-19",12,"Northern Ireland",11.41
+"2022-03-20",1,"North East (England)",5.74
+"2022-03-20",2,"North West (England)",7.04
+"2022-03-20",3,"Yorkshire and The Humber",6.1
+"2022-03-20",4,"East Midlands (England)",7.35
+"2022-03-20",5,"West Midlands (England)",7.99
+"2022-03-20",6,"East of England",6.9
+"2022-03-20",7,"London",9.13
+"2022-03-20",8,"South East (England)",7.68
+"2022-03-20",9,"South West (England)",8.39
+"2022-03-20",10,"Wales",8.62
+"2022-03-20",11,"Scotland",7.54
+"2022-03-20",12,"Northern Ireland",8.54
+"2022-03-21",1,"North East (England)",8.35
+"2022-03-21",2,"North West (England)",9.5
+"2022-03-21",3,"Yorkshire and The Humber",9.16
+"2022-03-21",4,"East Midlands (England)",10.54
+"2022-03-21",5,"West Midlands (England)",11.46
+"2022-03-21",6,"East of England",10.37
+"2022-03-21",7,"London",12.4
+"2022-03-21",8,"South East (England)",12.09
+"2022-03-21",9,"South West (England)",12.04
+"2022-03-21",10,"Wales",11.75
+"2022-03-21",11,"Scotland",7.76
+"2022-03-21",12,"Northern Ireland",10.6
+"2022-03-22",1,"North East (England)",11
+"2022-03-22",2,"North West (England)",13.91
+"2022-03-22",3,"Yorkshire and The Humber",11.88
+"2022-03-22",4,"East Midlands (England)",14.06
+"2022-03-22",5,"West Midlands (England)",14.56
+"2022-03-22",6,"East of England",12.87
+"2022-03-22",7,"London",14.61
+"2022-03-22",8,"South East (England)",13.81
+"2022-03-22",9,"South West (England)",12.67
+"2022-03-22",10,"Wales",13.94
+"2022-03-22",11,"Scotland",11.19
+"2022-03-22",12,"Northern Ireland",12.87
+"2022-03-23",1,"North East (England)",12.61
+"2022-03-23",2,"North West (England)",14.03
+"2022-03-23",3,"Yorkshire and The Humber",12.7
+"2022-03-23",4,"East Midlands (England)",13.66
+"2022-03-23",5,"West Midlands (England)",15.16
+"2022-03-23",6,"East of England",12.72
+"2022-03-23",7,"London",13.98
+"2022-03-23",8,"South East (England)",13.18
+"2022-03-23",9,"South West (England)",12.68
+"2022-03-23",10,"Wales",13.95
+"2022-03-23",11,"Scotland",11.98
+"2022-03-23",12,"Northern Ireland",13.35
+"2022-03-24",1,"North East (England)",12.89
+"2022-03-24",2,"North West (England)",12.82
+"2022-03-24",3,"Yorkshire and The Humber",13.42
+"2022-03-24",4,"East Midlands (England)",12.92
+"2022-03-24",5,"West Midlands (England)",14.84
+"2022-03-24",6,"East of England",11.94
+"2022-03-24",7,"London",13.52
+"2022-03-24",8,"South East (England)",13.86
+"2022-03-24",9,"South West (England)",13.37
+"2022-03-24",10,"Wales",13.23
+"2022-03-24",11,"Scotland",10.77
+"2022-03-24",12,"Northern Ireland",11.59
+"2022-03-25",1,"North East (England)",12.69
+"2022-03-25",2,"North West (England)",13.84
+"2022-03-25",3,"Yorkshire and The Humber",13.51
+"2022-03-25",4,"East Midlands (England)",13.7
+"2022-03-25",5,"West Midlands (England)",13.85
+"2022-03-25",6,"East of England",11.8
+"2022-03-25",7,"London",12.56
+"2022-03-25",8,"South East (England)",12.74
+"2022-03-25",9,"South West (England)",13.54
+"2022-03-25",10,"Wales",12.89
+"2022-03-25",11,"Scotland",11.28
+"2022-03-25",12,"Northern Ireland",12.72
+"2022-03-26",1,"North East (England)",11.7
+"2022-03-26",2,"North West (England)",14.33
+"2022-03-26",3,"Yorkshire and The Humber",12.25
+"2022-03-26",4,"East Midlands (England)",13.24
+"2022-03-26",5,"West Midlands (England)",14.75
+"2022-03-26",6,"East of England",11.95
+"2022-03-26",7,"London",13.28
+"2022-03-26",8,"South East (England)",13.33
+"2022-03-26",9,"South West (England)",14.12
+"2022-03-26",10,"Wales",14.04
+"2022-03-26",11,"Scotland",10.89
+"2022-03-26",12,"Northern Ireland",13.47
+"2022-03-27",1,"North East (England)",13.18
+"2022-03-27",2,"North West (England)",13.76
+"2022-03-27",3,"Yorkshire and The Humber",11.66
+"2022-03-27",4,"East Midlands (England)",11.25
+"2022-03-27",5,"West Midlands (England)",12.16
+"2022-03-27",6,"East of England",9.69
+"2022-03-27",7,"London",9.78
+"2022-03-27",8,"South East (England)",10.81
+"2022-03-27",9,"South West (England)",12.64
+"2022-03-27",10,"Wales",12.59
+"2022-03-27",11,"Scotland",11.7
+"2022-03-27",12,"Northern Ireland",12.59
+"2022-03-28",1,"North East (England)",8.78
+"2022-03-28",2,"North West (England)",11.3
+"2022-03-28",3,"Yorkshire and The Humber",10.45
+"2022-03-28",4,"East Midlands (England)",11.97
+"2022-03-28",5,"West Midlands (England)",13.06
+"2022-03-28",6,"East of England",10.7
+"2022-03-28",7,"London",13.18
+"2022-03-28",8,"South East (England)",12.69
+"2022-03-28",9,"South West (England)",13.11
+"2022-03-28",10,"Wales",12.22
+"2022-03-28",11,"Scotland",9.85
+"2022-03-28",12,"Northern Ireland",12.3
+"2022-03-29",1,"North East (England)",7.01
+"2022-03-29",2,"North West (England)",9.01
+"2022-03-29",3,"Yorkshire and The Humber",7.67
+"2022-03-29",4,"East Midlands (England)",7.91
+"2022-03-29",5,"West Midlands (England)",8.97
+"2022-03-29",6,"East of England",7.72
+"2022-03-29",7,"London",8.81
+"2022-03-29",8,"South East (England)",9.1
+"2022-03-29",9,"South West (England)",10.11
+"2022-03-29",10,"Wales",10.39
+"2022-03-29",11,"Scotland",5.76
+"2022-03-29",12,"Northern Ireland",10.82
+"2022-03-30",1,"North East (England)",2.01
+"2022-03-30",2,"North West (England)",2.96
+"2022-03-30",3,"Yorkshire and The Humber",2.31
+"2022-03-30",4,"East Midlands (England)",3.08
+"2022-03-30",5,"West Midlands (England)",3.89
+"2022-03-30",6,"East of England",4.58
+"2022-03-30",7,"London",6.52
+"2022-03-30",8,"South East (England)",7.48
+"2022-03-30",9,"South West (England)",8.49
+"2022-03-30",10,"Wales",5.38
+"2022-03-30",11,"Scotland",3.45
+"2022-03-30",12,"Northern Ireland",5.06
+"2022-03-31",1,"North East (England)",2.5
+"2022-03-31",2,"North West (England)",3.72
+"2022-03-31",3,"Yorkshire and The Humber",2.93
+"2022-03-31",4,"East Midlands (England)",2.98
+"2022-03-31",5,"West Midlands (England)",3.86
+"2022-03-31",6,"East of England",3.47
+"2022-03-31",7,"London",3.17
+"2022-03-31",8,"South East (England)",3.73
+"2022-03-31",9,"South West (England)",5.23
+"2022-03-31",10,"Wales",4.63
+"2022-03-31",11,"Scotland",3.52
+"2022-03-31",12,"Northern Ireland",5.71
+"2022-04-01",1,"North East (England)",3.89
+"2022-04-01",2,"North West (England)",5.37
+"2022-04-01",3,"Yorkshire and The Humber",4.7
+"2022-04-01",4,"East Midlands (England)",4.98
+"2022-04-01",5,"West Midlands (England)",5.03
+"2022-04-01",6,"East of England",5.11
+"2022-04-01",7,"London",4.89
+"2022-04-01",8,"South East (England)",5.29
+"2022-04-01",9,"South West (England)",6.39
+"2022-04-01",10,"Wales",5.43
+"2022-04-01",11,"Scotland",4.39
+"2022-04-01",12,"Northern Ireland",5.9
+"2022-04-02",1,"North East (England)",5.26
+"2022-04-02",2,"North West (England)",6.66
+"2022-04-02",3,"Yorkshire and The Humber",5.53
+"2022-04-02",4,"East Midlands (England)",5.73
+"2022-04-02",5,"West Midlands (England)",6.22
+"2022-04-02",6,"East of England",5.5
+"2022-04-02",7,"London",5.18
+"2022-04-02",8,"South East (England)",5.43
+"2022-04-02",9,"South West (England)",6.36
+"2022-04-02",10,"Wales",6.08
+"2022-04-02",11,"Scotland",6.3
+"2022-04-02",12,"Northern Ireland",7.69
+"2022-04-03",1,"North East (England)",6.48
+"2022-04-03",2,"North West (England)",6.67
+"2022-04-03",3,"Yorkshire and The Humber",7.12
+"2022-04-03",4,"East Midlands (England)",8.24
+"2022-04-03",5,"West Midlands (England)",8.16
+"2022-04-03",6,"East of England",8.32
+"2022-04-03",7,"London",7.99
+"2022-04-03",8,"South East (England)",7.92
+"2022-04-03",9,"South West (England)",7.96
+"2022-04-03",10,"Wales",7.18
+"2022-04-03",11,"Scotland",6.83
+"2022-04-03",12,"Northern Ireland",8.9
+"2022-04-04",1,"North East (England)",10.52
+"2022-04-04",2,"North West (England)",10.17
+"2022-04-04",3,"Yorkshire and The Humber",11.05
+"2022-04-04",4,"East Midlands (England)",12.01
+"2022-04-04",5,"West Midlands (England)",11.96
+"2022-04-04",6,"East of England",12.38
+"2022-04-04",7,"London",12.73
+"2022-04-04",8,"South East (England)",12.48
+"2022-04-04",9,"South West (England)",11.67
+"2022-04-04",10,"Wales",10.85
+"2022-04-04",11,"Scotland",7.57
+"2022-04-04",12,"Northern Ireland",10.25
+"2022-04-05",1,"North East (England)",8.63
+"2022-04-05",2,"North West (England)",9.01
+"2022-04-05",3,"Yorkshire and The Humber",9.72
+"2022-04-05",4,"East Midlands (England)",11.46
+"2022-04-05",5,"West Midlands (England)",10.84
+"2022-04-05",6,"East of England",12.1
+"2022-04-05",7,"London",11.76
+"2022-04-05",8,"South East (England)",11.21
+"2022-04-05",9,"South West (England)",10.54
+"2022-04-05",10,"Wales",9.69
+"2022-04-05",11,"Scotland",5.89
+"2022-04-05",12,"Northern Ireland",10.53
+"2022-04-06",1,"North East (England)",8.09
+"2022-04-06",2,"North West (England)",8.51
+"2022-04-06",3,"Yorkshire and The Humber",9.26
+"2022-04-06",4,"East Midlands (England)",10.52
+"2022-04-06",5,"West Midlands (England)",9.9
+"2022-04-06",6,"East of England",10.99
+"2022-04-06",7,"London",10.74
+"2022-04-06",8,"South East (England)",10.52
+"2022-04-06",9,"South West (England)",10.17
+"2022-04-06",10,"Wales",8.79
+"2022-04-06",11,"Scotland",6.05
+"2022-04-06",12,"Northern Ireland",7.49
+"2022-04-07",1,"North East (England)",5.36
+"2022-04-07",2,"North West (England)",5.97
+"2022-04-07",3,"Yorkshire and The Humber",5.77
+"2022-04-07",4,"East Midlands (England)",6.28
+"2022-04-07",5,"West Midlands (England)",6.68
+"2022-04-07",6,"East of England",7.24
+"2022-04-07",7,"London",9.18
+"2022-04-07",8,"South East (England)",9.16
+"2022-04-07",9,"South West (England)",8.37
+"2022-04-07",10,"Wales",6.99
+"2022-04-07",11,"Scotland",4.68
+"2022-04-07",12,"Northern Ireland",7.18
+"2022-04-08",1,"North East (England)",5.72
+"2022-04-08",2,"North West (England)",6.4
+"2022-04-08",3,"Yorkshire and The Humber",6.23
+"2022-04-08",4,"East Midlands (England)",7.37
+"2022-04-08",5,"West Midlands (England)",7.14
+"2022-04-08",6,"East of England",7.64
+"2022-04-08",7,"London",8.92
+"2022-04-08",8,"South East (England)",8.13
+"2022-04-08",9,"South West (England)",7.79
+"2022-04-08",10,"Wales",6.32
+"2022-04-08",11,"Scotland",5.15
+"2022-04-08",12,"Northern Ireland",6.08
+"2022-04-09",1,"North East (England)",6.77
+"2022-04-09",2,"North West (England)",6.78
+"2022-04-09",3,"Yorkshire and The Humber",6.94
+"2022-04-09",4,"East Midlands (England)",7.71
+"2022-04-09",5,"West Midlands (England)",7.91
+"2022-04-09",6,"East of England",8.29
+"2022-04-09",7,"London",9.41
+"2022-04-09",8,"South East (England)",9.33
+"2022-04-09",9,"South West (England)",8.65
+"2022-04-09",10,"Wales",7.21
+"2022-04-09",11,"Scotland",5.83
+"2022-04-09",12,"Northern Ireland",8.45
+"2022-04-10",1,"North East (England)",8.61
+"2022-04-10",2,"North West (England)",8.93
+"2022-04-10",3,"Yorkshire and The Humber",9.81
+"2022-04-10",4,"East Midlands (England)",10.69
+"2022-04-10",5,"West Midlands (England)",10.42
+"2022-04-10",6,"East of England",10.23
+"2022-04-10",7,"London",9.91
+"2022-04-10",8,"South East (England)",9.43
+"2022-04-10",9,"South West (England)",9.74
+"2022-04-10",10,"Wales",9.62
+"2022-04-10",11,"Scotland",7.44
+"2022-04-10",12,"Northern Ireland",8.3
+"2022-04-11",1,"North East (England)",8.49
+"2022-04-11",2,"North West (England)",11.05
+"2022-04-11",3,"Yorkshire and The Humber",9.74
+"2022-04-11",4,"East Midlands (England)",11.8
+"2022-04-11",5,"West Midlands (England)",13.47
+"2022-04-11",6,"East of England",12.05
+"2022-04-11",7,"London",14.15
+"2022-04-11",8,"South East (England)",13.82
+"2022-04-11",9,"South West (England)",12.79
+"2022-04-11",10,"Wales",12.37
+"2022-04-11",11,"Scotland",8.28
+"2022-04-11",12,"Northern Ireland",10.04
+"2022-04-12",1,"North East (England)",7.52
+"2022-04-12",2,"North West (England)",11.47
+"2022-04-12",3,"Yorkshire and The Humber",11.32
+"2022-04-12",4,"East Midlands (England)",14.07
+"2022-04-12",5,"West Midlands (England)",13.28
+"2022-04-12",6,"East of England",14.05
+"2022-04-12",7,"London",13.42
+"2022-04-12",8,"South East (England)",12.38
+"2022-04-12",9,"South West (England)",12.15
+"2022-04-12",10,"Wales",11.39
+"2022-04-12",11,"Scotland",8.23
+"2022-04-12",12,"Northern Ireland",8.93
+"2022-04-13",1,"North East (England)",12.16
+"2022-04-13",2,"North West (England)",11.69
+"2022-04-13",3,"Yorkshire and The Humber",13.17
+"2022-04-13",4,"East Midlands (England)",14.56
+"2022-04-13",5,"West Midlands (England)",14.16
+"2022-04-13",6,"East of England",14.48
+"2022-04-13",7,"London",15.04
+"2022-04-13",8,"South East (England)",13.91
+"2022-04-13",9,"South West (England)",13.12
+"2022-04-13",10,"Wales",12.12
+"2022-04-13",11,"Scotland",9.63
+"2022-04-13",12,"Northern Ireland",13.3
+"2022-04-14",1,"North East (England)",11.86
+"2022-04-14",2,"North West (England)",12.78
+"2022-04-14",3,"Yorkshire and The Humber",13.89
+"2022-04-14",4,"East Midlands (England)",14.84
+"2022-04-14",5,"West Midlands (England)",14.46
+"2022-04-14",6,"East of England",14.62
+"2022-04-14",7,"London",15.9
+"2022-04-14",8,"South East (England)",14.38
+"2022-04-14",9,"South West (England)",13.73
+"2022-04-14",10,"Wales",12.91
+"2022-04-14",11,"Scotland",9.86
+"2022-04-14",12,"Northern Ireland",12.03
+"2022-04-15",1,"North East (England)",13.53
+"2022-04-15",2,"North West (England)",14.75
+"2022-04-15",3,"Yorkshire and The Humber",14.74
+"2022-04-15",4,"East Midlands (England)",16.9
+"2022-04-15",5,"West Midlands (England)",16.94
+"2022-04-15",6,"East of England",14.12
+"2022-04-15",7,"London",17.2
+"2022-04-15",8,"South East (England)",16.09
+"2022-04-15",9,"South West (England)",14.69
+"2022-04-15",10,"Wales",13.52
+"2022-04-15",11,"Scotland",11.59
+"2022-04-15",12,"Northern Ireland",12.76
+"2022-04-16",1,"North East (England)",15.17
+"2022-04-16",2,"North West (England)",15.97
+"2022-04-16",3,"Yorkshire and The Humber",16.05
+"2022-04-16",4,"East Midlands (England)",16.76
+"2022-04-16",5,"West Midlands (England)",17.72
+"2022-04-16",6,"East of England",13.43
+"2022-04-16",7,"London",14.93
+"2022-04-16",8,"South East (England)",15.34
+"2022-04-16",9,"South West (England)",15.1
+"2022-04-16",10,"Wales",15.09
+"2022-04-16",11,"Scotland",11.62
+"2022-04-16",12,"Northern Ireland",12.82
+"2022-04-17",1,"North East (England)",14.62
+"2022-04-17",2,"North West (England)",15.57
+"2022-04-17",3,"Yorkshire and The Humber",15.24
+"2022-04-17",4,"East Midlands (England)",15.44
+"2022-04-17",5,"West Midlands (England)",15.45
+"2022-04-17",6,"East of England",13.52
+"2022-04-17",7,"London",14.89
+"2022-04-17",8,"South East (England)",13.9
+"2022-04-17",9,"South West (England)",12.88
+"2022-04-17",10,"Wales",12.21
+"2022-04-17",11,"Scotland",12.56
+"2022-04-17",12,"Northern Ireland",10.5
+"2022-04-18",1,"North East (England)",10.79
+"2022-04-18",2,"North West (England)",10.07
+"2022-04-18",3,"Yorkshire and The Humber",11.85
+"2022-04-18",4,"East Midlands (England)",13.55
+"2022-04-18",5,"West Midlands (England)",12.01
+"2022-04-18",6,"East of England",13.62
+"2022-04-18",7,"London",14.33
+"2022-04-18",8,"South East (England)",13.09
+"2022-04-18",9,"South West (England)",11.23
+"2022-04-18",10,"Wales",9.82
+"2022-04-18",11,"Scotland",9.36
+"2022-04-18",12,"Northern Ireland",9.67
+"2022-04-19",1,"North East (England)",9.72
+"2022-04-19",2,"North West (England)",11.23
+"2022-04-19",3,"Yorkshire and The Humber",10.46
+"2022-04-19",4,"East Midlands (England)",11.68
+"2022-04-19",5,"West Midlands (England)",11.59
+"2022-04-19",6,"East of England",11.68
+"2022-04-19",7,"London",13.39
+"2022-04-19",8,"South East (England)",12.44
+"2022-04-19",9,"South West (England)",11.17
+"2022-04-19",10,"Wales",10.34
+"2022-04-19",11,"Scotland",10.08
+"2022-04-19",12,"Northern Ireland",9.87
+"2022-04-20",1,"North East (England)",9.82
+"2022-04-20",2,"North West (England)",13.15
+"2022-04-20",3,"Yorkshire and The Humber",11.28
+"2022-04-20",4,"East Midlands (England)",13.36
+"2022-04-20",5,"West Midlands (England)",14.93
+"2022-04-20",6,"East of England",12.4
+"2022-04-20",7,"London",13.29
+"2022-04-20",8,"South East (England)",13.73
+"2022-04-20",9,"South West (England)",14.53
+"2022-04-20",10,"Wales",13.88
+"2022-04-20",11,"Scotland",11.14
+"2022-04-20",12,"Northern Ireland",12.28
+"2022-04-21",1,"North East (England)",9.89
+"2022-04-21",2,"North West (England)",13.06
+"2022-04-21",3,"Yorkshire and The Humber",11.32
+"2022-04-21",4,"East Midlands (England)",13.15
+"2022-04-21",5,"West Midlands (England)",15.12
+"2022-04-21",6,"East of England",12.71
+"2022-04-21",7,"London",13.93
+"2022-04-21",8,"South East (England)",14.23
+"2022-04-21",9,"South West (England)",15.29
+"2022-04-21",10,"Wales",14.95
+"2022-04-21",11,"Scotland",11.21
+"2022-04-21",12,"Northern Ireland",13.74
+"2022-04-22",1,"North East (England)",9.53
+"2022-04-22",2,"North West (England)",12.41
+"2022-04-22",3,"Yorkshire and The Humber",10.48
+"2022-04-22",4,"East Midlands (England)",11.63
+"2022-04-22",5,"West Midlands (England)",13.28
+"2022-04-22",6,"East of England",11.26
+"2022-04-22",7,"London",12.31
+"2022-04-22",8,"South East (England)",12.48
+"2022-04-22",9,"South West (England)",13.42
+"2022-04-22",10,"Wales",13.48
+"2022-04-22",11,"Scotland",11.35
+"2022-04-22",12,"Northern Ireland",13.69
+"2022-04-23",1,"North East (England)",9.39
+"2022-04-23",2,"North West (England)",11.96
+"2022-04-23",3,"Yorkshire and The Humber",10.27
+"2022-04-23",4,"East Midlands (England)",11.46
+"2022-04-23",5,"West Midlands (England)",12.73
+"2022-04-23",6,"East of England",12.44
+"2022-04-23",7,"London",13.71
+"2022-04-23",8,"South East (England)",13.99
+"2022-04-23",9,"South West (England)",13.96
+"2022-04-23",10,"Wales",13.25
+"2022-04-23",11,"Scotland",10.42
+"2022-04-23",12,"Northern Ireland",13.7
+"2022-04-24",1,"North East (England)",8.22
+"2022-04-24",2,"North West (England)",11.24
+"2022-04-24",3,"Yorkshire and The Humber",9.58
+"2022-04-24",4,"East Midlands (England)",11.68
+"2022-04-24",5,"West Midlands (England)",13.54
+"2022-04-24",6,"East of England",11.53
+"2022-04-24",7,"London",13.53
+"2022-04-24",8,"South East (England)",13.49
+"2022-04-24",9,"South West (England)",14.43
+"2022-04-24",10,"Wales",13.47
+"2022-04-24",11,"Scotland",9.11
+"2022-04-24",12,"Northern Ireland",12.77
+"2022-04-25",1,"North East (England)",8.44
+"2022-04-25",2,"North West (England)",10.59
+"2022-04-25",3,"Yorkshire and The Humber",9.68
+"2022-04-25",4,"East Midlands (England)",11.02
+"2022-04-25",5,"West Midlands (England)",11.75
+"2022-04-25",6,"East of England",11.08
+"2022-04-25",7,"London",11.94
+"2022-04-25",8,"South East (England)",11.88
+"2022-04-25",9,"South West (England)",12.27
+"2022-04-25",10,"Wales",11.26
+"2022-04-25",11,"Scotland",8.75
+"2022-04-25",12,"Northern Ireland",10.35
+"2022-04-26",1,"North East (England)",7.84
+"2022-04-26",2,"North West (England)",9.88
+"2022-04-26",3,"Yorkshire and The Humber",8.48
+"2022-04-26",4,"East Midlands (England)",10.24
+"2022-04-26",5,"West Midlands (England)",12.13
+"2022-04-26",6,"East of England",10.41
+"2022-04-26",7,"London",12
+"2022-04-26",8,"South East (England)",11.92
+"2022-04-26",9,"South West (England)",12.57
+"2022-04-26",10,"Wales",12.09
+"2022-04-26",11,"Scotland",8.71
+"2022-04-26",12,"Northern Ireland",11.31
+"2022-04-27",1,"North East (England)",7.45
+"2022-04-27",2,"North West (England)",9.67
+"2022-04-27",3,"Yorkshire and The Humber",7.91
+"2022-04-27",4,"East Midlands (England)",8.68
+"2022-04-27",5,"West Midlands (England)",9.64
+"2022-04-27",6,"East of England",9.1
+"2022-04-27",7,"London",9.86
+"2022-04-27",8,"South East (England)",9.94
+"2022-04-27",9,"South West (England)",10.59
+"2022-04-27",10,"Wales",10.32
+"2022-04-27",11,"Scotland",9.71
+"2022-04-27",12,"Northern Ireland",10.55
+"2022-04-28",1,"North East (England)",8.69
+"2022-04-28",2,"North West (England)",9.4
+"2022-04-28",3,"Yorkshire and The Humber",7.97
+"2022-04-28",4,"East Midlands (England)",9.02
+"2022-04-28",5,"West Midlands (England)",9.85
+"2022-04-28",6,"East of England",9.69
+"2022-04-28",7,"London",10.69
+"2022-04-28",8,"South East (England)",11.4
+"2022-04-28",9,"South West (England)",12.18
+"2022-04-28",10,"Wales",10.11
+"2022-04-28",11,"Scotland",10.33
+"2022-04-28",12,"Northern Ireland",10.7
+"2022-04-29",1,"North East (England)",12.17
+"2022-04-29",2,"North West (England)",12.41
+"2022-04-29",3,"Yorkshire and The Humber",11.8
+"2022-04-29",4,"East Midlands (England)",10.7
+"2022-04-29",5,"West Midlands (England)",11.76
+"2022-04-29",6,"East of England",9.12
+"2022-04-29",7,"London",9.82
+"2022-04-29",8,"South East (England)",10.1
+"2022-04-29",9,"South West (England)",11.3
+"2022-04-29",10,"Wales",11.48
+"2022-04-29",11,"Scotland",11.41
+"2022-04-29",12,"Northern Ireland",12.28
+"2022-04-30",1,"North East (England)",9.9
+"2022-04-30",2,"North West (England)",10.32
+"2022-04-30",3,"Yorkshire and The Humber",12.25
+"2022-04-30",4,"East Midlands (England)",14.42
+"2022-04-30",5,"West Midlands (England)",13.88
+"2022-04-30",6,"East of England",13.43
+"2022-04-30",7,"London",14.44
+"2022-04-30",8,"South East (England)",13.36
+"2022-04-30",9,"South West (England)",12.45
+"2022-04-30",10,"Wales",11.05
+"2022-04-30",11,"Scotland",8.95
+"2022-04-30",12,"Northern Ireland",10.63
+"2022-05-01",1,"North East (England)",12.37
+"2022-05-01",2,"North West (England)",11.85
+"2022-05-01",3,"Yorkshire and The Humber",12.35
+"2022-05-01",4,"East Midlands (England)",12.05
+"2022-05-01",5,"West Midlands (England)",11.17
+"2022-05-01",6,"East of England",12.19
+"2022-05-01",7,"London",11.39
+"2022-05-01",8,"South East (England)",11.04
+"2022-05-01",9,"South West (England)",10.02
+"2022-05-01",10,"Wales",10.4
+"2022-05-01",11,"Scotland",11.89
+"2022-05-01",12,"Northern Ireland",12.18
+"2022-05-02",1,"North East (England)",8.62
+"2022-05-02",2,"North West (England)",11.8
+"2022-05-02",3,"Yorkshire and The Humber",10.31
+"2022-05-02",4,"East Midlands (England)",13.15
+"2022-05-02",5,"West Midlands (England)",13.51
+"2022-05-02",6,"East of England",13.43
+"2022-05-02",7,"London",14.33
+"2022-05-02",8,"South East (England)",13.25
+"2022-05-02",9,"South West (England)",12.48
+"2022-05-02",10,"Wales",12.06
+"2022-05-02",11,"Scotland",9.37
+"2022-05-02",12,"Northern Ireland",11.56
+"2022-05-03",1,"North East (England)",10.79
+"2022-05-03",2,"North West (England)",12.3
+"2022-05-03",3,"Yorkshire and The Humber",11.22
+"2022-05-03",4,"East Midlands (England)",12.31
+"2022-05-03",5,"West Midlands (England)",13.66
+"2022-05-03",6,"East of England",12.06
+"2022-05-03",7,"London",13.39
+"2022-05-03",8,"South East (England)",12.99
+"2022-05-03",9,"South West (England)",13.24
+"2022-05-03",10,"Wales",12.57
+"2022-05-03",11,"Scotland",10.06
+"2022-05-03",12,"Northern Ireland",12.31
+"2022-05-04",1,"North East (England)",13.33
+"2022-05-04",2,"North West (England)",11.73
+"2022-05-04",3,"Yorkshire and The Humber",12.98
+"2022-05-04",4,"East Midlands (England)",12.92
+"2022-05-04",5,"West Midlands (England)",13.37
+"2022-05-04",6,"East of England",13.19
+"2022-05-04",7,"London",14
+"2022-05-04",8,"South East (England)",13.86
+"2022-05-04",9,"South West (England)",14.15
+"2022-05-04",10,"Wales",12.8
+"2022-05-04",11,"Scotland",11.11
+"2022-05-04",12,"Northern Ireland",12.27
+"2022-05-05",1,"North East (England)",13.87
+"2022-05-05",2,"North West (England)",13.66
+"2022-05-05",3,"Yorkshire and The Humber",15.17
+"2022-05-05",4,"East Midlands (England)",17.44
+"2022-05-05",5,"West Midlands (England)",17.89
+"2022-05-05",6,"East of England",16.43
+"2022-05-05",7,"London",17.87
+"2022-05-05",8,"South East (England)",17.06
+"2022-05-05",9,"South West (England)",15.82
+"2022-05-05",10,"Wales",14.71
+"2022-05-05",11,"Scotland",12.71
+"2022-05-05",12,"Northern Ireland",14.24
+"2022-05-06",1,"North East (England)",12.55
+"2022-05-06",2,"North West (England)",12.34
+"2022-05-06",3,"Yorkshire and The Humber",13.29
+"2022-05-06",4,"East Midlands (England)",15.24
+"2022-05-06",5,"West Midlands (England)",14.18
+"2022-05-06",6,"East of England",16.82
+"2022-05-06",7,"London",16.58
+"2022-05-06",8,"South East (England)",15.37
+"2022-05-06",9,"South West (England)",13.78
+"2022-05-06",10,"Wales",12.38
+"2022-05-06",11,"Scotland",12.02
+"2022-05-06",12,"Northern Ireland",13.72
+"2022-05-07",1,"North East (England)",11.18
+"2022-05-07",2,"North West (England)",13.71
+"2022-05-07",3,"Yorkshire and The Humber",11.39
+"2022-05-07",4,"East Midlands (England)",13.71
+"2022-05-07",5,"West Midlands (England)",16.05
+"2022-05-07",6,"East of England",13.88
+"2022-05-07",7,"London",15.6
+"2022-05-07",8,"South East (England)",15.94
+"2022-05-07",9,"South West (England)",16.26
+"2022-05-07",10,"Wales",14.61
+"2022-05-07",11,"Scotland",11.81
+"2022-05-07",12,"Northern Ireland",13.83
+"2022-05-08",1,"North East (England)",14.34
+"2022-05-08",2,"North West (England)",15.27
+"2022-05-08",3,"Yorkshire and The Humber",14.4
+"2022-05-08",4,"East Midlands (England)",15.33
+"2022-05-08",5,"West Midlands (England)",16.87
+"2022-05-08",6,"East of England",13.74
+"2022-05-08",7,"London",14.8
+"2022-05-08",8,"South East (England)",15.28
+"2022-05-08",9,"South West (England)",15.48
+"2022-05-08",10,"Wales",15.72
+"2022-05-08",11,"Scotland",13.87
+"2022-05-08",12,"Northern Ireland",15.86
+"2022-05-09",1,"North East (England)",13.98
+"2022-05-09",2,"North West (England)",13.79
+"2022-05-09",3,"Yorkshire and The Humber",16.73
+"2022-05-09",4,"East Midlands (England)",18.5
+"2022-05-09",5,"West Midlands (England)",17.45
+"2022-05-09",6,"East of England",18.53
+"2022-05-09",7,"London",18.66
+"2022-05-09",8,"South East (England)",17.4
+"2022-05-09",9,"South West (England)",16.02
+"2022-05-09",10,"Wales",13.77
+"2022-05-09",11,"Scotland",11.63
+"2022-05-09",12,"Northern Ireland",13.66
+"2022-05-10",1,"North East (England)",13.37
+"2022-05-10",2,"North West (England)",13.62
+"2022-05-10",3,"Yorkshire and The Humber",14.89
+"2022-05-10",4,"East Midlands (England)",17.01
+"2022-05-10",5,"West Midlands (England)",15.43
+"2022-05-10",6,"East of England",17.33
+"2022-05-10",7,"London",17.16
+"2022-05-10",8,"South East (England)",15.69
+"2022-05-10",9,"South West (England)",14.6
+"2022-05-10",10,"Wales",12.92
+"2022-05-10",11,"Scotland",11.13
+"2022-05-10",12,"Northern Ireland",12.46
+"2022-05-11",1,"North East (England)",13.15
+"2022-05-11",2,"North West (England)",12.71
+"2022-05-11",3,"Yorkshire and The Humber",13.48
+"2022-05-11",4,"East Midlands (England)",13.95
+"2022-05-11",5,"West Midlands (England)",14.19
+"2022-05-11",6,"East of England",14.17
+"2022-05-11",7,"London",14.4
+"2022-05-11",8,"South East (England)",14.27
+"2022-05-11",9,"South West (England)",13.87
+"2022-05-11",10,"Wales",13.11
+"2022-05-11",11,"Scotland",11.02
+"2022-05-11",12,"Northern Ireland",12.06
+"2022-05-12",1,"North East (England)",11.27
+"2022-05-12",2,"North West (England)",11.75
+"2022-05-12",3,"Yorkshire and The Humber",12.75
+"2022-05-12",4,"East Midlands (England)",14.45
+"2022-05-12",5,"West Midlands (England)",13.57
+"2022-05-12",6,"East of England",15.06
+"2022-05-12",7,"London",14.92
+"2022-05-12",8,"South East (England)",14.28
+"2022-05-12",9,"South West (England)",13.63
+"2022-05-12",10,"Wales",11.99
+"2022-05-12",11,"Scotland",10.03
+"2022-05-12",12,"Northern Ireland",10.6
+"2022-05-13",1,"North East (England)",13.2
+"2022-05-13",2,"North West (England)",13.84
+"2022-05-13",3,"Yorkshire and The Humber",14.66
+"2022-05-13",4,"East Midlands (England)",17.04
+"2022-05-13",5,"West Midlands (England)",15.69
+"2022-05-13",6,"East of England",17.67
+"2022-05-13",7,"London",17.67
+"2022-05-13",8,"South East (England)",15.99
+"2022-05-13",9,"South West (England)",14.69
+"2022-05-13",10,"Wales",13.5
+"2022-05-13",11,"Scotland",11.14
+"2022-05-13",12,"Northern Ireland",14.33
+"2022-05-14",1,"North East (England)",16.5
+"2022-05-14",2,"North West (England)",16.47
+"2022-05-14",3,"Yorkshire and The Humber",18.22
+"2022-05-14",4,"East Midlands (England)",20.23
+"2022-05-14",5,"West Midlands (England)",19.04
+"2022-05-14",6,"East of England",18.67
+"2022-05-14",7,"London",19.39
+"2022-05-14",8,"South East (England)",17.46
+"2022-05-14",9,"South West (England)",15.94
+"2022-05-14",10,"Wales",15.84
+"2022-05-14",11,"Scotland",13.61
+"2022-05-14",12,"Northern Ireland",15.51
+"2022-05-15",1,"North East (England)",12.84
+"2022-05-15",2,"North West (England)",15.57
+"2022-05-15",3,"Yorkshire and The Humber",13.93
+"2022-05-15",4,"East Midlands (England)",15.03
+"2022-05-15",5,"West Midlands (England)",15.25
+"2022-05-15",6,"East of England",15.61
+"2022-05-15",7,"London",17.28
+"2022-05-15",8,"South East (England)",17.07
+"2022-05-15",9,"South West (England)",15.41
+"2022-05-15",10,"Wales",16.03
+"2022-05-15",11,"Scotland",14.45
+"2022-05-15",12,"Northern Ireland",15.35
+"2022-05-16",1,"North East (England)",15.15
+"2022-05-16",2,"North West (England)",15.96
+"2022-05-16",3,"Yorkshire and The Humber",16.87
+"2022-05-16",4,"East Midlands (England)",18.27
+"2022-05-16",5,"West Midlands (England)",17.12
+"2022-05-16",6,"East of England",18.91
+"2022-05-16",7,"London",17.94
+"2022-05-16",8,"South East (England)",16.67
+"2022-05-16",9,"South West (England)",15.89
+"2022-05-16",10,"Wales",14.96
+"2022-05-16",11,"Scotland",10.97
+"2022-05-16",12,"Northern Ireland",16.21
+"2022-05-17",1,"North East (England)",17.49
+"2022-05-17",2,"North West (England)",18.08
+"2022-05-17",3,"Yorkshire and The Humber",19.01
+"2022-05-17",4,"East Midlands (England)",20.58
+"2022-05-17",5,"West Midlands (England)",18.64
+"2022-05-17",6,"East of England",20.05
+"2022-05-17",7,"London",21.91
+"2022-05-17",8,"South East (England)",19.54
+"2022-05-17",9,"South West (England)",15.9
+"2022-05-17",10,"Wales",13.65
+"2022-05-17",11,"Scotland",13.68
+"2022-05-17",12,"Northern Ireland",10.99
+"2022-05-18",1,"North East (England)",16.32
+"2022-05-18",2,"North West (England)",16.78
+"2022-05-18",3,"Yorkshire and The Humber",17.48
+"2022-05-18",4,"East Midlands (England)",18.73
+"2022-05-18",5,"West Midlands (England)",16.33
+"2022-05-18",6,"East of England",17.93
+"2022-05-18",7,"London",19.31
+"2022-05-18",8,"South East (England)",17.54
+"2022-05-18",9,"South West (England)",14.14
+"2022-05-18",10,"Wales",14.2
+"2022-05-18",11,"Scotland",14.33
+"2022-05-18",12,"Northern Ireland",13.59
+"2022-05-19",1,"North East (England)",14.91
+"2022-05-19",2,"North West (England)",15.12
+"2022-05-19",3,"Yorkshire and The Humber",16.35
+"2022-05-19",4,"East Midlands (England)",18
+"2022-05-19",5,"West Midlands (England)",17.11
+"2022-05-19",6,"East of England",18.46
+"2022-05-19",7,"London",19.55
+"2022-05-19",8,"South East (England)",17.46
+"2022-05-19",9,"South West (England)",15.51
+"2022-05-19",10,"Wales",13.87
+"2022-05-19",11,"Scotland",13.77
+"2022-05-19",12,"Northern Ireland",15.33
+"2022-05-20",1,"North East (England)",12.96
+"2022-05-20",2,"North West (England)",12.66
+"2022-05-20",3,"Yorkshire and The Humber",13.9
+"2022-05-20",4,"East Midlands (England)",14.93
+"2022-05-20",5,"West Midlands (England)",14.68
+"2022-05-20",6,"East of England",15.78
+"2022-05-20",7,"London",15.64
+"2022-05-20",8,"South East (England)",14.78
+"2022-05-20",9,"South West (England)",14.67
+"2022-05-20",10,"Wales",13.34
+"2022-05-20",11,"Scotland",11.79
+"2022-05-20",12,"Northern Ireland",12.94
+"2022-05-21",1,"North East (England)",14.03
+"2022-05-21",2,"North West (England)",14.4
+"2022-05-21",3,"Yorkshire and The Humber",15.48
+"2022-05-21",4,"East Midlands (England)",17.07
+"2022-05-21",5,"West Midlands (England)",16.77
+"2022-05-21",6,"East of England",16.85
+"2022-05-21",7,"London",17.56
+"2022-05-21",8,"South East (England)",16.64
+"2022-05-21",9,"South West (England)",15.98
+"2022-05-21",10,"Wales",14.48
+"2022-05-21",11,"Scotland",12.44
+"2022-05-21",12,"Northern Ireland",14.74
+"2022-05-22",1,"North East (England)",14.97
+"2022-05-22",2,"North West (England)",14.98
+"2022-05-22",3,"Yorkshire and The Humber",16.9
+"2022-05-22",4,"East Midlands (England)",19.09
+"2022-05-22",5,"West Midlands (England)",17.12
+"2022-05-22",6,"East of England",18.31
+"2022-05-22",7,"London",19.34
+"2022-05-22",8,"South East (England)",17.83
+"2022-05-22",9,"South West (England)",16.15
+"2022-05-22",10,"Wales",13.76
+"2022-05-22",11,"Scotland",12.88
+"2022-05-22",12,"Northern Ireland",13.99
+"2022-05-23",1,"North East (England)",13.69
+"2022-05-23",2,"North West (England)",12.28
+"2022-05-23",3,"Yorkshire and The Humber",13.65
+"2022-05-23",4,"East Midlands (England)",13.78
+"2022-05-23",5,"West Midlands (England)",12
+"2022-05-23",6,"East of England",15.38
+"2022-05-23",7,"London",15.67
+"2022-05-23",8,"South East (England)",14.19
+"2022-05-23",9,"South West (England)",12.16
+"2022-05-23",10,"Wales",11.55
+"2022-05-23",11,"Scotland",11.35
+"2022-05-23",12,"Northern Ireland",11.6
+"2022-05-24",1,"North East (England)",12.54
+"2022-05-24",2,"North West (England)",12.91
+"2022-05-24",3,"Yorkshire and The Humber",13.47
+"2022-05-24",4,"East Midlands (England)",14.52
+"2022-05-24",5,"West Midlands (England)",14.67
+"2022-05-24",6,"East of England",14.59
+"2022-05-24",7,"London",14.66
+"2022-05-24",8,"South East (England)",14.74
+"2022-05-24",9,"South West (England)",13.98
+"2022-05-24",10,"Wales",13.22
+"2022-05-24",11,"Scotland",11.22
+"2022-05-24",12,"Northern Ireland",13
+"2022-05-25",1,"North East (England)",13.64
+"2022-05-25",2,"North West (England)",13.88
+"2022-05-25",3,"Yorkshire and The Humber",14.95
+"2022-05-25",4,"East Midlands (England)",16.66
+"2022-05-25",5,"West Midlands (England)",15.99
+"2022-05-25",6,"East of England",17.1
+"2022-05-25",7,"London",16.69
+"2022-05-25",8,"South East (England)",15.86
+"2022-05-25",9,"South West (England)",14.81
+"2022-05-25",10,"Wales",14.4
+"2022-05-25",11,"Scotland",11.3
+"2022-05-25",12,"Northern Ireland",12.94
+"2022-05-26",1,"North East (England)",13.27
+"2022-05-26",2,"North West (England)",13.73
+"2022-05-26",3,"Yorkshire and The Humber",14.87
+"2022-05-26",4,"East Midlands (England)",16.54
+"2022-05-26",5,"West Midlands (England)",16.03
+"2022-05-26",6,"East of England",17.23
+"2022-05-26",7,"London",17.14
+"2022-05-26",8,"South East (England)",16.37
+"2022-05-26",9,"South West (England)",14.82
+"2022-05-26",10,"Wales",14.39
+"2022-05-26",11,"Scotland",10.23
+"2022-05-26",12,"Northern Ireland",12.5
+"2022-05-27",1,"North East (England)",13.41
+"2022-05-27",2,"North West (England)",12.74
+"2022-05-27",3,"Yorkshire and The Humber",13.94
+"2022-05-27",4,"East Midlands (England)",15.05
+"2022-05-27",5,"West Midlands (England)",15.03
+"2022-05-27",6,"East of England",16.45
+"2022-05-27",7,"London",18.04
+"2022-05-27",8,"South East (England)",17.7
+"2022-05-27",9,"South West (England)",15.73
+"2022-05-27",10,"Wales",13.87
+"2022-05-27",11,"Scotland",11.16
+"2022-05-27",12,"Northern Ireland",12.59
+"2022-05-28",1,"North East (England)",12.05
+"2022-05-28",2,"North West (England)",14.35
+"2022-05-28",3,"Yorkshire and The Humber",12.76
+"2022-05-28",4,"East Midlands (England)",13.61
+"2022-05-28",5,"West Midlands (England)",15.29
+"2022-05-28",6,"East of England",13.09
+"2022-05-28",7,"London",14.74
+"2022-05-28",8,"South East (England)",15.26
+"2022-05-28",9,"South West (England)",15.91
+"2022-05-28",10,"Wales",14.29
+"2022-05-28",11,"Scotland",11.52
+"2022-05-28",12,"Northern Ireland",13.75
+"2022-05-29",1,"North East (England)",11.61
+"2022-05-29",2,"North West (England)",12.09
+"2022-05-29",3,"Yorkshire and The Humber",11.43
+"2022-05-29",4,"East Midlands (England)",11.55
+"2022-05-29",5,"West Midlands (England)",12.46
+"2022-05-29",6,"East of England",11.69
+"2022-05-29",7,"London",12.39
+"2022-05-29",8,"South East (England)",13.03
+"2022-05-29",9,"South West (England)",13.04
+"2022-05-29",10,"Wales",11.77
+"2022-05-29",11,"Scotland",9.63
+"2022-05-29",12,"Northern Ireland",11.64
+"2022-05-30",1,"North East (England)",9.67
+"2022-05-30",2,"North West (England)",10.33
+"2022-05-30",3,"Yorkshire and The Humber",11.07
+"2022-05-30",4,"East Midlands (England)",12.13
+"2022-05-30",5,"West Midlands (England)",12.31
+"2022-05-30",6,"East of England",12.22
+"2022-05-30",7,"London",12.68
+"2022-05-30",8,"South East (England)",12.34
+"2022-05-30",9,"South West (England)",12.57
+"2022-05-30",10,"Wales",11.33
+"2022-05-30",11,"Scotland",9.61
+"2022-05-30",12,"Northern Ireland",10.58
+"2022-05-31",1,"North East (England)",10.61
+"2022-05-31",2,"North West (England)",11.25
+"2022-05-31",3,"Yorkshire and The Humber",10.72
+"2022-05-31",4,"East Midlands (England)",12.07
+"2022-05-31",5,"West Midlands (England)",13.09
+"2022-05-31",6,"East of England",12.53
+"2022-05-31",7,"London",13.94
+"2022-05-31",8,"South East (England)",13.93
+"2022-05-31",9,"South West (England)",14.03
+"2022-05-31",10,"Wales",12.61
+"2022-05-31",11,"Scotland",10.57
+"2022-05-31",12,"Northern Ireland",10.58
+"2022-06-01",1,"North East (England)",13.58
+"2022-06-01",2,"North West (England)",14.4
+"2022-06-01",3,"Yorkshire and The Humber",13.91
+"2022-06-01",4,"East Midlands (England)",15.04
+"2022-06-01",5,"West Midlands (England)",16.13
+"2022-06-01",6,"East of England",15.07
+"2022-06-01",7,"London",17
+"2022-06-01",8,"South East (England)",16.41
+"2022-06-01",9,"South West (England)",15.9
+"2022-06-01",10,"Wales",14.73
+"2022-06-01",11,"Scotland",13.84
+"2022-06-01",12,"Northern Ireland",14.72
+"2022-06-02",1,"North East (England)",14.88
+"2022-06-02",2,"North West (England)",16.04
+"2022-06-02",3,"Yorkshire and The Humber",15.98
+"2022-06-02",4,"East Midlands (England)",17.36
+"2022-06-02",5,"West Midlands (England)",17.72
+"2022-06-02",6,"East of England",16.04
+"2022-06-02",7,"London",17.4
+"2022-06-02",8,"South East (England)",17.43
+"2022-06-02",9,"South West (England)",17.24
+"2022-06-02",10,"Wales",15.44
+"2022-06-02",11,"Scotland",13.4
+"2022-06-02",12,"Northern Ireland",12.13
+"2022-06-03",1,"North East (England)",12.5
+"2022-06-03",2,"North West (England)",15.56
+"2022-06-03",3,"Yorkshire and The Humber",14.6
+"2022-06-03",4,"East Midlands (England)",16.23
+"2022-06-03",5,"West Midlands (England)",16.73
+"2022-06-03",6,"East of England",16.38
+"2022-06-03",7,"London",17.42
+"2022-06-03",8,"South East (England)",17.52
+"2022-06-03",9,"South West (England)",17.72
+"2022-06-03",10,"Wales",15.69
+"2022-06-03",11,"Scotland",13.89
+"2022-06-03",12,"Northern Ireland",15.08
+"2022-06-04",1,"North East (England)",11.98
+"2022-06-04",2,"North West (England)",14.17
+"2022-06-04",3,"Yorkshire and The Humber",12.07
+"2022-06-04",4,"East Midlands (England)",13.43
+"2022-06-04",5,"West Midlands (England)",15.21
+"2022-06-04",6,"East of England",13.91
+"2022-06-04",7,"London",15.36
+"2022-06-04",8,"South East (England)",16.16
+"2022-06-04",9,"South West (England)",17.19
+"2022-06-04",10,"Wales",15.38
+"2022-06-04",11,"Scotland",15.19
+"2022-06-04",12,"Northern Ireland",15.58
+"2022-06-05",1,"North East (England)",11.11
+"2022-06-05",2,"North West (England)",11.71
+"2022-06-05",3,"Yorkshire and The Humber",10.63
+"2022-06-05",4,"East Midlands (England)",11.09
+"2022-06-05",5,"West Midlands (England)",10.87
+"2022-06-05",6,"East of England",12.71
+"2022-06-05",7,"London",14.17
+"2022-06-05",8,"South East (England)",14.19
+"2022-06-05",9,"South West (England)",13.42
+"2022-06-05",10,"Wales",11.18
+"2022-06-05",11,"Scotland",14.53
+"2022-06-05",12,"Northern Ireland",14.29
+"2022-06-06",1,"North East (England)",12.88
+"2022-06-06",2,"North West (England)",14.37
+"2022-06-06",3,"Yorkshire and The Humber",13.68
+"2022-06-06",4,"East Midlands (England)",13.8
+"2022-06-06",5,"West Midlands (England)",14.38
+"2022-06-06",6,"East of England",13.97
+"2022-06-06",7,"London",16.02
+"2022-06-06",8,"South East (England)",15.97
+"2022-06-06",9,"South West (England)",16.28
+"2022-06-06",10,"Wales",14.57
+"2022-06-06",11,"Scotland",14.05
+"2022-06-06",12,"Northern Ireland",14.9
+"2022-06-07",1,"North East (England)",14.46
+"2022-06-07",2,"North West (England)",17.12
+"2022-06-07",3,"Yorkshire and The Humber",16.05
+"2022-06-07",4,"East Midlands (England)",18.26
+"2022-06-07",5,"West Midlands (England)",18.35
+"2022-06-07",6,"East of England",17.61
+"2022-06-07",7,"London",17.7
+"2022-06-07",8,"South East (England)",17.15
+"2022-06-07",9,"South West (England)",16.44
+"2022-06-07",10,"Wales",16.69
+"2022-06-07",11,"Scotland",14.35
+"2022-06-07",12,"Northern Ireland",14.76
+"2022-06-08",1,"North East (England)",15.53
+"2022-06-08",2,"North West (England)",15.11
+"2022-06-08",3,"Yorkshire and The Humber",16.78
+"2022-06-08",4,"East Midlands (England)",17.61
+"2022-06-08",5,"West Midlands (England)",16.64
+"2022-06-08",6,"East of England",17.87
+"2022-06-08",7,"London",18.34
+"2022-06-08",8,"South East (England)",17.35
+"2022-06-08",9,"South West (England)",15.8
+"2022-06-08",10,"Wales",15.25
+"2022-06-08",11,"Scotland",12.66
+"2022-06-08",12,"Northern Ireland",13.38
+"2022-06-09",1,"North East (England)",15.58
+"2022-06-09",2,"North West (England)",15.47
+"2022-06-09",3,"Yorkshire and The Humber",16.07
+"2022-06-09",4,"East Midlands (England)",16.75
+"2022-06-09",5,"West Midlands (England)",16.54
+"2022-06-09",6,"East of England",17.19
+"2022-06-09",7,"London",17.12
+"2022-06-09",8,"South East (England)",16.4
+"2022-06-09",9,"South West (England)",16.4
+"2022-06-09",10,"Wales",15.88
+"2022-06-09",11,"Scotland",14.55
+"2022-06-09",12,"Northern Ireland",17.43
+"2022-06-10",1,"North East (England)",16.45
+"2022-06-10",2,"North West (England)",16.51
+"2022-06-10",3,"Yorkshire and The Humber",18.5
+"2022-06-10",4,"East Midlands (England)",19.72
+"2022-06-10",5,"West Midlands (England)",18.16
+"2022-06-10",6,"East of England",20.13
+"2022-06-10",7,"London",19.55
+"2022-06-10",8,"South East (England)",18.24
+"2022-06-10",9,"South West (England)",17.23
+"2022-06-10",10,"Wales",15.68
+"2022-06-10",11,"Scotland",14.15
+"2022-06-10",12,"Northern Ireland",15.37
+"2022-06-11",1,"North East (England)",15.1
+"2022-06-11",2,"North West (England)",15.16
+"2022-06-11",3,"Yorkshire and The Humber",16.66
+"2022-06-11",4,"East Midlands (England)",18.58
+"2022-06-11",5,"West Midlands (England)",17.31
+"2022-06-11",6,"East of England",19.63
+"2022-06-11",7,"London",19.75
+"2022-06-11",8,"South East (England)",18.38
+"2022-06-11",9,"South West (England)",17.14
+"2022-06-11",10,"Wales",15.13
+"2022-06-11",11,"Scotland",12.67
+"2022-06-11",12,"Northern Ireland",13.95
+"2022-06-12",1,"North East (England)",13.31
+"2022-06-12",2,"North West (England)",13.58
+"2022-06-12",3,"Yorkshire and The Humber",14.55
+"2022-06-12",4,"East Midlands (England)",16.78
+"2022-06-12",5,"West Midlands (England)",16.21
+"2022-06-12",6,"East of England",18.21
+"2022-06-12",7,"London",18.91
+"2022-06-12",8,"South East (England)",18.32
+"2022-06-12",9,"South West (England)",16.26
+"2022-06-12",10,"Wales",14.67
+"2022-06-12",11,"Scotland",11.81
+"2022-06-12",12,"Northern Ireland",12.91
+"2022-06-13",1,"North East (England)",13.99
+"2022-06-13",2,"North West (England)",13.82
+"2022-06-13",3,"Yorkshire and The Humber",14.95
+"2022-06-13",4,"East Midlands (England)",16.79
+"2022-06-13",5,"West Midlands (England)",16.85
+"2022-06-13",6,"East of England",17.45
+"2022-06-13",7,"London",18.91
+"2022-06-13",8,"South East (England)",18.08
+"2022-06-13",9,"South West (England)",16.61
+"2022-06-13",10,"Wales",14.58
+"2022-06-13",11,"Scotland",12.41
+"2022-06-13",12,"Northern Ireland",13.83
+"2022-06-14",1,"North East (England)",15.85
+"2022-06-14",2,"North West (England)",15.68
+"2022-06-14",3,"Yorkshire and The Humber",16.95
+"2022-06-14",4,"East Midlands (England)",19.93
+"2022-06-14",5,"West Midlands (England)",19.75
+"2022-06-14",6,"East of England",19.21
+"2022-06-14",7,"London",21.56
+"2022-06-14",8,"South East (England)",20.38
+"2022-06-14",9,"South West (England)",18.86
+"2022-06-14",10,"Wales",16.76
+"2022-06-14",11,"Scotland",13.91
+"2022-06-14",12,"Northern Ireland",15.06
+"2022-06-15",1,"North East (England)",18.74
+"2022-06-15",2,"North West (England)",18
+"2022-06-15",3,"Yorkshire and The Humber",19.72
+"2022-06-15",4,"East Midlands (England)",21.61
+"2022-06-15",5,"West Midlands (England)",21.45
+"2022-06-15",6,"East of England",20.64
+"2022-06-15",7,"London",23.53
+"2022-06-15",8,"South East (England)",22
+"2022-06-15",9,"South West (England)",19.59
+"2022-06-15",10,"Wales",17.74
+"2022-06-15",11,"Scotland",15.68
+"2022-06-15",12,"Northern Ireland",15.95
+"2022-06-16",1,"North East (England)",20.22
+"2022-06-16",2,"North West (England)",19.97
+"2022-06-16",3,"Yorkshire and The Humber",21.48
+"2022-06-16",4,"East Midlands (England)",23.94
+"2022-06-16",5,"West Midlands (England)",23.22
+"2022-06-16",6,"East of England",23.23
+"2022-06-16",7,"London",24.62
+"2022-06-16",8,"South East (England)",23.03
+"2022-06-16",9,"South West (England)",21.38
+"2022-06-16",10,"Wales",19.16
+"2022-06-16",11,"Scotland",15.91
+"2022-06-16",12,"Northern Ireland",17.91
+"2022-06-17",1,"North East (England)",17.03
+"2022-06-17",2,"North West (England)",16.7
+"2022-06-17",3,"Yorkshire and The Humber",19.92
+"2022-06-17",4,"East Midlands (England)",26.75
+"2022-06-17",5,"West Midlands (England)",24.81
+"2022-06-17",6,"East of England",28.32
+"2022-06-17",7,"London",28.54
+"2022-06-17",8,"South East (England)",25.88
+"2022-06-17",9,"South West (England)",22.62
+"2022-06-17",10,"Wales",19.12
+"2022-06-17",11,"Scotland",13.64
+"2022-06-17",12,"Northern Ireland",14.44
+"2022-06-18",1,"North East (England)",13.81
+"2022-06-18",2,"North West (England)",12.36
+"2022-06-18",3,"Yorkshire and The Humber",13.03
+"2022-06-18",4,"East Midlands (England)",12.53
+"2022-06-18",5,"West Midlands (England)",10.98
+"2022-06-18",6,"East of England",13.36
+"2022-06-18",7,"London",13.98
+"2022-06-18",8,"South East (England)",14.31
+"2022-06-18",9,"South West (England)",12.45
+"2022-06-18",10,"Wales",11.5
+"2022-06-18",11,"Scotland",12.44
+"2022-06-18",12,"Northern Ireland",13.73
+"2022-06-19",1,"North East (England)",15.26
+"2022-06-19",2,"North West (England)",16.56
+"2022-06-19",3,"Yorkshire and The Humber",15.78
+"2022-06-19",4,"East Midlands (England)",15.75
+"2022-06-19",5,"West Midlands (England)",15.68
+"2022-06-19",6,"East of England",15.13
+"2022-06-19",7,"London",16.23
+"2022-06-19",8,"South East (England)",15.58
+"2022-06-19",9,"South West (England)",14.58
+"2022-06-19",10,"Wales",14.3
+"2022-06-19",11,"Scotland",13.3
+"2022-06-19",12,"Northern Ireland",13.7
+"2022-06-20",1,"North East (England)",19.51
+"2022-06-20",2,"North West (England)",17.35
+"2022-06-20",3,"Yorkshire and The Humber",18.68
+"2022-06-20",4,"East Midlands (England)",18.96
+"2022-06-20",5,"West Midlands (England)",19.94
+"2022-06-20",6,"East of England",17.39
+"2022-06-20",7,"London",19.47
+"2022-06-20",8,"South East (England)",18.84
+"2022-06-20",9,"South West (England)",18.79
+"2022-06-20",10,"Wales",18.37
+"2022-06-20",11,"Scotland",14.99
+"2022-06-20",12,"Northern Ireland",17.62
+"2022-06-21",1,"North East (England)",17.05
+"2022-06-21",2,"North West (England)",18.12
+"2022-06-21",3,"Yorkshire and The Humber",19.88
+"2022-06-21",4,"East Midlands (England)",22.96
+"2022-06-21",5,"West Midlands (England)",22.76
+"2022-06-21",6,"East of England",20.52
+"2022-06-21",7,"London",21.34
+"2022-06-21",8,"South East (England)",20.92
+"2022-06-21",9,"South West (England)",20.41
+"2022-06-21",10,"Wales",19.53
+"2022-06-21",11,"Scotland",15.05
+"2022-06-21",12,"Northern Ireland",16
+"2022-06-22",1,"North East (England)",20.64
+"2022-06-22",2,"North West (England)",18.49
+"2022-06-22",3,"Yorkshire and The Humber",21.61
+"2022-06-22",4,"East Midlands (England)",23.78
+"2022-06-22",5,"West Midlands (England)",23.53
+"2022-06-22",6,"East of England",21.66
+"2022-06-22",7,"London",22.19
+"2022-06-22",8,"South East (England)",22.57
+"2022-06-22",9,"South West (England)",22.94
+"2022-06-22",10,"Wales",21.17
+"2022-06-22",11,"Scotland",15.48
+"2022-06-22",12,"Northern Ireland",17.11
+"2022-06-23",1,"North East (England)",21.04
+"2022-06-23",2,"North West (England)",19.84
+"2022-06-23",3,"Yorkshire and The Humber",20.48
+"2022-06-23",4,"East Midlands (England)",20.87
+"2022-06-23",5,"West Midlands (England)",18.88
+"2022-06-23",6,"East of England",21.51
+"2022-06-23",7,"London",21.6
+"2022-06-23",8,"South East (England)",20.04
+"2022-06-23",9,"South West (England)",18.78
+"2022-06-23",10,"Wales",18.09
+"2022-06-23",11,"Scotland",17.65
+"2022-06-23",12,"Northern Ireland",17.48
+"2022-06-24",1,"North East (England)",17.62
+"2022-06-24",2,"North West (England)",17.47
+"2022-06-24",3,"Yorkshire and The Humber",19.16
+"2022-06-24",4,"East Midlands (England)",20.05
+"2022-06-24",5,"West Midlands (England)",17.7
+"2022-06-24",6,"East of England",20.06
+"2022-06-24",7,"London",18.49
+"2022-06-24",8,"South East (England)",17.76
+"2022-06-24",9,"South West (England)",15.79
+"2022-06-24",10,"Wales",15.63
+"2022-06-24",11,"Scotland",16.98
+"2022-06-24",12,"Northern Ireland",15.5
+"2022-06-25",1,"North East (England)",16.31
+"2022-06-25",2,"North West (England)",15.22
+"2022-06-25",3,"Yorkshire and The Humber",16.99
+"2022-06-25",4,"East Midlands (England)",17.93
+"2022-06-25",5,"West Midlands (England)",15.76
+"2022-06-25",6,"East of England",18.1
+"2022-06-25",7,"London",17.34
+"2022-06-25",8,"South East (England)",16.42
+"2022-06-25",9,"South West (England)",14.85
+"2022-06-25",10,"Wales",13.51
+"2022-06-25",11,"Scotland",15.38
+"2022-06-25",12,"Northern Ireland",14.05
+"2022-06-26",1,"North East (England)",16.67
+"2022-06-26",2,"North West (England)",15.84
+"2022-06-26",3,"Yorkshire and The Humber",18.34
+"2022-06-26",4,"East Midlands (England)",19.46
+"2022-06-26",5,"West Midlands (England)",17.25
+"2022-06-26",6,"East of England",19.16
+"2022-06-26",7,"London",18.31
+"2022-06-26",8,"South East (England)",17.56
+"2022-06-26",9,"South West (England)",16.29
+"2022-06-26",10,"Wales",14.68
+"2022-06-26",11,"Scotland",14.29
+"2022-06-26",12,"Northern Ireland",14.44
+"2022-06-27",1,"North East (England)",14.89
+"2022-06-27",2,"North West (England)",14.82
+"2022-06-27",3,"Yorkshire and The Humber",15.95
+"2022-06-27",4,"East Midlands (England)",17.54
+"2022-06-27",5,"West Midlands (England)",16.5
+"2022-06-27",6,"East of England",17.66
+"2022-06-27",7,"London",17.75
+"2022-06-27",8,"South East (England)",16.88
+"2022-06-27",9,"South West (England)",15.83
+"2022-06-27",10,"Wales",14.47
+"2022-06-27",11,"Scotland",13.77
+"2022-06-27",12,"Northern Ireland",13.06
+"2022-06-28",1,"North East (England)",15.83
+"2022-06-28",2,"North West (England)",15.29
+"2022-06-28",3,"Yorkshire and The Humber",17.62
+"2022-06-28",4,"East Midlands (England)",18.95
+"2022-06-28",5,"West Midlands (England)",15.79
+"2022-06-28",6,"East of England",19.23
+"2022-06-28",7,"London",18.38
+"2022-06-28",8,"South East (England)",17.62
+"2022-06-28",9,"South West (England)",15.18
+"2022-06-28",10,"Wales",14.12
+"2022-06-28",11,"Scotland",14.88
+"2022-06-28",12,"Northern Ireland",15.97
+"2022-06-29",1,"North East (England)",15.97
+"2022-06-29",2,"North West (England)",15.56
+"2022-06-29",3,"Yorkshire and The Humber",17.86
+"2022-06-29",4,"East Midlands (England)",19.5
+"2022-06-29",5,"West Midlands (England)",16.41
+"2022-06-29",6,"East of England",19.14
+"2022-06-29",7,"London",17.73
+"2022-06-29",8,"South East (England)",16.86
+"2022-06-29",9,"South West (England)",14.94
+"2022-06-29",10,"Wales",14.71
+"2022-06-29",11,"Scotland",15.1
+"2022-06-29",12,"Northern Ireland",15.06
+"2022-06-30",1,"North East (England)",15.55
+"2022-06-30",2,"North West (England)",15.53
+"2022-06-30",3,"Yorkshire and The Humber",16.87
+"2022-06-30",4,"East Midlands (England)",16.91
+"2022-06-30",5,"West Midlands (England)",15.07
+"2022-06-30",6,"East of England",16.59
+"2022-06-30",7,"London",16.27
+"2022-06-30",8,"South East (England)",15.28
+"2022-06-30",9,"South West (England)",14.33
+"2022-06-30",10,"Wales",14.11
+"2022-06-30",11,"Scotland",14.99
+"2022-06-30",12,"Northern Ireland",15.44
+"2022-07-01",1,"North East (England)",15.1
+"2022-07-01",2,"North West (England)",15.06
+"2022-07-01",3,"Yorkshire and The Humber",16.25
+"2022-07-01",4,"East Midlands (England)",17.8
+"2022-07-01",5,"West Midlands (England)",16.4
+"2022-07-01",6,"East of England",18.59
+"2022-07-01",7,"London",18.05
+"2022-07-01",8,"South East (England)",17.1
+"2022-07-01",9,"South West (England)",16.31
+"2022-07-01",10,"Wales",14.4
+"2022-07-01",11,"Scotland",13.56
+"2022-07-01",12,"Northern Ireland",14.54
+"2022-07-02",1,"North East (England)",15.98
+"2022-07-02",2,"North West (England)",15.71
+"2022-07-02",3,"Yorkshire and The Humber",16.82
+"2022-07-02",4,"East Midlands (England)",16.91
+"2022-07-02",5,"West Midlands (England)",16.66
+"2022-07-02",6,"East of England",18.21
+"2022-07-02",7,"London",18.38
+"2022-07-02",8,"South East (England)",17.01
+"2022-07-02",9,"South West (England)",15.67
+"2022-07-02",10,"Wales",15.14
+"2022-07-02",11,"Scotland",13.54
+"2022-07-02",12,"Northern Ireland",15.76
+"2022-07-03",1,"North East (England)",15.61
+"2022-07-03",2,"North West (England)",15.15
+"2022-07-03",3,"Yorkshire and The Humber",16.42
+"2022-07-03",4,"East Midlands (England)",17.74
+"2022-07-03",5,"West Midlands (England)",17.45
+"2022-07-03",6,"East of England",18.81
+"2022-07-03",7,"London",19.97
+"2022-07-03",8,"South East (England)",18.95
+"2022-07-03",9,"South West (England)",17.14
+"2022-07-03",10,"Wales",15.98
+"2022-07-03",11,"Scotland",12.89
+"2022-07-03",12,"Northern Ireland",13.98
+"2022-07-04",1,"North East (England)",15.26
+"2022-07-04",2,"North West (England)",14.97
+"2022-07-04",3,"Yorkshire and The Humber",16.27
+"2022-07-04",4,"East Midlands (England)",17.65
+"2022-07-04",5,"West Midlands (England)",17.23
+"2022-07-04",6,"East of England",19.5
+"2022-07-04",7,"London",20.57
+"2022-07-04",8,"South East (England)",19.25
+"2022-07-04",9,"South West (England)",16.87
+"2022-07-04",10,"Wales",15.61
+"2022-07-04",11,"Scotland",12.79
+"2022-07-04",12,"Northern Ireland",13.9
+"2022-07-05",1,"North East (England)",16.53
+"2022-07-05",2,"North West (England)",16.16
+"2022-07-05",3,"Yorkshire and The Humber",17.2
+"2022-07-05",4,"East Midlands (England)",18.91
+"2022-07-05",5,"West Midlands (England)",18.75
+"2022-07-05",6,"East of England",19.45
+"2022-07-05",7,"London",20.27
+"2022-07-05",8,"South East (England)",19.92
+"2022-07-05",9,"South West (England)",18.94
+"2022-07-05",10,"Wales",17.43
+"2022-07-05",11,"Scotland",14.32
+"2022-07-05",12,"Northern Ireland",15.68
+"2022-07-06",1,"North East (England)",16.79
+"2022-07-06",2,"North West (England)",16.48
+"2022-07-06",3,"Yorkshire and The Humber",17.67
+"2022-07-06",4,"East Midlands (England)",19.67
+"2022-07-06",5,"West Midlands (England)",18.92
+"2022-07-06",6,"East of England",21.25
+"2022-07-06",7,"London",22.72
+"2022-07-06",8,"South East (England)",21.69
+"2022-07-06",9,"South West (England)",18.92
+"2022-07-06",10,"Wales",17.4
+"2022-07-06",11,"Scotland",13.97
+"2022-07-06",12,"Northern Ireland",15.43
+"2022-07-07",1,"North East (England)",20.51
+"2022-07-07",2,"North West (England)",18.06
+"2022-07-07",3,"Yorkshire and The Humber",20.45
+"2022-07-07",4,"East Midlands (England)",21.3
+"2022-07-07",5,"West Midlands (England)",20.46
+"2022-07-07",6,"East of England",20.08
+"2022-07-07",7,"London",22.6
+"2022-07-07",8,"South East (England)",21.77
+"2022-07-07",9,"South West (England)",20.75
+"2022-07-07",10,"Wales",19.17
+"2022-07-07",11,"Scotland",16.58
+"2022-07-07",12,"Northern Ireland",18.57
+"2022-07-08",1,"North East (England)",18.07
+"2022-07-08",2,"North West (England)",17.12
+"2022-07-08",3,"Yorkshire and The Humber",19.92
+"2022-07-08",4,"East Midlands (England)",22.57
+"2022-07-08",5,"West Midlands (England)",22.1
+"2022-07-08",6,"East of England",24.44
+"2022-07-08",7,"London",25.97
+"2022-07-08",8,"South East (England)",24.62
+"2022-07-08",9,"South West (England)",22.2
+"2022-07-08",10,"Wales",18.94
+"2022-07-08",11,"Scotland",14.87
+"2022-07-08",12,"Northern Ireland",16.6
+"2022-07-09",1,"North East (England)",20.64
+"2022-07-09",2,"North West (England)",18.47
+"2022-07-09",3,"Yorkshire and The Humber",20.67
+"2022-07-09",4,"East Midlands (England)",22.32
+"2022-07-09",5,"West Midlands (England)",21.56
+"2022-07-09",6,"East of England",21.32
+"2022-07-09",7,"London",24.82
+"2022-07-09",8,"South East (England)",23.52
+"2022-07-09",9,"South West (England)",22.73
+"2022-07-09",10,"Wales",20.08
+"2022-07-09",11,"Scotland",16.89
+"2022-07-09",12,"Northern Ireland",17.92
+"2022-07-10",1,"North East (England)",22.77
+"2022-07-10",2,"North West (England)",20.81
+"2022-07-10",3,"Yorkshire and The Humber",23.15
+"2022-07-10",4,"East Midlands (England)",25.58
+"2022-07-10",5,"West Midlands (England)",25.42
+"2022-07-10",6,"East of England",24.3
+"2022-07-10",7,"London",26.96
+"2022-07-10",8,"South East (England)",24.49
+"2022-07-10",9,"South West (England)",23.56
+"2022-07-10",10,"Wales",22.21
+"2022-07-10",11,"Scotland",18.56
+"2022-07-10",12,"Northern Ireland",20.51
+"2022-07-11",1,"North East (England)",22.11
+"2022-07-11",2,"North West (England)",23.2
+"2022-07-11",3,"Yorkshire and The Humber",25.29
+"2022-07-11",4,"East Midlands (England)",27.57
+"2022-07-11",5,"West Midlands (England)",27.14
+"2022-07-11",6,"East of England",25.13
+"2022-07-11",7,"London",27.27
+"2022-07-11",8,"South East (England)",25.59
+"2022-07-11",9,"South West (England)",24.36
+"2022-07-11",10,"Wales",24.01
+"2022-07-11",11,"Scotland",18.85
+"2022-07-11",12,"Northern Ireland",21.01
+"2022-07-12",1,"North East (England)",20.54
+"2022-07-12",2,"North West (England)",20.22
+"2022-07-12",3,"Yorkshire and The Humber",22.58
+"2022-07-12",4,"East Midlands (England)",24.05
+"2022-07-12",5,"West Midlands (England)",24.14
+"2022-07-12",6,"East of England",25.8
+"2022-07-12",7,"London",26.61
+"2022-07-12",8,"South East (England)",24.89
+"2022-07-12",9,"South West (England)",23.08
+"2022-07-12",10,"Wales",20.8
+"2022-07-12",11,"Scotland",15.84
+"2022-07-12",12,"Northern Ireland",17.01
+"2022-07-13",1,"North East (England)",17.51
+"2022-07-13",2,"North West (England)",16.36
+"2022-07-13",3,"Yorkshire and The Humber",18.44
+"2022-07-13",4,"East Midlands (England)",21.25
+"2022-07-13",5,"West Midlands (England)",20.7
+"2022-07-13",6,"East of England",21.74
+"2022-07-13",7,"London",25.32
+"2022-07-13",8,"South East (England)",23.83
+"2022-07-13",9,"South West (England)",21.15
+"2022-07-13",10,"Wales",18.09
+"2022-07-13",11,"Scotland",14.31
+"2022-07-13",12,"Northern Ireland",16.13
+"2022-07-14",1,"North East (England)",16.9
+"2022-07-14",2,"North West (England)",16.27
+"2022-07-14",3,"Yorkshire and The Humber",17.53
+"2022-07-14",4,"East Midlands (England)",19.33
+"2022-07-14",5,"West Midlands (England)",19.1
+"2022-07-14",6,"East of England",19.71
+"2022-07-14",7,"London",21.81
+"2022-07-14",8,"South East (England)",21.46
+"2022-07-14",9,"South West (England)",20.09
+"2022-07-14",10,"Wales",17.63
+"2022-07-14",11,"Scotland",14.56
+"2022-07-14",12,"Northern Ireland",16.93
+"2022-07-15",1,"North East (England)",17.59
+"2022-07-15",2,"North West (England)",16.74
+"2022-07-15",3,"Yorkshire and The Humber",18.47
+"2022-07-15",4,"East Midlands (England)",20.39
+"2022-07-15",5,"West Midlands (England)",20.35
+"2022-07-15",6,"East of England",22.14
+"2022-07-15",7,"London",23.45
+"2022-07-15",8,"South East (England)",22.71
+"2022-07-15",9,"South West (England)",20.82
+"2022-07-15",10,"Wales",18.55
+"2022-07-15",11,"Scotland",14.62
+"2022-07-15",12,"Northern Ireland",16.62
+"2022-07-16",1,"North East (England)",19.79
+"2022-07-16",2,"North West (England)",18.88
+"2022-07-16",3,"Yorkshire and The Humber",21.41
+"2022-07-16",4,"East Midlands (England)",24.71
+"2022-07-16",5,"West Midlands (England)",24.71
+"2022-07-16",6,"East of England",22.52
+"2022-07-16",7,"London",24.76
+"2022-07-16",8,"South East (England)",23.58
+"2022-07-16",9,"South West (England)",23.18
+"2022-07-16",10,"Wales",21.99
+"2022-07-16",11,"Scotland",16.15
+"2022-07-16",12,"Northern Ireland",18.48
+"2022-07-17",1,"North East (England)",23.75
+"2022-07-17",2,"North West (England)",25.02
+"2022-07-17",3,"Yorkshire and The Humber",26.64
+"2022-07-17",4,"East Midlands (England)",28.65
+"2022-07-17",5,"West Midlands (England)",27.77
+"2022-07-17",6,"East of England",25.27
+"2022-07-17",7,"London",26.68
+"2022-07-17",8,"South East (England)",25.45
+"2022-07-17",9,"South West (England)",24.95
+"2022-07-17",10,"Wales",25
+"2022-07-17",11,"Scotland",18.78
+"2022-07-17",12,"Northern Ireland",22.94
+"2022-07-18",1,"North East (England)",27.17
+"2022-07-18",2,"North West (England)",28.26
+"2022-07-18",3,"Yorkshire and The Humber",30.55
+"2022-07-18",4,"East Midlands (England)",34.18
+"2022-07-18",5,"West Midlands (England)",33.51
+"2022-07-18",6,"East of England",31.48
+"2022-07-18",7,"London",32.62
+"2022-07-18",8,"South East (England)",30.89
+"2022-07-18",9,"South West (England)",29.41
+"2022-07-18",10,"Wales",29.7
+"2022-07-18",11,"Scotland",21.08
+"2022-07-18",12,"Northern Ireland",24.41
+"2022-07-19",1,"North East (England)",28.61
+"2022-07-19",2,"North West (England)",26.54
+"2022-07-19",3,"Yorkshire and The Humber",30.75
+"2022-07-19",4,"East Midlands (England)",34.03
+"2022-07-19",5,"West Midlands (England)",31.41
+"2022-07-19",6,"East of England",32.18
+"2022-07-19",7,"London",32.39
+"2022-07-19",8,"South East (England)",28.74
+"2022-07-19",9,"South West (England)",24.78
+"2022-07-19",10,"Wales",24.64
+"2022-07-19",11,"Scotland",18.96
+"2022-07-19",12,"Northern Ireland",16.2
+"2022-07-20",1,"North East (England)",17.18
+"2022-07-20",2,"North West (England)",17.77
+"2022-07-20",3,"Yorkshire and The Humber",18.75
+"2022-07-20",4,"East Midlands (England)",20.76
+"2022-07-20",5,"West Midlands (England)",19.15
+"2022-07-20",6,"East of England",23.74
+"2022-07-20",7,"London",22.54
+"2022-07-20",8,"South East (England)",21.3
+"2022-07-20",9,"South West (England)",19.62
+"2022-07-20",10,"Wales",17.58
+"2022-07-20",11,"Scotland",15.83
+"2022-07-20",12,"Northern Ireland",15.32
+"2022-07-21",1,"North East (England)",15.48
+"2022-07-21",2,"North West (England)",16.91
+"2022-07-21",3,"Yorkshire and The Humber",16.67
+"2022-07-21",4,"East Midlands (England)",19.07
+"2022-07-21",5,"West Midlands (England)",20.08
+"2022-07-21",6,"East of England",19.22
+"2022-07-21",7,"London",21.27
+"2022-07-21",8,"South East (England)",20.83
+"2022-07-21",9,"South West (England)",19.81
+"2022-07-21",10,"Wales",18.06
+"2022-07-21",11,"Scotland",15.01
+"2022-07-21",12,"Northern Ireland",15.62
+"2022-07-22",1,"North East (England)",14.98
+"2022-07-22",2,"North West (England)",16.46
+"2022-07-22",3,"Yorkshire and The Humber",15.27
+"2022-07-22",4,"East Midlands (England)",18.31
+"2022-07-22",5,"West Midlands (England)",19.15
+"2022-07-22",6,"East of England",18.66
+"2022-07-22",7,"London",19.4
+"2022-07-22",8,"South East (England)",19.63
+"2022-07-22",9,"South West (England)",18.86
+"2022-07-22",10,"Wales",17.18
+"2022-07-22",11,"Scotland",14.95
+"2022-07-22",12,"Northern Ireland",17.99
+"2022-07-23",1,"North East (England)",19.01
+"2022-07-23",2,"North West (England)",18.79
+"2022-07-23",3,"Yorkshire and The Humber",20.02
+"2022-07-23",4,"East Midlands (England)",21.98
+"2022-07-23",5,"West Midlands (England)",20.5
+"2022-07-23",6,"East of England",23.12
+"2022-07-23",7,"London",21.77
+"2022-07-23",8,"South East (England)",20.64
+"2022-07-23",9,"South West (England)",19.49
+"2022-07-23",10,"Wales",18.15
+"2022-07-23",11,"Scotland",15.92
+"2022-07-23",12,"Northern Ireland",19.83
+"2022-07-24",1,"North East (England)",19.15
+"2022-07-24",2,"North West (England)",18.48
+"2022-07-24",3,"Yorkshire and The Humber",20.67
+"2022-07-24",4,"East Midlands (England)",23.85
+"2022-07-24",5,"West Midlands (England)",20.94
+"2022-07-24",6,"East of England",25.27
+"2022-07-24",7,"London",23.45
+"2022-07-24",8,"South East (England)",22.05
+"2022-07-24",9,"South West (England)",19.89
+"2022-07-24",10,"Wales",17.79
+"2022-07-24",11,"Scotland",16.28
+"2022-07-24",12,"Northern Ireland",17.74
+"2022-07-25",1,"North East (England)",13.49
+"2022-07-25",2,"North West (England)",15.17
+"2022-07-25",3,"Yorkshire and The Humber",15.79
+"2022-07-25",4,"East Midlands (England)",18.59
+"2022-07-25",5,"West Midlands (England)",17.52
+"2022-07-25",6,"East of England",20.84
+"2022-07-25",7,"London",20.84
+"2022-07-25",8,"South East (England)",20.64
+"2022-07-25",9,"South West (England)",18.57
+"2022-07-25",10,"Wales",16.15
+"2022-07-25",11,"Scotland",13.27
+"2022-07-25",12,"Northern Ireland",14.3
+"2022-07-26",1,"North East (England)",16.62
+"2022-07-26",2,"North West (England)",16.68
+"2022-07-26",3,"Yorkshire and The Humber",16.31
+"2022-07-26",4,"East Midlands (England)",17.91
+"2022-07-26",5,"West Midlands (England)",18.19
+"2022-07-26",6,"East of England",18.18
+"2022-07-26",7,"London",19.84
+"2022-07-26",8,"South East (England)",19.32
+"2022-07-26",9,"South West (England)",18.89
+"2022-07-26",10,"Wales",16.54
+"2022-07-26",11,"Scotland",14.41
+"2022-07-26",12,"Northern Ireland",15.17
+"2022-07-27",1,"North East (England)",17.07
+"2022-07-27",2,"North West (England)",17.57
+"2022-07-27",3,"Yorkshire and The Humber",18.45
+"2022-07-27",4,"East Midlands (England)",19.18
+"2022-07-27",5,"West Midlands (England)",18.72
+"2022-07-27",6,"East of England",18.63
+"2022-07-27",7,"London",19.12
+"2022-07-27",8,"South East (England)",19.19
+"2022-07-27",9,"South West (England)",18.19
+"2022-07-27",10,"Wales",16.92
+"2022-07-27",11,"Scotland",14.88
+"2022-07-27",12,"Northern Ireland",14.95
+"2022-07-28",1,"North East (England)",16.28
+"2022-07-28",2,"North West (England)",16.58
+"2022-07-28",3,"Yorkshire and The Humber",17.58
+"2022-07-28",4,"East Midlands (England)",19.78
+"2022-07-28",5,"West Midlands (England)",19.65
+"2022-07-28",6,"East of England",18.98
+"2022-07-28",7,"London",20.1
+"2022-07-28",8,"South East (England)",20.68
+"2022-07-28",9,"South West (England)",19.79
+"2022-07-28",10,"Wales",18.16
+"2022-07-28",11,"Scotland",15.77
+"2022-07-28",12,"Northern Ireland",16.97
