@@ -9,4 +9,4 @@ R --slave --args ${PBS_ARRAY_INDEX} < $HOME/git/ERA5-grids-into-national-subnati
 
 # to run type
 # qsub -q med-bio single_country_run_previous_years_adm0.run
-# THIS WILL RUN PREVIOUS YEARS FOR ERA5 PROCESSING IN ALL COUNTRIES FOR ADM1
+# THIS WILL RUN PREVIOUS YEARS FOR ERA5 PROCESSING IN ALL COUNTRIES FOR ADM0

@@ -18,7 +18,7 @@ dname <- 't2m'
 freq <- 'daily'
 num <- 'four'
 space.res <- '2'
-country.id <- 'PHL'
+country.id <- 'NUTS'
 
 # process from grids into shapefiles
 source(paste0(project.folder,'prog/01_extract_netcdf/processing_code.R'))

@@ -8,7 +8,7 @@ library(raster)
 library(sp)
 library(plyr)
 
-# exception for Malta and other small countries
+# exception for Malta and other tiny countries
 if(country.id=='MLT'){space.res="0"}
 
 # create directory to place output files into
@@ -17,9 +17,15 @@ ifelse(!dir.exists(dir.output), dir.create(dir.output, recursive=TRUE), FALSE)
 
 # single country shapefiles downloaded from http://www.diva-gis.org/gdata
 
-# load shapefile of chosen country
-shapefile = readOGR(dsn=paste0("~/data/climate/shapefiles/",country.id,"_adm"),layer=paste0(country.id,"_adm",space.res))
-
+# load shapefile of chosen country (with exception for NUTS2 UK)
+if(country.id!='NUTS'){
+shapefile = readOGR(dsn=paste0("~/data/climate/shapefiles/",country.id,"_adm"),layer=paste0(country.id,"_adm",space.res))}
+if(country.id=='NUTS'){
+  shapefile = readOGR(dsn=paste0("~/data/climate/shapefiles/NUTS_Level_",space.res,"_(January_2018)_Boundaries"),layer=paste0("NUTS_Level_",space.res,"_(January_2018)_Boundaries"))
+  # shapefile_2 = readOGR(dsn=paste0("~/data/climate/shapefiles/GBR_adm"),layer=paste0("GBR_adm",space.res))
+  # proj4string(shapefile) = "+proj=longlat +datum=WGS84 +no_defs"
+  }
+  
 # ALTERNATIVE METHODS UNDER DEVELOPMENT
 world_marker=0
 if(world_marker==1){
@@ -31,6 +37,7 @@ if(world_marker==1){
     # TO DO
 
 }
+
 # transform into WSG84 (via https://rpubs.com/nickbearman/r-google-map-making) (not used here)
 # shapefile = sp::spTransform(shapefile, sp::CRS("+init=epsg:4326"))
 
@@ -60,8 +67,8 @@ country.analysis = function(shapefile,raster.input,output=0) {
 
 # get lookup for names
 name.lookup = shapefile@data
-# names = get(paste0('name.lookup$NAME_',space.res))
-names = name.lookup[,which(colnames(name.lookup)==paste0('NAME_',space.res))]
+if(country.id!='NUTS'){names = name.lookup[,which(colnames(name.lookup)==paste0('NAME_',space.res))]}
+if(country.id=='NUTS'){names = name.lookup[,which(colnames(name.lookup)==paste0('nuts',space.res,'18nm'))]}
 
 # empty dataframe to load summarised national daily values into
 weighted.area.national.total = data.frame()
@@ -77,15 +84,17 @@ for(date in dates){
 
         print(as.character(date))
 
-        raster.full = raster(raster.current)
+        if(country.id!='NUTS'){raster.full = raster(raster.current)}
+        if(country.id=='NUTS'){raster.full = raster(raster.current,band=4)}
+        
         raster.full = rotate(raster.full)
 
-        # projet to be the same as the chosen country map
+        # project to be the same as the chosen country map
         raster.full = projectRaster(raster.full, crs=original.proj)
 
         # flatten the raster's x values per day
         raster.full = calc(raster.full, fun = mean)
-
+        
         # for testing only
         # plot(raster.full)
 

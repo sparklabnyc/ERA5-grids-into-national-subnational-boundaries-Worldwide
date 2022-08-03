@@ -17,7 +17,7 @@ year <- as.numeric(chosen.row[1,1])
 dname <- 't2m'
 freq <- 'daily'
 num <- 'four'
-space.res <- '1'
+space.res <- '3'
 country.id <- 'NUTS'
 
 # process from grids into shapefiles
