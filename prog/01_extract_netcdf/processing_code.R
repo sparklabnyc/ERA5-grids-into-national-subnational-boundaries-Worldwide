@@ -18,13 +18,13 @@ ifelse(!dir.exists(dir.output), dir.create(dir.output, recursive=TRUE), FALSE)
 # single country shapefiles downloaded from http://www.diva-gis.org/gdata
 
 # load shapefile of chosen country
-shapefile <- readOGR(dsn=paste0("~/data/climate/shapefiles/",country.id,"_adm"),layer=paste0(country.id,"_adm",space.res))
+shapefile = readOGR(dsn=paste0("~/data/climate/shapefiles/",country.id,"_adm"),layer=paste0(country.id,"_adm",space.res))
 
 # ALTERNATIVE METHODS UNDER DEVELOPMENT
 world_marker=0
 if(world_marker==1){
 # global shapefile downloaded from https://gadm.org/data.html (same source as above just entire world)
-    shapefile_world <- readOGR(dsn=paste0("~/data/climate/shapefiles/gadm404-shp"),layer=paste0("gadm404"))
+    shapefile_world = readOGR(dsn=paste0("~/data/climate/shapefiles/gadm404-shp"),layer=paste0("gadm404"))
     shapefile_single_country = subset(shapefile_world, GID_0==country.id)
     
     # now match the selected adm
@@ -32,7 +32,7 @@ if(world_marker==1){
 
 }
 # transform into WSG84 (via https://rpubs.com/nickbearman/r-google-map-making) (not used here)
-# shapefile <- sp::spTransform(shapefile, sp::CRS("+init=epsg:4326"))
+# shapefile = sp::spTransform(shapefile, sp::CRS("+init=epsg:4326"))
 
 # get projection of shapefile
 original.proj = proj4string(shapefile)
@@ -77,14 +77,14 @@ for(date in dates){
 
         print(as.character(date))
 
-        raster.full <- raster(raster.current)
-        raster.full <- rotate(raster.full)
+        raster.full = raster(raster.current)
+        raster.full = rotate(raster.full)
 
         # projet to be the same as the chosen country map
         raster.full = projectRaster(raster.full, crs=original.proj)
 
         # flatten the raster's x values per day
-        raster.full <- calc(raster.full, fun = mean)
+        raster.full = calc(raster.full, fun = mean)
 
         # for testing only
         # plot(raster.full)
