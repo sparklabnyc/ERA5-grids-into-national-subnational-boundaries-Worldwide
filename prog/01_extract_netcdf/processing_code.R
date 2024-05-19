@@ -17,7 +17,7 @@ ifelse(!dir.exists(dir.output), dir.create(dir.output, recursive=TRUE), FALSE)
 
 # single country shapefiles downloaded from http://www.diva-gis.org/gdata
 
-# load shapefile of chosen country (with exception for NUTS2 UK)
+# load shapefile of chosen country (with exception for NUTS2 UK) NOTE: Need to update to new country format for Columbia etc
 if(country.id!='NUTS'){
 shapefile = readOGR(dsn=paste0("~/data/climate/shapefiles/",country.id,"_adm"),layer=paste0(country.id,"_adm",space.res))}
 if(country.id=='NUTS'){
@@ -67,7 +67,7 @@ country.analysis = function(shapefile,raster.input,output=0) {
 
 # get lookup for names
 name.lookup = shapefile@data
-if(country.id!='NUTS'){names = name.lookup[,which(colnames(name.lookup)==paste0('NAME_',space.res))]}
+if(country.id!='NUTS'){names = name.lookup[,which(colnames(name.lookup)==paste0('NAME_',space.res))]} # Lines 70 and 118 need to be changed from 'NAME_' to 'ID_'
 if(country.id=='NUTS'){names = name.lookup[,which(colnames(name.lookup)==paste0('nuts',space.res,'18nm'))]}
 
 # empty dataframe to load summarised national daily values into
