@@ -69,8 +69,8 @@ country.analysis = function(shapefile,raster.input,output=0) {
 name.lookup = shapefile@data
 
 # rename column ID_1 to GID_1 if ID_1 exists in name.lookup
-if('ID_1' %in% colnames(name.lookup)){
-  colnames(name.lookup)[which(colnames(name.lookup)=='ID_1')] = 'GID_1'
+if(paste0('ID_',space.res) %in% colnames(name.lookup)){
+  colnames(name.lookup)[which(colnames(name.lookup)==paste0('ID_',space.res))] = paste0('GID_',space.res)
 }
 
 if(country.id!='NUTS'){names = name.lookup[,which(colnames(name.lookup)==paste0('NAME_',space.res))]}
