@@ -1,8 +1,8 @@
 # years to run current analysis for
-years_current <- c(2022)
+years_current <- c(2023)
 
 # total years of analysis
-years_total <- c(2000:2022)
+years_total <- c(2000:2024)
 
 # list of locations currently including in analysis
 countries <- c('ALB', # Albania
@@ -16,10 +16,13 @@ countries <- c('ALB', # Albania
                'CHE', # Switzerland
                'CHL', # Chile
                'CMR', # Cameroon
+               'COL', # Colombia
+               'CRI', # Costa Rica
                'CYP', # Cyprus
                'CZE', # Czech
                'DEU', # Germany
                'DNK', # Denmark
+               'DOM', # Dominican Republic
                'ESP', # Spain
                'EST', # Estonia
                'ETH', # Ethiopia
@@ -29,6 +32,8 @@ countries <- c('ALB', # Albania
                'GEO', # Georgia
                'GHA', # Ghana
                'GRC', # Greece
+               'GTM', # Guatemala
+               'HND', # Honduras
                'HRV', # Croatia
                'HUN', # Hungary
                'ISL', # Iceland
@@ -41,13 +46,16 @@ countries <- c('ALB', # Albania
                'LSO', # Lesotho
                'LUX', # Luxembourg
                'LVA', # Latvia
+               'MEX', # Mexico
                'MLT', # Malta
                'MNE', # Montenegro
                'MWI', # Malawi
                'NGA', # Nigeria
+               'NIC', # Nicaragua
                'NLD', # Netherlands
                'NOR', # Norway
                'NZL', # New Zealand
+               'PAN', # Panama
                'PHL', # Philippines
                'POL', # Poland
                'PRT', # Portugal
@@ -62,6 +70,7 @@ countries <- c('ALB', # Albania
                'TZA', # Tanzania
                'UGA', # Uganda
                'USA', # USA
+               'VEN', # Venezuela
                'ZAF', # South Africa
                'ZMB', # Zambia
                'ZWE'  # Zimbabwe

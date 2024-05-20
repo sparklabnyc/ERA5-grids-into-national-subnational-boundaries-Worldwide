@@ -21,4 +21,4 @@ space.res <- '2'
 country.id <- as.character(chosen.row[1,2])
 
 # process from grids into shapefiles
-source(paste0(project.folder,'prog/01_extract_netcdf/processing_code.R'))
+source(paste0(project.folder,'prog/01_extract_netcdf/processing_code_updated_name_logic.R'))

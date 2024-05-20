@@ -1,801 +1,0 @@
-2022-05-08 18:55:06,077 INFO Welcome to the CDS
-2022-05-08 18:55:06,077 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 18:55:06,181 INFO Request is queued
-2022-05-08 18:55:27,199 INFO Request is completed
-2022-05-08 18:55:27,200 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data5/adaptor.mars.internal-1652032525.5672953-7001-16-9c1c9bca-adde-4a74-b64b-665fe4d69515.nc to worldwide_t2m_daily_four_2022-01-01.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s] 12%|█▏        | 960k/7.93M [00:00<00:00, 8.53MB/s] 91%|█████████ | 7.24M/7.93M [00:00<00:00, 40.4MB/s]                                                    2022-05-08 18:55:27,676 INFO Download rate 16.6M/s
-2022-05-08 18:55:27,746 INFO Welcome to the CDS
-2022-05-08 18:55:27,746 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 18:55:27,817 INFO Request is queued
-2022-05-08 18:56:17,407 INFO Request is completed
-2022-05-08 18:56:17,408 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data7/adaptor.mars.internal-1652032565.400066-10461-7-3e328064-3868-4469-8bf9-f5fc1c82d68f.nc to worldwide_t2m_daily_four_2022-01-02.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:06, 1.30MB/s] 15%|█▍        | 1.15M/7.93M [00:00<00:01, 6.69MB/s] 80%|███████▉  | 6.32M/7.93M [00:00<00:00, 27.7MB/s]                                                    2022-05-08 18:56:17,893 INFO Download rate 16.4M/s
-2022-05-08 18:56:17,961 INFO Welcome to the CDS
-2022-05-08 18:56:17,962 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 18:56:18,042 INFO Request is queued
-2022-05-08 18:58:11,842 INFO Request is completed
-2022-05-08 18:58:11,842 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data3/adaptor.mars.internal-1652032677.3824015-17072-5-268de93c-5b1b-40df-9b41-944952657b08.nc to worldwide_t2m_daily_four_2022-01-03.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 154k/7.93M [00:00<00:05, 1.53MB/s] 17%|█▋        | 1.35M/7.93M [00:00<00:00, 7.76MB/s] 89%|████████▊ | 7.02M/7.93M [00:00<00:00, 30.3MB/s]                                                    2022-05-08 18:58:12,323 INFO Download rate 16.5M/s
-2022-05-08 18:58:12,396 INFO Welcome to the CDS
-2022-05-08 18:58:12,396 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 18:58:12,483 INFO Request is queued
-2022-05-08 18:59:02,083 INFO Request is completed
-2022-05-08 18:59:02,084 INFO Downloading https://download-0012-clone.copernicus-climate.eu/cache-compute-0012/cache/data1/adaptor.mars.internal-1652032726.54965-22681-3-e6392ce2-a3c8-4027-83a3-9b7a81e525a8.nc to worldwide_t2m_daily_four_2022-01-04.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 150k/7.93M [00:00<00:05, 1.50MB/s] 17%|█▋        | 1.35M/7.93M [00:00<00:00, 7.82MB/s] 88%|████████▊ | 6.97M/7.93M [00:00<00:00, 30.3MB/s]                                                    2022-05-08 18:59:02,559 INFO Download rate 16.7M/s
-2022-05-08 18:59:02,627 INFO Welcome to the CDS
-2022-05-08 18:59:02,627 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 18:59:02,737 INFO Request is queued
-2022-05-08 19:01:54,298 INFO Request is completed
-2022-05-08 19:01:54,299 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data8/adaptor.mars.internal-1652032899.342343-22389-17-cd2a82e3-c9ab-45a1-a8a3-d98e00b720aa.nc to worldwide_t2m_daily_four_2022-01-05.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 284k/7.93M [00:00<00:03, 2.54MB/s] 50%|████▉     | 3.96M/7.93M [00:00<00:00, 22.6MB/s]                                                    2022-05-08 19:01:54,702 INFO Download rate 19.7M/s
-2022-05-08 19:01:54,773 INFO Welcome to the CDS
-2022-05-08 19:01:54,774 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:01:54,892 INFO Request is queued
-2022-05-08 19:03:48,691 INFO Request is completed
-2022-05-08 19:03:48,692 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data6/adaptor.mars.internal-1652033011.7486026-7132-4-070641d4-cd41-4771-ad85-cf795d9f6f7c.nc to worldwide_t2m_daily_four_2022-01-06.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 136k/7.93M [00:00<00:06, 1.33MB/s] 15%|█▌        | 1.19M/7.93M [00:00<00:01, 6.76MB/s] 85%|████████▍ | 6.74M/7.93M [00:00<00:00, 28.9MB/s]                                                    2022-05-08 19:03:49,477 INFO Download rate 10.1M/s
-2022-05-08 19:03:49,546 INFO Welcome to the CDS
-2022-05-08 19:03:49,546 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:03:49,625 INFO Request is queued
-2022-05-08 19:04:10,650 INFO Request is running
-2022-05-08 19:04:22,088 INFO Request is completed
-2022-05-08 19:04:22,089 INFO Downloading https://download-0014-clone.copernicus-climate.eu/cache-compute-0014/cache/data0/adaptor.mars.internal-1652033051.6488204-14174-6-cf837906-124c-4ee5-a934-4541bf805956.nc to worldwide_t2m_daily_four_2022-01-07.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 154k/7.93M [00:00<00:05, 1.53MB/s] 16%|█▌        | 1.26M/7.93M [00:00<00:00, 7.27MB/s] 92%|█████████▏| 7.26M/7.93M [00:00<00:00, 31.7MB/s]                                                    2022-05-08 19:04:22,563 INFO Download rate 16.7M/s
-2022-05-08 19:04:22,631 INFO Welcome to the CDS
-2022-05-08 19:04:22,631 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:04:22,693 INFO Request is queued
-2022-05-08 19:04:25,268 INFO Request is running
-2022-05-08 19:04:27,555 INFO Request is completed
-2022-05-08 19:04:27,555 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data5/adaptor.mars.internal-1652033070.3661091-12487-3-f0ebc65c-c7cf-4ff3-bec5-32e1e91c8169.nc to worldwide_t2m_daily_four_2022-01-08.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 155k/7.93M [00:00<00:05, 1.53MB/s] 17%|█▋        | 1.31M/7.93M [00:00<00:00, 7.54MB/s] 90%|█████████ | 7.16M/7.93M [00:00<00:00, 31.6MB/s]                                                    2022-05-08 19:04:28,037 INFO Download rate 16.5M/s
-2022-05-08 19:04:28,106 INFO Welcome to the CDS
-2022-05-08 19:04:28,107 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:04:28,170 INFO Request is queued
-2022-05-08 19:04:33,034 INFO Request is running
-2022-05-08 19:04:36,449 INFO Request is completed
-2022-05-08 19:04:36,449 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data0/adaptor.mars.internal-1652033070.590468-18303-9-a63c865a-b04f-410b-8693-76d7b3c1644c.nc to worldwide_t2m_daily_four_2022-01-09.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 284k/7.93M [00:00<00:03, 2.62MB/s] 44%|████▍     | 3.48M/7.93M [00:00<00:00, 20.1MB/s]                                                    2022-05-08 19:04:36,865 INFO Download rate 19.1M/s
-2022-05-08 19:04:36,940 INFO Welcome to the CDS
-2022-05-08 19:04:36,940 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:04:37,005 INFO Request is queued
-2022-05-08 19:04:50,519 INFO Request is completed
-2022-05-08 19:04:50,520 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data2/adaptor.mars.internal-1652033086.080363-5732-4-30c237bd-059e-4681-8249-6621deb73907.nc to worldwide_t2m_daily_four_2022-01-10.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 284k/7.93M [00:00<00:03, 2.60MB/s] 49%|████▉     | 3.88M/7.93M [00:00<00:00, 22.4MB/s]                                                    2022-05-08 19:04:50,923 INFO Download rate 19.7M/s
-2022-05-08 19:04:51,009 INFO Welcome to the CDS
-2022-05-08 19:04:51,009 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:04:51,087 INFO Request is queued
-2022-05-08 19:04:55,969 INFO Request is running
-2022-05-08 19:04:59,391 INFO Request is completed
-2022-05-08 19:04:59,391 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data9/adaptor.mars.internal-1652033096.2149036-5663-7-8d33f248-dfc0-47f8-b39a-32a3f9e0dd73.nc to worldwide_t2m_daily_four_2022-01-11.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 191k/7.93M [00:00<00:04, 1.74MB/s] 38%|███▊      | 3.05M/7.93M [00:00<00:00, 17.6MB/s]                                                    2022-05-08 19:04:59,717 INFO Download rate 24.3M/s
-2022-05-08 19:04:59,804 INFO Welcome to the CDS
-2022-05-08 19:04:59,804 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:04:59,878 INFO Request is queued
-2022-05-08 19:05:08,182 INFO Request is running
-2022-05-08 19:05:13,290 INFO Request is completed
-2022-05-08 19:05:13,291 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data3/adaptor.mars.internal-1652033108.1018224-7357-16-3f70e2aa-f9f9-4953-abff-14acfa3b10d7.nc to worldwide_t2m_daily_four_2022-01-12.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 148k/7.93M [00:00<00:05, 1.48MB/s] 16%|█▋        | 1.30M/7.93M [00:00<00:00, 7.51MB/s] 90%|█████████ | 7.15M/7.93M [00:00<00:00, 31.1MB/s]                                                    2022-05-08 19:05:13,772 INFO Download rate 16.5M/s
-2022-05-08 19:05:13,853 INFO Welcome to the CDS
-2022-05-08 19:05:13,853 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:05:13,920 INFO Request is queued
-2022-05-08 19:05:22,218 INFO Request is completed
-2022-05-08 19:05:22,219 INFO Downloading https://download-0008-clone.copernicus-climate.eu/cache-compute-0008/cache/data0/adaptor.mars.internal-1652033119.5578578-3774-6-bebd6368-1264-4cca-ad0f-5432de34d129.nc to worldwide_t2m_daily_four_2022-01-13.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 147k/7.93M [00:00<00:05, 1.45MB/s] 17%|█▋        | 1.36M/7.93M [00:00<00:00, 7.80MB/s] 89%|████████▉ | 7.04M/7.93M [00:00<00:00, 30.4MB/s]                                                    2022-05-08 19:05:22,699 INFO Download rate 16.5M/s
-2022-05-08 19:05:22,780 INFO Welcome to the CDS
-2022-05-08 19:05:22,780 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:05:22,849 INFO Request is queued
-2022-05-08 19:05:31,150 INFO Request is completed
-2022-05-08 19:05:31,150 INFO Downloading https://download-0007-clone.copernicus-climate.eu/cache-compute-0007/cache/data9/adaptor.mars.internal-1652033129.8934288-9988-12-d341f962-776b-473e-9ef7-b6651bd6d3ff.nc to worldwide_t2m_daily_four_2022-01-14.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 284k/7.93M [00:00<00:03, 2.61MB/s] 49%|████▉     | 3.91M/7.93M [00:00<00:00, 22.5MB/s]                                                    2022-05-08 19:05:31,556 INFO Download rate 19.5M/s
-2022-05-08 19:05:31,638 INFO Welcome to the CDS
-2022-05-08 19:05:31,638 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:05:31,705 INFO Request is queued
-2022-05-08 19:05:45,123 INFO Request is completed
-2022-05-08 19:05:45,123 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data4/adaptor.mars.internal-1652033141.1964495-16699-11-9eb1d170-7897-42a9-b05f-ce3c09bfb8ac.nc to worldwide_t2m_daily_four_2022-01-15.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▎         | 285k/7.93M [00:00<00:03, 2.61MB/s] 52%|█████▏    | 4.11M/7.93M [00:00<00:00, 23.7MB/s]                                                    2022-05-08 19:05:45,521 INFO Download rate 19.9M/s
-2022-05-08 19:05:45,604 INFO Welcome to the CDS
-2022-05-08 19:05:45,604 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:05:45,673 INFO Request is queued
-2022-05-08 19:05:53,975 INFO Request is running
-2022-05-08 19:05:59,085 INFO Request is completed
-2022-05-08 19:05:59,085 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data0/adaptor.mars.internal-1652033152.1156673-12650-6-c7506430-8405-4453-91fd-0f185db27f75.nc to worldwide_t2m_daily_four_2022-01-16.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 128k/7.93M [00:00<00:06, 1.27MB/s] 15%|█▍        | 1.15M/7.93M [00:00<00:01, 6.64MB/s] 77%|███████▋  | 6.10M/7.93M [00:00<00:00, 26.5MB/s]                                                    2022-05-08 19:05:59,571 INFO Download rate 16.3M/s
-2022-05-08 19:05:59,653 INFO Welcome to the CDS
-2022-05-08 19:05:59,654 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:05:59,720 INFO Request is queued
-2022-05-08 19:06:08,036 INFO Request is completed
-2022-05-08 19:06:08,036 INFO Downloading https://download-0012-clone.copernicus-climate.eu/cache-compute-0012/cache/data3/adaptor.mars.internal-1652033165.7363122-26968-5-883463a4-a40a-4540-b707-8281f74c2cc6.nc to worldwide_t2m_daily_four_2022-01-17.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 340k/7.93M [00:00<00:02, 3.10MB/s] 53%|█████▎    | 4.24M/7.93M [00:00<00:00, 24.3MB/s]                                                    2022-05-08 19:06:08,432 INFO Download rate 20M/s
-2022-05-08 19:06:08,514 INFO Welcome to the CDS
-2022-05-08 19:06:08,515 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:06:08,589 INFO Request is queued
-2022-05-08 19:06:21,999 INFO Request is completed
-2022-05-08 19:06:21,999 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data3/adaptor.mars.internal-1652033176.1206644-25939-4-2e3ac5e9-4f9b-4d1c-a914-cbba310bcf80.nc to worldwide_t2m_daily_four_2022-01-18.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 314k/7.93M [00:00<00:02, 2.87MB/s] 52%|█████▏    | 4.16M/7.93M [00:00<00:00, 23.9MB/s]                                                    2022-05-08 19:06:22,404 INFO Download rate 19.6M/s
-2022-05-08 19:06:22,484 INFO Welcome to the CDS
-2022-05-08 19:06:22,484 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:06:22,557 INFO Request is queued
-2022-05-08 19:06:35,973 INFO Request is running
-2022-05-08 19:06:43,617 INFO Request is completed
-2022-05-08 19:06:43,617 INFO Downloading https://download-0008-clone.copernicus-climate.eu/cache-compute-0008/cache/data7/adaptor.mars.internal-1652033195.1570387-19867-3-e15eadb4-51a7-47fe-b887-8c5ab84b8781.nc to worldwide_t2m_daily_four_2022-01-19.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 321k/7.93M [00:00<00:02, 2.95MB/s] 55%|█████▍    | 4.33M/7.93M [00:00<00:00, 25.0MB/s]                                                    2022-05-08 19:06:44,013 INFO Download rate 20M/s
-2022-05-08 19:06:44,096 INFO Welcome to the CDS
-2022-05-08 19:06:44,096 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:06:44,345 INFO Request is queued
-2022-05-08 19:06:52,645 INFO Request is running
-2022-05-08 19:06:57,755 INFO Request is completed
-2022-05-08 19:06:57,756 INFO Downloading https://download-0007-clone.copernicus-climate.eu/cache-compute-0007/cache/data2/adaptor.mars.internal-1652033212.7233272-22682-8-cecb2490-d673-414d-bbb3-879ff9aec4ac.nc to worldwide_t2m_daily_four_2022-01-20.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 128k/7.93M [00:00<00:06, 1.25MB/s] 14%|█▍        | 1.15M/7.93M [00:00<00:01, 6.03MB/s] 61%|██████▏   | 4.86M/7.93M [00:00<00:00, 20.0MB/s]                                                    2022-05-08 19:06:58,327 INFO Download rate 13.9M/s
-2022-05-08 19:06:58,410 INFO Welcome to the CDS
-2022-05-08 19:06:58,410 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:06:58,499 INFO Request is queued
-2022-05-08 19:07:06,799 INFO Request is completed
-2022-05-08 19:07:06,799 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data2/adaptor.mars.internal-1652033225.3343542-22569-10-d7fe7bbf-ab7b-4b52-8a03-d817e7ef53f2.nc to worldwide_t2m_daily_four_2022-01-21.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 134k/7.93M [00:00<00:06, 1.33MB/s] 15%|█▍        | 1.18M/7.93M [00:00<00:01, 6.67MB/s] 83%|████████▎ | 6.60M/7.93M [00:00<00:00, 28.4MB/s]                                                    2022-05-08 19:07:07,283 INFO Download rate 16.4M/s
-2022-05-08 19:07:07,366 INFO Welcome to the CDS
-2022-05-08 19:07:07,366 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:07:07,436 INFO Request is queued
-2022-05-08 19:07:20,846 INFO Request is completed
-2022-05-08 19:07:20,847 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data9/adaptor.mars.internal-1652033237.6307914-8503-8-3ad2125e-3b2b-40b1-aad1-14bb0450012d.nc to worldwide_t2m_daily_four_2022-01-22.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 139k/7.93M [00:00<00:06, 1.17MB/s] 15%|█▌        | 1.20M/7.93M [00:00<00:01, 5.87MB/s] 82%|████████▏ | 6.50M/7.93M [00:00<00:00, 24.0MB/s]                                                    2022-05-08 19:07:21,405 INFO Download rate 14.2M/s
-2022-05-08 19:07:21,498 INFO Welcome to the CDS
-2022-05-08 19:07:21,498 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:07:21,607 INFO Request is queued
-2022-05-08 19:07:24,193 INFO Request is running
-2022-05-08 19:07:26,486 INFO Request is completed
-2022-05-08 19:07:26,486 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data3/adaptor.mars.internal-1652033244.1439838-472-1-1c4c852a-3e7d-43dd-8855-8a0a11a70523.nc to worldwide_t2m_daily_four_2022-01-23.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 149k/7.93M [00:00<00:05, 1.48MB/s] 16%|█▌        | 1.27M/7.93M [00:00<00:00, 7.32MB/s] 85%|████████▍ | 6.73M/7.93M [00:00<00:00, 29.1MB/s]                                                    2022-05-08 19:07:26,969 INFO Download rate 16.4M/s
-2022-05-08 19:07:27,193 INFO Welcome to the CDS
-2022-05-08 19:07:27,193 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:07:27,280 INFO Request is queued
-2022-05-08 19:07:32,182 INFO Request is running
-2022-05-08 19:07:35,608 INFO Request is completed
-2022-05-08 19:07:35,608 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data6/adaptor.mars.internal-1652033251.6110983-23472-14-260f5d97-c3a4-452e-a37b-acdcdeeb82f7.nc to worldwide_t2m_daily_four_2022-01-24.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 92.0k/7.93M [00:00<00:09, 912kB/s] 10%|█         | 820k/7.93M [00:00<00:01, 4.61MB/s] 68%|██████▊   | 5.39M/7.93M [00:00<00:00, 23.7MB/s]                                                    2022-05-08 19:07:35,985 INFO Download rate 21M/s
-2022-05-08 19:07:36,082 INFO Welcome to the CDS
-2022-05-08 19:07:36,082 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:07:36,181 INFO Request is queued
-2022-05-08 19:07:38,784 INFO Request is running
-2022-05-08 19:07:41,086 INFO Request is completed
-2022-05-08 19:07:41,086 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data8/adaptor.mars.internal-1652033258.3412957-20422-9-163cdec9-e91d-4b36-86f2-2e3e2f5daa3d.nc to worldwide_t2m_daily_four_2022-01-25.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 128k/7.93M [00:00<00:06, 1.28MB/s] 15%|█▍        | 1.15M/7.93M [00:00<00:01, 6.70MB/s] 80%|████████  | 6.36M/7.93M [00:00<00:00, 27.8MB/s]                                                    2022-05-08 19:07:41,564 INFO Download rate 16.6M/s
-2022-05-08 19:07:41,659 INFO Welcome to the CDS
-2022-05-08 19:07:41,659 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:07:41,735 INFO Request is queued
-2022-05-08 19:07:44,336 INFO Request is running
-2022-05-08 19:07:46,636 INFO Request is completed
-2022-05-08 19:07:46,636 INFO Downloading https://download-0005-clone.copernicus-climate.eu/cache-compute-0005/cache/data8/adaptor.mars.internal-1652033265.0407472-17930-4-cd314ddd-dd54-4803-bbcf-99bd54a4654e.nc to worldwide_t2m_daily_four_2022-01-26.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 156k/7.93M [00:00<00:05, 1.55MB/s] 17%|█▋        | 1.35M/7.93M [00:00<00:00, 7.75MB/s] 90%|█████████ | 7.14M/7.93M [00:00<00:00, 30.9MB/s]                                                    2022-05-08 19:07:47,112 INFO Download rate 16.7M/s
-2022-05-08 19:07:47,208 INFO Welcome to the CDS
-2022-05-08 19:07:47,208 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:07:47,298 INFO Request is queued
-2022-05-08 19:07:49,898 INFO Request is running
-2022-05-08 19:07:52,198 INFO Request is completed
-2022-05-08 19:07:52,198 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data5/adaptor.mars.internal-1652033270.5042686-7334-6-893ba9e2-15f3-44c1-972c-b21d60df5651.nc to worldwide_t2m_daily_four_2022-01-27.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 321k/7.93M [00:00<00:02, 2.94MB/s] 45%|████▌     | 3.58M/7.93M [00:00<00:00, 20.4MB/s]                                                    2022-05-08 19:07:52,587 INFO Download rate 20.4M/s
-2022-05-08 19:07:52,683 INFO Welcome to the CDS
-2022-05-08 19:07:52,683 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:07:52,765 INFO Request is queued
-2022-05-08 19:08:01,091 INFO Request is completed
-2022-05-08 19:08:01,091 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data4/adaptor.mars.internal-1652033278.6797166-8459-15-72660bfa-01d4-42f2-8bad-838817f98442.nc to worldwide_t2m_daily_four_2022-01-28.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 94.0k/7.93M [00:00<00:10, 776kB/s] 10%|█         | 844k/7.93M [00:00<00:01, 4.00MB/s] 67%|██████▋   | 5.29M/7.93M [00:00<00:00, 21.4MB/s]                                                    2022-05-08 19:08:01,551 INFO Download rate 17.3M/s
-2022-05-08 19:08:01,645 INFO Welcome to the CDS
-2022-05-08 19:08:01,645 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:08:01,738 INFO Request is queued
-2022-05-08 19:08:06,639 INFO Request is running
-2022-05-08 19:08:10,065 INFO Request is completed
-2022-05-08 19:08:10,065 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data3/adaptor.mars.internal-1652033287.2597625-18537-13-45247d84-8e78-4f6c-b908-b2ed3ff11f72.nc to worldwide_t2m_daily_four_2022-01-29.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 94.0k/7.93M [00:00<00:08, 934kB/s] 10%|█         | 825k/7.93M [00:00<00:01, 4.68MB/s] 68%|██████▊   | 5.40M/7.93M [00:00<00:00, 23.9MB/s]                                                    2022-05-08 19:08:10,454 INFO Download rate 20.4M/s
-2022-05-08 19:08:10,548 INFO Welcome to the CDS
-2022-05-08 19:08:10,548 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:08:10,655 INFO Request is completed
-2022-05-08 19:08:10,656 INFO Downloading https://download-0003-clone.copernicus-climate.eu/cache-compute-0003/cache/data0/adaptor.mars.internal-1651620965.5913286-6816-3-4ab08df7-861a-4b42-ab5d-ddbe4817065d.nc to worldwide_t2m_daily_four_2022-01-30.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 129k/7.93M [00:00<00:07, 1.09MB/s] 14%|█▍        | 1.13M/7.93M [00:00<00:01, 5.87MB/s] 45%|████▌     | 3.57M/7.93M [00:00<00:00, 14.2MB/s]                                                    2022-05-08 19:08:11,311 INFO Download rate 12.1M/s
-2022-05-08 19:08:11,406 INFO Welcome to the CDS
-2022-05-08 19:08:11,406 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:08:11,486 INFO Request is queued
-2022-05-08 19:08:14,085 INFO Request is running
-2022-05-08 19:08:16,386 INFO Request is completed
-2022-05-08 19:08:16,386 INFO Downloading https://download-0005-clone.copernicus-climate.eu/cache-compute-0005/cache/data7/adaptor.mars.internal-1652033294.252328-17930-8-f966ae78-a07e-44b4-a9c9-358b4350ea55.nc to worldwide_t2m_daily_four_2022-01-31.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 92.0k/7.93M [00:00<00:08, 922kB/s] 10%|█         | 820k/7.93M [00:00<00:01, 4.65MB/s] 69%|██████▉   | 5.46M/7.93M [00:00<00:00, 24.2MB/s]                                                    2022-05-08 19:08:16,760 INFO Download rate 21.2M/s
-2022-05-08 19:08:16,859 INFO Welcome to the CDS
-2022-05-08 19:08:16,859 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:08:17,020 INFO Request is queued
-2022-05-08 19:08:21,920 INFO Request is completed
-2022-05-08 19:08:21,920 INFO Downloading https://download-0012-clone.copernicus-climate.eu/cache-compute-0012/cache/data2/adaptor.mars.internal-1652033300.8677702-27987-16-f20d6e16-a426-4b76-a6f1-83f8bf875252.nc to worldwide_t2m_daily_four_2022-02-01.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 132k/7.93M [00:00<00:07, 1.11MB/s] 15%|█▌        | 1.20M/7.93M [00:00<00:01, 5.85MB/s] 83%|████████▎ | 6.54M/7.93M [00:00<00:00, 24.1MB/s]                                                    2022-05-08 19:08:22,483 INFO Download rate 14.1M/s
-2022-05-08 19:08:22,582 INFO Welcome to the CDS
-2022-05-08 19:08:22,582 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:08:22,699 INFO Request is queued
-2022-05-08 19:08:36,145 INFO Request is completed
-2022-05-08 19:08:36,146 INFO Downloading https://download-0005-clone.copernicus-climate.eu/cache-compute-0005/cache/data9/adaptor.mars.internal-1652033313.5959835-16987-14-90107dca-d62b-4c06-843b-f664341f5652.nc to worldwide_t2m_daily_four_2022-02-02.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 94.0k/7.93M [00:00<00:08, 925kB/s] 10%|█         | 820k/7.93M [00:00<00:01, 4.61MB/s] 67%|██████▋   | 5.31M/7.93M [00:00<00:00, 23.5MB/s]                                                    2022-05-08 19:08:36,537 INFO Download rate 20.3M/s
-2022-05-08 19:08:36,631 INFO Welcome to the CDS
-2022-05-08 19:08:36,631 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:08:36,711 INFO Request is queued
-2022-05-08 19:08:50,154 INFO Request is completed
-2022-05-08 19:08:50,154 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data3/adaptor.mars.internal-1652033326.50275-7334-12-483f742e-ed80-4ddf-af79-da6b9b0aa85b.nc to worldwide_t2m_daily_four_2022-02-03.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 188k/7.93M [00:00<00:04, 1.73MB/s] 39%|███▊      | 3.07M/7.93M [00:00<00:00, 16.5MB/s]                                                    2022-05-08 19:08:50,479 INFO Download rate 24.4M/s
-2022-05-08 19:08:50,574 INFO Welcome to the CDS
-2022-05-08 19:08:50,574 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:08:50,728 INFO Request is completed
-2022-05-08 19:08:50,728 INFO Downloading https://download-0003-clone.copernicus-climate.eu/cache-compute-0003/cache/data4/adaptor.mars.internal-1651621005.082968-6165-9-38b3ae34-caf3-4066-9c76-d1c2f436f727.nc to worldwide_t2m_daily_four_2022-02-04.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 92.0k/7.93M [00:00<00:10, 777kB/s] 10%|█         | 819k/7.93M [00:00<00:01, 3.92MB/s] 64%|██████▍   | 5.11M/7.93M [00:00<00:00, 20.8MB/s]                                                    2022-05-08 19:08:51,202 INFO Download rate 16.7M/s
-2022-05-08 19:08:51,295 INFO Welcome to the CDS
-2022-05-08 19:08:51,295 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:08:51,418 INFO Request is queued
-2022-05-08 19:08:59,742 INFO Request is running
-2022-05-08 19:09:04,857 INFO Request is completed
-2022-05-08 19:09:04,857 INFO Downloading https://download-0007-clone.copernicus-climate.eu/cache-compute-0007/cache/data5/adaptor.mars.internal-1652033340.0513413-22589-19-4dd9e223-9ea7-4bd3-a3e9-cb0f2a4f6a07.nc to worldwide_t2m_daily_four_2022-02-05.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 128k/7.93M [00:00<00:07, 1.08MB/s] 12%|█▏        | 966k/7.93M [00:00<00:01, 4.02MB/s] 44%|████▍     | 3.51M/7.93M [00:00<00:00, 11.7MB/s] 59%|█████▉    | 4.67M/7.93M [00:00<00:00, 6.26MB/s] 84%|████████▍ | 6.66M/7.93M [00:00<00:00, 8.83MB/s]                                                    2022-05-08 19:09:06,011 INFO Download rate 6.9M/s
-2022-05-08 19:09:06,105 INFO Welcome to the CDS
-2022-05-08 19:09:06,105 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:09:06,179 INFO Request is queued
-2022-05-08 19:09:27,264 INFO Request is completed
-2022-05-08 19:09:27,264 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data8/adaptor.mars.internal-1652033363.7035716-25330-1-dbf6f11a-62bf-4ddf-a12b-ca3c5ec867b5.nc to worldwide_t2m_daily_four_2022-02-06.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 313k/7.93M [00:00<00:02, 2.83MB/s] 52%|█████▏    | 4.09M/7.93M [00:00<00:00, 23.4MB/s]                                                    2022-05-08 19:09:27,663 INFO Download rate 19.9M/s
-2022-05-08 19:09:27,760 INFO Welcome to the CDS
-2022-05-08 19:09:27,760 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:09:27,866 INFO Request is queued
-2022-05-08 19:09:30,465 INFO Request is running
-2022-05-08 19:09:32,770 INFO Request is completed
-2022-05-08 19:09:32,771 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data6/adaptor.mars.internal-1652033369.0789578-23004-2-473232dd-d811-45cd-84fb-74298fc43e44.nc to worldwide_t2m_daily_four_2022-02-07.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:06, 1.30MB/s] 15%|█▌        | 1.20M/7.93M [00:00<00:01, 6.89MB/s] 85%|████████▌ | 6.77M/7.93M [00:00<00:00, 29.4MB/s]                                                    2022-05-08 19:09:33,249 INFO Download rate 16.6M/s
-2022-05-08 19:09:33,355 INFO Welcome to the CDS
-2022-05-08 19:09:33,355 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:09:33,435 INFO Request is queued
-2022-05-08 19:09:36,033 INFO Request is running
-2022-05-08 19:09:38,416 INFO Request is completed
-2022-05-08 19:09:38,416 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data8/adaptor.mars.internal-1652033376.3181753-31538-11-420958a3-a2b6-4275-8bf7-d5aeff37dd6a.nc to worldwide_t2m_daily_four_2022-02-08.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 139k/7.93M [00:00<00:07, 1.15MB/s] 16%|█▌        | 1.23M/7.93M [00:00<00:01, 5.94MB/s] 75%|███████▌  | 5.98M/7.93M [00:00<00:00, 23.6MB/s]                                                    2022-05-08 19:09:38,984 INFO Download rate 14M/s
-2022-05-08 19:09:39,054 INFO Welcome to the CDS
-2022-05-08 19:09:39,054 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:09:39,277 INFO Request is completed
-2022-05-08 19:09:39,277 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data1/adaptor.mars.internal-1651621047.914486-24091-5-eaec4a1d-2049-4034-a577-089327cc2021.nc to worldwide_t2m_daily_four_2022-02-09.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 199k/7.93M [00:00<00:04, 1.83MB/s] 40%|████      | 3.21M/7.93M [00:00<00:00, 17.3MB/s]                                                    2022-05-08 19:09:39,618 INFO Download rate 23.3M/s
-2022-05-08 19:09:39,687 INFO Welcome to the CDS
-2022-05-08 19:09:39,688 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:09:39,745 INFO Request is queued
-2022-05-08 19:09:42,321 INFO Request is running
-2022-05-08 19:09:44,609 INFO Request is completed
-2022-05-08 19:09:44,609 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data3/adaptor.mars.internal-1652033380.6783116-27232-5-36878cde-385d-4542-a5de-fb9d6f25bf05.nc to worldwide_t2m_daily_four_2022-02-10.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:06, 1.31MB/s] 15%|█▌        | 1.19M/7.93M [00:00<00:01, 6.84MB/s] 81%|████████  | 6.44M/7.93M [00:00<00:00, 27.9MB/s]                                                    2022-05-08 19:09:45,096 INFO Download rate 16.3M/s
-2022-05-08 19:09:45,168 INFO Welcome to the CDS
-2022-05-08 19:09:45,168 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:09:45,232 INFO Request is queued
-2022-05-08 19:09:47,804 INFO Request is running
-2022-05-08 19:09:50,099 INFO Request is completed
-2022-05-08 19:09:50,099 INFO Downloading https://download-0012-clone.copernicus-climate.eu/cache-compute-0012/cache/data0/adaptor.mars.internal-1652033387.5190873-684-4-39b837f4-30c2-4e6d-9873-86782ed2c8e7.nc to worldwide_t2m_daily_four_2022-02-11.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 329k/7.93M [00:00<00:02, 2.98MB/s] 55%|█████▍    | 4.36M/7.93M [00:00<00:00, 24.9MB/s]                                                    2022-05-08 19:09:50,498 INFO Download rate 19.9M/s
-2022-05-08 19:09:50,568 INFO Welcome to the CDS
-2022-05-08 19:09:50,568 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:09:50,634 INFO Request is queued
-2022-05-08 19:09:53,209 INFO Request is running
-2022-05-08 19:09:55,497 INFO Request is completed
-2022-05-08 19:09:55,498 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data9/adaptor.mars.internal-1652033393.0850682-32639-12-ac3119e3-455c-47ed-ae3a-75819a40733a.nc to worldwide_t2m_daily_four_2022-02-12.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 94.0k/7.93M [00:00<00:10, 787kB/s] 10%|█         | 836k/7.93M [00:00<00:01, 3.96MB/s] 46%|████▋     | 3.68M/7.93M [00:00<00:00, 14.6MB/s]                                                    2022-05-08 19:09:55,988 INFO Download rate 16.2M/s
-2022-05-08 19:09:56,056 INFO Welcome to the CDS
-2022-05-08 19:09:56,056 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:09:56,124 INFO Request is queued
-2022-05-08 19:09:58,697 INFO Request is running
-2022-05-08 19:10:00,984 INFO Request is completed
-2022-05-08 19:10:00,984 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data8/adaptor.mars.internal-1652033398.7015676-22476-18-0ef0656a-a468-4d9a-8172-b5c8866fc0f1.nc to worldwide_t2m_daily_four_2022-02-13.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:06, 1.26MB/s] 15%|█▍        | 1.15M/7.93M [00:00<00:01, 6.56MB/s] 82%|████████▏ | 6.52M/7.93M [00:00<00:00, 28.0MB/s]                                                    2022-05-08 19:10:01,475 INFO Download rate 16.2M/s
-2022-05-08 19:10:01,545 INFO Welcome to the CDS
-2022-05-08 19:10:01,545 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:10:01,604 INFO Request is queued
-2022-05-08 19:10:09,877 INFO Request is running
-2022-05-08 19:10:14,990 INFO Request is completed
-2022-05-08 19:10:14,990 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data2/adaptor.mars.internal-1652033409.2387872-14084-1-13262a7e-9e3b-4731-9c16-5eb5a18f96d4.nc to worldwide_t2m_daily_four_2022-02-14.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 332k/7.93M [00:00<00:02, 3.04MB/s] 52%|█████▏    | 4.16M/7.93M [00:00<00:00, 23.9MB/s]                                                    2022-05-08 19:10:15,395 INFO Download rate 19.6M/s
-2022-05-08 19:10:15,463 INFO Welcome to the CDS
-2022-05-08 19:10:15,463 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:10:15,589 INFO Request is queued
-2022-05-08 19:10:18,165 INFO Request is running
-2022-05-08 19:10:20,451 INFO Request is completed
-2022-05-08 19:10:20,451 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data3/adaptor.mars.internal-1652033417.5953066-472-9-d160b02d-568f-4750-9412-c444a62e1b9f.nc to worldwide_t2m_daily_four_2022-02-15.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 88.0k/7.93M [00:00<00:11, 741kB/s] 10%|█         | 844k/7.93M [00:00<00:01, 4.04MB/s] 61%|██████    | 4.83M/7.93M [00:00<00:00, 17.9MB/s]                                                    2022-05-08 19:10:20,961 INFO Download rate 15.6M/s
-2022-05-08 19:10:21,026 INFO Welcome to the CDS
-2022-05-08 19:10:21,026 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:10:21,086 INFO Request is queued
-2022-05-08 19:10:22,122 INFO Request is running
-2022-05-08 19:10:23,658 INFO Request is completed
-2022-05-08 19:10:23,658 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data4/adaptor.mars.internal-1652033422.1826797-23967-11-e893edcc-966b-4c6c-a28a-33c9b9fadb7c.nc to worldwide_t2m_daily_four_2022-02-16.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 189k/7.93M [00:00<00:04, 1.72MB/s] 39%|███▊      | 3.06M/7.93M [00:00<00:00, 16.4MB/s]                                                    2022-05-08 19:10:23,985 INFO Download rate 24.3M/s
-2022-05-08 19:10:24,055 INFO Welcome to the CDS
-2022-05-08 19:10:24,055 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:10:24,122 INFO Request is queued
-2022-05-08 19:10:37,501 INFO Request is completed
-2022-05-08 19:10:37,501 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data2/adaptor.mars.internal-1652033433.9695902-23466-3-0bc3195b-7e6a-4e04-b4b8-f1d1065d507c.nc to worldwide_t2m_daily_four_2022-02-17.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 95.0k/7.93M [00:00<00:08, 951kB/s] 10%|█         | 836k/7.93M [00:00<00:01, 4.73MB/s] 69%|██████▉   | 5.45M/7.93M [00:00<00:00, 24.1MB/s]                                                    2022-05-08 19:10:37,905 INFO Download rate 19.6M/s
-2022-05-08 19:10:37,972 INFO Welcome to the CDS
-2022-05-08 19:10:37,972 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:10:38,040 INFO Request is queued
-2022-05-08 19:10:51,422 INFO Request is completed
-2022-05-08 19:10:51,422 INFO Downloading https://download-0005-clone.copernicus-climate.eu/cache-compute-0005/cache/data5/adaptor.mars.internal-1652033450.351151-17462-19-74cf207e-067f-426e-bfb2-87bc44c8b8e7.nc to worldwide_t2m_daily_four_2022-02-18.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 283k/7.93M [00:00<00:03, 2.60MB/s] 48%|████▊     | 3.80M/7.93M [00:00<00:00, 21.9MB/s]                                                    2022-05-08 19:10:51,823 INFO Download rate 19.8M/s
-2022-05-08 19:10:51,893 INFO Welcome to the CDS
-2022-05-08 19:10:51,893 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:10:51,966 INFO Request is queued
-2022-05-08 19:11:05,349 INFO Request is running
-2022-05-08 19:11:12,985 INFO Request is completed
-2022-05-08 19:11:12,985 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data9/adaptor.mars.internal-1652033465.9657164-26385-17-b09c351a-2126-4cd8-a653-c049a1667644.nc to worldwide_t2m_daily_four_2022-02-19.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 276k/7.93M [00:00<00:03, 2.50MB/s] 44%|████▍     | 3.50M/7.93M [00:00<00:00, 20.0MB/s]                                                    2022-05-08 19:11:13,387 INFO Download rate 19.7M/s
-2022-05-08 19:11:13,459 INFO Welcome to the CDS
-2022-05-08 19:11:13,459 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:11:13,727 INFO Request is completed
-2022-05-08 19:11:13,727 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data2/adaptor.mars.internal-1651621128.8112676-15269-2-c23f9ccf-edb4-47ce-a597-9993edbafd4a.nc to worldwide_t2m_daily_four_2022-02-20.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 132k/7.93M [00:00<00:06, 1.32MB/s] 15%|█▍        | 1.15M/7.93M [00:00<00:01, 6.76MB/s] 89%|████████▉ | 7.06M/7.93M [00:00<00:00, 31.7MB/s]                                                    2022-05-08 19:11:14,383 INFO Download rate 12.1M/s
-2022-05-08 19:11:14,453 INFO Welcome to the CDS
-2022-05-08 19:11:14,453 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:11:14,526 INFO Request is queued
-2022-05-08 19:11:27,912 INFO Request is completed
-2022-05-08 19:11:27,912 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data2/adaptor.mars.internal-1652033483.685882-19094-16-447d1e37-0217-4ec0-9b97-52415a3c9923.nc to worldwide_t2m_daily_four_2022-02-21.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 90.0k/7.93M [00:00<00:09, 892kB/s] 10%|█         | 820k/7.93M [00:00<00:01, 4.61MB/s] 68%|██████▊   | 5.41M/7.93M [00:00<00:00, 23.8MB/s]                                                    2022-05-08 19:11:28,305 INFO Download rate 20.2M/s
-2022-05-08 19:11:28,381 INFO Welcome to the CDS
-2022-05-08 19:11:28,381 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:11:28,458 INFO Request is queued
-2022-05-08 19:11:49,474 INFO Request is completed
-2022-05-08 19:11:49,474 INFO Downloading https://download-0008-clone.copernicus-climate.eu/cache-compute-0008/cache/data5/adaptor.mars.internal-1652033505.2910893-22753-10-5fb808dd-8f7f-43b4-97bc-fd9695439318.nc to worldwide_t2m_daily_four_2022-02-22.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:07, 1.08MB/s] 14%|█▍        | 1.10M/7.93M [00:00<00:01, 5.37MB/s] 69%|██████▉   | 5.47M/7.93M [00:00<00:00, 21.8MB/s]                                                    2022-05-08 19:11:50,042 INFO Download rate 14M/s
-2022-05-08 19:11:50,111 INFO Welcome to the CDS
-2022-05-08 19:11:50,111 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:11:50,173 INFO Request is queued
-2022-05-08 19:12:03,554 INFO Request is completed
-2022-05-08 19:12:03,554 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data9/adaptor.mars.internal-1652033522.191185-3292-15-b68ffdde-e318-4320-8b86-925c5e25b0a4.nc to worldwide_t2m_daily_four_2022-02-23.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 155k/7.93M [00:00<00:05, 1.55MB/s] 17%|█▋        | 1.35M/7.93M [00:00<00:00, 7.79MB/s] 84%|████████▍ | 6.66M/7.93M [00:00<00:00, 28.9MB/s]                                                    2022-05-08 19:12:04,033 INFO Download rate 16.6M/s
-2022-05-08 19:12:04,262 INFO Welcome to the CDS
-2022-05-08 19:12:04,262 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:12:04,339 INFO Request is queued
-2022-05-08 19:12:25,440 INFO Request is completed
-2022-05-08 19:12:25,440 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data3/adaptor.mars.internal-1652033536.8115587-29625-4-6298ea7b-97a6-46b5-ad62-443139940d36.nc to worldwide_t2m_daily_four_2022-02-24.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 267k/7.93M [00:00<00:03, 2.46MB/s] 39%|███▉      | 3.10M/7.93M [00:00<00:00, 17.8MB/s]                                                    2022-05-08 19:12:25,846 INFO Download rate 19.5M/s
-2022-05-08 19:12:25,943 INFO Welcome to the CDS
-2022-05-08 19:12:25,943 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:12:26,061 INFO Request is queued
-2022-05-08 19:13:15,762 INFO Request is completed
-2022-05-08 19:13:15,762 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data2/adaptor.mars.internal-1652033579.0336707-13325-10-14ee03f6-7827-4afb-ba5d-b72849972a91.nc to worldwide_t2m_daily_four_2022-02-25.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 138k/7.93M [00:00<00:05, 1.38MB/s] 15%|█▍        | 1.17M/7.93M [00:00<00:01, 6.77MB/s] 91%|█████████ | 7.19M/7.93M [00:00<00:00, 31.6MB/s]                                                    2022-05-08 19:13:16,322 INFO Download rate 14.2M/s
-2022-05-08 19:13:16,424 INFO Welcome to the CDS
-2022-05-08 19:13:16,424 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:13:16,551 INFO Request is completed
-2022-05-08 19:13:16,551 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data3/adaptor.mars.internal-1651621175.6630297-13469-12-87479010-e5de-4d06-87b1-f3f74a304610.nc to worldwide_t2m_daily_four_2022-02-26.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 154k/7.93M [00:00<00:06, 1.30MB/s] 17%|█▋        | 1.36M/7.93M [00:00<00:01, 6.61MB/s] 88%|████████▊ | 6.98M/7.93M [00:00<00:00, 27.9MB/s]                                                    2022-05-08 19:13:17,117 INFO Download rate 14M/s
-2022-05-08 19:13:17,213 INFO Welcome to the CDS
-2022-05-08 19:13:17,213 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:13:17,290 INFO Request is queued
-2022-05-08 19:17:35,747 INFO Request is completed
-2022-05-08 19:17:35,747 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data3/adaptor.mars.internal-1652033809.6897414-31505-10-88e7bf9b-8b13-4c2c-816d-d911d5a3201a.nc to worldwide_t2m_daily_four_2022-02-27.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 156k/7.93M [00:00<00:06, 1.33MB/s] 17%|█▋        | 1.36M/7.93M [00:00<00:01, 6.68MB/s] 55%|█████▍    | 4.34M/7.93M [00:00<00:00, 16.7MB/s] 99%|█████████▊| 7.81M/7.93M [00:00<00:00, 23.2MB/s]                                                    2022-05-08 19:17:36,396 INFO Download rate 12.2M/s
-2022-05-08 19:17:36,482 INFO Welcome to the CDS
-2022-05-08 19:17:36,482 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:17:36,555 INFO Request is queued
-2022-05-08 19:17:44,862 INFO Request is completed
-2022-05-08 19:17:44,862 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data3/adaptor.mars.internal-1652033862.5194092-16733-16-a183d702-6fc4-417c-9ebb-452999e5b2b6.nc to worldwide_t2m_daily_four_2022-02-28.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 136k/7.93M [00:00<00:06, 1.36MB/s] 15%|█▍        | 1.18M/7.93M [00:00<00:01, 6.74MB/s] 79%|███████▉  | 6.27M/7.93M [00:00<00:00, 27.1MB/s]                                                    2022-05-08 19:17:45,349 INFO Download rate 16.3M/s
-2022-05-08 19:17:45,430 INFO Welcome to the CDS
-2022-05-08 19:17:45,431 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:17:45,502 INFO Request is queued
-2022-05-08 19:17:58,912 INFO Request is completed
-2022-05-08 19:17:58,912 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data0/adaptor.mars.internal-1652033875.243819-25217-13-6a680a1b-0268-4c71-9608-f23f1eacb5f6.nc to worldwide_t2m_daily_four_2022-03-01.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 284k/7.93M [00:00<00:03, 2.61MB/s] 51%|█████     | 4.04M/7.93M [00:00<00:00, 23.3MB/s]                                                    2022-05-08 19:17:59,311 INFO Download rate 19.9M/s
-2022-05-08 19:17:59,394 INFO Welcome to the CDS
-2022-05-08 19:17:59,394 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:17:59,584 INFO Request is queued
-2022-05-08 19:18:12,997 INFO Request is completed
-2022-05-08 19:18:12,997 INFO Downloading https://download-0005-clone.copernicus-climate.eu/cache-compute-0005/cache/data9/adaptor.mars.internal-1652033891.8356528-23516-14-681a1913-f601-484a-9b33-d288d21bf0d9.nc to worldwide_t2m_daily_four_2022-03-02.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:07, 1.08MB/s] 15%|█▍        | 1.15M/7.93M [00:00<00:01, 5.57MB/s] 72%|███████▏  | 5.74M/7.93M [00:00<00:00, 22.8MB/s]                                                    2022-05-08 19:18:13,568 INFO Download rate 13.9M/s
-2022-05-08 19:18:13,652 INFO Welcome to the CDS
-2022-05-08 19:18:13,652 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:18:13,731 INFO Request is queued
-2022-05-08 19:18:22,044 INFO Request is running
-2022-05-08 19:18:27,155 INFO Request is completed
-2022-05-08 19:18:27,155 INFO Downloading https://download-0005-clone.copernicus-climate.eu/cache-compute-0005/cache/data2/adaptor.mars.internal-1652033902.4772615-23872-13-78aaa5e8-48e9-44a6-85f2-75b26dac0e96.nc to worldwide_t2m_daily_four_2022-03-03.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 95.0k/7.93M [00:00<00:10, 778kB/s] 10%|█         | 819k/7.93M [00:00<00:01, 3.83MB/s] 63%|██████▎   | 5.03M/7.93M [00:00<00:00, 20.2MB/s]                                                    2022-05-08 19:18:27,600 INFO Download rate 17.9M/s
-2022-05-08 19:18:27,683 INFO Welcome to the CDS
-2022-05-08 19:18:27,683 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:18:27,770 INFO Request is queued
-2022-05-08 19:18:41,186 INFO Request is completed
-2022-05-08 19:18:41,186 INFO Downloading https://download-0012-clone.copernicus-climate.eu/cache-compute-0012/cache/data0/adaptor.mars.internal-1652033918.615495-4279-4-54077bf5-e178-488a-9373-82d9735bf362.nc to worldwide_t2m_daily_four_2022-03-04.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 129k/7.93M [00:00<00:06, 1.29MB/s] 15%|█▍        | 1.16M/7.93M [00:00<00:01, 6.69MB/s] 81%|████████  | 6.44M/7.93M [00:00<00:00, 28.1MB/s]                                                    2022-05-08 19:18:41,665 INFO Download rate 16.6M/s
-2022-05-08 19:18:41,748 INFO Welcome to the CDS
-2022-05-08 19:18:41,748 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:18:41,823 INFO Request is queued
-2022-05-08 19:18:55,243 INFO Request is completed
-2022-05-08 19:18:55,243 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data6/adaptor.mars.internal-1652033932.2514994-26754-2-7255508a-a2df-4c1f-bd25-ffdd2e6c4827.nc to worldwide_t2m_daily_four_2022-03-05.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 194k/7.93M [00:00<00:04, 1.77MB/s] 40%|████      | 3.19M/7.93M [00:00<00:00, 17.1MB/s]                                                    2022-05-08 19:18:55,568 INFO Download rate 24.4M/s
-2022-05-08 19:18:55,653 INFO Welcome to the CDS
-2022-05-08 19:18:55,653 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:18:55,735 INFO Request is queued
-2022-05-08 19:19:09,149 INFO Request is completed
-2022-05-08 19:19:09,150 INFO Downloading https://download-0012-clone.copernicus-climate.eu/cache-compute-0012/cache/data2/adaptor.mars.internal-1652033947.058333-30569-18-97ba9efd-adfa-4fa3-b8c6-0997f8fa7b8b.nc to worldwide_t2m_daily_four_2022-03-06.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 93.0k/7.93M [00:00<00:08, 930kB/s] 10%|█         | 820k/7.93M [00:00<00:01, 4.63MB/s] 67%|██████▋   | 5.33M/7.93M [00:00<00:00, 23.5MB/s]                                                    2022-05-08 19:19:09,542 INFO Download rate 20.2M/s
-2022-05-08 19:19:09,625 INFO Welcome to the CDS
-2022-05-08 19:19:09,625 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:19:09,743 INFO Request is queued
-2022-05-08 19:19:23,159 INFO Request is completed
-2022-05-08 19:19:23,159 INFO Downloading https://download-0005-clone.copernicus-climate.eu/cache-compute-0005/cache/data0/adaptor.mars.internal-1652033959.7808595-26897-6-504471ee-911b-4d77-9375-919d7ca068a9.nc to worldwide_t2m_daily_four_2022-03-07.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 94.0k/7.93M [00:00<00:10, 777kB/s] 10%|█         | 844k/7.93M [00:00<00:01, 3.96MB/s] 53%|█████▎    | 4.18M/7.93M [00:00<00:00, 16.4MB/s]                                                    2022-05-08 19:19:23,729 INFO Download rate 13.9M/s
-2022-05-08 19:19:23,814 INFO Welcome to the CDS
-2022-05-08 19:19:23,815 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:19:24,088 INFO Request is queued
-2022-05-08 19:20:13,745 INFO Request is completed
-2022-05-08 19:20:13,745 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data9/adaptor.mars.internal-1652033998.2339954-13840-7-660b5dfa-5f0b-46a4-a84d-444a166d4622.nc to worldwide_t2m_daily_four_2022-03-08.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 316k/7.93M [00:00<00:02, 2.76MB/s] 50%|████▉     | 3.95M/7.93M [00:00<00:00, 22.2MB/s]                                                    2022-05-08 19:20:14,149 INFO Download rate 19.7M/s
-2022-05-08 19:20:14,230 INFO Welcome to the CDS
-2022-05-08 19:20:14,230 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:20:14,308 INFO Request is queued
-2022-05-08 19:22:08,190 INFO Request is completed
-2022-05-08 19:22:08,190 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data2/adaptor.mars.internal-1652034107.4210536-6335-7-a2e65d5e-5d1d-4ca5-a3ce-4d5e8944e948.nc to worldwide_t2m_daily_four_2022-03-09.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 324k/7.93M [00:00<00:02, 2.97MB/s] 53%|█████▎    | 4.24M/7.93M [00:00<00:00, 24.4MB/s]                                                    2022-05-08 19:22:08,583 INFO Download rate 20.2M/s
-2022-05-08 19:22:08,665 INFO Welcome to the CDS
-2022-05-08 19:22:08,665 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:22:08,737 INFO Request is queued
-2022-05-08 19:25:00,485 INFO Request is completed
-2022-05-08 19:25:00,485 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data9/adaptor.mars.internal-1652034269.9708238-7631-3-d4311e7d-166f-4261-b3de-dafd5d29c77e.nc to worldwide_t2m_daily_four_2022-03-10.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 128k/7.93M [00:00<00:07, 1.09MB/s] 15%|█▌        | 1.19M/7.93M [00:00<00:01, 5.85MB/s] 50%|████▉     | 3.93M/7.93M [00:00<00:00, 15.2MB/s]                                                    2022-05-08 19:25:01,093 INFO Download rate 13.1M/s
-2022-05-08 19:25:01,162 INFO Welcome to the CDS
-2022-05-08 19:25:01,162 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:25:01,449 INFO Request is queued
-2022-05-08 19:25:33,909 INFO Request is completed
-2022-05-08 19:25:33,909 INFO Downloading https://download-0014-clone.copernicus-climate.eu/cache-compute-0014/cache/data9/adaptor.mars.internal-1652034328.6583767-24628-2-a9154e69-b351-41bc-8092-b6f72fce56a1.nc to worldwide_t2m_daily_four_2022-03-11.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 139k/7.93M [00:00<00:05, 1.40MB/s] 16%|█▌        | 1.24M/7.93M [00:00<00:00, 7.14MB/s] 88%|████████▊ | 6.95M/7.93M [00:00<00:00, 30.1MB/s]                                                    2022-05-08 19:25:34,398 INFO Download rate 16.2M/s
-2022-05-08 19:25:34,467 INFO Welcome to the CDS
-2022-05-08 19:25:34,468 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:25:34,546 INFO Request is queued
-2022-05-08 19:26:06,999 INFO Request is completed
-2022-05-08 19:26:06,999 INFO Downloading https://download-0009-clone.copernicus-climate.eu/cache-compute-0009/cache/data9/adaptor.mars.internal-1652034365.887308-25032-4-3ed97341-0449-47b1-bb1f-afd9c76fccec.nc to worldwide_t2m_daily_four_2022-03-12.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 138k/7.93M [00:00<00:07, 1.16MB/s] 15%|█▌        | 1.22M/7.93M [00:00<00:01, 5.97MB/s] 85%|████████▌ | 6.77M/7.93M [00:00<00:00, 25.0MB/s]                                                    2022-05-08 19:26:07,588 INFO Download rate 13.5M/s
-2022-05-08 19:26:07,659 INFO Welcome to the CDS
-2022-05-08 19:26:07,659 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:26:07,721 INFO Request is queued
-2022-05-08 19:32:26,241 INFO Request is completed
-2022-05-08 19:32:26,241 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data2/adaptor.mars.internal-1652034654.4878309-25279-6-58608afc-e6ed-4313-84c1-852e66b9db38.nc to worldwide_t2m_daily_four_2022-03-13.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 148k/7.93M [00:00<00:06, 1.25MB/s] 17%|█▋        | 1.36M/7.93M [00:00<00:01, 6.63MB/s] 90%|█████████ | 7.15M/7.93M [00:00<00:00, 28.7MB/s]                                                    2022-05-08 19:32:26,802 INFO Download rate 14.1M/s
-2022-05-08 19:32:26,885 INFO Welcome to the CDS
-2022-05-08 19:32:26,885 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:32:26,985 INFO Request is queued
-2022-05-08 19:33:16,631 INFO Request is completed
-2022-05-08 19:33:16,632 INFO Downloading https://download-0009-clone.copernicus-climate.eu/cache-compute-0009/cache/data5/adaptor.mars.internal-1652034782.0403645-13683-9-68a1fc04-320e-40b3-9a1f-1e0257bcb09b.nc to worldwide_t2m_daily_four_2022-03-14.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 128k/7.93M [00:00<00:06, 1.28MB/s] 14%|█▍        | 1.15M/7.93M [00:00<00:01, 6.64MB/s] 67%|██████▋   | 5.31M/7.93M [00:00<00:00, 22.7MB/s]                                                    2022-05-08 19:33:17,157 INFO Download rate 15.1M/s
-2022-05-08 19:33:17,241 INFO Welcome to the CDS
-2022-05-08 19:33:17,241 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:33:17,369 INFO Request is queued
-2022-05-08 19:33:49,880 INFO Request is completed
-2022-05-08 19:33:49,881 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data8/adaptor.mars.internal-1652034829.2324677-31518-4-cdb8a5af-2791-4a3e-87a5-8bfcbad2ac1e.nc to worldwide_t2m_daily_four_2022-03-15.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 283k/7.93M [00:00<00:03, 2.58MB/s] 47%|████▋     | 3.76M/7.93M [00:00<00:00, 21.6MB/s]                                                    2022-05-08 19:33:50,281 INFO Download rate 19.8M/s
-2022-05-08 19:33:50,363 INFO Welcome to the CDS
-2022-05-08 19:33:50,363 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:33:50,436 INFO Request is queued
-2022-05-08 19:34:40,096 INFO Request is completed
-2022-05-08 19:34:40,096 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data3/adaptor.mars.internal-1652034864.0285075-13543-5-a09fda3d-5c98-43df-98ec-5d1914b3cd6e.nc to worldwide_t2m_daily_four_2022-03-16.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 133k/7.93M [00:00<00:07, 1.12MB/s] 15%|█▌        | 1.20M/7.93M [00:00<00:01, 5.86MB/s] 83%|████████▎ | 6.59M/7.93M [00:00<00:00, 24.3MB/s]                                                    2022-05-08 19:34:40,658 INFO Download rate 14.1M/s
-2022-05-08 19:34:40,740 INFO Welcome to the CDS
-2022-05-08 19:34:40,740 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:34:40,849 INFO Request is completed
-2022-05-08 19:34:40,849 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data2/adaptor.mars.internal-1651621334.2077665-1135-11-e8eb0348-e2c3-400c-8746-37006a3c359d.nc to worldwide_t2m_daily_four_2022-03-17.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 191k/7.93M [00:00<00:04, 1.72MB/s] 39%|███▉      | 3.09M/7.93M [00:00<00:00, 16.5MB/s]                                                    2022-05-08 19:34:41,187 INFO Download rate 23.5M/s
-2022-05-08 19:34:41,271 INFO Welcome to the CDS
-2022-05-08 19:34:41,271 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:34:41,369 INFO Request is queued
-2022-05-08 19:35:13,875 INFO Request is completed
-2022-05-08 19:35:13,876 INFO Downloading https://download-0012-clone.copernicus-climate.eu/cache-compute-0012/cache/data1/adaptor.mars.internal-1652034904.3290088-12352-3-67301b7f-457a-4e97-a988-d09225cf2058.nc to worldwide_t2m_daily_four_2022-03-18.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 284k/7.93M [00:00<00:03, 2.61MB/s] 49%|████▉     | 3.88M/7.93M [00:00<00:00, 22.4MB/s]                                                    2022-05-08 19:35:14,273 INFO Download rate 20M/s
-2022-05-08 19:35:14,354 INFO Welcome to the CDS
-2022-05-08 19:35:14,354 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:35:14,419 INFO Request is queued
-2022-05-08 19:37:08,296 INFO Request is completed
-2022-05-08 19:37:08,296 INFO Downloading https://download-0009-clone.copernicus-climate.eu/cache-compute-0009/cache/data3/adaptor.mars.internal-1652035006.2037075-25032-24-08a409de-4526-4b71-b6df-bcebdd68b8ea.nc to worldwide_t2m_daily_four_2022-03-19.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 284k/7.93M [00:00<00:03, 2.61MB/s] 47%|████▋     | 3.74M/7.93M [00:00<00:00, 21.5MB/s]                                                    2022-05-08 19:37:08,694 INFO Download rate 19.9M/s
-2022-05-08 19:37:08,778 INFO Welcome to the CDS
-2022-05-08 19:37:08,778 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:37:08,845 INFO Request is queued
-2022-05-08 19:39:02,714 INFO Request is completed
-2022-05-08 19:39:02,714 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data9/adaptor.mars.internal-1652035115.1284556-29154-15-2db7ff17-8c31-47aa-811e-bed097be8007.nc to worldwide_t2m_daily_four_2022-03-20.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 128k/7.93M [00:00<00:06, 1.28MB/s] 15%|█▍        | 1.16M/7.93M [00:00<00:01, 6.72MB/s] 88%|████████▊ | 6.95M/7.93M [00:00<00:00, 30.5MB/s]                                                    2022-05-08 19:39:03,202 INFO Download rate 16.3M/s
-2022-05-08 19:39:03,286 INFO Welcome to the CDS
-2022-05-08 19:39:03,286 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:39:03,357 INFO Request is queued
-2022-05-08 19:39:16,822 INFO Request is completed
-2022-05-08 19:39:16,822 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data3/adaptor.mars.internal-1652035155.452842-14852-5-1a298efe-a388-430f-a529-2e01ee8b8fcd.nc to worldwide_t2m_daily_four_2022-03-21.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▎         | 292k/7.93M [00:00<00:02, 2.69MB/s] 51%|█████     | 4.05M/7.93M [00:00<00:00, 23.4MB/s]                                                    2022-05-08 19:39:17,218 INFO Download rate 20M/s
-2022-05-08 19:39:17,304 INFO Welcome to the CDS
-2022-05-08 19:39:17,304 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:39:17,394 INFO Request is completed
-2022-05-08 19:39:17,394 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data1/adaptor.mars.internal-1651621367.6479752-25216-10-2c32b12b-f699-4bf9-a550-3082d8374225.nc to worldwide_t2m_daily_four_2022-03-22.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]                                           2022-05-08 19:39:17,532 INFO Download rate 57.7M/s
-2022-05-08 19:39:17,618 INFO Welcome to the CDS
-2022-05-08 19:39:17,618 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:39:17,710 INFO Request is queued
-2022-05-08 19:41:11,588 INFO Request is completed
-2022-05-08 19:41:11,589 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data1/adaptor.mars.internal-1652035250.3889773-15609-3-4826e537-9a90-4da5-a740-efead9fb85c4.nc to worldwide_t2m_daily_four_2022-03-23.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 138k/7.93M [00:00<00:07, 1.16MB/s] 15%|█▌        | 1.22M/7.93M [00:00<00:01, 5.94MB/s] 81%|████████▏ | 6.46M/7.93M [00:00<00:00, 25.9MB/s]                                                    2022-05-08 19:41:12,154 INFO Download rate 14M/s
-2022-05-08 19:41:12,237 INFO Welcome to the CDS
-2022-05-08 19:41:12,237 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:41:12,354 INFO Request is completed
-2022-05-08 19:41:12,354 INFO Downloading https://download-0012-clone.copernicus-climate.eu/cache-compute-0012/cache/data8/adaptor.mars.internal-1651621385.5269554-27925-14-448305a7-b393-49c2-ae3f-77e0a3c23287.nc to worldwide_t2m_daily_four_2022-03-24.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 138k/7.93M [00:00<00:05, 1.38MB/s] 16%|█▌        | 1.23M/7.93M [00:00<00:00, 7.16MB/s] 83%|████████▎ | 6.59M/7.93M [00:00<00:00, 28.7MB/s]                                                    2022-05-08 19:41:12,854 INFO Download rate 15.8M/s
-2022-05-08 19:41:13,030 INFO Welcome to the CDS
-2022-05-08 19:41:13,031 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:41:13,122 INFO Request is queued
-2022-05-08 19:47:31,629 INFO Request is completed
-2022-05-08 19:47:31,629 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data4/adaptor.mars.internal-1652035590.9112692-19732-15-2ffee39b-eae4-4114-ae2f-50d6fc60b0c9.nc to worldwide_t2m_daily_four_2022-03-25.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 152k/7.93M [00:00<00:06, 1.28MB/s] 17%|█▋        | 1.35M/7.93M [00:00<00:01, 6.57MB/s] 87%|████████▋ | 6.88M/7.93M [00:00<00:00, 25.2MB/s]                                                    2022-05-08 19:47:32,195 INFO Download rate 14M/s
-2022-05-08 19:47:32,265 INFO Welcome to the CDS
-2022-05-08 19:47:32,265 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:47:32,354 INFO Request is queued
-2022-05-08 19:47:53,378 INFO Request is completed
-2022-05-08 19:47:53,378 INFO Downloading https://download-0005-clone.copernicus-climate.eu/cache-compute-0005/cache/data8/adaptor.mars.internal-1652035666.733213-18440-1-3f9e3a8f-6d78-4a13-897a-94e84ad4d25b.nc to worldwide_t2m_daily_four_2022-03-26.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:06, 1.27MB/s] 15%|█▍        | 1.15M/7.93M [00:00<00:01, 6.62MB/s] 83%|████████▎ | 6.55M/7.93M [00:00<00:00, 28.3MB/s]                                                    2022-05-08 19:47:53,861 INFO Download rate 16.4M/s
-2022-05-08 19:47:53,930 INFO Welcome to the CDS
-2022-05-08 19:47:53,931 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:47:53,998 INFO Request is queued
-2022-05-08 19:48:15,015 INFO Request is completed
-2022-05-08 19:48:15,015 INFO Downloading https://download-0009-clone.copernicus-climate.eu/cache-compute-0009/cache/data9/adaptor.mars.internal-1652035689.2154756-4325-7-abe44d22-723f-4843-a17c-3d6d86d3f2d5.nc to worldwide_t2m_daily_four_2022-03-27.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▎         | 298k/7.93M [00:00<00:02, 2.74MB/s] 53%|█████▎    | 4.19M/7.93M [00:00<00:00, 24.2MB/s]                                                    2022-05-08 19:48:15,410 INFO Download rate 20.1M/s
-2022-05-08 19:48:15,479 INFO Welcome to the CDS
-2022-05-08 19:48:15,479 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:48:15,575 INFO Request is queued
-2022-05-08 19:48:48,045 INFO Request is completed
-2022-05-08 19:48:48,045 INFO Downloading https://download-0009-clone.copernicus-climate.eu/cache-compute-0009/cache/data5/adaptor.mars.internal-1652035719.4318135-4171-9-ee216557-99ef-4055-bd79-d1321cf393e2.nc to worldwide_t2m_daily_four_2022-03-28.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 197k/7.93M [00:00<00:04, 1.81MB/s] 40%|███▉      | 3.15M/7.93M [00:00<00:00, 18.2MB/s]                                                    2022-05-08 19:48:48,368 INFO Download rate 24.5M/s
-2022-05-08 19:48:48,441 INFO Welcome to the CDS
-2022-05-08 19:48:48,441 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:48:48,568 INFO Request is queued
-2022-05-08 19:49:09,595 INFO Request is completed
-2022-05-08 19:49:09,595 INFO Downloading https://download-0008-clone.copernicus-climate.eu/cache-compute-0008/cache/data3/adaptor.mars.internal-1652035742.7569053-8597-15-a2ba51f2-832c-4100-9e50-5e0de5424a22.nc to worldwide_t2m_daily_four_2022-03-29.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 137k/7.93M [00:00<00:07, 1.16MB/s] 12%|█▏        | 962k/7.93M [00:00<00:01, 5.10MB/s] 36%|███▌      | 2.87M/7.93M [00:00<00:00, 11.1MB/s] 61%|██████▏   | 4.86M/7.93M [00:00<00:00, 14.7MB/s] 89%|████████▊ | 7.02M/7.93M [00:00<00:00, 17.1MB/s]                                                    2022-05-08 19:49:10,373 INFO Download rate 10.2M/s
-2022-05-08 19:49:10,445 INFO Welcome to the CDS
-2022-05-08 19:49:10,446 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:49:10,594 INFO Request is queued
-2022-05-08 19:51:04,402 INFO Request is completed
-2022-05-08 19:51:04,402 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data7/adaptor.mars.internal-1652035831.1652188-16111-2-9333c68a-a4a7-41f6-992d-5eea704470be.nc to worldwide_t2m_daily_four_2022-03-30.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 129k/7.93M [00:00<00:06, 1.29MB/s] 14%|█▍        | 1.12M/7.93M [00:00<00:01, 6.53MB/s] 78%|███████▊  | 6.22M/7.93M [00:00<00:00, 27.2MB/s]                                                    2022-05-08 19:51:04,883 INFO Download rate 16.5M/s
-2022-05-08 19:51:04,953 INFO Welcome to the CDS
-2022-05-08 19:51:04,953 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:51:05,055 INFO Request is queued
-2022-05-08 19:51:13,339 INFO Request is running
-2022-05-08 19:51:18,445 INFO Request is completed
-2022-05-08 19:51:18,445 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data6/adaptor.mars.internal-1652035873.1269073-26919-1-ed39e0cb-7c50-4a1b-a2c3-c5902e4cb195.nc to worldwide_t2m_daily_four_2022-03-31.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:07, 1.09MB/s] 15%|█▍        | 1.19M/7.93M [00:00<00:01, 5.81MB/s] 72%|███████▏  | 5.69M/7.93M [00:00<00:00, 22.7MB/s]                                                    2022-05-08 19:51:19,040 INFO Download rate 13.3M/s
-2022-05-08 19:51:19,110 INFO Welcome to the CDS
-2022-05-08 19:51:19,110 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:51:19,217 INFO Request is completed
-2022-05-08 19:51:19,217 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data2/adaptor.mars.internal-1651621457.1078868-28052-7-61728f71-3040-4b7f-bdd0-7bb974a0fb7c.nc to worldwide_t2m_daily_four_2022-04-01.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 324k/7.93M [00:00<00:02, 2.96MB/s] 52%|█████▏    | 4.14M/7.93M [00:00<00:00, 23.8MB/s]                                                    2022-05-08 19:51:19,626 INFO Download rate 19.4M/s
-2022-05-08 19:51:19,699 INFO Welcome to the CDS
-2022-05-08 19:51:19,699 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:51:19,765 INFO Request is queued
-2022-05-08 19:54:11,335 INFO Request is completed
-2022-05-08 19:54:11,335 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data0/adaptor.mars.internal-1652036029.298554-26573-9-4425731e-c427-4fa5-9bcf-304b9a7f5852.nc to worldwide_t2m_daily_four_2022-04-02.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 149k/7.93M [00:00<00:06, 1.26MB/s] 16%|█▋        | 1.30M/7.93M [00:00<00:01, 6.38MB/s] 85%|████████▍ | 6.74M/7.93M [00:00<00:00, 24.8MB/s]                                                    2022-05-08 19:54:11,897 INFO Download rate 14.1M/s
-2022-05-08 19:54:11,969 INFO Welcome to the CDS
-2022-05-08 19:54:11,970 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:54:12,133 INFO Request is completed
-2022-05-08 19:54:12,133 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data3/adaptor.mars.internal-1651621475.806002-17485-5-dfc92ac4-c583-4e2b-ae8f-f2fcaaca789d.nc to worldwide_t2m_daily_four_2022-04-03.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 324k/7.93M [00:00<00:02, 2.95MB/s] 53%|█████▎    | 4.24M/7.93M [00:00<00:00, 24.3MB/s]                                                    2022-05-08 19:54:12,587 INFO Download rate 17.5M/s
-2022-05-08 19:54:12,660 INFO Welcome to the CDS
-2022-05-08 19:54:12,660 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 19:54:12,727 INFO Request is queued
-2022-05-08 20:00:31,312 INFO Request is completed
-2022-05-08 20:00:31,312 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data5/adaptor.mars.internal-1652036390.4729974-15033-6-0dec8190-2a27-4f64-88d5-4b0801664ad3.nc to worldwide_t2m_daily_four_2022-04-04.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 152k/7.93M [00:00<00:05, 1.51MB/s] 16%|█▋        | 1.30M/7.93M [00:00<00:00, 7.46MB/s] 87%|████████▋ | 6.89M/7.93M [00:00<00:00, 29.7MB/s]                                                    2022-05-08 20:00:31,797 INFO Download rate 16.4M/s
-2022-05-08 20:00:31,869 INFO Welcome to the CDS
-2022-05-08 20:00:31,869 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:00:31,945 INFO Request is queued
-2022-05-08 20:00:52,963 INFO Request is running
-2022-05-08 20:01:04,402 INFO Request is completed
-2022-05-08 20:01:04,402 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data2/adaptor.mars.internal-1652036451.7363007-20876-3-2a5ea221-bd01-4447-9664-72a9e3375754.nc to worldwide_t2m_daily_four_2022-04-05.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 128k/7.93M [00:00<00:06, 1.29MB/s] 15%|█▍        | 1.15M/7.93M [00:00<00:01, 6.72MB/s] 83%|████████▎ | 6.57M/7.93M [00:00<00:00, 28.9MB/s]                                                    2022-05-08 20:01:04,883 INFO Download rate 16.5M/s
-2022-05-08 20:01:04,952 INFO Welcome to the CDS
-2022-05-08 20:01:04,952 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:01:05,020 INFO Request is queued
-2022-05-08 20:01:37,481 INFO Request is completed
-2022-05-08 20:01:37,481 INFO Downloading https://download-0008-clone.copernicus-climate.eu/cache-compute-0008/cache/data3/adaptor.mars.internal-1652036492.47018-23230-1-ef2957f7-4dee-408d-a076-3f44c8903c30.nc to worldwide_t2m_daily_four_2022-04-06.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 145k/7.93M [00:00<00:05, 1.40MB/s] 16%|█▋        | 1.30M/7.93M [00:00<00:00, 7.36MB/s] 89%|████████▉ | 7.04M/7.93M [00:00<00:00, 30.4MB/s]                                                    2022-05-08 20:01:37,998 INFO Download rate 15.3M/s
-2022-05-08 20:01:38,067 INFO Welcome to the CDS
-2022-05-08 20:01:38,067 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:01:38,142 INFO Request is queued
-2022-05-08 20:02:10,597 INFO Request is completed
-2022-05-08 20:02:10,597 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data1/adaptor.mars.internal-1652036520.5397975-16654-5-d3bf215d-ab68-4245-9bf4-9ce0112694ac.nc to worldwide_t2m_daily_four_2022-04-07.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 160k/7.93M [00:00<00:05, 1.57MB/s] 18%|█▊        | 1.42M/7.93M [00:00<00:00, 8.15MB/s] 96%|█████████▌| 7.59M/7.93M [00:00<00:00, 32.6MB/s]                                                    2022-05-08 20:02:11,075 INFO Download rate 16.6M/s
-2022-05-08 20:02:11,143 INFO Welcome to the CDS
-2022-05-08 20:02:11,143 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:02:11,208 INFO Request is queued
-2022-05-08 20:02:32,228 INFO Request is running
-2022-05-08 20:02:43,667 INFO Request is completed
-2022-05-08 20:02:43,667 INFO Downloading https://download-0014-clone.copernicus-climate.eu/cache-compute-0014/cache/data5/adaptor.mars.internal-1652036552.1255248-14653-13-6dc5f6c1-f1e9-4049-b1c6-1f9954b0883c.nc to worldwide_t2m_daily_four_2022-04-08.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 42.0k/7.93M [00:00<00:24, 343kB/s]  1%|          | 76.0k/7.93M [00:00<00:35, 230kB/s]  1%|          | 101k/7.93M [00:00<00:35, 229kB/s]   2%|▏         | 125k/7.93M [00:00<00:45, 179kB/s]  2%|▏         | 144k/7.93M [00:00<00:48, 169kB/s]  2%|▏         | 168k/7.93M [00:00<00:46, 175kB/s]  2%|▏         | 192k/7.93M [00:01<00:46, 175kB/s]  3%|▎         | 216k/7.93M [00:01<00:44, 182kB/s]  3%|▎         | 240k/7.93M [00:01<00:42, 188kB/s]  3%|▎         | 264k/7.93M [00:01<00:40, 196kB/s]  4%|▎         | 288k/7.93M [00:01<00:41, 193kB/s]  4%|▍         | 308k/7.93M [00:01<00:41, 194kB/s]  4%|▍         | 328k/7.93M [00:01<00:44, 178kB/s]  4%|▍         | 352k/7.93M [00:01<00:45, 176kB/s]  5%|▍         | 370k/7.93M [00:02<00:46, 171kB/s]  5%|▍         | 392k/7.93M [00:02<00:46, 170kB/s]  5%|▌         | 416k/7.93M [00:02<00:45, 172kB/s]  5%|▌         | 440k/7.93M [00:02<00:45, 175kB/s]  6%|▌         | 464k/7.93M [00:02<00:43, 182kB/s]  6%|▌         | 488k/7.93M [00:02<00:42, 184kB/s]  6%|▋         | 511k/7.93M [00:02<00:41, 187kB/s]  7%|▋         | 530k/7.93M [00:02<00:44, 175kB/s]  7%|▋         | 548k/7.93M [00:03<00:44, 174kB/s]  7%|▋         | 573k/7.93M [00:03<00:43, 177kB/s]  7%|▋         | 598k/7.93M [00:03<00:41, 185kB/s]  8%|▊         | 622k/7.93M [00:03<00:42, 182kB/s]  8%|▊         | 646k/7.93M [00:03<00:39, 193kB/s]  8%|▊         | 665k/7.93M [00:03<00:39, 193kB/s]  8%|▊         | 686k/7.93M [00:03<00:39, 193kB/s]  9%|▊         | 710k/7.93M [00:03<00:37, 200kB/s]  9%|▉         | 734k/7.93M [00:04<00:36, 205kB/s]  9%|▉         | 763k/7.93M [00:04<00:35, 210kB/s] 10%|▉         | 787k/7.93M [00:04<00:34, 218kB/s] 10%|▉         | 811k/7.93M [00:04<00:34, 217kB/s] 10%|█         | 835k/7.93M [00:04<00:34, 214kB/s] 11%|█         | 867k/7.93M [00:04<00:34, 217kB/s] 11%|█         | 899k/7.93M [00:04<00:32, 229kB/s] 11%|█▏        | 923k/7.93M [00:04<00:33, 222kB/s] 12%|█▏        | 946k/7.93M [00:04<00:33, 221kB/s] 12%|█▏        | 978k/7.93M [00:05<00:32, 222kB/s] 12%|█▏        | 0.98M/7.93M [00:05<00:31, 229kB/s] 13%|█▎        | 1.01M/7.93M [00:05<00:31, 231kB/s] 13%|█▎        | 1.03M/7.93M [00:05<00:31, 231kB/s] 13%|█▎        | 1.06M/7.93M [00:05<00:29, 244kB/s] 14%|█▍        | 1.09M/7.93M [00:05<00:29, 239kB/s] 14%|█▍        | 1.12M/7.93M [00:05<00:28, 249kB/s] 14%|█▍        | 1.15M/7.93M [00:05<00:30, 237kB/s] 15%|█▍        | 1.17M/7.93M [00:06<00:30, 232kB/s] 15%|█▌        | 1.20M/7.93M [00:06<00:28, 249kB/s] 15%|█▌        | 1.23M/7.93M [00:06<00:29, 237kB/s] 16%|█▌        | 1.25M/7.93M [00:06<00:32, 218kB/s] 16%|█▌        | 1.27M/7.93M [00:06<00:32, 215kB/s] 16%|█▋        | 1.29M/7.93M [00:06<00:33, 211kB/s] 17%|█▋        | 1.31M/7.93M [00:06<00:33, 209kB/s] 17%|█▋        | 1.34M/7.93M [00:06<00:34, 199kB/s] 17%|█▋        | 1.36M/7.93M [00:07<00:34, 197kB/s] 17%|█▋        | 1.39M/7.93M [00:07<00:34, 202kB/s] 18%|█▊        | 1.41M/7.93M [00:07<00:33, 205kB/s] 18%|█▊        | 1.43M/7.93M [00:07<00:34, 200kB/s] 18%|█▊        | 1.46M/7.93M [00:07<00:30, 220kB/s] 19%|█▊        | 1.49M/7.93M [00:07<00:30, 221kB/s] 19%|█▉        | 1.51M/7.93M [00:07<00:31, 212kB/s] 19%|█▉        | 1.54M/7.93M [00:07<00:31, 212kB/s] 20%|█▉        | 1.56M/7.93M [00:07<00:32, 208kB/s] 20%|█▉        | 1.58M/7.93M [00:08<00:32, 206kB/s] 20%|██        | 1.60M/7.93M [00:08<00:33, 199kB/s] 20%|██        | 1.62M/7.93M [00:08<00:32, 202kB/s] 21%|██        | 1.64M/7.93M [00:08<00:31, 209kB/s] 21%|██        | 1.66M/7.93M [00:08<00:31, 206kB/s] 21%|██▏       | 1.69M/7.93M [00:08<00:31, 208kB/s] 22%|██▏       | 1.71M/7.93M [00:08<00:31, 209kB/s] 22%|██▏       | 1.74M/7.93M [00:08<00:28, 232kB/s] 22%|██▏       | 1.76M/7.93M [00:09<00:29, 222kB/s] 23%|██▎       | 1.79M/7.93M [00:09<00:30, 209kB/s] 23%|██▎       | 1.82M/7.93M [00:09<00:30, 213kB/s] 23%|██▎       | 1.86M/7.93M [00:09<00:28, 225kB/s] 24%|██▎       | 1.88M/7.93M [00:09<00:28, 222kB/s] 24%|██▍       | 1.90M/7.93M [00:09<00:28, 219kB/s] 24%|██▍       | 1.92M/7.93M [00:09<00:29, 216kB/s] 25%|██▍       | 1.95M/7.93M [00:09<00:27, 226kB/s] 25%|██▍       | 1.98M/7.93M [00:10<00:29, 214kB/s] 25%|██▌       | 2.00M/7.93M [00:10<00:29, 210kB/s] 26%|██▌       | 2.03M/7.93M [00:10<00:28, 214kB/s] 26%|██▌       | 2.06M/7.93M [00:10<00:27, 226kB/s] 26%|██▌       | 2.08M/7.93M [00:10<00:28, 218kB/s] 27%|██▋       | 2.11M/7.93M [00:10<00:25, 236kB/s] 27%|██▋       | 2.14M/7.93M [00:10<00:24, 246kB/s] 27%|██▋       | 2.17M/7.93M [00:10<00:24, 248kB/s] 28%|██▊       | 2.20M/7.93M [00:11<00:24, 242kB/s] 28%|██▊       | 2.23M/7.93M [00:11<00:23, 250kB/s] 28%|██▊       | 2.25M/7.93M [00:11<00:50, 117kB/s] 30%|██▉       | 2.38M/7.93M [00:11<00:20, 286kB/s] 31%|███       | 2.42M/7.93M [00:11<00:19, 294kB/s] 31%|███       | 2.46M/7.93M [00:12<00:21, 268kB/s] 32%|███▏      | 2.50M/7.93M [00:12<00:21, 271kB/s] 32%|███▏      | 2.53M/7.93M [00:12<00:21, 259kB/s] 32%|███▏      | 2.56M/7.93M [00:12<00:21, 267kB/s] 33%|███▎      | 2.60M/7.93M [00:12<00:21, 265kB/s] 33%|███▎      | 2.63M/7.93M [00:12<00:21, 263kB/s] 34%|███▎      | 2.66M/7.93M [00:12<00:20, 265kB/s] 34%|███▍      | 2.69M/7.93M [00:13<00:20, 269kB/s] 34%|███▍      | 2.72M/7.93M [00:13<00:20, 269kB/s] 35%|███▍      | 2.75M/7.93M [00:13<00:20, 261kB/s] 35%|███▍      | 2.78M/7.93M [00:13<00:20, 259kB/s] 35%|███▌      | 2.80M/7.93M [00:13<00:21, 251kB/s] 36%|███▌      | 2.83M/7.93M [00:13<00:21, 253kB/s] 36%|███▌      | 2.86M/7.93M [00:13<00:22, 239kB/s] 36%|███▋      | 2.89M/7.93M [00:13<00:20, 253kB/s] 37%|███▋      | 2.92M/7.93M [00:14<00:21, 245kB/s] 37%|███▋      | 2.95M/7.93M [00:14<00:20, 250kB/s] 38%|███▊      | 2.98M/7.93M [00:14<00:20, 247kB/s] 38%|███▊      | 3.01M/7.93M [00:14<00:20, 253kB/s] 38%|███▊      | 3.03M/7.93M [00:14<00:21, 242kB/s] 39%|███▊      | 3.06M/7.93M [00:14<00:20, 251kB/s] 39%|███▉      | 3.09M/7.93M [00:14<00:21, 236kB/s] 39%|███▉      | 3.11M/7.93M [00:14<00:21, 233kB/s] 40%|███▉      | 3.14M/7.93M [00:14<00:21, 237kB/s] 40%|████      | 3.17M/7.93M [00:15<00:21, 234kB/s] 40%|████      | 3.21M/7.93M [00:15<00:19, 252kB/s] 41%|████      | 3.24M/7.93M [00:15<00:20, 246kB/s] 41%|████      | 3.27M/7.93M [00:15<00:18, 260kB/s] 42%|████▏     | 3.29M/7.93M [00:15<00:20, 239kB/s] 42%|████▏     | 3.32M/7.93M [00:15<00:19, 248kB/s] 42%|████▏     | 3.35M/7.93M [00:15<00:21, 226kB/s] 42%|████▏     | 3.37M/7.93M [00:15<00:21, 224kB/s] 43%|████▎     | 3.40M/7.93M [00:16<00:19, 240kB/s] 43%|████▎     | 3.42M/7.93M [00:16<00:20, 226kB/s] 44%|████▎     | 3.46M/7.93M [00:16<00:19, 239kB/s] 44%|████▍     | 3.49M/7.93M [00:16<00:20, 233kB/s] 44%|████▍     | 3.52M/7.93M [00:16<00:18, 249kB/s] 45%|████▍     | 3.54M/7.93M [00:16<00:19, 240kB/s] 45%|████▌     | 3.57M/7.93M [00:16<00:18, 252kB/s] 45%|████▌     | 3.60M/7.93M [00:16<00:18, 248kB/s] 46%|████▌     | 3.63M/7.93M [00:17<00:17, 255kB/s] 46%|████▌     | 3.66M/7.93M [00:17<00:17, 261kB/s] 47%|████▋     | 3.69M/7.93M [00:17<00:16, 271kB/s] 47%|████▋     | 3.72M/7.93M [00:17<00:16, 261kB/s] 47%|████▋     | 3.74M/7.93M [00:17<00:16, 261kB/s] 48%|████▊     | 3.78M/7.93M [00:17<00:16, 260kB/s] 48%|████▊     | 3.81M/7.93M [00:17<00:16, 268kB/s] 48%|████▊     | 3.83M/7.93M [00:17<00:16, 258kB/s] 49%|████▊     | 3.86M/7.93M [00:18<00:16, 256kB/s] 49%|████▉     | 3.89M/7.93M [00:18<00:16, 260kB/s] 49%|████▉     | 3.92M/7.93M [00:18<00:16, 259kB/s] 50%|████▉     | 3.96M/7.93M [00:18<00:15, 271kB/s] 50%|█████     | 3.98M/7.93M [00:18<00:15, 264kB/s] 51%|█████     | 4.01M/7.93M [00:18<00:15, 262kB/s] 51%|█████     | 4.03M/7.93M [00:18<00:15, 257kB/s] 51%|█████▏    | 4.06M/7.93M [00:18<00:16, 253kB/s] 52%|█████▏    | 4.10M/7.93M [00:18<00:15, 254kB/s] 52%|█████▏    | 4.13M/7.93M [00:19<00:14, 266kB/s] 52%|█████▏    | 4.15M/7.93M [00:19<00:15, 260kB/s] 53%|█████▎    | 4.18M/7.93M [00:19<00:15, 256kB/s] 53%|█████▎    | 4.21M/7.93M [00:19<00:14, 267kB/s] 54%|█████▎    | 4.24M/7.93M [00:19<00:13, 282kB/s] 54%|█████▍    | 4.27M/7.93M [00:19<00:14, 274kB/s] 54%|█████▍    | 4.30M/7.93M [00:19<00:14, 270kB/s] 55%|█████▍    | 4.33M/7.93M [00:19<00:14, 259kB/s] 55%|█████▍    | 4.36M/7.93M [00:19<00:13, 270kB/s] 55%|█████▌    | 4.39M/7.93M [00:20<00:14, 263kB/s] 56%|█████▌    | 4.41M/7.93M [00:20<00:14, 253kB/s] 56%|█████▌    | 4.44M/7.93M [00:20<00:16, 228kB/s] 56%|█████▋    | 4.47M/7.93M [00:20<00:15, 239kB/s] 57%|█████▋    | 4.49M/7.93M [00:20<00:16, 223kB/s] 57%|█████▋    | 4.52M/7.93M [00:20<00:16, 218kB/s] 57%|█████▋    | 4.55M/7.93M [00:20<00:15, 235kB/s] 58%|█████▊    | 4.58M/7.93M [00:20<00:14, 243kB/s] 58%|█████▊    | 4.61M/7.93M [00:21<00:13, 261kB/s] 58%|█████▊    | 4.64M/7.93M [00:21<00:13, 260kB/s] 59%|█████▉    | 4.67M/7.93M [00:21<00:12, 270kB/s] 59%|█████▉    | 4.69M/7.93M [00:21<00:12, 271kB/s] 60%|█████▉    | 4.72M/7.93M [00:21<00:12, 266kB/s] 60%|█████▉    | 4.75M/7.93M [00:21<00:13, 255kB/s] 60%|██████    | 4.78M/7.93M [00:21<00:12, 257kB/s] 61%|██████    | 4.81M/7.93M [00:21<00:13, 242kB/s] 61%|██████    | 4.84M/7.93M [00:22<00:12, 259kB/s] 61%|██████▏   | 4.87M/7.93M [00:22<00:12, 256kB/s] 62%|██████▏   | 4.90M/7.93M [00:22<00:11, 270kB/s] 62%|██████▏   | 4.93M/7.93M [00:22<00:11, 273kB/s] 63%|██████▎   | 4.96M/7.93M [00:22<00:11, 270kB/s] 63%|██████▎   | 4.99M/7.93M [00:22<00:11, 276kB/s] 63%|██████▎   | 5.03M/7.93M [00:22<00:10, 300kB/s] 64%|██████▎   | 5.05M/7.93M [00:22<00:10, 297kB/s] 64%|██████▍   | 5.08M/7.93M [00:22<00:10, 281kB/s] 64%|██████▍   | 5.11M/7.93M [00:23<00:10, 275kB/s] 65%|██████▍   | 5.14M/7.93M [00:23<00:10, 273kB/s] 65%|██████▌   | 5.17M/7.93M [00:23<00:10, 278kB/s] 66%|██████▌   | 5.20M/7.93M [00:23<00:10, 272kB/s] 66%|██████▌   | 5.24M/7.93M [00:23<00:10, 276kB/s] 66%|██████▋   | 5.27M/7.93M [00:23<00:09, 284kB/s] 67%|██████▋   | 5.30M/7.93M [00:23<00:09, 278kB/s] 67%|██████▋   | 5.33M/7.93M [00:23<00:09, 280kB/s] 68%|██████▊   | 5.36M/7.93M [00:23<00:09, 279kB/s] 68%|██████▊   | 5.38M/7.93M [00:24<00:09, 271kB/s] 68%|██████▊   | 5.41M/7.93M [00:24<00:10, 263kB/s] 69%|██████▊   | 5.44M/7.93M [00:24<00:10, 259kB/s] 69%|██████▉   | 5.47M/7.93M [00:24<00:10, 253kB/s] 69%|██████▉   | 5.50M/7.93M [00:24<00:10, 244kB/s] 70%|██████▉   | 5.53M/7.93M [00:24<00:09, 264kB/s] 70%|███████   | 5.56M/7.93M [00:24<00:09, 270kB/s] 71%|███████   | 5.60M/7.93M [00:24<00:08, 279kB/s] 71%|███████   | 5.62M/7.93M [00:24<00:08, 280kB/s] 71%|███████   | 5.65M/7.93M [00:25<00:08, 270kB/s] 72%|███████▏  | 5.68M/7.93M [00:25<00:08, 265kB/s] 72%|███████▏  | 5.71M/7.93M [00:25<00:08, 275kB/s] 72%|███████▏  | 5.74M/7.93M [00:25<00:08, 271kB/s] 73%|███████▎  | 5.77M/7.93M [00:25<00:08, 263kB/s] 73%|███████▎  | 5.79M/7.93M [00:25<00:08, 262kB/s] 74%|███████▎  | 5.83M/7.93M [00:25<00:07, 286kB/s] 74%|███████▍  | 5.86M/7.93M [00:25<00:07, 282kB/s] 74%|███████▍  | 5.88M/7.93M [00:26<00:07, 280kB/s] 75%|███████▍  | 5.91M/7.93M [00:26<00:07, 279kB/s] 75%|███████▍  | 5.95M/7.93M [00:26<00:07, 276kB/s] 75%|███████▌  | 5.98M/7.93M [00:26<00:07, 287kB/s] 76%|███████▌  | 6.01M/7.93M [00:26<00:07, 271kB/s] 76%|███████▌  | 6.04M/7.93M [00:26<00:07, 262kB/s] 77%|███████▋  | 6.07M/7.93M [00:26<00:07, 266kB/s] 77%|███████▋  | 6.10M/7.93M [00:26<00:07, 265kB/s] 77%|███████▋  | 6.12M/7.93M [00:26<00:07, 250kB/s] 78%|███████▊  | 6.15M/7.93M [00:27<00:07, 242kB/s] 78%|███████▊  | 6.17M/7.93M [00:27<00:08, 230kB/s] 78%|███████▊  | 6.21M/7.93M [00:27<00:07, 246kB/s] 79%|███████▊  | 6.24M/7.93M [00:27<00:07, 246kB/s] 79%|███████▉  | 6.26M/7.93M [00:27<00:07, 244kB/s] 79%|███████▉  | 6.28M/7.93M [00:27<00:07, 243kB/s] 80%|███████▉  | 6.31M/7.93M [00:27<00:07, 228kB/s] 80%|███████▉  | 6.33M/7.93M [00:27<00:08, 206kB/s] 80%|████████  | 6.35M/7.93M [00:28<00:08, 206kB/s] 80%|████████  | 6.38M/7.93M [00:28<00:07, 215kB/s] 81%|████████  | 6.41M/7.93M [00:28<00:07, 211kB/s] 81%|████████  | 6.43M/7.93M [00:28<00:07, 219kB/s] 81%|████████▏ | 6.46M/7.93M [00:28<00:06, 225kB/s] 82%|████████▏ | 6.49M/7.93M [00:28<00:06, 223kB/s] 82%|████████▏ | 6.52M/7.93M [00:28<00:06, 237kB/s] 82%|████████▏ | 6.54M/7.93M [00:28<00:06, 225kB/s] 83%|████████▎ | 6.57M/7.93M [00:29<00:05, 238kB/s] 83%|████████▎ | 6.60M/7.93M [00:29<00:05, 239kB/s] 84%|████████▎ | 6.63M/7.93M [00:29<00:05, 239kB/s] 84%|████████▍ | 6.65M/7.93M [00:29<00:05, 238kB/s] 84%|████████▍ | 6.67M/7.93M [00:29<00:05, 238kB/s] 84%|████████▍ | 6.70M/7.93M [00:29<00:05, 227kB/s] 85%|████████▍ | 6.73M/7.93M [00:29<00:05, 243kB/s] 85%|████████▌ | 6.75M/7.93M [00:29<00:05, 227kB/s] 85%|████████▌ | 6.78M/7.93M [00:29<00:05, 219kB/s] 86%|████████▌ | 6.80M/7.93M [00:30<00:05, 221kB/s] 86%|████████▌ | 6.82M/7.93M [00:30<00:05, 216kB/s] 86%|████████▋ | 6.85M/7.93M [00:30<00:05, 206kB/s] 87%|████████▋ | 6.87M/7.93M [00:30<00:05, 206kB/s] 87%|████████▋ | 6.89M/7.93M [00:30<00:05, 203kB/s] 87%|████████▋ | 6.92M/7.93M [00:30<00:05, 205kB/s] 88%|████████▊ | 6.94M/7.93M [00:30<00:04, 213kB/s] 88%|████████▊ | 6.96M/7.93M [00:30<00:05, 202kB/s] 88%|████████▊ | 6.99M/7.93M [00:31<00:04, 203kB/s] 88%|████████▊ | 7.01M/7.93M [00:31<00:04, 206kB/s] 89%|████████▊ | 7.03M/7.93M [00:31<00:04, 210kB/s] 89%|████████▉ | 7.06M/7.93M [00:31<00:04, 204kB/s] 89%|████████▉ | 7.08M/7.93M [00:31<00:04, 192kB/s] 90%|████████▉ | 7.10M/7.93M [00:31<00:04, 200kB/s] 90%|████████▉ | 7.13M/7.93M [00:31<00:03, 213kB/s] 90%|█████████ | 7.16M/7.93M [00:31<00:03, 216kB/s] 91%|█████████ | 7.18M/7.93M [00:32<00:03, 209kB/s] 91%|█████████ | 7.21M/7.93M [00:32<00:03, 209kB/s] 91%|█████████ | 7.23M/7.93M [00:32<00:03, 216kB/s] 91%|█████████▏| 7.25M/7.93M [00:32<00:03, 214kB/s] 92%|█████████▏| 7.28M/7.93M [00:32<00:03, 215kB/s] 92%|█████████▏| 7.30M/7.93M [00:32<00:03, 210kB/s] 92%|█████████▏| 7.33M/7.93M [00:32<00:02, 216kB/s] 93%|█████████▎| 7.35M/7.93M [00:32<00:02, 212kB/s] 93%|█████████▎| 7.38M/7.93M [00:33<00:02, 212kB/s] 93%|█████████▎| 7.41M/7.93M [00:33<00:02, 209kB/s] 94%|█████████▍| 7.44M/7.93M [00:33<00:02, 227kB/s] 94%|█████████▍| 7.46M/7.93M [00:33<00:02, 222kB/s] 94%|█████████▍| 7.49M/7.93M [00:33<00:01, 236kB/s] 95%|█████████▍| 7.52M/7.93M [00:33<00:01, 223kB/s] 95%|█████████▌| 7.55M/7.93M [00:33<00:01, 233kB/s] 95%|█████████▌| 7.57M/7.93M [00:33<00:01, 233kB/s] 96%|█████████▌| 7.60M/7.93M [00:34<00:01, 227kB/s] 96%|█████████▌| 7.63M/7.93M [00:34<00:01, 227kB/s] 97%|█████████▋| 7.66M/7.93M [00:34<00:01, 219kB/s] 97%|█████████▋| 7.68M/7.93M [00:34<00:01, 213kB/s] 97%|█████████▋| 7.71M/7.93M [00:34<00:01, 219kB/s] 98%|█████████▊| 7.74M/7.93M [00:34<00:00, 224kB/s] 98%|█████████▊| 7.77M/7.93M [00:34<00:00, 224kB/s] 98%|█████████▊| 7.80M/7.93M [00:34<00:00, 238kB/s] 99%|█████████▊| 7.83M/7.93M [00:35<00:00, 238kB/s] 99%|█████████▉| 7.86M/7.93M [00:35<00:00, 249kB/s] 99%|█████████▉| 7.89M/7.93M [00:35<00:00, 232kB/s]100%|█████████▉| 7.91M/7.93M [00:35<00:00, 227kB/s]                                                   2022-05-08 20:03:19,320 INFO Download rate 227.8K/s
-2022-05-08 20:03:19,389 INFO Welcome to the CDS
-2022-05-08 20:03:19,389 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:03:19,504 INFO Request is queued
-2022-05-08 20:03:32,888 INFO Request is completed
-2022-05-08 20:03:32,889 INFO Downloading https://download-0007-clone.copernicus-climate.eu/cache-compute-0007/cache/data0/adaptor.mars.internal-1652036611.652038-24578-18-286ebbc5-2582-483b-967f-bfe37f899985.nc to worldwide_t2m_daily_four_2022-04-09.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 129k/7.93M [00:00<00:07, 1.08MB/s] 14%|█▍        | 1.15M/7.93M [00:00<00:01, 5.49MB/s] 51%|█████▏    | 4.07M/7.93M [00:00<00:00, 14.1MB/s] 85%|████████▍ | 6.73M/7.93M [00:00<00:00, 17.4MB/s]                                                    2022-05-08 20:03:33,621 INFO Download rate 10.8M/s
-2022-05-08 20:03:33,692 INFO Welcome to the CDS
-2022-05-08 20:03:33,692 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:03:33,758 INFO Request is queued
-2022-05-08 20:04:23,368 INFO Request is completed
-2022-05-08 20:04:23,368 INFO Downloading https://download-0001-clone.copernicus-climate.eu/cache-compute-0001/cache/data0/adaptor.mars.internal-1652036655.8836398-22370-6-153d18e0-6d83-4ba8-bb0d-6e3315d47603.nc to worldwide_t2m_daily_four_2022-04-10.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 152k/7.93M [00:00<00:06, 1.28MB/s] 16%|█▋        | 1.30M/7.93M [00:00<00:01, 6.33MB/s] 87%|████████▋ | 6.86M/7.93M [00:00<00:00, 25.2MB/s]                                                    2022-05-08 20:04:23,927 INFO Download rate 14.2M/s
-2022-05-08 20:04:23,998 INFO Welcome to the CDS
-2022-05-08 20:04:23,998 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:04:24,107 INFO Request is queued
-2022-05-08 20:04:28,970 INFO Request is running
-2022-05-08 20:04:32,385 INFO Request is completed
-2022-05-08 20:04:32,385 INFO Downloading https://download-0008-clone.copernicus-climate.eu/cache-compute-0008/cache/data1/adaptor.mars.internal-1652036668.2863417-23329-14-d7b40b97-24e0-4a88-95d8-bc6a821fb158.nc to worldwide_t2m_daily_four_2022-04-11.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 160k/7.93M [00:00<00:05, 1.59MB/s] 18%|█▊        | 1.45M/7.93M [00:00<00:00, 8.40MB/s] 87%|████████▋ | 6.87M/7.93M [00:00<00:00, 29.7MB/s]                                                    2022-05-08 20:04:32,870 INFO Download rate 16.4M/s
-2022-05-08 20:04:32,943 INFO Welcome to the CDS
-2022-05-08 20:04:32,943 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:04:33,038 INFO Request is queued
-2022-05-08 20:04:37,901 INFO Request is completed
-2022-05-08 20:04:37,901 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data3/adaptor.mars.internal-1652036674.0975623-4251-10-dde5d857-6c4a-4662-b337-510622a02b2d.nc to worldwide_t2m_daily_four_2022-04-12.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 155k/7.93M [00:00<00:06, 1.31MB/s] 17%|█▋        | 1.36M/7.93M [00:00<00:01, 6.70MB/s] 87%|████████▋ | 6.87M/7.93M [00:00<00:00, 25.3MB/s]                                                    2022-05-08 20:04:38,462 INFO Download rate 14.1M/s
-2022-05-08 20:04:38,531 INFO Welcome to the CDS
-2022-05-08 20:04:38,531 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:04:38,664 INFO Request is completed
-2022-05-08 20:04:38,664 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data2/adaptor.mars.internal-1651621557.8405764-17281-11-1808e05f-2c51-4a27-93f8-5c5b921acb98.nc to worldwide_t2m_daily_four_2022-04-13.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  3%|▎         | 276k/7.93M [00:00<00:03, 2.52MB/s] 50%|█████     | 3.97M/7.93M [00:00<00:00, 22.9MB/s]                                                    2022-05-08 20:04:39,121 INFO Download rate 17.3M/s
-2022-05-08 20:04:39,191 INFO Welcome to the CDS
-2022-05-08 20:04:39,192 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:04:39,359 INFO Request is queued
-2022-05-08 20:04:44,228 INFO Request is running
-2022-05-08 20:04:47,644 INFO Request is completed
-2022-05-08 20:04:47,644 INFO Downloading https://download-0009-clone.copernicus-climate.eu/cache-compute-0009/cache/data9/adaptor.mars.internal-1652036685.0330758-15244-4-a9d4f1c2-3a37-4dfc-a15f-f5701dcd3c45.nc to worldwide_t2m_daily_four_2022-04-14.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 139k/7.93M [00:00<00:06, 1.17MB/s] 15%|█▍        | 1.17M/7.93M [00:00<00:01, 5.69MB/s] 81%|████████  | 6.42M/7.93M [00:00<00:00, 23.6MB/s]                                                    2022-05-08 20:04:48,210 INFO Download rate 14M/s
-2022-05-08 20:04:48,280 INFO Welcome to the CDS
-2022-05-08 20:04:48,280 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:04:48,357 INFO Request is queued
-2022-05-08 20:05:01,738 INFO Request is completed
-2022-05-08 20:05:01,738 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data1/adaptor.mars.internal-1652036698.220792-17934-5-cd298047-ace2-46b3-b0cf-e9ca4472086e.nc to worldwide_t2m_daily_four_2022-04-15.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 155k/7.93M [00:00<00:05, 1.54MB/s] 17%|█▋        | 1.35M/7.93M [00:00<00:00, 7.79MB/s] 89%|████████▉ | 7.06M/7.93M [00:00<00:00, 30.7MB/s]                                                    2022-05-08 20:05:02,213 INFO Download rate 16.7M/s
-2022-05-08 20:05:02,283 INFO Welcome to the CDS
-2022-05-08 20:05:02,283 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:05:02,412 INFO Request is queued
-2022-05-08 20:05:15,792 INFO Request is completed
-2022-05-08 20:05:15,792 INFO Downloading https://download-0008-clone.copernicus-climate.eu/cache-compute-0008/cache/data8/adaptor.mars.internal-1652036712.7767482-24829-7-2a71a851-f19d-4602-bdeb-1e4ee4421df5.nc to worldwide_t2m_daily_four_2022-04-16.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 86.0k/7.93M [00:00<00:09, 842kB/s] 10%|▉         | 780k/7.93M [00:00<00:01, 4.38MB/s] 68%|██████▊   | 5.43M/7.93M [00:00<00:00, 24.0MB/s]                                                    2022-05-08 20:05:16,183 INFO Download rate 20.3M/s
-2022-05-08 20:05:16,354 INFO Welcome to the CDS
-2022-05-08 20:05:16,355 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:05:16,430 INFO Request is queued
-2022-05-08 20:05:24,712 INFO Request is completed
-2022-05-08 20:05:24,712 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data6/adaptor.mars.internal-1652036728.6876268-19567-8-ce47836a-6bc2-4c48-9398-1217e0437d66.nc to worldwide_t2m_daily_four_2022-04-17.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 200k/7.93M [00:00<00:04, 1.83MB/s] 41%|████      | 3.24M/7.93M [00:00<00:00, 17.5MB/s]                                                    2022-05-08 20:05:25,033 INFO Download rate 24.7M/s
-2022-05-08 20:05:25,103 INFO Welcome to the CDS
-2022-05-08 20:05:25,103 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:05:25,165 INFO Request is queued
-2022-05-08 20:05:33,441 INFO Request is completed
-2022-05-08 20:05:33,441 INFO Downloading https://download-0014-clone.copernicus-climate.eu/cache-compute-0014/cache/data6/adaptor.mars.internal-1652036731.6897678-11929-20-13fb56ea-eaca-43e3-b7e1-70aa61decf89.nc to worldwide_t2m_daily_four_2022-04-18.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  0%|          | 26.0k/7.93M [00:00<00:38, 217kB/s]  1%|          | 66.0k/7.93M [00:00<00:26, 308kB/s]  1%|▏         | 110k/7.93M [00:00<00:23, 353kB/s]   2%|▏         | 150k/7.93M [00:00<00:22, 361kB/s]  2%|▏         | 197k/7.93M [00:00<00:21, 380kB/s]  3%|▎         | 252k/7.93M [00:00<00:19, 424kB/s]  4%|▍         | 311k/7.93M [00:00<00:18, 444kB/s]  4%|▍         | 364k/7.93M [00:00<00:17, 446kB/s]  5%|▌         | 417k/7.93M [00:01<00:17, 454kB/s]  6%|▌         | 473k/7.93M [00:01<00:16, 472kB/s]  7%|▋         | 545k/7.93M [00:01<00:14, 522kB/s]  7%|▋         | 597k/7.93M [00:01<00:16, 480kB/s]  8%|▊         | 659k/7.93M [00:01<00:15, 492kB/s]  9%|▉         | 723k/7.93M [00:01<00:14, 513kB/s] 10%|▉         | 795k/7.93M [00:01<00:13, 559kB/s] 11%|█         | 867k/7.93M [00:01<00:12, 597kB/s] 12%|█▏        | 944k/7.93M [00:01<00:12, 587kB/s] 12%|█▏        | 0.98M/7.93M [00:02<00:15, 476kB/s] 13%|█▎        | 1.03M/7.93M [00:02<00:16, 431kB/s] 14%|█▎        | 1.07M/7.93M [00:02<00:17, 416kB/s] 14%|█▍        | 1.11M/7.93M [00:02<00:18, 395kB/s] 15%|█▍        | 1.15M/7.93M [00:02<00:18, 383kB/s] 15%|█▍        | 1.19M/7.93M [00:02<00:19, 365kB/s] 15%|█▌        | 1.23M/7.93M [00:02<00:19, 369kB/s] 17%|█▋        | 1.33M/7.93M [00:03<00:12, 545kB/s] 18%|█▊        | 1.41M/7.93M [00:03<00:11, 581kB/s] 19%|█▊        | 1.47M/7.93M [00:03<00:11, 572kB/s] 19%|█▉        | 1.52M/7.93M [00:03<00:13, 484kB/s] 20%|█▉        | 1.57M/7.93M [00:03<00:14, 448kB/s] 20%|██        | 1.62M/7.93M [00:03<00:15, 440kB/s] 21%|██        | 1.66M/7.93M [00:03<00:14, 438kB/s] 22%|██▏       | 1.71M/7.93M [00:03<00:15, 417kB/s] 23%|██▎       | 1.80M/7.93M [00:04<00:12, 525kB/s] 23%|██▎       | 1.85M/7.93M [00:04<00:12, 503kB/s] 24%|██▍       | 1.90M/7.93M [00:04<00:13, 474kB/s] 24%|██▍       | 1.94M/7.93M [00:04<00:13, 468kB/s] 25%|██▌       | 1.99M/7.93M [00:04<00:13, 463kB/s] 26%|██▌       | 2.03M/7.93M [00:04<00:13, 463kB/s] 26%|██▌       | 2.08M/7.93M [00:04<00:13, 452kB/s] 27%|██▋       | 2.12M/7.93M [00:04<00:13, 441kB/s] 28%|██▊       | 2.21M/7.93M [00:04<00:10, 554kB/s] 29%|██▉       | 2.31M/7.93M [00:05<00:08, 666kB/s] 30%|███       | 2.42M/7.93M [00:05<00:07, 732kB/s] 32%|███▏      | 2.52M/7.93M [00:05<00:07, 811kB/s] 33%|███▎      | 2.59M/7.93M [00:05<00:08, 687kB/s] 34%|███▎      | 2.66M/7.93M [00:05<00:09, 593kB/s] 34%|███▍      | 2.72M/7.93M [00:05<00:10, 518kB/s] 35%|███▌      | 2.78M/7.93M [00:05<00:10, 495kB/s] 36%|███▌      | 2.83M/7.93M [00:06<00:11, 466kB/s] 36%|███▌      | 2.87M/7.93M [00:06<00:11, 467kB/s] 37%|███▋      | 2.92M/7.93M [00:06<00:11, 456kB/s] 37%|███▋      | 2.97M/7.93M [00:06<00:11, 463kB/s] 38%|███▊      | 3.02M/7.93M [00:06<00:11, 442kB/s] 39%|███▊      | 3.07M/7.93M [00:06<00:11, 455kB/s] 40%|████      | 3.19M/7.93M [00:06<00:08, 620kB/s] 41%|████      | 3.25M/7.93M [00:06<00:08, 585kB/s] 42%|████▏     | 3.30M/7.93M [00:07<00:09, 511kB/s] 42%|████▏     | 3.36M/7.93M [00:07<00:10, 476kB/s] 43%|████▎     | 3.40M/7.93M [00:07<00:10, 447kB/s] 44%|████▎     | 3.45M/7.93M [00:07<00:10, 448kB/s] 44%|████▍     | 3.50M/7.93M [00:07<00:10, 439kB/s] 45%|████▍     | 3.54M/7.93M [00:07<00:11, 408kB/s] 45%|████▌     | 3.59M/7.93M [00:07<00:10, 419kB/s] 46%|████▌     | 3.63M/7.93M [00:07<00:10, 411kB/s] 46%|████▋     | 3.67M/7.93M [00:08<00:11, 403kB/s] 47%|████▋     | 3.72M/7.93M [00:08<00:10, 408kB/s] 47%|████▋     | 3.76M/7.93M [00:08<00:11, 387kB/s] 48%|████▊     | 3.81M/7.93M [00:08<00:11, 384kB/s] 48%|████▊     | 3.84M/7.93M [00:08<00:11, 385kB/s] 49%|████▉     | 3.88M/7.93M [00:08<00:11, 364kB/s] 49%|████▉     | 3.92M/7.93M [00:08<00:12, 338kB/s] 50%|████▉     | 3.95M/7.93M [00:08<00:12, 336kB/s] 50%|█████     | 3.99M/7.93M [00:08<00:12, 327kB/s] 51%|█████     | 4.02M/7.93M [00:09<00:12, 325kB/s] 51%|█████     | 4.06M/7.93M [00:09<00:11, 342kB/s] 52%|█████▏    | 4.09M/7.93M [00:09<00:11, 347kB/s] 52%|█████▏    | 4.13M/7.93M [00:09<00:11, 345kB/s] 53%|█████▎    | 4.17M/7.93M [00:09<00:11, 334kB/s] 53%|█████▎    | 4.21M/7.93M [00:09<00:10, 361kB/s] 54%|█████▎    | 4.25M/7.93M [00:09<00:10, 369kB/s] 54%|█████▍    | 4.29M/7.93M [00:09<00:10, 358kB/s] 55%|█████▍    | 4.32M/7.93M [00:09<00:10, 350kB/s] 55%|█████▍    | 4.36M/7.93M [00:10<00:10, 350kB/s] 55%|█████▌    | 4.40M/7.93M [00:10<00:10, 353kB/s] 56%|█████▌    | 4.44M/7.93M [00:10<00:10, 353kB/s] 56%|█████▋    | 4.48M/7.93M [00:10<00:10, 355kB/s] 57%|█████▋    | 4.52M/7.93M [00:10<00:10, 348kB/s] 57%|█████▋    | 4.56M/7.93M [00:10<00:10, 338kB/s] 58%|█████▊    | 4.59M/7.93M [00:10<00:10, 323kB/s] 58%|█████▊    | 4.63M/7.93M [00:10<00:10, 329kB/s] 59%|█████▊    | 4.66M/7.93M [00:11<00:10, 328kB/s] 59%|█████▉    | 4.70M/7.93M [00:11<00:10, 324kB/s] 60%|█████▉    | 4.74M/7.93M [00:11<00:10, 333kB/s] 60%|██████    | 4.77M/7.93M [00:11<00:09, 345kB/s] 61%|██████    | 4.81M/7.93M [00:11<00:09, 356kB/s] 61%|██████    | 4.85M/7.93M [00:11<00:09, 354kB/s] 62%|██████▏   | 4.88M/7.93M [00:11<00:08, 357kB/s] 62%|██████▏   | 4.92M/7.93M [00:11<00:09, 344kB/s] 62%|██████▏   | 4.95M/7.93M [00:11<00:09, 325kB/s] 63%|██████▎   | 4.99M/7.93M [00:12<00:09, 325kB/s] 63%|██████▎   | 5.02M/7.93M [00:12<00:09, 318kB/s] 64%|██████▍   | 5.06M/7.93M [00:12<00:09, 323kB/s] 64%|██████▍   | 5.10M/7.93M [00:12<00:08, 341kB/s] 65%|██████▍   | 5.14M/7.93M [00:12<00:08, 352kB/s] 65%|██████▌   | 5.18M/7.93M [00:12<00:07, 361kB/s] 66%|██████▌   | 5.23M/7.93M [00:12<00:07, 390kB/s] 66%|██████▋   | 5.27M/7.93M [00:12<00:07, 388kB/s] 67%|██████▋   | 5.30M/7.93M [00:12<00:07, 373kB/s] 67%|██████▋   | 5.34M/7.93M [00:13<00:07, 365kB/s] 68%|██████▊   | 5.38M/7.93M [00:13<00:07, 362kB/s] 68%|██████▊   | 5.41M/7.93M [00:13<00:07, 341kB/s] 69%|██████▊   | 5.45M/7.93M [00:13<00:07, 335kB/s] 69%|██████▉   | 5.49M/7.93M [00:13<00:07, 350kB/s] 70%|██████▉   | 5.52M/7.93M [00:13<00:06, 361kB/s] 70%|███████   | 5.56M/7.93M [00:13<00:07, 348kB/s] 71%|███████   | 5.60M/7.93M [00:13<00:07, 344kB/s] 71%|███████   | 5.64M/7.93M [00:13<00:06, 351kB/s] 72%|███████▏  | 5.68M/7.93M [00:14<00:06, 365kB/s] 72%|███████▏  | 5.73M/7.93M [00:14<00:05, 387kB/s] 73%|███████▎  | 5.77M/7.93M [00:14<00:05, 386kB/s] 73%|███████▎  | 5.81M/7.93M [00:14<00:06, 371kB/s] 74%|███████▍  | 5.85M/7.93M [00:14<00:05, 389kB/s] 74%|███████▍  | 5.90M/7.93M [00:14<00:05, 412kB/s] 75%|███████▍  | 5.94M/7.93M [00:14<00:05, 413kB/s] 75%|███████▌  | 5.99M/7.93M [00:14<00:05, 400kB/s] 76%|███████▌  | 6.02M/7.93M [00:14<00:04, 401kB/s] 76%|███████▋  | 6.06M/7.93M [00:15<00:05, 378kB/s] 77%|███████▋  | 6.10M/7.93M [00:15<00:05, 376kB/s] 77%|███████▋  | 6.14M/7.93M [00:15<00:04, 381kB/s] 78%|███████▊  | 6.18M/7.93M [00:15<00:04, 389kB/s] 78%|███████▊  | 6.22M/7.93M [00:15<00:04, 377kB/s] 79%|███████▉  | 6.25M/7.93M [00:15<00:04, 368kB/s] 79%|███████▉  | 6.29M/7.93M [00:15<00:04, 361kB/s] 80%|███████▉  | 6.33M/7.93M [00:15<00:04, 346kB/s] 80%|████████  | 6.37M/7.93M [00:15<00:04, 332kB/s] 81%|████████  | 6.41M/7.93M [00:16<00:04, 339kB/s] 81%|████████  | 6.44M/7.93M [00:16<00:04, 337kB/s] 82%|████████▏ | 6.48M/7.93M [00:16<00:04, 326kB/s] 82%|████████▏ | 6.52M/7.93M [00:16<00:04, 322kB/s] 83%|████████▎ | 6.55M/7.93M [00:16<00:04, 322kB/s] 83%|████████▎ | 6.58M/7.93M [00:16<00:04, 323kB/s] 83%|████████▎ | 6.61M/7.93M [00:16<00:04, 320kB/s] 84%|████████▍ | 6.66M/7.93M [00:16<00:03, 337kB/s] 84%|████████▍ | 6.70M/7.93M [00:16<00:03, 353kB/s] 85%|████████▍ | 6.74M/7.93M [00:17<00:03, 364kB/s] 86%|████████▌ | 6.78M/7.93M [00:17<00:03, 387kB/s] 86%|████████▌ | 6.83M/7.93M [00:17<00:02, 388kB/s] 87%|████████▋ | 6.88M/7.93M [00:17<00:02, 400kB/s] 87%|████████▋ | 6.92M/7.93M [00:17<00:02, 404kB/s] 88%|████████▊ | 6.96M/7.93M [00:17<00:02, 399kB/s] 88%|████████▊ | 7.01M/7.93M [00:17<00:02, 421kB/s] 89%|████████▉ | 7.06M/7.93M [00:17<00:02, 412kB/s] 90%|████████▉ | 7.10M/7.93M [00:18<00:02, 422kB/s] 90%|█████████ | 7.15M/7.93M [00:18<00:01, 432kB/s] 91%|█████████ | 7.20M/7.93M [00:18<00:01, 440kB/s] 91%|█████████▏| 7.24M/7.93M [00:18<00:01, 414kB/s] 92%|█████████▏| 7.28M/7.93M [00:18<00:01, 403kB/s] 92%|█████████▏| 7.33M/7.93M [00:18<00:01, 416kB/s] 93%|█████████▎| 7.37M/7.93M [00:18<00:01, 398kB/s] 94%|█████████▎| 7.42M/7.93M [00:18<00:01, 410kB/s] 94%|█████████▍| 7.46M/7.93M [00:18<00:01, 411kB/s] 95%|█████████▍| 7.51M/7.93M [00:19<00:01, 421kB/s] 95%|█████████▌| 7.56M/7.93M [00:19<00:00, 428kB/s] 96%|█████████▌| 7.61M/7.93M [00:19<00:00, 458kB/s] 97%|█████████▋| 7.67M/7.93M [00:19<00:00, 479kB/s] 97%|█████████▋| 7.71M/7.93M [00:19<00:00, 460kB/s] 98%|█████████▊| 7.76M/7.93M [00:19<00:00, 458kB/s] 98%|█████████▊| 7.80M/7.93M [00:19<00:00, 452kB/s] 99%|█████████▉| 7.84M/7.93M [00:19<00:00, 441kB/s]100%|█████████▉| 7.90M/7.93M [00:19<00:00, 467kB/s]                                                   2022-05-08 20:05:53,680 INFO Download rate 401.2K/s
-2022-05-08 20:05:53,747 INFO Welcome to the CDS
-2022-05-08 20:05:53,747 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:05:53,869 INFO Request is queued
-2022-05-08 20:08:45,429 INFO Request is completed
-2022-05-08 20:08:45,430 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data6/adaptor.mars.internal-1652036888.163316-20326-2-2e1385b5-33a6-4383-b06e-5237b98cb2d8.nc to worldwide_t2m_daily_four_2022-04-19.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:07, 1.10MB/s] 15%|█▍        | 1.17M/7.93M [00:00<00:01, 5.73MB/s] 81%|████████  | 6.41M/7.93M [00:00<00:00, 25.9MB/s]                                                    2022-05-08 20:08:45,998 INFO Download rate 14M/s
-2022-05-08 20:08:46,069 INFO Welcome to the CDS
-2022-05-08 20:08:46,069 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:08:46,135 INFO Request is queued
-2022-05-08 20:09:35,739 INFO Request is completed
-2022-05-08 20:09:35,739 INFO Downloading https://download-0008-clone.copernicus-climate.eu/cache-compute-0008/cache/data0/adaptor.mars.internal-1652036965.0681598-26144-1-60524da0-4d34-4ee1-89b9-e1d7fb6c4e0d.nc to worldwide_t2m_daily_four_2022-04-20.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:07, 1.09MB/s] 15%|█▍        | 1.18M/7.93M [00:00<00:01, 5.72MB/s] 80%|███████▉  | 6.34M/7.93M [00:00<00:00, 25.4MB/s]                                                    2022-05-08 20:09:36,308 INFO Download rate 13.9M/s
-2022-05-08 20:09:36,383 INFO Welcome to the CDS
-2022-05-08 20:09:36,383 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:09:36,488 INFO Request is queued
-2022-05-08 20:09:57,509 INFO Request is completed
-2022-05-08 20:09:57,509 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data5/adaptor.mars.internal-1652037000.896555-22602-3-53b03011-d30e-4530-b824-3e49b406fb31.nc to worldwide_t2m_daily_four_2022-04-21.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 129k/7.93M [00:00<00:06, 1.29MB/s] 15%|█▌        | 1.20M/7.93M [00:00<00:01, 6.92MB/s] 86%|████████▋ | 6.84M/7.93M [00:00<00:00, 30.0MB/s]                                                    2022-05-08 20:09:57,987 INFO Download rate 16.6M/s
-2022-05-08 20:09:58,058 INFO Welcome to the CDS
-2022-05-08 20:09:58,058 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:09:58,135 INFO Request is queued
-2022-05-08 20:10:19,155 INFO Request is running
-2022-05-08 20:10:30,593 INFO Request is completed
-2022-05-08 20:10:30,593 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data1/adaptor.mars.internal-1652037019.1834686-27413-20-88e6e116-7c08-468f-830e-d581d32c1fc0.nc to worldwide_t2m_daily_four_2022-04-22.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 155k/7.93M [00:00<00:06, 1.31MB/s] 17%|█▋        | 1.35M/7.93M [00:00<00:01, 6.59MB/s] 85%|████████▌ | 6.78M/7.93M [00:00<00:00, 24.9MB/s]                                                    2022-05-08 20:10:31,152 INFO Download rate 14.2M/s
-2022-05-08 20:10:31,222 INFO Welcome to the CDS
-2022-05-08 20:10:31,222 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:10:31,293 INFO Request is queued
-2022-05-08 20:11:03,751 INFO Request is completed
-2022-05-08 20:11:03,751 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data1/adaptor.mars.internal-1652037059.2674344-21511-5-90d82584-813d-4946-bb05-0251d2e43f19.nc to worldwide_t2m_daily_four_2022-04-23.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:06, 1.26MB/s] 14%|█▍        | 1.15M/7.93M [00:00<00:01, 6.44MB/s] 87%|████████▋ | 6.86M/7.93M [00:00<00:00, 29.6MB/s]                                                    2022-05-08 20:11:04,238 INFO Download rate 16.3M/s
-2022-05-08 20:11:04,307 INFO Welcome to the CDS
-2022-05-08 20:11:04,307 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:11:04,381 INFO Request is completed
-2022-05-08 20:11:04,381 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data9/adaptor.mars.internal-1651621648.1194074-31780-6-955fe5b8-6234-42f7-a389-8059cc9438f4.nc to worldwide_t2m_daily_four_2022-04-24.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 147k/7.93M [00:00<00:05, 1.46MB/s] 17%|█▋        | 1.33M/7.93M [00:00<00:00, 7.67MB/s] 84%|████████▍ | 6.68M/7.93M [00:00<00:00, 28.6MB/s]                                                    2022-05-08 20:11:04,874 INFO Download rate 16.1M/s
-2022-05-08 20:11:04,944 INFO Welcome to the CDS
-2022-05-08 20:11:04,944 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:11:05,004 INFO Request is queued
-2022-05-08 20:11:26,019 INFO Request is completed
-2022-05-08 20:11:26,019 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data0/adaptor.mars.internal-1652037081.1699772-21555-3-35da9138-2f08-420a-9208-e0695eab12fa.nc to worldwide_t2m_daily_four_2022-04-25.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 94.0k/7.93M [00:00<00:08, 935kB/s] 10%|█         | 826k/7.93M [00:00<00:01, 4.63MB/s] 71%|███████   | 5.64M/7.93M [00:00<00:00, 24.7MB/s]                                                    2022-05-08 20:11:26,411 INFO Download rate 20.3M/s
-2022-05-08 20:11:26,481 INFO Welcome to the CDS
-2022-05-08 20:11:26,481 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:11:26,547 INFO Request is queued
-2022-05-08 20:11:39,927 INFO Request is completed
-2022-05-08 20:11:39,927 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data8/adaptor.mars.internal-1652037097.7767239-2155-9-3b0ee7d5-44e7-4958-b8fe-51e0833ba6af.nc to worldwide_t2m_daily_four_2022-04-26.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  4%|▍         | 323k/7.93M [00:00<00:02, 2.92MB/s] 53%|█████▎    | 4.21M/7.93M [00:00<00:00, 24.0MB/s]                                                    2022-05-08 20:11:40,328 INFO Download rate 19.8M/s
-2022-05-08 20:11:40,398 INFO Welcome to the CDS
-2022-05-08 20:11:40,398 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:11:40,463 INFO Request is queued
-2022-05-08 20:11:48,747 INFO Request is running
-2022-05-08 20:11:53,850 INFO Request is completed
-2022-05-08 20:11:53,850 INFO Downloading https://download-0011-clone.copernicus-climate.eu/cache-compute-0011/cache/data5/adaptor.mars.internal-1652037108.2774491-21653-6-6d5d9940-e7ab-4931-9945-a36ead4d534d.nc to worldwide_t2m_daily_four_2022-04-27.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 95.0k/7.93M [00:00<00:08, 930kB/s] 10%|█         | 820k/7.93M [00:00<00:01, 4.57MB/s] 70%|███████   | 5.56M/7.93M [00:00<00:00, 24.2MB/s]                                                    2022-05-08 20:11:54,243 INFO Download rate 20.2M/s
-2022-05-08 20:11:54,314 INFO Welcome to the CDS
-2022-05-08 20:11:54,314 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:11:54,376 INFO Request is queued
-2022-05-08 20:12:02,823 INFO Request is completed
-2022-05-08 20:12:02,823 INFO Downloading https://download-0004-clone.copernicus-climate.eu/cache-compute-0004/cache/data2/adaptor.mars.internal-1652037120.9048536-23652-5-6ef78c39-33e0-4eed-b78a-c4ac1ffb7c78.nc to worldwide_t2m_daily_four_2022-04-28.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:06, 1.31MB/s] 15%|█▍        | 1.16M/7.93M [00:00<00:01, 6.75MB/s] 80%|███████▉  | 6.31M/7.93M [00:00<00:00, 27.7MB/s]                                                    2022-05-08 20:12:03,305 INFO Download rate 16.5M/s
-2022-05-08 20:12:03,398 INFO Welcome to the CDS
-2022-05-08 20:12:03,398 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:12:03,502 INFO Request is queued
-2022-05-08 20:12:11,901 INFO Request is running
-2022-05-08 20:12:17,018 INFO Request is completed
-2022-05-08 20:12:17,019 INFO Downloading https://download-0013-clone.copernicus-climate.eu/cache-compute-0013/cache/data2/adaptor.mars.internal-1652037137.1883-26211-2-916d3d2f-3b15-4737-bc47-2b8999e8368f.nc to worldwide_t2m_daily_four_2022-04-29.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:07, 1.09MB/s] 15%|█▌        | 1.19M/7.93M [00:00<00:01, 5.79MB/s] 84%|████████▍ | 6.65M/7.93M [00:00<00:00, 24.4MB/s]                                                    2022-05-08 20:12:17,585 INFO Download rate 14M/s
-2022-05-08 20:12:17,681 INFO Welcome to the CDS
-2022-05-08 20:12:17,682 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:12:17,735 INFO Request is queued
-2022-05-08 20:12:26,063 INFO Request is completed
-2022-05-08 20:12:26,064 INFO Downloading https://download-0007-clone.copernicus-climate.eu/cache-compute-0007/cache/data2/adaptor.mars.internal-1652037144.3184354-31476-8-cf5fbf49-ae9e-4467-8c57-cdd676c489bc.nc to worldwide_t2m_daily_four_2022-04-30.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  1%|          | 43.0k/7.93M [00:00<00:25, 324kB/s]  1%|          | 76.0k/7.93M [00:00<00:29, 277kB/s]  2%|▏         | 128k/7.93M [00:00<00:26, 304kB/s]   2%|▏         | 176k/7.93M [00:00<00:22, 357kB/s]  3%|▎         | 213k/7.93M [00:00<00:22, 357kB/s]  3%|▎         | 249k/7.93M [00:00<00:29, 271kB/s]  4%|▎         | 285k/7.93M [00:00<00:28, 278kB/s]  4%|▍         | 315k/7.93M [00:01<00:32, 243kB/s]  4%|▍         | 341k/7.93M [00:01<00:38, 205kB/s]  4%|▍         | 363k/7.93M [00:01<00:43, 181kB/s]  5%|▍         | 384k/7.93M [00:01<00:47, 165kB/s]  6%|▌         | 448k/7.93M [00:01<00:30, 256kB/s]  6%|▌         | 476k/7.93M [00:01<00:34, 230kB/s]  6%|▋         | 512k/7.93M [00:02<00:31, 247kB/s]  7%|▋         | 568k/7.93M [00:02<00:25, 305kB/s]  7%|▋         | 600k/7.93M [00:02<00:36, 213kB/s]  8%|▊         | 664k/7.93M [00:02<00:26, 288kB/s]  9%|▊         | 702k/7.93M [00:02<00:26, 287kB/s]  9%|▉         | 735k/7.93M [00:02<00:32, 235kB/s]  9%|▉         | 763k/7.93M [00:03<00:40, 186kB/s] 10%|▉         | 786k/7.93M [00:03<00:41, 182kB/s] 10%|▉         | 807k/7.93M [00:03<00:48, 156kB/s] 10%|█         | 825k/7.93M [00:03<00:48, 153kB/s] 10%|█         | 847k/7.93M [00:03<00:50, 146kB/s] 12%|█▏        | 937k/7.93M [00:04<00:26, 280kB/s] 12%|█▏        | 968k/7.93M [00:04<00:29, 252kB/s] 12%|█▏        | 995k/7.93M [00:04<00:34, 210kB/s] 13%|█▎        | 0.99M/7.93M [00:04<00:38, 187kB/s] 13%|█▎        | 1.01M/7.93M [00:04<00:39, 183kB/s] 13%|█▎        | 1.03M/7.93M [00:04<00:45, 158kB/s] 13%|█▎        | 1.05M/7.93M [00:04<00:44, 161kB/s] 13%|█▎        | 1.07M/7.93M [00:05<00:46, 155kB/s] 14%|█▎        | 1.08M/7.93M [00:05<00:47, 151kB/s] 14%|█▍        | 1.10M/7.93M [00:05<00:48, 148kB/s] 14%|█▍        | 1.13M/7.93M [00:05<00:44, 159kB/s] 14%|█▍        | 1.15M/7.93M [00:05<00:42, 166kB/s] 15%|█▍        | 1.17M/7.93M [00:05<00:42, 166kB/s] 15%|█▍        | 1.18M/7.93M [00:05<00:42, 167kB/s] 15%|█▌        | 1.20M/7.93M [00:05<00:43, 161kB/s] 15%|█▌        | 1.21M/7.93M [00:06<00:44, 158kB/s] 16%|█▌        | 1.24M/7.93M [00:06<00:47, 146kB/s] 16%|█▌        | 1.25M/7.93M [00:06<00:45, 152kB/s] 16%|█▌        | 1.27M/7.93M [00:06<00:46, 152kB/s] 16%|█▌        | 1.29M/7.93M [00:06<00:46, 151kB/s] 17%|█▋        | 1.32M/7.93M [00:06<00:35, 196kB/s] 17%|█▋        | 1.34M/7.93M [00:06<00:35, 195kB/s] 17%|█▋        | 1.37M/7.93M [00:06<00:34, 199kB/s] 18%|█▊        | 1.39M/7.93M [00:07<00:35, 196kB/s] 18%|█▊        | 1.41M/7.93M [00:07<00:34, 198kB/s] 18%|█▊        | 1.43M/7.93M [00:07<00:38, 178kB/s] 18%|█▊        | 1.45M/7.93M [00:07<00:39, 174kB/s] 18%|█▊        | 1.47M/7.93M [00:07<00:38, 174kB/s] 19%|█▊        | 1.48M/7.93M [00:07<00:43, 154kB/s] 19%|█▉        | 1.51M/7.93M [00:07<00:42, 160kB/s] 19%|█▉        | 1.53M/7.93M [00:08<00:40, 167kB/s] 20%|█▉        | 1.55M/7.93M [00:08<00:40, 166kB/s] 20%|█▉        | 1.57M/7.93M [00:08<00:40, 165kB/s] 20%|██        | 1.59M/7.93M [00:08<00:40, 164kB/s] 20%|██        | 1.61M/7.93M [00:08<00:38, 172kB/s] 21%|██        | 1.63M/7.93M [00:08<00:39, 167kB/s] 21%|██        | 1.66M/7.93M [00:08<00:42, 156kB/s] 21%|██        | 1.68M/7.93M [00:08<00:41, 158kB/s] 21%|██▏       | 1.70M/7.93M [00:09<00:41, 156kB/s] 22%|██▏       | 1.72M/7.93M [00:09<00:42, 153kB/s] 22%|██▏       | 1.74M/7.93M [00:09<00:42, 153kB/s] 22%|██▏       | 1.75M/7.93M [00:09<00:42, 153kB/s] 22%|██▏       | 1.77M/7.93M [00:09<00:43, 148kB/s] 23%|██▎       | 1.79M/7.93M [00:09<00:42, 153kB/s] 23%|██▎       | 1.81M/7.93M [00:09<00:42, 151kB/s] 23%|██▎       | 1.82M/7.93M [00:09<00:42, 152kB/s] 23%|██▎       | 1.84M/7.93M [00:10<00:42, 149kB/s] 23%|██▎       | 1.86M/7.93M [00:10<00:44, 143kB/s] 24%|██▎       | 1.87M/7.93M [00:10<00:43, 145kB/s] 24%|██▍       | 1.89M/7.93M [00:10<00:43, 145kB/s] 24%|██▍       | 1.90M/7.93M [00:10<00:43, 145kB/s] 24%|██▍       | 1.92M/7.93M [00:10<00:43, 144kB/s] 25%|██▍       | 1.94M/7.93M [00:10<00:41, 153kB/s] 25%|██▍       | 1.96M/7.93M [00:10<00:40, 154kB/s] 25%|██▍       | 1.97M/7.93M [00:11<00:41, 150kB/s] 25%|██▌       | 2.00M/7.93M [00:11<00:38, 161kB/s] 25%|██▌       | 2.01M/7.93M [00:11<00:40, 152kB/s] 26%|██▌       | 2.04M/7.93M [00:11<00:39, 155kB/s] 26%|██▌       | 2.05M/7.93M [00:11<00:42, 145kB/s] 26%|██▌       | 2.08M/7.93M [00:11<00:43, 142kB/s] 26%|██▋       | 2.09M/7.93M [00:11<00:44, 137kB/s] 27%|██▋       | 2.11M/7.93M [00:12<00:43, 141kB/s] 27%|██▋       | 2.13M/7.93M [00:12<00:41, 146kB/s] 27%|██▋       | 2.15M/7.93M [00:12<00:42, 142kB/s] 27%|██▋       | 2.16M/7.93M [00:12<00:42, 143kB/s] 27%|██▋       | 2.18M/7.93M [00:12<00:43, 139kB/s] 28%|██▊       | 2.19M/7.93M [00:12<00:45, 133kB/s] 28%|██▊       | 2.21M/7.93M [00:12<00:45, 132kB/s] 28%|██▊       | 2.22M/7.93M [00:12<00:48, 123kB/s] 28%|██▊       | 2.25M/7.93M [00:13<00:49, 121kB/s] 29%|██▊       | 2.26M/7.93M [00:13<00:48, 123kB/s] 29%|██▊       | 2.28M/7.93M [00:13<00:47, 124kB/s] 29%|██▉       | 2.30M/7.93M [00:13<00:45, 131kB/s] 29%|██▉       | 2.33M/7.93M [00:13<00:42, 138kB/s] 30%|██▉       | 2.34M/7.93M [00:13<00:43, 134kB/s] 30%|██▉       | 2.37M/7.93M [00:14<00:41, 142kB/s] 30%|███       | 2.38M/7.93M [00:14<00:40, 142kB/s] 30%|███       | 2.40M/7.93M [00:14<00:40, 144kB/s] 31%|███       | 2.42M/7.93M [00:14<00:41, 139kB/s] 31%|███       | 2.44M/7.93M [00:14<00:41, 139kB/s] 31%|███       | 2.46M/7.93M [00:14<00:39, 146kB/s] 31%|███       | 2.47M/7.93M [00:14<00:40, 141kB/s] 31%|███▏      | 2.50M/7.93M [00:15<00:38, 149kB/s] 32%|███▏      | 2.51M/7.93M [00:15<00:39, 144kB/s] 32%|███▏      | 2.53M/7.93M [00:15<00:40, 139kB/s] 32%|███▏      | 2.55M/7.93M [00:15<00:39, 143kB/s] 32%|███▏      | 2.57M/7.93M [00:15<00:39, 142kB/s] 33%|███▎      | 2.59M/7.93M [00:15<00:38, 144kB/s] 33%|███▎      | 2.62M/7.93M [00:15<00:38, 145kB/s] 33%|███▎      | 2.63M/7.93M [00:15<00:39, 140kB/s] 33%|███▎      | 2.65M/7.93M [00:16<00:38, 144kB/s] 34%|███▎      | 2.67M/7.93M [00:16<00:37, 147kB/s] 34%|███▍      | 2.69M/7.93M [00:16<00:37, 146kB/s] 34%|███▍      | 2.71M/7.93M [00:16<00:36, 149kB/s] 34%|███▍      | 2.72M/7.93M [00:16<00:37, 147kB/s] 35%|███▍      | 2.75M/7.93M [00:16<00:35, 152kB/s] 35%|███▍      | 2.76M/7.93M [00:16<00:37, 144kB/s] 35%|███▌      | 2.78M/7.93M [00:17<00:37, 145kB/s] 35%|███▌      | 2.80M/7.93M [00:17<00:37, 145kB/s] 36%|███▌      | 2.82M/7.93M [00:17<00:37, 145kB/s] 36%|███▌      | 2.84M/7.93M [00:17<00:35, 151kB/s] 36%|███▌      | 2.86M/7.93M [00:17<00:35, 148kB/s] 36%|███▋      | 2.88M/7.93M [00:17<00:34, 152kB/s] 37%|███▋      | 2.90M/7.93M [00:17<00:35, 150kB/s] 37%|███▋      | 2.92M/7.93M [00:18<00:33, 155kB/s] 37%|███▋      | 2.94M/7.93M [00:18<00:33, 155kB/s] 37%|███▋      | 2.95M/7.93M [00:18<00:35, 147kB/s] 38%|███▊      | 2.97M/7.93M [00:18<00:34, 151kB/s] 38%|███▊      | 3.00M/7.93M [00:18<00:34, 148kB/s] 38%|███▊      | 3.01M/7.93M [00:18<00:35, 144kB/s] 38%|███▊      | 3.04M/7.93M [00:18<00:34, 147kB/s] 38%|███▊      | 3.05M/7.93M [00:18<00:34, 147kB/s] 39%|███▊      | 3.07M/7.93M [00:19<00:35, 144kB/s] 39%|███▉      | 3.08M/7.93M [00:19<00:35, 143kB/s] 39%|███▉      | 3.11M/7.93M [00:19<00:33, 151kB/s] 39%|███▉      | 3.13M/7.93M [00:19<00:33, 151kB/s] 40%|███▉      | 3.15M/7.93M [00:19<00:32, 153kB/s] 40%|███▉      | 3.17M/7.93M [00:19<00:30, 165kB/s] 40%|████      | 3.19M/7.93M [00:19<00:31, 159kB/s] 40%|████      | 3.20M/7.93M [00:19<00:31, 156kB/s] 41%|████      | 3.22M/7.93M [00:20<00:30, 163kB/s] 41%|████      | 3.24M/7.93M [00:20<00:31, 157kB/s] 41%|████      | 3.26M/7.93M [00:20<00:30, 163kB/s] 41%|████▏     | 3.29M/7.93M [00:20<00:29, 163kB/s] 42%|████▏     | 3.30M/7.93M [00:20<00:30, 158kB/s] 42%|████▏     | 3.32M/7.93M [00:20<00:30, 158kB/s] 42%|████▏     | 3.34M/7.93M [00:20<00:29, 164kB/s] 42%|████▏     | 3.36M/7.93M [00:20<00:29, 163kB/s] 43%|████▎     | 3.37M/7.93M [00:21<00:30, 157kB/s] 43%|████▎     | 3.40M/7.93M [00:21<00:29, 161kB/s] 43%|████▎     | 3.42M/7.93M [00:21<00:29, 159kB/s] 43%|████▎     | 3.44M/7.93M [00:21<00:31, 151kB/s] 44%|████▎     | 3.45M/7.93M [00:21<00:31, 148kB/s] 44%|████▍     | 3.47M/7.93M [00:21<00:29, 157kB/s] 44%|████▍     | 3.49M/7.93M [00:21<00:30, 154kB/s] 44%|████▍     | 3.51M/7.93M [00:22<00:29, 158kB/s] 45%|████▍     | 3.54M/7.93M [00:22<00:27, 168kB/s] 45%|████▍     | 3.55M/7.93M [00:22<00:27, 166kB/s] 45%|████▌     | 3.57M/7.93M [00:22<00:28, 162kB/s] 45%|████▌     | 3.59M/7.93M [00:22<00:28, 157kB/s] 45%|████▌     | 3.61M/7.93M [00:22<00:29, 153kB/s] 46%|████▌     | 3.62M/7.93M [00:22<00:29, 152kB/s] 46%|████▌     | 3.65M/7.93M [00:22<00:30, 147kB/s] 46%|████▌     | 3.66M/7.93M [00:23<00:30, 144kB/s] 46%|████▋     | 3.69M/7.93M [00:23<00:29, 149kB/s] 47%|████▋     | 3.71M/7.93M [00:23<00:27, 159kB/s] 47%|████▋     | 3.73M/7.93M [00:23<00:26, 167kB/s] 47%|████▋     | 3.75M/7.93M [00:23<00:26, 166kB/s] 47%|████▋     | 3.77M/7.93M [00:23<00:27, 160kB/s] 48%|████▊     | 3.79M/7.93M [00:23<00:26, 161kB/s] 48%|████▊     | 3.80M/7.93M [00:23<00:28, 153kB/s] 48%|████▊     | 3.82M/7.93M [00:24<00:28, 150kB/s] 48%|████▊     | 3.83M/7.93M [00:24<00:28, 150kB/s] 49%|████▊     | 3.85M/7.93M [00:24<00:28, 148kB/s] 49%|████▊     | 3.87M/7.93M [00:24<00:28, 148kB/s] 49%|████▉     | 3.88M/7.93M [00:24<00:28, 147kB/s] 49%|████▉     | 3.90M/7.93M [00:24<00:28, 150kB/s] 49%|████▉     | 3.92M/7.93M [00:24<00:25, 163kB/s] 50%|████▉     | 3.94M/7.93M [00:24<00:27, 154kB/s] 50%|████▉     | 3.95M/7.93M [00:25<00:28, 146kB/s] 50%|█████     | 3.97M/7.93M [00:25<00:27, 154kB/s] 50%|█████     | 3.99M/7.93M [00:25<00:26, 154kB/s] 51%|█████     | 4.01M/7.93M [00:25<00:25, 163kB/s] 51%|█████     | 4.03M/7.93M [00:25<00:26, 157kB/s] 51%|█████     | 4.04M/7.93M [00:25<00:26, 152kB/s] 51%|█████▏    | 4.07M/7.93M [00:25<00:25, 159kB/s] 52%|█████▏    | 4.09M/7.93M [00:25<00:24, 162kB/s] 52%|█████▏    | 4.11M/7.93M [00:26<00:26, 152kB/s] 52%|█████▏    | 4.12M/7.93M [00:26<00:27, 146kB/s] 52%|█████▏    | 4.15M/7.93M [00:26<00:25, 156kB/s] 52%|█████▏    | 4.16M/7.93M [00:26<00:26, 151kB/s] 53%|█████▎    | 4.18M/7.93M [00:26<00:26, 148kB/s] 53%|█████▎    | 4.20M/7.93M [00:26<00:25, 156kB/s] 53%|█████▎    | 4.22M/7.93M [00:26<00:25, 152kB/s] 53%|█████▎    | 4.24M/7.93M [00:26<00:26, 148kB/s] 54%|█████▍    | 4.26M/7.93M [00:27<00:25, 149kB/s] 54%|█████▍    | 4.29M/7.93M [00:27<00:23, 164kB/s] 54%|█████▍    | 4.30M/7.93M [00:27<00:23, 163kB/s] 54%|█████▍    | 4.32M/7.93M [00:27<00:23, 162kB/s] 55%|█████▍    | 4.34M/7.93M [00:27<00:23, 158kB/s] 55%|█████▍    | 4.36M/7.93M [00:27<00:25, 147kB/s] 55%|█████▌    | 4.38M/7.93M [00:27<00:25, 149kB/s] 55%|█████▌    | 4.40M/7.93M [00:28<00:25, 147kB/s] 56%|█████▌    | 4.41M/7.93M [00:28<00:25, 143kB/s] 56%|█████▌    | 4.43M/7.93M [00:28<00:25, 143kB/s] 56%|█████▌    | 4.45M/7.93M [00:28<00:24, 152kB/s] 56%|█████▋    | 4.47M/7.93M [00:28<00:25, 145kB/s] 57%|█████▋    | 4.49M/7.93M [00:28<00:24, 149kB/s] 57%|█████▋    | 4.51M/7.93M [00:28<00:23, 151kB/s] 57%|█████▋    | 4.53M/7.93M [00:28<00:23, 151kB/s] 57%|█████▋    | 4.54M/7.93M [00:29<00:23, 149kB/s] 58%|█████▊    | 4.57M/7.93M [00:29<00:23, 148kB/s] 58%|█████▊    | 4.58M/7.93M [00:29<00:23, 148kB/s] 58%|█████▊    | 4.61M/7.93M [00:29<00:23, 146kB/s] 58%|█████▊    | 4.62M/7.93M [00:29<00:24, 139kB/s] 58%|█████▊    | 4.64M/7.93M [00:29<00:24, 143kB/s] 59%|█████▊    | 4.65M/7.93M [00:29<00:24, 140kB/s] 59%|█████▉    | 4.67M/7.93M [00:30<00:25, 132kB/s] 59%|█████▉    | 4.69M/7.93M [00:30<00:26, 126kB/s] 59%|█████▉    | 4.70M/7.93M [00:30<00:27, 125kB/s] 59%|█████▉    | 4.72M/7.93M [00:30<00:25, 131kB/s] 60%|█████▉    | 4.74M/7.93M [00:30<00:23, 141kB/s] 60%|█████▉    | 4.76M/7.93M [00:30<00:23, 142kB/s] 60%|██████    | 4.78M/7.93M [00:30<00:23, 140kB/s] 60%|██████    | 4.79M/7.93M [00:31<00:23, 138kB/s] 61%|██████    | 4.82M/7.93M [00:31<00:23, 136kB/s] 61%|██████    | 4.83M/7.93M [00:31<00:24, 134kB/s] 61%|██████    | 4.85M/7.93M [00:31<00:24, 133kB/s] 61%|██████▏   | 4.87M/7.93M [00:31<00:23, 137kB/s] 62%|██████▏   | 4.90M/7.93M [00:31<00:22, 141kB/s] 62%|██████▏   | 4.91M/7.93M [00:31<00:25, 126kB/s] 62%|██████▏   | 4.94M/7.93M [00:32<00:23, 132kB/s] 62%|██████▏   | 4.95M/7.93M [00:32<00:23, 133kB/s] 63%|██████▎   | 4.97M/7.93M [00:32<00:23, 135kB/s] 63%|██████▎   | 4.99M/7.93M [00:32<00:22, 140kB/s] 63%|██████▎   | 5.01M/7.93M [00:32<00:21, 140kB/s] 63%|██████▎   | 5.03M/7.93M [00:32<00:21, 141kB/s] 64%|██████▎   | 5.04M/7.93M [00:32<00:21, 143kB/s] 64%|██████▍   | 5.07M/7.93M [00:33<00:20, 147kB/s] 64%|██████▍   | 5.08M/7.93M [00:33<00:20, 145kB/s] 64%|██████▍   | 5.10M/7.93M [00:33<00:20, 142kB/s] 65%|██████▍   | 5.12M/7.93M [00:33<00:20, 144kB/s] 65%|██████▍   | 5.14M/7.93M [00:33<00:20, 142kB/s] 65%|██████▌   | 5.16M/7.93M [00:33<00:19, 146kB/s] 65%|██████▌   | 5.19M/7.93M [00:33<00:19, 145kB/s] 66%|██████▌   | 5.20M/7.93M [00:34<00:20, 142kB/s] 66%|██████▌   | 5.22M/7.93M [00:34<00:19, 143kB/s] 66%|██████▌   | 5.24M/7.93M [00:34<00:19, 145kB/s] 66%|██████▋   | 5.26M/7.93M [00:34<00:19, 140kB/s] 67%|██████▋   | 5.28M/7.93M [00:34<00:19, 145kB/s] 67%|██████▋   | 5.29M/7.93M [00:34<00:19, 138kB/s] 67%|██████▋   | 5.32M/7.93M [00:34<00:20, 134kB/s] 67%|██████▋   | 5.33M/7.93M [00:35<00:20, 130kB/s] 68%|██████▊   | 5.36M/7.93M [00:35<00:20, 132kB/s] 68%|██████▊   | 5.37M/7.93M [00:35<00:21, 127kB/s] 68%|██████▊   | 5.39M/7.93M [00:35<00:20, 127kB/s] 68%|██████▊   | 5.41M/7.93M [00:35<00:19, 133kB/s] 68%|██████▊   | 5.43M/7.93M [00:35<00:19, 132kB/s] 69%|██████▊   | 5.45M/7.93M [00:36<00:20, 129kB/s] 69%|██████▉   | 5.47M/7.93M [00:36<00:20, 128kB/s] 69%|██████▉   | 5.49M/7.93M [00:36<00:20, 126kB/s] 69%|██████▉   | 5.51M/7.93M [00:36<00:19, 128kB/s] 70%|██████▉   | 5.52M/7.93M [00:36<00:19, 131kB/s] 70%|██████▉   | 5.54M/7.93M [00:36<00:18, 137kB/s] 70%|███████   | 5.57M/7.93M [00:36<00:16, 148kB/s] 70%|███████   | 5.58M/7.93M [00:37<00:16, 147kB/s] 71%|███████   | 5.61M/7.93M [00:37<00:15, 156kB/s] 71%|███████   | 5.62M/7.93M [00:37<00:15, 156kB/s] 71%|███████   | 5.64M/7.93M [00:37<00:15, 154kB/s] 71%|███████▏  | 5.66M/7.93M [00:37<00:15, 158kB/s] 72%|███████▏  | 5.68M/7.93M [00:37<00:15, 149kB/s] 72%|███████▏  | 5.70M/7.93M [00:37<00:15, 153kB/s] 72%|███████▏  | 5.72M/7.93M [00:37<00:15, 146kB/s] 72%|███████▏  | 5.74M/7.93M [00:38<00:15, 147kB/s] 73%|███████▎  | 5.76M/7.93M [00:38<00:15, 146kB/s] 73%|███████▎  | 5.77M/7.93M [00:38<00:15, 146kB/s] 73%|███████▎  | 5.79M/7.93M [00:38<00:13, 160kB/s] 73%|███████▎  | 5.81M/7.93M [00:38<00:14, 153kB/s] 74%|███████▎  | 5.83M/7.93M [00:38<00:14, 153kB/s] 74%|███████▍  | 5.86M/7.93M [00:38<00:13, 156kB/s] 74%|███████▍  | 5.87M/7.93M [00:39<00:14, 147kB/s] 74%|███████▍  | 5.89M/7.93M [00:39<00:14, 144kB/s] 75%|███████▍  | 5.91M/7.93M [00:39<00:14, 143kB/s] 75%|███████▍  | 5.93M/7.93M [00:39<00:15, 133kB/s] 75%|███████▍  | 5.94M/7.93M [00:39<00:16, 130kB/s] 75%|███████▌  | 5.97M/7.93M [00:39<00:14, 138kB/s] 76%|███████▌  | 5.99M/7.93M [00:39<00:14, 142kB/s] 76%|███████▌  | 6.01M/7.93M [00:40<00:13, 147kB/s] 76%|███████▌  | 6.03M/7.93M [00:40<00:13, 150kB/s] 76%|███████▌  | 6.04M/7.93M [00:40<00:13, 145kB/s] 76%|███████▋  | 6.06M/7.93M [00:40<00:14, 133kB/s] 77%|███████▋  | 6.08M/7.93M [00:40<00:14, 135kB/s] 77%|███████▋  | 6.10M/7.93M [00:40<00:14, 129kB/s] 77%|███████▋  | 6.12M/7.93M [00:40<00:14, 133kB/s] 77%|███████▋  | 6.13M/7.93M [00:40<00:14, 135kB/s] 77%|███████▋  | 6.14M/7.93M [00:41<00:14, 130kB/s] 78%|███████▊  | 6.16M/7.93M [00:41<00:14, 126kB/s] 78%|███████▊  | 6.18M/7.93M [00:41<00:14, 130kB/s] 78%|███████▊  | 6.19M/7.93M [00:41<00:14, 130kB/s] 78%|███████▊  | 6.22M/7.93M [00:41<00:13, 131kB/s] 79%|███████▊  | 6.23M/7.93M [00:41<00:13, 130kB/s] 79%|███████▉  | 6.26M/7.93M [00:42<00:13, 131kB/s] 79%|███████▉  | 6.28M/7.93M [00:42<00:12, 134kB/s] 79%|███████▉  | 6.29M/7.93M [00:42<00:12, 133kB/s] 80%|███████▉  | 6.31M/7.93M [00:42<00:12, 135kB/s] 80%|███████▉  | 6.33M/7.93M [00:42<00:11, 142kB/s] 80%|████████  | 6.35M/7.93M [00:42<00:11, 145kB/s] 80%|████████  | 6.37M/7.93M [00:42<00:11, 147kB/s] 81%|████████  | 6.39M/7.93M [00:42<00:11, 145kB/s] 81%|████████  | 6.41M/7.93M [00:43<00:10, 145kB/s] 81%|████████  | 6.43M/7.93M [00:43<00:10, 146kB/s] 81%|████████  | 6.44M/7.93M [00:43<00:10, 147kB/s] 82%|████████▏ | 6.47M/7.93M [00:43<00:09, 159kB/s] 82%|████████▏ | 6.48M/7.93M [00:43<00:10, 144kB/s] 82%|████████▏ | 6.51M/7.93M [00:43<00:10, 148kB/s] 82%|████████▏ | 6.53M/7.93M [00:43<00:08, 165kB/s] 83%|████████▎ | 6.55M/7.93M [00:44<00:08, 164kB/s] 83%|████████▎ | 6.57M/7.93M [00:44<00:08, 169kB/s] 83%|████████▎ | 6.58M/7.93M [00:44<00:08, 165kB/s] 83%|████████▎ | 6.60M/7.93M [00:44<00:08, 158kB/s] 83%|████████▎ | 6.62M/7.93M [00:44<00:08, 157kB/s] 84%|████████▎ | 6.63M/7.93M [00:44<00:08, 155kB/s] 84%|████████▍ | 6.65M/7.93M [00:44<00:09, 143kB/s] 84%|████████▍ | 6.67M/7.93M [00:44<00:08, 147kB/s] 84%|████████▍ | 6.69M/7.93M [00:45<00:09, 142kB/s] 85%|████████▍ | 6.71M/7.93M [00:45<00:08, 156kB/s] 85%|████████▍ | 6.73M/7.93M [00:45<00:07, 176kB/s] 85%|████████▌ | 6.75M/7.93M [00:45<00:07, 157kB/s] 85%|████████▌ | 6.76M/7.93M [00:45<00:08, 147kB/s] 85%|████████▌ | 6.78M/7.93M [00:45<00:08, 141kB/s] 86%|████████▌ | 6.80M/7.93M [00:45<00:08, 146kB/s] 86%|████████▌ | 6.83M/7.93M [00:45<00:07, 152kB/s] 86%|████████▋ | 6.84M/7.93M [00:46<00:07, 152kB/s] 86%|████████▋ | 6.86M/7.93M [00:46<00:07, 151kB/s] 87%|████████▋ | 6.88M/7.93M [00:46<00:07, 154kB/s] 87%|████████▋ | 6.90M/7.93M [00:46<00:07, 150kB/s] 87%|████████▋ | 6.92M/7.93M [00:46<00:06, 159kB/s] 87%|████████▋ | 6.94M/7.93M [00:46<00:06, 154kB/s] 88%|████████▊ | 6.96M/7.93M [00:46<00:07, 145kB/s] 88%|████████▊ | 6.97M/7.93M [00:47<00:06, 145kB/s] 88%|████████▊ | 6.99M/7.93M [00:47<00:06, 145kB/s] 88%|████████▊ | 7.01M/7.93M [00:47<00:06, 145kB/s] 89%|████████▊ | 7.03M/7.93M [00:47<00:06, 146kB/s] 89%|████████▉ | 7.05M/7.93M [00:47<00:06, 152kB/s] 89%|████████▉ | 7.07M/7.93M [00:47<00:05, 153kB/s] 89%|████████▉ | 7.09M/7.93M [00:47<00:05, 156kB/s] 90%|████████▉ | 7.11M/7.93M [00:47<00:05, 157kB/s] 90%|████████▉ | 7.13M/7.93M [00:48<00:05, 159kB/s] 90%|█████████ | 7.15M/7.93M [00:48<00:05, 154kB/s] 90%|█████████ | 7.16M/7.93M [00:48<00:05, 153kB/s] 91%|█████████ | 7.19M/7.93M [00:48<00:04, 157kB/s] 91%|█████████ | 7.21M/7.93M [00:48<00:04, 163kB/s] 91%|█████████ | 7.22M/7.93M [00:48<00:04, 155kB/s] 91%|█████████▏| 7.24M/7.93M [00:48<00:04, 157kB/s] 91%|█████████▏| 7.26M/7.93M [00:48<00:04, 151kB/s] 92%|█████████▏| 7.27M/7.93M [00:49<00:04, 145kB/s] 92%|█████████▏| 7.29M/7.93M [00:49<00:04, 146kB/s] 92%|█████████▏| 7.30M/7.93M [00:49<00:04, 134kB/s] 92%|█████████▏| 7.32M/7.93M [00:49<00:05, 125kB/s] 93%|█████████▎| 7.34M/7.93M [00:49<00:04, 140kB/s] 93%|█████████▎| 7.36M/7.93M [00:49<00:04, 145kB/s] 93%|█████████▎| 7.38M/7.93M [00:49<00:03, 156kB/s] 93%|█████████▎| 7.40M/7.93M [00:49<00:03, 146kB/s] 93%|█████████▎| 7.41M/7.93M [00:50<00:03, 141kB/s] 94%|█████████▍| 7.44M/7.93M [00:50<00:03, 145kB/s] 94%|█████████▍| 7.45M/7.93M [00:50<00:03, 146kB/s] 94%|█████████▍| 7.47M/7.93M [00:50<00:03, 155kB/s] 95%|█████████▍| 7.50M/7.93M [00:50<00:02, 160kB/s] 95%|█████████▍| 7.52M/7.93M [00:50<00:02, 163kB/s] 95%|█████████▌| 7.54M/7.93M [00:50<00:02, 160kB/s] 95%|█████████▌| 7.56M/7.93M [00:51<00:02, 173kB/s] 96%|█████████▌| 7.58M/7.93M [00:51<00:02, 171kB/s] 96%|█████████▌| 7.59M/7.93M [00:51<00:02, 170kB/s] 96%|█████████▌| 7.62M/7.93M [00:51<00:01, 173kB/s] 96%|█████████▌| 7.63M/7.93M [00:51<00:01, 172kB/s] 97%|█████████▋| 7.65M/7.93M [00:51<00:01, 183kB/s] 97%|█████████▋| 7.67M/7.93M [00:51<00:01, 182kB/s] 97%|█████████▋| 7.69M/7.93M [00:51<00:01, 184kB/s] 97%|█████████▋| 7.72M/7.93M [00:51<00:01, 189kB/s] 98%|█████████▊| 7.74M/7.93M [00:52<00:01, 189kB/s] 98%|█████████▊| 7.76M/7.93M [00:52<00:00, 185kB/s] 98%|█████████▊| 7.78M/7.93M [00:52<00:00, 183kB/s] 98%|█████████▊| 7.80M/7.93M [00:52<00:00, 172kB/s] 99%|█████████▊| 7.83M/7.93M [00:52<00:00, 177kB/s] 99%|█████████▉| 7.84M/7.93M [00:52<00:00, 177kB/s] 99%|█████████▉| 7.86M/7.93M [00:52<00:00, 177kB/s] 99%|█████████▉| 7.88M/7.93M [00:52<00:00, 172kB/s]100%|█████████▉| 7.90M/7.93M [00:53<00:00, 171kB/s]100%|█████████▉| 7.92M/7.93M [00:53<00:00, 175kB/s]                                                   2022-05-08 20:13:19,452 INFO Download rate 152.1K/s
-2022-05-08 20:13:19,549 INFO Welcome to the CDS
-2022-05-08 20:13:19,549 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:13:19,603 INFO Request is queued
-2022-05-08 20:13:52,146 INFO Request is completed
-2022-05-08 20:13:52,146 INFO Downloading https://download-0015-clone.copernicus-climate.eu/cache-compute-0015/cache/data4/adaptor.mars.internal-1652037223.0302088-6926-12-b3af08de-d307-4d61-9759-97057d63b5c3.nc to worldwide_t2m_daily_four_2022-05-01.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 164k/7.93M [00:00<00:05, 1.61MB/s] 16%|█▌        | 1.27M/7.93M [00:00<00:00, 7.20MB/s] 80%|███████▉  | 6.33M/7.93M [00:00<00:00, 27.0MB/s]                                                    2022-05-08 20:13:52,640 INFO Download rate 16.1M/s
-2022-05-08 20:13:52,739 INFO Welcome to the CDS
-2022-05-08 20:13:52,740 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:13:52,794 INFO Request is queued
-2022-05-08 20:14:13,885 INFO Request is completed
-2022-05-08 20:14:13,886 INFO Downloading https://download-0010-clone.copernicus-climate.eu/cache-compute-0010/cache/data3/adaptor.mars.internal-1652037251.6273792-4744-6-1f42207c-b6e9-4777-91a7-49548bf23239.nc to worldwide_t2m_daily_four_2022-05-02.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 129k/7.93M [00:00<00:07, 1.08MB/s] 14%|█▍        | 1.15M/7.93M [00:00<00:01, 5.58MB/s] 79%|███████▉  | 6.30M/7.93M [00:00<00:00, 23.1MB/s]                                                    2022-05-08 20:14:14,451 INFO Download rate 14M/s
-2022-05-08 20:14:14,545 INFO Welcome to the CDS
-2022-05-08 20:14:14,545 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:14:14,600 INFO Request is queued
-2022-05-08 20:14:47,144 INFO Request is completed
-2022-05-08 20:14:47,144 INFO Downloading https://download-0002-clone.copernicus-climate.eu/cache-compute-0002/cache/data4/adaptor.mars.internal-1652037275.5314124-6023-16-87730d62-fd64-4383-885d-578cc8ab13d7.nc to worldwide_t2m_daily_four_2022-05-03.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 133k/7.93M [00:00<00:06, 1.34MB/s] 15%|█▍        | 1.16M/7.93M [00:00<00:01, 6.74MB/s] 82%|████████▏ | 6.53M/7.93M [00:00<00:00, 28.8MB/s]                                                    2022-05-08 20:14:47,621 INFO Download rate 16.6M/s
-2022-05-08 20:14:47,718 INFO Welcome to the CDS
-2022-05-08 20:14:47,718 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:14:47,773 INFO Request is queued
-2022-05-08 20:15:08,868 INFO Request is completed
-2022-05-08 20:15:08,868 INFO Downloading https://download-0000-clone.copernicus-climate.eu/cache-compute-0000/cache/data8/adaptor.mars.internal-1652037305.453971-25333-12-d2a451e7-d06f-45b5-979a-b3009dfb75e4.nc to worldwide_t2m_daily_four_2022-05-04.nc (7.9M)
-  0%|          | 0.00/7.93M [00:00<?, ?B/s]  2%|▏         | 130k/7.93M [00:00<00:07, 1.09MB/s] 14%|█▍        | 1.15M/7.93M [00:00<00:01, 5.61MB/s] 83%|████████▎ | 6.59M/7.93M [00:00<00:00, 26.6MB/s]                                                    2022-05-08 20:15:09,429 INFO Download rate 14.2M/s
-2022-05-08 20:15:09,521 INFO Welcome to the CDS
-2022-05-08 20:15:09,521 INFO Sending request to https://cds.climate.copernicus.eu/api/v2/resources/reanalysis-era5-single-levels
-2022-05-08 20:15:09,575 INFO Request is queued
-2022-05-08 20:17:03,501 INFO Request is failed
-2022-05-08 20:17:03,502 ERROR Message: no data is available within your requested subset
-2022-05-08 20:17:03,502 ERROR Reason:  Request returned no data
-2022-05-08 20:17:03,502 ERROR   Traceback (most recent call last):
-2022-05-08 20:17:03,502 ERROR     File "/opt/cdstoolbox/cdscompute/cdscompute/cdshandlers/services/handler.py", line 59, in handle_request
-2022-05-08 20:17:03,502 ERROR       result = cached(context.method, proc, context, context.args, context.kwargs)
-2022-05-08 20:17:03,502 ERROR     File "/opt/cdstoolbox/cdscompute/cdscompute/caching.py", line 108, in cached
-2022-05-08 20:17:03,502 ERROR       result = proc(context, *context.args, **context.kwargs)
-2022-05-08 20:17:03,502 ERROR     File "/opt/cdstoolbox/cdscompute/cdscompute/services.py", line 124, in __call__
-2022-05-08 20:17:03,502 ERROR       return p(*args, **kwargs)
-2022-05-08 20:17:03,502 ERROR     File "/opt/cdstoolbox/cdscompute/cdscompute/services.py", line 60, in __call__
-2022-05-08 20:17:03,502 ERROR       return self.proc(context, *args, **kwargs)
-2022-05-08 20:17:03,502 ERROR     File "/home/cds/cdsservices/services/mars/mars.py", line 47, in internal
-2022-05-08 20:17:03,502 ERROR       return mars(context, request, **kwargs)
-2022-05-08 20:17:03,502 ERROR     File "/home/cds/cdsservices/services/mars/mars.py", line 19, in mars
-2022-05-08 20:17:03,502 ERROR       execute_mars(context, requests)
-2022-05-08 20:17:03,502 ERROR     File "/home/cds/cdsservices/services/mars/execute_mars.py", line 25, in execute_mars
-2022-05-08 20:17:03,502 ERROR       raise NoDataException("Request returned no data", '')
-2022-05-08 20:17:03,502 ERROR   cdsinf.exceptions.NoDataException: Request returned no data
-Traceback (most recent call last):
-  File "/rds/general/user/rmp15/home/git/ERA5-grids-into-national-subnational-boundaries-Worldwide/prog/01_extract_netcdf/downloading_netcdf_files_day_sep_era5_cdsapi.py", line 99, in <module>
-    retrieve_era5_worldwide_sep_onevar(start, end)
-  File "/rds/general/user/rmp15/home/git/ERA5-grids-into-national-subnational-boundaries-Worldwide/prog/01_extract_netcdf/downloading_netcdf_files_day_sep_era5_cdsapi.py", line 70, in retrieve_era5_worldwide_sep_onevar
-    era5_request_worldwide(date, target)
-  File "/rds/general/user/rmp15/home/git/ERA5-grids-into-national-subnational-boundaries-Worldwide/prog/01_extract_netcdf/downloading_netcdf_files_day_sep_era5_cdsapi.py", line 95, in era5_request_worldwide
-    target)
-  File "/rds/general/user/rmp15/home/anaconda3/lib/python3.7/site-packages/cdsapi/api.py", line 348, in retrieve
-    result = self._api("%s/resources/%s" % (self.url, name), request, "POST")
-  File "/rds/general/user/rmp15/home/anaconda3/lib/python3.7/site-packages/cdsapi/api.py", line 508, in _api
-    % (reply["error"].get("message"), reply["error"].get("reason"))
-Exception: no data is available within your requested subset. Request returned no data.
